@@ -3,7 +3,7 @@
 
 
 
-This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:  and Arts and Entertainment.
+**This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:**  and Arts and Entertainment.
 
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_source=1053&utm_campaign=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
@@ -40,7 +40,7 @@ This job repository is your go-to resource for discovering and sharing the lates
 
 ---
 <h4>
-Only jobs posted in the last 7 days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, see the full spreadsheet below:
 </h4>
@@ -77,7 +77,7 @@ For a complete list, see the full spreadsheet below:
 | **[Audacy](https://audacyinc.com/)** | **[Audacy Rochester Radio/Audio Programming Internship](https://jobright.ai/jobs/info/668c6182980e9b9331fff20f?utm_source=1053&utm_campaign=git)** | Rochester, NY | On Site | Jul 08 |
 | **[CLD PR](https://cldstylehouse.com)** | **[CLD SUMMER PARTY EVENT INTERN](https://jobright.ai/jobs/info/668c326b080f3f924dacb9ed?utm_source=1053&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 08 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[University Mascot](https://jobright.ai/jobs/info/668c2960dbe1aedcdfe00a17?utm_source=1053&utm_campaign=git)** | Riverside, CA | On Site | Jul 08 |
-| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/668bdd8a62e0ee789c7842ab?utm_source=1053&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 08 |
+| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/668d1cc5c3edd97e56c826a7?utm_source=1053&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 08 |
 | **[Logic Auto](https://www.linkedin.com/company/80282350)** | **[Content Creator](https://jobright.ai/jobs/info/668bd971ac083f9791920a77?utm_source=1053&utm_campaign=git)** | Greater Boston | Hybrid | Jul 08 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship Fall 2024- Austin- San Antonio](https://jobright.ai/jobs/info/664e0027d79e0cf7655016da?utm_source=1053&utm_campaign=git)** | Austin, TX | On Site | Jul 08 |
 | **[New England Public Media](https://www.nepm.org/)** | **[NEPM News Intern - Fall 2024](https://jobright.ai/jobs/info/668b6001d3443b9c15fdfd44?utm_source=1053&utm_campaign=git)** | Springfield, MA | Hybrid | Jul 08 |
