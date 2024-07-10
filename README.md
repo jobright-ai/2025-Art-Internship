@@ -87,8 +87,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[The World News Internship - Fall 2024](https://jobright.ai/jobs/info/668b2bc2f0119e53a8f6ad36?utm_source=1053&utm_campaign=git)** | United States | Remote | Jul 07 |
 | ↳ | **[GBH News Politics Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a08?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 | ↳ | **[NOVA Broadcast Research Internship - Fall 2024](https://jobright.ai/jobs/info/668b2bc2f0119e53a8f6ad53?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
-| ↳ | **[GBH News Education Desk Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a22?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 | ↳ | **[GBH News Boston Public Radio Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a04?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
+| ↳ | **[GBH News Education Desk Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a22?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 | ↳ | **[GBH News "Under the Radar" Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a17?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 | **[Manhattan District Attorney's Office](http://manhattanda.org)** | **[Spanish Interpreter/Translator Intern](https://jobright.ai/jobs/info/668a5cb8e378244948cf80cc?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 07 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Publishing Intern](https://jobright.ai/jobs/info/668a43f1bc2351b3cbca838e?utm_source=1053&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 07 |
