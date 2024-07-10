@@ -77,7 +77,7 @@ For a complete list, see the full spreadsheet below:
 | **[Audacy](https://audacyinc.com/)** | **[Audacy Rochester Radio/Audio Programming Internship](https://jobright.ai/jobs/info/668c6182980e9b9331fff20f?utm_source=1053&utm_campaign=git)** | Rochester, NY | On Site | Jul 08 |
 | **[CLD PR](https://cldstylehouse.com)** | **[CLD SUMMER PARTY EVENT INTERN](https://jobright.ai/jobs/info/668c326b080f3f924dacb9ed?utm_source=1053&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 08 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[University Mascot](https://jobright.ai/jobs/info/668c2960dbe1aedcdfe00a17?utm_source=1053&utm_campaign=git)** | Riverside, CA | On Site | Jul 08 |
-| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/668d1cc5c3edd97e56c826a7?utm_source=1053&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 08 |
+| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/668bdd8a62e0ee789c7842a3?utm_source=1053&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 08 |
 | **[Logic Auto](https://www.linkedin.com/company/80282350)** | **[Content Creator](https://jobright.ai/jobs/info/668bd971ac083f9791920a77?utm_source=1053&utm_campaign=git)** | Greater Boston | Hybrid | Jul 08 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship Fall 2024- Austin- San Antonio](https://jobright.ai/jobs/info/664e0027d79e0cf7655016da?utm_source=1053&utm_campaign=git)** | Austin, TX | On Site | Jul 08 |
 | **[New England Public Media](https://www.nepm.org/)** | **[NEPM News Intern - Fall 2024](https://jobright.ai/jobs/info/668b6001d3443b9c15fdfd44?utm_source=1053&utm_campaign=git)** | Springfield, MA | Hybrid | Jul 08 |
@@ -87,12 +87,12 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[The World News Internship - Fall 2024](https://jobright.ai/jobs/info/668b2bc2f0119e53a8f6ad36?utm_source=1053&utm_campaign=git)** | United States | Remote | Jul 07 |
 | ↳ | **[GBH News Politics Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a08?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 | ↳ | **[NOVA Broadcast Research Internship - Fall 2024](https://jobright.ai/jobs/info/668b2bc2f0119e53a8f6ad53?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
-| ↳ | **[GBH News Boston Public Radio Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a04?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 | ↳ | **[GBH News Education Desk Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a22?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
+| ↳ | **[GBH News Boston Public Radio Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a04?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 | ↳ | **[GBH News "Under the Radar" Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a17?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 | **[Manhattan District Attorney's Office](http://manhattanda.org)** | **[Spanish Interpreter/Translator Intern](https://jobright.ai/jobs/info/668a5cb8e378244948cf80cc?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 07 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Publishing Intern](https://jobright.ai/jobs/info/668a43f1bc2351b3cbca838e?utm_source=1053&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 07 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66899d130f8fc5a4649379c7?utm_source=1053&utm_campaign=git)** | Smyrna, DE | On Site | Jul 06 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/668a89dbf1daf4dd47884016?utm_source=1053&utm_campaign=git)** | Smyrna, DE | On Site | Jul 06 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[INTERN - PUBLIC INFORMATION - UN WEB TV - Arabic Language](https://jobright.ai/jobs/info/668bd4d2356510bc9cd0eedf?utm_source=1053&utm_campaign=git)** | New York, United States | On Site | Jul 06 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c2f71126dc247d4f1bd57?utm_source=1053&utm_campaign=git)** | Cedar Rapids, IA | On Site | Jul 06 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4475b3b6eb3a161ca6ec?utm_source=1053&utm_campaign=git)** | Columbus, OH | On Site | Jul 06 |
