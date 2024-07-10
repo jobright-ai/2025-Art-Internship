@@ -3,7 +3,7 @@
 
 
 
-This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:  and Arts and Entertainment
+This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:  and Arts and Entertainment.
 
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_source=1053&utm_campaign=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
@@ -39,11 +39,11 @@ This job repository is your go-to resource for discovering and sharing the lates
 </p>
 
 ---
-<h3>
-Due to capacity constraints, only internship jobs posted within the last 7 days are listed here.
+<h4>
+Only jobs posted in the last 7 days are listed due to capacity constraints.
 <br>
-For a comprehensive list of all available internships, please refer to the full spreadsheet bellowed:
-</h3>
+For a complete list, see the full spreadsheet below:
+</h4>
 <a href="https://docs.google.com/spreadsheets/d/1YhCc56aBbm1h-oiGbAEtRlc2IVW-CRqN_fJjsRBPHpk/edit?gid=2014278505#gid=2014278505">
     <img src="./static/img/excel_icon.png" alt="excel_icon", style="width: 20%; height: 20%;">
 </a>
@@ -80,7 +80,7 @@ For a comprehensive list of all available internships, please refer to the full 
 | **[Audacy](https://audacyinc.com/)** | **[Audacy Rochester Radio/Audio Programming Internship](https://jobright.ai/jobs/info/668c6182980e9b9331fff20f?utm_source=1053&utm_campaign=git)** | Rochester, NY | On Site | Jul 08 |
 | **[CLD PR](https://cldstylehouse.com)** | **[CLD SUMMER PARTY EVENT INTERN](https://jobright.ai/jobs/info/668c326b080f3f924dacb9ed?utm_source=1053&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 08 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[University Mascot](https://jobright.ai/jobs/info/668c2960dbe1aedcdfe00a17?utm_source=1053&utm_campaign=git)** | Riverside, CA | On Site | Jul 08 |
-| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/668bdd8a62e0ee789c7842a7?utm_source=1053&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 08 |
+| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/668be747cb5bd8bde9642795?utm_source=1053&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 08 |
 | **[Logic Auto](https://www.linkedin.com/company/80282350)** | **[Content Creator](https://jobright.ai/jobs/info/668bd971ac083f9791920a77?utm_source=1053&utm_campaign=git)** | Greater Boston | Hybrid | Jul 08 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship Fall 2024- Austin- San Antonio](https://jobright.ai/jobs/info/664e0027d79e0cf7655016da?utm_source=1053&utm_campaign=git)** | Austin, TX | On Site | Jul 08 |
 | **[New England Public Media](https://www.nepm.org/)** | **[NEPM News Intern - Fall 2024](https://jobright.ai/jobs/info/668b6001d3443b9c15fdfd44?utm_source=1053&utm_campaign=git)** | Springfield, MA | Hybrid | Jul 08 |
@@ -90,8 +90,8 @@ For a comprehensive list of all available internships, please refer to the full 
 | ↳ | **[The World News Internship - Fall 2024](https://jobright.ai/jobs/info/668b2bc2f0119e53a8f6ad36?utm_source=1053&utm_campaign=git)** | United States | Remote | Jul 07 |
 | ↳ | **[GBH News Politics Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a08?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 | ↳ | **[NOVA Broadcast Research Internship - Fall 2024](https://jobright.ai/jobs/info/668b2bc2f0119e53a8f6ad53?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
-| ↳ | **[GBH News Boston Public Radio Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a04?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 | ↳ | **[GBH News Education Desk Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a22?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
+| ↳ | **[GBH News Boston Public Radio Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a04?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 | ↳ | **[GBH News "Under the Radar" Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a17?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 | **[Manhattan District Attorney's Office](http://manhattanda.org)** | **[Spanish Interpreter/Translator Intern](https://jobright.ai/jobs/info/668a5cb8e378244948cf80cc?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 07 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Publishing Intern](https://jobright.ai/jobs/info/668a43f1bc2351b3cbca838e?utm_source=1053&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 07 |
@@ -146,5 +146,4 @@ For a comprehensive list of all available internships, please refer to the full 
 | **[Opportunities for Positive Growth, Inc.](http://opgrowth.com)** | **[Music Therapy Intern](https://jobright.ai/jobs/info/668571a8abc03ea32fd30bc0?utm_source=1053&utm_campaign=git)** | Fishers, IN | On Site | Jul 03 |
 | **[Menasha Corp](http://www.menashacorporation.com/)** | **[Graphic Finishing Trainee](https://jobright.ai/jobs/info/667dd59a49161264b2727cda?utm_source=1053&utm_campaign=git)** | York, PA | On Site | Jul 03 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Spectrum News Fellowship Program - Raleigh](https://jobright.ai/jobs/info/6677c1f72b6ed5133f44376b?utm_source=1053&utm_campaign=git)** | Raleigh, NC | On Site | Jul 03 |
-| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/664de06a0790ade97e15e7b9?utm_source=1053&utm_campaign=git)** | Rochester, NY | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
