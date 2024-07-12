@@ -57,7 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sirius XM](http://siriusxm.com)** | **[Fall Intern, Music Programming - Part-Time](https://jobright.ai/jobs/info/6690f6d280c21c52d3e292ce?utm_source=1053&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
+| **[Sirius XM](http://siriusxm.com)** | **[Fall Intern, Music Production - Part-Time](https://jobright.ai/jobs/info/6675121cfccfd24c9665ecf6?utm_source=1053&utm_campaign=git)** | Washington, DC | Hybrid | Jul 12 |
+| ↳ | **[Fall Intern, Music Programming - Part-Time](https://jobright.ai/jobs/info/6690f6d280c21c52d3e292ce?utm_source=1053&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
 | ↳ | **[Fall Intern, Music Programming - Part-Time](https://jobright.ai/jobs/info/6690f6d280c21c52d3e292cf?utm_source=1053&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
 | **[Academy of Our Lady of Peace](https://aolp.org)** | **[MarComm Intern](https://jobright.ai/jobs/info/6690e0fb52a400fad08810c6?utm_source=1053&utm_campaign=git)** | San Diego, CA | On Site | Jul 12 |
 | **[Integrated Measurement Systems](https://www.indianapolismotorspeedway.com/)** | **[Golf and Grounds Intern, 2024 Fall/Winter Season](https://jobright.ai/jobs/info/6690a95e0020afd5a76d9f38?utm_source=1053&utm_campaign=git)** | Indianapolis, IN | On Site | Jul 12 |
@@ -110,7 +111,7 @@ For a complete list, see the full spreadsheet below:
 | **[Audacy](https://audacyinc.com/)** | **[Audacy Rochester Radio/Audio Programming Internship](https://jobright.ai/jobs/info/668c6182980e9b9331fff20f?utm_source=1053&utm_campaign=git)** | Rochester, NY | On Site | Jul 08 |
 | **[Infinity Marketing Team](http://www.infinitymarketing.com/)** | **[Fall Intern](https://jobright.ai/jobs/info/668c2947dbe1aedcdfe00878?utm_source=1053&utm_campaign=git)** | Culver City, CA | On Site | Jul 08 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[University Mascot](https://jobright.ai/jobs/info/668c2960dbe1aedcdfe00a17?utm_source=1053&utm_campaign=git)** | Riverside, CA | On Site | Jul 08 |
-| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/668d2f276cbb6889454a4692?utm_source=1053&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 08 |
+| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/668d1cc5c3edd97e56c826a7?utm_source=1053&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 08 |
 | **[New England Public Media](https://www.nepm.org/)** | **[NEPM News Intern - Fall 2024](https://jobright.ai/jobs/info/668b6001d3443b9c15fdfd44?utm_source=1053&utm_campaign=git)** | Springfield, MA | Hybrid | Jul 08 |
 | **[Vita Coco](https://www.thevitacococompany.com)** | **[Coconut Content Community Connoisseur](https://jobright.ai/jobs/info/668c8172a276b317cb9f29f7?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 08 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Fall 2024](https://jobright.ai/jobs/info/668b2eca1b1249b8ab5fc1ee?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
@@ -120,7 +121,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[GBH News Boston Public Radio Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a04?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 | ↳ | **[GBH News "Under the Radar" Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a17?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Publishing Intern](https://jobright.ai/jobs/info/668a43f1bc2351b3cbca838e?utm_source=1053&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 07 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/668a89dbf1daf4dd47884016?utm_source=1053&utm_campaign=git)** | Smyrna, DE | On Site | Jul 06 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66899d130f8fc5a4649379c7?utm_source=1053&utm_campaign=git)** | Smyrna, DE | On Site | Jul 06 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/668fdbacb87ca863f259d8d5?utm_source=1053&utm_campaign=git)** | Cedar Rapids, IA | On Site | Jul 06 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4475b3b6eb3a161ca6ec?utm_source=1053&utm_campaign=git)** | Columbus, OH | On Site | Jul 06 |
 | ↳ | **[ARC News Intern - Summer 2024](https://jobright.ai/jobs/info/66717eec8da549fae7b765bb?utm_source=1053&utm_campaign=git)** | Seattle, WA | On Site | Jul 06 |
