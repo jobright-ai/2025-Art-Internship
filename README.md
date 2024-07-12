@@ -110,7 +110,7 @@ For a complete list, see the full spreadsheet below:
 | **[Audacy](https://audacyinc.com/)** | **[Audacy Rochester Radio/Audio Programming Internship](https://jobright.ai/jobs/info/668c6182980e9b9331fff20f?utm_source=1053&utm_campaign=git)** | Rochester, NY | On Site | Jul 08 |
 | **[Infinity Marketing Team](http://www.infinitymarketing.com/)** | **[Fall Intern](https://jobright.ai/jobs/info/668c2947dbe1aedcdfe00878?utm_source=1053&utm_campaign=git)** | Culver City, CA | On Site | Jul 08 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[University Mascot](https://jobright.ai/jobs/info/668c2960dbe1aedcdfe00a17?utm_source=1053&utm_campaign=git)** | Riverside, CA | On Site | Jul 08 |
-| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/668bdd8a62e0ee789c7842a7?utm_source=1053&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 08 |
+| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/668d368138255351a9d0c717?utm_source=1053&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 08 |
 | **[New England Public Media](https://www.nepm.org/)** | **[NEPM News Intern - Fall 2024](https://jobright.ai/jobs/info/668b6001d3443b9c15fdfd44?utm_source=1053&utm_campaign=git)** | Springfield, MA | Hybrid | Jul 08 |
 | **[Vita Coco](https://www.thevitacococompany.com)** | **[Coconut Content Community Connoisseur](https://jobright.ai/jobs/info/668c8172a276b317cb9f29f7?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 08 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Fall 2024](https://jobright.ai/jobs/info/668b2eca1b1249b8ab5fc1ee?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
