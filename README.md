@@ -57,10 +57,16 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kimpton Hotel & Restaurant Group](https://www.kimptonhotels.com/)** | **[Culinary Trainee-The Betty](https://jobright.ai/jobs/info/664e10ef10b4f1df29982cb3?utm_source=1053&utm_campaign=git)** | Atlanta, GA | On Site | Jul 14 |
+| **[Marsteller](https://marstellerms.pwcs.edu)** | **[MS CHEERLEADER](https://jobright.ai/jobs/info/66941b2cbd75804e9ebc4144?utm_source=1053&utm_campaign=git)** | Manassas, VA | On Site | Jul 14 |
+| **[Miami HEAT](http://HEAT.com)** | **[Broadcast Intern (Season-long)](https://jobright.ai/jobs/info/662943f08794757f8fa41cd6?utm_source=1053&utm_campaign=git)** | Miami, FL | On Site | Jul 14 |
+| **[Sightline Media Group](http://www.sightlinemediagroup.com)** | **[Editorial Fellow, Defense News and Military Times](https://jobright.ai/jobs/info/6679731f8f20c6df6b89986f?utm_source=1053&utm_campaign=git)** | Washington, DC | On Site | Jul 14 |
+| **[Kimpton Hotel & Restaurant Group](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern-Kimpton Epic Hotel](https://jobright.ai/jobs/info/6676d87c4ffdc62f7b679998?utm_source=1053&utm_campaign=git)** | Miami, FL | On Site | Jul 14 |
+| ↳ | **[Culinary Trainee-The Betty](https://jobright.ai/jobs/info/664e10ef10b4f1df29982cb3?utm_source=1053&utm_campaign=git)** | Atlanta, GA | On Site | Jul 14 |
+| **[Overlake Medical Center & Clinics](https://www.overlakehospital.org/)** | **[Healing Arts Volunteer](https://jobright.ai/jobs/info/664e2b2efd06ab529d525758?utm_source=1053&utm_campaign=git)** | Bellevue, WA | On Site | Jul 14 |
+| **[Kimpton Hotel & Restaurant Group](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern-Kimpton Journeyman Hotel](https://jobright.ai/jobs/info/6676c62d807f31af72076d4f?utm_source=1053&utm_campaign=git)** | Wisconsin, United States | On Site | Jul 14 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/669365240cb61d2df685e27a?utm_source=1053&utm_campaign=git)** | Monroe, LA | On Site | Jul 14 |
 | **[Legal Pathway Society](https://engage.palmbeachstate.edu/organization/legal-pathway-society)** | **[Fall - Legal Journalism and Communications Intern](https://jobright.ai/jobs/info/6692acdb3903252ea5039ee9?utm_source=1053&utm_campaign=git)** | Florida, United States | On Site | Jul 13 |
-| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66928aeeb578d06e71906b0a?utm_source=1053&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 13 |
+| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66927c6f15fb78b99b962579?utm_source=1053&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 13 |
 | **[Hearst Television Inc.](http://www.hearsttelevision.com)** | **[Fred Young Fellowship](https://jobright.ai/jobs/info/6693b635a955ace455aa3bbf?utm_source=1053&utm_campaign=git)** | Des Moines, IA | On Site | Jul 13 |
 | **[New York City Campaign Finance Board](http://www.nyccfb.info/)** | **[MULTIMEDIA CONTENT INTERN](https://jobright.ai/jobs/info/66740eef5ff28865e7a710f7?utm_source=1053&utm_campaign=git)** | Manhattan, NY | Hybrid | Jul 13 |
 | **[Sightline Media Group](http://www.sightlinemediagroup.com)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/664eb183cd9154b3e6012c0b?utm_source=1053&utm_campaign=git)** | Washington, DC | On Site | Jul 13 |
@@ -83,24 +89,24 @@ For a complete list, see the full spreadsheet below:
 | **[The Huntington Library](http://www.huntington.org/)** | **[Botanical Intern, Orchid Collections](https://jobright.ai/jobs/info/6662a6e9b94cf507771383cf?utm_source=1053&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 13 |
 | **[Northeastern University Innovation Council](https://www.northeastern.edu/cri/)** | **[Temporary Athletics Video Producer](https://jobright.ai/jobs/info/6691e1347ab0371a6692f484?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 13 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/669198aeb4b5a4f81c499ba5?utm_source=1053&utm_campaign=git)** | San Antonio, TX | On Site | Jul 12 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/669198aeb4b5a4f81c499ba4?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/669198aeb4b5a4f81c499ba3?utm_source=1053&utm_campaign=git)** | Flagstaff, AZ | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66925f9adcf568d27f2f7b1d?utm_source=1053&utm_campaign=git)** | Austin, TX | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6691a36d4c7d2eb620a7c02b?utm_source=1053&utm_campaign=git)** | Laramie, WY | On Site | Jul 12 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6691897fac10c1640df70bef?utm_source=1053&utm_campaign=git)** | Albuquerque, NM | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6691897fac10c1640df70bf0?utm_source=1053&utm_campaign=git)** | Billings, MT | On Site | Jul 12 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6691897fac10c1640df70bf4?utm_source=1053&utm_campaign=git)** | Idaho Falls, ID | On Site | Jul 12 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6691897fac10c1640df70bef?utm_source=1053&utm_campaign=git)** | Albuquerque, NM | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6691897fac10c1640df70bf1?utm_source=1053&utm_campaign=git)** | Aurora, IL | On Site | Jul 12 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6691897fac10c1640df70bf4?utm_source=1053&utm_campaign=git)** | Idaho Falls, ID | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6691897fac10c1640df70bf2?utm_source=1053&utm_campaign=git)** | Tacoma, WA | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6691897fac10c1640df70bf6?utm_source=1053&utm_campaign=git)** | Athens, GA | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6692394a1b049d09f698cd96?utm_source=1053&utm_campaign=git)** | Fort Wayne, IN | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6691950396333ec52410318c?utm_source=1053&utm_campaign=git)** | Bridgeport, CT | On Site | Jul 12 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6691950396333ec524103190?utm_source=1053&utm_campaign=git)** | Seattle, WA | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6691950396333ec52410318f?utm_source=1053&utm_campaign=git)** | Erie, PA | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6691950396333ec524103191?utm_source=1053&utm_campaign=git)** | Rock Hill, SC | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6691950396333ec524103192?utm_source=1053&utm_campaign=git)** | Harrisonburg, VA | On Site | Jul 12 |
 | **[University of Arkansas](http://uark.edu)** | **[Hourly Communications and Creative Services Intern – Writer](https://jobright.ai/jobs/info/66927c7215fb78b99b962667?utm_source=1053&utm_campaign=git)** | Fayetteville, AR | On Site | Jul 12 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66926c80f0f0f9f950931a25?utm_source=1053&utm_campaign=git)** | Cleveland, OH | On Site | Jul 12 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66925f9adcf568d27f2f7b20?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 12 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66926c80f0f0f9f950931a25?utm_source=1053&utm_campaign=git)** | Cleveland, OH | On Site | Jul 12 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66925f9adcf568d27f2f7b23?utm_source=1053&utm_campaign=git)** | Seattle, WA | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536661?utm_source=1053&utm_campaign=git)** | Mililani Town, HI | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536669?utm_source=1053&utm_campaign=git)** | Kenner, LA | On Site | Jul 12 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab53666a?utm_source=1053&utm_campaign=git)** | Rockford, IL | On Site | Jul 12 |
@@ -118,11 +124,11 @@ For a complete list, see the full spreadsheet below:
 | **[Academy of Our Lady of Peace](https://aolp.org)** | **[MarComm Intern](https://jobright.ai/jobs/info/6690e0fb52a400fad08810c6?utm_source=1053&utm_campaign=git)** | San Diego, CA | On Site | Jul 12 |
 | **[Integrated Measurement Systems](https://www.indianapolismotorspeedway.com/)** | **[Golf and Grounds Intern, 2024 Fall/Winter Season](https://jobright.ai/jobs/info/6690a95e0020afd5a76d9f38?utm_source=1053&utm_campaign=git)** | Indianapolis, IN | On Site | Jul 12 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Breaking News Intern (Fall/Winter)](https://jobright.ai/jobs/info/669172682b5e177ed6cb0403?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 12 |
-| **[Cornerstone Careers](http://www.ccsginc.com)** | **[QVC Category Production Fall Internship](https://jobright.ai/jobs/info/6691903f4c69d669ab5364fb?utm_source=1053&utm_campaign=git)** | USA, PA, West Chester | On Site | Jul 12 |
-| ↳ | **[QVC Television Development Fall Internship](https://jobright.ai/jobs/info/66913defe4526299ab22e64c?utm_source=1053&utm_campaign=git)** | USA, PA, West Chester | On Site | Jul 12 |
-| ↳ | **[QVC Styling Fall Internship](https://jobright.ai/jobs/info/66913defe4526299ab22e5d3?utm_source=1053&utm_campaign=git)** | USA, PA, West Chester | On Site | Jul 12 |
-| ↳ | **[QVC Talent Service Fall Internship](https://jobright.ai/jobs/info/66913defe4526299ab22e61f?utm_source=1053&utm_campaign=git)** | USA, PA, West Chester | On Site | Jul 12 |
+| **[Cornerstone Careers](http://www.ccsginc.com)** | **[QVC Styling Fall Internship](https://jobright.ai/jobs/info/66913defe4526299ab22e5d3?utm_source=1053&utm_campaign=git)** | USA, PA, West Chester | On Site | Jul 12 |
 | ↳ | **[QVC Videography Fall Internship](https://jobright.ai/jobs/info/66913defe4526299ab22e615?utm_source=1053&utm_campaign=git)** | USA, PA, West Chester | On Site | Jul 12 |
+| ↳ | **[QVC Television Development Fall Internship](https://jobright.ai/jobs/info/66913defe4526299ab22e64c?utm_source=1053&utm_campaign=git)** | USA, PA, West Chester | On Site | Jul 12 |
+| ↳ | **[QVC Talent Service Fall Internship](https://jobright.ai/jobs/info/66913defe4526299ab22e61f?utm_source=1053&utm_campaign=git)** | USA, PA, West Chester | On Site | Jul 12 |
+| ↳ | **[QVC Category Production Fall Internship](https://jobright.ai/jobs/info/6691903f4c69d669ab5364fb?utm_source=1053&utm_campaign=git)** | USA, PA, West Chester | On Site | Jul 12 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Producer Intern- Fall, 2024](https://jobright.ai/jobs/info/6690d39b79efb2825e66432b?utm_source=1053&utm_campaign=git)** | Metairie, LA | On Site | Jul 11 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator](https://jobright.ai/jobs/info/6690b53f1acf37e6b248004f?utm_source=1053&utm_campaign=git)** | NYC Metro Area | Hybrid | Jul 11 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Game Presentation](https://jobright.ai/jobs/info/6690c91b50a8322cf99b8579?utm_source=1053&utm_campaign=git)** | St Louis, MO | On Site | Jul 11 |
@@ -135,7 +141,6 @@ For a complete list, see the full spreadsheet below:
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Audio Editorial Intern: NYC - Fall 2024](https://jobright.ai/jobs/info/6690ef23cfcca3c4c8c9d3f8?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 11 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[NewsNation News Internship Fall 2024 (Chicago or New York)](https://jobright.ai/jobs/info/6690a06777aee8172e7ac407?utm_source=1053&utm_campaign=git)** | Chicago, IL | On Site | Jul 11 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY TELEVISION FUTURE FOCUS INTERN FALL '24 - WBKO](https://jobright.ai/jobs/info/66908dc331de34d9d7a1fc96?utm_source=1053&utm_campaign=git)** | Bowling Green, KY | On Site | Jul 11 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Intern - Fall 2024](https://jobright.ai/jobs/info/668fcf82228dfafddaffeb39?utm_source=1053&utm_campaign=git)** | Cleveland, OH | On Site | Jul 10 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Opinion Editorial Intern: NYC - Fall 2024](https://jobright.ai/jobs/info/668f4991478c8663838f2702?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 10 |
 | **[Seamgen](http://www.seamgen.com/)** | **[AI Content Writing Internship](https://jobright.ai/jobs/info/668f4223e74ffdb5b6261e27?utm_source=1053&utm_campaign=git)** | San Diego, CA | On Site | Jul 10 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Breaking News Intern](https://jobright.ai/jobs/info/668f4223e74ffdb5b6261e45?utm_source=1053&utm_campaign=git)** | Denver, CO | On Site | Jul 10 |
@@ -152,7 +157,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[KASA News Internship - Summer 2024](https://jobright.ai/jobs/info/668ec47fc916c3695aa7a8ff?utm_source=1053&utm_campaign=git)** | Albuquerque, NM | On Site | Jul 09 |
 | ↳ | **[KVDA News Internship - Summer 2024](https://jobright.ai/jobs/info/668ec490c916c3695aa7aa21?utm_source=1053&utm_campaign=git)** | San Antonio, TX | On Site | Jul 09 |
 | ↳ | **[NBCU Local Bay Area - Video Editor Internship – Fall 2024, San Francisco, CA](https://jobright.ai/jobs/info/668ec4a1c916c3695aa7ac3e?utm_source=1053&utm_campaign=git)** | San Francisco, CA | On Site | Jul 09 |
-| **[Saleseraian](https://salesera.net/)** | **[Content Writing Intern](https://jobright.ai/jobs/info/668d6019f098b78583256d2a?utm_source=1053&utm_campaign=git)** | United States | Remote | Jul 09 |
 | **[Concierge Preferred](https://www.conciergepreferred.com/)** | **[Editorial Internship Summer/Fall 2024 (July - November)](https://jobright.ai/jobs/info/668d028be468a2b5f13691f4?utm_source=1053&utm_campaign=git)** | Chicago, IL | On Site | Jul 09 |
 | **[Ateema](https://www.ateema.com)** | **[Editorial Internship Summer/Fall 2024 (July - November)](https://jobright.ai/jobs/info/668c9108a04664baea38a3d1?utm_source=1053&utm_campaign=git)** | Chicago, IL | On Site | Jul 09 |
 | **[City of Memphis](https://www.memphistn.gov/)** | **[Urban Fellow - Fall 2024](https://jobright.ai/jobs/info/668c73994eab7a4cfbe542f5?utm_source=1053&utm_campaign=git)** | Memphis, TN | On Site | Jul 08 |
@@ -161,11 +165,4 @@ For a complete list, see the full spreadsheet below:
 | **[Infinity Marketing Team](http://www.infinitymarketing.com/)** | **[Fall Intern](https://jobright.ai/jobs/info/668c2947dbe1aedcdfe00878?utm_source=1053&utm_campaign=git)** | Culver City, CA | On Site | Jul 08 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[University Mascot](https://jobright.ai/jobs/info/668c2960dbe1aedcdfe00a17?utm_source=1053&utm_campaign=git)** | Riverside, CA | On Site | Jul 08 |
 | **[New England Public Media](https://www.nepm.org/)** | **[NEPM News Intern - Fall 2024](https://jobright.ai/jobs/info/668b6001d3443b9c15fdfd44?utm_source=1053&utm_campaign=git)** | Springfield, MA | Hybrid | Jul 08 |
-| **[Vita Coco](https://www.thevitacococompany.com)** | **[Coconut Content Community Connoisseur](https://jobright.ai/jobs/info/668c8172a276b317cb9f29f7?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 08 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Fall 2024](https://jobright.ai/jobs/info/668b2eca1b1249b8ab5fc1ee?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
-| ↳ | **[GBH News Digital Video Accelerator Project Internship - Fall 2024](https://jobright.ai/jobs/info/668b2eca1b1249b8ab5fc1f1?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
-| ↳ | **[GBH News Politics Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a08?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
-| ↳ | **[NOVA Broadcast Research Internship - Fall 2024](https://jobright.ai/jobs/info/668b2bc2f0119e53a8f6ad53?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
-| ↳ | **[GBH News Boston Public Radio Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a04?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
-| ↳ | **[GBH News "Under the Radar" Internship - Fall 2024](https://jobright.ai/jobs/info/668b25da4e4c737303d13a17?utm_source=1053&utm_campaign=git)** | Boston, MA | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
