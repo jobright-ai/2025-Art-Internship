@@ -57,7 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[inksem](https://inksem.com/)** | **[Content Writer](https://jobright.ai/jobs/info/66a0adc4d20f7f57fed1cdea?utm_source=1053&utm_campaign=git)** | United States | Remote | Jul 24 |
+| **[James Madison Innovations](https://www.jmu.edu/innovation/jmi.shtml)** | **[CISE Feature Writer - IE](https://jobright.ai/jobs/info/66a101c6297b81d4e6a95320?utm_source=1053&utm_campaign=git)** | Harrisonburg, VA | On Site | Jul 24 |
 | **[StoryBrand](https://storybrand.com/)** | **[Video Editing & Production Internship](https://jobright.ai/jobs/info/66a0b1315b9b997dc27ccf52?utm_source=1053&utm_campaign=git)** | Nashville, TN | On Site | Jul 24 |
 | **[Chefs Culinar](https://www.chefsculinar.de/)** | **[Kaufmann (m/w/d) im Einzelhandel 2024](https://jobright.ai/jobs/info/66a0959a1cfc1609be830132?utm_source=1053&utm_campaign=git)** | Flensburg, MN | On Site | Jul 24 |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Board of Supervisors - Intern II (District 4)](https://jobright.ai/jobs/info/66a07f87c20f22c367e05af6?utm_source=1053&utm_campaign=git)** | San Mateo County, CA | On Site | Jul 24 |
@@ -67,16 +67,17 @@ For a complete list, see the full spreadsheet below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2024] Research Resources - Archives Internship](https://jobright.ai/jobs/info/66a03843f54d4e37ee753a90?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 23 |
 | ↳ | **[[Fall 2024] Digital Content Internship](https://jobright.ai/jobs/info/66a022ee46b8641105c98c40?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 23 |
 | **[Gray TV](http://www.gray.tv)** | **[ASSOCIATE NEWS PRODUCER (P/T) - NAT'L INVESTIGATIVE TEAM](https://jobright.ai/jobs/info/66a01c60928b7ff24b15cbc3?utm_source=1053&utm_campaign=git)** | New Orleans, LA | On Site | Jul 23 |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66a0fc275adfd0bdf9ac4cc9?utm_source=1053&utm_campaign=git)** | Richmond, VA | On Site | Jul 23 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONFERENCE PROGRAMMING](https://jobright.ai/jobs/info/66a00ac0c9e198ff4fdf7d36?utm_source=1053&utm_campaign=git)** | Twin Cities Area | Hybrid | Jul 23 |
-| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66a016047cc92e7e86563712?utm_source=1053&utm_campaign=git)** | Richmond, VA | On Site | Jul 23 |
+| **[A. N. Publishing](https://www.anpublishing.com/)** | **[Entertainment Feature Journalist (Internship)](https://jobright.ai/jobs/info/66a0e0d324925149e553d362?utm_source=1053&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[Brigham Young University](https://byu.edu)** | **[Editor - 132867](https://jobright.ai/jobs/info/669ff96b88333dda24b9974b?utm_source=1053&utm_campaign=git)** | Provo, UT | On Site | Jul 23 |
 | **[G-III Apparel Group](https://www.giii.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/669fe413b5682d011c297f98?utm_source=1053&utm_campaign=git)** | Lyndhurst, NJ | On Site | Jul 23 |
 | **[Intersect Magazine](http://IntersectMagazine.com)** | **[Society & Culture Editorial Intern](https://jobright.ai/jobs/info/669fe2dc19e0afd8e7b174d6?utm_source=1053&utm_campaign=git)** | United States | Remote | Jul 23 |
 | ↳ | **[Fashion Editorial Intern](https://jobright.ai/jobs/info/669fe2dc19e0afd8e7b174de?utm_source=1053&utm_campaign=git)** | United States | Remote | Jul 23 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Intern, Paramount](https://jobright.ai/jobs/info/669fde031c33ed13e0471900?utm_source=1053&utm_campaign=git)** | Minneapolis, MN | Hybrid | Jul 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2024](https://jobright.ai/jobs/info/669fde151c33ed13e0471a0c?utm_source=1053&utm_campaign=git)** | Culver City, CA | Hybrid | Jul 23 |
-| ↳ | **[Acquisitions Trainee, Sony Pictures Classics – Summer/Fall](https://jobright.ai/jobs/info/669fde151c33ed13e0471a14?utm_source=1053&utm_campaign=git)** | New York, NY | Hybrid | Jul 23 |
 | ↳ | **[Comedy Development Intern, SPT – Fall 2024](https://jobright.ai/jobs/info/669fde151c33ed13e0471a09?utm_source=1053&utm_campaign=git)** | Culver City, CA | Hybrid | Jul 23 |
+| ↳ | **[Acquisitions Trainee, Sony Pictures Classics – Summer/Fall](https://jobright.ai/jobs/info/669fde151c33ed13e0471a14?utm_source=1053&utm_campaign=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Great Clips](https://www.greatclips.com/)** | **[Hair Stylist Intern - Belmont Development](https://jobright.ai/jobs/info/66a0a8e78730a20117c07eda?utm_source=1053&utm_campaign=git)** | Wimauma, FL | On Site | Jul 23 |
 | ↳ | **[Hair Stylist Intern - Brandywine Plaza](https://jobright.ai/jobs/info/66a0a8e78730a20117c07edb?utm_source=1053&utm_campaign=git)** | Greenfield, IN | On Site | Jul 23 |
 | ↳ | **[Hair Stylist Intern - Twin Lakes Redevelopment](https://jobright.ai/jobs/info/66a0a8e78730a20117c07edc?utm_source=1053&utm_campaign=git)** | Wichita, KS | On Site | Jul 23 |
@@ -97,8 +98,8 @@ For a complete list, see the full spreadsheet below:
 | **[Chefs Culinar](https://www.chefsculinar.de/)** | **[Kaufmann (m/w/d) im Einzelhandel 2024](https://jobright.ai/jobs/info/669f2ae49a04b5cac6ca26a3?utm_source=1053&utm_campaign=git)** | Flensburg, MN | On Site | Jul 22 |
 | **[Canterbury Park Holdings](https://www.canterburypark.com)** | **[Entertainment Internship](https://jobright.ai/jobs/info/66994d3663c1016c1926d9d0?utm_source=1053&utm_campaign=git)** | Shakopee, MN | On Site | Jul 22 |
 | **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/669ea355ac04dc4b2d05ad81?utm_source=1053&utm_campaign=git)** | Washington, DC | On Site | Jul 22 |
-| **[Great Clips](https://www.greatclips.com/)** | **[Hair Stylist Intern - Belmont Development](https://jobright.ai/jobs/info/669f54528e28ebf99142442d?utm_source=1053&utm_campaign=git)** | Sun City Center, FL | On Site | Jul 22 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - WFIE](https://jobright.ai/jobs/info/669ec95afdd265daa4449169?utm_source=1053&utm_campaign=git)** | Evansville, IN | On Site | Jul 22 |
+| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Fall 2024 Subrights Intern](https://jobright.ai/jobs/info/66a0f51cf57f1c3ae4c326f8?utm_source=1053&utm_campaign=git)** | New York, New York, United States | On Site | Jul 22 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Digital Video Social Content Intern, Remote, Fall 2024](https://jobright.ai/jobs/info/669e09741450f33d4a052145?utm_source=1053&utm_campaign=git)** | Bristol, CT, USA | On Site | Jul 22 |
 | **[Cars.com](http://cars.com)** | **[Copy Editing Intern](https://jobright.ai/jobs/info/6646973df7c3c34d659f4beb?utm_source=1053&utm_campaign=git)** | Chicago, IL | Hybrid | Jul 21 |
 | ↳ | **[Editorial News Intern](https://jobright.ai/jobs/info/66469bf5e232a930ae08ccc1?utm_source=1053&utm_campaign=git)** | Chicago, IL | Hybrid | Jul 21 |
@@ -121,13 +122,12 @@ For a complete list, see the full spreadsheet below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Comedy Development Intern, SPT – Fall 2024](https://jobright.ai/jobs/info/669b058f67c71833656b74c8?utm_source=1053&utm_campaign=git)** | Culver City, California | Hybrid | Jul 19 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Digital Productions and Social Media](https://jobright.ai/jobs/info/6699a85fdf0d9bbecaf38ca9?utm_source=1053&utm_campaign=git)** | Arlington, TX | On Site | Jul 18 |
 | **[Social Link](https://sociallink.com)** | **[Journalist Intern](https://jobright.ai/jobs/info/669998fa4663dabd47c84783?utm_source=1053&utm_campaign=git)** | Nashville, TN | Hybrid | Jul 18 |
-| **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[Gallery Assistant - Student Hourly](https://jobright.ai/jobs/info/6699f3de3aefceab9f72a50a?utm_source=1053&utm_campaign=git)** | Lawrence, KS | On Site | Jul 18 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Media Intern, Center for Communications, Media Strategy (Fall 2024)](https://jobright.ai/jobs/info/66999fefa6cffa96210cdee4?utm_source=1053&utm_campaign=git)** | Washington, DC | On Site | Jul 18 |
 | **[American Institute of Physics](http://aip.org/)** | **[Internship – Science Writer](https://jobright.ai/jobs/info/66997ca111aefe0c6415c0ce?utm_source=1053&utm_campaign=git)** | College Park, MD | Hybrid | Jul 18 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66998e6bd1ca770d2bb5aee2?utm_source=1053&utm_campaign=git)** | San Antonio, TX | On Site | Jul 18 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6699edbdf896430e7f5481f2?utm_source=1053&utm_campaign=git)** | Athens, GA | On Site | Jul 18 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6699791604b47f05b9e2cd9c?utm_source=1053&utm_campaign=git)** | Kenner, LA | On Site | Jul 18 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/669a4864b5fa512390f7e95e?utm_source=1053&utm_campaign=git)** | Pittsburg, KS | On Site | Jul 18 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66998e6bd1ca770d2bb5aee3?utm_source=1053&utm_campaign=git)** | Pittsburg, KS | On Site | Jul 18 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/669a4864b5fa512390f7e95c?utm_source=1053&utm_campaign=git)** | Athens, GA | On Site | Jul 18 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/669a4864b5fa512390f7e962?utm_source=1053&utm_campaign=git)** | Kenner, LA | On Site | Jul 18 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/669a4864b5fa512390f7e965?utm_source=1053&utm_campaign=git)** | Austin, TX | On Site | Jul 18 |
 | **[Interlachen Country Club](https://interlachencc.org/)** | **[Golf Course and Grounds Maintenance Worker](https://jobright.ai/jobs/info/669d440d94b7be8cf3829918?utm_source=1053&utm_campaign=git)** | Minneapolis, MN | On Site | Jul 18 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[(Fall) Social Media & Video Editor Co-op: June to December 2024](https://jobright.ai/jobs/info/669a45d04a6d602626e82fb9?utm_source=1053&utm_campaign=git)** | Needham, MA | On Site | Jul 18 |
@@ -139,6 +139,4 @@ For a complete list, see the full spreadsheet below:
 | **[University of Arkansas](http://uark.edu)** | **[Hourly Communications and Creative Services Intern – Writer](https://jobright.ai/jobs/info/669860f6cc1bbc4f07715781?utm_source=1053&utm_campaign=git)** | Fayetteville, AR | On Site | Jul 17 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Internship, Digital Cyberspace Policy, Fall 2024](https://jobright.ai/jobs/info/669834ba42f8a0cca17e16ed?utm_source=1053&utm_campaign=git)** | Washington, DC | On Site | Jul 17 |
 | **[D.C. Witness](https://dcwitness.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6697d8883d610aff693022c8?utm_source=1053&utm_campaign=git)** | Washington, DC | On Site | Jul 17 |
-| **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Fall 2024)](https://jobright.ai/jobs/info/667b40e06c645d774025f979?utm_source=1053&utm_campaign=git)** | Washington, DC | On Site | Jul 17 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[News Trainee](https://jobright.ai/jobs/info/66313061fb370140b7cdcf44?utm_source=1053&utm_campaign=git)** | Atlanta, GA | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
