@@ -57,7 +57,10 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reach Records](https://www.reachrecords.com)** | **[Reach Records Studio Internship - Fall 2024](https://jobright.ai/jobs/info/66a1fcab234529e5c98906f3?utm_source=1053&utm_campaign=git)** | Atlanta, GA | On Site | Jul 25 |
+| ↳ | **[Reach Records Label Operations & Publishing Intern - Fall 2024](https://jobright.ai/jobs/info/66a1fcab234529e5c98906f6?utm_source=1053&utm_campaign=git)** | Atlanta, GA | On Site | Jul 25 |
 | **[Persimmon](https://www.persimmon.life/)** | **[Social Media Videographer Intern](https://jobright.ai/jobs/info/66a1c29c3d7ffc3c7ef5858b?utm_source=1053&utm_campaign=git)** | Larkspur, CA | On Site | Jul 25 |
+| **[Oregon State University](https://oregonstate.edu/)** | **[TikTok & Reels Content Creator](https://jobright.ai/jobs/info/66a1d306acfb8927a093b94c?utm_source=1053&utm_campaign=git)** | Bend, OR | On Site | Jul 25 |
 | **[PHL17](https://www.phl17.com)** | **[Morning News Intern - Fall Semester](https://jobright.ai/jobs/info/66a18ae4886017c169bb0091?utm_source=1053&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 24 |
 | **[Hello Sunshine](https://hello-sunshine.com/)** | **[Fall 2024 Intern - Social & Editorial](https://jobright.ai/jobs/info/66a17ca7db94ded6371aa210?utm_source=1053&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 24 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant](https://jobright.ai/jobs/info/66a172135c9c5c51b4894dcc?utm_source=1053&utm_campaign=git)** | Conway, SC | On Site | Jul 24 |
@@ -79,15 +82,14 @@ For a complete list, see the full spreadsheet below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2024] Research Resources - Archives Internship](https://jobright.ai/jobs/info/66a03843f54d4e37ee753a90?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 23 |
 | ↳ | **[[Fall 2024] Digital Content Internship](https://jobright.ai/jobs/info/66a022ee46b8641105c98c40?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 23 |
 | **[Gray TV](http://www.gray.tv)** | **[ASSOCIATE NEWS PRODUCER (P/T) - NAT'L INVESTIGATIVE TEAM](https://jobright.ai/jobs/info/66a01c60928b7ff24b15cbc3?utm_source=1053&utm_campaign=git)** | New Orleans, LA | On Site | Jul 23 |
-| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66a0fc275adfd0bdf9ac4cc9?utm_source=1053&utm_campaign=git)** | Richmond, VA | On Site | Jul 23 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant (Production Assistant) - WHEL](https://jobright.ai/jobs/info/66838224329ab23a811657a0?utm_source=1053&utm_campaign=git)** | Conway, SC | On Site | Jul 23 |
 | **[A. N. Publishing](https://www.anpublishing.com/)** | **[Entertainment Feature Journalist (Internship)](https://jobright.ai/jobs/info/66a0e0d324925149e553d362?utm_source=1053&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[City of Memphis](https://www.memphistn.gov/)** | **[Urban Fellow - Fall 2024](https://jobright.ai/jobs/info/668c73994eab7a4cfbe542f5?utm_source=1053&utm_campaign=git)** | Memphis, TN | On Site | Jul 23 |
 | **[Brigham Young University](https://byu.edu)** | **[Editor - 132867](https://jobright.ai/jobs/info/669ff96b88333dda24b9974b?utm_source=1053&utm_campaign=git)** | Provo, UT | On Site | Jul 23 |
 | **[G-III Apparel Group](https://www.giii.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/669fe413b5682d011c297f98?utm_source=1053&utm_campaign=git)** | Lyndhurst, NJ | On Site | Jul 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2024](https://jobright.ai/jobs/info/669fde151c33ed13e0471a0c?utm_source=1053&utm_campaign=git)** | Culver City, CA | Hybrid | Jul 23 |
-| ↳ | **[Acquisitions Trainee, Sony Pictures Classics – Summer/Fall](https://jobright.ai/jobs/info/669fde151c33ed13e0471a14?utm_source=1053&utm_campaign=git)** | New York, NY | Hybrid | Jul 23 |
 | ↳ | **[Comedy Development Intern, SPT – Fall 2024](https://jobright.ai/jobs/info/669fde151c33ed13e0471a09?utm_source=1053&utm_campaign=git)** | Culver City, CA | Hybrid | Jul 23 |
+| ↳ | **[Acquisitions Trainee, Sony Pictures Classics – Summer/Fall](https://jobright.ai/jobs/info/669fde151c33ed13e0471a14?utm_source=1053&utm_campaign=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Thesocialtalks](https://thesocialtalks.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/669fa4aeb1b0bcfa7f386b53?utm_source=1053&utm_campaign=git)** | United States | Remote | Jul 23 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Digital Video Social Content Intern, Remote, Fall 2024](https://jobright.ai/jobs/info/669fa00c23c3d3b512dfe633?utm_source=1053&utm_campaign=git)** | Bristol, CT | On Site | Jul 23 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Program & Content Strategy Intern: NYC - Fall 2024](https://jobright.ai/jobs/info/66832b6f57eb512f576b77db?utm_source=1053&utm_campaign=git)** | New York, NY | Hybrid | Jul 23 |
@@ -117,7 +119,7 @@ For a complete list, see the full spreadsheet below:
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN News Show Team Internships: NYC - Fall 2024](https://jobright.ai/jobs/info/667f3b1c61f2588c341877ce?utm_source=1053&utm_campaign=git)** | New York, NY | On Site | Jul 20 |
 | ↳ | **[CNN News Show Team Internships: DC- Fall 2024](https://jobright.ai/jobs/info/667f4f393215408025c9e2ae?utm_source=1053&utm_campaign=git)** | Washington, DC | On Site | Jul 20 |
 | **[NBCUniversal Career](https://www.nbcunicareers.com/)** | **[NBC Sports Philadelphia Operations & Engineering Intern - Fall 2024](https://jobright.ai/jobs/info/669b3fd0decb6d26cf42d68d?utm_source=1053&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 20 |
-| ↳ | **[NBC Sports Philadelphia Content Production Intern - Fall 2024](https://jobright.ai/jobs/info/669b3fd9decb6d26cf42d797?utm_source=1053&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 20 |
+| ↳ | **[NBC Sports Philadelphia Content Production Intern - Fall 2024](https://jobright.ai/jobs/info/669b3fd0decb6d26cf42d658?utm_source=1053&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 20 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Events Intern](https://jobright.ai/jobs/info/669c01c7b697c51bdf2fc486?utm_source=1053&utm_campaign=git)** | Frisco, Texas, United States | On Site | Jul 20 |
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Art Dwg/Paint Models](https://jobright.ai/jobs/info/669af9d444eb65333f442143?utm_source=1053&utm_campaign=git)** | Sacramento, CA | On Site | Jul 19 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Publishing Intern](https://jobright.ai/jobs/info/669992faeaece15dc98ab97f?utm_source=1053&utm_campaign=git)** | Baltimore, MD | Hybrid | Jul 19 |
@@ -127,10 +129,10 @@ For a complete list, see the full spreadsheet below:
 | **[Social Link](https://sociallink.com)** | **[Journalist Intern](https://jobright.ai/jobs/info/669998fa4663dabd47c84783?utm_source=1053&utm_campaign=git)** | Nashville, TN | Hybrid | Jul 18 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Media Intern, Center for Communications, Media Strategy (Fall 2024)](https://jobright.ai/jobs/info/66999fefa6cffa96210cdee4?utm_source=1053&utm_campaign=git)** | Washington, DC | On Site | Jul 18 |
 | **[American Institute of Physics](http://aip.org/)** | **[Internship – Science Writer](https://jobright.ai/jobs/info/66997ca111aefe0c6415c0ce?utm_source=1053&utm_campaign=git)** | College Park, MD | Hybrid | Jul 18 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66998e6bd1ca770d2bb5aee1?utm_source=1053&utm_campaign=git)** | Austin, TX | On Site | Jul 18 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66998e6bd1ca770d2bb5aee2?utm_source=1053&utm_campaign=git)** | San Antonio, TX | On Site | Jul 18 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66998e6bd1ca770d2bb5aee1?utm_source=1053&utm_campaign=git)** | Austin, TX | On Site | Jul 18 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66998e6bd1ca770d2bb5aee3?utm_source=1053&utm_campaign=git)** | Pittsburg, KS | On Site | Jul 18 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6699edbdf896430e7f5481f2?utm_source=1053&utm_campaign=git)** | Athens, GA | On Site | Jul 18 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/6699791604b47f05b9e2cd9c?utm_source=1053&utm_campaign=git)** | Kenner, LA | On Site | Jul 18 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/669a4864b5fa512390f7e95c?utm_source=1053&utm_campaign=git)** | Athens, GA | On Site | Jul 18 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/669a4864b5fa512390f7e95e?utm_source=1053&utm_campaign=git)** | Pittsburg, KS | On Site | Jul 18 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/669a4864b5fa512390f7e95f?utm_source=1053&utm_campaign=git)** | San Antonio, TX | On Site | Jul 18 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[(Fall) Social Media & Video Editor Co-op: June to December 2024](https://jobright.ai/jobs/info/669a45d04a6d602626e82fb9?utm_source=1053&utm_campaign=git)** | Needham, MA | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
