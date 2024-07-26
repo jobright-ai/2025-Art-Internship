@@ -137,4 +137,6 @@ For a complete list, see the full spreadsheet below:
 | **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Events Intern](https://jobright.ai/jobs/info/669c01c7b697c51bdf2fc486?utm_campaign=1053&utm_source=git)** | Frisco, Texas, United States | On Site | Jul 20 |
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Art Dwg/Paint Models](https://jobright.ai/jobs/info/669af9d444eb65333f442143?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jul 19 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Publishing Intern](https://jobright.ai/jobs/info/669992faeaece15dc98ab97f?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Hybrid | Jul 19 |
+| **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[Gallery Assistant - Student Hourly](https://jobright.ai/jobs/info/66a23755a3cccf144e988088?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Jul 19 |
+| **[MATTE Projects](https://matteprojects.com/)** | **[Film + Content Production Intern](https://jobright.ai/jobs/info/669a2077cb91786c1b388d64?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
