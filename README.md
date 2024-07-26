@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2023](https://jobright.ai/jobs/info/662543563f7bae0344291527?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Jul 26 |
 | **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Writing Intern](https://jobright.ai/jobs/info/66a366b9e88261f6c8a8cb86?utm_campaign=1053&utm_source=git)** | Waukesha, WI | On Site | Jul 26 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Internship](https://jobright.ai/jobs/info/66a31117a876354708d31d80?utm_campaign=1053&utm_source=git)** | Port Chester, NY | On Site | Jul 26 |
 | **[Cars.com](http://cars.com)** | **[Editorial News Intern](https://jobright.ai/jobs/info/66a304495819e4bbe872d5ad?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 26 |
@@ -110,8 +111,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Acquisitions Trainee, Sony Pictures Classics – Summer/Fall](https://jobright.ai/jobs/info/669fde151c33ed13e0471a14?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Thesocialtalks](https://thesocialtalks.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/669fa4aeb1b0bcfa7f386b53?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 23 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Digital Video Social Content Intern, Remote, Fall 2024](https://jobright.ai/jobs/info/669fa00c23c3d3b512dfe633?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Jul 23 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Program & Content Strategy Intern: NYC - Fall 2024](https://jobright.ai/jobs/info/66832b6f57eb512f576b77db?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
-| ↳ | **[TNT Sports Talent Relations Intern: ATL - Fall 2024](https://jobright.ai/jobs/info/66833802b5752eff96c79ca1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jul 23 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[TNT Sports Talent Relations Intern: ATL - Fall 2024](https://jobright.ai/jobs/info/66833802b5752eff96c79ca1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jul 23 |
 | **[PBS Wisconsin](https://pbswisconsin.org)** | **[Indigenous Affairs Multimedia Reporter](https://jobright.ai/jobs/info/669f24c1530ea29d5f66999c?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Jul 23 |
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/669f04c51199fe6bc30f76bf?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Jul 23 |
 | **[NJEDA](https://www.njeda.com/)** | **[Fall Film Intern](https://jobright.ai/jobs/info/669efe77fd551666e1d03a94?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jul 22 |
@@ -137,5 +137,4 @@ For a complete list, see the full spreadsheet below:
 | **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Events Intern](https://jobright.ai/jobs/info/669c01c7b697c51bdf2fc486?utm_campaign=1053&utm_source=git)** | Frisco, Texas, United States | On Site | Jul 20 |
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Art Dwg/Paint Models](https://jobright.ai/jobs/info/669af9d444eb65333f442143?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jul 19 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Publishing Intern](https://jobright.ai/jobs/info/669992faeaece15dc98ab97f?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Hybrid | Jul 19 |
-| **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[Gallery Assistant - Student Hourly](https://jobright.ai/jobs/info/66a23755a3cccf144e988088?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
