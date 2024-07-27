@@ -58,15 +58,15 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c2?utm_campaign=1053&utm_source=git)** | South Carolina, United States | On Site | Jul 26 |
-| ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c5?utm_campaign=1053&utm_source=git)** | Ohio, United States | On Site | Jul 26 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c4?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Jul 26 |
+| ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c5?utm_campaign=1053&utm_source=git)** | Ohio, United States | On Site | Jul 26 |
+| ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a455bcc30fa95f24d7ed6a?utm_campaign=1053&utm_source=git)** | Michigan, United States | On Site | Jul 26 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a428f2fa09ee0c5722abdc?utm_campaign=1053&utm_source=git)** | Georgia, United States | On Site | Jul 26 |
 | ↳ | **[Fall 2024 Internship - Golf Tournament Operations](https://jobright.ai/jobs/info/66a428d7fa09ee0c5722a9bf?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jul 26 |
 | **[Golden Hippo](http://goldenhippomedia.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/66a4132a92c15a63eb8104fa?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 26 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a41c0a6d940da142e55003?utm_campaign=1053&utm_source=git)** | Courtland, MI | On Site | Jul 26 |
 | **[Verte Mode](https://vertemode.com/)** | **[Blog / Writing Asst Intern](https://jobright.ai/jobs/info/66a3fd65d61cea1521a46ea0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Goodman Theatre](http://www.goodmantheatre.org/)** | **[Stage Management Apprentice](https://jobright.ai/jobs/info/66a409c4f228ed543e4330ea?utm_campaign=1053&utm_source=git)** | Illinois, United States | On Site | Jul 26 |
-| **[Your Book Team](https://yourbookteam.com/)** | **[Erotica/Fantasy/Queer Editorial Intern](https://jobright.ai/jobs/info/66a3f4be5fcbfa8457ce113e?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Cars.com](http://cars.com)** | **[Editorial News Intern](https://jobright.ai/jobs/info/66a3e831b020465e7d35c8f2?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jul 26 |
 | ↳ | **[Copy Editing Intern](https://jobright.ai/jobs/info/66a3e831b020465e7d35c900?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jul 26 |
 | **[Nick the Marketer](https://nickthemarketer.com/)** | **[Social Media Video Production Internship](https://jobright.ai/jobs/info/66a3c9a355a005da42ef4dc6?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Jul 26 |
@@ -76,6 +76,7 @@ For a complete list, see the full spreadsheet below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/6672e7e3d742a3597e9ab8c7?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 26 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Intern, News](https://jobright.ai/jobs/info/664de0460790ade97e15e49a?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Jul 26 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/664dffe7d79e0cf76550113b?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Jul 26 |
+| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[6-MONTH TRAINING PROGRAM (NY)](https://jobright.ai/jobs/info/66758ac5e9630e29ff21469c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 26 |
 | **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Writing Intern](https://jobright.ai/jobs/info/66a366b9e88261f6c8a8cb86?utm_campaign=1053&utm_source=git)** | Waukesha, WI | On Site | Jul 26 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Internship](https://jobright.ai/jobs/info/66a31117a876354708d31d80?utm_campaign=1053&utm_source=git)** | Port Chester, NY | On Site | Jul 26 |
 | **[David Zwirner Gallery](http://www.davidzwirner.com/)** | **[Research Intern](https://jobright.ai/jobs/info/66a304525819e4bbe872d6ad?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 26 |
@@ -143,6 +144,4 @@ For a complete list, see the full spreadsheet below:
 | **[CNN](https://www.cnn.com)** | **[CNN International Internships: ATL - Fall 2024](https://jobright.ai/jobs/info/667f49524a8354e27fe8add5?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jul 20 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN News Show Team Internships: NYC - Fall 2024](https://jobright.ai/jobs/info/667f3b1c61f2588c341877ce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 20 |
 | ↳ | **[CNN News Show Team Internships: DC- Fall 2024](https://jobright.ai/jobs/info/667f4f393215408025c9e2ae?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 20 |
-| **[NBCUniversal Career](https://www.nbcunicareers.com/)** | **[NBC Sports Philadelphia Operations & Engineering Intern - Fall 2024](https://jobright.ai/jobs/info/669b3fd0decb6d26cf42d68d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 20 |
-| ↳ | **[NBC Sports Philadelphia Content Production Intern - Fall 2024](https://jobright.ai/jobs/info/669b3fd9decb6d26cf42d797?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
