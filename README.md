@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66a4c1702631fbda82ec2897?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jul 27 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c2?utm_campaign=1053&utm_source=git)** | South Carolina, United States | On Site | Jul 26 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c4?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Jul 26 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c5?utm_campaign=1053&utm_source=git)** | Ohio, United States | On Site | Jul 26 |
@@ -65,7 +66,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Fall 2024 Internship - Golf Tournament Operations](https://jobright.ai/jobs/info/66a428d7fa09ee0c5722a9bf?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jul 26 |
 | **[Golden Hippo](http://goldenhippomedia.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/66a4132a92c15a63eb8104fa?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 26 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a41c0a6d940da142e55003?utm_campaign=1053&utm_source=git)** | Courtland, MI | On Site | Jul 26 |
-| **[Verte Mode](https://vertemode.com/)** | **[Blog / Writing Asst Intern](https://jobright.ai/jobs/info/66a3fd65d61cea1521a46ea0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Goodman Theatre](http://www.goodmantheatre.org/)** | **[Stage Management Apprentice](https://jobright.ai/jobs/info/66a409c4f228ed543e4330ea?utm_campaign=1053&utm_source=git)** | Illinois, United States | On Site | Jul 26 |
 | **[Cars.com](http://cars.com)** | **[Editorial News Intern](https://jobright.ai/jobs/info/66a3e831b020465e7d35c8f2?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jul 26 |
 | ↳ | **[Copy Editing Intern](https://jobright.ai/jobs/info/66a3e831b020465e7d35c900?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jul 26 |
@@ -84,7 +84,6 @@ For a complete list, see the full spreadsheet below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Seasonal 2024-25)](https://jobright.ai/jobs/info/66a2e2f9621b00551f3627ac?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - DC BUREAU (Gray Media Group)](https://jobright.ai/jobs/info/66a2df67de8a34a2d334b3a1?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - KNOE](https://jobright.ai/jobs/info/66a2f94f0b24d815fe1233f7?utm_campaign=1053&utm_source=git)** | Monroe, LA | On Site | Jul 25 |
-| **[Fred Astaire Dance Studio](https://www.fredastaire.com/)** | **[Dance Trainee Interns](https://jobright.ai/jobs/info/66a2b940bac922b881df653c?utm_campaign=1053&utm_source=git)** | Westerville, OH | On Site | Jul 25 |
 | **[The American Journal of Healthcare Strategy](ajhcs.org)** | **[Journalist - Healthcare (Internship)](https://jobright.ai/jobs/info/66a2a153c1e76feabe4a6c59?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Video Accelerator Project Internship - Fall 2024](https://jobright.ai/jobs/info/668b2eca1b1249b8ab5fc1f1?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 25 |
 | **[Legal Pathway Society](https://engage.palmbeachstate.edu/organization/legal-pathway-society)** | **[Fall - Legal Journalism and Communications Intern](https://jobright.ai/jobs/info/66a28ab883c567e43429993b?utm_campaign=1053&utm_source=git)** | Florida, United States | On Site | Jul 25 |
@@ -117,7 +116,6 @@ For a complete list, see the full spreadsheet below:
 | **[Gray TV](http://www.gray.tv)** | **[ASSOCIATE NEWS PRODUCER (P/T) - NAT'L INVESTIGATIVE TEAM](https://jobright.ai/jobs/info/66a01c60928b7ff24b15cbc3?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Jul 23 |
 | **[A. N. Publishing](https://www.anpublishing.com/)** | **[Entertainment Feature Journalist (Internship)](https://jobright.ai/jobs/info/66a0e0d324925149e553d362?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[City of Memphis](https://www.memphistn.gov/)** | **[Urban Fellow - Fall 2024](https://jobright.ai/jobs/info/668c73994eab7a4cfbe542f5?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Jul 23 |
-| **[Brigham Young University](https://byu.edu)** | **[Editor - 132867](https://jobright.ai/jobs/info/669ff96b88333dda24b9974b?utm_campaign=1053&utm_source=git)** | Provo, UT | On Site | Jul 23 |
 | **[G-III Apparel Group](https://www.giii.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/669fe413b5682d011c297f98?utm_campaign=1053&utm_source=git)** | Lyndhurst, NJ | On Site | Jul 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2024](https://jobright.ai/jobs/info/669fde151c33ed13e0471a0c?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Jul 23 |
 | ↳ | **[Comedy Development Intern, SPT – Fall 2024](https://jobright.ai/jobs/info/669fde151c33ed13e0471a09?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Jul 23 |
@@ -140,8 +138,4 @@ For a complete list, see the full spreadsheet below:
 | **[Glendale Water & Power](https://www.glendaleca.gov)** | **[Hourly City Worker / Public Arts Intern](https://jobright.ai/jobs/info/669c3b61067bca3c613ee93d?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Jul 20 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Research, Analytics & Strategy Internships: NYC and DC - Fall 2024](https://jobright.ai/jobs/info/667f3b1c61f2588c341877fd?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 20 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/66626d1d577fa08f7109797c?utm_campaign=1053&utm_source=git)** | Missoula, MT | On Site | Jul 20 |
-| **[Gemini](https://gemini.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/667f493d4a8354e27fe8ac0e?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 20 |
-| **[CNN](https://www.cnn.com)** | **[CNN International Internships: ATL - Fall 2024](https://jobright.ai/jobs/info/667f49524a8354e27fe8add5?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jul 20 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN News Show Team Internships: NYC - Fall 2024](https://jobright.ai/jobs/info/667f3b1c61f2588c341877ce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 20 |
-| ↳ | **[CNN News Show Team Internships: DC- Fall 2024](https://jobright.ai/jobs/info/667f4f393215408025c9e2ae?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
