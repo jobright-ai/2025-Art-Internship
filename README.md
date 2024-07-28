@@ -58,9 +58,8 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Homes.com](http://www.homes.com)** | **[Homes.com Video Editor Internship - Fall 2024](https://jobright.ai/jobs/info/66a5b3f93f1b0b499438e0c5?utm_campaign=1053&utm_source=git)** | Richmond, VA | Hybrid | Jul 28 |
-| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66a4f18575e75f2f354153f7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 27 |
 | **[University of Utah](http://utah.edu)** | **[Publishing Intern](https://jobright.ai/jobs/info/66a4ebea12cb45f7568ff259?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 27 |
-| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66a4c1702631fbda82ec2897?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jul 27 |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66a4f37c759c00037af3ae6f?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jul 27 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c2?utm_campaign=1053&utm_source=git)** | South Carolina, United States | On Site | Jul 26 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c5?utm_campaign=1053&utm_source=git)** | Ohio, United States | On Site | Jul 26 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c4?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Jul 26 |
@@ -122,10 +121,9 @@ For a complete list, see the full spreadsheet below:
 | **[City of Memphis](https://www.memphistn.gov/)** | **[Urban Fellow - Fall 2024](https://jobright.ai/jobs/info/668c73994eab7a4cfbe542f5?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Jul 23 |
 | **[G-III Apparel Group](https://www.giii.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/669fe413b5682d011c297f98?utm_campaign=1053&utm_source=git)** | Lyndhurst, NJ | On Site | Jul 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2024](https://jobright.ai/jobs/info/669fde151c33ed13e0471a0c?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Jul 23 |
-| ↳ | **[Acquisitions Trainee, Sony Pictures Classics – Summer/Fall](https://jobright.ai/jobs/info/669fde151c33ed13e0471a14?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | ↳ | **[Comedy Development Intern, SPT – Fall 2024](https://jobright.ai/jobs/info/669fde151c33ed13e0471a09?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Jul 23 |
+| ↳ | **[Acquisitions Trainee, Sony Pictures Classics – Summer/Fall](https://jobright.ai/jobs/info/669fde151c33ed13e0471a14?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Thesocialtalks](https://thesocialtalks.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/669fa4aeb1b0bcfa7f386b53?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 23 |
-| **[Museum of Fine Arts](http://mfa.org)** | **[Photography Research Undergraduate Intern](https://jobright.ai/jobs/info/66a4dd578f787e32ccae0980?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 23 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Digital Video Social Content Intern, Remote, Fall 2024](https://jobright.ai/jobs/info/669fa00c23c3d3b512dfe633?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Jul 23 |
 | **[PBS Wisconsin](https://pbswisconsin.org)** | **[Indigenous Affairs Multimedia Reporter](https://jobright.ai/jobs/info/669f24c1530ea29d5f66999c?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Jul 23 |
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/669f04c51199fe6bc30f76bf?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Jul 23 |
@@ -136,6 +134,4 @@ For a complete list, see the full spreadsheet below:
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - WFIE](https://jobright.ai/jobs/info/669ec95afdd265daa4449169?utm_campaign=1053&utm_source=git)** | Evansville, IN | On Site | Jul 22 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Fall 2024 Subrights Intern](https://jobright.ai/jobs/info/66a0f51cf57f1c3ae4c326f8?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Jul 22 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Digital Video Social Content Intern, Remote, Fall 2024](https://jobright.ai/jobs/info/669e09741450f33d4a052145?utm_campaign=1053&utm_source=git)** | Bristol, CT, USA | On Site | Jul 22 |
-| **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - Original Video Production Editor / Shooter](https://jobright.ai/jobs/info/669cf4476def7480bf442480?utm_campaign=1053&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jul 21 |
-| **[Sinclair Broadcast](http://sbgi.net)** | **[News Production Assistant (Part-time)](https://jobright.ai/jobs/info/667efbe736ad47ed17be1d8a?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
