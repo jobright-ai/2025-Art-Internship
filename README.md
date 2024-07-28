@@ -57,12 +57,13 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4082b342f12424883922?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Jul 28 |
 | **[Homes.com](http://www.homes.com)** | **[Homes.com Video Editor Internship - Fall 2024](https://jobright.ai/jobs/info/66a5b3f93f1b0b499438e0c5?utm_campaign=1053&utm_source=git)** | Richmond, VA | Hybrid | Jul 28 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations - Fall 2024 Internship](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c5?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 27 |
+| ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations - Fall 2024 Internship](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c4?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jul 27 |
 | **[University of Utah](http://utah.edu)** | **[Publishing Intern](https://jobright.ai/jobs/info/66a4ebea12cb45f7568ff259?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 27 |
-| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66a4f37c759c00037af3ae6f?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jul 27 |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66a4f759eb88ef8eb154ffd6?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jul 27 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c2?utm_campaign=1053&utm_source=git)** | South Carolina, United States | On Site | Jul 26 |
-| ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c5?utm_campaign=1053&utm_source=git)** | Ohio, United States | On Site | Jul 26 |
-| ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c4?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Jul 26 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a455bcc30fa95f24d7ed6a?utm_campaign=1053&utm_source=git)** | Michigan, United States | On Site | Jul 26 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a428f2fa09ee0c5722abdc?utm_campaign=1053&utm_source=git)** | Georgia, United States | On Site | Jul 26 |
 | ↳ | **[Fall 2024 Internship - Golf Tournament Operations](https://jobright.ai/jobs/info/66a428d7fa09ee0c5722a9bf?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jul 26 |
@@ -98,17 +99,18 @@ For a complete list, see the full spreadsheet below:
 | **[Persimmon](https://www.persimmon.life/)** | **[Social Media Videographer Intern](https://jobright.ai/jobs/info/66a1c29c3d7ffc3c7ef5858b?utm_campaign=1053&utm_source=git)** | Larkspur, CA | On Site | Jul 25 |
 | **[Oregon State University](https://oregonstate.edu/)** | **[TikTok & Reels Content Creator](https://jobright.ai/jobs/info/66a1d306acfb8927a093b94c?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Jul 25 |
 | **[PHL17](https://www.phl17.com)** | **[Morning News Intern - Fall Semester](https://jobright.ai/jobs/info/66a18ae4886017c169bb0091?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 24 |
+| **[Chefs Culinar](https://www.chefsculinar.de/)** | **[Kaufmann (m/w/d) im Einzelhandel 2024](https://jobright.ai/jobs/info/669f2ae49a04b5cac6ca26a3?utm_campaign=1053&utm_source=git)** | Flensburg, MN | On Site | Jul 24 |
 | **[Hello Sunshine](https://hello-sunshine.com/)** | **[Fall 2024 Intern - Social & Editorial](https://jobright.ai/jobs/info/66a17ca7db94ded6371aa210?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 24 |
 | **[Brie](https://www.brie.co/)** | **[Fashion Internship](https://jobright.ai/jobs/info/66a1436f59051cfbf53a7ce1?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Jul 24 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONFERENCE PROGRAMMING](https://jobright.ai/jobs/info/66a260d797a3a7c64f0cc968?utm_campaign=1053&utm_source=git)** | Twin Cities Area | Hybrid | Jul 24 |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Board of Supervisors - Intern II (District 4)](https://jobright.ai/jobs/info/66a4efa660d7a0d393744ea7?utm_campaign=1053&utm_source=git)** | San Mateo County, CA | On Site | Jul 24 |
+| **[Brigham Young University](https://byu.edu)** | **[Editor - 132867](https://jobright.ai/jobs/info/66a630a54458ce3f787ceee5?utm_campaign=1053&utm_source=git)** | Provo, UT | On Site | Jul 24 |
 | **[James Madison Innovations](https://www.jmu.edu/innovation/jmi.shtml)** | **[CISE Feature Writer - IE](https://jobright.ai/jobs/info/66a101c6297b81d4e6a95320?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Jul 24 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2024 Intern - Artist Management (Los Angeles)](https://jobright.ai/jobs/info/6684950fbe126f4204d09756?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2024 Intern - Artist Management (Los Angeles)](https://jobright.ai/jobs/info/6684951cbe126f4204d0989f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2024 Intern - TV & Film](https://jobright.ai/jobs/info/668490d723fbc70f728b9dfd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2024 Intern - TV & Film](https://jobright.ai/jobs/info/66848d9ef77b2c8f7053f236?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[StoryBrand](https://storybrand.com/)** | **[Video Editing & Production Internship](https://jobright.ai/jobs/info/66a0b1315b9b997dc27ccf52?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jul 24 |
-| **[Chefs Culinar](https://www.chefsculinar.de/)** | **[Kaufmann (m/w/d) im Einzelhandel 2024](https://jobright.ai/jobs/info/66a0959a1cfc1609be830132?utm_campaign=1053&utm_source=git)** | Flensburg, MN | On Site | Jul 24 |
 | **[Lee Enterprises](http://lee.net/)** | **[Photo/Video Intern](https://jobright.ai/jobs/info/66a07ffcd12cb7411e99443c?utm_campaign=1053&utm_source=git)** | St Louis, MO | Hybrid | Jul 24 |
 | **[WETA](https://weta.org/)** | **[Internship – Digital Media, Local History](https://jobright.ai/jobs/info/66a14c11b48bc70bd7410c8f?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 24 |
 | **[SusieCakes](https://www.susiecakes.com)** | **[Culinary Internship - CIA Students ONLY](https://jobright.ai/jobs/info/66a13b2064d0e1054c2d34f1?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Jul 24 |
