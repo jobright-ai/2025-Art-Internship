@@ -63,7 +63,10 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c34762efa92a03b8950f7?utm_campaign=1053&utm_source=git)** | Wilkes-Barre, PA | On Site | Jul 28 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4082b342f12424883922?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Jul 28 |
 | ↳ | **[News Intern - Fall 2024 (The National Desk)](https://jobright.ai/jobs/info/6697ae8b7a2f0aa23b8b6f5a?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 28 |
+| ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c2f71126dc247d4f1bd0c?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Jul 28 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c408fb342f124248839e5?utm_campaign=1053&utm_source=git)** | Macon, GA | On Site | Jul 28 |
+| ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4475b3b6eb3a161ca731?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Jul 28 |
+| ↳ | **[ARC News Intern - Fall 2024](https://jobright.ai/jobs/info/666c34762efa92a03b8950de?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Jul 28 |
 | ↳ | **[ARC News Intern - Fall 2024](https://jobright.ai/jobs/info/666c34762efa92a03b89509d?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c34762efa92a03b8950ac?utm_campaign=1053&utm_source=git)** | El Paso, TX | On Site | Jul 28 |
 | ↳ | **[ARC News Intern - Fall 2024](https://jobright.ai/jobs/info/668699708255e2f2b23fef18?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jul 28 |
@@ -74,7 +77,6 @@ For a complete list, see the full spreadsheet below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations - Fall 2024 Internship](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c5?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 27 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations - Fall 2024 Internship](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c4?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jul 27 |
 | **[University of Utah](http://utah.edu)** | **[Publishing Intern](https://jobright.ai/jobs/info/66a4ebea12cb45f7568ff259?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 27 |
-| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66a4f759eb88ef8eb154ffd6?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jul 27 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c2?utm_campaign=1053&utm_source=git)** | South Carolina, United States | On Site | Jul 26 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a455bcc30fa95f24d7ed6a?utm_campaign=1053&utm_source=git)** | Michigan, United States | On Site | Jul 26 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a428f2fa09ee0c5722abdc?utm_campaign=1053&utm_source=git)** | Georgia, United States | On Site | Jul 26 |
