@@ -57,6 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teressa Foglia](https://teressafoglia.com/)** | **[Fashion Intern](https://jobright.ai/jobs/info/66a85f2402427a5cedacb466?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jul 30 |
+| **[ProPublica](http://propublica.org)** | **[Emerging Reporters 2024-2025](https://jobright.ai/jobs/info/66a848446ae1657ebc519273?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 30 |
+| **[Flash](https://www.flashsocial.app/)** | **[TikTok Content Creator Intern](https://jobright.ai/jobs/info/66a83b5ee09293cbe7e9fd54?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 30 |
 | **[FORCE Family Office](https://forcefamilyoffice.com/)** | **[Intern - Podcast](https://jobright.ai/jobs/info/66a8206f1e7438f0feef9a48?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 29 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Broadcast Internship (Fall 2024)](https://jobright.ai/jobs/info/66a81e30a0964582140839d5?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Jul 29 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Distribution Intern](https://jobright.ai/jobs/info/66a829aeb3e48a7ec3cfa4fc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 29 |
@@ -72,7 +75,6 @@ For a complete list, see the full spreadsheet below:
 | **[Awesome Inc](https://www.awesomeinc.org/links)** | **[Fall Videography Internship - Awesome Inc](https://jobright.ai/jobs/info/66a7a12e2083bf78d813622f?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Jul 29 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Fall 2024](https://jobright.ai/jobs/info/668b2eca1b1249b8ab5fc1ee?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 29 |
 | **[Fred Astaire Dance Studio](https://www.fredastaire.com/)** | **[Dance Trainee Interns](https://jobright.ai/jobs/info/66a6908f1d0f288d826096be?utm_campaign=1053&utm_source=git)** | Westerville, OH | On Site | Jul 28 |
-| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66a651752b37e7494ad3bf0c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 28 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/6671660e1d546f65f57a8f57?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Jul 28 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/66a771e639fd82c69c2800f7?utm_campaign=1053&utm_source=git)** | Wilkes-Barre, PA | On Site | Jul 28 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4475b3b6eb3a161ca6ec?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Jul 28 |
@@ -116,7 +118,6 @@ For a complete list, see the full spreadsheet below:
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Intern, News](https://jobright.ai/jobs/info/664de0460790ade97e15e49a?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Jul 26 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/664dffe7d79e0cf76550113b?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Jul 26 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[6-MONTH TRAINING PROGRAM (NY)](https://jobright.ai/jobs/info/66758ac5e9630e29ff21469c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 26 |
-| **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Writing Intern](https://jobright.ai/jobs/info/66a366b9e88261f6c8a8cb86?utm_campaign=1053&utm_source=git)** | Waukesha, WI | On Site | Jul 26 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Internship](https://jobright.ai/jobs/info/66a31117a876354708d31d80?utm_campaign=1053&utm_source=git)** | Port Chester, NY | On Site | Jul 26 |
 | **[American University](http://american.edu)** | **[Gallery Attendant (Student)](https://jobright.ai/jobs/info/66a2fc1d7d87c2086e260c85?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Seasonal 2024-25)](https://jobright.ai/jobs/info/66a2e2f9621b00551f3627ac?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 25 |
@@ -151,9 +152,8 @@ For a complete list, see the full spreadsheet below:
 | **[City of Memphis](https://www.memphistn.gov/)** | **[Urban Fellow - Fall 2024](https://jobright.ai/jobs/info/668c73994eab7a4cfbe542f5?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Jul 23 |
 | **[G-III Apparel Group](https://www.giii.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/669fe413b5682d011c297f98?utm_campaign=1053&utm_source=git)** | Lyndhurst, NJ | On Site | Jul 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2024](https://jobright.ai/jobs/info/669fde151c33ed13e0471a0c?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Jul 23 |
-| ↳ | **[Acquisitions Trainee, Sony Pictures Classics – Summer/Fall](https://jobright.ai/jobs/info/669fde151c33ed13e0471a14?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | ↳ | **[Comedy Development Intern, SPT – Fall 2024](https://jobright.ai/jobs/info/669fde151c33ed13e0471a09?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Jul 23 |
+| ↳ | **[Acquisitions Trainee, Sony Pictures Classics – Summer/Fall](https://jobright.ai/jobs/info/669fde151c33ed13e0471a14?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant (Production Assistant) - WHEL](https://jobright.ai/jobs/info/66a65a7dcc08ea19a4f04197?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Jul 23 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Digital Video Social Content Intern, Remote, Fall 2024](https://jobright.ai/jobs/info/669fa00c23c3d3b512dfe633?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Jul 23 |
-| **[PBS Wisconsin](https://pbswisconsin.org)** | **[Indigenous Affairs Multimedia Reporter](https://jobright.ai/jobs/info/669f24c1530ea29d5f66999c?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
