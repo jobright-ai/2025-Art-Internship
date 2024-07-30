@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4475b3b6eb3a161ca6f6?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jul 30 |
 | **[Teressa Foglia](https://teressafoglia.com/)** | **[Fashion Intern](https://jobright.ai/jobs/info/66a85f2402427a5cedacb466?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jul 30 |
 | **[ProPublica](http://propublica.org)** | **[Emerging Reporters 2024-2025](https://jobright.ai/jobs/info/66a848446ae1657ebc519273?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Flash](https://www.flashsocial.app/)** | **[TikTok Content Creator Intern](https://jobright.ai/jobs/info/66a83b5ee09293cbe7e9fd54?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 30 |
@@ -79,7 +80,10 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Hair Stylist Intern - Twin Lakes Redevelopment](https://jobright.ai/jobs/info/66a8a9f5419bf5d935fc65cf?utm_campaign=1053&utm_source=git)** | Towanda, KS | On Site | Jul 29 |
 | ↳ | **[Hair Stylist Intern - Brandywine Plaza](https://jobright.ai/jobs/info/66a8a9f5419bf5d935fc65d0?utm_campaign=1053&utm_source=git)** | Arlington, IN | On Site | Jul 29 |
 | **[Awesome Inc](https://www.awesomeinc.org/links)** | **[Fall Videography Internship - Awesome Inc](https://jobright.ai/jobs/info/66a7a12e2083bf78d813622f?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Jul 29 |
-| **[Great Clips](https://www.greatclips.com/)** | **[Hair Stylist Intern - Belmont Development](https://jobright.ai/jobs/info/66a8ae493d0e8885e6f543eb?utm_campaign=1053&utm_source=git)** | Apollo Beach, FL | On Site | Jul 29 |
+| **[Great Clips](https://www.greatclips.com/)** | **[Hair Stylist Intern - Brandywine Plaza](https://jobright.ai/jobs/info/66a8e6a58594e0f34494f174?utm_campaign=1053&utm_source=git)** | Markleville, IN | On Site | Jul 29 |
+| ↳ | **[Hair Stylist Intern - Twin Lakes Redevelopment](https://jobright.ai/jobs/info/66a8e6a58594e0f34494f178?utm_campaign=1053&utm_source=git)** | Peck, KS | On Site | Jul 29 |
+| ↳ | **[Hair Stylist Intern - Twin Lakes Redevelopment](https://jobright.ai/jobs/info/66a8e39cea31e3cf1069bb37?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jul 29 |
+| ↳ | **[Hair Stylist Intern - Belmont Development](https://jobright.ai/jobs/info/66a8ae493d0e8885e6f543eb?utm_campaign=1053&utm_source=git)** | Apollo Beach, FL | On Site | Jul 29 |
 | ↳ | **[Hair Stylist Intern - Brandywine Plaza](https://jobright.ai/jobs/info/66a8ae493d0e8885e6f543ef?utm_campaign=1053&utm_source=git)** | McCordsville, IN | On Site | Jul 29 |
 | ↳ | **[Hair Stylist Intern - Entrada Contenta](https://jobright.ai/jobs/info/66a8ae493d0e8885e6f543f1?utm_campaign=1053&utm_source=git)** | Algodones, NM | On Site | Jul 29 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/65e0c19f62e176d79a05312e?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Jul 29 |
@@ -144,7 +148,9 @@ For a complete list, see the full spreadsheet below:
 | **[PHL17](https://www.phl17.com)** | **[Morning News Intern - Fall Semester](https://jobright.ai/jobs/info/66a18ae4886017c169bb0091?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 24 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONFERENCE PROGRAMMING](https://jobright.ai/jobs/info/66a260d797a3a7c64f0cc968?utm_campaign=1053&utm_source=git)** | Twin Cities Area | Hybrid | Jul 24 |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Board of Supervisors - Intern II (District 4)](https://jobright.ai/jobs/info/66a4efa660d7a0d393744ea7?utm_campaign=1053&utm_source=git)** | San Mateo County, CA | On Site | Jul 24 |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2024] Research Resources - Archives Internship](https://jobright.ai/jobs/info/66a8e0a5aafd4a3489c52992?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[James Madison Innovations](https://www.jmu.edu/innovation/jmi.shtml)** | **[CISE Feature Writer - IE](https://jobright.ai/jobs/info/66a101c6297b81d4e6a95320?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Jul 24 |
+| **[Brigham Young University](https://byu.edu)** | **[Editor - 132867](https://jobright.ai/jobs/info/66a8ce2cf80144661b469586?utm_campaign=1053&utm_source=git)** | Provo, UT | On Site | Jul 24 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2024 Intern - Artist Management (Los Angeles)](https://jobright.ai/jobs/info/6684950fbe126f4204d09756?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2024 Intern - Artist Management (Los Angeles)](https://jobright.ai/jobs/info/6684951cbe126f4204d0989f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2024 Intern - TV & Film](https://jobright.ai/jobs/info/668490d723fbc70f728b9dfd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 24 |
@@ -164,5 +170,4 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Acquisitions Trainee, Sony Pictures Classics – Summer/Fall](https://jobright.ai/jobs/info/669fde151c33ed13e0471a14?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | ↳ | **[Comedy Development Intern, SPT – Fall 2024](https://jobright.ai/jobs/info/669fde151c33ed13e0471a09?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Jul 23 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant (Production Assistant) - WHEL](https://jobright.ai/jobs/info/66a65a7dcc08ea19a4f04197?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Jul 23 |
-| **[ESPN](http://espncareers.com)** | **[ESPN Digital Video Social Content Intern, Remote, Fall 2024](https://jobright.ai/jobs/info/669fa00c23c3d3b512dfe633?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
