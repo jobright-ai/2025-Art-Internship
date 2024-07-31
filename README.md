@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Univision Communications](http://univision.com)** | **[Intern, News Production](https://jobright.ai/jobs/info/66a9c2bd0a67794d37ca0629?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
+| **[Events Unlimited](http://www.EventsUnlimited.com)** | **[Stagehand](https://jobright.ai/jobs/info/66a9c75aa5a5dfa7e0217261?utm_campaign=1053&utm_source=git)** | Tualatin, OR | On Site | Jul 31 |
 | **[Creative Discovery Museum](https://www.cdmfun.org/)** | **[Exhibit Development Internship](https://jobright.ai/jobs/info/66a999e7f8d632f5b46302a2?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Jul 31 |
 | **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66a99c3076531eb15442689a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 31 |
 | **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[Video Production Assistant](https://jobright.ai/jobs/info/66a96471882c463f27fd13ad?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Jul 30 |
@@ -67,6 +69,7 @@ For a complete list, see the full spreadsheet below:
 | **[Miami HEAT](http://HEAT.com)** | **[Content Studio Intern](https://jobright.ai/jobs/info/66a916a47c8026bde6bb6123?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 30 |
 | **[Sequence Events](https://sequence-events.com/)** | **[Creative Event Internship](https://jobright.ai/jobs/info/66a8ff08bbfedd0091b88b7b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 30 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4475b3b6eb3a161ca6f6?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jul 30 |
+| **[Audacy](https://audacyinc.com/)** | **[Audacy Rochester Radio/Audio Programming Internship](https://jobright.ai/jobs/info/668c6182980e9b9331fff20f?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 30 |
 | **[Teressa Foglia](https://teressafoglia.com/)** | **[Fashion Intern](https://jobright.ai/jobs/info/66a85f2402427a5cedacb466?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jul 30 |
 | **[ProPublica](http://propublica.org)** | **[Emerging Reporters 2024-2025](https://jobright.ai/jobs/info/66a848446ae1657ebc519273?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[PICTURESTART](http://www.picturestart.com/)** | **[Film & TV Development Intern](https://jobright.ai/jobs/info/66a916b97c8026bde6bb6348?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
@@ -149,15 +152,8 @@ For a complete list, see the full spreadsheet below:
 | **[Persimmon](https://www.persimmon.life/)** | **[Social Media Videographer Intern](https://jobright.ai/jobs/info/66a1c29c3d7ffc3c7ef5858b?utm_campaign=1053&utm_source=git)** | Larkspur, CA | On Site | Jul 25 |
 | **[Oregon State University](https://oregonstate.edu/)** | **[TikTok & Reels Content Creator](https://jobright.ai/jobs/info/66a1d306acfb8927a093b94c?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Jul 25 |
 | **[PHL17](https://www.phl17.com)** | **[Morning News Intern - Fall Semester](https://jobright.ai/jobs/info/66a18ae4886017c169bb0091?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 24 |
-| **[Chefs Culinar](https://www.chefsculinar.de/)** | **[Kaufmann (m/w/d) im Einzelhandel 2024](https://jobright.ai/jobs/info/66a90cdeffdff4aa35a42c84?utm_campaign=1053&utm_source=git)** | Flensburg, MN | On Site | Jul 24 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONFERENCE PROGRAMMING](https://jobright.ai/jobs/info/66a260d797a3a7c64f0cc968?utm_campaign=1053&utm_source=git)** | Twin Cities Area | Hybrid | Jul 24 |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Board of Supervisors - Intern II (District 4)](https://jobright.ai/jobs/info/66a4efa660d7a0d393744ea7?utm_campaign=1053&utm_source=git)** | San Mateo County, CA | On Site | Jul 24 |
-| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2024] Research Resources - Archives Internship](https://jobright.ai/jobs/info/66a8e0a5aafd4a3489c52992?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[James Madison Innovations](https://www.jmu.edu/innovation/jmi.shtml)** | **[CISE Feature Writer - IE](https://jobright.ai/jobs/info/66a101c6297b81d4e6a95320?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Jul 24 |
 | **[Brigham Young University](https://byu.edu)** | **[Editor - 132867](https://jobright.ai/jobs/info/66a8ce2cf80144661b469586?utm_campaign=1053&utm_source=git)** | Provo, UT | On Site | Jul 24 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2024 Intern - Artist Management (Los Angeles)](https://jobright.ai/jobs/info/6684950fbe126f4204d09756?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
-| **[Roc Nation](http://rocnation.com)** | **[Fall 2024 Intern - Artist Management (Los Angeles)](https://jobright.ai/jobs/info/6684951cbe126f4204d0989f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2024 Intern - TV & Film](https://jobright.ai/jobs/info/668490d723fbc70f728b9dfd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 24 |
-| **[Roc Nation](http://rocnation.com)** | **[Fall 2024 Intern - TV & Film](https://jobright.ai/jobs/info/66848d9ef77b2c8f7053f236?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 24 |
-| **[StoryBrand](https://storybrand.com/)** | **[Video Editing & Production Internship](https://jobright.ai/jobs/info/66a0b1315b9b997dc27ccf52?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
