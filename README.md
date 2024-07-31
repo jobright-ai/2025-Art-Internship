@@ -57,10 +57,12 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Fall 2024](https://jobright.ai/jobs/info/66aa21e9e9819a8838850870?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | Hybrid | Jul 31 |
+| **[GovExec](https://about.govexec.com/)** | **[Editorial Intern, City & State New York](https://jobright.ai/jobs/info/66aa04dbe9a5294ab509c6fe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Univision Communications](http://univision.com)** | **[Intern, News Production](https://jobright.ai/jobs/info/66a9c2bd0a67794d37ca0629?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
 | **[Events Unlimited](http://www.EventsUnlimited.com)** | **[Stagehand](https://jobright.ai/jobs/info/66a9c75aa5a5dfa7e0217261?utm_campaign=1053&utm_source=git)** | Tualatin, OR | On Site | Jul 31 |
 | **[Creative Discovery Museum](https://www.cdmfun.org/)** | **[Exhibit Development Internship](https://jobright.ai/jobs/info/66a999e7f8d632f5b46302a2?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Jul 31 |
-| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66a99c3076531eb15442689a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 31 |
+| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66aa2ee9a1aac0429304fbe7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 31 |
 | **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[Video Production Assistant](https://jobright.ai/jobs/info/66a96471882c463f27fd13ad?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Jul 30 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[News Intern](https://jobright.ai/jobs/info/66a95997a4620bb6225ba153?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Jul 30 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Hyatt Regency Cincinnati](https://jobright.ai/jobs/info/66a94f02aa707341f03e52df?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 30 |
@@ -139,7 +141,6 @@ For a complete list, see the full spreadsheet below:
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Intern, News](https://jobright.ai/jobs/info/664de0460790ade97e15e49a?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Jul 26 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/664dffe7d79e0cf76550113b?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Jul 26 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[6-MONTH TRAINING PROGRAM (NY)](https://jobright.ai/jobs/info/66758ac5e9630e29ff21469c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 26 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Internship](https://jobright.ai/jobs/info/66a31117a876354708d31d80?utm_campaign=1053&utm_source=git)** | Port Chester, NY | On Site | Jul 26 |
 | **[American University](http://american.edu)** | **[Gallery Attendant (Student)](https://jobright.ai/jobs/info/66a2fc1d7d87c2086e260c85?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Seasonal 2024-25)](https://jobright.ai/jobs/info/66a2e2f9621b00551f3627ac?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - DC BUREAU (Gray Media Group)](https://jobright.ai/jobs/info/66a2df67de8a34a2d334b3a1?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 25 |
@@ -153,7 +154,4 @@ For a complete list, see the full spreadsheet below:
 | **[Oregon State University](https://oregonstate.edu/)** | **[TikTok & Reels Content Creator](https://jobright.ai/jobs/info/66a1d306acfb8927a093b94c?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Jul 25 |
 | **[PHL17](https://www.phl17.com)** | **[Morning News Intern - Fall Semester](https://jobright.ai/jobs/info/66a18ae4886017c169bb0091?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 24 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONFERENCE PROGRAMMING](https://jobright.ai/jobs/info/66a260d797a3a7c64f0cc968?utm_campaign=1053&utm_source=git)** | Twin Cities Area | Hybrid | Jul 24 |
-| **[County of San Mateo](https://www.smcgov.org)** | **[Board of Supervisors - Intern II (District 4)](https://jobright.ai/jobs/info/66a4efa660d7a0d393744ea7?utm_campaign=1053&utm_source=git)** | San Mateo County, CA | On Site | Jul 24 |
-| **[James Madison Innovations](https://www.jmu.edu/innovation/jmi.shtml)** | **[CISE Feature Writer - IE](https://jobright.ai/jobs/info/66a101c6297b81d4e6a95320?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Jul 24 |
-| **[Brigham Young University](https://byu.edu)** | **[Editor - 132867](https://jobright.ai/jobs/info/66a8ce2cf80144661b469586?utm_campaign=1053&utm_source=git)** | Provo, UT | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
