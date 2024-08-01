@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TESstylist](http://tesstylist.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/66ab68aa665ebbd4c2364ad6?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 01 |
 | **[CHEN BURKETT NEW YORK](https://www.chenburkett.com/)** | **[Fashion Week Internships](https://jobright.ai/jobs/info/66aaf11f9caad67c14dcb5e8?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Content Editor](https://jobright.ai/jobs/info/66aaebf3731bb4be1dc89289?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Jul 31 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Spectrum News Fellowship Program - Louisville](https://jobright.ai/jobs/info/66aaebf3731bb4be1dc8928f?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Jul 31 |
@@ -71,7 +72,6 @@ For a complete list, see the full spreadsheet below:
 | **[Atoms](https://atoms.com)** | **[Content Intern (Video-Focused)](https://jobright.ai/jobs/info/66aa86641144d99dfa0912d4?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Television Music Creative Intern – Fall 2024](https://jobright.ai/jobs/info/66aa723d53a197412c50f97d?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Jul 31 |
 | ↳ | **[Post Production Trainee, Sony Pictures Classics – Fall 2024](https://jobright.ai/jobs/info/66aa723d53a197412c50f96b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
-| **[Hatch Collection](https://www.hatchcollection.com)** | **[FALL 2024 PRODUCTION INTERN](https://jobright.ai/jobs/info/66aa768a11090b804d0b6e65?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 31 |
 | **[NJEDA](https://www.njeda.com/)** | **[Fall Film Intern](https://jobright.ai/jobs/info/669efe77fd551666e1d03a94?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jul 31 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Fall 2024](https://jobright.ai/jobs/info/66aa21e9e9819a8838850870?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | Hybrid | Jul 31 |
 | **[GovExec](https://about.govexec.com/)** | **[Editorial Intern, City & State New York](https://jobright.ai/jobs/info/66aa04dbe9a5294ab509c6fe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
@@ -154,5 +154,4 @@ For a complete list, see the full spreadsheet below:
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - DC BUREAU (Gray Media Group)](https://jobright.ai/jobs/info/66a2df67de8a34a2d334b3a1?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - KNOE](https://jobright.ai/jobs/info/66a2f94f0b24d815fe1233f7?utm_campaign=1053&utm_source=git)** | Monroe, LA | On Site | Jul 25 |
 | ↳ | **[GRAY TELEVISION FUTURE FOCUS INTERN FALL '24 - KALB](https://jobright.ai/jobs/info/66a263fd8740ffe76eca5a72?utm_campaign=1053&utm_source=git)** | Alexandria, LA | On Site | Jul 25 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant](https://jobright.ai/jobs/info/66a3e1cdfa1e56eccb8f5af3?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
