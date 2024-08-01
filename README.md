@@ -90,7 +90,6 @@ For a complete list, see the full spreadsheet below:
 | **[Sequence Events](https://sequence-events.com/)** | **[Creative Event Internship](https://jobright.ai/jobs/info/66a8ff08bbfedd0091b88b7b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 30 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4475b3b6eb3a161ca6f6?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jul 30 |
 | **[Audacy](https://audacyinc.com/)** | **[Audacy Rochester Radio/Audio Programming Internship](https://jobright.ai/jobs/info/668c6182980e9b9331fff20f?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 30 |
-| **[Teressa Foglia](https://teressafoglia.com/)** | **[Fashion Intern](https://jobright.ai/jobs/info/66a85f2402427a5cedacb466?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jul 30 |
 | **[ProPublica](http://propublica.org)** | **[Emerging Reporters 2024-2025](https://jobright.ai/jobs/info/66a848446ae1657ebc519273?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[PICTURESTART](http://www.picturestart.com/)** | **[Film & TV Development Intern](https://jobright.ai/jobs/info/66a916b97c8026bde6bb6348?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
 | **[FORCE Family Office](https://forcefamilyoffice.com/)** | **[Intern - Podcast](https://jobright.ai/jobs/info/66a8206f1e7438f0feef9a48?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 29 |
@@ -156,7 +155,4 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - KNOE](https://jobright.ai/jobs/info/66a2f94f0b24d815fe1233f7?utm_campaign=1053&utm_source=git)** | Monroe, LA | On Site | Jul 25 |
 | ↳ | **[GRAY TELEVISION FUTURE FOCUS INTERN FALL '24 - KALB](https://jobright.ai/jobs/info/66a263fd8740ffe76eca5a72?utm_campaign=1053&utm_source=git)** | Alexandria, LA | On Site | Jul 25 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant](https://jobright.ai/jobs/info/66a3e1cdfa1e56eccb8f5af3?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Jul 25 |
-| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/664de06a0790ade97e15e7b9?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 25 |
-| **[Reach Records](https://www.reachrecords.com)** | **[Reach Records Studio Internship - Fall 2024](https://jobright.ai/jobs/info/66a1fcab234529e5c98906f3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
-| ↳ | **[Reach Records Label Operations & Publishing Intern - Fall 2024](https://jobright.ai/jobs/info/66a1fcab234529e5c98906f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
