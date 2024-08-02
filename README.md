@@ -155,6 +155,4 @@ For a complete list, see the full spreadsheet below:
 | **[Goodman Theatre](http://www.goodmantheatre.org/)** | **[Stage Management Apprentice](https://jobright.ai/jobs/info/66a409c4f228ed543e4330ea?utm_campaign=1053&utm_source=git)** | Illinois, United States | On Site | Jul 26 |
 | **[Cars.com](http://cars.com)** | **[Editorial News Intern](https://jobright.ai/jobs/info/66a3e831b020465e7d35c8f2?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jul 26 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Intern I, News](https://jobright.ai/jobs/info/6672e80cd742a3597e9aba0f?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Jul 26 |
-| **[Nick the Marketer](https://nickthemarketer.com/)** | **[Social Media Video Production Internship](https://jobright.ai/jobs/info/66a3c9a355a005da42ef4dc6?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Jul 26 |
-| **[Twinkle Photo Booth](https://www.theiloveteam.com)** | **[TikTok Content Creator Intern - Fall 2024](https://jobright.ai/jobs/info/66a4d8ac88f8153d07a15994?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
