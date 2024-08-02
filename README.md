@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DreamArc Animation Studios](https://dreamarc.wixsite.com/dreamarc-studios)** | **[Traditional Animator (Unpaid Internship)](https://jobright.ai/jobs/info/66ac5aa4f65273de08c099fb?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 02 |
+| **[Acosta Sales & Marketing](https://www.acosta.com)** | **[The Culinary Edge Fall Strategy Internship](https://jobright.ai/jobs/info/66ac5cdbb821cac9db1ad576?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Aug 02 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Fall Unpaid Podcast Editor Intern](https://jobright.ai/jobs/info/66ac396818f1842a78147262?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 02 |
 | **[Gulfshore Life](https://www.gulfshorelife.com/)** | **[Fall 2024 Editorial Fellowship](https://jobright.ai/jobs/info/66ac3e5c8b7a337889b2f458?utm_campaign=1053&utm_source=git)** | Fort Myers, FL | On Site | Aug 02 |
 | **[Zobe](http://www.zobemodelsandtalents.com/)** | **[Content Creator / Video Contributor (Internship)](https://jobright.ai/jobs/info/66ac13e77d9338aa434ed980?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
