@@ -57,12 +57,15 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Fall Unpaid Podcast Editor Intern](https://jobright.ai/jobs/info/66ac396818f1842a78147262?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 02 |
+| **[Gulfshore Life](https://www.gulfshorelife.com/)** | **[Fall 2024 Editorial Fellowship](https://jobright.ai/jobs/info/66ac3e5c8b7a337889b2f458?utm_campaign=1053&utm_source=git)** | Fort Myers, FL | On Site | Aug 02 |
 | **[Zobe](http://www.zobemodelsandtalents.com/)** | **[Content Creator / Video Contributor (Internship)](https://jobright.ai/jobs/info/66ac13e77d9338aa434ed980?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Los Angeles County Museum of Art](http://www.lacma.org/)** | **[Exhibitions Paid-Internship](https://jobright.ai/jobs/info/66ac0e362fbfcf5d8284a5e4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Digital Features Intern: ATL - Fall 2024](https://jobright.ai/jobs/info/66ac06447203e2d0482718a7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Aug 01 |
 | **[University of Florida](https://www.ufl.edu)** | **[Student Assistant - Social Media and Videography](https://jobright.ai/jobs/info/66ac1d25350d2169736bb913?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Aug 01 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-IMC Content Communications-Photography & Video Production Assistant](https://jobright.ai/jobs/info/66abe58cbcbb6598d895e8f3?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Aug 01 |
 | **[The Jamestown Foundation](http://www.jamestown.org)** | **[Russia & Eurasia Research and Editing Internship](https://jobright.ai/jobs/info/66abd3bd27554b214c0fce78?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | On Site | Aug 01 |
+| **[Golden Hippo](http://goldenhippomedia.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/66a4132a92c15a63eb8104fa?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
 | **[TESstylist](http://tesstylist.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/66ab68aa665ebbd4c2364ad6?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 01 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[Summer News Intern 2024](https://jobright.ai/jobs/info/669143a9c955583661a6e1bc?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 01 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[NewsNation News Internship Fall 2024 (Chicago or New York)](https://jobright.ai/jobs/info/6690a06777aee8172e7ac407?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
@@ -144,7 +147,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a455bcc30fa95f24d7ed6a?utm_campaign=1053&utm_source=git)** | Michigan, United States | On Site | Jul 26 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a428f2fa09ee0c5722abdc?utm_campaign=1053&utm_source=git)** | Georgia, United States | On Site | Jul 26 |
 | ↳ | **[Fall 2024 Internship - Golf Tournament Operations](https://jobright.ai/jobs/info/66a428d7fa09ee0c5722a9bf?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jul 26 |
-| **[Golden Hippo](http://goldenhippomedia.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/66a4132a92c15a63eb8104fa?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 26 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Spectrum News Fellowship Program - Syracuse](https://jobright.ai/jobs/info/66abf57cf1bf4cd610827142?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Jul 26 |
 | **[Goodman Theatre](http://www.goodmantheatre.org/)** | **[Stage Management Apprentice](https://jobright.ai/jobs/info/66a409c4f228ed543e4330ea?utm_campaign=1053&utm_source=git)** | Illinois, United States | On Site | Jul 26 |
 | **[Cars.com](http://cars.com)** | **[Editorial News Intern](https://jobright.ai/jobs/info/66a3e831b020465e7d35c8f2?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jul 26 |
