@@ -58,7 +58,7 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Minneapolis/St. Paul Business Journal (MSPBJ)](http://www.mspbj.com)** | **[Editorial intern](https://jobright.ai/jobs/info/66ad1961849f465eaf1ab885?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 02 |
-| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66acdc51d6d678557d6ede6f?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
+| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66ace2fe800124810c1899f3?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
 | **[Creative Discovery Museum](https://www.cdmfun.org/)** | **[Exhibit Development Internship](https://jobright.ai/jobs/info/66aca1a61ced114dd585c328?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Aug 02 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66aca9afab982806fcfbc4e3?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Aug 02 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[CNN Digital Features Intern: ATL - Fall 2024](https://jobright.ai/jobs/info/66aca1951ced114dd585c173?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 02 |
@@ -150,8 +150,4 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations - Fall 2024 Internship](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c4?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Jul 27 |
 | **[University of Utah](http://utah.edu)** | **[Publishing Intern](https://jobright.ai/jobs/info/66a4ebea12cb45f7568ff259?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 27 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations - Fall 2024 Internship](https://jobright.ai/jobs/info/66a41c0a6d940da142e55003?utm_campaign=1053&utm_source=git)** | Courtland, MI | On Site | Jul 27 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a42ab7878605eeeff980c2?utm_campaign=1053&utm_source=git)** | South Carolina, United States | On Site | Jul 26 |
-| ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a455bcc30fa95f24d7ed6a?utm_campaign=1053&utm_source=git)** | Michigan, United States | On Site | Jul 26 |
-| ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/66a428f2fa09ee0c5722abdc?utm_campaign=1053&utm_source=git)** | Georgia, United States | On Site | Jul 26 |
-| ↳ | **[Fall 2024 Internship - Golf Tournament Operations](https://jobright.ai/jobs/info/66a428d7fa09ee0c5722a9bf?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
