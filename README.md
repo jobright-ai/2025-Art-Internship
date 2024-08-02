@@ -57,6 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Creative Discovery Museum](https://www.cdmfun.org/)** | **[Exhibit Development Internship](https://jobright.ai/jobs/info/66aca1a61ced114dd585c328?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Aug 02 |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66aca9afab982806fcfbc4e3?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Aug 02 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[CNN Digital Features Intern: ATL - Fall 2024](https://jobright.ai/jobs/info/66aca1951ced114dd585c173?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 02 |
 | **[DreamArc Animation Studios](https://dreamarc.wixsite.com/dreamarc-studios)** | **[Traditional Animator (Unpaid Internship)](https://jobright.ai/jobs/info/66ac5aa4f65273de08c099fb?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Acosta Sales & Marketing](https://www.acosta.com)** | **[The Culinary Edge Fall Strategy Internship](https://jobright.ai/jobs/info/66ac5cdbb821cac9db1ad576?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Aug 02 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Fall Unpaid Podcast Editor Intern](https://jobright.ai/jobs/info/66ac396818f1842a78147262?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 02 |
@@ -155,10 +158,4 @@ For a complete list, see the full spreadsheet below:
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Intern I, News](https://jobright.ai/jobs/info/6672e80cd742a3597e9aba0f?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Jul 26 |
 | **[Nick the Marketer](https://nickthemarketer.com/)** | **[Social Media Video Production Internship](https://jobright.ai/jobs/info/66a3c9a355a005da42ef4dc6?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Jul 26 |
 | **[Twinkle Photo Booth](https://www.theiloveteam.com)** | **[TikTok Content Creator Intern - Fall 2024](https://jobright.ai/jobs/info/66a4d8ac88f8153d07a15994?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 26 |
-| **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2023](https://jobright.ai/jobs/info/662543563f7bae0344291527?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Jul 26 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN DC News Associate – Rotational Program](https://jobright.ai/jobs/info/666a6536ca7ce031c1c10616?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 26 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/6672e7e3d742a3597e9ab8c7?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 26 |
-| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Intern, News](https://jobright.ai/jobs/info/664de0460790ade97e15e49a?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Jul 26 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/664dffe7d79e0cf76550113b?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Jul 26 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[6-MONTH TRAINING PROGRAM (NY)](https://jobright.ai/jobs/info/66758ac5e9630e29ff21469c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
