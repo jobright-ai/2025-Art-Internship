@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66ace2fe800124810c1899f3?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
 | **[Creative Discovery Museum](https://www.cdmfun.org/)** | **[Exhibit Development Internship](https://jobright.ai/jobs/info/66aca1a61ced114dd585c328?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Aug 02 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66aca9afab982806fcfbc4e3?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Aug 02 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[CNN Digital Features Intern: ATL - Fall 2024](https://jobright.ai/jobs/info/66aca1951ced114dd585c173?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 02 |
@@ -127,7 +128,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4082b342f12424883922?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Jul 28 |
 | ↳ | **[News Intern - Fall 2024 (The National Desk)](https://jobright.ai/jobs/info/6697ae8b7a2f0aa23b8b6f5a?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 28 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c408fb342f124248839bb?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 28 |
-| ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c2f71126dc247d4f1bd0c?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Jul 28 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c408fb342f124248839e5?utm_campaign=1053&utm_source=git)** | Macon, GA | On Site | Jul 28 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4475b3b6eb3a161ca731?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Jul 28 |
 | ↳ | **[ARC News Intern - Fall 2024](https://jobright.ai/jobs/info/666c34762efa92a03b8950de?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Jul 28 |
