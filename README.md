@@ -64,6 +64,7 @@ For a complete list, see the full spreadsheet below:
 | **[DreamArc Animation Studios](https://dreamarc.wixsite.com/dreamarc-studios)** | **[Traditional Animator (Unpaid Internship)](https://jobright.ai/jobs/info/66ac5aa4f65273de08c099fb?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Fall Unpaid Podcast Editor Intern](https://jobright.ai/jobs/info/66ac396818f1842a78147262?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 02 |
 | **[Gulfshore Life](https://www.gulfshorelife.com/)** | **[Fall 2024 Editorial Fellowship](https://jobright.ai/jobs/info/66ac3e5c8b7a337889b2f458?utm_campaign=1053&utm_source=git)** | Fort Myers, FL | On Site | Aug 02 |
+| **[NorthStar Memorial Group](http://nsmg.com)** | **[Funeral Dirctor/Embalmer Apprentice](https://jobright.ai/jobs/info/66acf722afa5afa409c6f34a?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Aug 02 |
 | **[The Huntington Library](http://www.huntington.org/)** | **[Botanical Intern, Orchid Collections](https://jobright.ai/jobs/info/6662a6e9b94cf507771383cf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
 | **[Zobe](http://www.zobemodelsandtalents.com/)** | **[Content Creator / Video Contributor (Internship)](https://jobright.ai/jobs/info/66ac13e77d9338aa434ed980?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Los Angeles County Museum of Art](http://www.lacma.org/)** | **[Exhibitions Paid-Internship](https://jobright.ai/jobs/info/66ac0e362fbfcf5d8284a5e4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
@@ -154,5 +155,4 @@ For a complete list, see the full spreadsheet below:
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Spectrum News Fellowship Program - Syracuse](https://jobright.ai/jobs/info/66abf57cf1bf4cd610827142?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Jul 26 |
 | **[Goodman Theatre](http://www.goodmantheatre.org/)** | **[Stage Management Apprentice](https://jobright.ai/jobs/info/66a409c4f228ed543e4330ea?utm_campaign=1053&utm_source=git)** | Illinois, United States | On Site | Jul 26 |
 | **[Cars.com](http://cars.com)** | **[Editorial News Intern](https://jobright.ai/jobs/info/66a3e831b020465e7d35c8f2?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jul 26 |
-| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Intern I, News](https://jobright.ai/jobs/info/6672e80cd742a3597e9aba0f?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
