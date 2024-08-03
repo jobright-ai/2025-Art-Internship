@@ -58,7 +58,7 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Minneapolis/St. Paul Business Journal (MSPBJ)](http://www.mspbj.com)** | **[Editorial intern](https://jobright.ai/jobs/info/66ad1961849f465eaf1ab885?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 02 |
-| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66ace2fe800124810c1899f3?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
+| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66acdc51d6d678557d6ede6f?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
 | **[Creative Discovery Museum](https://www.cdmfun.org/)** | **[Exhibit Development Internship](https://jobright.ai/jobs/info/66aca1a61ced114dd585c328?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Aug 02 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66aca9afab982806fcfbc4e3?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Aug 02 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[CNN Digital Features Intern: ATL - Fall 2024](https://jobright.ai/jobs/info/66aca1951ced114dd585c173?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 02 |
@@ -95,7 +95,6 @@ For a complete list, see the full spreadsheet below:
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Fall 2024](https://jobright.ai/jobs/info/66aa21e9e9819a8838850870?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | Hybrid | Jul 31 |
 | **[GovExec](https://about.govexec.com/)** | **[Editorial Intern, City & State New York](https://jobright.ai/jobs/info/66aa04dbe9a5294ab509c6fe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Univision Communications](http://univision.com)** | **[Intern, News Production](https://jobright.ai/jobs/info/66a9c2bd0a67794d37ca0629?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
-| **[Creative Discovery Museum](https://www.cdmfun.org/)** | **[Exhibit Development Internship](https://jobright.ai/jobs/info/66a999e7f8d632f5b46302a2?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Jul 31 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY TELEVISION FUTURE FOCUS INTERN FALL '24 - KAIT](https://jobright.ai/jobs/info/66aadb2a2994fe0f991cf490?utm_campaign=1053&utm_source=git)** | Jonesboro, AR | On Site | Jul 31 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[2024 Fall Subrights Intern - NY](https://jobright.ai/jobs/info/66aadacf484bac8dba9c35ea?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Jul 31 |
 | **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[Video Production Assistant](https://jobright.ai/jobs/info/66a96471882c463f27fd13ad?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Jul 30 |
