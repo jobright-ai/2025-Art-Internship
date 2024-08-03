@@ -57,12 +57,14 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hired In Michigan](https://hiredinmichigan.com)** | **[Digital News Website Editor Intern](https://jobright.ai/jobs/info/66adc32af4d3950a012e25b2?utm_campaign=1053&utm_source=git)** | Michigan, United States | On Site | Aug 03 |
 | **[Community Impact](https://communityimpact.com)** | **[Fall Editorial Intern](https://jobright.ai/jobs/info/66adbb350b96d651c11aa35b?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Aug 03 |
 | ↳ | **[Fall Editorial Intern](https://jobright.ai/jobs/info/66adbb350b96d651c11aa35f?utm_campaign=1053&utm_source=git)** | Pflugerville, TX | On Site | Aug 03 |
-| **[Right Fit Reading](http://www.openroadmedia.com)** | **[Content Writing Intern – For-Credit Fall 2024](https://jobright.ai/jobs/info/66ad87d37da302a514b56295?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
-| ↳ | **[Content Writing Intern – Paid Fall 2024](https://jobright.ai/jobs/info/66ad87d37da302a514b56298?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| **[Right Fit Reading](http://www.openroadmedia.com)** | **[Content Writing Intern – Paid Fall 2024](https://jobright.ai/jobs/info/66ad87d37da302a514b56298?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| ↳ | **[Content Writing Intern – For-Credit Fall 2024](https://jobright.ai/jobs/info/66ad87d37da302a514b56295?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[Stevens Institute of Technology](http://www.stevens.edu/)** | **[Undergraduate Student Content Creator — Office of University Relations](https://jobright.ai/jobs/info/66ad7f7992e2656d513b6d23?utm_campaign=1053&utm_source=git)** | Hoboken, NJ | Hybrid | Aug 02 |
 | **[David Zwirner Gallery](http://www.davidzwirner.com/)** | **[Art Fair Intern](https://jobright.ai/jobs/info/66ad79ead9adb323066481e6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 02 |
+| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/65e23685dc338666e9fe7e82?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
 | **[Minneapolis/St. Paul Business Journal (MSPBJ)](http://www.mspbj.com)** | **[Editorial intern](https://jobright.ai/jobs/info/66ad1961849f465eaf1ab885?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 02 |
 | **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66ace2fe800124810c1899f3?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Producer Intern- Fall, 2024](https://jobright.ai/jobs/info/6690d39b79efb2825e66432b?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Aug 02 |
@@ -115,7 +117,6 @@ For a complete list, see the full spreadsheet below:
 | **[ProPublica](http://propublica.org)** | **[Emerging Reporters 2024-2025](https://jobright.ai/jobs/info/66a848446ae1657ebc519273?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[PICTURESTART](http://www.picturestart.com/)** | **[Film & TV Development Intern](https://jobright.ai/jobs/info/66a916b97c8026bde6bb6348?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
 | **[FORCE Family Office](https://forcefamilyoffice.com/)** | **[Intern - Podcast](https://jobright.ai/jobs/info/66a8206f1e7438f0feef9a48?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 29 |
-| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Broadcast Internship (Fall 2024)](https://jobright.ai/jobs/info/66a81e30a0964582140839d5?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Jul 29 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Distribution Intern](https://jobright.ai/jobs/info/66a829aeb3e48a7ec3cfa4fc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 29 |
 | **[Los Angeles County Museum of Art](http://www.lacma.org/)** | **[Collections Management, Works on Paper Paid-Internship](https://jobright.ai/jobs/info/66a81b05fa706e9dba460c91?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 29 |
 | **[David Zwirner Gallery](http://www.davidzwirner.com/)** | **[Research Intern](https://jobright.ai/jobs/info/66a825e06aed007a84bbb3ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 29 |
