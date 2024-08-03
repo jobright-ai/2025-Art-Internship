@@ -58,13 +58,16 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Seamgen](http://www.seamgen.com/)** | **[AI Content Writing Internship](https://jobright.ai/jobs/info/66ae8c3223d75d1963d77944?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Aug 03 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66ae88c9e8c338b0cc615941?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66ae88cae8c338b0cc6159f1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/66ae6d13ca9978cdf17e87a9?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Aug 03 |
 | **[Your Book Team](https://yourbookteam.com/)** | **[Non Fiction Self-Help Editor](https://jobright.ai/jobs/info/66ae1c3eafab4cd83de5b80e?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[Qurate Retail Group](https://www.qurateretailgroup.com/)** | **[QVC Talent Service Fall Internship](https://jobright.ai/jobs/info/669172602b5e177ed6cb02d0?utm_campaign=1053&utm_source=git)** | West Chester, PA | On Site | Aug 03 |
+| **[City of Memphis](https://www.memphistn.gov/)** | **[Urban Fellow - Fall 2024](https://jobright.ai/jobs/info/668c73994eab7a4cfbe542f5?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Aug 03 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/660eb0d5daed97ef0b8b7e6b?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Aug 03 |
+| ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/660ece5f1cbac0908bb9d833?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 03 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/664e513bc0761b8d87f7cb08?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Aug 03 |
 | **[Univision Communications](http://univision.com)** | **[Talent Usher - Seasonal](https://jobright.ai/jobs/info/65fa3bbf188ffb258a537907?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Aug 03 |
+| **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6675f2f72617111d53a43df5?utm_campaign=1053&utm_source=git)** | Traverse City, MI | Hybrid | Aug 03 |
 | **[Hired In Michigan](https://hiredinmichigan.com)** | **[Digital News Website Editor Intern](https://jobright.ai/jobs/info/66adc32af4d3950a012e25b2?utm_campaign=1053&utm_source=git)** | Michigan, United States | On Site | Aug 03 |
 | **[Community Impact](https://communityimpact.com)** | **[Fall Editorial Intern](https://jobright.ai/jobs/info/66adbb350b96d651c11aa35b?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Aug 03 |
 | ↳ | **[Fall Editorial Intern](https://jobright.ai/jobs/info/66adbb350b96d651c11aa35f?utm_campaign=1053&utm_source=git)** | Pflugerville, TX | On Site | Aug 03 |
@@ -76,7 +79,6 @@ For a complete list, see the full spreadsheet below:
 | **[Minneapolis/St. Paul Business Journal (MSPBJ)](http://www.mspbj.com)** | **[Editorial intern](https://jobright.ai/jobs/info/66ad1961849f465eaf1ab885?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 02 |
 | **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66acdc51d6d678557d6ede6f?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Producer Intern- Fall, 2024](https://jobright.ai/jobs/info/6690d39b79efb2825e66432b?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Aug 02 |
-| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66aca9afab982806fcfbc4e3?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Aug 02 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Fall Unpaid Podcast Editor Intern](https://jobright.ai/jobs/info/66ac396818f1842a78147262?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 02 |
 | **[Gulfshore Life](https://www.gulfshorelife.com/)** | **[Fall 2024 Editorial Fellowship](https://jobright.ai/jobs/info/66ac3e5c8b7a337889b2f458?utm_campaign=1053&utm_source=git)** | Fort Myers, FL | On Site | Aug 02 |
 | **[SXSW Pitch](https://www.sxsw.com/pitch)** | **[(I) Music Fest Advancement Intern](https://jobright.ai/jobs/info/66ad764f666b9692e91e6801?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 02 |
@@ -95,7 +97,6 @@ For a complete list, see the full spreadsheet below:
 | **[TESstylist](http://tesstylist.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/66ab68aa665ebbd4c2364ad6?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 01 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[NewsNation News Internship Fall 2024 (Chicago or New York)](https://jobright.ai/jobs/info/6690a06777aee8172e7ac407?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Breaking News Intern](https://jobright.ai/jobs/info/668f4223e74ffdb5b6261e45?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Aug 01 |
-| **[City of Memphis](https://www.memphistn.gov/)** | **[Urban Fellow - Fall 2024](https://jobright.ai/jobs/info/668c73994eab7a4cfbe542f5?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Aug 01 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Content Editor](https://jobright.ai/jobs/info/66aaebf3731bb4be1dc89289?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Jul 31 |
 | ↳ | **[Content Creator](https://jobright.ai/jobs/info/66aadab1484bac8dba9c3371?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Jul 31 |
 | **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[Student Video Production Assistant](https://jobright.ai/jobs/info/66aad3194dc152d5eba48dba?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Jul 31 |
