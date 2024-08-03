@@ -68,8 +68,8 @@ For a complete list, see the full spreadsheet below:
 | **[Hired In Michigan](https://hiredinmichigan.com)** | **[Digital News Website Editor Intern](https://jobright.ai/jobs/info/66adc32af4d3950a012e25b2?utm_campaign=1053&utm_source=git)** | Michigan, United States | On Site | Aug 03 |
 | **[Community Impact](https://communityimpact.com)** | **[Fall Editorial Intern](https://jobright.ai/jobs/info/66adbb350b96d651c11aa35b?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Aug 03 |
 | ↳ | **[Fall Editorial Intern](https://jobright.ai/jobs/info/66adbb350b96d651c11aa35f?utm_campaign=1053&utm_source=git)** | Pflugerville, TX | On Site | Aug 03 |
-| **[Right Fit Reading](http://www.openroadmedia.com)** | **[Content Writing Intern – Paid Fall 2024](https://jobright.ai/jobs/info/66ad87d37da302a514b56298?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
-| ↳ | **[Content Writing Intern – For-Credit Fall 2024](https://jobright.ai/jobs/info/66ad87d37da302a514b56295?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| **[Right Fit Reading](http://www.openroadmedia.com)** | **[Content Writing Intern – For-Credit Fall 2024](https://jobright.ai/jobs/info/66ad87d37da302a514b56295?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| ↳ | **[Content Writing Intern – Paid Fall 2024](https://jobright.ai/jobs/info/66ad87d37da302a514b56298?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[Stevens Institute of Technology](http://www.stevens.edu/)** | **[Undergraduate Student Content Creator — Office of University Relations](https://jobright.ai/jobs/info/66ad7f7992e2656d513b6d23?utm_campaign=1053&utm_source=git)** | Hoboken, NJ | Hybrid | Aug 02 |
 | **[David Zwirner Gallery](http://www.davidzwirner.com/)** | **[Art Fair Intern](https://jobright.ai/jobs/info/66ad79ead9adb323066481e6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/65e23685dc338666e9fe7e82?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
@@ -99,6 +99,7 @@ For a complete list, see the full spreadsheet below:
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Content Editor](https://jobright.ai/jobs/info/66aaebf3731bb4be1dc89289?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Jul 31 |
 | ↳ | **[Content Creator](https://jobright.ai/jobs/info/66aadab1484bac8dba9c3371?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Jul 31 |
 | **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[Student Video Production Assistant](https://jobright.ai/jobs/info/66aad3194dc152d5eba48dba?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Jul 31 |
+| **[Cincinnati CityBeat](https://www.citybeat.com/)** | **[Content Creation & Events Fall Intern](https://jobright.ai/jobs/info/66ae93bed7a38edd86ce9b84?utm_campaign=1053&utm_source=git)** | Cincinnati Metro | On Site | Jul 31 |
 | **[SalesEra](https://salesera.net/)** | **[Content Writing Intern](https://jobright.ai/jobs/info/66aaad389895fb38ed1749fc?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Justis Connection](http://www.JustisConnection.com)** | **[Fall Innovation Intern](https://jobright.ai/jobs/info/66aacd3d7f2a406d0cd14d78?utm_campaign=1053&utm_source=git)** | College Park, MD | On Site | Jul 31 |
 | **[CLD PR](https://cldstylehouse.com)** | **[WHITE FOX EVENT INTERN](https://jobright.ai/jobs/info/66aaa71f84ebf4cbb88ea89e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
