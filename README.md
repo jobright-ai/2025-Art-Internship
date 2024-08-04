@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66af3d552daa84c5d8e99ddc?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Aug 04 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f35?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f33?utm_campaign=1053&utm_source=git)** | Rock Hill, SC | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f37?utm_campaign=1053&utm_source=git)** | Flagstaff, AZ | On Site | Aug 04 |
@@ -64,7 +65,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66af13d613067bc1c8abd8b6?utm_campaign=1053&utm_source=git)** | Pittsburg, KS | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef49d352e5bf961123f12?utm_campaign=1053&utm_source=git)** | Kenner, LA | On Site | Aug 04 |
 | **[Seamgen](http://www.seamgen.com/)** | **[AI Content Writing Internship](https://jobright.ai/jobs/info/66ae8c3223d75d1963d77944?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Aug 03 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66ae88c9e8c338b0cc615941?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66ae88cae8c338b0cc6159f1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/66ae6d13ca9978cdf17e87a9?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Aug 03 |
 | **[Your Book Team](https://yourbookteam.com/)** | **[Non Fiction Self-Help Editor](https://jobright.ai/jobs/info/66ae1c3eafab4cd83de5b80e?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[Qurate Retail Group](https://www.qurateretailgroup.com/)** | **[QVC Talent Service Fall Internship](https://jobright.ai/jobs/info/669172602b5e177ed6cb02d0?utm_campaign=1053&utm_source=git)** | West Chester, PA | On Site | Aug 03 |
@@ -163,7 +164,4 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[ARC News Intern - Fall 2024](https://jobright.ai/jobs/info/668699708255e2f2b23fef18?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jul 28 |
 | ↳ | **[Production Assistant (PT)](https://jobright.ai/jobs/info/666c4468b3b6eb3a161ca6e8?utm_campaign=1053&utm_source=git)** | Yakima, WA | On Site | Jul 28 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c2f71126dc247d4f1bd28?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jul 28 |
-| ↳ | **[ARC News Intern - Fall 2024](https://jobright.ai/jobs/info/666c34762efa92a03b8950dd?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jul 28 |
-| ↳ | **[ARC News Intern - Fall 2024](https://jobright.ai/jobs/info/66a66eb54b54e52781e9a68e?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 28 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/666c408fb342f124248839a9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
