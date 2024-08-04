@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seamgen](http://www.seamgen.com/)** | **[AI Content Writing Internship](https://jobright.ai/jobs/info/66afdfc1bf64e2324e12598c?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Aug 04 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Spectrum News Fellowship Program - Louisville](https://jobright.ai/jobs/info/66afc4754119cb19bccc1c55?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Aug 04 |
 | ↳ | **[Spectrum News Fellowship Program - Syracuse](https://jobright.ai/jobs/info/66afb58a6f3ae96d3ddafd69?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 04 |
 | **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66af898ec1d45b14ef162bfa?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 04 |
@@ -73,13 +74,13 @@ For a complete list, see the full spreadsheet below:
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Intern, Unpaid](https://jobright.ai/jobs/info/66855d5b3bcb9414902c9b5c?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Aug 04 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/664defb5cf7bdc8f73b3c78e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 04 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66af3d552daa84c5d8e99ddc?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Aug 04 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f37?utm_campaign=1053&utm_source=git)** | Flagstaff, AZ | On Site | Aug 04 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f35?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f33?utm_campaign=1053&utm_source=git)** | Rock Hill, SC | On Site | Aug 04 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f35?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Aug 04 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f37?utm_campaign=1053&utm_source=git)** | Flagstaff, AZ | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66af066cc1787ac9ec0efb7e?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66af13d613067bc1c8abd8b6?utm_campaign=1053&utm_source=git)** | Pittsburg, KS | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef49d352e5bf961123f12?utm_campaign=1053&utm_source=git)** | Kenner, LA | On Site | Aug 04 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66ae88cae8c338b0cc6159f1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66ae88c9e8c338b0cc615941?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/660ece5f1cbac0908bb9d832?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 03 |
 | **[Your Book Team](https://yourbookteam.com/)** | **[Non Fiction Self-Help Editor](https://jobright.ai/jobs/info/66ae1c3eafab4cd83de5b80e?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[Qurate Retail Group](https://www.qurateretailgroup.com/)** | **[QVC Talent Service Fall Internship](https://jobright.ai/jobs/info/669172602b5e177ed6cb02d0?utm_campaign=1053&utm_source=git)** | West Chester, PA | On Site | Aug 03 |
