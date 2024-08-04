@@ -58,16 +58,18 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Seamgen](http://www.seamgen.com/)** | **[AI Content Writing Internship](https://jobright.ai/jobs/info/66ae8c3223d75d1963d77944?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Aug 03 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66ae88cae8c338b0cc6159f1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66ae88c9e8c338b0cc615941?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/66ae6d13ca9978cdf17e87a9?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Aug 03 |
 | **[Your Book Team](https://yourbookteam.com/)** | **[Non Fiction Self-Help Editor](https://jobright.ai/jobs/info/66ae1c3eafab4cd83de5b80e?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[Qurate Retail Group](https://www.qurateretailgroup.com/)** | **[QVC Talent Service Fall Internship](https://jobright.ai/jobs/info/669172602b5e177ed6cb02d0?utm_campaign=1053&utm_source=git)** | West Chester, PA | On Site | Aug 03 |
 | **[City of Memphis](https://www.memphistn.gov/)** | **[Urban Fellow - Fall 2024](https://jobright.ai/jobs/info/668c73994eab7a4cfbe542f5?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Aug 03 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/660eb0d5daed97ef0b8b7e6b?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Aug 03 |
 | ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/660ece5f1cbac0908bb9d833?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 03 |
-| **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/664e513bc0761b8d87f7cb08?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Aug 03 |
+| **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern (Part-time)](https://jobright.ai/jobs/info/6625563505135b90cc7ecaa1?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Aug 03 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/664e513bc0761b8d87f7cb08?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Aug 03 |
 | **[Univision Communications](http://univision.com)** | **[Talent Usher - Seasonal](https://jobright.ai/jobs/info/65fa3bbf188ffb258a537907?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Aug 03 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6675f2f72617111d53a43df5?utm_campaign=1053&utm_source=git)** | Traverse City, MI | Hybrid | Aug 03 |
+| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6674d578e47a9771d9daa87d?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Aug 03 |
 | **[Hired In Michigan](https://hiredinmichigan.com)** | **[Digital News Website Editor Intern](https://jobright.ai/jobs/info/66adc32af4d3950a012e25b2?utm_campaign=1053&utm_source=git)** | Michigan, United States | On Site | Aug 03 |
 | **[Community Impact](https://communityimpact.com)** | **[Fall Editorial Intern](https://jobright.ai/jobs/info/66adbb350b96d651c11aa35b?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Aug 03 |
 | ↳ | **[Fall Editorial Intern](https://jobright.ai/jobs/info/66adbb350b96d651c11aa35f?utm_campaign=1053&utm_source=git)** | Pflugerville, TX | On Site | Aug 03 |
@@ -159,5 +161,4 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[ARC News Intern - Fall 2024](https://jobright.ai/jobs/info/666c34762efa92a03b8950dd?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jul 28 |
 | ↳ | **[ARC News Intern - Fall 2024](https://jobright.ai/jobs/info/66a66eb54b54e52781e9a68e?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 28 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/666c408fb342f124248839a9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 28 |
-| **[Homes.com](http://www.homes.com)** | **[Homes.com Video Editor Internship - Fall 2024](https://jobright.ai/jobs/info/66a5b3f93f1b0b499438e0c5?utm_campaign=1053&utm_source=git)** | Richmond, VA | Hybrid | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
