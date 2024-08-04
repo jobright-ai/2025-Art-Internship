@@ -57,7 +57,10 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef49d352e5bf961123f12?utm_campaign=1053&utm_source=git)** | Kenner, LA | On Site | Aug 04 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f35?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Aug 04 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f37?utm_campaign=1053&utm_source=git)** | Flagstaff, AZ | On Site | Aug 04 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f33?utm_campaign=1053&utm_source=git)** | Rock Hill, SC | On Site | Aug 04 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef49d352e5bf961123f12?utm_campaign=1053&utm_source=git)** | Kenner, LA | On Site | Aug 04 |
 | **[Seamgen](http://www.seamgen.com/)** | **[AI Content Writing Internship](https://jobright.ai/jobs/info/66ae8c3223d75d1963d77944?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Aug 03 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66ae88cae8c338b0cc6159f1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/66ae6d13ca9978cdf17e87a9?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Aug 03 |
@@ -71,6 +74,7 @@ For a complete list, see the full spreadsheet below:
 | **[Univision Communications](http://univision.com)** | **[Talent Usher - Seasonal](https://jobright.ai/jobs/info/65fa3bbf188ffb258a537907?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Aug 03 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6675f2f72617111d53a43df5?utm_campaign=1053&utm_source=git)** | Traverse City, MI | Hybrid | Aug 03 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6674d578e47a9771d9daa87d?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Aug 03 |
+| **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6676dd1752e59db0b1bd5a90?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Aug 03 |
 | **[Hired In Michigan](https://hiredinmichigan.com)** | **[Digital News Website Editor Intern](https://jobright.ai/jobs/info/66adc32af4d3950a012e25b2?utm_campaign=1053&utm_source=git)** | Michigan, United States | On Site | Aug 03 |
 | **[Community Impact](https://communityimpact.com)** | **[Fall Editorial Intern](https://jobright.ai/jobs/info/66adbb350b96d651c11aa35b?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Aug 03 |
 | ↳ | **[Fall Editorial Intern](https://jobright.ai/jobs/info/66adbb350b96d651c11aa35f?utm_campaign=1053&utm_source=git)** | Pflugerville, TX | On Site | Aug 03 |
