@@ -57,17 +57,21 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66af898ec1d45b14ef162bfa?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 04 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/669365240cb61d2df685e27a?utm_campaign=1053&utm_source=git)** | Monroe, LA | On Site | Aug 04 |
 | **[WMUR 9](http://www.wmur.com/)** | **[John DiStaso Political Fellowship](https://jobright.ai/jobs/info/66548517dc70ef329d820087?utm_campaign=1053&utm_source=git)** | Manchester, NH | On Site | Aug 04 |
+| **[Sightline Media Group](http://www.sightlinemediagroup.com)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/664eb183cd9154b3e6012c0b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 04 |
+| **[Kimpton Hotel & Restaurant Group](https://www.kimptonhotels.com/)** | **[Culinary Trainee-The Betty](https://jobright.ai/jobs/info/664e10ef10b4f1df29982cb3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 04 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/664defb5cf7bdc8f73b3c78e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 04 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66af3d552daa84c5d8e99ddc?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Aug 04 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f35?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Aug 04 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f33?utm_campaign=1053&utm_source=git)** | Rock Hill, SC | On Site | Aug 04 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f33?utm_campaign=1053&utm_source=git)** | Rock Hill, SC | On Site | Aug 04 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f35?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f37?utm_campaign=1053&utm_source=git)** | Flagstaff, AZ | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66af066cc1787ac9ec0efb7e?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66af13d613067bc1c8abd8b6?utm_campaign=1053&utm_source=git)** | Pittsburg, KS | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef49d352e5bf961123f12?utm_campaign=1053&utm_source=git)** | Kenner, LA | On Site | Aug 04 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66ae88c9e8c338b0cc615941?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66ae88cae8c338b0cc6159f1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/660ece5f1cbac0908bb9d832?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 03 |
 | **[Your Book Team](https://yourbookteam.com/)** | **[Non Fiction Self-Help Editor](https://jobright.ai/jobs/info/66ae1c3eafab4cd83de5b80e?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[Qurate Retail Group](https://www.qurateretailgroup.com/)** | **[QVC Talent Service Fall Internship](https://jobright.ai/jobs/info/669172602b5e177ed6cb02d0?utm_campaign=1053&utm_source=git)** | West Chester, PA | On Site | Aug 03 |
 | **[City of Memphis](https://www.memphistn.gov/)** | **[Urban Fellow - Fall 2024](https://jobright.ai/jobs/info/668c73994eab7a4cfbe542f5?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Aug 03 |
@@ -78,12 +82,14 @@ For a complete list, see the full spreadsheet below:
 | **[Hired In Michigan](https://hiredinmichigan.com)** | **[Digital News Website Editor Intern](https://jobright.ai/jobs/info/66adc32af4d3950a012e25b2?utm_campaign=1053&utm_source=git)** | Michigan, United States | On Site | Aug 03 |
 | **[Community Impact](https://communityimpact.com)** | **[Fall Editorial Intern](https://jobright.ai/jobs/info/66adbb350b96d651c11aa35b?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Aug 03 |
 | ↳ | **[Fall Editorial Intern](https://jobright.ai/jobs/info/66adbb350b96d651c11aa35f?utm_campaign=1053&utm_source=git)** | Pflugerville, TX | On Site | Aug 03 |
-| **[Right Fit Reading](http://www.openroadmedia.com)** | **[Content Writing Intern – Paid Fall 2024](https://jobright.ai/jobs/info/66ad87d37da302a514b56298?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
-| ↳ | **[Content Writing Intern – For-Credit Fall 2024](https://jobright.ai/jobs/info/66ad87d37da302a514b56295?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| **[Right Fit Reading](http://www.openroadmedia.com)** | **[Content Writing Intern – For-Credit Fall 2024](https://jobright.ai/jobs/info/66ad87d37da302a514b56295?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| ↳ | **[Content Writing Intern – Paid Fall 2024](https://jobright.ai/jobs/info/66ad87d37da302a514b56298?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[Stevens Institute of Technology](http://www.stevens.edu/)** | **[Undergraduate Student Content Creator — Office of University Relations](https://jobright.ai/jobs/info/66ad7f7992e2656d513b6d23?utm_campaign=1053&utm_source=git)** | Hoboken, NJ | Hybrid | Aug 02 |
 | **[David Zwirner Gallery](http://www.davidzwirner.com/)** | **[Art Fair Intern](https://jobright.ai/jobs/info/66ad79ead9adb323066481e6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/65e23685dc338666e9fe7e82?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
 | **[Minneapolis/St. Paul Business Journal (MSPBJ)](http://www.mspbj.com)** | **[Editorial intern](https://jobright.ai/jobs/info/66ad1961849f465eaf1ab885?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 02 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[CNN Digital Features Intern: ATL - Fall 2024](https://jobright.ai/jobs/info/66af89c6c1d45b14ef162fed?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 02 |
+| **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Fall 2024)](https://jobright.ai/jobs/info/66af89c6c1d45b14ef162ffc?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Aug 02 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Producer Intern- Fall, 2024](https://jobright.ai/jobs/info/6690d39b79efb2825e66432b?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Aug 02 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Fall Unpaid Podcast Editor Intern](https://jobright.ai/jobs/info/66ac396818f1842a78147262?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 02 |
 | **[Gulfshore Life](https://www.gulfshorelife.com/)** | **[Fall 2024 Editorial Fellowship](https://jobright.ai/jobs/info/66ac3e5c8b7a337889b2f458?utm_campaign=1053&utm_source=git)** | Fort Myers, FL | On Site | Aug 02 |
