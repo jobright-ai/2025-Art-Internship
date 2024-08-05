@@ -77,9 +77,9 @@ For a complete list, see the full spreadsheet below:
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Intern, Unpaid](https://jobright.ai/jobs/info/66855d5b3bcb9414902c9b5c?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Aug 04 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/664defb5cf7bdc8f73b3c78e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 04 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66af9f296be6897cc243e5fc?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Aug 04 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f33?utm_campaign=1053&utm_source=git)** | Rock Hill, SC | On Site | Aug 04 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f37?utm_campaign=1053&utm_source=git)** | Flagstaff, AZ | On Site | Aug 04 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f37?utm_campaign=1053&utm_source=git)** | Flagstaff, AZ | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f35?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Aug 04 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f33?utm_campaign=1053&utm_source=git)** | Rock Hill, SC | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66af066cc1787ac9ec0efb7e?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66af13d613067bc1c8abd8b6?utm_campaign=1053&utm_source=git)** | Pittsburg, KS | On Site | Aug 04 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66aef49d352e5bf961123f12?utm_campaign=1053&utm_source=git)** | Kenner, LA | On Site | Aug 04 |
