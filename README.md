@@ -68,71 +68,11 @@ For a complete list, see the full spreadsheet below:
 | **[Personalized Pro, Inc.](http://www.personalizedpro.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/66b7688f5ef72337b3c53f4a?utm_campaign=1053&utm_source=git)** | Newton, MA | On Site | Aug 09 |
 | **[Teressa Foglia](https://teressafoglia.com/)** | **[Fashion Intern](https://jobright.ai/jobs/info/66b696aa8e0d92162ab00c2c?utm_campaign=1053&utm_source=git)** | Laguna Beach, CA | On Site | Aug 09 |
 | **[Academy Of Country Music](https://www.acmcountry.com)** | **[Intern, Awards & Membership, Artist & Industry Relations](https://jobright.ai/jobs/info/66b687bdcc8e56c8d4f74aff?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 09 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66b690ffada452a1932b214b?utm_campaign=1053&utm_source=git)** | Multi Location
-Flagstaff, AZ
-Idaho Falls, ID
-Tuscaloosa, AL
-Austin, TX
-Annapolis, MD
-Pittsburg, KS
-Seattle, WA
-Bristol, RI
-Lewiston, ME
-Cheyenne, WY
-Fort Wayne, IN
-Mililani Town, HI
-Denver, CO
-San Antonio, TX
-Rock Hill, SC
-Cambridge, MA
-Rockford, IL
-Colorado Springs, CO
-Erie, PA
-Tupelo, MS
-Lexington, KY
-Bloomsburg, PA
-Harrisonburg, VA
-Billings, MT
-Savannah, GA
-Nacogdoches, TX
-Warren, MI
-Lowell, MA
-Albuquerque, NM
-Rapid City, SD
-Aurora, IL
-Elon, NC
-Eugene, OR
-Cleveland, OH
-Colchester, VT
-Smyrna, DE
-Portland, ME
-Brookings, SD
-Tacoma, WA
-Bozeman, MT
-New York, NY
-Athens, GA
-Sterling Heights, MI
-McKinney, TX
-Auburn, ME
-Bridgeport, CT
-Knoxville, TN
-Meridian, ID
-Laramie, WY
-Norman, OK
-Hialeah, FL
-Ann Arbor, MI
-Milford, DE
-Grand Island, NE
-Rock Springs, WY
-Plymouth, MN
-Joliet, IL
-Kenner, LA | On Site | Aug 09 |
 | **[Sahiyo](https://sahiyo.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/66b648aa738b1cded17666db?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 09 |
 | **[The Tombras Group](http://tombras.com)** | **[Post - Production Intern](https://jobright.ai/jobs/info/66b661b5884242ce836425d7?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Aug 09 |
 | ↳ | **[Production Assistant Intern](https://jobright.ai/jobs/info/66b661b5884242ce836425e7?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Aug 09 |
 | **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[Video Production Assistant](https://jobright.ai/jobs/info/66b63ece77e1bdd3ff85d16b?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Aug 09 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Media Intern, Center for Communications, Media Strategy (Fall 2024)](https://jobright.ai/jobs/info/66999fefa6cffa96210cdee4?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 09 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[(Fall) Social Media & Video Editor Co-op: June to December 2024](https://jobright.ai/jobs/info/66ae6753e756e0a82643492b?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Aug 09 |
 | **[American Institute of Physics](http://aip.org/)** | **[Internship – Science Writer](https://jobright.ai/jobs/info/66997ca111aefe0c6415c0ce?utm_campaign=1053&utm_source=git)** | College Park, MD | Hybrid | Aug 09 |
 | **[Kaplan Interpreting Services](https://www.kaplaninterpreting.com)** | **[Content Creator Internship](https://jobright.ai/jobs/info/66b57209fbd5aa6fbebdee02?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 09 |
 | **[University of Florida](https://www.ufl.edu)** | **[Video Editor Internship](https://jobright.ai/jobs/info/66b6535d93a31db68f0761df?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Aug 09 |
@@ -177,9 +117,6 @@ Kenner, LA | On Site | Aug 09 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant](https://jobright.ai/jobs/info/66b28370396c7eb5e57b76ae?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 06 |
 | **[Chatterblast](http://chatterblast.com/)** | **[INTERNSHIP - Video & Editing - Fall 2024](https://jobright.ai/jobs/info/66b64736335c2d0f628fc4bb?utm_campaign=1053&utm_source=git)** | Pennsylvania, United States | On Site | Aug 06 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, EDITORIAL SUBSPECIALTY JOURNALS](https://jobright.ai/jobs/info/66b242851f541e47efcd6cb5?utm_campaign=1053&utm_source=git)** | Twin Cities Area | Hybrid | Aug 06 |
-| **[Council on Foreign Relations](https://www.cfr.org/)** | **[Internship, Digital Content, Editorial, Fall 2024](https://jobright.ai/jobs/info/66b62b7267266bb8778f1f82?utm_campaign=1053&utm_source=git)** | Multi Location
-New York, NY
-Washington, DC | On Site | Aug 06 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Fall 2024](https://jobright.ai/jobs/info/66b3877d6ea9bbaffe60f422?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Phillips Library Digital Projects Intern](https://jobright.ai/jobs/info/66b61c1e15b8eb63c1b6dcaa?utm_campaign=1053&utm_source=git)** | Salem, MA | On Site | Aug 06 |
 | **[Gorilla 76](http://gorilla76.com)** | **[Thinker & Content Intern](https://jobright.ai/jobs/info/66b60eedae1fca1cb1df5268?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Aug 06 |
