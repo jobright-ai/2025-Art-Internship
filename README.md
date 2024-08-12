@@ -57,8 +57,11 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[3311 Productions](http://www.3311productions.com)** | **[Film/TV Intern - Fall 2024 Semester](https://jobright.ai/jobs/info/66b952f826a26a6f63637450?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 11 |
+| **[A. N. Publishing](https://www.anpublishing.com/)** | **[Entertainment Feature Journalist (Internship)](https://jobright.ai/jobs/info/66b916d35ff5bf0f53d8856f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
+| **[Hirebird](http://www.joinhirebird.com)** | **[Content Creator](https://jobright.ai/jobs/info/66b8ec202a418a5f31a82b59?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 11 |
+| **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - Original Video Production Editor / Shooter](https://jobright.ai/jobs/info/669cf4476def7480bf442480?utm_campaign=1053&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Aug 11 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66b87854ed1626bd0a0ac422?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Aug 11 |
-| **[A. N. Publishing](https://www.anpublishing.com/)** | **[Entertainment Feature Journalist (Internship)](https://jobright.ai/jobs/info/66b7dd42fe5e57185eaed7d3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 10 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern (Part-time)](https://jobright.ai/jobs/info/66b79e558d765f17fba83146?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Aug 10 |
 | ↳ | **[News Production Assistant (Part-time)](https://jobright.ai/jobs/info/667efbe736ad47ed17be1d8a?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 10 |
 | **[Gemini](https://gemini.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/667f493d4a8354e27fe8ac0e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 10 |
@@ -82,6 +85,7 @@ For a complete list, see the full spreadsheet below:
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Internship, Foreign Affairs, Editorial, Fall 2024](https://jobright.ai/jobs/info/66b54c80bd7906e37a3b0bd8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[EnforceTheSport](https://enforcethesport.com)** | **[Three Month Writing Internship](https://jobright.ai/jobs/info/66b4fa598970baf157aee6ba?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 08 |
 | **[North Dallas Gazette](https://northdallasgazette.com)** | **[Part-Time Social Media Journalist/Content Management Intern](https://jobright.ai/jobs/info/66b4e0b16113802bcef7fa4f?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Aug 08 |
+| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant](https://jobright.ai/jobs/info/66a3e1cdfa1e56eccb8f5af3?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 08 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Media Resources Intern](https://jobright.ai/jobs/info/66b4891340b31d988eeeb21e?utm_campaign=1053&utm_source=git)** | Salem, MA | On Site | Aug 08 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - WTAP](https://jobright.ai/jobs/info/66b141a64e6a2d16078a35df?utm_campaign=1053&utm_source=git)** | Parkersburg, WV | On Site | Aug 08 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Fall 2024](https://jobright.ai/jobs/info/66b44d00cfabd2de2941df23?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Aug 08 |
@@ -97,7 +101,6 @@ For a complete list, see the full spreadsheet below:
 | **[Indiana University Indianapolis](https://www.iupui.edu)** | **[Part-Time Student Content Intern](https://jobright.ai/jobs/info/66b3c7356b367d8d60895266?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Aug 07 |
 | **[New York City Campaign Finance Board](http://www.nyccfb.info/)** | **[MULTIMEDIA CONTENT INTERN](https://jobright.ai/jobs/info/66740eef5ff28865e7a710f7?utm_campaign=1053&utm_source=git)** | Manhattan, NY | Hybrid | Aug 07 |
 | **[Trinity Broadcasting Network](https://www.tbn.org)** | **[FIELD PRODUCTION ASSISTANT - INTERNSHIP](https://jobright.ai/jobs/info/66b637c57e864b44d931dfe0?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Aug 07 |
-| **[Hirebird](http://www.joinhirebird.com)** | **[Content Creator](https://jobright.ai/jobs/info/66b36ce827f80872a74af90d?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 07 |
 | **[Resources for the Future](http://www.rff.org/)** | **[2024 Fall Editorial Intern](https://jobright.ai/jobs/info/6696fb6cff384bf5ba3fb123?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 07 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[News Trainee](https://jobright.ai/jobs/info/66313061fb370140b7cdcf44?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 07 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/66aa52c00d7fefd024b6a8ae?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Aug 07 |
@@ -109,13 +112,11 @@ For a complete list, see the full spreadsheet below:
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - KWCH](https://jobright.ai/jobs/info/66b3f0360e6696e59ee10dc8?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 07 |
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - WDBJ](https://jobright.ai/jobs/info/66b3eceaa4f796afe846eaf4?utm_campaign=1053&utm_source=git)** | Roanoke, VA | On Site | Aug 07 |
 | **[Web3 & Metaverse Marketing Network](https://w3bmn.com)** | **[LA Based Videographer / Video Editor Internship for Web3 & Metaverse projects!](https://jobright.ai/jobs/info/66b2b3434384fbf4df88535a?utm_campaign=1053&utm_source=git)** | LA Metro Area | Hybrid | Aug 06 |
-| **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[University Daily Kansan Content Staff](https://jobright.ai/jobs/info/66b29d2d83a1f38ab914d561?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Aug 06 |
 | **[East Coast Sports Investors](https://www.eastcoastsportsinvestors.com/)** | **[Production and Editor Intern](https://jobright.ai/jobs/info/66b2a739ab84555e93584d68?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | On Site | Aug 06 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - KBTX](https://jobright.ai/jobs/info/66b2909cdb3d37947a3d1a5d?utm_campaign=1053&utm_source=git)** | Bryan, TX | On Site | Aug 06 |
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL/WINTER '24 - WOIO](https://jobright.ai/jobs/info/66b2909cdb3d37947a3d1a5f?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 06 |
 | **[Lipscomb University](http://www.lipscomb.edu/)** | **[Podcast and Video Production Student Worker- Career Development](https://jobright.ai/jobs/info/66b2a4241894794b1d2146b9?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 06 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant](https://jobright.ai/jobs/info/66b28370396c7eb5e57b76ae?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 06 |
-| **[Chatterblast](http://chatterblast.com/)** | **[INTERNSHIP - Video & Editing - Fall 2024](https://jobright.ai/jobs/info/66b64736335c2d0f628fc4bb?utm_campaign=1053&utm_source=git)** | Pennsylvania, United States | On Site | Aug 06 |
+| **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[University Daily Kansan Content Staff](https://jobright.ai/jobs/info/66b298398682f3708242aecd?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Aug 06 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, EDITORIAL SUBSPECIALTY JOURNALS](https://jobright.ai/jobs/info/66b242851f541e47efcd6cb5?utm_campaign=1053&utm_source=git)** | Twin Cities Area | Hybrid | Aug 06 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Fall 2024](https://jobright.ai/jobs/info/66b3877d6ea9bbaffe60f422?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Phillips Library Digital Projects Intern](https://jobright.ai/jobs/info/66b61c1e15b8eb63c1b6dcaa?utm_campaign=1053&utm_source=git)** | Salem, MA | On Site | Aug 06 |
@@ -136,6 +137,4 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Culinary J1 Intern-Kimpton Journeyman Hotel](https://jobright.ai/jobs/info/6676c62d807f31af72076d4f?utm_campaign=1053&utm_source=git)** | Wisconsin, United States | On Site | Aug 05 |
 | **[Kansas City Mavericks](http://www.kcmavericks.com)** | **[Internship - Broadcast (Technical Director)](https://jobright.ai/jobs/info/66b2fbc33ed7ce68f7805a39?utm_campaign=1053&utm_source=git)** | Independence, MO | On Site | Aug 05 |
 | **[NESN](http://nesn.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/66b2e6cc1d14dc3ba07c1319?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Fall 2024 Podcast Internship](https://jobright.ai/jobs/info/66b26cd7c618f7e08d17173a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Aug 05 |
-| **[WARP](https://wearewarp.com/)** | **[Social Media Video Editor Intern](https://jobright.ai/jobs/info/66afee5739541d05025ef525?utm_campaign=1053&utm_source=git)** | LA Metro Area | Hybrid | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
