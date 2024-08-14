@@ -57,20 +57,24 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAGE Publications](https://group.sagepub.com)** | **[Intern, Corwin Editorial](https://jobright.ai/jobs/info/66bc098fcd03791998e13a32?utm_campaign=1053&utm_source=git)** | Thousand Oaks, CA | On Site | Aug 14 |
+| **[The San Francisco Standard](https://sfstandard.com)** | **[Fall News Intern](https://jobright.ai/jobs/info/66bc04f9bbdc13c10b3bfade?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 14 |
+| **[Bumble and bumble.](http://www.bumbleandbumble.com)** | **[Color Apprentice - Bumble and bumble - 40 Hrs -415 West 13th Street - New York, NY](https://jobright.ai/jobs/info/66bc04f9bbdc13c10b3bfb60?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 14 |
 | **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Editorial Journalism Internship](https://jobright.ai/jobs/info/66bbec683814c6ab9958c34c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 13 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Green Scholars - Video Editor Intern](https://jobright.ai/jobs/info/66bbe64b260cc31778c3c87d?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Aug 13 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Video Analyst Intern (FALL)](https://jobright.ai/jobs/info/66bbfb9a30d51e280e82514e?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 13 |
-| **[Film Mode Entertainment](http://filmmodeentertainment.com/)** | **[Film Development Intern](https://jobright.ai/jobs/info/66bbc8b37aeeb099c7ef2de4?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Aug 13 |
+| **[Innovative Systems](http://www.innovativesystems.com/)** | **[Intern - Pittsburgh office](https://jobright.ai/jobs/info/66bbfd5e4476f2c09b77cedb?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Aug 13 |
+| **[Innerwell](https://www.helloinnerwell.com/)** | **[Content Creator Internship (Unpaid)](https://jobright.ai/jobs/info/66bc1cc0550b64e49c1af94e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66bbe0f89bc4d8d5fa5a4e54?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Aug 13 |
 | **[Grayson Sky](https://www.graysonsky.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/66bbc09036fda3d6b3e4a130?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 13 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Fall Product Content Creator Intern Unpaid at Female Founded Startup](https://jobright.ai/jobs/info/66bbc09036fda3d6b3e4a1fa?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 13 |
 | **[Your Book Team](https://yourbookteam.com/)** | **[Podcast Editor Intern](https://jobright.ai/jobs/info/66bba381e61d8ceb26e5e6cc?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 13 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Sewer - International Plaza](https://jobright.ai/jobs/info/66bb7ed393770801f5a9ca1f?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Aug 13 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, MPG - Fall 2024](https://jobright.ai/jobs/info/66bb819c6f395bada6384ba1?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 13 |
-| **[Value Add Marketing](https://www.linkedin.com/company/101173439)** | **[Virtual Video Editing Internship / College and High School Students](https://jobright.ai/jobs/info/66bb6d57aed9eeaa5879729d?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
 | **[PBS Wisconsin](https://pbswisconsin.org)** | **[Indigenous Affairs Multimedia Reporter](https://jobright.ai/jobs/info/669f24c1530ea29d5f66999c?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Aug 13 |
 | **[Canterbury Park Holdings](https://www.canterburypark.com)** | **[Entertainment Internship](https://jobright.ai/jobs/info/66994d3663c1016c1926d9d0?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Aug 13 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Digital & Social Intern - In Season](https://jobright.ai/jobs/info/66bb10fddddb80845a94744d?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 13 |
+| **[NBCUniversal](http://www.nbcuniversal.com)** | **[NBCU Local Bay Area - Video Editor Internship – Fall 2024, San Francisco, CA](https://jobright.ai/jobs/info/66badf018c07a2229c7db7dd?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 13 |
 | **[Persimmon](https://www.persimmon.life/)** | **[Social Media Videographer Intern](https://jobright.ai/jobs/info/66bad2e067e278d84bf74e01?utm_campaign=1053&utm_source=git)** | Larkspur, CA | On Site | Aug 13 |
 | **[Jovie](https://www.jovie.com)** | **[Creative and Patient Mentor Needed](https://jobright.ai/jobs/info/66bace13ceebe88512f6d74a?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Aug 13 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - KOTA/KEVN](https://jobright.ai/jobs/info/66bbd7ec4d8749d059e41aed?utm_campaign=1053&utm_source=git)** | Rapid City, SD | On Site | Aug 13 |
@@ -86,9 +90,9 @@ For a complete list, see the full spreadsheet below:
 | **[A. N. Publishing](https://www.anpublishing.com/)** | **[Entertainment Feature Journalist (Internship)](https://jobright.ai/jobs/info/66bb670061f33b51c5f47122?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 12 |
 | **[Great Clips](https://www.greatclips.com/)** | **[Hair Stylist Intern - Belmont Development](https://jobright.ai/jobs/info/66bae5092aa1a00e5eefc92d?utm_campaign=1053&utm_source=git)** | Multi Location
 Brandon, FL
+Seffner, FL
 Sarasota, FL
-Riverview, FL
-Seffner, FL | On Site | Aug 12 |
+Riverview, FL | On Site | Aug 12 |
 | ↳ | **[Hair Stylist Intern - Entrada Contenta](https://jobright.ai/jobs/info/66bae5092aa1a00e5eefc92f?utm_campaign=1053&utm_source=git)** | Peña Blanca, NM | On Site | Aug 12 |
 | **[A. N. Publishing](https://www.anpublishing.com/)** | **[Journalism Editor Internship People of Color Entertainment Trade Site](https://jobright.ai/jobs/info/66b9933b43ab318bd0b8399c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 12 |
 | **[Advocate Construction](https://www.advocateconstruction.com/)** | **[Advocate Production Apprentice - Troy, MI](https://jobright.ai/jobs/info/66ba5f84a12666245b240c41?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Aug 12 |
@@ -136,6 +140,4 @@ Seffner, FL | On Site | Aug 12 |
 | **[Trinity Broadcasting Network](https://www.tbn.org)** | **[POST PRODUCTION EDITING ASSISTANT-INTERNSHIP](https://jobright.ai/jobs/info/66b5cba009369bd2fd22718a?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Aug 07 |
 | ↳ | **[PRODUCTION COORDINATOR ASSISTANT - INTERNSHIP](https://jobright.ai/jobs/info/66b5c7ef80cc5b8a6e54d26b?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Aug 07 |
 | ↳ | **[LIVE PRODUCTION ASSISTANT - INTERNSHIP](https://jobright.ai/jobs/info/66b5c7ef80cc5b8a6e54d272?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Aug 07 |
-| **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Melton Gallery Assistant (Technical) - CFAD](https://jobright.ai/jobs/info/66b2f04883b9f52eaa6cad53?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Aug 07 |
-| **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Entertainment Experience Intern - In Season](https://jobright.ai/jobs/info/66b31ad2ed73fb3fb203b8d6?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
