@@ -89,6 +89,7 @@ Greenfield, IN | On Site | Aug 14 |
 | **[PBS Wisconsin](https://pbswisconsin.org)** | **[Indigenous Affairs Multimedia Reporter](https://jobright.ai/jobs/info/669f24c1530ea29d5f66999c?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Aug 13 |
 | **[Canterbury Park Holdings](https://www.canterburypark.com)** | **[Entertainment Internship](https://jobright.ai/jobs/info/66994d3663c1016c1926d9d0?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Aug 13 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Digital & Social Intern - In Season](https://jobright.ai/jobs/info/66bb10fddddb80845a94744d?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 13 |
+| **[NBCUniversal](http://www.nbcuniversal.com)** | **[NBCU Local Bay Area - Video Editor Internship – Fall 2024, San Francisco, CA](https://jobright.ai/jobs/info/66badf018c07a2229c7db7dd?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 13 |
 | **[Persimmon](https://www.persimmon.life/)** | **[Social Media Videographer Intern](https://jobright.ai/jobs/info/66bad2e067e278d84bf74e01?utm_campaign=1053&utm_source=git)** | Larkspur, CA | On Site | Aug 13 |
 | **[Jovie](https://www.jovie.com)** | **[Creative and Patient Mentor Needed](https://jobright.ai/jobs/info/66bace13ceebe88512f6d74a?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Aug 13 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - KOTA/KEVN](https://jobright.ai/jobs/info/66bbd7ec4d8749d059e41aed?utm_campaign=1053&utm_source=git)** | Rapid City, SD | On Site | Aug 13 |
@@ -101,11 +102,12 @@ Culver City, CA | Hybrid | Aug 13 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Worker - War Eagle Creative Video](https://jobright.ai/jobs/info/66ba9bf7ffde1d9fe7800c54?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Aug 12 |
 | **[KZ_K STUDIO w Karolina Zmarlak](https://kzkstudionyc.com/)** | **[Fashion Production Intern](https://jobright.ai/jobs/info/66ba7b73ac76395484a842d6?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 12 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - WBTV](https://jobright.ai/jobs/info/66ba76662d1f86b307f3ea38?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 12 |
+| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant](https://jobright.ai/jobs/info/66a3e1cdfa1e56eccb8f5af3?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 12 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/66ba502e14ecea5ac7602203?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Aug 12 |
-| **[Great Clips](https://www.greatclips.com/)** | **[Hair Stylist Intern - Belmont Development](https://jobright.ai/jobs/info/66bae5092aa1a00e5eefc921?utm_campaign=1053&utm_source=git)** | Multi Location
-Seffner, FL
+| **[Great Clips](https://www.greatclips.com/)** | **[Hair Stylist Intern - Belmont Development](https://jobright.ai/jobs/info/66bae5092aa1a00e5eefc91d?utm_campaign=1053&utm_source=git)** | Multi Location
 Sarasota, FL
-Brandon, FL | On Site | Aug 12 |
+Brandon, FL
+Seffner, FL | On Site | Aug 12 |
 | ↳ | **[Hair Stylist Intern - Entrada Contenta](https://jobright.ai/jobs/info/66bae5092aa1a00e5eefc92f?utm_campaign=1053&utm_source=git)** | Peña Blanca, NM | On Site | Aug 12 |
 | **[Moonlight Comedy](moonlightcomedyproductions.com)** | **[Film Apprenticeship](https://jobright.ai/jobs/info/66bd389e2d89931d24c4fd78?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 12 |
 | **[Advocate Construction](https://www.advocateconstruction.com/)** | **[Advocate Production Apprentice - Troy, MI](https://jobright.ai/jobs/info/66ba5f84a12666245b240c41?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Aug 12 |
