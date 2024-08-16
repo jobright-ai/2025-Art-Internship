@@ -57,14 +57,18 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bumble and bumble.](http://www.bumbleandbumble.com)** | **[Color Apprentice - Bumble and bumble - 40 Hrs - 146 E 56th Street - New York, NY](https://jobright.ai/jobs/info/66bc04f9bbdc13c10b3bfb59?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 16 |
+| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Intern, News](https://jobright.ai/jobs/info/664de0460790ade97e15e49a?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Aug 16 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Seasonal 2024-25)](https://jobright.ai/jobs/info/66a2e2f9621b00551f3627ac?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 16 |
+| **[Spectrum News](https://spectrumlocalnews.com/)** | **[Spectrum News Fellowship Program - Syracuse](https://jobright.ai/jobs/info/66b0d9b86cb9e4fbf704ca46?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 16 |
+| **[Fever](https://www.feverup.com)** | **[Internship Music Curator](https://jobright.ai/jobs/info/66bf33458520bd60d50098e1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66beedf075eb11c627265128?utm_campaign=1053&utm_source=git)** | Lansing, MI | On Site | Aug 15 |
-| **[Amazing Lash Studio](https://www.amazinglashstudio.com/)** | **[Model for Eyelash Extensions](https://jobright.ai/jobs/info/66bef1785d88ec91f04d49ca?utm_campaign=1053&utm_source=git)** | Multi Location
-Gilbert, AZ
+| **[Amazing Lash Studio](https://www.amazinglashstudio.com/)** | **[Model for Eyelash Extensions](https://jobright.ai/jobs/info/66bef1785d88ec91f04d49cc?utm_campaign=1053&utm_source=git)** | Multi Location
 Peoria, AZ
+Gilbert, AZ
 Tempe, AZ | On Site | Aug 15 |
 | **[Golden Hippo](http://goldenhippomedia.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/66a4132a92c15a63eb8104fa?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 15 |
 | ↳ | **[Post-Production Intern](https://jobright.ai/jobs/info/66b144bab992081a259c6858?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 15 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant](https://jobright.ai/jobs/info/66a3e1cdfa1e56eccb8f5af3?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 15 |
 | **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66be05f15a82b5212ca487fb?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 15 |
 | **[PHL17](https://www.phl17.com)** | **[Morning News Intern - Fall Semester](https://jobright.ai/jobs/info/66a18ae4886017c169bb0091?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 15 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Spectrum News Fellowship Program - Louisville](https://jobright.ai/jobs/info/66b0b66e0038b9975dde94c4?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Aug 15 |
@@ -76,6 +80,9 @@ Tempe, AZ | On Site | Aug 15 |
 | **[Q Management Group](https://www.linkedin.com/company/35569558)** | **[Artist Management Intern](https://jobright.ai/jobs/info/66be042fdedaea1a09e1bcc2?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 14 |
 | **[Studs](https://studs.com/)** | **[Fashion Island, CA, Apprentice Piercer](https://jobright.ai/jobs/info/66bd15b4e5362706c07eb608?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | On Site | Aug 14 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/66bcf1aceaef3b4897299df6?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Aug 14 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Operations & Production, Game Shows Social & Digital Intern – Fall 2024](https://jobright.ai/jobs/info/66bcd100ab58b1e17d77c3cc?utm_campaign=1053&utm_source=git)** | Multi Location
+Culver City, CA
+Culver City, California | Hybrid | Aug 14 |
 | **[ZEARN](https://www.zearn.org/)** | **[Spanish Content Operations Associate at Zearn](https://jobright.ai/jobs/info/668c6182980e9b9331fff260?utm_campaign=1053&utm_source=git)** | United States | On Site | Aug 14 |
 | **[Great Clips](https://www.greatclips.com/)** | **[Hair Stylist Intern - Brandywine Plaza](https://jobright.ai/jobs/info/66bd7ce10e327dfc60e11c61?utm_campaign=1053&utm_source=git)** | Greenfield, IN | On Site | Aug 14 |
 | **[New York Public Radio](http://www.nypublicradio.org)** | **[Assistant Producer, Radiolab](https://jobright.ai/jobs/info/66a02a9683fe12fc9f1d4614?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 14 |
@@ -83,8 +90,7 @@ Tempe, AZ | On Site | Aug 15 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Intern, Film & TV Clearance](https://jobright.ai/jobs/info/66bc356738ed5f4a9bb2dc4f?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 13 |
 | **[SAGE Publications](https://group.sagepub.com)** | **[Intern, Corwin Editorial](https://jobright.ai/jobs/info/66bc098fcd03791998e13a32?utm_campaign=1053&utm_source=git)** | Thousand Oaks, CA | On Site | Aug 13 |
 | **[The San Francisco Standard](https://sfstandard.com)** | **[Fall News Intern](https://jobright.ai/jobs/info/66bc04f9bbdc13c10b3bfade?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 13 |
-| **[Bumble and bumble.](http://www.bumbleandbumble.com)** | **[Color Apprentice - Bumble and bumble - 40 Hrs - 146 E 56th Street - New York, NY](https://jobright.ai/jobs/info/66bc04f9bbdc13c10b3bfb59?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 13 |
-| ↳ | **[Color Apprentice - Bumble and bumble - 40 Hrs -415 West 13th Street - New York, NY](https://jobright.ai/jobs/info/66bc04f9bbdc13c10b3bfb60?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 13 |
+| **[Bumble and bumble.](http://www.bumbleandbumble.com)** | **[Color Apprentice - Bumble and bumble - 40 Hrs -415 West 13th Street - New York, NY](https://jobright.ai/jobs/info/66bc04f9bbdc13c10b3bfb60?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Kobalt](http://www.kobaltmusic.com)** | **[Synch Intern](https://jobright.ai/jobs/info/66bcf79ab139ad9cadce1676?utm_campaign=1053&utm_source=git)** | Los Angeles | Hybrid | Aug 13 |
 | **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Editorial Journalism Internship](https://jobright.ai/jobs/info/66bbec683814c6ab9958c34c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 13 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Video Analyst Intern (FALL)](https://jobright.ai/jobs/info/66bbfb9a30d51e280e82514e?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 13 |
@@ -96,14 +102,12 @@ Tempe, AZ | On Site | Aug 15 |
 | **[PBS Wisconsin](https://pbswisconsin.org)** | **[Indigenous Affairs Multimedia Reporter](https://jobright.ai/jobs/info/669f24c1530ea29d5f66999c?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Aug 13 |
 | **[Canterbury Park Holdings](https://www.canterburypark.com)** | **[Entertainment Internship](https://jobright.ai/jobs/info/66994d3663c1016c1926d9d0?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Aug 13 |
 | **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Digital & Social Intern - In Season](https://jobright.ai/jobs/info/66bb10fddddb80845a94744d?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 12 |
+| **[NBCUniversal](http://www.nbcuniversal.com)** | **[NBCU Local Bay Area - Video Editor Internship – Fall 2024, San Francisco, CA](https://jobright.ai/jobs/info/66badf018c07a2229c7db7dd?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 12 |
 | **[Persimmon](https://www.persimmon.life/)** | **[Social Media Videographer Intern](https://jobright.ai/jobs/info/66bad2e067e278d84bf74e01?utm_campaign=1053&utm_source=git)** | Larkspur, CA | On Site | Aug 12 |
 | **[Jovie](https://www.jovie.com)** | **[Creative and Patient Mentor Needed](https://jobright.ai/jobs/info/66bace13ceebe88512f6d74a?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Aug 12 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - KOTA/KEVN](https://jobright.ai/jobs/info/66bbd7ec4d8749d059e41aed?utm_campaign=1053&utm_source=git)** | Rapid City, SD | On Site | Aug 12 |
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - KMVT/KSVT](https://jobright.ai/jobs/info/66bbe5577dfa92165b847047?utm_campaign=1053&utm_source=git)** | Twin Falls, ID | On Site | Aug 12 |
 | **[Minot State University](http://www.minotstateu.edu/)** | **[Temporary- NOTSTOCK Photographer/Editor](https://jobright.ai/jobs/info/66badab2151793dd71b565e3?utm_campaign=1053&utm_source=git)** | Minot, ND | On Site | Aug 12 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Operations & Production, Game Shows Social & Digital Intern – Fall 2024](https://jobright.ai/jobs/info/66bbf8129c779bf8220a25b4?utm_campaign=1053&utm_source=git)** | Multi Location
-Culver City, California
-Culver City, CA | Hybrid | Aug 12 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[NYS Broadcaster Internship - PAID](https://jobright.ai/jobs/info/66ba981c10a93f1b17851871?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Aug 12 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Worker - War Eagle Creative Video](https://jobright.ai/jobs/info/66ba9bf7ffde1d9fe7800c54?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Aug 12 |
 | **[KZ_K STUDIO w Karolina Zmarlak](https://kzkstudionyc.com/)** | **[Fashion Production Intern](https://jobright.ai/jobs/info/66ba7b73ac76395484a842d6?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 12 |
@@ -119,7 +123,4 @@ Culver City, CA | Hybrid | Aug 12 |
 | **[Gemini](https://gemini.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/667f493d4a8354e27fe8ac0e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 10 |
 | **[University of North Texas](http://unt.edu)** | **[Internship and Production Assistant](https://jobright.ai/jobs/info/66b758780c5ccaf241f942bf?utm_campaign=1053&utm_source=git)** | Denton, TX | On Site | Aug 10 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Breaking News Intern](https://jobright.ai/jobs/info/668f4223e74ffdb5b6261e45?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Aug 09 |
-| **[Personalized Pro, Inc.](http://www.personalizedpro.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/66b7688f5ef72337b3c53f4a?utm_campaign=1053&utm_source=git)** | Newton, MA | On Site | Aug 09 |
-| **[Teressa Foglia](https://teressafoglia.com/)** | **[Fashion Intern](https://jobright.ai/jobs/info/66b696aa8e0d92162ab00c2c?utm_campaign=1053&utm_source=git)** | Laguna Beach, CA | On Site | Aug 09 |
-| **[Academy Of Country Music](https://www.acmcountry.com)** | **[Intern, Awards & Membership, Artist & Industry Relations](https://jobright.ai/jobs/info/66b687bdcc8e56c8d4f74aff?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
