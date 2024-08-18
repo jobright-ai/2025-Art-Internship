@@ -69,13 +69,13 @@ For a complete list, see the full spreadsheet below:
 | **[national FFA](https://www.ffa.org)** | **[Intern - Multimedia Journalist](https://jobright.ai/jobs/info/66bff91af4b15f92b6159530?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Aug 16 |
 | ↳ | **[Intern - Newsroom Journalist](https://jobright.ai/jobs/info/66bff91af4b15f92b6159538?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Aug 16 |
 | **[Dan Morgan / Straight Shooter](http://StraightShooter.com/)** | **[Assistant](https://jobright.ai/jobs/info/66c0a1de95fc56e048905f12?utm_campaign=1053&utm_source=git)** | Cleveland, OH | Hybrid | Aug 16 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Spring 2025 Internship -](https://jobright.ai/jobs/info/66bfc85897bd98326d068e63?utm_campaign=1053&utm_source=git)** | Multi Location
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Spring 2025 Internship -](https://jobright.ai/jobs/info/66bfbf19b946fd8f4953a8ce?utm_campaign=1053&utm_source=git)** | Multi Location
+Orlando, FL
 Detroit, MI
+New York, United States
 Bloomington, IN
 Savannah, GA
-Cincinnati, OH
-New York, United States
-Orlando, FL | On Site | Aug 16 |
+Cincinnati, OH | On Site | Aug 16 |
 | **[Developmental Disabilities Institute (DDI)](http://ddiny.org)** | **[Film Intern](https://jobright.ai/jobs/info/66bfb271d89c7aaa2f839d6d?utm_campaign=1053&utm_source=git)** | Smithtown, NY | On Site | Aug 16 |
 | **[HURO AI, Inc.](https://www.linkedin.com/company/94276871)** | **[Grant Writers Internship](https://jobright.ai/jobs/info/66c0d1af1dceb623e279b5d0?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 16 |
 | **[EnforceTheSport](https://enforcethesport.com)** | **[Three Month Writing Internship](https://jobright.ai/jobs/info/66bf7bbfe87a60a2cdcc2e71?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 16 |
@@ -84,350 +84,348 @@ Orlando, FL | On Site | Aug 16 |
 | **[Art Blocks](https://artblocks.io)** | **[EDM Music Production Intern](https://jobright.ai/jobs/info/66bf7469e98a75c2a4dfa6cc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 16 |
 | **[Davidson Galleries](https://www.davidsongalleries.com)** | **[Collections Department Intern](https://jobright.ai/jobs/info/66c0a1de95fc56e048905fa0?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 16 |
 | **[Bumble and bumble.](http://www.bumbleandbumble.com)** | **[Color Apprentice - Bumble and bumble - 40 Hrs - 146 E 56th Street - New York, NY](https://jobright.ai/jobs/info/66bc04f9bbdc13c10b3bfb59?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 16 |
-| **[Great Clips](https://www.greatclips.com/)** | **[Hair Stylist Intern - Belmont Development](https://jobright.ai/jobs/info/66bf83666d8c69b152a7cb1a?utm_campaign=1053&utm_source=git)** | Wimauma, FL | On Site | Aug 16 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f0a?utm_campaign=1053&utm_source=git)** | Multi Location
-Laredo, TX
-Shreveport, LA
-Nacogdoches, TX
-Indiana, PA
-Syracuse, NY
-Philadelphia, PA
-Little Rock, AR
-Edison, NJ
-Lake Charles, LA
-Laramie, WY
-Bloomsburg, PA
-Phoenix, AZ
-Montgomery, AL
-Clinton, IA
-Allendale, MI
-Miami, FL
-Northridge, CA
-Olympia, WA
-Orlando, FL
-Great Falls, MT
-Lynchburg, VA
-Boca Raton, FL
-Edmond, OK
-Hammond, IN
-Tacoma, WA
-Murfreesboro, TN
-Carson City, NV
-Corpus Christi, TX
-Arlington, TX
-Lawton, OK
-Augusta, ME
-Chandler, AZ
-Missoula, MT
-Nampa, ID
-Omaha, NE
-Prairie View, TX
-Allentown, PA
-Davenport, IA
-Chattanooga, TN
-Meridian, ID
-Paterson, NJ
-Waipahu, HI
-Bronx, NY
-Pomona, CA
-St Petersburg, FL
-Melbourne, FL
-Albuquerque, NM
-Stockton, CA
-Rochester, NH
-Buffalo, NY
-Billings, MT
-Huntington, WV
-Racine, WI
-Warren, MI
-Wilmington, DE
-Warwick, RI
-Anchorage, AK
-Kenner, LA
-Commerce, TX
-Largo, MD
-Brockton, MA
-Detroit, MI
-Spokane, WA
-Danbury, CT
-Pensacola, FL
-Montpelier, VT
-Madison, WI
-Elon, NC
-Essex Junction, VT
-Lincoln, NE
-Hamden, CT
-Conway, SC
-Hialeah, FL
-Bowie, MD
-Roswell, NM
-Charleston, SC
-Providence, RI
-Ogden, UT
-San Jose, CA
-Rapid City, SD
-Chesapeake, VA
-Sacramento, CA
-Houston, TX
-Greenville, NC
-Bowling Green, KY
-Idaho Falls, ID
-West Chester, PA
-Virginia Beach, VA
-Colchester, VT
-Edwardsville, IL
-Morgantown, WV
-Gaithersburg, MD
-Charlotte, NC
-Plymouth, MN
-Lewiston, ME
-Savannah, GA
-Newark, NJ
-Albany, NY
-Thornton, CO
-Portland, ME
-Fort Smith, AR
-Louisville, KY
-Lawrenceville, GA
-Eugene, OR
-Rochester, NY
-Jackson, TN
-Norfolk, VA
-Wilmington, NC
-Columbia, MO
-Peoria, IL
-Stamford, CT
-Parkersburg, WV
-Pittsburgh, PA
-Trenton, NJ
-Grand Forks, ND
-Pierre, SD
-Columbus, GA
-Columbus, OH
-Toledo, OH
-San Diego, CA
-West Jordan, UT
-Cranston, RI
-Rock Hill, SC
-Derry, NH
-Carrollton, GA
-Biddeford, ME
-Rochester Hills, MI
-Fort Myers, FL
-Sterling Heights, MI
-DeKalb, IL
-Bangor, ME
-Middletown, DE
-Geneseo, NY
-Cedar Rapids, IA
-Norwalk, CT
-Indianapolis, IN
-El Paso, TX
-New Brunswick, NJ
-Cambridge, MA
-Alamogordo, NM
-Kennesaw, GA
-Frankfort, KY
-Waterbury, CT
-Chicago, IL
-San Marcos, TX
-Logan, UT
-Minot, ND
-The Woodlands, TX
-Kenosha, WI
-Erie, PA
-Jonesboro, AR
-Waterloo, IA
-Beaumont, TX
-Cleveland, OH
-Milford, DE
-Concord, NH
-Macon, GA
-Springdale, AR
-Rochester, MN
-Bowling Green, OH
-Honolulu, HI
-Newark, DE
-Kansas City, MO
-Whitewater, WI
-St Louis, MO
-Barre Town, VT
-Boise, ID
-Rockville, MD
-Jefferson City, MO
-Nashua, NH
-Springfield, IL
-Queens, NY
-McKinney, TX
-Worcester, MA
-Terre Haute, IN
-Wheeling, WV
-Gary, IN
-Dallas, TX
-Moscow, ID
-Dover, DE
-South Portland, ME
-Overland Park, KS
-Wellesley, MA
-Yonkers, NY
-Bellevue, NE
-Charleston, WV
-Baton Rouge, LA
-Fargo, ND
-Hampton, VA
-Tuscaloosa, AL
-Chico, CA
-Green Bay, WI
-Annapolis, MD
-Las Vegas, NV
-South Bend, IN
-Fresno, CA
-Huntsville, TX
-Covington, KY
-Annandale, VA
-Duluth, MN
-Rutland, VT
-Huntsville, AL
-Colorado Springs, CO
-Bozeman, MT
-Lowell, MA
-Hot Springs, AR
-Hagerstown, MD
-Brookings, SD
-Glendale, AZ
-Baltimore, MD
-Birmingham, AL
-North Dartmouth, MA
-Menomonie, WI
-Flagstaff, AZ
-Kalamazoo, MI
-Mount Pleasant, SC
-Greensboro, NC
-Tampa, FL
-Sioux City, IA
-Henderson, NV
-Lansing, MI
-Conway, AR
-Augusta, GA
-Springfield, MA
-Vancouver, WA
-Owensboro, KY
-Raleigh, NC
-Salt Lake City, UT
-Bismarck, ND
-Las Cruces, NM
-Merced, CA
-Wichita, KS
-Tupelo, MS
-Oklahoma City, OK
-Portland, OR
-Sparks, NV
-Jersey City, NJ
-Joliet, IL
-Burlington, VT
-Flint, MI
-Mobile, AL
-Meridian, MS
-Mililani Town, HI
-Towson, MD
-Seattle, WA
-Salem, OR
-Bellingham, WA
-New Haven, CT
-Rexburg, ID
-Scottsdale, AZ
-Milwaukee, WI
-Aurora, CO
-Grand Rapids, MI
-Memphis, TN
-Frederick, MD
-Harrisburg, PA
-Hattiesburg, MS
-Independence, MO
-Valdosta, GA
-Grand Island, NE
-Smyrna, DE
-Athens, GA
-Harrisonburg, VA
-Cheyenne, WY
-Denver, CO
-New Orleans, LA
-Berrien Springs, MI
-Pittsburg, KS
-Lexington, KY
-Kearney, NE
-Coeur d'Alene, ID
-Bridgeport, CT
-Seaford, DE
-Norman, OK
-Knoxville, TN
-Potsdam, NY
-Arcata, CA
-Bristol, RI
-Juneau, AK
-Bellevue, WA
-Biloxi, MS
-Minneapolis, MN
-Bakersfield, CA
-Broken Arrow, OK
-San Luis Obispo, CA
-Tulsa, OK
-Ann Arbor, MI
-Southaven, MS
-Boone, NC
-Fairbanks, AK
-Lake Worth, FL
-Jackson, MS
-Pocatello, ID
-Gresham, OR
-Pearl City, HI
-Aberdeen, SD
-Manchester, NH
-Auburn, ME
-Binghamton, NY
-Durham, NC
-Adelphi, MD
-Orem, UT
-Fayetteville, AR
-Richmond, VA
-High Point, NC
-Springfield, MO
-Santa Fe, NM
-Tallahassee, FL
-Vestal, NY
-Aurora, IL
-Evansville, IN
-Atlanta, GA
-Iowa City, IA
-Fort Wayne, IN
-Des Moines, IA
-Sioux Falls, SD
-Mesa, AZ
-Kansas City, KS
-Nashville, TN
-Greeley, CO
-Elizabeth, NJ
-Reading, PA
-Jacksonville, FL
-Mount Pleasant, MI
-Fort Collins, CO
-St Cloud, MN
-Topeka, KS
-Helena, MT
-Pawtucket, RI
-Williamsburg, VA
-Hartford, CT | On Site | Aug 16 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN DC News Associate – Rotational Program](https://jobright.ai/jobs/info/666a6536ca7ce031c1c10616?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 16 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Intern I, News](https://jobright.ai/jobs/info/6672e80cd742a3597e9aba0f?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Aug 16 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/664dffe7d79e0cf76550113b?utm_campaign=1053&utm_source=git)** | Multi Location
+Lubbock, TX
+Monroe, LA | On Site | Aug 16 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/6672e7e3d742a3597e9ab8c7?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 16 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Intern, News](https://jobright.ai/jobs/info/664de0460790ade97e15e49a?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Aug 16 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Seasonal 2024-25)](https://jobright.ai/jobs/info/66a2e2f9621b00551f3627ac?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 16 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Spectrum News Fellowship Program - Syracuse](https://jobright.ai/jobs/info/66b0d9b86cb9e4fbf704ca46?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 16 |
 | **[Fever](https://www.feverup.com)** | **[Internship Music Curator](https://jobright.ai/jobs/info/66bf33458520bd60d50098e1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
-| **[Amazing Lash Studio](https://www.amazinglashstudio.com/)** | **[Model for Eyelash Extensions](https://jobright.ai/jobs/info/66bef1785d88ec91f04d49ca?utm_campaign=1053&utm_source=git)** | Multi Location
-Gilbert, AZ
-Peoria, AZ
-Tempe, AZ | On Site | Aug 15 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154f49?utm_campaign=1053&utm_source=git)** | Multi Location
+Chico, CA
+Iowa City, IA
+Athens, GA
+Warren, MI
+Portland, ME
+Thornton, CO
+Billings, MT
+Charleston, WV
+Queens, NY
+Essex Junction, VT
+Kennesaw, GA
+St Louis, MO
+Stamford, CT
+Reading, PA
+Rapid City, SD
+Bridgeport, CT
+Coeur d'Alene, ID
+Knoxville, TN
+Mesa, AZ
+Annandale, VA
+Arcata, CA
+Hialeah, FL
+Jonesboro, AR
+Charlotte, NC
+Milford, DE
+Fort Smith, AR
+Eugene, OR
+Pierre, SD
+Atlanta, GA
+West Chester, PA
+Macon, GA
+Waterloo, IA
+Newark, NJ
+Sterling Heights, MI
+Albuquerque, NM
+Kenosha, WI
+Fort Wayne, IN
+Fargo, ND
+Des Moines, IA
+St Cloud, MN
+Whitewater, WI
+Ogden, UT
+Columbus, GA
+Pittsburg, KS
+New Orleans, LA
+Grand Forks, ND
+Rexburg, ID
+Morgantown, WV
+Sacramento, CA
+Fayetteville, AR
+Edwardsville, IL
+Lewiston, ME
+High Point, NC
+Trenton, NJ
+Oklahoma City, OK
+Binghamton, NY
+Terre Haute, IN
+Hamden, CT
+Parkersburg, WV
+Glendale, AZ
+Bakersfield, CA
+Tallahassee, FL
+Duluth, MN
+Norman, OK
+Jackson, MS
+Huntsville, AL
+Providence, RI
+Lincoln, NE
+Wilmington, DE
+Nashua, NH
+Chicago, IL
+Stockton, CA
+Minneapolis, MN
+Jefferson City, MO
+Denver, CO
+Bozeman, MT
+Seaford, DE
+Brockton, MA
+Huntsville, TX
+DeKalb, IL
+Aurora, CO
+Wheeling, WV
+Tampa, FL
+St Petersburg, FL
+Orlando, FL
+Northridge, CA
+Miami, FL
+Bismarck, ND
+Augusta, GA
+Hampton, VA
+Racine, WI
+Flagstaff, AZ
+Rochester, MN
+Conway, SC
+Santa Fe, NM
+Pomona, CA
+Olympia, WA
+Melbourne, FL
+Erie, PA
+Edison, NJ
+Dover, DE
+Montgomery, AL
+Flint, MI
+Philadelphia, PA
+Carson City, NV
+Laramie, WY
+Little Rock, AR
+Omaha, NE
+New Haven, CT
+Dallas, TX
+Henderson, NV
+Ann Arbor, MI
+Tupelo, MS
+Southaven, MS
+Arlington, TX
+Corpus Christi, TX
+Gresham, OR
+Houston, TX
+Greenville, NC
+Green Bay, WI
+Waterbury, CT
+Potsdam, NY
+Biddeford, ME
+El Paso, TX
+Peoria, IL
+Jackson, TN
+Lake Worth, FL
+Cambridge, MA
+Fairbanks, AK
+Middletown, DE
+Bowie, MD
+Harrisonburg, VA
+Rutland, VT
+Milwaukee, WI
+Bangor, ME
+Scottsdale, AZ
+Tuscaloosa, AL
+Frankfort, KY
+Albany, NY
+Durham, NC
+Memphis, TN
+Warwick, RI
+Kearney, NE
+Valdosta, GA
+Fresno, CA
+Fort Myers, FL
+Richmond, VA
+Juneau, AK
+Bellevue, WA
+Colorado Springs, CO
+Berrien Springs, MI
+Bellevue, NE
+Manchester, NH
+Independence, MO
+Boone, NC
+Evansville, IN
+Aberdeen, SD
+West Jordan, UT
+Plymouth, MN
+Springfield, MO
+Biloxi, MS
+Lawrenceville, GA
+Springdale, AR
+Savannah, GA
+Pensacola, FL
+Louisville, KY
+Cedar Rapids, IA
+Bowling Green, KY
+Colchester, VT
+Charleston, SC
+Rochester, NY
+Nashville, TN
+Grand Island, NE
+Pearl City, HI
+Virginia Beach, VA
+Smyrna, DE
+Columbus, OH
+Boise, ID
+Elizabeth, NJ
+Beaumont, TX
+Worcester, MA
+Idaho Falls, ID
+Montpelier, VT
+South Bend, IN
+Baltimore, MD
+Derry, NH
+Pawtucket, RI
+Cleveland, OH
+Toledo, OH
+Williamsburg, VA
+Yonkers, NY
+Topeka, KS
+Kansas City, MO
+Hattiesburg, MS
+Bowling Green, OH
+Las Vegas, NV
+Adelphi, MD
+Lexington, KY
+Rock Hill, SC
+Jacksonville, FL
+Fort Collins, CO
+Pittsburgh, PA
+Chesapeake, VA
+Bristol, RI
+Indianapolis, IN
+McKinney, TX
+Honolulu, HI
+Logan, UT
+Roswell, NM
+Sioux Falls, SD
+Danbury, CT
+Harrisburg, PA
+The Woodlands, TX
+Buffalo, NY
+San Diego, CA
+Spokane, WA
+Wellesley, MA
+Newark, DE
+Greeley, CO
+Orem, UT
+Kansas City, KS
+Elon, NC
+Kenner, LA
+Rochester Hills, MI
+Concord, NH
+Largo, MD
+Huntington, WV
+Annapolis, MD
+Baton Rouge, LA
+Lowell, MA
+Carrollton, GA
+Detroit, MI
+Auburn, ME
+Vestal, NY
+Rochester, NH
+Aurora, IL
+Norwalk, CT
+Norfolk, VA
+Tacoma, WA
+Brookings, SD
+Madison, WI
+Geneseo, NY
+Cheyenne, WY
+Grand Rapids, MI
+Alamogordo, NM
+Minot, ND
+Anchorage, AK
+Columbia, MO
+Covington, KY
+Mount Pleasant, MI
+Hartford, CT
+Helena, MT
+Wilmington, NC
+Pocatello, ID
+Springfield, IL
+Birmingham, AL
+Commerce, TX
+Shreveport, LA
+San Marcos, TX
+Lansing, MI
+Tulsa, OK
+Portland, OR
+Greensboro, NC
+Phoenix, AZ
+Seattle, WA
+Lawton, OK
+Murfreesboro, TN
+Salt Lake City, UT
+Salem, OR
+Owensboro, KY
+Meridian, ID
+Gary, IN
+Allentown, PA
+Lake Charles, LA
+Boca Raton, FL
+Mililani Town, HI
+Meridian, MS
+Towson, MD
+Chattanooga, TN
+Merced, CA
+Hammond, IN
+Menomonie, WI
+Moscow, ID
+North Dartmouth, MA
+Wichita, KS
+Mobile, AL
+Cranston, RI
+Laredo, TX
+Las Cruces, NM
+Frederick, MD
+New Brunswick, NJ
+Rockville, MD
+Barre Town, VT
+Indiana, PA
+Edmond, OK
+Chandler, AZ
+Jersey City, NJ
+Vancouver, WA
+Sparks, NV
+San Jose, CA
+Mount Pleasant, SC
+San Luis Obispo, CA
+Clinton, IA
+Sioux City, IA
+Great Falls, MT
+Allendale, MI
+Gaithersburg, MD
+Paterson, NJ
+Conway, AR
+Bloomsburg, PA
+Lynchburg, VA
+Missoula, MT
+Burlington, VT
+Overland Park, KS
+Syracuse, NY
+South Portland, ME
+Kalamazoo, MI
+Waipahu, HI
+Augusta, ME
+Springfield, MA
+Nampa, ID
+Bronx, NY
+Hot Springs, AR
+Raleigh, NC
+Prairie View, TX
+Hagerstown, MD
+Davenport, IA
+Bellingham, WA
+Joliet, IL
+Nacogdoches, TX
+Broken Arrow, OK | On Site | Aug 16 |
 | **[Innerwell](https://www.helloinnerwell.com/)** | **[Content Creator Internship (Unpaid)](https://jobright.ai/jobs/info/66bc1cc0550b64e49c1af94e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Golden Hippo](http://goldenhippomedia.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/66b144bab992081a259c6858?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 15 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant](https://jobright.ai/jobs/info/66a3e1cdfa1e56eccb8f5af3?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 15 |
@@ -437,10 +435,10 @@ Tempe, AZ | On Site | Aug 15 |
 | **[Q Management Group](https://www.linkedin.com/company/35569558)** | **[Artist Management Intern](https://jobright.ai/jobs/info/66be042fdedaea1a09e1bcc2?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 14 |
 | **[Studs](https://studs.com/)** | **[Fashion Island, CA, Apprentice Piercer](https://jobright.ai/jobs/info/66bd15b4e5362706c07eb608?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | On Site | Aug 14 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/66bcf1aceaef3b4897299df6?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Aug 14 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Operations & Production, Game Shows Social & Digital Intern – Fall 2024](https://jobright.ai/jobs/info/66bcd100ab58b1e17d77c3cc?utm_campaign=1053&utm_source=git)** | Multi Location
-Culver City, CA
-Culver City, California | Hybrid | Aug 14 |
-| **[Great Clips](https://www.greatclips.com/)** | **[Hair Stylist Intern - Brandywine Plaza](https://jobright.ai/jobs/info/66bd7ce10e327dfc60e11c61?utm_campaign=1053&utm_source=git)** | Greenfield, IN | On Site | Aug 14 |
+| **[Amazing Lash Studio](https://www.amazinglashstudio.com/)** | **[Model for Eyelash Extensions](https://jobright.ai/jobs/info/66bca267d352c0aaebc26e31?utm_campaign=1053&utm_source=git)** | Multi Location
+Tempe, AZ
+Gilbert, AZ
+Peoria, AZ | On Site | Aug 14 |
 | **[New York Public Radio](http://www.nypublicradio.org)** | **[Assistant Producer, Radiolab](https://jobright.ai/jobs/info/66a02a9683fe12fc9f1d4614?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 14 |
 | **[JOY Technology Corp.](https://en.wuyou.com)** | **[Live Streaming Agent](https://jobright.ai/jobs/info/66bd389e2d89931d24c4fa5c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 14 |
 | **[Deseret News](http://www.deseretnews.com/)** | **[Deseret Magazine fellowship](https://jobright.ai/jobs/info/66c03156d087a69dbf4e757b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 13 |
@@ -461,6 +459,9 @@ Culver City, California | Hybrid | Aug 14 |
 | **[Jovie](https://www.jovie.com)** | **[Creative and Patient Mentor Needed](https://jobright.ai/jobs/info/66bace13ceebe88512f6d74a?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Aug 12 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - KOTA/KEVN](https://jobright.ai/jobs/info/66bbd7ec4d8749d059e41aed?utm_campaign=1053&utm_source=git)** | Rapid City, SD | On Site | Aug 12 |
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - KMVT/KSVT](https://jobright.ai/jobs/info/66bbe5577dfa92165b847047?utm_campaign=1053&utm_source=git)** | Twin Falls, ID | On Site | Aug 12 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Operations & Production, Game Shows Social & Digital Intern – Fall 2024](https://jobright.ai/jobs/info/66bbf8129c779bf8220a25b4?utm_campaign=1053&utm_source=git)** | Multi Location
+Culver City, California
+Culver City, CA | Hybrid | Aug 12 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[NYS Broadcaster Internship - PAID](https://jobright.ai/jobs/info/66ba981c10a93f1b17851871?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Aug 12 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Worker - War Eagle Creative Video](https://jobright.ai/jobs/info/66ba9bf7ffde1d9fe7800c54?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Aug 12 |
 | **[KZ_K STUDIO w Karolina Zmarlak](https://kzkstudionyc.com/)** | **[Fashion Production Intern](https://jobright.ai/jobs/info/66ba7b73ac76395484a842d6?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 12 |
@@ -470,5 +471,4 @@ Culver City, California | Hybrid | Aug 14 |
 | **[Advocate Construction](https://www.advocateconstruction.com/)** | **[Advocate Production Apprentice - Troy, MI](https://jobright.ai/jobs/info/66ba5f84a12666245b240c41?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Aug 11 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Business Editorial](https://jobright.ai/jobs/info/66ba5dd684c0e8e5b985be84?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 11 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern (Part-time)](https://jobright.ai/jobs/info/66be0b4aea116fc63756a74b?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Aug 11 |
-| **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - Original Video Production Editor / Shooter](https://jobright.ai/jobs/info/669cf4476def7480bf442480?utm_campaign=1053&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
