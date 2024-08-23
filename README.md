@@ -57,15 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanders-Brown Center on Aging](https://medicine.uky.edu/centers/sbcoa/)** | **[Student Content Creator](https://jobright.ai/jobs/info/66c7eb9c7f9fd0b637de725b?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 22 |
+| **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Writing Internship](https://jobright.ai/jobs/info/66c7f2ef06e1fe4350f29f01?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Aug 22 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Tournament Operations Intern THE PLAYERS](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3a3d?utm_campaign=1053&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Aug 22 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Lifestyle and Entertainment Show- Fall Intern 1](https://jobright.ai/jobs/info/66c7c3dbe9f0701d09066a13?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 22 |
 | ↳ | **[Lifestyle Entertainment Fall Intern 2](https://jobright.ai/jobs/info/66c7c3dbe9f0701d09066a12?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 22 |
 | **[Bridge Showroom](http://www.bridgeshowroom.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/66c7b564ae5df64bac3c090c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 22 |
+| **[William Collier Design](http://www.williamcollierdesign.com)** | **[Paid Internship/Stylist Assistant](https://jobright.ai/jobs/info/66c7f588eacf9b3cd21ec59b?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 22 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - WILX](https://jobright.ai/jobs/info/66c7a98d3284506efdfa1f4a?utm_campaign=1053&utm_source=git)** | Lansing, MI | On Site | Aug 22 |
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP WINTER/SUMMER '25 - WLUC](https://jobright.ai/jobs/info/66c7a98d3284506efdfa1f51?utm_campaign=1053&utm_source=git)** | Negaunee, MI | On Site | Aug 22 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[US Digital Intern](https://jobright.ai/jobs/info/66c7b73eae43499602fa0ae4?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 22 |
 | **[Teach for America](http://www.teachforamerica.org/)** | **[Storytelling Seasonal Temp](https://jobright.ai/jobs/info/66c79cceb0ec0df61d037e97?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 22 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Human Psychology +Writer Unpaid Fall Intern Berkeley Female Founded Startup](https://jobright.ai/jobs/info/66c78d4bc8f71ee217a30583?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 22 |
+| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant](https://jobright.ai/jobs/info/66a3e1cdfa1e56eccb8f5af3?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 22 |
 | **[Quotable Media Co](http://quotablemediaco.com)** | **[Magazine Intern](https://jobright.ai/jobs/info/66c764a0f94898f4a2cfb006?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | Aug 22 |
 | **[A. N. Publishing](https://www.anpublishing.com/)** | **[Entertainment Feature Journalist Internship](https://jobright.ai/jobs/info/66c76e87035c59fa08764a33?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 22 |
 | **[Damar Services](https://www.damar.org)** | **[Special Events and Volunteer Intern](https://jobright.ai/jobs/info/66c75324cd633f86ef08d137?utm_campaign=1053&utm_source=git)** | Greater Indianapolis | On Site | Aug 22 |
@@ -114,9 +118,9 @@ For a complete list, click the following sortable link below:
 | **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Audience Producer Intern](https://jobright.ai/jobs/info/66bdf0db183931a194598a89?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Aug 21 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Fall 2024](https://jobright.ai/jobs/info/66aa21e9e9819a8838850870?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | Hybrid | Aug 21 |
 | ↳ | **[WAVY Unpaid Production Intern, Fall 2024](https://jobright.ai/jobs/info/66c5bfdf37a45698b754993f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 21 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2024](https://jobright.ai/jobs/info/66c5bfdf37a45698b754994d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 21 |
 | ↳ | **[WAVY Unpaid Newsroom Intern, Fall 2024](https://jobright.ai/jobs/info/66c5bfdf37a45698b7549943?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 21 |
 | ↳ | **[WAVY Unpaid Sports Intern, Fall 2024](https://jobright.ai/jobs/info/66c5bfdf37a45698b7549948?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | Hybrid | Aug 21 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2024](https://jobright.ai/jobs/info/66c5bfdf37a45698b75499e0?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 21 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Hyatt Regency Cincinnati](https://jobright.ai/jobs/info/66a94f02aa707341f03e52df?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4475b3b6eb3a161ca6f6?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Aug 21 |
 | **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c5c1de89ee0efa701b308e?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Aug 21 |
@@ -128,22 +132,21 @@ For a complete list, click the following sortable link below:
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern_](https://jobright.ai/jobs/info/66c58b854031dddaece8f2a1?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Aug 20 |
 | **[Associated Electric Cooperative](https://www.aeci.org/)** | **[Editorial Intern_](https://jobright.ai/jobs/info/66c56d4730f888847de07c83?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | Aug 20 |
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[College Intern – Aviation Art Program](https://jobright.ai/jobs/info/66c561c660544c52d762d329?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Aug 20 |
-| **[Comal Independent School District](http://www.comalisd.org)** | **[Student Worker - Theatre Operator](https://jobright.ai/jobs/info/66c62625a00a2199acab3f02?utm_campaign=1053&utm_source=git)** | New Braunfels, TX | On Site | Aug 20 |
+| **[Comal Independent School District](http://www.comalisd.org)** | **[Student Worker - Theatre Operator](https://jobright.ai/jobs/info/66c62625a00a2199acab3f05?utm_campaign=1053&utm_source=git)** | New Braunfels, TX | On Site | Aug 20 |
 | **[The Gideons International](http://www.gideonsteam.org)** | **[Video Production Intern](https://jobright.ai/jobs/info/66c65bbe5a5dc281fd513b28?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 20 |
-| **[L’AGENCE](https://lagence.com)** | **[L'AGENCE SS25 / NYFW Internship Opportunity (1 day, in person in NYC)](https://jobright.ai/jobs/info/66c552be308e79c9bcc13bca?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 20 |
 | **[Finley Farms](https://finleyfarmsmo.com/)** | **[Finley Farms & Ozark Mill - Culinary Intern](https://jobright.ai/jobs/info/66c6760d5b8354e1af800357?utm_campaign=1053&utm_source=git)** | Ozark, MO | On Site | Aug 20 |
 | **[CLO Virtual Fashion](http://www.clovirtualfashion.com)** | **[Tiktok Intern (Content Creator)](https://jobright.ai/jobs/info/66c66b28e432e83472b3c361?utm_campaign=1053&utm_source=git)** | New York | On Site | Aug 20 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225be7f?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | Aug 20 |
 | **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[WTAE News Intern](https://jobright.ai/jobs/info/66c51ab3efcc8c1e6ed8dcfc?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Aug 20 |
 | **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[Editorial Assistant - Riverhead Books - (Onsite)](https://jobright.ai/jobs/info/66c5288e9f4da919a6e2d61b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 20 |
-| **[Flik](https://www.flik-usa.com/)** | **[Culinary Intern, FLIK / Athletics (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c53c4033e3d96dc776420b?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Aug 20 |
-| ↳ | **[Culinary Intern, FLIK (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c53c4033e3d96dc776420a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
+| **[Flik](https://www.flik-usa.com/)** | **[Culinary Intern, FLIK (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c53c4033e3d96dc776420a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
+| ↳ | **[Culinary Intern, FLIK / Athletics (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c53c4033e3d96dc776420b?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Aug 20 |
 | ↳ | **[Culinary Intern, FLIK / Athletics (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c53c4033e3d96dc776420c?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 20 |
 | ↳ | **[Culinary Intern, FLIK / Athletics (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c53c4033e3d96dc776420d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | ↳ | **[Culinary Intern, FLIK / Athletics (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c5246e93950544f36d9184?utm_campaign=1053&utm_source=git)** | Fort Myers, FL | On Site | Aug 20 |
-| ↳ | **[Culinary Intern, FLIK / Athletics (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c524a693950544f36d9982?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 20 |
-| ↳ | **[Culinary Intern, FLIK / Athletics (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c524a693950544f36d9981?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 20 |
 | ↳ | **[Culinary Intern, FLIK / Athletics (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c524a693950544f36d9983?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 20 |
+| ↳ | **[Culinary Intern, FLIK / Athletics (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c524a693950544f36d9981?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 20 |
+| ↳ | **[Culinary Intern, FLIK / Athletics (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c524a693950544f36d9982?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 20 |
 | ↳ | **[Culinary Intern, FLIK (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c5246e93950544f36d9183?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 20 |
 | ↳ | **[Culinary Intern, FLIK (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c524a693950544f36d9985?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 20 |
 | ↳ | **[Culinary Intern, FLIK (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c524a693950544f36d9984?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Aug 20 |
@@ -174,8 +177,8 @@ For a complete list, click the following sortable link below:
 | **[Clarion Media Group](https://clarion1822.com/)** | **[Daily Dot Trending Intern - Fall 2024](https://jobright.ai/jobs/info/66c552be308e79c9bcc13f57?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 19 |
 | **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[Video Production Assistant](https://jobright.ai/jobs/info/66b63ece77e1bdd3ff85d16b?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Aug 19 |
 | **[RealPlay Sports](http://realplay.us/)** | **[Sports Video Operations and Data Intern - Fall 2024 (Yaphank, NY)](https://jobright.ai/jobs/info/66c40d8339979b46f4c654a7?utm_campaign=1053&utm_source=git)** | Yaphank, NY | On Site | Aug 19 |
-| **[Hamilton Canucks](https://syracusecrunch.com/)** | **[BROADCAST INTERNSHIP](https://jobright.ai/jobs/info/66c40d8339979b46f4c654be?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 19 |
-| ↳ | **[VIDEO PRODUCTION INTERNSHIP](https://jobright.ai/jobs/info/66c5246e93950544f36d92cf?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 19 |
+| **[Hamilton Canucks](https://syracusecrunch.com/)** | **[VIDEO PRODUCTION INTERNSHIP](https://jobright.ai/jobs/info/66c5246e93950544f36d92cf?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 19 |
+| ↳ | **[BROADCAST INTERNSHIP](https://jobright.ai/jobs/info/66c40d8339979b46f4c654be?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 19 |
 | **[Inspire Brands](https://inspirebrands.com)** | **[Maverick Studios Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d92e9?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Aug 19 |
 | **[Digital4Good x #ICANHELP](https://www.icanhelp.net/)** | **[Video Production Internship (UNPAID)](https://jobright.ai/jobs/info/66c5246e93950544f36d92e0?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Aug 19 |
 | **[Morgridge Institute for Research](https://morgridge.org)** | **[Student Science Writer](https://jobright.ai/jobs/info/66c3e303a7c48d391e1c8880?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Aug 19 |
@@ -212,8 +215,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4475b3b6eb3a161ca731?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Aug 18 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4475b3b6eb3a161ca6ec?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 18 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/66ae1805617a0b820cd7b480?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Aug 18 |
-| ↳ | **[ARC News Intern - Fall 2024](https://jobright.ai/jobs/info/666c34762efa92a03b8950de?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Aug 18 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c408fb342f124248839e5?utm_campaign=1053&utm_source=git)** | Macon, GA | On Site | Aug 18 |
+| ↳ | **[ARC News Intern - Fall 2024](https://jobright.ai/jobs/info/666c34762efa92a03b8950de?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Aug 18 |
 | ↳ | **[ARC News Intern - Fall 2024](https://jobright.ai/jobs/info/666c34762efa92a03b8950f0?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Aug 18 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c408fb342f124248839bb?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 18 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c34762efa92a03b8950ac?utm_campaign=1053&utm_source=git)** | El Paso, TX | On Site | Aug 18 |
@@ -249,70 +252,57 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d116a?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d116b?utm_campaign=1053&utm_source=git)** | Peoria, IL | On Site | Aug 16 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f0a?utm_campaign=1053&utm_source=git)** | Laredo, TX | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d116d?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d116c?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d116d?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d116e?utm_campaign=1053&utm_source=git)** | San Marcos, TX | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1170?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d116f?utm_campaign=1053&utm_source=git)** | Lowell, MA | On Site | Aug 16 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f26?utm_campaign=1053&utm_source=git)** | Hammond, IN | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d116f?utm_campaign=1053&utm_source=git)** | Lowell, MA | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1170?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Aug 16 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f31?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1171?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1172?utm_campaign=1053&utm_source=git)** | Elon, NC | On Site | Aug 16 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f31?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1174?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Aug 16 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f38?utm_campaign=1053&utm_source=git)** | Burlington, VT | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1173?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1175?utm_campaign=1053&utm_source=git)** | Idaho Falls, ID | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1174?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Aug 16 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f41?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1175?utm_campaign=1053&utm_source=git)** | Idaho Falls, ID | On Site | Aug 16 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f42?utm_campaign=1053&utm_source=git)** | Menomonie, WI | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d117a?utm_campaign=1053&utm_source=git)** | Elizabeth, NJ | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1177?utm_campaign=1053&utm_source=git)** | Seaford, DE | On Site | Aug 16 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f50?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1176?utm_campaign=1053&utm_source=git)** | Gaithersburg, MD | On Site | Aug 16 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f50?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1179?utm_campaign=1053&utm_source=git)** | Aberdeen, SD | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1178?utm_campaign=1053&utm_source=git)** | Geneseo, NY | On Site | Aug 16 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f57?utm_campaign=1053&utm_source=git)** | Mount Pleasant, SC | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1177?utm_campaign=1053&utm_source=git)** | Seaford, DE | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d117b?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d117f?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Aug 16 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f57?utm_campaign=1053&utm_source=git)** | Mount Pleasant, SC | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d117e?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d117d?utm_campaign=1053&utm_source=git)** | Pocatello, ID | On Site | Aug 16 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f6c?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d117f?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d117c?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1183?utm_campaign=1053&utm_source=git)** | Flagstaff, AZ | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1182?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Aug 16 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f70?utm_campaign=1053&utm_source=git)** | North Dartmouth, MA | On Site | Aug 16 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f82?utm_campaign=1053&utm_source=git)** | Conway, AR | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d117d?utm_campaign=1053&utm_source=git)** | Pocatello, ID | On Site | Aug 16 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f73?utm_campaign=1053&utm_source=git)** | Allendale, MI | On Site | Aug 16 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f75?utm_campaign=1053&utm_source=git)** | Moscow, ID | On Site | Aug 16 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f7d?utm_campaign=1053&utm_source=git)** | Vancouver, WA | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1184?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1180?utm_campaign=1053&utm_source=git)** | St Cloud, MN | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1181?utm_campaign=1053&utm_source=git)** | Owensboro, KY | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1185?utm_campaign=1053&utm_source=git)** | Allendale, MI | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1187?utm_campaign=1053&utm_source=git)** | Chesapeake, VA | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1186?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Aug 16 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6fa7?utm_campaign=1053&utm_source=git)** | Sparks, NV | On Site | Aug 16 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f9b?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1180?utm_campaign=1053&utm_source=git)** | St Cloud, MN | On Site | Aug 16 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f82?utm_campaign=1053&utm_source=git)** | Conway, AR | On Site | Aug 16 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f70?utm_campaign=1053&utm_source=git)** | North Dartmouth, MA | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1184?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1182?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1183?utm_campaign=1053&utm_source=git)** | Flagstaff, AZ | On Site | Aug 16 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f7d?utm_campaign=1053&utm_source=git)** | Vancouver, WA | On Site | Aug 16 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f75?utm_campaign=1053&utm_source=git)** | Moscow, ID | On Site | Aug 16 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6fa1?utm_campaign=1053&utm_source=git)** | Clinton, IA | On Site | Aug 16 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f9b?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Aug 16 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6fa7?utm_campaign=1053&utm_source=git)** | Sparks, NV | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1185?utm_campaign=1053&utm_source=git)** | Allendale, MI | On Site | Aug 16 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f96?utm_campaign=1053&utm_source=git)** | Sioux City, IA | On Site | Aug 16 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6fae?utm_campaign=1053&utm_source=git)** | Augusta, GA | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1186?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1187?utm_campaign=1053&utm_source=git)** | Chesapeake, VA | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1188?utm_campaign=1053&utm_source=git)** | DeKalb, IL | On Site | Aug 16 |
-| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6fcb?utm_campaign=1053&utm_source=git)** | Great Falls, MT | On Site | Aug 16 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6fae?utm_campaign=1053&utm_source=git)** | Augusta, GA | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d118a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 16 |
-| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1189?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d118b?utm_campaign=1053&utm_source=git)** | Boone, NC | On Site | Aug 16 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6fcb?utm_campaign=1053&utm_source=git)** | Great Falls, MT | On Site | Aug 16 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d1189?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Aug 16 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6fd4?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 16 |
 | ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c51e6a67e912ee604d118c?utm_campaign=1053&utm_source=git)** | Whitewater, WI | On Site | Aug 16 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN DC News Associate – Rotational Program](https://jobright.ai/jobs/info/666a6536ca7ce031c1c10616?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 16 |
-| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Intern I, News](https://jobright.ai/jobs/info/6672e80cd742a3597e9aba0f?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Aug 16 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/66c51ecb8dcc81aef57090a8?utm_campaign=1053&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Aug 16 |
-| **[Churchill Downs Incorporated](http://www.churchilldownsincorporated.com)** | **[Backstretch Activities Intern](https://jobright.ai/jobs/info/66c51ecb8dcc81aef57090b2?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Aug 16 |
-| **[WESH 2 News](http://wesh.com)** | **[WESH Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d95f7?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Aug 16 |
-| **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c55a2f06c9231327cd815a?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Aug 16 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Productions (Seasonal 2024-25)](https://jobright.ai/jobs/info/66c5246e93950544f36d95f8?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
-| **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/664dffe7d79e0cf76550113b?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Aug 16 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Presentation (Seasonal 2024-25)](https://jobright.ai/jobs/info/66c5246e93950544f36d9602?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
-| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Intern, News](https://jobright.ai/jobs/info/664de0460790ade97e15e49a?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Aug 16 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Seasonal 2024-25)](https://jobright.ai/jobs/info/66a2e2f9621b00551f3627ac?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 16 |
-| **[Spectrum News](https://spectrumlocalnews.com/)** | **[Spectrum News Fellowship Program - Syracuse](https://jobright.ai/jobs/info/66b0d9b86cb9e4fbf704ca46?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 16 |
-| **[Fever](https://www.feverup.com)** | **[Internship Music Curator](https://jobright.ai/jobs/info/66bf33458520bd60d50098e1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
