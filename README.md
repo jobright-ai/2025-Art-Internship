@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A. N. Publishing](https://www.anpublishing.com/)** | **[Journalism Editor Internship (People of Color Entertainment Trade Site)](https://jobright.ai/jobs/info/66cabfe03d82cc0795334536?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 24 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[Fall News Intern 2024](https://jobright.ai/jobs/info/66ca7d1e38d9bb3d52f1c9e4?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 24 |
 | ↳ | **[Fall Weather Intern 2024](https://jobright.ai/jobs/info/66ca7d1e38d9bb3d52f1c9d7?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 24 |
 | **[University of New Mexico](http://unm.edu)** | **[Technical Theatre Intern](https://jobright.ai/jobs/info/66ca14cfd96728a5b0b749a1?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Aug 24 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/660ece5f1cbac0908bb9d833?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 24 |
 | ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/660ece5f1cbac0908bb9d832?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 24 |
 | **[Qurate Retail Group](https://www.qurateretailgroup.com/)** | **[QVC Talent Service Fall Internship](https://jobright.ai/jobs/info/669172602b5e177ed6cb02d0?utm_campaign=1053&utm_source=git)** | West Chester, PA | On Site | Aug 24 |
+| **[Minneapolis/St. Paul Business Journal (MSPBJ)](http://www.mspbj.com)** | **[Editorial intern](https://jobright.ai/jobs/info/66ad1961849f465eaf1ab885?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 24 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/660eb0d5daed97ef0b8b7e6b?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Aug 24 |
 | **[Qurate Retail Group](https://www.qurateretailgroup.com/)** | **[QVC Videography Fall Internship](https://jobright.ai/jobs/info/66c9b57651cd69695df9a5f4?utm_campaign=1053&utm_source=git)** | West Chester, PA | On Site | Aug 24 |
 | ↳ | **[QVC Styling Fall Internship](https://jobright.ai/jobs/info/66c9b57651cd69695df9a5fe?utm_campaign=1053&utm_source=git)** | West Chester, PA | On Site | Aug 24 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Vmi Worldwide](http://vmiworldwide.com)** | **[Intern](https://jobright.ai/jobs/info/66c91cc3c6460b11db88e792?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Aug 23 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News internship-Unpaid](https://jobright.ai/jobs/info/66c9139aa50576260b134251?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 23 |
 | **[The Davey Tree Expert Co.](http://www.davey.com/)** | **[Arborist Trainee Internship (2024) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/66c91cc3c6460b11db88e864?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Aug 23 |
-| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Fall News Intern Telemundo 31 Orlando, FL](https://jobright.ai/jobs/info/66c90dfaa690e3a712e6a68f?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 23 |
-| ↳ | **[Fall News Intern Telemundo Tampa, FL](https://jobright.ai/jobs/info/66c90dfaa690e3a712e6a68e?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Aug 23 |
+| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Fall News Intern Telemundo Tampa, FL](https://jobright.ai/jobs/info/66c90dfaa690e3a712e6a68e?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Aug 23 |
+| ↳ | **[Fall News Intern Telemundo 31 Orlando, FL](https://jobright.ai/jobs/info/66c90dfaa690e3a712e6a68f?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 23 |
 | **[Erin Hills Golf Course](http://erinhills.com)** | **[Turf - Student Intern](https://jobright.ai/jobs/info/66c89ebcc10a755431a5ec55?utm_campaign=1053&utm_source=git)** | Hartford Town, WI | On Site | Aug 23 |
 | **[imre](https://imre.com)** | **[Internship - Fall 2024](https://jobright.ai/jobs/info/66c8626bf7155ef72a23feb6?utm_campaign=1053&utm_source=git)** | New Philadelphia, PA | Hybrid | Aug 23 |
 | **[Greif](http://greif.com)** | **[Summer 2025 Production Intern](https://jobright.ai/jobs/info/66c83981665c08aa2f46350e?utm_campaign=1053&utm_source=git)** | Hazleton, PA | On Site | Aug 22 |
@@ -144,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Hearst Connecticut Media Group](https://hearstmediact.com)** | **[Audience Producer Intern](https://jobright.ai/jobs/info/66bdf0db183931a194598a89?utm_campaign=1053&utm_source=git)** | Norwalk, CT | On Site | Aug 21 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Fall 2024](https://jobright.ai/jobs/info/66aa21e9e9819a8838850870?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | Hybrid | Aug 21 |
 | ↳ | **[WAVY Unpaid Production Intern, Fall 2024](https://jobright.ai/jobs/info/66c5bfdf37a45698b754993f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 21 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2024](https://jobright.ai/jobs/info/66c5bfdf37a45698b754994d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 21 |
 | ↳ | **[WAVY Unpaid Newsroom Intern, Fall 2024](https://jobright.ai/jobs/info/66c5bfdf37a45698b7549943?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 21 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2024](https://jobright.ai/jobs/info/66c5bfdf37a45698b75499e0?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 21 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Hyatt Regency Cincinnati](https://jobright.ai/jobs/info/66a94f02aa707341f03e52df?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c4475b3b6eb3a161ca6f6?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Aug 21 |
 | **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c5c1de89ee0efa701b308e?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Aug 21 |
@@ -157,7 +159,7 @@ For a complete list, click the following sortable link below:
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern_](https://jobright.ai/jobs/info/66c58b854031dddaece8f2a1?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Aug 20 |
 | **[Associated Electric Cooperative](https://www.aeci.org/)** | **[Editorial Intern_](https://jobright.ai/jobs/info/66c56d4730f888847de07c83?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | Aug 20 |
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[College Intern – Aviation Art Program](https://jobright.ai/jobs/info/66c561c660544c52d762d329?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Aug 20 |
-| **[Comal Independent School District](http://www.comalisd.org)** | **[Student Worker - Theatre Operator](https://jobright.ai/jobs/info/66c62625a00a2199acab3f01?utm_campaign=1053&utm_source=git)** | New Braunfels, TX | On Site | Aug 20 |
+| **[Comal Independent School District](http://www.comalisd.org)** | **[Student Worker - Theatre Operator](https://jobright.ai/jobs/info/66c62625a00a2199acab3f08?utm_campaign=1053&utm_source=git)** | New Braunfels, TX | On Site | Aug 20 |
 | **[The Gideons International](http://www.gideonsteam.org)** | **[Video Production Intern](https://jobright.ai/jobs/info/66c65bbe5a5dc281fd513b28?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 20 |
 | **[Finley Farms](https://finleyfarmsmo.com/)** | **[Finley Farms & Ozark Mill - Culinary Intern](https://jobright.ai/jobs/info/66c6760d5b8354e1af800357?utm_campaign=1053&utm_source=git)** | Ozark, MO | On Site | Aug 20 |
 | **[CLO Virtual Fashion](http://www.clovirtualfashion.com)** | **[Tiktok Intern (Content Creator)](https://jobright.ai/jobs/info/66c66b28e432e83472b3c361?utm_campaign=1053&utm_source=git)** | New York | On Site | Aug 20 |
@@ -173,8 +175,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Culinary Intern, FLIK / Athletics (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c524a693950544f36d9983?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | ↳ | **[Culinary Intern, FLIK / Athletics (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c524a693950544f36d9981?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 20 |
 | ↳ | **[Culinary Intern, FLIK (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c5246e93950544f36d9183?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 20 |
-| ↳ | **[Culinary Intern, FLIK (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c524a693950544f36d9985?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 20 |
 | ↳ | **[Culinary Intern, FLIK (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c524a693950544f36d9984?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Aug 20 |
+| ↳ | **[Culinary Intern, FLIK (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c524a693950544f36d9985?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 20 |
 | ↳ | **[Culinary Intern, FLIK (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c524a693950544f36d9986?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - WSMV](https://jobright.ai/jobs/info/66c517969717ef77300e27cc?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 20 |
 | **[Flik](https://www.flik-usa.com/)** | **[Culinary Intern, FLIK / Athletics (Positions Available Across the U.S.!)](https://jobright.ai/jobs/info/66c524a693950544f36d9987?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Aug 20 |
@@ -198,12 +200,11 @@ For a complete list, click the following sortable link below:
 | **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[University Daily Kansan Content Staff](https://jobright.ai/jobs/info/66b29d2d83a1f38ab914d561?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Aug 19 |
 | **[Clarion Media Group](https://clarion1822.com/)** | **[Daily Dot Trending Intern - Fall 2024](https://jobright.ai/jobs/info/66c552be308e79c9bcc13f57?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 19 |
 | **[RealPlay Sports](http://realplay.us/)** | **[Sports Video Operations and Data Intern - Fall 2024 (Yaphank, NY)](https://jobright.ai/jobs/info/66c40d8339979b46f4c654a7?utm_campaign=1053&utm_source=git)** | Yaphank, NY | On Site | Aug 19 |
-| **[Hamilton Canucks](https://syracusecrunch.com/)** | **[VIDEO PRODUCTION INTERNSHIP](https://jobright.ai/jobs/info/66c5246e93950544f36d92cf?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 19 |
-| ↳ | **[BROADCAST INTERNSHIP](https://jobright.ai/jobs/info/66c40d8339979b46f4c654be?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 19 |
+| **[Hamilton Canucks](https://syracusecrunch.com/)** | **[BROADCAST INTERNSHIP](https://jobright.ai/jobs/info/66c40d8339979b46f4c654be?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 19 |
+| ↳ | **[VIDEO PRODUCTION INTERNSHIP](https://jobright.ai/jobs/info/66c5246e93950544f36d92cf?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 19 |
 | **[Inspire Brands](https://inspirebrands.com)** | **[Maverick Studios Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d92e9?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Aug 19 |
 | **[Morgridge Institute for Research](https://morgridge.org)** | **[Student Science Writer](https://jobright.ai/jobs/info/66c3e303a7c48d391e1c8880?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Aug 19 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f7b1?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Aug 19 |
-| **[Feline Apparel Brand, Inc.](www.felineapparel.com)** | **[Internship](https://jobright.ai/jobs/info/66c5246e93950544f36d93c6?utm_campaign=1053&utm_source=git)** | Nashville Metro | Hybrid | Aug 19 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Fall 2024 - Spring 2025 Telemundo Colorado Internship](https://jobright.ai/jobs/info/66c5246e93950544f36d93e9?utm_campaign=1053&utm_source=git)** | Centennial, CO | On Site | Aug 19 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Event Operations Post Graduate Intern](https://jobright.ai/jobs/info/66c51e6a67e912ee604d0aaf?utm_campaign=1053&utm_source=git)** | Manhattan, KS | On Site | Aug 19 |
 | **[University of Utah](http://utah.edu)** | **[PBS Utah Production Internship](https://jobright.ai/jobs/info/66c5246e93950544f36d93ed?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 19 |
@@ -224,6 +225,4 @@ For a complete list, click the following sortable link below:
 | **[M Booth & Associates](http://www.mbooth.com)** | **[Fall 2024 Intern - Corporate](https://jobright.ai/jobs/info/66c463f74b9b40ff043fe668?utm_campaign=1053&utm_source=git)** | New York, New York | Hybrid | Aug 18 |
 | **[Associated Electric Cooperative](https://www.aeci.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/66c3ef68f8d15537db0d6ac4?utm_campaign=1053&utm_source=git)** | Springfield, Missouri | On Site | Aug 18 |
 | **[A. N. Publishing](https://www.anpublishing.com/)** | **[International Reporter Intern](https://jobright.ai/jobs/info/66c24b400f053fd9424c92e5?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Aug 18 |
-| **[Page Six](https://pagesix.com/)** | **[Intern, PageSix Video (Fall 2024)](https://jobright.ai/jobs/info/66c5246e93950544f36d9494?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 18 |
-| ↳ | **[Intern, Page Six Studio Production (Fall 2024)](https://jobright.ai/jobs/info/66c5246e93950544f36d9492?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
