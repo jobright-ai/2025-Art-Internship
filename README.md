@@ -223,6 +223,4 @@ For a complete list, click the following sortable link below:
 | **[WBAL-TV 11 Baltimore](http://www.wbaltv.com)** | **[WBAL-TV Fall Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d926c?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Aug 20 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d9283?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 20 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Fan Development (Seasonal 2024-25)](https://jobright.ai/jobs/info/66a7ec74c62db90df94dabb5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 20 |
-| **[College of Lake County, Grayslake](http://www.clcillinois.edu/)** | **[Chronicle Newspaper Reporter- Student Worker_](https://jobright.ai/jobs/info/66c4201621411e3b8fdb218c?utm_campaign=1053&utm_source=git)** | Grayslake, IL | On Site | Aug 19 |
-| **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[Editorial Assistant, Dial Books for Young Readers (Open to Remote)](https://jobright.ai/jobs/info/66c4104d6447c90972ad14f4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
