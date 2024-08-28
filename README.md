@@ -60,7 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Discovery Kingdom](http://sixflags.com/discoverykingdom)** | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.00 - $18.00/HR](https://jobright.ai/jobs/info/66ced4e223213dcf4cd361b0?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Aug 27 |
 | **[Rich Music](https://richmusicltd.com)** | **[Fall 2024 RichMusic Internship Program - (in-Person)](https://jobright.ai/jobs/info/66ced10d5a9f8a4b540cb70a?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Aug 27 |
 | **[Kilroy's Sports Bar](https://www.kilroysindy.com/)** | **[Atrium Concert Internship](https://jobright.ai/jobs/info/66cebe98c55f67fa6dbe446d?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 27 |
-| **[WARP](https://wearewarp.com/)** | **[Social Media Video Editor Intern](https://jobright.ai/jobs/info/66ce857f2ff4ca2e90d7714b?utm_campaign=1053&utm_source=git)** | LA Metro Area | Hybrid | Aug 27 |
+| **[WARP](https://wearewarp.com/)** | **[Video Editor](https://jobright.ai/jobs/info/66ce857f2ff4ca2e90d7714b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 27 |
 | **[Laura Davidson Public Relations](https://www.ldpr.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/66ce857f2ff4ca2e90d7715c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 27 |
 | **[Sanders-Brown Center on Aging](https://medicine.uky.edu/centers/sbcoa/)** | **[Student Content Creator](https://jobright.ai/jobs/info/66ce8a8711c44a92f8d87dc9?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 27 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant](https://jobright.ai/jobs/info/66b28370396c7eb5e57b76ae?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 27 |
@@ -202,10 +202,4 @@ For a complete list, click the following sortable link below:
 | **[Seven Hills Foundation](http://www.sevenhills.org)** | **[Intern (100)](https://jobright.ai/jobs/info/66c6863a722334d1db7f4c60?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Aug 21 |
 | **[Greif](http://greif.com)** | **[Summer 2025 Production Intern](https://jobright.ai/jobs/info/66c67e3ff66f41229376856d?utm_campaign=1053&utm_source=git)** | West Hazleton, PA | On Site | Aug 21 |
 | **[Hedgeye Risk Management](https://app.hedgeye.com/)** | **[Fall 2024 Media Production Internship](https://jobright.ai/jobs/info/66c671ec2f6a768ed47f64a3?utm_campaign=1053&utm_source=git)** | Stamford, CT | Hybrid | Aug 21 |
-| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern - Fall Semester, Ft Lauderdale & Miami, FL](https://jobright.ai/jobs/info/66c64934afbe66bbdb40e778?utm_campaign=1053&utm_source=git)** | Hollywood, FL | On Site | Aug 21 |
-| ↳ | **[Event Technology Intern - Fall Semester, Orlando, FL](https://jobright.ai/jobs/info/66c64934afbe66bbdb40e799?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 21 |
-| **[Utah Jazz](http://www.nba.com/jazz)** | **[Video Content Intern](https://jobright.ai/jobs/info/66c64a56beb0e6775b518bf9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 21 |
-| **[Brunswick](http://www.brunswick.com)** | **[Media Intern-Summer 2025](https://jobright.ai/jobs/info/66c6395a1ee4edadbc49ceb5?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Aug 21 |
-| **[Inception Studio](https://www.inceptionstudio.org)** | **[Inception Studio Intern (part-time)](https://jobright.ai/jobs/info/66c63dc139794ec71769166a?utm_campaign=1053&utm_source=git)** | Redwood City, CA | Hybrid | Aug 21 |
-| **[Condé Nast](http://www.condenast.com)** | **[Research Fellow](https://jobright.ai/jobs/info/66c62e688ed08f472cb7a3b6?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
