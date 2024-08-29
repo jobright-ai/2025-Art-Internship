@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gold Coast Consulting®](https://goldcoastconsultingny.com)** | **[Content Producer](https://jobright.ai/jobs/info/66cfcaa44ac79963e276e780?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 28 |
+| **[Arab America](http://www.arabamerica.com/)** | **[Intern](https://jobright.ai/jobs/info/66cfc90e0d040a05fce807a4?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WVLT](https://jobright.ai/jobs/info/66cfbbe533df966af2b119ef?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Aug 28 |
+| **[St. Paul Saints](http://saintsbaseball.com)** | **[Winter Events Internship](https://jobright.ai/jobs/info/66cfd990b8d084095d88ec6b?utm_campaign=1053&utm_source=git)** | Minneapolis–Saint Paul, WI | Hybrid | Aug 28 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/66cfb8982a49c975b114db56?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Aug 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall 2024 Internship: South Asia and International Security](https://jobright.ai/jobs/info/66cf9a135e27eb82cecfe03c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
+| **[WARP](https://wearewarp.com/)** | **[Social Media Video Editor](https://jobright.ai/jobs/info/66cf81e9e56e456d7777858d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 28 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Fall 2024) - Nashville, TN](https://jobright.ai/jobs/info/66cf8476c8a3af72d3132622?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 28 |
-| **[WARP](https://wearewarp.com/)** | **[Video Editor](https://jobright.ai/jobs/info/66cf81e9e56e456d7777858d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 28 |
 | **[New York Post](http://nypost.com/)** | **[Sports Intern](https://jobright.ai/jobs/info/66cf79b06d82c20de09889cd?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 28 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Executive Writer](https://jobright.ai/jobs/info/66cf7b2d23faf1f18b0b1f44?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Aug 28 |
 | **[Cox Media Group](http://ajc.com/)** | **[Intern (Part-Time) - Long Island Radio](https://jobright.ai/jobs/info/66cf8d70bba3402f054bae1a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 28 |
@@ -119,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Marathon Equipment](https://www.marathonequipment.com)** | **[Videographer Intern, Marathon Equipment v999](https://jobright.ai/jobs/info/66ccf511c4bf4584075fa2ce?utm_campaign=1053&utm_source=git)** | Vernon, AL | On Site | Aug 26 |
 | **[Dominari Securities](http://dominarisecurities.com/)** | **[Video Editing Internship](https://jobright.ai/jobs/info/66ccdf566d718e282f2459f7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[The Fine Art Group](http://www.fineartgroup.com)** | **[Intern Program](https://jobright.ai/jobs/info/66ccd391e8636fc9a39e261c?utm_campaign=1053&utm_source=git)** | Pennsylvania, United States | Hybrid | Aug 26 |
-| **[Fred Astaire Dance Studio](https://www.fredastaire.com/)** | **[Dance Trainee Interns](https://jobright.ai/jobs/info/66cce26e621a4ce6159ff470?utm_campaign=1053&utm_source=git)** | Westerville, OH | On Site | Aug 26 |
 | **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Gen Z Fashion Board Internship Opportunity](https://jobright.ai/jobs/info/66ccc45979e3317a6d71937b?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Aug 26 |
 | **[Cornerstone Research Group](http://www.crgrp.com/)** | **[Commerical Videographer / Photography Intern - Fall Semester 2024](https://jobright.ai/jobs/info/66ccd391e8636fc9a39e26b4?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | Aug 26 |
 | **[University of Houston, Downtown](http://www.uhd.edu/)** | **[Federal Work-Study, Content Creator Assistant](https://jobright.ai/jobs/info/66ccdf566d718e282f245bb3?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 26 |
@@ -132,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[SportsGrid](http://www.sportsgrid.com)** | **[Producer (Internship)](https://jobright.ai/jobs/info/66cc8cba2511979a68e6e37f?utm_campaign=1053&utm_source=git)** | Holmdel, NJ | Hybrid | Aug 26 |
 | **[Sightline Media Group](http://www.sightlinemediagroup.com)** | **[Editorial Fellow, Defense News and Military Times](https://jobright.ai/jobs/info/6679731f8f20c6df6b89986f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 26 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/66cc679d8df05c85f93fd46d?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Aug 26 |
-| **[Audacy](https://audacyinc.com/)** | **[Intern](https://jobright.ai/jobs/info/66cc62fb3fe2acbf7103137b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 26 |
 | **[Kimpton Hotel & Restaurant Group](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern-Kimpton Journeyman Hotel](https://jobright.ai/jobs/info/6676c62d807f31af72076d4f?utm_campaign=1053&utm_source=git)** | Wisconsin, United States | On Site | Aug 26 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/66cc5c2fc69ad78cae6d7f12?utm_campaign=1053&utm_source=git)** | Chicopee, MA | On Site | Aug 26 |
 | ↳ | **[Unpaid Newsroom Internship](https://jobright.ai/jobs/info/66cc5c2fc69ad78cae6d7f16?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 26 |
@@ -195,11 +196,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[US Digital Intern](https://jobright.ai/jobs/info/66c7b73eae43499602fa0ae4?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 22 |
 | **[Teach for America](http://www.teachforamerica.org/)** | **[Storytelling Seasonal Temp](https://jobright.ai/jobs/info/66c79cceb0ec0df61d037e97?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 22 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant](https://jobright.ai/jobs/info/66a3e1cdfa1e56eccb8f5af3?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 22 |
-| **[Nexstar Media Group](http://www.nexstar.tv)** | **[NewsNation News Internship Fall 2024 (Chicago or New York)](https://jobright.ai/jobs/info/6690a06777aee8172e7ac407?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
-| **[NJEDA](https://www.njeda.com/)** | **[Fall Film Intern](https://jobright.ai/jobs/info/66be3955f1b881a79a6341dc?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Aug 22 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/66c756fa553f75f05508f964?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Aug 22 |
-| **[Sinclair Broadcast](http://sbgi.net)** | **[Lifestyle Show Intern](https://jobright.ai/jobs/info/66c7115bc5b1869231bf0b66?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | Aug 22 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/66c6fd1ef41a9c006700132c?utm_campaign=1053&utm_source=git)** | Pinole, CA | On Site | Aug 22 |
-| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/66c6fd1ef41a9c0067001354?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Aug 22 |
-| **[En Breve News](http://www.enbrevenews.net)** | **[Journalism Intern](https://jobright.ai/jobs/info/66c739592c7a727ebad73cdd?utm_campaign=1053&utm_source=git)** | Greater Phoenix Area | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
