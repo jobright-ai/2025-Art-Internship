@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66d1257ec676192e347ca3b4?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 29 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66d1257ec676192e347ca7ae?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Aug 29 |
+| ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66d1257ec676192e347ca7af?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Aug 29 |
+| ↳ | **[Video Production Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66d1257ec676192e347ca3b7?utm_campaign=1053&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 29 |
+| **[Newscape Studios inc.](http://www.newscapepro.com)** | **[Paid Internship-YouTube Studio](https://jobright.ai/jobs/info/66d12bb2eb6c24846f955877?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 29 |
+| ↳ | **[Experienced Minecrafter Internship for YouTube Studio](https://jobright.ai/jobs/info/66d12bb2eb6c24846f95590d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 29 |
+| **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WVLT](https://jobright.ai/jobs/info/66cfbbe533df966af2b119ef?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Aug 29 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Digital News Production](https://jobright.ai/jobs/info/66d0f7c9bbfbd04abcd24d69?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 29 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Culinary / Omni Care Internship / Fall 2024](https://jobright.ai/jobs/info/66d0feba5fe06dd4aaa453ff?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 29 |
 | **[TriCoast Entertainment](http://www.tricoastworldwide.com)** | **[Editing Intern](https://jobright.ai/jobs/info/66d0f34a142c70a88003a9f2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 29 |
@@ -69,7 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2025 Television Production Internship](https://jobright.ai/jobs/info/66d0db88505db71c77eadcf9?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Aug 29 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Executive Writer](https://jobright.ai/jobs/info/66cf7b2d23faf1f18b0b1f44?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Aug 29 |
 | **[Golden Hippo](http://goldenhippomedia.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/66b144bab992081a259c6858?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 29 |
-| **[Grey Journal](https://discovergrey.com/)** | **[Intern Staff Writer](https://jobright.ai/jobs/info/66d0a4aa9a3cac50b8aaf441?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Kalahari](https://www.kalahariresorts.com)** | **[Culinary Internship - Winter 2024](https://jobright.ai/jobs/info/66d0b394a852b522219c718c?utm_campaign=1053&utm_source=git)** | Pocono Manor, PA | On Site | Aug 29 |
 | **[WJXT](http://www.news4jax.com)** | **[WJXT/WCWJ internship program](https://jobright.ai/jobs/info/66d09b69b7798279086a33bb?utm_campaign=1053&utm_source=git)** | Jacksonville, FL | On Site | Aug 29 |
 | **[DÔEN](https://shopdoen.com)** | **[PD/Production Intern](https://jobright.ai/jobs/info/66d09b69b7798279086a3411?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Aug 29 |
@@ -81,15 +87,15 @@ For a complete list, click the following sortable link below:
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Contributing Writer Intern](https://jobright.ai/jobs/info/66d04b59668071a9f82bbf2b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | ↳ | **[Unpaid Production Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
+| ↳ | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e3?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e1?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
-| ↳ | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b5910d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Sodexo Live!](https://us.sodexo.com/industry/sodexo-live.html)** | **[Intern – Culinary  Las Vegas Convention Center](https://jobright.ai/jobs/info/66cffd7d581267d7af554e30?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Aug 28 |
+| **[University Hospitals](https://www.uhhospitals.org/)** | **[Art Therapy Intern](https://jobright.ai/jobs/info/66d131c393824a36eed46d61?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 28 |
 | **[Gold Coast Consulting®](https://goldcoastconsultingny.com)** | **[Content Producer Fall Internship](https://jobright.ai/jobs/info/66cfcaa44ac79963e276e780?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Museum of the Bible](https://www.museumofthebible.org/)** | **[World Stage Theater Intern (Spring 2025)](https://jobright.ai/jobs/info/66d0f34a142c70a88003aef4?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2025 Video Production Intern](https://jobright.ai/jobs/info/66d0ccb36df78098fa17b400?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 28 |
 | **[Arab America](http://www.arabamerica.com/)** | **[Intern](https://jobright.ai/jobs/info/66cfc90e0d040a05fce807a4?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2025 Video Production Intern](https://jobright.ai/jobs/info/66d0abe7dd905e86add52ef7?utm_campaign=1053&utm_source=git)** | Boston, MA. | On Site | Aug 28 |
-| **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WVLT](https://jobright.ai/jobs/info/66cfbbe533df966af2b119ef?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Aug 28 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/66cfb8982a49c975b114db56?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Aug 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall 2024 Internship: South Asia and International Security](https://jobright.ai/jobs/info/66cf9a135e27eb82cecfe03c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[WARP](https://wearewarp.com/)** | **[Social Media Video Editor](https://jobright.ai/jobs/info/66cf81e9e56e456d7777858d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 28 |
@@ -206,5 +212,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Fall News Intern Telemundo Tampa, FL](https://jobright.ai/jobs/info/66c90dfaa690e3a712e6a68e?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Aug 23 |
 | ↳ | **[Fall News Intern Telemundo 31 Orlando, FL](https://jobright.ai/jobs/info/66c90dfaa690e3a712e6a68f?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 23 |
 | **[Erin Hills Golf Course](http://erinhills.com)** | **[Turf - Student Intern](https://jobright.ai/jobs/info/66c89ebcc10a755431a5ec55?utm_campaign=1053&utm_source=git)** | Hartford Town, WI | On Site | Aug 23 |
-| **[imre](https://imre.com)** | **[Internship - Fall 2024](https://jobright.ai/jobs/info/66c8626bf7155ef72a23feb6?utm_campaign=1053&utm_source=git)** | New Philadelphia, PA | Hybrid | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
