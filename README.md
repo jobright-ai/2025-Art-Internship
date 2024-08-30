@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/66d186be64cc58e898c7e745?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 30 |
+| **[NBCUniversal](http://www.nbcuniversal.com)** | **[KCSO News Intern, Content Producer – Fall/Winter 2024](https://jobright.ai/jobs/info/66d1529142bbcf00c99bf785?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Aug 29 |
+| ↳ | **[KBLR News Intern, Content Producer – Fall/Winter 2024](https://jobright.ai/jobs/info/66d142f8f5ee1a99fe03c4ec?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Aug 29 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66d1257ec676192e347ca3b4?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 29 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66d1257ec676192e347ca7ae?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Aug 29 |
 | ↳ | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66d1257ec676192e347ca7af?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Aug 29 |
@@ -75,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Kentucky Educational Television](https://www.ket.org)** | **[Spring 2025 Television Production Internship-Louisville, KY](https://jobright.ai/jobs/info/66d0db88505db71c77eadcf1?utm_campaign=1053&utm_source=git)** | Louisville, KY | Hybrid | Aug 29 |
 | ↳ | **[Spring 2025 Television Production Internship](https://jobright.ai/jobs/info/66d0db88505db71c77eadcf9?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Aug 29 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Executive Writer](https://jobright.ai/jobs/info/66cf7b2d23faf1f18b0b1f44?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Aug 29 |
+| **[starting eleven](www.startingeleven.com)** | **[Video Editor Internship](https://jobright.ai/jobs/info/66d151989d73817264dafff3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 29 |
 | **[Golden Hippo](http://goldenhippomedia.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/66b144bab992081a259c6858?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 29 |
 | **[Kalahari](https://www.kalahariresorts.com)** | **[Culinary Internship - Winter 2024](https://jobright.ai/jobs/info/66d0b394a852b522219c718c?utm_campaign=1053&utm_source=git)** | Pocono Manor, PA | On Site | Aug 29 |
 | **[WJXT](http://www.news4jax.com)** | **[WJXT/WCWJ internship program](https://jobright.ai/jobs/info/66d09b69b7798279086a33bb?utm_campaign=1053&utm_source=git)** | Jacksonville, FL | On Site | Aug 29 |
@@ -114,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[The McClatchy Company](https://www.mcclatchy.com/)** | **[Intern Reporter](https://jobright.ai/jobs/info/66cfa0b089cd62cbcb3a12eb?utm_campaign=1053&utm_source=git)** | San Luis Obispo, CA | On Site | Aug 27 |
 | **[ideastream](http://www.ideastream.org)** | **[Ideastream Public Media Classical Music Host Fellowship](https://jobright.ai/jobs/info/66cfab6840797e1ff2ca4c7e?utm_campaign=1053&utm_source=git)** | Cleveland, OH | Hybrid | Aug 27 |
 | **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Baking and Pastry Intern](https://jobright.ai/jobs/info/66cf9a135e27eb82cecfe211?utm_campaign=1053&utm_source=git)** | Walland, TN | On Site | Aug 27 |
-| **[Sanders-Brown Center on Aging](https://medicine.uky.edu/centers/sbcoa/)** | **[Student Content Creator](https://jobright.ai/jobs/info/66ce8a8711c44a92f8d87dc9?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 27 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Breaking News Intern](https://jobright.ai/jobs/info/668f4223e74ffdb5b6261e45?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Aug 27 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant](https://jobright.ai/jobs/info/66b28370396c7eb5e57b76ae?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 27 |
 | **[RJ Whyte](https://rjwhyte.com)** | **[2024 Fall Event Production Intern](https://jobright.ai/jobs/info/66ce34ce19cb0574dd4032f9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 27 |
@@ -154,7 +157,6 @@ For a complete list, click the following sortable link below:
 | **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Gen Z Fashion Board Internship Opportunity](https://jobright.ai/jobs/info/66ccc45979e3317a6d71937b?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Aug 26 |
 | **[Cornerstone Research Group](http://www.crgrp.com/)** | **[Commerical Videographer / Photography Intern - Fall Semester 2024](https://jobright.ai/jobs/info/66ccd391e8636fc9a39e26b4?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | Aug 26 |
 | **[University of Houston, Downtown](http://www.uhd.edu/)** | **[Federal Work-Study, Content Creator Assistant](https://jobright.ai/jobs/info/66ccdf566d718e282f245bb3?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 26 |
-| **[Austin Community College](http://austincc.edu)** | **[Intern, ACCMe Studio and Labs (Hourly)](https://jobright.ai/jobs/info/66ccb4369cd76ad1142aa4e4?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 26 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Culinary Internship-Kentucky International Convention Center](https://jobright.ai/jobs/info/66ccbbf9c638b133406367fd?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Aug 26 |
 | **[Brie](https://www.brie.co/)** | **[Fashion Internship](https://jobright.ai/jobs/info/66ccb0ca86a3524cf525a54c?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Aug 26 |
 | **[11AM Co.](https://www.linkedin.com/company/98908083)** | **[A&R intern](https://jobright.ai/jobs/info/66cca3a1613fa2b4b6962725?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 26 |
@@ -185,6 +187,7 @@ For a complete list, click the following sortable link below:
 | **[Miami HEAT](http://HEAT.com)** | **[Broadcast Intern (Season-long)](https://jobright.ai/jobs/info/662943f08794757f8fa41cd6?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Aug 25 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Internship](https://jobright.ai/jobs/info/66cb20e316cc5b46c3ff3baf?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Aug 25 |
 | **[NAACP Legal Defense & Educational Fund](http://www.naacpldf.org)** | **[Summer 2024 Archives Internship](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7706?utm_campaign=1053&utm_source=git)** | Utica-Rome Area | Hybrid | Aug 25 |
+| **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/669365240cb61d2df685e27a?utm_campaign=1053&utm_source=git)** | Monroe, LA | On Site | Aug 25 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Intern](https://jobright.ai/jobs/info/66cb0a4276d40739c10013a4?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Aug 25 |
 | **[Chico's](http://www.chicos.com)** | **[Fit Model (Chico's)](https://jobright.ai/jobs/info/65944c2da79a2611e22ae1fc?utm_campaign=1053&utm_source=git)** | Fort Myers, FL | On Site | Aug 25 |
 | **[WGAL TV](https://www.wgal.com)** | **[WGAL Intern](https://jobright.ai/jobs/info/66cb0a4276d40739c10013bb?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Aug 25 |
@@ -205,11 +208,9 @@ For a complete list, click the following sortable link below:
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student eXdd Content Editor](https://jobright.ai/jobs/info/66c9426515b65f9bb830a015?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 23 |
 | **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[Video Production Assistant](https://jobright.ai/jobs/info/66b63ece77e1bdd3ff85d16b?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Aug 23 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Vertical Video Intern](https://jobright.ai/jobs/info/66c92010dcf747acf40fc80e?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Aug 23 |
-| **[RealPlay Sports](http://realplay.us/)** | **[Sports Video Operations and Data Intern - Fall 2024 (West Chester Township, OH)](https://jobright.ai/jobs/info/66c92b44c96bc896c1f4cd2a?utm_campaign=1053&utm_source=git)** | Hamilton, OH | On Site | Aug 23 |
 | **[Vmi Worldwide](http://vmiworldwide.com)** | **[Intern](https://jobright.ai/jobs/info/66c91cc3c6460b11db88e792?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Aug 23 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News internship-Unpaid](https://jobright.ai/jobs/info/66c9139aa50576260b134251?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 23 |
 | **[The Davey Tree Expert Co.](http://www.davey.com/)** | **[Arborist Trainee Internship (2024) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/66c91cc3c6460b11db88e864?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Aug 23 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Fall News Intern Telemundo Tampa, FL](https://jobright.ai/jobs/info/66c90dfaa690e3a712e6a68e?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Aug 23 |
 | ↳ | **[Fall News Intern Telemundo 31 Orlando, FL](https://jobright.ai/jobs/info/66c90dfaa690e3a712e6a68f?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 23 |
-| **[Erin Hills Golf Course](http://erinhills.com)** | **[Turf - Student Intern](https://jobright.ai/jobs/info/66c89ebcc10a755431a5ec55?utm_campaign=1053&utm_source=git)** | Hartford Town, WI | On Site | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
