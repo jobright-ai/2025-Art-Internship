@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FOX 47 News](https://www.fox47news.com)** | **[Intern, WSYM](https://jobright.ai/jobs/info/66c5867b93a6fcca6e2535c5?utm_campaign=1053&utm_source=git)** | Greater Lansing | On Site | Aug 31 |
+| **[A. N. Publishing](https://www.anpublishing.com/)** | **[Film Feature Journalist (Internship)](https://jobright.ai/jobs/info/66d2c8704e11aa05b97e6169?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 30 |
+| **[UMOM New Day Centers](https://umom.org/)** | **[Culinary Enterprises Intern](https://jobright.ai/jobs/info/66d2a9ce12b7c0b683d75494?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Aug 30 |
 | **[Iowa Public Radio](https://www.iowapublicradio.org/)** | **[Reporter](https://jobright.ai/jobs/info/66d2879af0b41241131f40ae?utm_campaign=1053&utm_source=git)** | Iowa City, IA | Hybrid | Aug 30 |
 | **[The Union League of Philadelphia](http://www.unionleague.org)** | **[Culinary Intern at Union League Liberty Hill](https://jobright.ai/jobs/info/66d27b8169d7ccd32042acb6?utm_campaign=1053&utm_source=git)** | Lafayette Hill, PA | On Site | Aug 30 |
 | **[lds.org](https://www.lds.org)** | **[Historic Sites Curatorial Intern (Church History Department)](https://jobright.ai/jobs/info/66cd22722d87c52acc0be54b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 30 |
@@ -113,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Contributing Writer Intern](https://jobright.ai/jobs/info/66d04b59668071a9f82bbf2b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | ↳ | **[Unpaid Production Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
-| ↳ | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b5910d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e1?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
+| ↳ | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b5910d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Sodexo Live!](https://us.sodexo.com/industry/sodexo-live.html)** | **[Intern – Culinary  Las Vegas Convention Center](https://jobright.ai/jobs/info/66cffd7d581267d7af554e30?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Aug 28 |
 | **[University Hospitals](https://www.uhhospitals.org/)** | **[Art Therapy Intern](https://jobright.ai/jobs/info/66d131c393824a36eed46d61?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 28 |
 | **[Gold Coast Consulting®](https://goldcoastconsultingny.com)** | **[Content Producer Fall Internship](https://jobright.ai/jobs/info/66cfcaa44ac79963e276e780?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 28 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2025 Video Production Intern](https://jobright.ai/jobs/info/66d0ccb36df78098fa17b400?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 28 |
 | **[Arab America](http://www.arabamerica.com/)** | **[Intern](https://jobright.ai/jobs/info/66cfc90e0d040a05fce807a4?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2025 Video Production Intern](https://jobright.ai/jobs/info/66d0abe7dd905e86add52ef7?utm_campaign=1053&utm_source=git)** | Boston, MA. | On Site | Aug 28 |
-| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/66cfb8982a49c975b114db56?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Aug 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall 2024 Internship: South Asia and International Security](https://jobright.ai/jobs/info/66cf9a135e27eb82cecfe03c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[WARP](https://wearewarp.com/)** | **[Social Media Video Editor](https://jobright.ai/jobs/info/66cf81e9e56e456d7777858d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 28 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Fall 2024) - Nashville, TN](https://jobright.ai/jobs/info/66cf8476c8a3af72d3132622?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 28 |
