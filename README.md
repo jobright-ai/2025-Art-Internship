@@ -78,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Trivium Interactive](https://www.triviuminteractive.com)** | **[Production Intern](https://jobright.ai/jobs/info/66d21312b94ada715bc2c3b2?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 30 |
 | **[Stephen Starr Restaurants](http://www.starr-restaurant.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/66d20a6b5d7020cef9e2d580?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 30 |
 | **[Destination Hotels](http://www.destinationhotels.com)** | **[Summer 2025 - Housekeeping Internship](https://jobright.ai/jobs/info/66d20a6b5d7020cef9e2d58c?utm_campaign=1053&utm_source=git)** | Isle of Palms, SC | On Site | Aug 30 |
-| **[Aayats](https://www.aayats.com)** | **[Video Editor](https://jobright.ai/jobs/info/66d20153aa876eac75f1ac1b?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 30 |
 | **[Indiana University Indianapolis](https://www.iupui.edu)** | **[Part-Time Student JagNews Intern](https://jobright.ai/jobs/info/66d21596253b09d63a58ec43?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 30 |
 | **[Events Unlimited](http://www.EventsUnlimited.com)** | **[Stagehand](https://jobright.ai/jobs/info/66d1f2a50457f00341d8c3cb?utm_campaign=1053&utm_source=git)** | Tualatin, OR | On Site | Aug 30 |
 | **[Tribune Publishing](https://www.tribpub.com/)** | **[Intern](https://jobright.ai/jobs/info/66d1e89cd57f30390703c651?utm_campaign=1053&utm_source=git)** | Deerfield Beach, FL | Hybrid | Aug 30 |
@@ -121,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Contributing Writer Intern](https://jobright.ai/jobs/info/66d04b59668071a9f82bbf2b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | ↳ | **[Unpaid Production Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
-| ↳ | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b5910d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e1?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
+| ↳ | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e3?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Sodexo Live!](https://us.sodexo.com/industry/sodexo-live.html)** | **[Intern – Culinary  Las Vegas Convention Center](https://jobright.ai/jobs/info/66cffd7d581267d7af554e30?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Aug 28 |
 | **[University Hospitals](https://www.uhhospitals.org/)** | **[Art Therapy Intern](https://jobright.ai/jobs/info/66d131c393824a36eed46d61?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 28 |
 | **[Gold Coast Consulting®](https://goldcoastconsultingny.com)** | **[Content Producer Fall Internship](https://jobright.ai/jobs/info/66cfcaa44ac79963e276e780?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 28 |
@@ -220,6 +219,4 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/66b23304c8e719fb2945bfd9?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Aug 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/66cafef8423ff6807e053285?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
 | ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/66b0c470d375ecbc631d84f5?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Aug 25 |
-| **[Sinclair Broadcast](http://sbgi.net)** | **[Fall News Intern 2024](https://jobright.ai/jobs/info/66ca7d1e38d9bb3d52f1c9e4?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 24 |
-| ↳ | **[Fall Weather Intern 2024](https://jobright.ai/jobs/info/66ca7d1e38d9bb3d52f1c9d7?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
