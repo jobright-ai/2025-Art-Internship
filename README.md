@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kilroy's Sports Bar](https://www.kilroysindy.com/)** | **[Atrium Concert Internship](https://jobright.ai/jobs/info/66d413d4508af02a1159963f?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 31 |
 | **[AntiFragile Music](https://www.antifragilemusic.com)** | **[Intern - Sync - Film/TV/Videogame Music](https://jobright.ai/jobs/info/66d3b46f3dd50f498d44a0af?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 31 |
 | **[Carolina Farm Trust](https://carolinafarmtrust.org/)** | **[Culinary Internship, Fall 2024](https://jobright.ai/jobs/info/66d380c71bc766497aa4ad67?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-IMC Content Communications-Photography & Video Production Assistant](https://jobright.ai/jobs/info/66d388f41113a89639b9ea2e?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Aug 31 |
@@ -93,6 +94,8 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Paid Intern - Part Time](https://jobright.ai/jobs/info/66c555b289abe5525ab5ec7d?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 30 |
 | ↳ | **[Paid Intern - Part Time](https://jobright.ai/jobs/info/66c555b289abe5525ab5ec7e?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Aug 30 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/66d186be64cc58e898c7e745?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 30 |
+| **[Aramark](http://www.aramark.com)** | **[S2L Program 2025- Culinary Intern- Citi Field- Catering](https://jobright.ai/jobs/info/66d3f28ad93fd8e96b40bdb8?utm_campaign=1053&utm_source=git)** | Queens, NY | On Site | Aug 29 |
+| ↳ | **[S2L Program 2025- Culinary Intern-Cencora](https://jobright.ai/jobs/info/66d3f28ad93fd8e96b40bd9a?utm_campaign=1053&utm_source=git)** | Conshohocken, PA | On Site | Aug 29 |
 | **[NBCUniversal](http://www.nbcuniversal.com)** | **[KCSO News Intern, Content Producer – Fall/Winter 2024](https://jobright.ai/jobs/info/66d1529142bbcf00c99bf785?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Aug 29 |
 | ↳ | **[KBLR News Intern, Content Producer – Fall/Winter 2024](https://jobright.ai/jobs/info/66d142f8f5ee1a99fe03c4ec?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Aug 29 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66d1257ec676192e347ca3b4?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 29 |
@@ -126,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Contributing Writer Intern](https://jobright.ai/jobs/info/66d04b59668071a9f82bbf2b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | ↳ | **[Unpaid Production Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
-| ↳ | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e3?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e1?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
+| ↳ | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e3?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Sodexo Live!](https://us.sodexo.com/industry/sodexo-live.html)** | **[Intern – Culinary  Las Vegas Convention Center](https://jobright.ai/jobs/info/66cffd7d581267d7af554e30?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Aug 28 |
 | **[University Hospitals](https://www.uhhospitals.org/)** | **[Art Therapy Intern](https://jobright.ai/jobs/info/66d131c393824a36eed46d61?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 28 |
 | **[Gold Coast Consulting®](https://goldcoastconsultingny.com)** | **[Content Producer Fall Internship](https://jobright.ai/jobs/info/66cfcaa44ac79963e276e780?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 28 |
@@ -206,5 +209,4 @@ For a complete list, click the following sortable link below:
 | **[In Vivo Exposure LLC](http://linktr.ee/dripvangogh)** | **[Video Production Intern](https://jobright.ai/jobs/info/66cc3bd31129d97e61d4c821?utm_campaign=1053&utm_source=git)** | Columbia, MD | On Site | Aug 26 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Development Intern, Columbia Pictures – Fall 2024](https://jobright.ai/jobs/info/66cd1c29e7be4087a632b0a5?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 25 |
 | **[Accordion](https://www.accordionpartners.com)** | **[Accordion Summer Internship Program](https://jobright.ai/jobs/info/66cce993c76b6fc9407760db?utm_campaign=1053&utm_source=git)** | New York | On Site | Aug 25 |
-| **[Stunning and Brilliant Events](http://stunningandbrilliantevents.com)** | **[Event Planning Intern](https://jobright.ai/jobs/info/66cb29829c19a8c47245c78c?utm_campaign=1053&utm_source=git)** | Myrtle Beach, SC | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
