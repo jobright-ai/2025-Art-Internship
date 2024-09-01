@@ -209,6 +209,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66cc5cbdd9249734a6add1f3?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 26 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall '24](https://jobright.ai/jobs/info/669111732cfdcaa4f7cf8c93?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 26 |
 | **[In Vivo Exposure LLC](http://linktr.ee/dripvangogh)** | **[Video Production Intern](https://jobright.ai/jobs/info/66cc3bd31129d97e61d4c821?utm_campaign=1053&utm_source=git)** | Columbia, MD | On Site | Aug 26 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Development Intern, Columbia Pictures – Fall 2024](https://jobright.ai/jobs/info/66cd1c29e7be4087a632b0a5?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 25 |
-| **[Accordion](https://www.accordionpartners.com)** | **[Accordion Summer Internship Program](https://jobright.ai/jobs/info/66cce993c76b6fc9407760db?utm_campaign=1053&utm_source=git)** | New York | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
