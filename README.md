@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66d5bb5d2581ec6797cf77e7?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Sep 02 |
 | **[Brand Experience](http://www.Brandexperiencellc.com)** | **[New York Fashion Week- Volunteer](https://jobright.ai/jobs/info/66d5715f0bc21c7ee98d2f36?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Sep 02 |
 | **[Spartanburg Methodist College](http://www.smcsc.edu/)** | **[Work-Study - Theatre Stage Manager](https://jobright.ai/jobs/info/66d56d36adbb79954e56c09f?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | Sep 01 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Copy Editor - Student Employment](https://jobright.ai/jobs/info/66d53e61a7b42ff5e968aa9c?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-The Houstonian Student Newspaper-News Editor](https://jobright.ai/jobs/info/66d53b2888b2de0f5c99509d?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Sep 01 |
 | **[Georgia Highlands College](http://www.highlands.edu/)** | **[Old Red Kimono Literary Editor](https://jobright.ai/jobs/info/66d5391ca2bf6aeea90891e7?utm_campaign=1053&utm_source=git)** | Rome, GA | On Site | Sep 01 |
 | **[Aayats](https://www.aayats.com)** | **[Video Editor](https://jobright.ai/jobs/info/66d510debb86525baf201dcc?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
+| **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern (Part-time)](https://jobright.ai/jobs/info/66d5bd27a5f55a1043bb3ff2?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Sep 01 |
 | **[Kilroy's Sports Bar](https://www.kilroysindy.com/)** | **[Atrium Concert Internship](https://jobright.ai/jobs/info/66d413d4508af02a1159963f?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 31 |
 | **[AntiFragile Music](https://www.antifragilemusic.com)** | **[Intern - Sync - Film/TV/Videogame Music](https://jobright.ai/jobs/info/66d3b46f3dd50f498d44a0af?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 31 |
 | **[Carolina Farm Trust](https://carolinafarmtrust.org/)** | **[Culinary Internship, Fall 2024](https://jobright.ai/jobs/info/66d380c71bc766497aa4ad67?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
@@ -188,8 +190,4 @@ For a complete list, click the following sortable link below:
 | **[Analog](https://www.analogevents.com/)** | **[Event Production Intern](https://jobright.ai/jobs/info/66cd1854e990e635dfd58686?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 26 |
 | **[New College of Florida](http://www.ncf.edu/)** | **[Student Assistant, Special Events Team, Traditions](https://jobright.ai/jobs/info/66cd22722d87c52acc0be766?utm_campaign=1053&utm_source=git)** | Bay Shore Acres, FL | On Site | Aug 26 |
 | **[Marathon Equipment](https://www.marathonequipment.com)** | **[Videographer Intern, Marathon Equipment v999](https://jobright.ai/jobs/info/66ccf511c4bf4584075fa2ce?utm_campaign=1053&utm_source=git)** | Vernon, AL | On Site | Aug 26 |
-| **[The Fine Art Group](http://www.fineartgroup.com)** | **[Intern Program](https://jobright.ai/jobs/info/66ccd391e8636fc9a39e261c?utm_campaign=1053&utm_source=git)** | Pennsylvania, United States | Hybrid | Aug 26 |
-| **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Gen Z Fashion Board Internship Opportunity](https://jobright.ai/jobs/info/66ccc45979e3317a6d71937b?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Aug 26 |
-| **[Cornerstone Research Group](http://www.crgrp.com/)** | **[Commerical Videographer / Photography Intern - Fall Semester 2024](https://jobright.ai/jobs/info/66ccd391e8636fc9a39e26b4?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | Aug 26 |
-| **[University of Houston, Downtown](http://www.uhd.edu/)** | **[Federal Work-Study, Content Creator Assistant](https://jobright.ai/jobs/info/66ccdf566d718e282f245bb3?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
