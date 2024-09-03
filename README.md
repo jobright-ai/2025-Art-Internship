@@ -57,18 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Stonebriar Centre](https://jobright.ai/jobs/info/66d686903343a5cc9b5935f7?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Sep 02 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Multimedia Summer Intern 2025 (Charlotte, NC)](https://jobright.ai/jobs/info/66d63850c069658ef3998140?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Sep 02 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Esports Commentator](https://jobright.ai/jobs/info/66d606b6313a7c232bcd01da?utm_campaign=1053&utm_source=git)** | New Hampshire, United States | On Site | Sep 02 |
 | **[Chefs Culinar](https://www.chefsculinar.de/)** | **[Kaufmann (m/w/d) im Einzelhandel 2025](https://jobright.ai/jobs/info/66d5c874428b4944c7224a89?utm_campaign=1053&utm_source=git)** | Flensburg, MN | On Site | Sep 02 |
-| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66d5bb5d2581ec6797cf77e7?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Sep 02 |
 | **[Brand Experience](http://www.Brandexperiencellc.com)** | **[New York Fashion Week- Volunteer](https://jobright.ai/jobs/info/66d5715f0bc21c7ee98d2f36?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Sep 02 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Opinions Editor - Student Employment](https://jobright.ai/jobs/info/66d53e61a7b42ff5e968aae0?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
 | **[Aayats](https://www.aayats.com)** | **[Video Editor](https://jobright.ai/jobs/info/66d510debb86525baf201dcc?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Stonebriar Centre](https://jobright.ai/jobs/info/66d657aaee4d5f64ee74719c?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Sep 01 |
-| **[AntiFragile Music](https://www.antifragilemusic.com)** | **[Intern - Sync - Film/TV/Videogame Music](https://jobright.ai/jobs/info/66d3b46f3dd50f498d44a0af?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 31 |
 | **[Carolina Farm Trust](https://carolinafarmtrust.org/)** | **[Culinary Internship, Fall 2024](https://jobright.ai/jobs/info/66d380c71bc766497aa4ad67?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
-| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Athletics-Creative Media Team](https://jobright.ai/jobs/info/66d388f41113a89639b9ea3a?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Aug 31 |
-| **[Crescent Hotels & Resorts](http://www.chrco.com)** | **[Culinary & Pastry Internships 2024 / 2025](https://jobright.ai/jobs/info/66d382ac08c30d3d5dc60734?utm_campaign=1053&utm_source=git)** | Horseshoe Bay, TX | On Site | Aug 31 |
 | **[lds.org](https://www.lds.org)** | **[Historic Sites Curatorial Intern (Church History Department)](https://jobright.ai/jobs/info/66d5da7b12b2d938219ad438?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 31 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Show Writing & Story Development Intern, Spring 2025](https://jobright.ai/jobs/info/66d2facf1f5399df83a91c7a?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Aug 31 |
 | **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Fall 2024](https://jobright.ai/jobs/info/66c580f38ff0494bd674ece1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 31 |
@@ -168,9 +165,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Development Intern, Columbia Pictures – Fall 2024](https://jobright.ai/jobs/info/66cdf1aa085138306d1be54a?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Aug 27 |
 | **[Fred Astaire Dance Studio](https://www.fredastaire.com/)** | **[Dance Trainee Interns](https://jobright.ai/jobs/info/66d1ce4d87fcf319090e06c4?utm_campaign=1053&utm_source=git)** | Westerville, OH | On Site | Aug 27 |
 | **[Time Out Group plc](http://www.timeout.com)** | **[Fall Editorial & Content intern Time Out Media](https://jobright.ai/jobs/info/66cdcce2606452f94041adc0?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Aug 27 |
-| **[Dallas Wings](http://dallaswingsbasketball.com)** | **[Game Entertainment Internship - College Credit ONLY](https://jobright.ai/jobs/info/66b14c1a20c8399e6a80954a?utm_campaign=1053&utm_source=git)** | Arlington, TX | Hybrid | Aug 27 |
-| **[Cosm](https://www.cosm.com)** | **[Production Coordinator Intern](https://jobright.ai/jobs/info/66b15dcc08273606995004b5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 27 |
-| **[Kimpton Hotel & Restaurant Group](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern-Kimpton Epic Hotel](https://jobright.ai/jobs/info/6676d87c4ffdc62f7b679998?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Aug 27 |
-| **[Paul Smith](https://www.paulsmith.co.uk)** | **[Press & VIP, Intern North America](https://jobright.ai/jobs/info/66cda3c72b1e5ccc6c244d94?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 27 |
-| **[U-M Center for Entrepreneurship](https://cfe.umich.edu/)** | **[Bruce the Goose Personality/Actor](https://jobright.ai/jobs/info/66cda3c72b1e5ccc6c244db8?utm_campaign=1053&utm_source=git)** | Dearborn, MI | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
