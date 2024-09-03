@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HalloweenEveryNight](https://halloweeneverynight.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/66d6ab5da352ea63ba83ade1?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 02 |
+| **[Enable America](http://www.enableamerica.org)** | **[Multimedia Summer Intern 2025 (Charlotte, NC)](https://jobright.ai/jobs/info/66d6ad033c0da095968af2d5?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Sep 02 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Stonebriar Centre](https://jobright.ai/jobs/info/66d686903343a5cc9b5935f7?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Sep 02 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Multimedia Summer Intern 2025 (Charlotte, NC)](https://jobright.ai/jobs/info/66d63850c069658ef3998140?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Sep 02 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Esports Commentator](https://jobright.ai/jobs/info/66d606b6313a7c232bcd01da?utm_campaign=1053&utm_source=git)** | New Hampshire, United States | On Site | Sep 02 |
@@ -129,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Contributing Writer Intern](https://jobright.ai/jobs/info/66d04b59668071a9f82bbf2b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | ↳ | **[Unpaid Production Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
-| ↳ | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e3?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
+| ↳ | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b5910d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e1?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Sodexo Live!](https://us.sodexo.com/industry/sodexo-live.html)** | **[Intern – Culinary  Las Vegas Convention Center](https://jobright.ai/jobs/info/66cffd7d581267d7af554e30?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Aug 28 |
 | **[Gold Coast Consulting®](https://goldcoastconsultingny.com)** | **[Content Producer Fall Internship](https://jobright.ai/jobs/info/66cfcaa44ac79963e276e780?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 28 |
@@ -160,9 +162,4 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage](https://www.uhm.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/66ce1eb771ed0c56c62e387c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Aug 27 |
 | **[BARK](http://bark.co)** | **[TikTok Live Intern](https://jobright.ai/jobs/info/66ce1eb771ed0c56c62e38cd?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 27 |
 | **[Vineyard vines](http://www.vineyardvines.com)** | **[Fall 2024 Internship - Production](https://jobright.ai/jobs/info/66ce218ab87b38bd1f7e820e?utm_campaign=1053&utm_source=git)** | Stamford, CT | Hybrid | Aug 27 |
-| **[East Coast Sports Investors](https://www.eastcoastsportsinvestors.com/)** | **[Production and Editor Intern](https://jobright.ai/jobs/info/66ce00038bcd46a25e4540af?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | On Site | Aug 27 |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Intern - Culinary](https://jobright.ai/jobs/info/66ce00038bcd46a25e4540e0?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Aug 27 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Development Intern, Columbia Pictures – Fall 2024](https://jobright.ai/jobs/info/66cdf1aa085138306d1be54a?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Aug 27 |
-| **[Fred Astaire Dance Studio](https://www.fredastaire.com/)** | **[Dance Trainee Interns](https://jobright.ai/jobs/info/66d1ce4d87fcf319090e06c4?utm_campaign=1053&utm_source=git)** | Westerville, OH | On Site | Aug 27 |
-| **[Time Out Group plc](http://www.timeout.com)** | **[Fall Editorial & Content intern Time Out Media](https://jobright.ai/jobs/info/66cdcce2606452f94041adc0?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
