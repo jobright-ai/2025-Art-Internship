@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sodexo Live!](https://us.sodexo.com/industry/sodexo-live.html)** | **[Intern – Culinary  Lucas Oil Stadium](https://jobright.ai/jobs/info/66dd16a36b281fb493ea4595?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 07 |
+| ↳ | **[Intern – Culinary  Indiana Convention Center](https://jobright.ai/jobs/info/66dd16a36b281fb493ea4578?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 07 |
+| **[City of South Salt Lake](https://sslc.com/)** | **[Arts Program Intern](https://jobright.ai/jobs/info/66dd16a36b281fb493ea45bd?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 07 |
 | **[Corii Burns](https://www.coriiburns.com)** | **[LAFW/TME Internship Model Coordinator/Dresser](https://jobright.ai/jobs/info/66dcc8dc75ebd43ae60d8d30?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Sep 07 |
 | **[City of Auburn](https://www.auburnalabama.org/)** | **[Graduate Intern - Events & Programs](https://jobright.ai/jobs/info/66dc9a1cdcd214457a24d52d?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Sep 07 |
 | **[Greif](http://greif.com)** | **[Summer 2025 Production Intern](https://jobright.ai/jobs/info/66dc9310fe92bba963b5bbee?utm_campaign=1053&utm_source=git)** | Hazleton, PA | On Site | Sep 07 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Orange County Government](http://www.ocfl.net)** | **[Student Intern](https://jobright.ai/jobs/info/66db5fbfd1ceaa0730d953c1?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 06 |
 | **[Fleishman-Hillard](http://fleishmanhillard.com)** | **[Video Intern (Full-Time)](https://jobright.ai/jobs/info/66db4ff4b0914c467cb0d4c8?utm_campaign=1053&utm_source=git)** | St Louis, MO | Hybrid | Sep 06 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Business Editorial](https://jobright.ai/jobs/info/66db335c3f2a2d98a44b33e1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 06 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite Editor-in-Chief - Student Employment](https://jobright.ai/jobs/info/66db2728753bd19f03138edb?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 06 |
 | **[Amazing Lash Studio](https://www.amazinglashstudio.com/)** | **[Model for Eyelash Extensions](https://jobright.ai/jobs/info/66db12800055dd28a67d95ab?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 06 |
 | ↳ | **[Model for Eyelash Extensions](https://jobright.ai/jobs/info/66db12800055dd28a67d95af?utm_campaign=1053&utm_source=git)** | Ahwatukee, AZ | On Site | Sep 06 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Productions (Seasonal 2024-25)](https://jobright.ai/jobs/info/66c5246e93950544f36d95f8?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 06 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Spring 2025 Internship -](https://jobright.ai/jobs/info/66da8b6bdfed2321137a5fb1?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Sep 05 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Spring 2025 Internship -](https://jobright.ai/jobs/info/66da8b6bdfed2321137a5fb2?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 05 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Spring 2025 Internship -](https://jobright.ai/jobs/info/66da8b6bdfed2321137a5fb3?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Sep 05 |
-| ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Spring 2025 Internship -](https://jobright.ai/jobs/info/66da8b6bdfed2321137a5fb5?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Sep 05 |
 | ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Spring 2025 Internship -](https://jobright.ai/jobs/info/66da8b6bdfed2321137a5fb4?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Sep 05 |
+| ↳ | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Spring 2025 Internship -](https://jobright.ai/jobs/info/66da8b6bdfed2321137a5fb5?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Sep 05 |
 | **[University of New Mexico](http://unm.edu)** | **[Technical Theatre Intern](https://jobright.ai/jobs/info/66da89014de1e6691530ca6f?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Sep 05 |
 | **[West Des Moines Community Schools](https://wdmcs.org)** | **[Music Pit Director](https://jobright.ai/jobs/info/66daf0cbf94517bdd35aa7ea?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | On Site | Sep 05 |
 | **[ESPN](http://espncareers.com)** | **[Editorial Intern, Spring 2025](https://jobright.ai/jobs/info/66dba27fa9e702b9a77ed18d?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Sep 05 |
@@ -113,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Programming Intern, Music & Festivals](https://jobright.ai/jobs/info/66da162721846960ccaa1b14?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 05 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern- Morning Blend](https://jobright.ai/jobs/info/66da1eb9a13063d158a05b93?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Sep 05 |
 | **[Cambridge Investment Research](http://www.joincambridge.com)** | **[Digital Content Creator Internship](https://jobright.ai/jobs/info/66da0fe8fe4eeb6b7da88ab9?utm_campaign=1053&utm_source=git)** | Fairfield, IA | On Site | Sep 05 |
-| **[Starr Insurance](https://starrcompanies.com/)** | **[2025 Starr Summer Intern - Collections](https://jobright.ai/jobs/info/66da244833eaedbd4b1e1ea7?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 05 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[U.S. Venture Open Intern](https://jobright.ai/jobs/info/66da21930a1e3de08c6024a2?utm_campaign=1053&utm_source=git)** | Appleton, WI | Hybrid | Sep 05 |
 | **[Bonneville International](http://bonneville.com/)** | **[KSL Sports Fall Internship](https://jobright.ai/jobs/info/66da02eda88bd6b298d8f429?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 05 |
 | **[Sarea-Flo Productions](http://www.sareaflo.com)** | **[Intern](https://jobright.ai/jobs/info/66daf0cbf94517bdd35aa858?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | Hybrid | Sep 05 |
@@ -137,14 +138,14 @@ For a complete list, click the following sortable link below:
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Animator (Course Credit/ Community Service Credit Eligible)](https://jobright.ai/jobs/info/66d94c254a805c0a9bd7434b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 04 |
 | **[Seamgen](http://www.seamgen.com/)** | **[AI Content Writing Internship](https://jobright.ai/jobs/info/66d93ef0e4a453cbb875e507?utm_campaign=1053&utm_source=git)** | La Jolla, CA | On Site | Sep 04 |
 | **[Six Flags](https://www.sixflags.com)** | **[Entertainment - Costumer/Stitcher Intern](https://jobright.ai/jobs/info/66dbcd7a998ba65f55d68acc?utm_campaign=1053&utm_source=git)** | Arlington, TX | On Site | Sep 04 |
-| **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Intern - Grizzlies On Air](https://jobright.ai/jobs/info/66d9396562e09b85ff9735e6?utm_campaign=1053&utm_source=git)** | Lawrenceville, GA | On Site | Sep 04 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Internship](https://jobright.ai/jobs/info/66d94ed23d597e11fa1247a8?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Sep 04 |
 | **[Tepper Sports & Entertainment](https://www.linkedin.com/company/90721817)** | **[Social Video Intern](https://jobright.ai/jobs/info/66d92975539401ce707fa9e1?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Sep 04 |
 | **[Ithaca College](http://www.ithaca.edu)** | **[STUDENT Writer, Office of Marketing Communications](https://jobright.ai/jobs/info/66d92d7eb719e0c07bed9623?utm_campaign=1053&utm_source=git)** | Ithaca, NY | On Site | Sep 04 |
 | **[Maryland Institute College of Art](http://www.mica.edu/)** | **[Film Center Film and Video Cage - Student Worker](https://jobright.ai/jobs/info/66d92d7eb719e0c07bed962b?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Sep 04 |
 | **[Ryder](http://ryder.com/en)** | **[Ryders Rental Internship](https://jobright.ai/jobs/info/66da4d388e222557fd2ef37d?utm_campaign=1053&utm_source=git)** | Moonachie, NJ | On Site | Sep 04 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Bernard Osei Video Fellow](https://jobright.ai/jobs/info/66d8fa9cf8f43324ff745560?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 04 |
-| **[Starr Insurance](https://starrcompanies.com/)** | **[2025 Starr Summer Intern -  Collections](https://jobright.ai/jobs/info/66da071e751a8cdbae76bdfa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 04 |
+| **[Starr Insurance](https://starrcompanies.com/)** | **[2025 Starr Summer Intern - Collections](https://jobright.ai/jobs/info/66da071e751a8cdbae76be4b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 04 |
+| ↳ | **[2025 Starr Summer Intern -  Collections](https://jobright.ai/jobs/info/66da071e751a8cdbae76bdfa?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 04 |
 | **[Esquire Deposition Solutions](https://www.esquiresolutions.com/)** | **[Freelance Court Reporter/Stenographer - Bakersfield, CA](https://jobright.ai/jobs/info/66d920efbf2d057bfdb50776?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Sep 04 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/66d8f0e140b7aa41b784c857?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Sep 04 |
 | **[CTP](https://www.ctpboston.com/)** | **[Video Intern](https://jobright.ai/jobs/info/66d8f0e140b7aa41b784c998?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 04 |
@@ -179,8 +180,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[World News Tonight Production Intern, Spring 2025](https://jobright.ai/jobs/info/66d6e7f1dc5129db5af0f3d7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 03 |
 | ↳ | **[Early Morning News Production Intern, Spring 2025](https://jobright.ai/jobs/info/66d6e7f1dc5129db5af0f3c9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 03 |
 | ↳ | **[Nightline Production Intern, Spring 2025](https://jobright.ai/jobs/info/66d6e7f1dc5129db5af0f3db?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 03 |
-| ↳ | **[20/20 Production Intern, Spring 2025](https://jobright.ai/jobs/info/66d6e7f1dc5129db5af0f3cd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 03 |
 | ↳ | **[GMA3 Production Intern, Spring 2025](https://jobright.ai/jobs/info/66d6e7f1dc5129db5af0f3cc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 03 |
+| ↳ | **[20/20 Production Intern, Spring 2025](https://jobright.ai/jobs/info/66d6e7f1dc5129db5af0f3cd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 03 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/66ba502e14ecea5ac7602203?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Sep 03 |
 | **[Canterbury Park Holdings](https://www.canterburypark.com)** | **[Entertainment Internship](https://jobright.ai/jobs/info/66994d3663c1016c1926d9d0?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Sep 03 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid Intern - Studio St. Louis Unpaid Internship - Fall](https://jobright.ai/jobs/info/66c552ecb7e810ec3a20efcb?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Sep 03 |
