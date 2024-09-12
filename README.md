@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LEAU](http://www.leauclothing.com)** | **[Content Intern](https://jobright.ai/jobs/info/66e24b903cb22f34de674344?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Sep 11 |
+| **[Next Level Sports & Entertainment](https://www.nlse.com)** | **[Intern - Digital Media](https://jobright.ai/jobs/info/66e24b903cb22f34de674585?utm_campaign=1053&utm_source=git)** | Hanover, MD | On Site | Sep 11 |
 | **[CNN](https://www.cnn.com)** | **[Associate Producer, CNN International](https://jobright.ai/jobs/info/66e231f21c581963f284cc5e?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 11 |
 | **[SAGE Publications](https://group.sagepub.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/66e22984459bde939dcb0885?utm_campaign=1053&utm_source=git)** | Thousand Oaks, CA | Remote | Sep 11 |
 | **[Tegna](http://www.tegna.com)** | **[Summer Intern - News](https://jobright.ai/jobs/info/66e22bd53ae5f486348e02b8?utm_campaign=1053&utm_source=git)** | Tysons Corner, VA | Hybrid | Sep 11 |
 | **[Akris](http://www.akris.com)** | **[Luxury Market Weeks Internship](https://jobright.ai/jobs/info/66e204842bd93a9318edbe1a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 11 |
+| **[VUE NJ](https://www.vuenj.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/66e261d16a22b233a9ebad1e?utm_campaign=1053&utm_source=git)** | Hoboken, NJ | Hybrid | Sep 11 |
 | **[International Diamond Center](http://shopidc.com/)** | **[Jeweler Apprentice](https://jobright.ai/jobs/info/66e204842bd93a9318edbfc3?utm_campaign=1053&utm_source=git)** | Altamonte Springs, FL | On Site | Sep 11 |
 | **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[Subsidiary Rights Assistant](https://jobright.ai/jobs/info/66e1e9b0e32dfba053c8711e?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 11 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Video Intern (Full-Time)](https://jobright.ai/jobs/info/66e1e9b0e32dfba053c87344?utm_campaign=1053&utm_source=git)** | St Louis, MO | Hybrid | Sep 11 |
@@ -93,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[Editorial Assistant Internship](https://jobright.ai/jobs/info/66e0bb44dc68d2d6748e8a41?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Sep 10 |
 | **[CTP](http://www.ctp.eu)** | **[Video Intern](https://jobright.ai/jobs/info/66e0b7b1cdf493cef0f76889?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 10 |
 | **[GAMURS Group](https://gamurs.group/)** | **[Freelance Full Game Walkthrough Writer](https://jobright.ai/jobs/info/66e0affb565a9d8883827f55?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 10 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Good Morning America Production Intern](https://jobright.ai/jobs/info/66e09ee43a41b2b3f99064b5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 10 |
-| ↳ | **[ABC News Live Intern](https://jobright.ai/jobs/info/66e09ee43a41b2b3f99064bf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 10 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News Live Intern](https://jobright.ai/jobs/info/66e09ee43a41b2b3f99064bf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 10 |
+| ↳ | **[Good Morning America Production Intern](https://jobright.ai/jobs/info/66e09ee43a41b2b3f99064b5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | ↳ | **[ABC News Newsgathering & Operations Intern](https://jobright.ai/jobs/info/66e09ee43a41b2b3f990650a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | ↳ | **[The View Production Intern](https://jobright.ai/jobs/info/66e09ee43a41b2b3f99064f3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[National Audubon Society (USA)](http://www.audubon.org)** | **[LA Restoration Crew](https://jobright.ai/jobs/info/66e0932890d7339e56962481?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Sep 10 |
@@ -135,11 +138,11 @@ For a complete list, click the following sortable link below:
 | **[Digi-Key](https://www.digikey.ca)** | **[Video Production Intern](https://jobright.ai/jobs/info/66df54e1dc580b3afe945c79?utm_campaign=1053&utm_source=git)** | Thief River Falls, MN | Hybrid | Sep 09 |
 | **[URTHWEAR](http://www.urthwear.com)** | **[Modeling Intern](https://jobright.ai/jobs/info/66df4aa0f2b1d0b5b9dbdd57?utm_campaign=1053&utm_source=git)** | Walnut Creek, CA | On Site | Sep 09 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Metro Reporter Internship](https://jobright.ai/jobs/info/66df5e9dfebfcdfb79c412d4?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 09 |
-| ↳ | **[Business Reporter Internship](https://jobright.ai/jobs/info/66df5e9dfebfcdfb79c412cf?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 09 |
 | ↳ | **[News Producer Internship](https://jobright.ai/jobs/info/66df5e9dfebfcdfb79c41309?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 09 |
-| ↳ | **[Features Internship](https://jobright.ai/jobs/info/66df5e9dfebfcdfb79c412e0?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 09 |
-| ↳ | **[Summer 2025 Copy Editing Internship](https://jobright.ai/jobs/info/66df5e9dfebfcdfb79c412d6?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 09 |
+| ↳ | **[Business Reporter Internship](https://jobright.ai/jobs/info/66df5e9dfebfcdfb79c412cf?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 09 |
 | ↳ | **[Photojournalism Internship](https://jobright.ai/jobs/info/66df5e9dfebfcdfb79c412e9?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 09 |
+| ↳ | **[Summer 2025 Copy Editing Internship](https://jobright.ai/jobs/info/66df5e9dfebfcdfb79c412d6?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 09 |
+| ↳ | **[Features Internship](https://jobright.ai/jobs/info/66df5e9dfebfcdfb79c412e0?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 09 |
 | **[Pillar4](https://pillarfour.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/66df25a0c4ca6548c48741d5?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Sep 09 |
 | **[A. N. Publishing](https://www.anpublishing.com/)** | **[Film Feature Journalist Internship](https://jobright.ai/jobs/info/66df372b7ad286b7bb620baa?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 09 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Editor-in-Chief](https://jobright.ai/jobs/info/66df13c03f5781f8bf8506b5?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WMTW-TV](https://www.wmtw.com/)** | **[News Intern](https://jobright.ai/jobs/info/66de4619e144dd5972e37acf?utm_campaign=1053&utm_source=git)** | Westbrook, ME | On Site | Sep 08 |
 | **[The Fitzgerald Theater](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Media Production & Operations](https://jobright.ai/jobs/info/66df93bd8a11c28d2bc900ee?utm_campaign=1053&utm_source=git)** | St Paul, MN | On Site | Sep 08 |
 | **[New Fashion Pork](http://www.nfpinc.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66def68afa02906468080d43?utm_campaign=1053&utm_source=git)** | Jackson, MN | On Site | Sep 08 |
-| **[The NIL Spot](https://www.linkedin.com/company/90453055)** | **[Podcast Intern](https://jobright.ai/jobs/info/66dfd71e0fc3a459fc3467d2?utm_campaign=1053&utm_source=git)** | Louisiana, United States | Remote | Sep 08 |
-| **[SportClips](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6677c3592b6ed5133f445250?utm_campaign=1053&utm_source=git)** | Ankeny, IA | On Site | Sep 08 |
-| **[The Master Communicator's Writing Services (A Veteran-Owned Business)](http://www.mcwritingservices.com)** | **[Podcast Producer Intern](https://jobright.ai/jobs/info/66ddb08a21d0b7700d9a7294?utm_campaign=1053&utm_source=git)** | Humble, TX | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
