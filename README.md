@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Student Production Office](https://jobright.ai/jobs/info/66e491ec5012cd11a9fe853f?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 13 |
+| **[Axis Communications AB](http://www.axis.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/66e48681cb916086365f432f?utm_campaign=1053&utm_source=git)** | Chelmsford, MA | On Site | Sep 13 |
+| **[Outlier](https://tryoutlier.com/)** | **[Freelance Writer (Tier 1)](https://jobright.ai/jobs/info/66e46b751a7dcb2a0c8f056c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 13 |
+| **[Charles Ifergan Salons](https://charlesifergan.com/)** | **[Junior Stylist/Colorist](https://jobright.ai/jobs/info/66e45ed7ce9411e97b289ef7?utm_campaign=1053&utm_source=git)** | Oakbrook Terrace, IL | On Site | Sep 13 |
+| **[New York Public Radio](http://www.nypublicradio.org)** | **[Assistant Producer, Radiolab](https://jobright.ai/jobs/info/66a02a9683fe12fc9f1d4614?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 13 |
+| **[Outlier](https://tryoutlier.com/)** | **[Freelance Writer (Tier 1)](https://jobright.ai/jobs/info/66e45c319b34111cac53e66f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 13 |
+| **[Adam Lippes](https://adamlippes.com)** | **[Fabrics and Raw Materials Intern](https://jobright.ai/jobs/info/66e44801e130868eed2f2274?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | **[DonaLeb](https://www.donaleb.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/66e43d14e0fdf0f804897492?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 13 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WABC Program Intern](https://jobright.ai/jobs/info/66e4397b4ff7b083926fc704?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 13 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Content Production Intern](https://jobright.ai/jobs/info/66e441d2c4afda5284558def?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Sep 13 |
+| ↳ | **[WABC Program Intern](https://jobright.ai/jobs/info/66e4397b4ff7b083926fc704?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | ↳ | **[Cast Activities Intern](https://jobright.ai/jobs/info/66e4397b4ff7b083926fc6ff?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Sep 13 |
 | **[WDIV](http://clickondetroit.com)** | **[Broadcasting Tech](https://jobright.ai/jobs/info/66e427c1f1806f060062277e?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Sep 13 |
 | **[WJXT](http://www.news4jax.com)** | **[WJXT/WCWJ Internship Program](https://jobright.ai/jobs/info/66e427c1f1806f060062270f?utm_campaign=1053&utm_source=git)** | Jacksonville, FL | On Site | Sep 13 |
@@ -74,10 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Xanterra](http://www.xanterra.com/)** | **[Entertainment & Engagement Intern](https://jobright.ai/jobs/info/66e3d7e4221addb7ff02f6e0?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 12 |
 | **[Wine Enthusiast](http://www.wineenthusiast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/66e3c266b87efba03672133f?utm_campaign=1053&utm_source=git)** | Valhalla, NY | Hybrid | Sep 12 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - The Chanticleer Section Editors](https://jobright.ai/jobs/info/66e3cef397eed5789bc82fbd?utm_campaign=1053&utm_source=git)** | Metro Jacksonville | On Site | Sep 12 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Film/Video Editor Intern](https://jobright.ai/jobs/info/66e3bf2559461fccf5cf1e81?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 12 |
+| **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc9b3?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA | On Site | Sep 12 |
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[Editorial Assistant Internship](https://jobright.ai/jobs/info/66e0bb44dc68d2d6748e8a41?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Sep 12 |
-| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern](https://jobright.ai/jobs/info/66e3909dc5062ecb610fce25?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Sep 12 |
-| **[The ASU Foundation](http://www.asufoundation.org/)** | **[Fall Intern, Stocktonia](https://jobright.ai/jobs/info/66e38b927457a05e71ff3d33?utm_campaign=1053&utm_source=git)** | Stockton, CA | Hybrid | Sep 12 |
 | **[Comcast](http://corporate.comcast.com)** | **[Entertainment Editorial Intern](https://jobright.ai/jobs/info/66e38b927457a05e71ff3b16?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 12 |
 | ↳ | **[CXSO Production & Multimedia Team Intern](https://jobright.ai/jobs/info/66e37f699cae8f22ffbc145a?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 12 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Economics Writing Intern](https://jobright.ai/jobs/info/66e37859a6c9b8dfb1215d79?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Sep 12 |
@@ -86,13 +92,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Golf Course Maintenance](https://jobright.ai/jobs/info/66e37077e4f8f355454ae47b?utm_campaign=1053&utm_source=git)** | Kohler, WI | On Site | Sep 12 |
 | **[St. Louis Community College](https://www.stlcc.edu)** | **[Student Worker Gallery Attendant](https://jobright.ai/jobs/info/66e37655838b9b2c6fce8a43?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Sep 12 |
 | **[LEAU](http://www.leauclothing.com)** | **[Content Intern](https://jobright.ai/jobs/info/66e35498b9d5159d7d962217?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Sep 12 |
-| **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66e35f6a80ac353788279d26?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 12 |
 | **[Aayats](https://www.aayats.com)** | **[Video Editor Internship](https://jobright.ai/jobs/info/66e34eb59c221d7f993ada3a?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Sep 12 |
 | **[Curious Curls Publishing](https://www.curiouscurlspublishing.com/)** | **[Assistant Editor (Part-Time)](https://jobright.ai/jobs/info/66e34c72af26bd7bda725c26?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 12 |
 | **[Kimmel Cultural Campus](https://www.kimmelculturalcampus.org)** | **[Audience Experience Intern](https://jobright.ai/jobs/info/66e348b56fb75117bd6730a4?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 12 |
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/66e340180b35a594c111ee8a?utm_campaign=1053&utm_source=git)** | Los Angeles County, CA | Hybrid | Sep 12 |
 | **[Paul Smith](https://www.paulsmith.co.uk)** | **[Press & VIP Intern](https://jobright.ai/jobs/info/66cda3c72b1e5ccc6c244d94?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 12 |
-| **[Your Book Team](https://yourbookteam.com/)** | **[Journalism Intern](https://jobright.ai/jobs/info/66e31b2e787e9f1767bafd73?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 12 |
 | **[PatientPoint](http://patientpoint.com)** | **[Editorial, Summer Intern](https://jobright.ai/jobs/info/66e301123e2e06d1ab96900d?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 12 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Creative Content Production Intern](https://jobright.ai/jobs/info/66d8f0e140b7aa41b784c857?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
 | **[Ditch Witch of Florida](https://ditchwitchfl.com/)** | **[Video and Interactive Training Production Intern](https://jobright.ai/jobs/info/66e2dedbee317c05ee33b3e0?utm_campaign=1053&utm_source=git)** | Perry, OK | On Site | Sep 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Beaute Blossom LLC](https://www.beauteblossom.com)** | **[Blogger](https://jobright.ai/jobs/info/66e0a0b5a692cb8ec3d5dbab?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 10 |
 | **[The Davey Tree Expert Co.](http://www.davey.com/)** | **[Climbing Arborist Trainee Internship](https://jobright.ai/jobs/info/66e09cd58f64d1b3355dbd68?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Sep 10 |
 | **[Gray TV](http://www.gray.tv)** | **[Future Focus Internship - Fall '24](https://jobright.ai/jobs/info/66e09621a93b1358b835d2ce?utm_campaign=1053&utm_source=git)** | Eau Claire, WI | On Site | Sep 10 |
-| **[Boston College](http://www.bc.edu/)** | **[Culinary Intern/Catering](https://jobright.ai/jobs/info/66e0a1c5e82b197da1f304a0?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | On Site | Sep 10 |
-| **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/66e07d438f4771d7f6c66f48?utm_campaign=1053&utm_source=git)** | Bloomington, IL | Hybrid | Sep 10 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/66e077acfa7f520e56c6d1e9?utm_campaign=1053&utm_source=git)** | Canton, OH | On Site | Sep 10 |
-| **[Inspire Brands](https://inspirebrands.com)** | **[Maverick Studios Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d92e9?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
