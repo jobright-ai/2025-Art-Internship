@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DonaLeb](https://www.donaleb.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/66e43d14e0fdf0f804897492?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 13 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WABC Program Intern](https://jobright.ai/jobs/info/66e4397b4ff7b083926fc704?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 13 |
+| ↳ | **[Cast Activities Intern](https://jobright.ai/jobs/info/66e4397b4ff7b083926fc6ff?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Sep 13 |
+| **[WDIV](http://clickondetroit.com)** | **[Broadcasting Tech](https://jobright.ai/jobs/info/66e427c1f1806f060062277e?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Sep 13 |
+| **[WJXT](http://www.news4jax.com)** | **[WJXT/WCWJ Internship Program](https://jobright.ai/jobs/info/66e427c1f1806f060062270f?utm_campaign=1053&utm_source=git)** | Jacksonville, FL | On Site | Sep 13 |
+| **[Houston Chronicle Interactive](http://www.houstonchronicle.com/)** | **[National Hearst Journalism Fellowship Program](https://jobright.ai/jobs/info/66e427c1f1806f0600622719?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Sep 13 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[National Hearst Journalism Fellowship Program](https://jobright.ai/jobs/info/66e427c1f1806f060062275f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Sep 13 |
+| **[NJEDA](https://www.njeda.com/)** | **[Fall Film Intern](https://jobright.ai/jobs/info/66be3955f1b881a79a6341dc?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Sep 13 |
+| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Lifestyle and Entertainment Show - Fall Intern](https://jobright.ai/jobs/info/66c7c3dbe9f0701d09066a13?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 13 |
+| ↳ | **[Lifestyle Entertainment Fall Intern](https://jobright.ai/jobs/info/66c7c3dbe9f0701d09066a12?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 13 |
+| ↳ | **[NewsNation News Internship](https://jobright.ai/jobs/info/6690a06777aee8172e7ac407?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 13 |
+| **[Soccer Shots Harrisburg & York](https://www.soccershots.com/harrisburgyork/)** | **[Soccer Shots Internship](https://jobright.ai/jobs/info/66e4113eca0068a41ff75e11?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Sep 13 |
 | **[Harper College](https://www.harpercollege.edu/index.php)** | **[Student Aide - Editor of Harbinger](https://jobright.ai/jobs/info/66e3dcf891e2b8ed0232e212?utm_campaign=1053&utm_source=git)** | Palatine, IL | On Site | Sep 12 |
 | **[The ASU Foundation](http://www.asufoundation.org/)** | **[Fall Intern, Stocktonia](https://jobright.ai/jobs/info/66e3d7e4221addb7ff02f7ed?utm_campaign=1053&utm_source=git)** | Stockton, CA | Hybrid | Sep 12 |
 | **[Xanterra](http://www.xanterra.com/)** | **[Entertainment & Engagement Intern](https://jobright.ai/jobs/info/66e3d7e4221addb7ff02f6e0?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 12 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/66e07d438f4771d7f6c66f48?utm_campaign=1053&utm_source=git)** | Bloomington, IL | Hybrid | Sep 10 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/66e077acfa7f520e56c6d1e9?utm_campaign=1053&utm_source=git)** | Canton, OH | On Site | Sep 10 |
 | **[Inspire Brands](https://inspirebrands.com)** | **[Maverick Studios Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d92e9?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Sep 10 |
-| **[Union Home Mortgage](https://www.uhm.com/)** | **[Golf Operations Academy Intern](https://jobright.ai/jobs/info/66c378853df2e299c0adc250?utm_campaign=1053&utm_source=git)** | Medina, OH | On Site | Sep 10 |
-| **[Sinclair Broadcast](http://sbgi.net)** | **[ARC News Intern - Fall 2024](https://jobright.ai/jobs/info/666c34762efa92a03b8950dd?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Sep 10 |
-| ↳ | **[ARC News Intern - Fall 2024](https://jobright.ai/jobs/info/666c34762efa92a03b89509d?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 10 |
-| ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/666c2f71126dc247d4f1bd28?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Sep 10 |
-| **[La Sierra University](http://www.lasierra.edu/)** | **[Criterion Writer](https://jobright.ai/jobs/info/66dffc462e2817232408c8f9?utm_campaign=1053&utm_source=git)** | Riverside, CA | On Site | Sep 09 |
-| **[Parkhurst Dining Services](https://www.parkhurstdining.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/66e005e1c1b89171ea511b4d?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | Sep 09 |
-| **[Jain Family Institute](https://www.jainfamilyinstitute.org/)** | **[CUNY-Phenomenal World Editorial Internship](https://jobright.ai/jobs/info/66e107f1298666e53ef28e58?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 09 |
-| **[Respect My Region](https://www.respectmyregion.com)** | **[Rap and Hip-Hop Music Journalist Internship](https://jobright.ai/jobs/info/66dfad7171dd3a46cdd80428?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Sep 09 |
-| **[GoodRx](https://www.goodrx.com)** | **[Editorial Internship: Copy-editing, Writing, or Operations](https://jobright.ai/jobs/info/66dfa41fa1f4627b18f4e147?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 09 |
-| ↳ | **[Editorial Internship: Copy-editing, Writing, or Operations](https://jobright.ai/jobs/info/66dfa41fa1f4627b18f4e148?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Hybrid | Sep 09 |
-| ↳ | **[Editorial Internship: Copy-editing, Writing, or Operations](https://jobright.ai/jobs/info/66dfa2722b30689e217f8498?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
-| ↳ | **[Editorial Internship: Copy-editing, Writing, or Operations](https://jobright.ai/jobs/info/66dfa2722b30689e217f84c2?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
