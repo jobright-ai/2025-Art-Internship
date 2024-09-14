@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Esquire Deposition Solutions](https://www.esquiresolutions.com/)** | **[Freelance Court Reporter/Stenographer](https://jobright.ai/jobs/info/66e4d21ea4219d8116b49aba?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern](https://jobright.ai/jobs/info/66e4e52e7006e43e7c22122c?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Sep 13 |
+| **[Esquire Deposition Solutions](https://www.esquiresolutions.com/)** | **[Freelance Court Reporter/Stenographer](https://jobright.ai/jobs/info/66e4d21ea4219d8116b49ac4?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
 | **[University of South Florida](http://www.usf.edu)** | **[WUSF News Intern - Spring 2025](https://jobright.ai/jobs/info/66e4cc7d96a7b4e49ec148b8?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Sep 13 |
 | **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66e4b62dd2300ed423c36f01?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 13 |
 | **[Eden Gallery](http://www.eden-gallery.com)** | **[Gallery Intern](https://jobright.ai/jobs/info/66e4a5897714474e1bc196eb?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Sep 13 |
@@ -92,7 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Wine Enthusiast](http://www.wineenthusiast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/66e3c266b87efba03672133f?utm_campaign=1053&utm_source=git)** | Valhalla, NY | Hybrid | Sep 12 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - The Chanticleer Section Editors](https://jobright.ai/jobs/info/66e3cef397eed5789bc82fbd?utm_campaign=1053&utm_source=git)** | Metro Jacksonville | On Site | Sep 12 |
 | **[The Fitzgerald Theater](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Podcasts - Marketplace](https://jobright.ai/jobs/info/66e4b62dd2300ed423c36e90?utm_campaign=1053&utm_source=git)** | Washington, NY | On Site | Sep 12 |
-| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Creative Arts](https://jobright.ai/jobs/info/66e4a2adba227f94793e8dd4?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 12 |
+| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Jazzfest](https://jobright.ai/jobs/info/66e4da82958c4e51a7642e00?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 12 |
+| ↳ | **[Fall Intern, Creative Arts](https://jobright.ai/jobs/info/66e4a2adba227f94793e8dd4?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 12 |
 | **[Monterey Peninsula Country Club](http://www.mpccpb.org)** | **[PGA Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc9b3?utm_campaign=1053&utm_source=git)** | Pebble Beach, CA | On Site | Sep 12 |
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[Editorial Assistant Internship](https://jobright.ai/jobs/info/66e0bb44dc68d2d6748e8a41?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Sep 12 |
 | **[Comcast](http://corporate.comcast.com)** | **[Entertainment Editorial Intern](https://jobright.ai/jobs/info/66e38b927457a05e71ff3b16?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 12 |
@@ -137,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[Subsidiary Rights Assistant](https://jobright.ai/jobs/info/66e1e9b0e32dfba053c8711e?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 11 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Video Intern (Full-Time)](https://jobright.ai/jobs/info/66e1e9b0e32dfba053c87344?utm_campaign=1053&utm_source=git)** | St Louis, MO | Hybrid | Sep 11 |
 | **[Chip Ganassi Racing](http://chipganassiracing.com/)** | **[PNC Women In Motorsports Internship](https://jobright.ai/jobs/info/66e1e44e3620606fb8e247e5?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 11 |
-| **[The ASU Foundation](http://www.asufoundation.org/)** | **[Fall Intern, Stocktonia](https://jobright.ai/jobs/info/66e1da4d769b14db6bbcf60f?utm_campaign=1053&utm_source=git)** | Stockton, CA | Hybrid | Sep 11 |
+| **[The ASU Foundation](http://www.asufoundation.org/)** | **[Fall Intern, Stocktonia](https://jobright.ai/jobs/info/66e1da4d769b14db6bbcf41b?utm_campaign=1053&utm_source=git)** | Stockton, CA | Hybrid | Sep 11 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[Dangler Intern in Photography and Media](https://jobright.ai/jobs/info/66e1c4483bb12a9f31e6a3a4?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 11 |
 | **[Associated Electric Cooperative](https://www.aeci.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/66e1c632a3eb4a5825a8d8d3?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | Sep 11 |
 | **[Course Advisor](http://www.CourseAdvisor.com)** | **[Music Director](https://jobright.ai/jobs/info/66e1c4483bb12a9f31e6a3ef?utm_campaign=1053&utm_source=git)** | Lakewood, NJ | On Site | Sep 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Copy Editor - Blazer](https://jobright.ai/jobs/info/66e1e55f0a4990cbdb7ce25c?utm_campaign=1053&utm_source=git)** | Main Campus, Joliet, IL | On Site | Sep 10 |
 | **[Springer Nature Group](https://group.springernature.com/)** | **[News Intern, Nature News](https://jobright.ai/jobs/info/66e0ef69f88d7bd011d88d26?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Sep 10 |
 | **[Lansing Board of Water & Light](http://lbwl.com)** | **[Archival Intern](https://jobright.ai/jobs/info/66e0e9d96d924a07dc04e7aa?utm_campaign=1053&utm_source=git)** | Lansing, MI | On Site | Sep 10 |
-| **[Springer Nature Group](https://group.springernature.com/)** | **[News Intern, Nature News](https://jobright.ai/jobs/info/66e0e9d96d924a07dc04e724?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 10 |
-| **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Copy Editor - Blazer](https://jobright.ai/jobs/info/66e14f86391a227b86bae865?utm_campaign=1053&utm_source=git)** | Campus, IL | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
