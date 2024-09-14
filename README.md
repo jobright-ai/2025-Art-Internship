@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Digital Intern](https://jobright.ai/jobs/info/66e58b5a87b4c7d9ee26cf04?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 14 |
+| **[Horseshoe Bay Resort](https://www.hsbresort.com/)** | **[Culinary & Pastry Internships 2024/2025](https://jobright.ai/jobs/info/66e57685cda6f3994845fe6c?utm_campaign=1053&utm_source=git)** | Horseshoe Bay, TX | On Site | Sep 14 |
+| **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Internship - Unpaid](https://jobright.ai/jobs/info/66c9139aa50576260b134251?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 14 |
+| **[Legends Hospitality](http://legends.net)** | **[Culinary Intern](https://jobright.ai/jobs/info/66c9abc5805001644de02186?utm_campaign=1053&utm_source=git)** | Wantagh, NY | Hybrid | Sep 14 |
 | **[Selina](https://www.selina.com)** | **[Experience Rockstar Intern](https://jobright.ai/jobs/info/66e55427bd6c7802ea78103a?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Sep 14 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Paid Intern - Part Time](https://jobright.ai/jobs/info/66e54cc28924156616246592?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Sep 14 |
 | **[CTP](https://www.ctpboston.com/)** | **[Video Intern](https://jobright.ai/jobs/info/66e55038b2ffe78ffb91c6bf?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: Amazonian Arts](https://jobright.ai/jobs/info/66c5c1de89ee0efa701b308e?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Sep 11 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/66e167cbf829845ded3ae041?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Sep 11 |
 | **[OSI Group](http://www.osigroup.com/)** | **[Corporate Culinary Summer Internship 2025](https://jobright.ai/jobs/info/66e144d288eb364d1fae2f34?utm_campaign=1053&utm_source=git)** | Aurora, IL | On Site | Sep 10 |
-| **[The Boston Consulting Group](http://www.bcg.com)** | **[Content Studio Operations & Multimedia Co-op](https://jobright.ai/jobs/info/66e22bd53ae5f486348e04a5?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 10 |
-| **[Perry Homes - A Trusted Texas Builder In Its 50th Year](http://perryhomes.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/66e1f232104bf3ac3cb4b8f3?utm_campaign=1053&utm_source=git)** | Plano, TX | On Site | Sep 10 |
-| **[The McClatchy Company](https://www.mcclatchy.com/)** | **[HBCU News Intern](https://jobright.ai/jobs/info/66e22984459bde939dcb0b29?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Sep 10 |
-| **[The Fitzgerald Theater](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Radio Reporter](https://jobright.ai/jobs/info/66e227104bb9fc5b4e80838e?utm_campaign=1053&utm_source=git)** | St Paul, MN | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
