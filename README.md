@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grey Journal](https://discovergrey.com/)** | **[Intern Writer and Reporter](https://jobright.ai/jobs/info/66e6cf0d099416efd5d14f66?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 15 |
+| **[KCCI Des Moines](https://www.kcci.com/)** | **[KCCI News Intern](https://jobright.ai/jobs/info/664e10a710b4f1df299825f8?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Sep 15 |
+| **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/66d71c9fcbd834ddec12af69?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Sep 15 |
+| **[Montage International](http://www.montageinternational.com)** | **[Cook III](https://jobright.ai/jobs/info/66c9bc446c1ffa1ddaf44c39?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Sep 15 |
+| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Creative/Promo/Production Intern](https://jobright.ai/jobs/info/664f8866b4296966b65ee564?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Sep 15 |
+| ↳ | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/66cb0ee70da4428950206d82?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 15 |
+| **[Sinclair Broadcast](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/66cafef8423ff6807e053285?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Sep 15 |
+| ↳ | **[News Intern - Fall 2024](https://jobright.ai/jobs/info/66b0c470d375ecbc631d84f5?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Sep 15 |
+| ↳ | **[Fall News Intern 2024](https://jobright.ai/jobs/info/66ca7d1e38d9bb3d52f1c9e4?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Sep 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/66ca01fa3f555252130cb129?utm_campaign=1053&utm_source=git)** | Macon, GA | Hybrid | Sep 15 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/66e6ae08d28927900c0794a1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | Hybrid | Sep 15 |
+| ↳ | **[News Production Assistant (Part-time)](https://jobright.ai/jobs/info/66ca7d1e38d9bb3d52f1c9be?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Sep 15 |
 | **[Soccer Shots Harrisburg & York](https://www.soccershots.com/harrisburgyork/)** | **[Soccer Shots Internship](https://jobright.ai/jobs/info/66e6a775850baad965dc5502?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Sep 15 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/66e67ca086c0c17c0bd927f6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 14 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film/Video Editor Intern](https://jobright.ai/jobs/info/66e661a970b05ee97273854b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 14 |
@@ -72,8 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Houston Chronicle Interactive](http://www.houstonchronicle.com/)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0f6bb?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Sep 13 |
 | **[Iowa Public Radio](https://www.iowapublicradio.org/)** | **[News Fellow](https://jobright.ai/jobs/info/66e52ff020743921dbbdac90?utm_campaign=1053&utm_source=git)** | Des Moines, IA | Hybrid | Sep 13 |
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[Editorial Assistant Internship](https://jobright.ai/jobs/info/66e546a7e4f4c5dfe1d71dc3?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Sep 13 |
-| **[Esquire Deposition Solutions](https://www.esquiresolutions.com/)** | **[Freelance Court Reporter/Stenographer](https://jobright.ai/jobs/info/66e4d21ea4219d8116b49ac4?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
-| **[University of South Florida](http://www.usf.edu)** | **[WUSF News Intern - Spring 2025](https://jobright.ai/jobs/info/66e4cc7d96a7b4e49ec148b8?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Sep 13 |
+| **[Esquire Deposition Solutions](https://www.esquiresolutions.com/)** | **[Freelance Court Reporter/Stenographer](https://jobright.ai/jobs/info/66e4d21ea4219d8116b49aba?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
 | **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66e4b62dd2300ed423c36f01?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 13 |
 | **[Eden Gallery](http://www.eden-gallery.com)** | **[Gallery Intern](https://jobright.ai/jobs/info/66e4a5897714474e1bc196eb?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Sep 13 |
 | **[The Washingtonian](http://www.washingtonian.com/)** | **[Editorial Fellowship](https://jobright.ai/jobs/info/66e49b66886e3b9a9898dfe1?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 13 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vendador](www.vendador.com)** | **[Food Videographer Internship](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35563f?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 11 |
 | **[VUE NJ](https://www.vuenj.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/66e261d16a22b233a9ebad1e?utm_campaign=1053&utm_source=git)** | Hoboken, NJ | Hybrid | Sep 11 |
 | **[International Diamond Center](http://shopidc.com/)** | **[Jeweler Apprentice](https://jobright.ai/jobs/info/66e204842bd93a9318edbfc3?utm_campaign=1053&utm_source=git)** | Altamonte Springs, FL | On Site | Sep 11 |
-| **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[Subsidiary Rights Assistant](https://jobright.ai/jobs/info/66e1e9b0e32dfba053c8711e?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 11 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Video Intern (Full-Time)](https://jobright.ai/jobs/info/66e1e9b0e32dfba053c87344?utm_campaign=1053&utm_source=git)** | St Louis, MO | Hybrid | Sep 11 |
-| **[Chip Ganassi Racing](http://chipganassiracing.com/)** | **[PNC Women In Motorsports Internship](https://jobright.ai/jobs/info/66e1e44e3620606fb8e247e5?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 11 |
-| **[The ASU Foundation](http://www.asufoundation.org/)** | **[Fall Intern, Stocktonia](https://jobright.ai/jobs/info/66e1da4d769b14db6bbcf60f?utm_campaign=1053&utm_source=git)** | Stockton, CA | Hybrid | Sep 11 |
-| **[Art Institute of Chicago](http://www.artic.edu/)** | **[Dangler Intern in Photography and Media](https://jobright.ai/jobs/info/66e1c4483bb12a9f31e6a3a4?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 11 |
-| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/66c72955e2d02ee1448a1f62?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Sep 11 |
-| **[WTAE Hearst Pittsburgh](https://www.hearstpittsburgh.com)** | **[WTAE News Intern](https://jobright.ai/jobs/info/66c51ab3efcc8c1e6ed8dcfc?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Sep 11 |
-| **[WBAL-TV 11 Baltimore](http://www.wbaltv.com)** | **[WBAL-TV Fall Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d926c?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Sep 11 |
-| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225be7f?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | Sep 11 |
-| **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: Amazonian Arts](https://jobright.ai/jobs/info/66c5c1de89ee0efa701b308e?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Sep 11 |
-| **[Sinclair Broadcast](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/66e167cbf829845ded3ae041?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
