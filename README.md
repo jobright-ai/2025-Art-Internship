@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MEmusic.](http://www.memusic.group)** | **[Remote Video Editing and Graphic Design Internships](https://jobright.ai/jobs/info/66e64add91b29a925251e004?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Digital Intern](https://jobright.ai/jobs/info/66e58b5a87b4c7d9ee26cf04?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 14 |
 | **[Horseshoe Bay Resort](https://www.hsbresort.com/)** | **[Culinary & Pastry Internships 2024/2025](https://jobright.ai/jobs/info/66e57685cda6f3994845fe6c?utm_campaign=1053&utm_source=git)** | Horseshoe Bay, TX | On Site | Sep 14 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Internship - Unpaid](https://jobright.ai/jobs/info/66c9139aa50576260b134251?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 14 |
 | **[Legends Hospitality](http://legends.net)** | **[Culinary Intern](https://jobright.ai/jobs/info/66c9abc5805001644de02186?utm_campaign=1053&utm_source=git)** | Wantagh, NY | Hybrid | Sep 14 |
+| **[TEDx](http://www.tedx.com)** | **[TEDx Editorial Intern (Science)](https://jobright.ai/jobs/info/66e63b36e7e8c69687226fb5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 14 |
 | **[Selina](https://www.selina.com)** | **[Experience Rockstar Intern](https://jobright.ai/jobs/info/66e55427bd6c7802ea78103a?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Sep 14 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Paid Intern - Part Time](https://jobright.ai/jobs/info/66e54cc28924156616246592?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Sep 14 |
 | **[CTP](https://www.ctpboston.com/)** | **[Video Intern](https://jobright.ai/jobs/info/66e55038b2ffe78ffb91c6bf?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 14 |
@@ -126,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern](https://jobright.ai/jobs/info/66c64934afbe66bbdb40e778?utm_campaign=1053&utm_source=git)** | Hollywood, FL | On Site | Sep 12 |
 | ↳ | **[Event Technology Internship](https://jobright.ai/jobs/info/66a94f02aa707341f03e52df?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Sep 12 |
 | ↳ | **[Event Technology Intern](https://jobright.ai/jobs/info/66c64934afbe66bbdb40e799?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 12 |
-| **[CareerVillage](https://careervillage.org/)** | **[Volunteer: Gallery Owner](https://jobright.ai/jobs/info/66e289150097db1a9008a6a4?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 11 |
-| ↳ | **[Volunteer: Performing Artist](https://jobright.ai/jobs/info/66e289150097db1a9008a68d?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 11 |
+| **[CareerVillage](https://careervillage.org/)** | **[Volunteer: Performing Artist](https://jobright.ai/jobs/info/66e289150097db1a9008a68d?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 11 |
+| ↳ | **[Volunteer: Gallery Owner](https://jobright.ai/jobs/info/66e289150097db1a9008a6a4?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 11 |
 | **[Windstar Cruises](http://windstarcruises.com)** | **[Entertainment & Engagement Intern](https://jobright.ai/jobs/info/66e39cb5ea0c617b29ac8416?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 11 |
 | **[Next Level Sports & Entertainment](https://www.nlse.com)** | **[Intern - Digital Media](https://jobright.ai/jobs/info/66e24b903cb22f34de674585?utm_campaign=1053&utm_source=git)** | Hanover, MD | On Site | Sep 11 |
 | **[Veris Media Group LLC](https://www.verismedia.com)** | **[Investigative Reporter](https://jobright.ai/jobs/info/66e2b726e19fbd1ebfb642e2?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Boston Consulting Group](http://www.bcg.com)** | **[Content Studio Operations & Multimedia Co-op](https://jobright.ai/jobs/info/66e22bd53ae5f486348e04a5?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 10 |
 | **[Perry Homes - A Trusted Texas Builder In Its 50th Year](http://perryhomes.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/66e1f232104bf3ac3cb4b8f3?utm_campaign=1053&utm_source=git)** | Plano, TX | On Site | Sep 10 |
 | **[The McClatchy Company](https://www.mcclatchy.com/)** | **[HBCU News Intern](https://jobright.ai/jobs/info/66e22984459bde939dcb0b29?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Sep 10 |
-| **[The Fitzgerald Theater](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Radio Reporter](https://jobright.ai/jobs/info/66e227104bb9fc5b4e80838e?utm_campaign=1053&utm_source=git)** | St Paul, MN | On Site | Sep 10 |
-| **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Copy Editor - Blazer](https://jobright.ai/jobs/info/66e1e55f0a4990cbdb7ce25c?utm_campaign=1053&utm_source=git)** | Main Campus, Joliet, IL | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
