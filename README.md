@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soccer Shots Harrisburg & York](https://www.soccershots.com/harrisburgyork/)** | **[Soccer Shots Internship](https://jobright.ai/jobs/info/66e752e2e94e2dcc515aef57?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Sep 15 |
 | **[Rich Music](https://richmusicltd.com)** | **[Fall 2024 RichMusic Internship Program](https://jobright.ai/jobs/info/66e707506e7b3966ce5fdc07?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Sep 15 |
 | **[Associated Electric Cooperative](https://www.aeci.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/66e705b0fc6e90e0c0b6c882?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | Sep 15 |
 | **[THE OPERA ATELIER INC](http://theoperaatelier.org)** | **[Violinist to play in an orchestra](https://jobright.ai/jobs/info/66e6eb18020a3f62b9bbec78?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 15 |
-| **[Grey Journal](https://discovergrey.com/)** | **[Intern Writer and Reporter](https://jobright.ai/jobs/info/66e6cf0d099416efd5d14f66?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 15 |
 | **[KCCI Des Moines](https://www.kcci.com/)** | **[KCCI News Intern](https://jobright.ai/jobs/info/664e10a710b4f1df299825f8?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Sep 15 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/66d71c9fcbd834ddec12af69?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Sep 15 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/66855d5b3bcb9414902c9b5c?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Sep 15 |
@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/66ca01fa3f555252130cb129?utm_campaign=1053&utm_source=git)** | Macon, GA | Hybrid | Sep 15 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/66e6ae08d28927900c0794a1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | Hybrid | Sep 15 |
 | ↳ | **[News Production Assistant (Part-time)](https://jobright.ai/jobs/info/66ca7d1e38d9bb3d52f1c9be?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Sep 15 |
-| **[Soccer Shots Harrisburg & York](https://www.soccershots.com/harrisburgyork/)** | **[Soccer Shots Internship](https://jobright.ai/jobs/info/66e6a775850baad965dc5502?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Sep 15 |
 | **[MEmusic.](http://www.memusic.group)** | **[Remote Video Editing and Graphic Design Internships](https://jobright.ai/jobs/info/66e64add91b29a925251e004?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Digital Intern](https://jobright.ai/jobs/info/66e58b5a87b4c7d9ee26cf04?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 14 |
 | **[Horseshoe Bay Resort](https://www.hsbresort.com/)** | **[Culinary & Pastry Internships 2024/2025](https://jobright.ai/jobs/info/66e57685cda6f3994845fe6c?utm_campaign=1053&utm_source=git)** | Horseshoe Bay, TX | On Site | Sep 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Tegna](http://www.tegna.com)** | **[Summer Intern - News](https://jobright.ai/jobs/info/66e22bd53ae5f486348e02b8?utm_campaign=1053&utm_source=git)** | Tysons Corner, VA | Hybrid | Sep 11 |
 | **[Vendador](www.vendador.com)** | **[Food Videographer Internship](https://jobright.ai/jobs/info/66e3cc49f11fa6546c35563f?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 11 |
 | **[VUE NJ](https://www.vuenj.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/66e261d16a22b233a9ebad1e?utm_campaign=1053&utm_source=git)** | Hoboken, NJ | Hybrid | Sep 11 |
+| **[International Diamond Center](http://shopidc.com/)** | **[Jeweler Apprentice](https://jobright.ai/jobs/info/66e204842bd93a9318edbfc3?utm_campaign=1053&utm_source=git)** | Altamonte Springs, FL | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
