@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Jovie](https://www.jovie.com)** | **[Creative and Patient Mentor](https://jobright.ai/jobs/info/66e8f046e82faf93c81ac3cf?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Sep 16 |
-| **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[2025 Summer Remote Internship: Editorial -- Adult](https://jobright.ai/jobs/info/66e8d580eec69055d5b5957b?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 16 |
+| **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[Subsidiary Rights Assistant](https://jobright.ai/jobs/info/66e1e9b0e32dfba053c8711e?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 16 |
+| ↳ | **[2025 Summer Remote Internship: Editorial -- Adult](https://jobright.ai/jobs/info/66e8d580eec69055d5b5957b?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 16 |
 | ↳ | **[Summer Remote Internship: Editorial -- Childrens](https://jobright.ai/jobs/info/66e8d580eec69055d5b5954d?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 16 |
 | ↳ | **[Summer Remote Internship: Book Making](https://jobright.ai/jobs/info/66e8d580eec69055d5b59552?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 16 |
 | **[Pacific University Udaipur](http://www.pacificu.edu/)** | **[Media and Marketing Specialist](https://jobright.ai/jobs/info/66e8ec05e7958cc5c29f533b?utm_campaign=1053&utm_source=git)** | Forest Grove, OR | On Site | Sep 16 |
@@ -74,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[16 Handles](http://16handles.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/66e88df46dc3d3bec6ca2f4d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 16 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide- Video Design and Editing](https://jobright.ai/jobs/info/66e894bda7f164158f8da260?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Sep 16 |
 | **[New York Public Radio](http://www.nypublicradio.org)** | **[WQXR Internship](https://jobright.ai/jobs/info/66e87e265013ae1ed4fbcfcd?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 16 |
+| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[ERIE Experience Intern](https://jobright.ai/jobs/info/66d755945250991ea41d5a40?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Sep 16 |
 | **[Saks Fifth Avenue Stores (SFA)](https://www.careersatsfa.com)** | **[Fitter/Tailor/Sewer - Intern](https://jobright.ai/jobs/info/66e878189f6ea85fbcb7b554?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Sep 16 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/66e87545909a541b35cbbc75?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Sep 16 |
 | **[Immobileyes](https://immobileyes.com)** | **[Youtube/Social Media Video Editor](https://jobright.ai/jobs/info/66e862989552047ece48fdec?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Sep 16 |
@@ -95,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - KOIN / KRCW](https://jobright.ai/jobs/info/66cc679d8df05c85f93fd46d?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Sep 16 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern - Fall '24](https://jobright.ai/jobs/info/669111732cfdcaa4f7cf8c93?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Sep 16 |
 | **[Quail Hollow Club](http://quailhollowclub.com)** | **[Green and Grounds Intern](https://jobright.ai/jobs/info/66e7d61f748ddb7569cd2487?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Sep 15 |
-| **[Plant-A Insights Group](www.plant-a.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/66e7b8a04d88e00e2f5ea0c8?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 15 |
 | **[National Building Museum in Washington](http://www.nbm.org)** | **[Collections Intern - Cataloging](https://jobright.ai/jobs/info/66e8e28be9ebc660e2cc8a98?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 15 |
 | **[The Fitzgerald Theater](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Library and Programming - YourClassical](https://jobright.ai/jobs/info/66e8c072aeef697399c54db6?utm_campaign=1053&utm_source=git)** | St Paul, MN | On Site | Sep 15 |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Apprentice Bakery Decorator](https://jobright.ai/jobs/info/66e855b70ae57a418c6d7986?utm_campaign=1053&utm_source=git)** | MA, Dedham - Dedham | On Site | Sep 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Fitzgerald Theater](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Marketplace DC Bureau](https://jobright.ai/jobs/info/66e6601239fefc008e80a0d1?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 12 |
 | ↳ | **[Intern, Podcasts - Marketplace](https://jobright.ai/jobs/info/66e4b62dd2300ed423c36e90?utm_campaign=1053&utm_source=git)** | Washington, NY | On Site | Sep 12 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Jazzfest](https://jobright.ai/jobs/info/66e4da82958c4e51a7642e00?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 12 |
-| ↳ | **[Fall Intern, Creative Arts](https://jobright.ai/jobs/info/66e4a2adba227f94793e8dd4?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
