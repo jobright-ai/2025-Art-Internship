@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Thesocialtalks](https://thesocialtalks.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/66f0bbbe358af5a259f9fee6?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 22 |
 | **[Icook](https://icook.delivery)** | **[Content Creator](https://jobright.ai/jobs/info/66f0afa52ee4ccc2f6295056?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 22 |
-| **[WARP](https://wearewarp.com/)** | **[Social Media Video Editor Intern](https://jobright.ai/jobs/info/66f07d6c533b524259d28cbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 22 |
 | **[CareerClaw.com - Career Clarity, Career Mastery.](https://careerclaw.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/66f0841d14cc47401e4d440b?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 22 |
+| **[WARP](https://wearewarp.com/)** | **[Social Media Video Editor](https://jobright.ai/jobs/info/66f07d6c533b524259d28cbe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 22 |
 | **[HomeLodgers](https://www.HomeLodgers.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/66f078ee3aadd514d7e6130c?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern](https://jobright.ai/jobs/info/66f01e4533b86c30add8a4df?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Sep 22 |
 | **[HomeLodgers](https://www.HomeLodgers.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/66f019cd57e79f0a08dc6e8c?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Sep 22 |
@@ -129,16 +129,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: Cinematographer](https://jobright.ai/jobs/info/66ec16fd3b3494763c858eed?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 19 |
 | ↳ | **[Volunteer: Reporter](https://jobright.ai/jobs/info/66ec16fd3b3494763c859270?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 19 |
 | ↳ | **[Volunteer: Photojournalist](https://jobright.ai/jobs/info/66ec16fd3b3494763c859271?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 19 |
-| **[Montage International](http://www.montageinternational.com)** | **[Culinary Internship - Montage Palmetto Bluff](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d82?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Sep 19 |
+| **[Montage International](http://www.montageinternational.com)** | **[Food & Beverage Internship](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Sep 19 |
+| ↳ | **[Rooms Internship - Montage Deer Valley](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d72?utm_campaign=1053&utm_source=git)** | Deer Valley, UT | On Site | Sep 19 |
+| ↳ | **[Culinary Internship - Montage Palmetto Bluff](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d82?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Sep 19 |
 | ↳ | **[Culinary Internship](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d61?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Sep 19 |
 | ↳ | **[Rooms Internship](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d60?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Sep 19 |
-| ↳ | **[Rooms Internship - Montage Deer Valley](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d72?utm_campaign=1053&utm_source=git)** | Deer Valley, UT | On Site | Sep 19 |
-| ↳ | **[Food & Beverage Internship](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Sep 19 |
+| ↳ | **[Culinary Internship](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d65?utm_campaign=1053&utm_source=git)** | Deer Valley, UT | On Site | Sep 19 |
 | ↳ | **[Food & Beverage Internship](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d5f?utm_campaign=1053&utm_source=git)** | Deer Valley, UT | On Site | Sep 19 |
 | ↳ | **[Culinary Internship - Montage Healdsburg](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d6c?utm_campaign=1053&utm_source=git)** | Healdsburg, CA | On Site | Sep 19 |
-| ↳ | **[Culinary Internship](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d65?utm_campaign=1053&utm_source=git)** | Deer Valley, UT | On Site | Sep 19 |
-| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e3?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 19 |
-| ↳ | **[Unpaid Production Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 19 |
+| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid Production Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 19 |
+| ↳ | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b5910d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 19 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[News Trainee](https://jobright.ai/jobs/info/66313061fb370140b7cdcf44?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
 | **[Kimpton Hotel & Restaurant Group](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern](https://jobright.ai/jobs/info/66b3e61915e6938a95bca3be?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 19 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 19 |
