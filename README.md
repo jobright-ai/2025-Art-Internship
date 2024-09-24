@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/66f2bd4b39691dd88fb1dfdc?utm_campaign=1053&utm_source=git)** | St Paul, MN | On Site | Sep 24 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Winter 2025](https://jobright.ai/jobs/info/66f251de4cc4041ec0808345?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Sep 23 |
 | **[lds.org](https://www.lds.org)** | **[Video Production Intern](https://jobright.ai/jobs/info/66f24206a259408f5e9a1220?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 23 |
 | ↳ | **[Video Production Specialist](https://jobright.ai/jobs/info/66f24206a259408f5e9a121f?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 23 |
@@ -71,7 +72,9 @@ For a complete list, click the following sortable link below:
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern](https://jobright.ai/jobs/info/66f27a23ef86d1dda360a46f?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Sep 23 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/66f255a9209a48ce4a052b55?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Sep 23 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[Client Experience Summer Internship Program](https://jobright.ai/jobs/info/66f2071b6907c920f27c7b6f?utm_campaign=1053&utm_source=git)** | Pontiac, MI | On Site | Sep 23 |
+| **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Gameday Production Intern](https://jobright.ai/jobs/info/66f2bd4b39691dd88fb1dff6?utm_campaign=1053&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Sep 23 |
 | **[NBCUniversal](http://www.nbcuniversal.com)** | **[Programming Internship](https://jobright.ai/jobs/info/66f22f426d0f5e1328e9a23f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Sep 23 |
+| **[Icook](https://icook.delivery)** | **[Content Creator II](https://jobright.ai/jobs/info/66f28f0bbfb88b386e9b1460?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Fluid Sports Tech](https://www.linkedin.com/company/91317253)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/66f1f9c66600c5412f755c3e?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Aspen skiing company](https://www.aspensnowmass.com)** | **[Culinary/Pastry Extern](https://jobright.ai/jobs/info/66f25ea187e3628e5d2294f6?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Sep 23 |
 | **[The Heritage Group](https://thgrp.com)** | **[Center Experience Intern](https://jobright.ai/jobs/info/66f20f27a3fe0674db27b307?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 23 |
@@ -83,14 +86,15 @@ For a complete list, click the following sortable link below:
 | **[Universal Orlando Resort](http://www.universalorlando.com)** | **[Internship – Digital Content Production](https://jobright.ai/jobs/info/66ed15c725351ebfa835ed9f?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 23 |
 | **[NBCUniversal](http://www.nbcuniversal.com)** | **[Political Focus Producer Internship](https://jobright.ai/jobs/info/66f22f426d0f5e1328e9a405?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Sep 23 |
 | ↳ | **[NBC Bay Area News Internship](https://jobright.ai/jobs/info/66f22f426d0f5e1328e9a3db?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Sep 23 |
-| ↳ | **[Production Internship](https://jobright.ai/jobs/info/66f22f426d0f5e1328e9a3dd?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Sep 23 |
-| ↳ | **[Programming Internship](https://jobright.ai/jobs/info/66f22f426d0f5e1328e9a3d3?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Sep 23 |
 | ↳ | **[Studio Tech Internship](https://jobright.ai/jobs/info/66f22f426d0f5e1328e9a3f2?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Sep 23 |
+| ↳ | **[Programming Internship](https://jobright.ai/jobs/info/66f22f426d0f5e1328e9a3d3?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Sep 23 |
+| ↳ | **[Production Internship](https://jobright.ai/jobs/info/66f22f426d0f5e1328e9a3dd?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Sep 23 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Fall News Intern](https://jobright.ai/jobs/info/66f21c5e3ea64742d1c21140?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Sep 23 |
 | ↳ | **[Fall News Intern](https://jobright.ai/jobs/info/66f21c5e3ea64742d1c21142?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 23 |
-| ↳ | **[Telemundo Area de la Bahia 48 News Internship – Fall 2024](https://jobright.ai/jobs/info/66f21c5e3ea64742d1c2114c?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Sep 23 |
 | ↳ | **[News Intern Telemundo Las Vegas, Content Producer – Fall/Winter 2024](https://jobright.ai/jobs/info/66f21c5e3ea64742d1c2113f?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Sep 23 |
-| ↳ | **[Telemundo 44 Digital Internship – Academic Year 2024-25](https://jobright.ai/jobs/info/66f22ac577fb95a25cefcf58?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 23 |
+| ↳ | **[Telemundo Area de la Bahia 48 News Internship – Fall 2024](https://jobright.ai/jobs/info/66f21c5e3ea64742d1c2114c?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Sep 23 |
+| **[Gray TV](http://www.gray.tv)** | **[Gray Media Future Focus Internship Winter '24](https://jobright.ai/jobs/info/66ecbd712312cf04d0e2d99a?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Sep 23 |
+| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo 44 Digital Internship – Academic Year 2024-25](https://jobright.ai/jobs/info/66f22ac577fb95a25cefcf58?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 23 |
 | ↳ | **[Digital News Intern](https://jobright.ai/jobs/info/66f22ac577fb95a25cefcf50?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 23 |
 | **[NBCUniversal](http://www.nbcuniversal.com)** | **[Community Engagement Internship](https://jobright.ai/jobs/info/66f1d27f2eabe5699abca2cf?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Sep 23 |
 | ↳ | **[KHRR/KTAZ News Intern](https://jobright.ai/jobs/info/66f1d27f2eabe5699abca26a?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 23 |
@@ -108,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Your Book Team](https://yourbookteam.com/)** | **[Publishing Operator Managing Intern](https://jobright.ai/jobs/info/66f1ac3f181a6f16e2a3ba2f?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Thesocialtalks](https://thesocialtalks.com/)** | **[News Anchor Intern](https://jobright.ai/jobs/info/66f1a0c32dfd3562a7252afc?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Sep 23 |
 | **[Texas Crew Productions](https://www.texascrew.com)** | **[Fall Semester Production Intern](https://jobright.ai/jobs/info/66f1697d2b78fb221ed5ba78?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 23 |
+| **[Mount Marty University](http://www.mountmarty.edu)** | **[Benny the Lancer Mascot](https://jobright.ai/jobs/info/66f2abf4e60c6b34ecfdd159?utm_campaign=1053&utm_source=git)** | Yankton, SD | On Site | Sep 23 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/66d70375738bc7c92b176b38?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Sep 23 |
 | **[SXSW Pitch](https://www.sxsw.com/pitch)** | **[Production Intern](https://jobright.ai/jobs/info/66f231d047aac89868ca0b02?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 22 |
 | ↳ | **[Film & TV Production Intern](https://jobright.ai/jobs/info/66f231d047aac89868ca0b3f?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Global Communities](http://www.globalcommunities.org/)** | **[Hands Across Borders Gala Volunteer](https://jobright.ai/jobs/info/66edb9759c11462b710c89eb?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Sep 20 |
 | **[City of Spokane](https://my.spokanecity.org/)** | **[Photo & Video Intern](https://jobright.ai/jobs/info/66ed9f144c2eeda21aa8e3ba?utm_campaign=1053&utm_source=git)** | Spokane, WA | On Site | Sep 20 |
 | **[Matas](http://matas.dk)** | **[Editorial Content Assistant](https://jobright.ai/jobs/info/66ed9b84138112d7782ae920?utm_campaign=1053&utm_source=git)** | Schiller, ND | Hybrid | Sep 20 |
-| **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[News Internship](https://jobright.ai/jobs/info/66d8ea823d4bc90b73047cad?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Sep 20 |
-| **[Reuters News Agency](https://www.reutersagency.com/)** | **[Reuters Fellow](https://jobright.ai/jobs/info/66ed85430146e5c755effefd?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
-| **[Graham Media Group](http://www.GrahamMedia.com)** | **[Content Creator Internship Program](https://jobright.ai/jobs/info/66ed60bc6f1cd8a993723167?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Sep 20 |
-| **[The Business of Fashion](http://www.businessoffashion.com)** | **[Editorial Apprentice](https://jobright.ai/jobs/info/66ed60bc6f1cd8a993723154?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Sep 20 |
-| **[Legends Hospitality](http://legends.net)** | **[Culinary Intern](https://jobright.ai/jobs/info/66c58b854031dddaece8f4ee?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | Hybrid | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
