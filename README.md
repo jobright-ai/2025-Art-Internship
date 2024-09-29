@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Economics Reporting Internship](https://jobright.ai/jobs/info/66f76216cb25eb9224768fcc?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 27 |
 | **[Bridge Showroom](http://www.bridgeshowroom.com)** | **[Fashion Internship](https://jobright.ai/jobs/info/66f73ad60182de365c39337d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Sep 27 |
 | **[Electronic Arts](http://www.ea.com)** | **[Music Intern](https://jobright.ai/jobs/info/66f7afd89f7a8657931b38e9?utm_campaign=1053&utm_source=git)** | Marina del Rey, CA | Hybrid | Sep 27 |
+| **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: Amazonian Arts Intern](https://jobright.ai/jobs/info/66c561eb60544c52d762dd02?utm_campaign=1053&utm_source=git)** | Berkeley, CA | On Site | Sep 27 |
 | **[The Agency Arizona](https://www.theagencyaz.com/)** | **[Agency Intern](https://jobright.ai/jobs/info/66f70e139d41a2271991ec8e?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 27 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Newswires Reporting Internship](https://jobright.ai/jobs/info/66f70e139d41a2271991ec72?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | ↳ | **[Real Estate Reporting Internship](https://jobright.ai/jobs/info/66f7167d53924c5339729a66?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Adam Lippes](https://adamlippes.com)** | **[Production Intern](https://jobright.ai/jobs/info/66f70308161568077c67da6c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 27 |
 | **[Business Insider](http://www.businessinsider.com)** | **[Vertical Video Production Fellow](https://jobright.ai/jobs/info/66f71cf59f4cd6681087ffa8?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 27 |
 | ↳ | **[Video Production Fellow](https://jobright.ai/jobs/info/66f71cf59f4cd6681087ff97?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 27 |
-| **[Your Book Team](https://yourbookteam.com/)** | **[Non-Fiction Self-Help Editor Intern](https://jobright.ai/jobs/info/66f6fa4c7c3c1d6f7b252e5b?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 27 |
 | **[Arco Homes](http://www.arcollc.com)** | **[Video & Media Spring Intern](https://jobright.ai/jobs/info/66f6fa4c7c3c1d6f7b252e68?utm_campaign=1053&utm_source=git)** | Newton Centre, MA | On Site | Sep 27 |
 | **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Editorial Internship - Spring 2025](https://jobright.ai/jobs/info/66f7b3b4ba7b2d737e34e39c?utm_campaign=1053&utm_source=git)** | West Allis, WI | Hybrid | Sep 27 |
 | **[Hoop Brothers](https://hoopbrothers.com/)** | **[Basketball Game Footage Analyst Internship](https://jobright.ai/jobs/info/66f6d54a836d33720ee3bfca?utm_campaign=1053&utm_source=git)** | Orlando, FL | Remote | Sep 27 |
@@ -97,12 +97,12 @@ For a complete list, click the following sortable link below:
 | **[Fox News](http://foxnews.com)** | **[Technical Operations Internship](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Cambridge Investment Research](http://www.joincambridge.com)** | **[Digital Content Creator Internship](https://jobright.ai/jobs/info/66da0fe8fe4eeb6b7da88ab9?utm_campaign=1053&utm_source=git)** | Fairfield, IA | On Site | Sep 27 |
 | **[FOX Weather](https://foxweather.com)** | **[Intern - FOX Weather](https://jobright.ai/jobs/info/66f68fca00a5e330e44c5700?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
-| **[Starr Insurance](https://starrcompanies.com/)** | **[Summer Intern - Collections](https://jobright.ai/jobs/info/66da244833eaedbd4b1e1ea7?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 27 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/664de06a0790ade97e15e7b9?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Sep 27 |
+| **[Starr Insurance](https://starrcompanies.com/)** | **[Summer Intern - Collections](https://jobright.ai/jobs/info/66da244833eaedbd4b1e2079?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 27 |
 | **[TheMoviesz.com](https://www.themoviesz.com/)** | **[Wikipedia Writer & Link Specialist](https://jobright.ai/jobs/info/66f68faa00a5e330e44c4d1a?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 27 |
 | **[FOX Sports](http://foxsports.com)** | **[Intern - Sports Production](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
-| **[Fox News](http://foxnews.com)** | **[Technical Operations Internship](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56ff?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 27 |
-| ↳ | **[Intern - FOX News Media](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
+| **[Fox News](http://foxnews.com)** | **[Intern - FOX News Media](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
+| ↳ | **[Technical Operations Internship](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56ff?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 27 |
 | **[Fox Cable](http://www.fox.com/)** | **[Spring 2025 FOX Entertainment Internship Program](https://jobright.ai/jobs/info/66f68fca00a5e330e44c5703?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | ↳ | **[Intern - FOX Entertainment Internship Program](https://jobright.ai/jobs/info/66f68fca00a5e330e44c5708?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 27 |
 | **[Fox News](http://foxnews.com)** | **[Spring 2025 FOX News Media Internship Program](https://jobright.ai/jobs/info/66f68fca00a5e330e44c570a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 27 |
@@ -121,26 +121,26 @@ For a complete list, click the following sortable link below:
 | **[Three Six Zero](http://www.threesixzero.com)** | **[Artist Management Intern](https://jobright.ai/jobs/info/66f6033232e41d156dd415ca?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Sep 26 |
 | **[The McClatchy Company](https://www.mcclatchy.com/)** | **[News Intern](https://jobright.ai/jobs/info/66f70bbfafbb4620f08b4146?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Production & Special Projects Intern](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e8390dc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Sep 26 |
-| **[News Corp India](https://newscorp.com/)** | **[Real Estate Reporting Internship](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e8389c7?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
+| **[News Corp India](https://newscorp.com/)** | **[Corporate Reporting Internship, Technology](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838925?utm_campaign=1053&utm_source=git)** | San Francisco | On Site | Sep 26 |
+| ↳ | **[Dow Jones Newswires Reporting Internship](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025e08?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
 | ↳ | **[Economics Reporting Internship](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838aaf?utm_campaign=1053&utm_source=git)** | Washington D.C. | On Site | Sep 26 |
-| ↳ | **[Podcast Internship](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025fa2?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
+| ↳ | **[Corporate Reporting Internship](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025f90?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
 | ↳ | **[Social Video Internship](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838c00?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
 | ↳ | **[Corporate Reporting Internship](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838a7b?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Sep 26 |
-| ↳ | **[Life & Work Reporting Internship](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e83899f?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
-| ↳ | **[Dow Jones Newswires Reporting Internship](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025e08?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
-| ↳ | **[Corporate Reporting Internship](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025f90?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
-| ↳ | **[Corporate Reporting Internship, Technology](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838925?utm_campaign=1053&utm_source=git)** | San Francisco | On Site | Sep 26 |
 | ↳ | **[Platform & Publishing Editing Internship](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e838fbf?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Spring 2025 FOX News Media Internship Program](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e83906a?utm_campaign=1053&utm_source=git)** | Dallas, Texas, USA | On Site | Sep 26 |
-| ↳ | **[Intern - FOX News Media Internship Program](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838ac2?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 26 |
-| ↳ | **[Spring 2025 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025d7e?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 26 |
-| ↳ | **[Spring 2025 FOX Entertainment Internship Program](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025dcf?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Sep 26 |
-| ↳ | **[Intern - Spring 2025 FOX News Media Internship Program](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838b2c?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 26 |
+| ↳ | **[Podcast Internship](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025fa2?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
+| ↳ | **[Real Estate Reporting Internship](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e8389c7?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
+| ↳ | **[Life & Work Reporting Internship](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e83899f?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
+| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Intern - Spring 2025 FOX News Media Internship Program](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838b2c?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 26 |
 | ↳ | **[Spring 2025 FOX News Media Internship Program](https://jobright.ai/jobs/info/66f7ab39aacfbd677b026050?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, USA | On Site | Sep 26 |
 | ↳ | **[Spring 2025 FOX News Media Internship Program](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838c02?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Sep 26 |
+| ↳ | **[Spring 2025 FOX News Media Internship Program](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e83906a?utm_campaign=1053&utm_source=git)** | Dallas, Texas, USA | On Site | Sep 26 |
 | ↳ | **[Spring 2025 FOX Internship Program - Sports Production](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e839026?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 26 |
-| ↳ | **[Technical Operations Intern](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838757?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 26 |
+| ↳ | **[Spring 2025 FOX Entertainment Internship Program](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025dcf?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Sep 26 |
 | ↳ | **[Spring 2025 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e838f93?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 26 |
+| ↳ | **[Spring 2025 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025d7e?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 26 |
+| ↳ | **[Intern - FOX News Media Internship Program](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838ac2?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 26 |
+| ↳ | **[Technical Operations Intern](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838757?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 26 |
 | **[Gameday Spirit Fanstores](https://gamedayspirit.cbsi-store.com/)** | **[Content Creator Internship - Gameday Spirit Fanstore](https://jobright.ai/jobs/info/66f5e7ab0f5fcf3b72948033?utm_campaign=1053&utm_source=git)** | Urbana-Champaign Area | Hybrid | Sep 26 |
 | **[KUTV 2News](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/66f5f73dd7c0f11fe26a0d69?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 26 |
 | **[Six Flags](https://www.sixflags.com)** | **[Land Animal Apprentice](https://jobright.ai/jobs/info/66f5ebada4c5addf5f6eaf78?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Sep 26 |
