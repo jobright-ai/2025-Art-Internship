@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medtelligent](http://www.medtelligent.com)** | **[2025 Medtelligent Internship](https://jobright.ai/jobs/info/66ff5262646299eebce33b1d?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
+| **[McClatchy](https://www.mcclatchy.com/)** | **[News Intern - Fresno Bee](https://jobright.ai/jobs/info/66ff4ed318349108cb3b5c93?utm_campaign=1053&utm_source=git)** | Fresno, CA | On Site | Oct 03 |
+| ↳ | **[News Intern - Belleville News-Democrat](https://jobright.ai/jobs/info/66ff4ed318349108cb3b5c86?utm_campaign=1053&utm_source=git)** | Belleville, IL | On Site | Oct 03 |
+| ↳ | **[News Intern - Merced Sun-Star](https://jobright.ai/jobs/info/66ff4ed318349108cb3b5c98?utm_campaign=1053&utm_source=git)** | Merced, CA | On Site | Oct 03 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Breaking News Intern (Fall/Winter)](https://jobright.ai/jobs/info/66ff353b84a38684300850f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[Chatham Bars Inn](http://www.chathambarsinn.com)** | **[Baking & Pastry Intern (Fall / Winter 2025)](https://jobright.ai/jobs/info/66fe7e5cda4915e68048d333?utm_campaign=1053&utm_source=git)** | Chatham, MA | On Site | Oct 03 |
 | ↳ | **[Culinary Intern (Summer 2025)](https://jobright.ai/jobs/info/66fe7e5cda4915e68048d34a?utm_campaign=1053&utm_source=git)** | Chatham, MA | On Site | Oct 03 |
@@ -111,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Production & Special Projects Intern, Spring 2025](https://jobright.ai/jobs/info/66f80d6b468668a2676e47ef?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 28 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Stadium and Event Operations Intern - Spring 2025](https://jobright.ai/jobs/info/66dba9371cb0502a6da38c03?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Sep 28 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Video Intern (Full-Time)](https://jobright.ai/jobs/info/66db4ff4b0914c467cb0d4c8?utm_campaign=1053&utm_source=git)** | St Louis, MO | Hybrid | Sep 28 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Platform & Publishing Editing Internship, New York](https://jobright.ai/jobs/info/66f772737dbcf81f17e3e437?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Electronic Arts (EA)](http://www.ea.com)** | **[Music Intern](https://jobright.ai/jobs/info/66f7afd89f7a8657931b38e9?utm_campaign=1053&utm_source=git)** | Marina del Rey, CA | Hybrid | Sep 27 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Dow Jones Newswires Reporting Internship (Summer 2025)](https://jobright.ai/jobs/info/66f70e139d41a2271991ec72?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | ↳ | **[Real Estate Reporting Internship, New York (Summer 2025)](https://jobright.ai/jobs/info/66f7167d53924c5339729a66?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
@@ -132,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[McClatchy](https://www.mcclatchy.com/)** | **[News Intern - Wichita](https://jobright.ai/jobs/info/66f7fc6473d5d6b361571665?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 27 |
 | **[FOX Weather](https://foxweather.com)** | **[Spring 2025 FOX News Media Internship Program - FOX Weather - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c5700?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Fox News Media](http://foxnews.com)** | **[Spring 2025 FOX News Media Internship Program - Technical Operations - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
-| **[Starr Insurance](https://starrcompanies.com/)** | **[2025 Starr Summer Intern - Collections](https://jobright.ai/jobs/info/66da244833eaedbd4b1e1ea7?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 27 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/664de06a0790ade97e15e7b9?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
