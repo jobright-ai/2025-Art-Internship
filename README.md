@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Daily Beast](http://www.thedailybeast.com)** | **[Breaking News Intern (Fall/Winter)](https://jobright.ai/jobs/info/66ff353b84a38684300850f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[Chatham Bars Inn](http://www.chathambarsinn.com)** | **[Baking & Pastry Intern (Fall / Winter 2025)](https://jobright.ai/jobs/info/66fe7e5cda4915e68048d333?utm_campaign=1053&utm_source=git)** | Chatham, MA | On Site | Oct 03 |
 | ↳ | **[Culinary Intern (Summer 2025)](https://jobright.ai/jobs/info/66fe7e5cda4915e68048d34a?utm_campaign=1053&utm_source=git)** | Chatham, MA | On Site | Oct 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/66fe796a898490cd493d2e2e?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | Oct 03 |
@@ -67,7 +68,8 @@ For a complete list, click the following sortable link below:
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66fe323a9f68c732304ecb32?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Oct 02 |
 | **[Iteris, Inc.](https://www.iteris.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/66fe38e821a4187d5180d6e6?utm_campaign=1053&utm_source=git)** | Santa Ana, CA | Hybrid | Oct 02 |
 | **[Hogarth](http://www.hogarthww.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/66fdffa1e38ba5c3e906ff77?utm_campaign=1053&utm_source=git)** | Sunnyvale, CA | Hybrid | Oct 02 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[D23 Content and Editorial Intern, Spring 2025](https://jobright.ai/jobs/info/66feb7643a406f73da8d67c0?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 02 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KFSN-TV (ABC30) Newsroom Intern, Spring 2025](https://jobright.ai/jobs/info/66ff0baafa81359427edb4ca?utm_campaign=1053&utm_source=git)** | Fresno, CA, USA | On Site | Oct 02 |
+| ↳ | **[D23 Content and Editorial Intern, Spring 2025](https://jobright.ai/jobs/info/66feb7643a406f73da8d67c0?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 02 |
 | **[Flash Social](https://www.flashsocial.app/)** | **[VFX Artist](https://jobright.ai/jobs/info/66fdd8b1e007b00f5a9a8427?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, Unpaid](https://jobright.ai/jobs/info/66fda1836faeff048e18d8f4?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Oct 02 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Experience Production Paint Shop Intern - Spring 2025](https://jobright.ai/jobs/info/66fd857b1e6a45ebc70d69d8?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 02 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Reach Records](https://www.reachrecords.com)** | **[Reach Records Label Operations & Publishing Intern - Fall 2024](https://jobright.ai/jobs/info/66fac7c1d8f3b37f916ba50b?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 30 |
 | **[Granite School District](http://www.graniteschools.org)** | **[Stage Crew - Student](https://jobright.ai/jobs/info/66fb4a025b4f8a9b2d9af4b5?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 29 |
 | **[McClatchy](https://www.mcclatchy.com/)** | **[News Intern - Charlotte Observer](https://jobright.ai/jobs/info/66fb0e235a64a61befab9aca?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Sep 29 |
-| **[PGA TOUR](http://www.pgatour.com)** | **[2025 Summer TPC Golf Course Maintenance Intern](https://jobright.ai/jobs/info/66faee7b3a416b4664092563?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Sep 29 |
-| ↳ | **[PGM Intern - Spring 2025](https://jobright.ai/jobs/info/66fc70b87015a3cf7fbdb07a?utm_campaign=1053&utm_source=git)** | Cromwell, CT | On Site | Sep 29 |
+| **[PGA TOUR](http://www.pgatour.com)** | **[PGM Intern - Spring 2025](https://jobright.ai/jobs/info/66fc70b87015a3cf7fbdb07a?utm_campaign=1053&utm_source=git)** | Cromwell, CT | On Site | Sep 29 |
+| ↳ | **[2025 Summer TPC Golf Course Maintenance Intern](https://jobright.ai/jobs/info/66faee7b3a416b4664092563?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Sep 29 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/66f8da42d64ff782ce091ef0?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Sep 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern, News](https://jobright.ai/jobs/info/66fcb6b1aec149e711366c16?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Sep 28 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/66f8b9d107524579e2f1cca8?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Sep 28 |
@@ -130,18 +132,6 @@ For a complete list, click the following sortable link below:
 | **[McClatchy](https://www.mcclatchy.com/)** | **[News Intern - Wichita](https://jobright.ai/jobs/info/66f7fc6473d5d6b361571665?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 27 |
 | **[FOX Weather](https://foxweather.com)** | **[Spring 2025 FOX News Media Internship Program - FOX Weather - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c5700?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Fox News Media](http://foxnews.com)** | **[Spring 2025 FOX News Media Internship Program - Technical Operations - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
+| **[Starr Insurance](https://starrcompanies.com/)** | **[2025 Starr Summer Intern - Collections](https://jobright.ai/jobs/info/66da244833eaedbd4b1e1ea7?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/664de06a0790ade97e15e7b9?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Sep 27 |
-| **[Starr Insurance](https://starrcompanies.com/)** | **[2025 Starr Summer Intern - Collections](https://jobright.ai/jobs/info/66da244833eaedbd4b1e2079?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 27 |
-| **[FOX Sports](http://foxsports.com)** | **[Spring 2025 FOX Internship Program - Sports Production - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
-| **[Fox News Media](http://foxnews.com)** | **[Spring 2025 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
-| ↳ | **[Spring 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56ff?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 27 |
-| **[Fox Entertainment](http://www.fox.com/)** | **[Spring 2025 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c5703?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
-| ↳ | **[Spring 2025 FOX Entertainment Internship Program - Los Angeles](https://jobright.ai/jobs/info/66f68fca00a5e330e44c5708?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 27 |
-| **[Fox News Media](http://foxnews.com)** | **[Spring 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/66f68fca00a5e330e44c570a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 27 |
-| ↳ | **[Spring 2025 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/66f68fca00a5e330e44c570e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 27 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Internship](https://jobright.ai/jobs/info/66f7bbe038c6ac18df491a1c?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Sep 27 |
-| **[Ladies Professional Golf Association (LPGA)](http://www.lpga.com)** | **[LPGA 2025 Summer Internship - Professionals](https://jobright.ai/jobs/info/66f68836ae61ac260aedaac8?utm_campaign=1053&utm_source=git)** | Daytona Beach, FL | Hybrid | Sep 27 |
-| ↳ | **[LPGA 2025 Summer Internship - Foundation](https://jobright.ai/jobs/info/66f68836ae61ac260aedaacc?utm_campaign=1053&utm_source=git)** | Daytona Beach, FL | Hybrid | Sep 27 |
-| ↳ | **[LPGA 2025 Summer Internship - Communications](https://jobright.ai/jobs/info/66f68836ae61ac260aedaace?utm_campaign=1053&utm_source=git)** | Daytona Beach, FL | Hybrid | Sep 27 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC Digital News Intern, ABC7 en Español, Spring 2025](https://jobright.ai/jobs/info/66f7bc9eaa938d7610719388?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
