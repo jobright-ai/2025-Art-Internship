@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fox News Media](http://foxnews.com)** | **[Summer 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708e7c03812d8882709e769?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
+| ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6708e7c03812d8882709e78e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 11 |
+| ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/6708ead2cee6942efe607ce9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 11 |
+| ↳ | **[Summer 2025 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/6708ead2cee6942efe607ca5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Oct 11 |
+| **[Wasserman](http://www.teamwass.com)** | **[Spring Internship, Music](https://jobright.ai/jobs/info/6708a8ed338798ab26785d30?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67089dc1c510cad87296fb68?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Oct 10 |
 | ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/67089dc1c510cad87296fb06?utm_campaign=1053&utm_source=git)** | Rockford, IL | On Site | Oct 10 |
 | **[Advisor.](www.advisormag.co)** | **[Streetwear/Streetstyle Writing Intern](https://jobright.ai/jobs/info/67086267dae2d7cb39768182?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Arbor Day Foundation](http://arborday.org)** | **[Student Contractor, Content Creator](https://jobright.ai/jobs/info/6708667fc9a3005c84f8b711?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Oct 10 |
-| **[Wasserman](http://www.teamwass.com)** | **[Spring Internship, Music](https://jobright.ai/jobs/info/6708526ecd556e7017cc4d2e?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Oct 10 |
+| **[Wasserman](http://www.teamwass.com)** | **[Spring Internship, Music](https://jobright.ai/jobs/info/6708ac9c4677643b241f41b3?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 10 |
+| ↳ | **[Spring Internship, Music](https://jobright.ai/jobs/info/6708ac9c4677643b241f41c4?utm_campaign=1053&utm_source=git)** | Miami-FTL Area | On Site | Oct 10 |
+| ↳ | **[Spring Internship, Music](https://jobright.ai/jobs/info/6708526ecd556e7017cc4d2e?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Oct 10 |
 | ↳ | **[Spring Internship, Music](https://jobright.ai/jobs/info/6708526ecd556e7017cc5129?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
 | **[Springer Nature Group](https://group.springernature.com/)** | **[Multimedia Intern, Scientific American](https://jobright.ai/jobs/info/6708526ecd556e7017cc4dbe?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 10 |
 | **[BECK Media & Marketing](https://beckmedia.com/)** | **[Spring 2025 Intern](https://jobright.ai/jobs/info/67082c669bb13eea63efdbc9?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 10 |
@@ -99,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/66cc5c2fc69ad78cae6d7f12?utm_campaign=1053&utm_source=git)** | Chicopee, MA | On Site | Oct 09 |
 | **[Argus Media](https://www.argusmedia.com)** | **[Summer Internship 2025 - Editorial](https://jobright.ai/jobs/info/66e9d40cdbc8f327e4ac59c5?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Oct 09 |
 | **[CNN](https://www.cnn.com)** | **[CNN Business Editorial Internships: NYC - Spring 2025](https://jobright.ai/jobs/info/6706378ebe29d2a6e52163ae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 09 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Spokane](https://jobright.ai/jobs/info/6708b49e8544b8c729c9a582?utm_campaign=1053&utm_source=git)** | Spokane, WA | On Site | Oct 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/664defb5cf7bdc8f73b3c78e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 08 |
 | **[KQED](http://www.kqed.org)** | **[Deep Look Intern](https://jobright.ai/jobs/info/6705ee413da889969b1351a0?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
 | ↳ | **[Podcasts Operations Intern](https://jobright.ai/jobs/info/6705ee413da889969b1351bf?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
@@ -120,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Editorial Internship, California Summer 2025](https://jobright.ai/jobs/info/67057fab54d45438f2340146?utm_campaign=1053&utm_source=git)** | Sacramento, CA | Hybrid | Oct 08 |
 | ↳ | **[Editorial Internship, New York Summer 2025](https://jobright.ai/jobs/info/67058af8cabc82dd727d4103?utm_campaign=1053&utm_source=git)** | Sacramento, CA | Hybrid | Oct 08 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Fred Young Fellowship](https://jobright.ai/jobs/info/6693b635a955ace455aa3bbf?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Oct 08 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664f355d74b9d07f40fc4798?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Oct 08 |
 | **[News Corp](https://newscorp.com/)** | **[The Wall Street Journal Sports Reporting Internship (Summer 2025)](https://jobright.ai/jobs/info/67055229a32f750ce447b649?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Oct 08 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[HBO & MAX Content Acquisition Intern: NYC - Spring 2025](https://jobright.ai/jobs/info/670552744950da401bf16f6c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | ↳ | **[WB Games Production MBA Intern: LA - Summer 2025](https://jobright.ai/jobs/info/670548ba6774a37c8d3211f9?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VHB](https://www.vhb.com/)** | **[Technical Writer/Editor Intern – Summer 2025](https://jobright.ai/jobs/info/6704a4bfa0781c2f765b2d8a?utm_campaign=1053&utm_source=git)** | Raleigh, NC | Hybrid | Oct 07 |
 | **[Boston Globe Media](http://www.bostonglobe.com)** | **[Boston.com - Real Estate Reporter Intern](https://jobright.ai/jobs/info/67047dc0facfa3a95f67ff70?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Oct 07 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Fall News Intern 2024](https://jobright.ai/jobs/info/66ca7d1e38d9bb3d52f1c9e4?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Oct 07 |
-| **[KCCI-TV](https://www.kcci.com/)** | **[KCCI News Intern](https://jobright.ai/jobs/info/664e10a710b4f1df299825f8?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Oct 07 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Intern](https://jobright.ai/jobs/info/664e2071b45b688e7b70fba9?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Oct 07 |
-| ↳ | **[Unpaid Lifestyle Show Intern-1](https://jobright.ai/jobs/info/66cb0ee70da4428950206d82?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 07 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6704b5999860709ccb4d3fb2?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Oct 07 |
-| **[Davidson Hospitality Group](https://www.davidsonhotels.com/)** | **[Golf Pro](https://jobright.ai/jobs/info/6703f150fa37c8bbe97053a5?utm_campaign=1053&utm_source=git)** | Adairsville, GA | On Site | Oct 07 |
-| **[China Institute in America](https://chinainstitute.org/)** | **[Volunteer Gallery Attendant (Starting Fall 2024)](https://jobright.ai/jobs/info/6704142351100500a92a83b5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 07 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/66ca01fa3f555252130cb129?utm_campaign=1053&utm_source=git)** | Macon, GA | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
