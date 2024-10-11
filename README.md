@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67089dc1c510cad87296fb68?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Oct 10 |
+| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/67089dc1c510cad87296fb06?utm_campaign=1053&utm_source=git)** | Rockford, IL | On Site | Oct 10 |
 | **[Advisor.](www.advisormag.co)** | **[Streetwear/Streetstyle Writing Intern](https://jobright.ai/jobs/info/67086267dae2d7cb39768182?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Arbor Day Foundation](http://arborday.org)** | **[Student Contractor, Content Creator](https://jobright.ai/jobs/info/6708667fc9a3005c84f8b711?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Oct 10 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring Internship, Music](https://jobright.ai/jobs/info/6708526ecd556e7017cc4d2e?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Oct 10 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Weddings/Events Internship / Summer 2025](https://jobright.ai/jobs/info/670834fff1664fc4be9d908e?utm_campaign=1053&utm_source=git)** | Route 302, Bretton Woods, NH, US | On Site | Oct 09 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67077333e84b1c4fe78925e0?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Oct 09 |
 | **[Boston College](http://www.bc.edu/)** | **[Culinary Intern/CATERING](https://jobright.ai/jobs/info/6707717d61836d235b6b669e?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | On Site | Oct 09 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Newsroom Internship](https://jobright.ai/jobs/info/66cc5c2fc69ad78cae6d7f16?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Oct 09 |
 | **[EmazingGroup - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[IHR Non-paid Styling Intern](https://jobright.ai/jobs/info/670733ab37b88808d959deb1?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Oct 09 |
 | **[Three Six Zero](http://www.threesixzero.com)** | **[Artist Management Intern](https://jobright.ai/jobs/info/67071ebf21670d050ad43e57?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Oct 09 |
 | **[EmazingGroup - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[IHR Styling Intern](https://jobright.ai/jobs/info/670717ea1b6fe7a6199d2190?utm_campaign=1053&utm_source=git)** | Anaheim, CA | Hybrid | Oct 09 |
@@ -107,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring) - Washington, DC](https://jobright.ai/jobs/info/6705c7b4f5062092d1f9cb50?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 08 |
 | **[Dow Jones](http://www.dowjones.com)** | **[The Wall Street Journal Sports Reporting Internship (Summer 2025)](https://jobright.ai/jobs/info/6705ee413da889969b135515?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2025 Summer News Internship – Digital Editor](https://jobright.ai/jobs/info/6705aaea2b9400fd03064b06?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 08 |
-| ↳ | **[2025 Summer News Internship – Video Journalist](https://jobright.ai/jobs/info/6705aaea2b9400fd03064aea?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 08 |
 | ↳ | **[2025 Summer News Internship – Podcast/Audio Journalist](https://jobright.ai/jobs/info/6705aaea2b9400fd03064b20?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 08 |
+| ↳ | **[2025 Summer News Internship – Video Journalist](https://jobright.ai/jobs/info/6705aaea2b9400fd03064aea?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 08 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/67059b5a4d58cf251564e0d8?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 08 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Scripted Television Development Intern – Spring 2025](https://jobright.ai/jobs/info/6705943117e162a0c79e081e?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Oct 08 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WBD Global Archives and Preservations Intern: LA - Spring 2025](https://jobright.ai/jobs/info/6705909224a18064db287362?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Davidson Hospitality Group](https://www.davidsonhotels.com/)** | **[Golf Pro](https://jobright.ai/jobs/info/6703f150fa37c8bbe97053a5?utm_campaign=1053&utm_source=git)** | Adairsville, GA | On Site | Oct 07 |
 | **[China Institute in America](https://chinainstitute.org/)** | **[Volunteer Gallery Attendant (Starting Fall 2024)](https://jobright.ai/jobs/info/6704142351100500a92a83b5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/66ca01fa3f555252130cb129?utm_campaign=1053&utm_source=git)** | Macon, GA | Hybrid | Oct 07 |
-| **[San Diego County Sheriff's Department](http://www.sdsheriff.gov)** | **[Videographer](https://jobright.ai/jobs/info/670312309f436a034993d044?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Oct 06 |
-| **[Montage International](http://www.montageinternational.com)** | **[Culinary Internship & Externships / Montage Palmetto Bluff](https://jobright.ai/jobs/info/66c9bc446c1ffa1ddaf44c39?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Oct 06 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/66d71c9fcbd834ddec12af69?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
