@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Paid Intern - Part Time](https://jobright.ai/jobs/info/670b9c64aa1c6b391d0467ab?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Oct 13 |
-| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Fall 2024) - Nashville, TN](https://jobright.ai/jobs/info/670b759bb157c2aefbbc271c?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 12 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Paid Intern - Part Time](https://jobright.ai/jobs/info/670bd8ba3d5e0ea702e193b6?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Oct 13 |
+| ↳ | **[Paid Intern - Part Time](https://jobright.ai/jobs/info/670b9c64aa1c6b391d0467ab?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Oct 13 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/670add33795e649815e94d3f?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Oct 12 |
 | **[ASU Foundation for A New American University](http://www.asufoundation.org/)** | **[Spring Intern, Times of San Diego](https://jobright.ai/jobs/info/670a59663113d60f9e26b941?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Oct 12 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2025 Summer News Internship](https://jobright.ai/jobs/info/66d8ea823d4bc90b73047cad?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 12 |
@@ -109,11 +109,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6708e7c03812d8882709e78e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/6708ead2cee6942efe607ce9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/6708ead2cee6942efe607ca5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Oct 11 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Summer 2025 FOX News Media Internship Program - FOX Weather - New York](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a72?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
-| ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a55?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
+| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Summer 2025 FOX Internship Program - Sports Production - New York](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a42?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a43?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Oct 10 |
+| ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a55?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a3d?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Oct 10 |
-| ↳ | **[Summer 2025 FOX Internship Program - Sports Production - New York](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a42?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
+| ↳ | **[Summer 2025 FOX News Media Internship Program - FOX Weather - New York](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a72?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Atlanta](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a2d?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, USA | On Site | Oct 10 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring Internship, Music](https://jobright.ai/jobs/info/6708a8ed338798ab26785d30?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67089dc1c510cad87296fb68?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Oct 10 |
