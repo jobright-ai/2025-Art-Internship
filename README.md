@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Internship - Training Audio/Video Producer](https://jobright.ai/jobs/info/66f21c5e3ea64742d1c21030?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[Ryder's Paid Internship - Part Time](https://jobright.ai/jobs/info/670ec146d5880d98051e2763?utm_campaign=1053&utm_source=git)** | Davenport, IA | On Site | Oct 15 |
+| ↳ | **[Ryder's Paid Internship - Part Time](https://jobright.ai/jobs/info/670ec146d5880d98051e2764?utm_campaign=1053&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 15 |
+| **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Pastry Cook Intern](https://jobright.ai/jobs/info/670eab22c6a205eeefe04085?utm_campaign=1053&utm_source=git)** | Lake Geneva, WI | On Site | Oct 15 |
+| **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2025 Summer News Internship – Data Reporter](https://jobright.ai/jobs/info/670e9cea6c23cd7638cb441a?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 15 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Internship - Wealth & Investing Group, Video/Audio](https://jobright.ai/jobs/info/66f21c5e3ea64742d1c21038?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
+| ↳ | **[Summer 2025 Internship - Training Audio/Video Producer](https://jobright.ai/jobs/info/66f21c5e3ea64742d1c21030?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern (Part-time)](https://jobright.ai/jobs/info/66d70375738bc7c92b176b38?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Oct 15 |
 | **[ESPN](http://espncareers.com)** | **[ESPN NEXT Social Production Intern, Remote, Spring 2025](https://jobright.ai/jobs/info/670e6122170bcaadb9ca277f?utm_campaign=1053&utm_source=git)** | Bristol, CT | Remote | Oct 15 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Internship - Barron’s Reporter](https://jobright.ai/jobs/info/66f21c5e3ea64742d1c20ff5?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/670e20f496835fac2afdc7e3?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Oct 14 |
 | **[Farmington Country Club](http://farmingtoncc.com)** | **[CULINARY ARTS INTERN](https://jobright.ai/jobs/info/670debadce5ab939651f040c?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | On Site | Oct 14 |
 | **[Boston College](http://www.bc.edu/)** | **[Culinary Intern/CATERING](https://jobright.ai/jobs/info/670e136f1be95485a780d1c7?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | On Site | Oct 14 |
@@ -78,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[US Campus Summer 2025 Internship Application](https://jobright.ai/jobs/info/670d3795c5a8d7022746d181?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 14 |
 | ↳ | **[US Campus Summer 2025 Internship Application](https://jobright.ai/jobs/info/670d24c32e73ebdba59c9a83?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 14 |
 | ↳ | **[US Campus Summer 2025 Internship Application](https://jobright.ai/jobs/info/670e1ef6f6d77196b691ecce?utm_campaign=1053&utm_source=git)** | Jacksonville, FL | On Site | Oct 14 |
-| **[Flash Social](https://www.flashsocial.app/)** | **[Content Creator, TikTok](https://jobright.ai/jobs/info/670c9d8dac8a979c0a2b63be?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 14 |
 | **[Destination by Hyatt](http://www.destinationhotels.com)** | **[2025 Culinary Intern/Extern](https://jobright.ai/jobs/info/66c5867b93a6fcca6e2535b6?utm_campaign=1053&utm_source=git)** | Isle of Palms, SC | On Site | Oct 13 |
 | **[Destination by Hyatt](http://www.destinationhotels.com)** | **[Summer 2025 - Housekeeping Internship](https://jobright.ai/jobs/info/66d20a6b5d7020cef9e2d58c?utm_campaign=1053&utm_source=git)** | Isle of Palms, SC | On Site | Oct 12 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Special Collections Intern at Blair-Caldwell](https://jobright.ai/jobs/info/67045433bcc90834f112fede?utm_campaign=1053&utm_source=git)** | Denver, NC | On Site | Oct 12 |
@@ -106,6 +112,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/6709d0360cdc3e9f807708ab?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Oct 11 |
 | ↳ | **[Summer 2025 FOX Entertainment Internship Program - Los Angeles](https://jobright.ai/jobs/info/6709d0360cdc3e9f807708ad?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Oct 11 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/6709d0360cdc3e9f8077089d?utm_campaign=1053&utm_source=git)** | Dallas, Texas, USA | On Site | Oct 11 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b5910d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | **[Montage International](http://www.montageinternational.com)** | **[Culinary Internship - Montage Deer Valley](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d65?utm_campaign=1053&utm_source=git)** | Deer Valley, UT | On Site | Oct 11 |
 | ↳ | **[Rooms Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d60?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Oct 11 |
 | **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern-Red Owl Tavern](https://jobright.ai/jobs/info/66b3e61915e6938a95bca3be?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 11 |
@@ -128,15 +135,15 @@ For a complete list, click the following sortable link below:
 | **[Fox Entertainment](http://www.fox.com/)** | **[Summer 2025 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/67092db0b4cf3536a410f5d3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
 | ↳ | **[Summer 2025 FOX Entertainment Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708f73b01bcf7c921e2fa21?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
 | **[FOX Sports](http://foxsports.com)** | **[Summer 2025 FOX Internship Program - Sports Production - New York](https://jobright.ai/jobs/info/67099b2e94de3270c3d86677?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 11 |
-| **[Fox News Media](http://foxnews.com)** | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6708e7c03812d8882709e78e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 11 |
-| ↳ | **[Summer 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708e7c03812d8882709e769?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
+| **[Fox News Media](http://foxnews.com)** | **[Summer 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708e7c03812d8882709e769?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
+| ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6708e7c03812d8882709e78e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/6708ead2cee6942efe607ce9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/6708ead2cee6942efe607ca5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Oct 11 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Summer 2025 FOX Internship Program - Sports Production - New York](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a42?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
-| ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a55?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
-| ↳ | **[Summer 2025 FOX News Media Internship Program - Atlanta](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a2d?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, USA | On Site | Oct 10 |
-| ↳ | **[Summer 2025 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a43?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Oct 10 |
+| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Summer 2025 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a55?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
+| ↳ | **[Summer 2025 FOX Internship Program - Sports Production - New York](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a42?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - FOX Weather - New York](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a72?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
+| ↳ | **[Summer 2025 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a43?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Oct 10 |
+| ↳ | **[Summer 2025 FOX News Media Internship Program - Atlanta](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a2d?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, USA | On Site | Oct 10 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a3d?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Oct 10 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring Internship, Music](https://jobright.ai/jobs/info/6708a8ed338798ab26785d30?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67089dc1c510cad87296fb68?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Oct 10 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Internship, Music](https://jobright.ai/jobs/info/6708ac9c4677643b241f41c4?utm_campaign=1053&utm_source=git)** | Miami-FTL Area | On Site | Oct 10 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Warner Bros. Animation Production Intern: LA - Spring 2025](https://jobright.ai/jobs/info/6707b13a49b886398ab7aba8?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 10 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring Internship, Music](https://jobright.ai/jobs/info/6708526ecd556e7017cc4d2e?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Oct 10 |
-| ↳ | **[Spring Internship, Music](https://jobright.ai/jobs/info/6708526ecd556e7017cc5129?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
-| **[Springer Nature Group](https://group.springernature.com/)** | **[Multimedia Intern, Scientific American](https://jobright.ai/jobs/info/6708526ecd556e7017cc4dbe?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 10 |
-| **[BECK Media & Marketing](https://beckmedia.com/)** | **[Spring 2025 Intern](https://jobright.ai/jobs/info/67082c669bb13eea63efdbc9?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 10 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Culinary Intern/ Peak Restaurant by Rhubarb LLC](https://jobright.ai/jobs/info/670832857ca680ac528c78a0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 10 |
-| **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Writing Internship](https://jobright.ai/jobs/info/670801be4c794bdf0c1ba148?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Oct 10 |
-| **[ButcherBox](https://www.butcherbox.com)** | **[Culinary Studio Intern](https://jobright.ai/jobs/info/66eb5de4bbf3f49862203922?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | Oct 10 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
