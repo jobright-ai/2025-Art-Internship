@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Camp Horseshoe](https://www.camphorseshoe.com)** | **[Overnight Summer Camp Videographer](https://jobright.ai/jobs/info/670ffc35f5fbb92f91170459?utm_campaign=1053&utm_source=git)** | Rhinelander, WI | On Site | Oct 16 |
+| **[Mainstream Boutique](http://mainstreamboutique.com)** | **[Fashion Photoshoot Intern](https://jobright.ai/jobs/info/670fe972ab2d726a765db048?utm_campaign=1053&utm_source=git)** | Twin Cities Area | On Site | Oct 16 |
+| **[Penn State University](https://www.ime.psu.edu/)** | **[Part-Time Communications/News Intern](https://jobright.ai/jobs/info/670ff93dde1b597916def4be?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Oct 16 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Heroes Intern: NYC - Spring 2025](https://jobright.ai/jobs/info/670f25a60b00d59b34c4ec39?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[McClatchy](https://www.mcclatchy.com/)** | **[News Intern - The Bradenton Herald](https://jobright.ai/jobs/info/670f2e17ae6c9a7631c40aa7?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Oct 15 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Line Cook - Bazille - International Plaza](https://jobright.ai/jobs/info/670f2a7d548a00f16d832043?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 15 |
-| ↳ | **[Prep Cook - Bazille - International Plaza](https://jobright.ai/jobs/info/670f1744362c890e2db43d9c?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 15 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Prep Cook - Bazille - International Plaza](https://jobright.ai/jobs/info/670f1744362c890e2db43d9c?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 15 |
+| **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Internship – Bowl Week 2024 (12/11/24 – 12/17/24)](https://jobright.ai/jobs/info/671005f0e5dcc16a21c5619e?utm_campaign=1053&utm_source=git)** | Frisco, Texas, United States | On Site | Oct 15 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring Internship, Music](https://jobright.ai/jobs/info/6708526ecd556e7017cc5129?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Oct 15 |
 | ↳ | **[Spring Internship, Music](https://jobright.ai/jobs/info/6708526ecd556e7017cc4d2e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[The Athletic](https://theathletic.com/)** | **[MLB Student Intern, Summer 2025 (Remote)](https://jobright.ai/jobs/info/670eea02fa6df6931eb18c70?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 15 |
@@ -81,8 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Internship - Barron’s Reporter](https://jobright.ai/jobs/info/66f21c5e3ea64742d1c20ff5?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[US Campus Summer 2025 Internship Application](https://jobright.ai/jobs/info/670f7eec5d9b057b43fc7f4d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | ↳ | **[US Campus Summer 2025 Internship Application](https://jobright.ai/jobs/info/670f6e4ff24d2a73b6a586da?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Oct 15 |
-| **[Creative Artists Agency](http://www.caa.com)** | **[US Campus Summer 2025 Internship Application](https://jobright.ai/jobs/info/670f414d9e7fe2b00a8cad00?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 14 |
-| ↳ | **[US Campus Summer 2025 Internship Application](https://jobright.ai/jobs/info/670f35e53efb0085bfa5a026?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 14 |
 | **[Farmington Country Club](http://farmingtoncc.com)** | **[CULINARY ARTS INTERN](https://jobright.ai/jobs/info/670debadce5ab939651f040c?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | On Site | Oct 14 |
 | **[Boston College](http://www.bc.edu/)** | **[Culinary Intern/CATERING](https://jobright.ai/jobs/info/670e136f1be95485a780d1c7?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | On Site | Oct 14 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Medical Animation Intern](https://jobright.ai/jobs/info/670de03d9ad92dd3c72a9069?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Oct 14 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Fox Entertainment](http://www.fox.com/)** | **[Summer 2025 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/67092db0b4cf3536a410f5d3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
 | ↳ | **[Summer 2025 FOX Entertainment Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708f73b01bcf7c921e2fa21?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
 | **[FOX Sports](http://foxsports.com)** | **[Summer 2025 FOX Internship Program - Sports Production - New York](https://jobright.ai/jobs/info/67099b2e94de3270c3d86677?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 11 |
-| **[Fox News Media](http://foxnews.com)** | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6708e7c03812d8882709e78e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 11 |
-| ↳ | **[Summer 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708e7c03812d8882709e769?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
+| **[Fox News Media](http://foxnews.com)** | **[Summer 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708e7c03812d8882709e769?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
+| ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6708e7c03812d8882709e78e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/6708ead2cee6942efe607ce9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/6708ead2cee6942efe607ca5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Oct 11 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Summer 2025 FOX News Media Internship Program - FOX Weather - New York](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a72?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
+| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Summer 2025 FOX News Media Internship Program - Atlanta](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a2d?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, USA | On Site | Oct 10 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a3d?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Oct 10 |
-| ↳ | **[Summer 2025 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a43?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Oct 10 |
+| ↳ | **[Summer 2025 FOX News Media Internship Program - FOX Weather - New York](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a72?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a55?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
-| ↳ | **[Summer 2025 FOX Internship Program - Sports Production - New York](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a42?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
