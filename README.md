@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern – Culinary](https://jobright.ai/jobs/info/6711d30b4a12706420f49dc8?utm_campaign=1053&utm_source=git)** | Plano, TX | On Site | Oct 17 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Newsgathering Internships: ATL - Spring 2025](https://jobright.ai/jobs/info/6711a23f1d029b2ec21a285e?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Oct 17 |
 | **[Electronic Arts (EA)](http://www.ea.com)** | **[Intern, FC Franchise Activation, North America](https://jobright.ai/jobs/info/67118d3554c1132f7d059339?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 17 |
 | ↳ | **[Intern, FC Franchise Activation, North America](https://jobright.ai/jobs/info/67118d3554c1132f7d05937a?utm_campaign=1053&utm_source=git)** | Redwood City, CA | Hybrid | Oct 17 |
@@ -64,12 +65,15 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Intern, Golf Course Maintenance](https://jobright.ai/jobs/info/67119f7b3cc45f3b8ada8f9a?utm_campaign=1053&utm_source=git)** | Frisco, TX | Hybrid | Oct 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Hulu Originals and ABC Scripted Content Business Affairs JD Intern, Spring 2025](https://jobright.ai/jobs/info/671145fb1afd80a11887182f?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Oct 17 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6711621417e98ce4200554b0?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Oct 17 |
+| **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Fellowship](https://jobright.ai/jobs/info/66bd4249d6c843d11a3ff393?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | Hybrid | Oct 17 |
 | **[Springer Nature Group](https://group.springernature.com/)** | **[News Intern, Scientific American](https://jobright.ai/jobs/info/66f4c6ce8fdbebc6f6db7a79?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 17 |
 | **[Seamgen](http://www.seamgen.com/)** | **[Writing Internship](https://jobright.ai/jobs/info/6710b872e9337b67b37d1f49?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Oct 16 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Corporate and Special Events - R8064](https://jobright.ai/jobs/info/6710a3ccdb980f1b4cbd4efa?utm_campaign=1053&utm_source=git)** | Dayton, OH | Hybrid | Oct 16 |
 | **[Chobani](http://www.chobani.com)** | **[Intern - Digital Content](https://jobright.ai/jobs/info/6710987a35e4b1dea3ae0731?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 16 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Intern, Golf Course Maintenance](https://jobright.ai/jobs/info/67117006323fa2d9bf278907?utm_campaign=1053&utm_source=git)** | 4001 Rockhill Parkway, Frisco, TX, US | Hybrid | Oct 16 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Guest Experience Production Intern - Spring 2025](https://jobright.ai/jobs/info/67105d063b8354fb07fbce4e?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Oct 16 |
+| **[Greenville Country Club (SC)](https://www.gccsc.com)** | **[Private Events Intern](https://jobright.ai/jobs/info/6711ace12c1cd41bfd2385d7?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Oct 16 |
+| ↳ | **[Culinary Intern](https://jobright.ai/jobs/info/6711ace12c1cd41bfd2385e3?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Oct 16 |
 | **[Developmental Disabilities Institute (DDI)](http://ddiny.org)** | **[Film Intern](https://jobright.ai/jobs/info/67107550f916b98b64a5ea2a?utm_campaign=1053&utm_source=git)** | Smithtown, NY | On Site | Oct 16 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2025 U.S. Women's Open Long-Term Operations Internship](https://jobright.ai/jobs/info/67103b28fdbacbe6ef94f245?utm_campaign=1053&utm_source=git)** | Erin Hills, WI | On Site | Oct 16 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Internship – Bowl Week 2024 (12/11/24 – 12/17/24)](https://jobright.ai/jobs/info/67107a22e4f9865dd98a3bf6?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Oct 16 |
@@ -87,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/671073022264ce6abf76949c?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Oct 16 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Styling Intern](https://jobright.ai/jobs/info/66d76ec386dfc693f74e0f73?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 16 |
 | **[URBN (Urban Outfitters, Anthropologie Group, Free People & Nuuly)](http://urbn.com)** | **[Urban Outfitters Studio Intern - Men's Styling](https://jobright.ai/jobs/info/66d78c1fdcda647e3eed2f01?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 16 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Fashion Place](https://jobright.ai/jobs/info/6710bf769c969c2a604e751b?utm_campaign=1053&utm_source=git)** | Murray, UT | On Site | Oct 16 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Heroes Intern: NYC - Spring 2025](https://jobright.ai/jobs/info/670f25a60b00d59b34c4ec39?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[McClatchy](https://www.mcclatchy.com/)** | **[News Intern - The Bradenton Herald](https://jobright.ai/jobs/info/670f2e17ae6c9a7631c40aa7?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Oct 15 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Internship – Bowl Week 2024 (12/11/24 – 12/17/24)](https://jobright.ai/jobs/info/671005f0e5dcc16a21c5619e?utm_campaign=1053&utm_source=git)** | Frisco, Texas, United States | On Site | Oct 15 |
@@ -111,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[ESPN](http://espncareers.com)** | **[ESPN NEXT Social Production Intern, Remote, Spring 2025](https://jobright.ai/jobs/info/670e6122170bcaadb9ca277f?utm_campaign=1053&utm_source=git)** | Bristol, CT | Remote | Oct 15 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Internship - Barron’s Reporter](https://jobright.ai/jobs/info/66f21c5e3ea64742d1c20ff5?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[US Campus Summer 2025 Internship Application](https://jobright.ai/jobs/info/671088d4eae46dd24ea4acd0?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 14 |
+| ↳ | **[US Campus Summer 2025 Internship Application](https://jobright.ai/jobs/info/6711d6df6153143416058476?utm_campaign=1053&utm_source=git)** | Jacksonville, FL | On Site | Oct 14 |
 | **[Farmington Country Club](http://farmingtoncc.com)** | **[CULINARY ARTS INTERN](https://jobright.ai/jobs/info/670debadce5ab939651f040c?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | On Site | Oct 14 |
 | **[Boston College](http://www.bc.edu/)** | **[Culinary Intern/CATERING](https://jobright.ai/jobs/info/670e136f1be95485a780d1c7?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | On Site | Oct 14 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Medical Animation Intern](https://jobright.ai/jobs/info/670de03d9ad92dd3c72a9069?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Oct 14 |
@@ -138,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6709fe813748006a8f649c26?utm_campaign=1053&utm_source=git)** | Canton, OH | On Site | Oct 11 |
 | **[NBCUniversal](http://www.nbcuniversal.com)** | **[NBC Bay Area - News Internship – Academic Year '24-'25](https://jobright.ai/jobs/info/6709fe813748006a8f649b91?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Oct 11 |
 | **[Montage International](http://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Oct 11 |
-| **[Boston College](http://www.bc.edu/)** | **[Culinary Intern/CATERING](https://jobright.ai/jobs/info/670a00c5753ab7189ef0a611?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | On Site | Oct 11 |
 | **[Answers in Genesis](https://answersingenesis.org)** | **[Assistant Magazine Editor Embark Intern (Summer 2025)](https://jobright.ai/jobs/info/670b32d0911d287a8f8c3383?utm_campaign=1053&utm_source=git)** | Hebron, KY | On Site | Oct 11 |
 | **[Montage International](http://www.montageinternational.com)** | **[Rooms Internship - Montage Deer Valley](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d72?utm_campaign=1053&utm_source=git)** | Deer Valley, UT | On Site | Oct 11 |
 | ↳ | **[Food & Beverage Internship - Montage Deer Valley](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d5f?utm_campaign=1053&utm_source=git)** | Deer Valley, UT | On Site | Oct 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/6709d0360cdc3e9f8077089d?utm_campaign=1053&utm_source=git)** | Dallas, Texas, USA | On Site | Oct 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b5910d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | **[Montage International](http://www.montageinternational.com)** | **[Culinary Internship - Montage Deer Valley](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d65?utm_campaign=1053&utm_source=git)** | Deer Valley, UT | On Site | Oct 11 |
-| ↳ | **[Rooms Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d60?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Oct 11 |
-| **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern-Red Owl Tavern](https://jobright.ai/jobs/info/66b3e61915e6938a95bca3be?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 11 |
-| **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/66eb74033b477952e26ec129?utm_campaign=1053&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
