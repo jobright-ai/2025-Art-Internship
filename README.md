@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston College](http://www.bc.edu/)** | **[Culinary Intern/CATERING](https://jobright.ai/jobs/info/6717270be44ca413daaa3663?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | On Site | Oct 21 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Special Event Crew Intern](https://jobright.ai/jobs/info/6716f71c2e60cb31a29040e0?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Oct 21 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6716e3853f89cdc2107fa70d?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Oct 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment Costuming Buyer Intern, Spring 2025](https://jobright.ai/jobs/info/6716c56c25fd7ccd7c099a36?utm_campaign=1053&utm_source=git)** | Orlando, FL, USA | On Site | Oct 21 |
 | ↳ | **[Disney Live Entertainment Costume Buying Intern, Spring 2025](https://jobright.ai/jobs/info/6716c56c25fd7ccd7c099a3e?utm_campaign=1053&utm_source=git)** | Orlando, FL, USA | On Site | Oct 21 |
 | **[AARP](http://www.aarp.org)** | **[Archival Intern](https://jobright.ai/jobs/info/6716825720bc329d6de00e36?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Oct 21 |
 | **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[Fall Film Intern](https://jobright.ai/jobs/info/66be3955f1b881a79a6341dc?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Oct 21 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/666c408fb342f124248839a9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 21 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6715ecc43bfff68bc7556019?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Oct 20 |
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6715ecc43bfff68bc75560be?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Oct 20 |
 | **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern-Red Owl Tavern](https://jobright.ai/jobs/info/6677b8ec9c2d9fa5bf08966b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 20 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Podcast Internship, New York (Summer 2025)](https://jobright.ai/jobs/info/66f7167d53924c5339729a76?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 19 |
 | ↳ | **[Corporate Reporting Internship, Technology, San Francisco (Summer 2025)](https://jobright.ai/jobs/info/66f70e139d41a2271991ec99?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 19 |
 | ↳ | **[The Wall Street Journal Corporate Reporting Internship, New York (Summer 2025)](https://jobright.ai/jobs/info/66f70e139d41a2271991ec93?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 19 |
-| **[Starr Insurance](https://starrcompanies.com/)** | **[2025 Starr Summer Intern - Collections](https://jobright.ai/jobs/info/66da244833eaedbd4b1e1ea7?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 19 |
 | **[Peoria Unified School District](http://www.peoriaunified.org)** | **[CTE Student Intern - Film and TV (PUSD students only)](https://jobright.ai/jobs/info/671388d82bb61deb522217e3?utm_campaign=1053&utm_source=git)** | Peoria, AZ | On Site | Oct 19 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Intern - Grizzly Digital Network](https://jobright.ai/jobs/info/671375ad2c174b795a6be9ed?utm_campaign=1053&utm_source=git)** | Lawrenceville, GA | On Site | Oct 19 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Bartley Fellowship - Book Review Internship](https://jobright.ai/jobs/info/66f6113cc046fe194e857ea4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](http://www.epicgames.com)** | **[Technical Character Animation Intern](https://jobright.ai/jobs/info/66d895d0fbc4efa67a423dfc?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Oct 18 |
 | **[Fox News Media](http://foxnews.com)** | **[Spring 2025 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[FOX Sports](http://foxsports.com)** | **[Spring 2025 FOX Internship Program - Sports Production - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
+| **[Starr Insurance](https://starrcompanies.com/)** | **[2025 Starr Summer Intern - Collections](https://jobright.ai/jobs/info/66da244833eaedbd4b1e2079?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Television Unscripted & Alternative Entertainment Intern, Spring 2025](https://jobright.ai/jobs/info/6712eb94fb75ef22c52f9e01?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Oct 18 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Spring 2025 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c5703?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Student Assistant - WSOU Community Programming Producer 2024/25](https://jobright.ai/jobs/info/6712ef44d9db9a793458c078?utm_campaign=1053&utm_source=git)** | South Orange, NJ | On Site | Oct 18 |
@@ -121,7 +123,9 @@ For a complete list, click the following sortable link below:
 | **[FOX Weather](https://foxweather.com)** | **[Spring 2025 FOX News Media Internship Program - FOX Weather - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c5700?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Bartley Fellowship - Opinion Internship](https://jobright.ai/jobs/info/66f61c1f74a5abe23fe88cd7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | ↳ | **[Summer 2025 Bartley Fellowship - Arts Criticism Internship](https://jobright.ai/jobs/info/66f6113cc046fe194e857e8b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
+| **[Electronic Arts (EA)](http://www.ea.com)** | **[Intern, FC Franchise Activation, North America](https://jobright.ai/jobs/info/671759d050e2bd88ed980701?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Oct 18 |
 | **[Aspen Skiing Company](https://www.aspensnowmass.com)** | **[Culinary/Pastry Extern - The Little Nell - Summer 2025](https://jobright.ai/jobs/info/67120511cc0fe8e0d29fec25?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Oct 17 |
+| **[Electronic Arts (EA)](http://www.ea.com)** | **[Intern, FC Franchise Activation, North America](https://jobright.ai/jobs/info/67173bf16e572ea6bbd6f968?utm_campaign=1053&utm_source=git)** | Redwood City, CA | On Site | Oct 17 |
 | **[The Little Nell](https://www.thelittlenell.com)** | **[Culinary/Pastry Extern - The Little Nell - Summer 2025](https://jobright.ai/jobs/info/671200237fa83172f578b566?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Oct 17 |
 | **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern – Culinary](https://jobright.ai/jobs/info/6711d30b4a12706420f49dc8?utm_campaign=1053&utm_source=git)** | Plano, TX | On Site | Oct 17 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Guest Experience Intern](https://jobright.ai/jobs/info/67117a28055f87b8669497ad?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Oct 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Free People](http://www.freepeople.com)** | **[Free People Styling Intern](https://jobright.ai/jobs/info/66d76ec386dfc693f74e0f73?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 16 |
 | **[URBN (Urban Outfitters, Anthropologie Group, Free People & Nuuly)](http://urbn.com)** | **[Urban Outfitters Studio Intern - Men's Styling](https://jobright.ai/jobs/info/66d78c1fdcda647e3eed2f01?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 16 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Esports Commentator](https://jobright.ai/jobs/info/66d606b6313a7c232bcd01da?utm_campaign=1053&utm_source=git)** | New Hampshire, United States | On Site | Oct 16 |
-| **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Center Experience Intern](https://jobright.ai/jobs/info/66f20f27a3fe0674db27b307?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 16 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Heroes Intern: NYC - Spring 2025](https://jobright.ai/jobs/info/670f25a60b00d59b34c4ec39?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 15 |
-| **[McClatchy](https://www.mcclatchy.com/)** | **[News Intern - The Bradenton Herald](https://jobright.ai/jobs/info/670f2e17ae6c9a7631c40aa7?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Oct 15 |
-| **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Internship – Bowl Week 2024 (12/11/24 – 12/17/24)](https://jobright.ai/jobs/info/671005f0e5dcc16a21c5619e?utm_campaign=1053&utm_source=git)** | Frisco, Texas, United States | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
