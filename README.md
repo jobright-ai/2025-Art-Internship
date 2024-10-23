@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Decided Excellence Catholic Media](https://www.decidedexcellence.com)** | **[Publisher](https://jobright.ai/jobs/info/671864a8138933e4bd793063?utm_campaign=1053&utm_source=git)** | Wisconsin, United States | Remote | Oct 22 |
 | **[ASU Foundation for A New American University](http://www.asufoundation.org/)** | **[Spring Intern, Stocktonia](https://jobright.ai/jobs/info/6718327f8d0e9e35d6c5c4e5?utm_campaign=1053&utm_source=git)** | Stockton, CA | Hybrid | Oct 22 |
 | ↳ | **[Spring Intern, Stocktonia](https://jobright.ai/jobs/info/671825b09a386ba4fab26450?utm_campaign=1053&utm_source=git)** | Stockton, CA | On Site | Oct 22 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern (Spring 2025) - Los Angeles](https://jobright.ai/jobs/info/67182449be1eded7025b21d2?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Oct 22 |
@@ -65,9 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - KBJR](https://jobright.ai/jobs/info/67181739c3df6c45bbd3dce0?utm_campaign=1053&utm_source=git)** | Duluth, MN | On Site | Oct 22 |
 | **[AARP](http://www.aarp.org)** | **[Archival Intern](https://jobright.ai/jobs/info/67181deadd3b144bfc931280?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Oct 22 |
 | **[Smithsonian Environmental Research Center](https://serc.si.edu)** | **[Spring Science Writing Intern](https://jobright.ai/jobs/info/67181d75dd3b144bfc930d40?utm_campaign=1053&utm_source=git)** | Edgewater, MD | On Site | Oct 22 |
-| **[Sporting Kansas City](http://www.sportingkc.com)** | **[Stadium and Event Operations Intern - Spring 2025](https://jobright.ai/jobs/info/6717ddeef3de2aa16fd13100?utm_campaign=1053&utm_source=git)** | Children's Mercy Park Kansas City, KS 66111 | On Site | Oct 22 |
-| ↳ | **[Stadium and Event Operations Intern - Spring 2025](https://jobright.ai/jobs/info/6717ddeef3de2aa16fd130bd?utm_campaign=1053&utm_source=git)** | Kansas City, Kansas | On Site | Oct 22 |
-| **[Oscar de la Renta](http://oscardelarenta.com)** | **[Fashion Production Spring 2025 Internship](https://jobright.ai/jobs/info/6717e9c03133ec709e0335e1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 22 |
+| **[Sporting Kansas City](http://www.sportingkc.com)** | **[Stadium and Event Operations Intern - Spring 2025](https://jobright.ai/jobs/info/6717ddeef3de2aa16fd130bd?utm_campaign=1053&utm_source=git)** | Kansas City, Kansas | On Site | Oct 22 |
+| ↳ | **[Stadium and Event Operations Intern - Spring 2025](https://jobright.ai/jobs/info/6717ddeef3de2aa16fd13100?utm_campaign=1053&utm_source=git)** | Children's Mercy Park Kansas City, KS 66111 | On Site | Oct 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Content Creator & Writer College Associate](https://jobright.ai/jobs/info/6717d81a850554eefb2d0ff9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 22 |
 | ↳ | **[Content Creator & Writer College Associate](https://jobright.ai/jobs/info/6717d085464d6d69c4900afd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Oct 22 |
 | **[The Athletic](https://theathletic.com/)** | **[MLB Student Intern, Summer 2025](https://jobright.ai/jobs/info/6717c651a2f003e1a3b6f045?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 22 |
@@ -115,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Peoria Unified School District](http://www.peoriaunified.org)** | **[CTE Student Intern - Film and TV (PUSD students only)](https://jobright.ai/jobs/info/671388d82bb61deb522217e3?utm_campaign=1053&utm_source=git)** | Peoria, AZ | On Site | Oct 19 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Intern - Grizzly Digital Network](https://jobright.ai/jobs/info/671375ad2c174b795a6be9ed?utm_campaign=1053&utm_source=git)** | Lawrenceville, GA | On Site | Oct 19 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Bartley Fellowship - Book Review Internship](https://jobright.ai/jobs/info/66f6113cc046fe194e857ea4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Community Engagement Intern, Spring 2025](https://jobright.ai/jobs/info/671335820544fb1b2283e8f3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Oct 18 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Community Engagement Intern, Spring 2025](https://jobright.ai/jobs/info/671332ccb007540972f43915?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Oct 18 |
 | **[Epic Games](http://www.epicgames.com)** | **[Technical Character Animation Intern](https://jobright.ai/jobs/info/66d895d0fbc4efa67a423dfc?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Oct 18 |
 | **[Fox News Media](http://foxnews.com)** | **[Spring 2025 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[FOX Sports](http://foxsports.com)** | **[Spring 2025 FOX Internship Program - Sports Production - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
