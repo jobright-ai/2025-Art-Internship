@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[Intern - 2025 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/6718ca6deb7ee3546fb0bab3?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Oct 23 |
 | **[Paramount Global](https://www.paramountglobal.com/)** | **[THE LATE SHOW WITH STEPHEN COLBERT - SPRING 2025 INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/6718b77c54ac44dc3e8fb747?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Content & Editorial Internship, Spring 2025](https://jobright.ai/jobs/info/6718a25200b6c8199f23f217?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Hybrid | Oct 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67187202d5f9e2df3c0d5430?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Oct 22 |
@@ -101,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6714f0ffb518c5ae1d9de5ba?utm_campaign=1053&utm_source=git)** | Greater Birmingham, Alabama Area | Hybrid | Oct 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Television Unscripted & Alternative Entertainment Intern, Spring 2025](https://jobright.ai/jobs/info/6714e3a1a4d06a1ca9ac9e43?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 20 |
 | ↳ | **[WPVI-TV (6abc) Community Engagement Intern, Spring 2025](https://jobright.ai/jobs/info/6714eb134e8e2d0c548a6e20?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 20 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/664de06a0790ade97e15e7b9?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Oct 20 |
 | **[The Inn at Little Washington](http://theinnatlittlewashington.com)** | **[Culinary  Internship](https://jobright.ai/jobs/info/67149114e6253230532a60ed?utm_campaign=1053&utm_source=git)** | Washington, VA | On Site | Oct 19 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/671484b251d2707bee57c9a2?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Oct 19 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Real Estate Reporting Internship, New York (Summer 2025)](https://jobright.ai/jobs/info/66f7167d53924c5339729a66?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 19 |
@@ -129,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Television Unscripted & Alternative Entertainment Intern, Spring 2025](https://jobright.ai/jobs/info/6712eb94fb75ef22c52f9e01?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Oct 18 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Spring 2025 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c5703?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Student Assistant - WSOU Community Programming Producer 2024/25](https://jobright.ai/jobs/info/6712ef44d9db9a793458c078?utm_campaign=1053&utm_source=git)** | South Orange, NJ | On Site | Oct 18 |
-| **[The New York Times](https://www.nytco.com/)** | **[Editorial Projects, Wirecutter Intern](https://jobright.ai/jobs/info/6712dd617c526ca553713989?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
+| **[The New York Times](https://www.nytco.com/)** | **[Editorial Projects, Wirecutter Intern](https://jobright.ai/jobs/info/67131e8ef3235e3cafd3fe0c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Bernard Osei Video Fellow](https://jobright.ai/jobs/info/66d8fa9cf8f43324ff745560?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | Hybrid | Oct 18 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6712d4989d0184949e390d70?utm_campaign=1053&utm_source=git)** | Byron Center, MI | On Site | Oct 18 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern (Events, Community & Retail) - Spring 2025](https://jobright.ai/jobs/info/6712c313e949a0e2403be999?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Electronic Arts (EA)](http://www.ea.com)** | **[Intern, FC Franchise Activation, North America](https://jobright.ai/jobs/info/67173bf16e572ea6bbd6f968?utm_campaign=1053&utm_source=git)** | Redwood City, CA | On Site | Oct 17 |
 | **[The Little Nell](https://www.thelittlenell.com)** | **[Culinary/Pastry Extern - The Little Nell - Summer 2025](https://jobright.ai/jobs/info/671200237fa83172f578b566?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Oct 17 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Guest Experience Intern](https://jobright.ai/jobs/info/67117a28055f87b8669497ad?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Oct 17 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Intern, Golf Course Maintenance](https://jobright.ai/jobs/info/67119f7b3cc45f3b8ada8f9a?utm_campaign=1053&utm_source=git)** | Frisco, TX | Hybrid | Oct 17 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Hulu Originals and ABC Scripted Content Business Affairs JD Intern, Spring 2025](https://jobright.ai/jobs/info/671145fb1afd80a11887182f?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
