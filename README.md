@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Creative and Cultural Diversity Intern, Spring 2025](https://jobright.ai/jobs/info/6719f425e25872cb7aa33ebb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Hybrid | Oct 24 |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/671a0f49e05672774759a36a?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Oct 23 |
 | **[Intapp](http://www.intapp.com)** | **[Client Experience Intern](https://jobright.ai/jobs/info/6719b69a1a140f6aa2638240?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Oct 23 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern (Pacers, Fever & Mad Ants) - Spring 2025](https://jobright.ai/jobs/info/67198c40a03f990a63422ca2?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 23 |
 | ↳ | **[Event Production Intern - Spring 2025](https://jobright.ai/jobs/info/67198c40a03f990a63422c97?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 23 |
+| **[Emerging Tech](https://emergingtech.co)** | **[Assistant Animator and Content Creator Analyst](https://jobright.ai/jobs/info/6719f1cce5dd250a508bb6bc?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern - Unpaid](https://jobright.ai/jobs/info/671969ea3cbe0aee42b8ab66?utm_campaign=1053&utm_source=git)** | Tyler, TX | Hybrid | Oct 23 |
 | **[NEON](https://neonrated.com)** | **[Spring 2025 Internship (General)](https://jobright.ai/jobs/info/671985f6337a40c3b63aa783?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | ↳ | **[Spring 2025 Internship (General)](https://jobright.ai/jobs/info/6719835dfad2abbc753e3d5b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
-| **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Internship – Bowl Week 2024 (12/11/24 – 12/17/24)](https://jobright.ai/jobs/info/6719739889662518e97b31e8?utm_campaign=1053&utm_source=git)** | DFW Metroplex | On Site | Oct 23 |
 | **[Regent University](http://www.regent.edu/)** | **[Student Worker (Music Assistant)](https://jobright.ai/jobs/info/67199387dd6c266bc72598f4?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Oct 23 |
 | **[AARP](http://www.aarp.org)** | **[Archival Intern](https://jobright.ai/jobs/info/67197a03304a535129dfbe9a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
 | **[Business Insider](http://www.businessinsider.com)** | **[Home and Sleep Reviews Editorial Fellow (January 2025)](https://jobright.ai/jobs/info/67197613bac702251a466ddd?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Oct 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BluShark Digital](https://blusharkdigital.com)** | **[Digital Content/Copy Editing Internship (Winter 2024)](https://jobright.ai/jobs/info/671280c3cf14170754280b88?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Oct 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Editorial Intern, Remote, Spring 2025](https://jobright.ai/jobs/info/671261f85dba2bc585e6ec14?utm_campaign=1053&utm_source=git)** | Remote Worker Location, USA | Remote | Oct 18 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Producer (Spring/Summer 2025)](https://jobright.ai/jobs/info/6717847c80073d419549d582?utm_campaign=1053&utm_source=git)** | Fremont, CA | On Site | Oct 18 |
-| **[Fox News Media](http://foxnews.com)** | **[Spring 2025 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/66f68fca00a5e330e44c570e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 18 |
-| ↳ | **[Spring 2025 FOX News Media Internship Program - Technical Operations - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
