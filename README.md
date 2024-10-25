@@ -57,8 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Endeavor](http://www.endeavorco.com/)** | **[UFC Originals Production Intern - Spring 2025](https://jobright.ai/jobs/info/671addc92cd987a02c67141c?utm_campaign=1053&utm_source=git)** | NV-Las Vegas (UFC) | On Site | Oct 24 |
+| ↳ | **[UFC Originals Production Countdown Internship - Spring 2025](https://jobright.ai/jobs/info/671addc92cd987a02c671423?utm_campaign=1053&utm_source=git)** | NV-Las Vegas (UFC) | On Site | Oct 24 |
+| ↳ | **[Spanish Production Intern - Spring 2025](https://jobright.ai/jobs/info/671addc92cd987a02c671426?utm_campaign=1053&utm_source=git)** | NV-Las Vegas (UFC) | On Site | Oct 24 |
+| **[R. Couri Hay Creative PR](https://rcourihay.com)** | **[Editoral Intern](https://jobright.ai/jobs/info/671ac1fe4386b63e4a326769?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Oct 24 |
+| **[uInterview, Inc.](http://uinterview.com)** | **[Writing Intern](https://jobright.ai/jobs/info/671abe6cd048e5f3f482dcca?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 24 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2025](https://jobright.ai/jobs/info/671ab7ffeb3c303a4dde9498?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 24 |
+| ↳ | **[WAVY Unpaid Production Intern, Spring 2025](https://jobright.ai/jobs/info/671ab7ffeb3c303a4dde94a3?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 24 |
+| ↳ | **[WAVY Unpaid Digital Intern, Spring 2025](https://jobright.ai/jobs/info/671ab7ffeb3c303a4dde94ae?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | Hybrid | Oct 24 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Editorial Internships: NYC - Spring 2025](https://jobright.ai/jobs/info/670e20f496835fac2afdc775?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 24 |
+| ↳ | **[CNN International Internships: ATL - Spring 2025](https://jobright.ai/jobs/info/67020858b95466b7f9a45ec0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Sony Pictures Classics Intern - Spring 2025](https://jobright.ai/jobs/info/671addc92cd987a02c6715b8?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Oct 24 |
+| **[Gray Television](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP WINTER '25 - WILX](https://jobright.ai/jobs/info/671ab7ffeb3c303a4dde94b5?utm_campaign=1053&utm_source=git)** | Lansing, MI | On Site | Oct 24 |
+| **[Prime Capital Investment Advisors](https://pciawealth.com)** | **[Summer Intern](https://jobright.ai/jobs/info/66f4c3a697db4190eeeaf390?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Oct 24 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Spring 2025](https://jobright.ai/jobs/info/671a6dfc7c5f56f2fd7de6b9?utm_campaign=1053&utm_source=git)** | Boston | Hybrid | Oct 24 |
-| ↳ | **[GBH News Politics Internship - Spring 2025](https://jobright.ai/jobs/info/671a828e76e18d00f51227b2?utm_campaign=1053&utm_source=git)** | Boston | Hybrid | Oct 24 |
 | ↳ | **[GBH News Digital Team Internship - Spring 2025](https://jobright.ai/jobs/info/671a6dfc7c5f56f2fd7de6ce?utm_campaign=1053&utm_source=git)** | Boston | Hybrid | Oct 24 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Internship – Bowl Week 2024 (12/11/24 – 12/17/24)](https://jobright.ai/jobs/info/671a8373a7ca92c2a6a72aed?utm_campaign=1053&utm_source=git)** | DFW Metroplex | On Site | Oct 24 |
 | **[AARP](http://www.aarp.org)** | **[Archival Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe41?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
@@ -70,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern (Pacers, Fever & Mad Ants) - Spring 2025](https://jobright.ai/jobs/info/67198c40a03f990a63422ca2?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 23 |
 | ↳ | **[Event Production Intern - Spring 2025](https://jobright.ai/jobs/info/67198c40a03f990a63422c97?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 23 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Assistant Animator and Content Creator Analyst](https://jobright.ai/jobs/info/6719f1cce5dd250a508bb6bc?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 23 |
+| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide- Video Design and Editing](https://jobright.ai/jobs/info/66e894bda7f164158f8da260?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Oct 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern - Unpaid](https://jobright.ai/jobs/info/671969ea3cbe0aee42b8ab66?utm_campaign=1053&utm_source=git)** | Tyler, TX | Hybrid | Oct 23 |
 | **[NEON](https://neonrated.com)** | **[Spring 2025 Internship (General)](https://jobright.ai/jobs/info/671985f6337a40c3b63aa783?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | ↳ | **[Spring 2025 Internship (General)](https://jobright.ai/jobs/info/6719835dfad2abbc753e3d5b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
@@ -129,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[The Inn at Little Washington](http://theinnatlittlewashington.com)** | **[Culinary  Internship](https://jobright.ai/jobs/info/67149114e6253230532a60ed?utm_campaign=1053&utm_source=git)** | Washington, VA | On Site | Oct 19 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Real Estate Reporting Internship, New York (Summer 2025)](https://jobright.ai/jobs/info/66f7167d53924c5339729a66?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 19 |
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[Concert Winds Student Set up Crew](https://jobright.ai/jobs/info/67142ddbd036315f58b6585f?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Oct 19 |
-| ↳ | **[Football Operations Student Worker](https://jobright.ai/jobs/info/67142ddbd036315f58b6583c?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Oct 19 |
 | **[Lamar State College-Port Arthur](http://www.lamarpa.edu/)** | **[Student Worker Commercial Music](https://jobright.ai/jobs/info/671445be8a2c53c95e35e82e?utm_campaign=1053&utm_source=git)** | Port Arthur, TX | On Site | Oct 19 |
 | **[Sul Ross State University](http://www.sulross.edu/)** | **[Student Worker - Theatre Costume Shop](https://jobright.ai/jobs/info/671423854bee9faf990e33b6?utm_campaign=1053&utm_source=git)** | Alpine, TX | On Site | Oct 19 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[670 The Score Fall Internship](https://jobright.ai/jobs/info/66c5246e93950544f36d9633?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Oct 19 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Reporting Internship, Technology, San Francisco (Summer 2025)](https://jobright.ai/jobs/info/66f70e139d41a2271991ec99?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 19 |
 | ↳ | **[The Wall Street Journal Corporate Reporting Internship, New York (Summer 2025)](https://jobright.ai/jobs/info/66f70e139d41a2271991ec93?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 19 |
 | **[Starr Insurance](https://starrcompanies.com/)** | **[2025 Starr Summer Intern - Collections](https://jobright.ai/jobs/info/66da244833eaedbd4b1e1ea7?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 19 |
-| **[Peoria Unified School District](http://www.peoriaunified.org)** | **[CTE Student Intern - Film and TV (PUSD students only)](https://jobright.ai/jobs/info/671388d82bb61deb522217e3?utm_campaign=1053&utm_source=git)** | Peoria, AZ | On Site | Oct 19 |
-| **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Intern - Grizzly Digital Network](https://jobright.ai/jobs/info/671375ad2c174b795a6be9ed?utm_campaign=1053&utm_source=git)** | Lawrenceville, GA | On Site | Oct 19 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Bartley Fellowship - Book Review Internship](https://jobright.ai/jobs/info/66f6113cc046fe194e857ea4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Community Engagement Intern, Spring 2025](https://jobright.ai/jobs/info/671335820544fb1b2283e8f3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Oct 18 |
-| **[Epic Games](http://www.epicgames.com)** | **[Technical Character Animation Intern](https://jobright.ai/jobs/info/66d895d0fbc4efa67a423dfc?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Oct 18 |
-| **[Fox News Media](http://foxnews.com)** | **[Spring 2025 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| **[FOX Sports](http://foxsports.com)** | **[Spring 2025 FOX Internship Program - Sports Production - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c56fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Television Unscripted & Alternative Entertainment Intern, Spring 2025](https://jobright.ai/jobs/info/6712eb94fb75ef22c52f9e01?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Oct 18 |
-| **[Fox Entertainment](http://www.fox.com/)** | **[Spring 2025 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c5703?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| **[Seton Hall University](http://www.shu.edu/)** | **[Student Assistant - WSOU Community Programming Producer 2024/25](https://jobright.ai/jobs/info/6712ef44d9db9a793458c078?utm_campaign=1053&utm_source=git)** | South Orange, NJ | On Site | Oct 18 |
-| **[The New York Times](https://www.nytco.com/)** | **[Editorial Projects, Wirecutter Intern](https://jobright.ai/jobs/info/67131e8ef3235e3cafd3fe0c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| **[Forbes](https://www.forbesmagazine.com)** | **[Bernard Osei Video Fellow](https://jobright.ai/jobs/info/66d8fa9cf8f43324ff745560?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
