@@ -156,5 +156,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6715ecc43bfff68bc75560be?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Oct 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern I, News](https://jobright.ai/jobs/info/6672e80cd742a3597e9aba0f?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Oct 20 |
 | **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern-Red Owl Tavern](https://jobright.ai/jobs/info/6677b8ec9c2d9fa5bf08966b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 20 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/664dffe7d79e0cf76550113b?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
