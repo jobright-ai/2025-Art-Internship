@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Physical Production Intern, Sony Pictures Television – Spring 2025](https://jobright.ai/jobs/info/671d4e97b7557c11cbaa9327?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Oct 26 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/6700a01e7645b912c43b1ff3?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN News Show Team Internships: NYC - Spring 2025](https://jobright.ai/jobs/info/6700a01e7645b912c43b1ff7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 26 |
 | ↳ | **[CNNi Business Show Teams Internships: NYC - Spring 2025](https://jobright.ai/jobs/info/6700a4d0fd5656cec3f096a9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 26 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Sony Pictures Classics Intern - Spring 2025](https://jobright.ai/jobs/info/671c0b38346faa4396531078?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 25 |
 | **[Intapp](http://www.intapp.com)** | **[Client Experience Intern](https://jobright.ai/jobs/info/671c06c1770d55369bd60af2?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Oct 25 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - 508 Club Intern - Spring 2025](https://jobright.ai/jobs/info/671bef9ace560b050e03c4ba?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Oct 25 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Physical Production Intern, Sony Pictures Television – Spring 2025](https://jobright.ai/jobs/info/671bd35c7d8efd924f44de0c?utm_campaign=1053&utm_source=git)** | Culver City, California | Hybrid | Oct 25 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Physical Production Intern, Sony Pictures Television – Spring 2025](https://jobright.ai/jobs/info/671bd35c7d8efd924f44ddf5?utm_campaign=1053&utm_source=git)** | Culver City, California | Hybrid | Oct 25 |
 | **[Deseret Book Company](https://deseretbook.com)** | **[Photojournalism internship - Deseret News](https://jobright.ai/jobs/info/671be4d952cd97e69d15c9e2?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Creative and Cultural Diversity Intern, Spring 2025](https://jobright.ai/jobs/info/671bd3b8ebf0457a6a8479f7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Photojournalism Internship - Spring 2025](https://jobright.ai/jobs/info/671bb2c896b0597ee29980aa?utm_campaign=1053&utm_source=git)** | Boston | Hybrid | Oct 25 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/66e07d438f4771d7f6c66f48?utm_campaign=1053&utm_source=git)** | Bloomington, IL | Hybrid | Oct 24 |
 | **[VX Media LLC](https://www.vxmedia.co)** | **[Producer Intern](https://jobright.ai/jobs/info/671af3474eb3e498b0f972ec?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Spring 2025](https://jobright.ai/jobs/info/671afc7567b5841dd56a73be?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 24 |
-| **[Endeavor](http://www.endeavorco.com/)** | **[Spanish Production Intern - Spring 2025](https://jobright.ai/jobs/info/671addc92cd987a02c671426?utm_campaign=1053&utm_source=git)** | NV-Las Vegas (UFC) | On Site | Oct 24 |
-| ↳ | **[UFC Originals Production Intern - Spring 2025](https://jobright.ai/jobs/info/671addc92cd987a02c67141c?utm_campaign=1053&utm_source=git)** | NV-Las Vegas (UFC) | On Site | Oct 24 |
+| **[Endeavor](http://www.endeavorco.com/)** | **[UFC Originals Production Intern - Spring 2025](https://jobright.ai/jobs/info/671addc92cd987a02c67141c?utm_campaign=1053&utm_source=git)** | NV-Las Vegas (UFC) | On Site | Oct 24 |
+| ↳ | **[Spanish Production Intern - Spring 2025](https://jobright.ai/jobs/info/671addc92cd987a02c671426?utm_campaign=1053&utm_source=git)** | NV-Las Vegas (UFC) | On Site | Oct 24 |
 | ↳ | **[UFC Originals Production Countdown Internship - Spring 2025](https://jobright.ai/jobs/info/671addc92cd987a02c671423?utm_campaign=1053&utm_source=git)** | NV-Las Vegas (UFC) | On Site | Oct 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Newsroom Intern, Spring 2025](https://jobright.ai/jobs/info/671ae85d3bc7f25709273e11?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 24 |
 | **[uInterview, Inc.](http://uinterview.com)** | **[Writing Intern](https://jobright.ai/jobs/info/671abe6cd048e5f3f482dcca?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/664dffe7d79e0cf76550113b?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Oct 20 |
 | ↳ | **[Intern, News](https://jobright.ai/jobs/info/66fcb6b1aec149e711366c16?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Oct 20 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/66f8da42d64ff782ce091ef0?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Oct 20 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/65e86d33edfa37cc1cffc3f6?utm_campaign=1053&utm_source=git)** | Fresno, CA | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
