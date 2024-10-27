@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/671dbf43e2d7dc30039506d0?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Oct 26 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Physical Production Intern, Sony Pictures Television – Spring 2025](https://jobright.ai/jobs/info/671d4e97b7557c11cbaa9327?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Oct 26 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/6700a01e7645b912c43b1ff3?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN News Show Team Internships: NYC - Spring 2025](https://jobright.ai/jobs/info/6700a01e7645b912c43b1ff7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 26 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CNN News Show Team Internships: DC - Spring 2025](https://jobright.ai/jobs/info/6700a2d8f063fa8920d463a9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 26 |
 | **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[Newsroom Internship Program (Summer 2025)](https://jobright.ai/jobs/info/671cc9146627754d970697bc?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Hybrid | Oct 26 |
 | **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Golf Intern-Summer 2025](https://jobright.ai/jobs/info/671cd57a01739bde833c02d9?utm_campaign=1053&utm_source=git)** | Lake Geneva, WI | On Site | Oct 26 |
+| **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Internship](https://jobright.ai/jobs/info/671e04c30f95d91749ad6378?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Oct 26 |
 | **[Kaplan](http://www.kaplan.com)** | **[Student Content Creator - Arizona State University - Polytechnic Campus](https://jobright.ai/jobs/info/671c3f74ab9ed310e876dd52?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | Oct 25 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Production Spring Intern](https://jobright.ai/jobs/info/671c36345039a4345df8cc61?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Oct 25 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - 508 Club Intern - Spring 2025](https://jobright.ai/jobs/info/671c4ac1aa1ee2e81753f907?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Oct 25 |
@@ -74,11 +76,11 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Sony Pictures Classics Intern - Spring 2025](https://jobright.ai/jobs/info/671c0b38346faa4396531078?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 25 |
 | **[Intapp](http://www.intapp.com)** | **[Client Experience Intern](https://jobright.ai/jobs/info/671c06c1770d55369bd60af2?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Oct 25 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - 508 Club Intern - Spring 2025](https://jobright.ai/jobs/info/671bef9ace560b050e03c4ba?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Oct 25 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Physical Production Intern, Sony Pictures Television – Spring 2025](https://jobright.ai/jobs/info/671bd35c7d8efd924f44de0c?utm_campaign=1053&utm_source=git)** | Culver City, California | Hybrid | Oct 25 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Physical Production Intern, Sony Pictures Television – Spring 2025](https://jobright.ai/jobs/info/671bd35c7d8efd924f44ddf5?utm_campaign=1053&utm_source=git)** | Culver City, California | Hybrid | Oct 25 |
 | **[Deseret Book Company](https://deseretbook.com)** | **[Photojournalism internship - Deseret News](https://jobright.ai/jobs/info/671be4d952cd97e69d15c9e2?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Creative and Cultural Diversity Intern, Spring 2025](https://jobright.ai/jobs/info/671bd3b8ebf0457a6a8479f7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News "Under the Radar" Internship - Spring 2025](https://jobright.ai/jobs/info/671bb2c896b0597ee29980b0?utm_campaign=1053&utm_source=git)** | Boston | Hybrid | Oct 25 |
-| ↳ | **[GBH News Photojournalism Internship - Spring 2025](https://jobright.ai/jobs/info/671bb2c896b0597ee29980aa?utm_campaign=1053&utm_source=git)** | Boston | Hybrid | Oct 25 |
+| **[GBH](http://www.wgbh.org/)** | **[GBH News Photojournalism Internship - Spring 2025](https://jobright.ai/jobs/info/671bb2c896b0597ee29980aa?utm_campaign=1053&utm_source=git)** | Boston | Hybrid | Oct 25 |
+| ↳ | **[GBH News "Under the Radar" Internship - Spring 2025](https://jobright.ai/jobs/info/671bb2c896b0597ee29980b0?utm_campaign=1053&utm_source=git)** | Boston | Hybrid | Oct 25 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/66e07d438f4771d7f6c66f48?utm_campaign=1053&utm_source=git)** | Bloomington, IL | Hybrid | Oct 24 |
 | **[VX Media LLC](https://www.vxmedia.co)** | **[Producer Intern](https://jobright.ai/jobs/info/671af3474eb3e498b0f972ec?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Spring 2025](https://jobright.ai/jobs/info/671afc7567b5841dd56a73be?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 24 |
@@ -133,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Gray Television](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WCJB](https://jobright.ai/jobs/info/6712d92d9838c0031aed6ac2?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Oct 22 |
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - KBJR](https://jobright.ai/jobs/info/67181739c3df6c45bbd3dce0?utm_campaign=1053&utm_source=git)** | Duluth, MN | On Site | Oct 22 |
 | **[Smithsonian Environmental Research Center](https://serc.si.edu)** | **[Spring Science Writing Intern](https://jobright.ai/jobs/info/67181d75dd3b144bfc930d40?utm_campaign=1053&utm_source=git)** | Edgewater, MD | On Site | Oct 22 |
-| **[Sporting Kansas City](http://www.sportingkc.com)** | **[Stadium and Event Operations Intern - Spring 2025](https://jobright.ai/jobs/info/6717ddeef3de2aa16fd13100?utm_campaign=1053&utm_source=git)** | Children's Mercy Park Kansas City, KS 66111 | On Site | Oct 22 |
-| ↳ | **[Stadium and Event Operations Intern - Spring 2025](https://jobright.ai/jobs/info/6717ddeef3de2aa16fd130bd?utm_campaign=1053&utm_source=git)** | Kansas City, Kansas | On Site | Oct 22 |
+| **[Sporting Kansas City](http://www.sportingkc.com)** | **[Stadium and Event Operations Intern - Spring 2025](https://jobright.ai/jobs/info/6717ddeef3de2aa16fd130bd?utm_campaign=1053&utm_source=git)** | Kansas City, Kansas | On Site | Oct 22 |
+| ↳ | **[Stadium and Event Operations Intern - Spring 2025](https://jobright.ai/jobs/info/6717ddeef3de2aa16fd13100?utm_campaign=1053&utm_source=git)** | Children's Mercy Park Kansas City, KS 66111 | On Site | Oct 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Content Creator & Writer College Associate](https://jobright.ai/jobs/info/6717d81a850554eefb2d0ff9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 22 |
 | ↳ | **[Content Creator & Writer College Associate](https://jobright.ai/jobs/info/6717d085464d6d69c4900afd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Oct 22 |
 | **[The Athletic](https://theathletic.com/)** | **[MLB Student Intern, Summer 2025](https://jobright.ai/jobs/info/6717c651a2f003e1a3b6f045?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 22 |
@@ -155,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern I, News](https://jobright.ai/jobs/info/6672e80cd742a3597e9aba0f?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Oct 20 |
 | **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern-Red Owl Tavern](https://jobright.ai/jobs/info/6677b8ec9c2d9fa5bf08966b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/664dffe7d79e0cf76550113b?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Oct 20 |
-| ↳ | **[Intern, News](https://jobright.ai/jobs/info/66fcb6b1aec149e711366c16?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
