@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[US Networks Digital Video Intern: LA - Spring 2025](https://jobright.ai/jobs/info/67078d0721156ca41afaa0e1?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 31 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[HR Video Production Co-op Spring 2025](https://jobright.ai/jobs/info/67232b16414b5bdc17bade16?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Oct 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6723024535508e8b1e333ac3?utm_campaign=1053&utm_source=git)** | Johnson City, TN | On Site | Oct 30 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6723024535508e8b1e333ac7?utm_campaign=1053&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Oct 30 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[[Spring 2025] Research Resources - Archives Internship](https://jobright.ai/jobs/info/67219c80b16b7eea82821b5d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - The Friend Digital Messaging (Church Magazines)](https://jobright.ai/jobs/info/67218d75f6a9aef2c68effa8?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 29 |
 | ↳ | **[Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67218d75f6a9aef2c68eff90?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 29 |
-| ↳ | **[Part Time Paid Intern – Youth Messaging Digital Editorial (Church Magazines)](https://jobright.ai/jobs/info/67218d75f6a9aef2c68eff99?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 29 |
 | ↳ | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67218d75f6a9aef2c68eff93?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 29 |
+| ↳ | **[Part Time Paid Intern – Youth Messaging Digital Editorial (Church Magazines)](https://jobright.ai/jobs/info/67218d75f6a9aef2c68eff99?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 29 |
 | ↳ | **[Paid Intern - For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67217c5f6e04d36e1a77ba9f?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 29 |
 | ↳ | **[Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67217c5f6e04d36e1a77ba92?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 29 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, SXM Podcasts - Part - Time](https://jobright.ai/jobs/info/67217134d8e0eee1fecc0ed9?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb7f?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 29 |
 | ↳ | **[Spring Intern, College Sports (HBCU) - Part-Time](https://jobright.ai/jobs/info/67216245714df3bed04bceda?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Oct 29 |
 | ↳ | **[Spring Intern, Podcast Production - HBCU - Part-Time](https://jobright.ai/jobs/info/67216245714df3bed04bcecb?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Oct 29 |
-| **[Gray Television](http://www.gray.tv)** | **[GRAY TELEVISION INTERNSHIP FALL '24 - WAGM](https://jobright.ai/jobs/info/672141f229016283ac9b8251?utm_campaign=1053&utm_source=git)** | Presque Isle, ME | On Site | Oct 29 |
-| ↳ | **[ASSEMBLY ATLANTA SUMMER 2025 FILM INTERNSHIP - ASSEMBLY STUDIOS](https://jobright.ai/jobs/info/672141f229016283ac9b824a?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 29 |
+| **[Gray Television](http://www.gray.tv)** | **[ASSEMBLY ATLANTA SUMMER 2025 FILM INTERNSHIP - ASSEMBLY STUDIOS](https://jobright.ai/jobs/info/672141f229016283ac9b824a?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 29 |
+| ↳ | **[GRAY TELEVISION INTERNSHIP FALL '24 - WAGM](https://jobright.ai/jobs/info/672141f229016283ac9b8251?utm_campaign=1053&utm_source=git)** | Presque Isle, ME | On Site | Oct 29 |
 | **[Intermountain Health](http://intermountainhealthcare.org/Pages/home.aspx)** | **[Volunteer - Music PCH](https://jobright.ai/jobs/info/6721e615bfec2f2e0c45a9ae?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Experiences Communications Events Intern, Spring 2025](https://jobright.ai/jobs/info/672119993f31b50b189a77f1?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | Hybrid | Oct 29 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/672121e3c738372855ceb991?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Oct 29 |
@@ -148,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Entertainment Fall Intern 2](https://jobright.ai/jobs/info/66c7c3dbe9f0701d09066a12?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Oct 26 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Physical Production Intern, Sony Pictures Television – Spring 2025](https://jobright.ai/jobs/info/671d4e97b7557c11cbaa9327?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Oct 26 |
 | **[Gray Television](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WEAU](https://jobright.ai/jobs/info/671960d19f82614eef8e6bb9?utm_campaign=1053&utm_source=git)** | Eau Claire, WI | On Site | Oct 26 |
+| ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - KBJR](https://jobright.ai/jobs/info/67181739c3df6c45bbd3dce0?utm_campaign=1053&utm_source=git)** | Duluth, MN | On Site | Oct 26 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/6700a01e7645b912c43b1ff3?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN News Show Team Internships: NYC - Spring 2025](https://jobright.ai/jobs/info/6700a01e7645b912c43b1ff7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 26 |
 | ↳ | **[CNNi Business Show Teams Internships: NYC - Spring 2025](https://jobright.ai/jobs/info/6700a4d0fd5656cec3f096a9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[Newsroom Internship Program (Summer 2025)](https://jobright.ai/jobs/info/671cc9146627754d970697bc?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Hybrid | Oct 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/66fe796a898490cd493d2e2e?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | Oct 26 |
 | **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Golf Intern-Summer 2025](https://jobright.ai/jobs/info/671cd57a01739bde833c02d9?utm_campaign=1053&utm_source=git)** | Lake Geneva, WI | On Site | Oct 26 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/66e167cbf829845ded3ae041?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Oct 25 |
-| **[Kaplan](http://www.kaplan.com)** | **[Student Content Creator - Arizona State University - Polytechnic Campus](https://jobright.ai/jobs/info/671c3f74ab9ed310e876dd52?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
