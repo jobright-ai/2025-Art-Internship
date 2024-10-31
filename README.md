@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gray Television](http://www.gray.tv)** | **[SPRING 2025 GRAY MEDIA TRAINING CENTER PROGRAM INTERNSHIP - WLBT](https://jobright.ai/jobs/info/6722e49ddcc0f2299e8fbcd1?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Oct 30 |
 | **[NFHS](http://www.nfhs.org)** | **[Intern - NFHS Publications & Communications](https://jobright.ai/jobs/info/6722c0b8c248ca63d1cd3bf7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 30 |
 | **[Sage](https://group.sagepub.com)** | **[LD+A Magazine Intern](https://jobright.ai/jobs/info/6722c0b8c248ca63d1cd3bf4?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Yahoo](http://www.yahoo.com)** | **[All Yahoo Editorial Internships (US) - Apply Here!](https://jobright.ai/jobs/info/6722a74125a4c2221de728cf?utm_campaign=1053&utm_source=git)** | United States of America - Remote | Remote | Oct 30 |
 | **[University of Nevada, Reno](http://www.unr.edu/)** | **[Student Worker - Student Writer, Office of Marketing & Communications](https://jobright.ai/jobs/info/672299fd0535c02786d6e95e?utm_campaign=1053&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Oct 30 |
 | **[Gray Television](http://www.gray.tv)** | **[INTERN H - Gray Television Future Focus December 2024 Intern](https://jobright.ai/jobs/info/6722b4671e2ea8bba46a96a8?utm_campaign=1053&utm_source=git)** | Wilmington, NC | On Site | Oct 30 |
+| **[McClatchy](https://www.mcclatchy.com/)** | **[News Intern Reporter - SLO](https://jobright.ai/jobs/info/6722e995e6dddeffcdab05bc?utm_campaign=1053&utm_source=git)** | San Luis Obispo, CA | On Site | Oct 30 |
 | **[Philadelphia Phillies](http://phillies.mlb.com)** | **[Major League Video & Technology Associate](https://jobright.ai/jobs/info/6722936699b671217fb3ba35?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 30 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Internship - Bowl Week (12/11/24 - 12/17/24)](https://jobright.ai/jobs/info/67226e2cf5c754f4d7193825?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Oct 30 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hersheypark Entertainment Complex Culinary Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/6722819002aa0cc9ffa05695?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Oct 30 |
@@ -97,14 +99,14 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, SXM Podcasts - Part - Time](https://jobright.ai/jobs/info/67217134d8e0eee1fecc0ed9?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | ↳ | **[Spring Intern, Music Production - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeba5?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Oct 29 |
 | ↳ | **[Spring Intern, HBCU Podcast Producer - Part - Time](https://jobright.ai/jobs/info/672169287987123849ebeb97?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Oct 29 |
-| ↳ | **[Spring Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb82?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | ↳ | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb9f?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
+| ↳ | **[Spring Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb82?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | ↳ | **[Spring Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb72?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | ↳ | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb7f?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 29 |
 | ↳ | **[Spring Intern, College Sports (HBCU) - Part-Time](https://jobright.ai/jobs/info/67216245714df3bed04bceda?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Oct 29 |
 | ↳ | **[Spring Intern, Podcast Production - HBCU - Part-Time](https://jobright.ai/jobs/info/67216245714df3bed04bcecb?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Oct 29 |
-| **[Gray Television](http://www.gray.tv)** | **[GRAY TELEVISION INTERNSHIP FALL '24 - WAGM](https://jobright.ai/jobs/info/672141f229016283ac9b8251?utm_campaign=1053&utm_source=git)** | Presque Isle, ME | On Site | Oct 29 |
-| ↳ | **[ASSEMBLY ATLANTA SUMMER 2025 FILM INTERNSHIP - ASSEMBLY STUDIOS](https://jobright.ai/jobs/info/672141f229016283ac9b824a?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 29 |
+| **[Gray Television](http://www.gray.tv)** | **[ASSEMBLY ATLANTA SUMMER 2025 FILM INTERNSHIP - ASSEMBLY STUDIOS](https://jobright.ai/jobs/info/672141f229016283ac9b824a?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 29 |
+| ↳ | **[GRAY TELEVISION INTERNSHIP FALL '24 - WAGM](https://jobright.ai/jobs/info/672141f229016283ac9b8251?utm_campaign=1053&utm_source=git)** | Presque Isle, ME | On Site | Oct 29 |
 | **[Intermountain Health](http://intermountainhealthcare.org/Pages/home.aspx)** | **[Volunteer - Music PCH](https://jobright.ai/jobs/info/6721e615bfec2f2e0c45a9ae?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Experiences Communications Events Intern, Spring 2025](https://jobright.ai/jobs/info/672119993f31b50b189a77f1?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | Hybrid | Oct 29 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/672121e3c738372855ceb991?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Oct 29 |
@@ -147,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[Newsroom Internship Program (Summer 2025)](https://jobright.ai/jobs/info/671cc9146627754d970697bc?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Hybrid | Oct 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern](https://jobright.ai/jobs/info/66fe796a898490cd493d2e2e?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | Oct 26 |
 | **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Golf Intern-Summer 2025](https://jobright.ai/jobs/info/671cd57a01739bde833c02d9?utm_campaign=1053&utm_source=git)** | Lake Geneva, WI | On Site | Oct 26 |
-| **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Internship](https://jobright.ai/jobs/info/671e04c30f95d91749ad6378?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Oct 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/66e167cbf829845ded3ae041?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Oct 25 |
 | **[Kaplan](http://www.kaplan.com)** | **[Student Content Creator - Arizona State University - Polytechnic Campus](https://jobright.ai/jobs/info/671c3f74ab9ed310e876dd52?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | Oct 25 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Production Spring Intern](https://jobright.ai/jobs/info/671c36345039a4345df8cc61?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Oct 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Court Reporter](https://jobright.ai/jobs/info/671c1f17e1adde146d3fdab3?utm_campaign=1053&utm_source=git)** | Farmington, MO | On Site | Oct 25 |
 | **[Kaplan](http://www.kaplan.com)** | **[Student Content Creator - Arizona State University - Polytechnic Campus](https://jobright.ai/jobs/info/671c040ec283e8839bb363aa?utm_campaign=1053&utm_source=git)** | KAP Phoenix ASU | Hybrid | Oct 25 |
 | **[Regent University](http://www.regent.edu/)** | **[Graduate Assistant (Media & Visual Arts: Equipment Office)](https://jobright.ai/jobs/info/671c0e15cb8128a666e03fcd?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Oct 25 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Sony Pictures Classics Intern - Spring 2025](https://jobright.ai/jobs/info/671c0b38346faa4396531078?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
