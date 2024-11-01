@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Chocolatier Culinary Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/67251f20a97472deb2e1f5bc?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Nov 01 |
+| **[Duolingo](https://www.duolingo.com)** | **[2D Character Animator, Thrive Intern](https://jobright.ai/jobs/info/67239265f9133d63e2e0da92?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 01 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6725276420b35fa9d1c9400b?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Nov 01 |
 | **[Sentry](https://www.sentry.com/)** | **[Brand Journalist Internship- Summer 2025](https://jobright.ai/jobs/info/66eb8dee61391f561b918289?utm_campaign=1053&utm_source=git)** | Stevens Point, WI | Hybrid | Nov 01 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Oak Park Mall](https://jobright.ai/jobs/info/6724b0ac95a947eb920c2609?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Nov 01 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship Spring 2025 - Dallas-Ft. Worth](https://jobright.ai/jobs/info/66ec7c3ad4c205834a967f3a?utm_campaign=1053&utm_source=git)** | Grapevine, TX | On Site | Nov 01 |
-| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/67248e984e517bd541c87032?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
-| ↳ | **[Intern, Video Production & ThunderVision](https://jobright.ai/jobs/info/67248c2dd7f773c2272dcf54?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Video Production & ThunderVision](https://jobright.ai/jobs/info/67248c2dd7f773c2272dcf54?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios Hair Tools Intern, Summer 2025](https://jobright.ai/jobs/info/67247fa99463adf0bc6398f7?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Nov 01 |
 | **[Wilderness Resort in Wisconsin Dells](https://www.wildernessresort.com)** | **[Wild Rock Golf Maintenance Internship Summer 2025](https://jobright.ai/jobs/info/6724a233f6cca8149fc684b7?utm_campaign=1053&utm_source=git)** | Wisconsin Dells, WI | On Site | Nov 01 |
 | **[GreenTomatoMedia](http://www.greentomatomedia.com)** | **[YouTube-Video-Editor (Praktikant)](https://jobright.ai/jobs/info/67248c2dd7f773c2272dcfe5?utm_campaign=1053&utm_source=git)** | Guernsey, WY | On Site | Oct 31 |
@@ -77,10 +79,9 @@ For a complete list, click the following sortable link below:
 | **[Gray Television](http://www.gray.tv)** | **[GRAY TELEVISION FUTURE FOCUS INTERN SPRING '25 - WBKO](https://jobright.ai/jobs/info/6723f2dadd551391920c4901?utm_campaign=1053&utm_source=git)** | Bowling Green, KY | On Site | Oct 31 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Production Spring Intern](https://jobright.ai/jobs/info/6723c3c6a9a8ef24d3598754?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | ↳ | **[Authentic Studios Spring Intern](https://jobright.ai/jobs/info/6723b45ecc7aa61704fdde40?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 31 |
+| **[Duolingo](https://www.duolingo.com)** | **[2D Character Animator, Thrive Intern](https://jobright.ai/jobs/info/672393e1b93914133bc874f6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6723c3c6a9a8ef24d35988f0?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Oct 31 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7 and Telemundo 20) News Internship - Spring 2025](https://jobright.ai/jobs/info/6723c0eaac433bc97fa3d467?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Oct 31 |
-| **[Duolingo](https://www.duolingo.com)** | **[Animator, Thrive Intern](https://jobright.ai/jobs/info/672393e1b93914133bc874f6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
-| ↳ | **[Animator, Thrive Intern](https://jobright.ai/jobs/info/67239265f9133d63e2e0da92?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Experiences Communications Events Intern, Spring 2025](https://jobright.ai/jobs/info/6723e14fbec60055655cc921?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Oct 31 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[US Networks Digital Video Intern: LA - Spring 2025](https://jobright.ai/jobs/info/67078d0721156ca41afaa0e1?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 31 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[HR Video Production Co-op Spring 2025](https://jobright.ai/jobs/info/67232b16414b5bdc17bade16?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Oct 30 |
@@ -148,6 +149,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ice Cream Maker and Customer Service Internship in an Ice Cream Shop in Benalmadena (Málaga)](https://jobright.ai/jobs/info/672112bea255d787770ccf01?utm_campaign=1053&utm_source=git)** | Malaga, WA | On Site | Oct 29 |
 | ↳ | **[Animation/ Reception/ Bar and Restaurant/ Culinary Internships in a 4* Hotel in Costa del Sol, Spain](https://jobright.ai/jobs/info/67210314fb7f61330820d798?utm_campaign=1053&utm_source=git)** | Malaga, WA | On Site | Oct 29 |
 | **[Financial Times](http://ft.com)** | **[US Newsroom Summer Intern](https://jobright.ai/jobs/info/6720f1302b17f0f92c05d14d?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Oct 29 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6704b5999860709ccb4d3fb2?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Oct 29 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/67208698a9e65de7bcf4d1ef?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Oct 28 |
 | **[Highgate](https://www.highgate.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/672134b1b60ed1194e46db63?utm_campaign=1053&utm_source=git)** | 20 Nassau St., Princeton, NJ, US | On Site | Oct 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Archive Intern](https://jobright.ai/jobs/info/67204cc6c572d46b14cd25a2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Spring - Event Operations](https://jobright.ai/jobs/info/6720596b1e30b0042127dded?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Oct 28 |
 | **[Gray Television](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WTVM](https://jobright.ai/jobs/info/672043c6e82137e096e2cc49?utm_campaign=1053&utm_source=git)** | Columbus, GA | On Site | Oct 28 |
-| ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP WINTER '25 - WXIX](https://jobright.ai/jobs/info/672043c6e82137e096e2cc3a?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Oct 28 |
-| **[Southeast Toyota Finance](https://www.setf.com/)** | **[Intern, Event Planner](https://jobright.ai/jobs/info/67200cd55b32415c5ffad7e2?utm_campaign=1053&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
