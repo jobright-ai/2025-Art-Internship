@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Events Intern Summer 2025](https://jobright.ai/jobs/info/6726fa12c506da192bb9346e?utm_campaign=1053&utm_source=git)** | Lake Geneva, WI | On Site | Nov 02 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2025](https://jobright.ai/jobs/info/6726212dd33e411863be17dc?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Nov 02 |
 | **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern-Red Owl Tavern](https://jobright.ai/jobs/info/66b3e61915e6938a95bca3be?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 02 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[2025 Louis Vuitton Internship](https://jobright.ai/jobs/info/6726170744383f2b1ff51b4b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 02 |
@@ -106,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[Gray Television](http://www.gray.tv)** | **[GRAY TELEVISION FUTURE FOCUS INTERN SPRING '25 - WBKO](https://jobright.ai/jobs/info/6723f2dadd551391920c4901?utm_campaign=1053&utm_source=git)** | Bowling Green, KY | On Site | Oct 31 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Production Spring Intern](https://jobright.ai/jobs/info/6723c3c6a9a8ef24d3598754?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | ↳ | **[Authentic Studios Spring Intern](https://jobright.ai/jobs/info/6723b45ecc7aa61704fdde40?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 31 |
-| **[Duolingo](https://www.duolingo.com)** | **[2D Character Animator, Thrive Intern](https://jobright.ai/jobs/info/672393e1b93914133bc874f6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6723c3c6a9a8ef24d35988f0?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Oct 31 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7 and Telemundo 20) News Internship - Spring 2025](https://jobright.ai/jobs/info/6723c0eaac433bc97fa3d467?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Oct 31 |
+| **[Duolingo](https://www.duolingo.com)** | **[Animator, Thrive Intern](https://jobright.ai/jobs/info/672393e1b93914133bc874f6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Experiences Communications Events Intern, Spring 2025](https://jobright.ai/jobs/info/6723e14fbec60055655cc921?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Oct 31 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[US Networks Digital Video Intern: LA - Spring 2025](https://jobright.ai/jobs/info/67078d0721156ca41afaa0e1?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 31 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[HR Video Production Co-op Spring 2025](https://jobright.ai/jobs/info/67232b16414b5bdc17bade16?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Oct 30 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[2025 Intern – Production Assistant](https://jobright.ai/jobs/info/6722380068d7535f8bdcb2e8?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Oct 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Experiences Communications Events Intern, Spring 2025](https://jobright.ai/jobs/info/67222fcb3aac8c43c171127b?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Oct 30 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Brand Storytelling Intern - Summer 2025](https://jobright.ai/jobs/info/672217be659717aba58e4b7c?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Oct 30 |
-| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Podcast Producer (HBCU) - Part - Time](https://jobright.ai/jobs/info/672169287987123849ebeb97?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Oct 30 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WB Games Production MBA Intern: LA - Summer 2025](https://jobright.ai/jobs/info/670548ba6774a37c8d3211f9?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 30 |
 | **[NAACP Legal Defense and Educational Fund, Inc.](http://www.naacpldf.org)** | **[Fall 2024 Archives Internship](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7706?utm_campaign=1053&utm_source=git)** | Utica-Rome Area | Hybrid | Oct 30 |
 | **[CNN](https://www.cnn.com)** | **[CNN Editorial Internships: NYC - Spring 2025](https://jobright.ai/jobs/info/670df7bb7f5ea8875ce6a5fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 30 |
