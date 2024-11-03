@@ -91,6 +91,11 @@ For a complete list, click the following sortable link below:
 | **[GreenTomatoMedia](http://www.greentomatomedia.com)** | **[YouTube-Video-Editor (Praktikant)](https://jobright.ai/jobs/info/67248c2dd7f773c2272dcfe5?utm_campaign=1053&utm_source=git)** | Guernsey, WY | On Site | Oct 31 |
 | ↳ | **[YouTube-Video-Editor (Praktikant)](https://jobright.ai/jobs/info/67248c2dd7f773c2272dd252?utm_campaign=1053&utm_source=git)** | San Marino, CA | On Site | Oct 31 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Culinary Internship - Three Leaf Catering (Temporary)](https://jobright.ai/jobs/info/6724954ed216bf4b7c4a9a4c?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Oct 31 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios Story Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e916191?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
+| ↳ | **[Walt Disney Animation Studios 2D Cleanup Animation Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e916199?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
+| ↳ | **[Walt Disney Animation Studios General TD Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e91618f?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Spring 2025 Intern - Artist Management (Los Angeles)](https://jobright.ai/jobs/info/6726ea4fc834214b8e916190?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Oct 31 |
+| ↳ | **[Spring 2025 Intern - Latin Artist Relations (Distribution)](https://jobright.ai/jobs/info/6726ea4fc834214b8e9161c0?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Oct 31 |
 | **[Answers in Genesis](https://answersingenesis.org)** | **[Exhibit Artist Embark Intern Spring 2025](https://jobright.ai/jobs/info/67258fa70d48628f9f0bd00c?utm_campaign=1053&utm_source=git)** | Petersburg, KY | On Site | Oct 31 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, New Jersey Spring 2025](https://jobright.ai/jobs/info/6724365d41277f0302f94795?utm_campaign=1053&utm_source=git)** | New Jersey, United States | On Site | Oct 31 |
 | ↳ | **[Editorial Internship, Florida Spring 2025](https://jobright.ai/jobs/info/672429729bea1ed07f423022?utm_campaign=1053&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Part Time Paid Intern – Youth Messaging Digital Editorial (Church Magazines)](https://jobright.ai/jobs/info/67218d75f6a9aef2c68eff99?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 29 |
 | ↳ | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67218d75f6a9aef2c68eff93?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 29 |
 | ↳ | **[Paid Intern - For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67217c5f6e04d36e1a77ba9f?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 29 |
-| ↳ | **[Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67217c5f6e04d36e1a77ba92?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 29 |
-| **[KCCI-TV](https://www.kcci.com/)** | **[KCCI News Intern](https://jobright.ai/jobs/info/664e10a710b4f1df299825f8?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Oct 29 |
-| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, SXM Podcasts - Part - Time](https://jobright.ai/jobs/info/67217134d8e0eee1fecc0ed9?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
-| ↳ | **[Spring Intern, Music Production - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeba5?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Oct 29 |
-| ↳ | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb9f?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
