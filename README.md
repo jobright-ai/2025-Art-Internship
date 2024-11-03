@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[Walt Disney Animation Studios Story Intern, Summer 2025](https://jobright.ai/jobs/info/6727a133af6e4c0448af8d6a?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 03 |
+| ↳ | **[Walt Disney Animation Studios General TD Intern, Summer 2025](https://jobright.ai/jobs/info/6727a133af6e4c0448af8d4f?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 03 |
+| ↳ | **[Walt Disney Animation Studios 2D Cleanup Animation Intern, Summer 2025](https://jobright.ai/jobs/info/6727a133af6e4c0448af8d6b?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 03 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Paid Intern - Part Time](https://jobright.ai/jobs/info/67276028df64db6beec87953?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Nov 03 |
 | ↳ | **[Paid Intern - Part Time](https://jobright.ai/jobs/info/67276028df64db6beec87956?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Nov 03 |
 | **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Events Intern Summer 2025](https://jobright.ai/jobs/info/6726fa12c506da192bb9346e?utm_campaign=1053&utm_source=git)** | Lake Geneva, WI | On Site | Nov 02 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Production Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 02 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2025](https://jobright.ai/jobs/info/6726212dd33e411863be17dc?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Nov 02 |
 | **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern-Red Owl Tavern](https://jobright.ai/jobs/info/66b3e61915e6938a95bca3be?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 02 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[2025 Louis Vuitton Internship](https://jobright.ai/jobs/info/6726170744383f2b1ff51b4b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 02 |
@@ -140,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Programming Intern](https://jobright.ai/jobs/info/67224cd2d30ae919a2733974?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 30 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/67224cd2d30ae919a2733983?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 30 |
 | **[Gray Television](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING/SUMMER '25 - WRDW/WAGT](https://jobright.ai/jobs/info/67223ca0ad0bd8bf913276d5?utm_campaign=1053&utm_source=git)** | Augusta, GA | On Site | Oct 30 |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring) - Washington, DC](https://jobright.ai/jobs/info/6705c7b4f5062092d1f9cb50?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 30 |
 | **[IBM](http://www.ibm.com)** | **[2025 Intern – Production Assistant](https://jobright.ai/jobs/info/6722380068d7535f8bdcb2e8?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Oct 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Experiences Communications Events Intern, Spring 2025](https://jobright.ai/jobs/info/67222fcb3aac8c43c171127b?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Oct 30 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Brand Storytelling Intern - Summer 2025](https://jobright.ai/jobs/info/672217be659717aba58e4b7c?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Oct 30 |
@@ -150,11 +155,6 @@ For a complete list, click the following sortable link below:
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, New York Summer 2025](https://jobright.ai/jobs/info/67058af8cabc82dd727d4103?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | ↳ | **[Editorial Internship, New York Spring 2025](https://jobright.ai/jobs/info/67057fab54d45438f2340148?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Oct 30 |
 | ↳ | **[Editorial Internship, California Summer 2025](https://jobright.ai/jobs/info/67057fab54d45438f2340146?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Oct 30 |
-| **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Apprentice Bakery Decorator](https://jobright.ai/jobs/info/66e8c3552527991c16c169f2?utm_campaign=1053&utm_source=git)** | Dedham, MA | On Site | Oct 30 |
 | **[Boston College](http://www.bc.edu/)** | **[Culinary Intern/CATERING](https://jobright.ai/jobs/info/6721ba89d3a1d00f465fd1a4?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | On Site | Oct 29 |
 | **[Bishops Bay Country Club](http://www.bishopsbay.com)** | **[Golf Assistant Intern](https://jobright.ai/jobs/info/67219c80b16b7eea82821748?utm_campaign=1053&utm_source=git)** | Middleton, WI | On Site | Oct 29 |
-| **[Highgate](https://www.highgate.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6721d274f3ae77c97a73190f?utm_campaign=1053&utm_source=git)** | Princeton, NJ | On Site | Oct 29 |
-| **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2025] Curatorial Internship](https://jobright.ai/jobs/info/67219c80b16b7eea82821a89?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
-| ↳ | **[[Spring 2025] Research Resources - Licensing Internship](https://jobright.ai/jobs/info/67219c80b16b7eea82821acf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
-| ↳ | **[[Spring 2025] Research Resources - Archives Internship](https://jobright.ai/jobs/info/67219c80b16b7eea82821b5d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
