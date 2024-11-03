@@ -72,8 +72,11 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/67256c62a774dd297bc34e94?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/67255d0b107054675e62f6bf?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 01 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/6725580c888873b350d457ce?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 01 |
+| **[Fox News Media](http://foxnews.com)** | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6708e7c03812d8882709e78e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 01 |
+| **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/66eb79f05d0f4d9f247f1d67?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Nov 01 |
 | **[Gray Television](http://www.gray.tv)** | **[SPRING 2025 GRAY MEDIA TRAINING CENTER PROGRAM INTERNSHIP - WLBT](https://jobright.ai/jobs/info/6722e49ddcc0f2299e8fbcd1?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Nov 01 |
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WALB](https://jobright.ai/jobs/info/672534f24bb4e3eccac0659c?utm_campaign=1053&utm_source=git)** | Albany, GA | On Site | Nov 01 |
+| **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/66eb74033b477952e26ec128?utm_campaign=1053&utm_source=git)** | Glenview, IL | On Site | Nov 01 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Chocolatier Culinary Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/67251f20a97472deb2e1f5bc?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Nov 01 |
 | **[ButcherBox](https://www.butcherbox.com)** | **[Culinary Studio Intern](https://jobright.ai/jobs/info/66eb5de4bbf3f49862203922?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | Nov 01 |
 | **[Duolingo](https://www.duolingo.com)** | **[2D Character Animator, Thrive Intern](https://jobright.ai/jobs/info/67239265f9133d63e2e0da92?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 01 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[KCCI-TV](https://www.kcci.com/)** | **[KCCI News Intern](https://jobright.ai/jobs/info/664e10a710b4f1df299825f8?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Oct 29 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, SXM Podcasts - Part - Time](https://jobright.ai/jobs/info/67217134d8e0eee1fecc0ed9?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | ↳ | **[Spring Intern, Music Production - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeba5?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Oct 29 |
-| ↳ | **[Spring Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb82?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | ↳ | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb9f?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
-| ↳ | **[Spring Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb72?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
-| ↳ | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb7f?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
