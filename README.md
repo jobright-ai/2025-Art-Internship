@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring 2025 News Internship](https://jobright.ai/jobs/info/672892cc1bae13ecdf57514e?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Nov 04 |
+| ↳ | **[News Internship](https://jobright.ai/jobs/info/672892cc1bae13ecdf57514f?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 04 |
+| **[NEON](https://neonrated.com)** | **[Digital Film Distribution Intern -Spring 2025](https://jobright.ai/jobs/info/6728905e26104d191ec4621a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 04 |
+| **[Paramount Global](https://www.paramountglobal.com/)** | **[THE LATE SHOW WITH STEPHEN COLBERT - SPRING 2025 INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/672888ce730c11ee566439f4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 03 |
+| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[2025 Summer Festival Internships](https://jobright.ai/jobs/info/67287e0bf3296ffeaca41d35?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Nov 03 |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67284bf75d2ab950de2e38de?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 03 |
+| **[The Bernard Group, Inc.](http://www.thebernardgroup.com)** | **[Intern, Videographer](https://jobright.ai/jobs/info/672888ce730c11ee566439a2?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 03 |
 | **[The University of New Mexico](http://unm.edu)** | **[Technical Theatre Intern](https://jobright.ai/jobs/info/6727e2c317b28421aeeff372?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Nov 03 |
+| **[Jooble](https://jooble.org/)** | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.00 - $18.00/HR](https://jobright.ai/jobs/info/67284bf75d2ab950de2e382f?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Nov 03 |
 | **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[Walt Disney Animation Studios Story Intern, Summer 2025](https://jobright.ai/jobs/info/6727a133af6e4c0448af8d6a?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 03 |
 | ↳ | **[Walt Disney Animation Studios General TD Intern, Summer 2025](https://jobright.ai/jobs/info/6727a133af6e4c0448af8d4f?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 03 |
 | ↳ | **[Walt Disney Animation Studios 2D Cleanup Animation Intern, Summer 2025](https://jobright.ai/jobs/info/6727a133af6e4c0448af8d6b?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 03 |
@@ -100,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[GreenTomatoMedia](http://www.greentomatomedia.com)** | **[YouTube-Video-Editor (Praktikant)](https://jobright.ai/jobs/info/67248c2dd7f773c2272dcfe5?utm_campaign=1053&utm_source=git)** | Guernsey, WY | On Site | Oct 31 |
 | ↳ | **[YouTube-Video-Editor (Praktikant)](https://jobright.ai/jobs/info/67248c2dd7f773c2272dd252?utm_campaign=1053&utm_source=git)** | San Marino, CA | On Site | Oct 31 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Culinary Internship - Three Leaf Catering (Temporary)](https://jobright.ai/jobs/info/6724954ed216bf4b7c4a9a4c?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Oct 31 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios Story Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e916191?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
-| ↳ | **[Walt Disney Animation Studios 2D Cleanup Animation Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e916199?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios 2D Cleanup Animation Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e916199?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
+| ↳ | **[Walt Disney Animation Studios Story Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e916191?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
 | ↳ | **[Walt Disney Animation Studios General TD Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e91618f?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Spring 2025 Intern - Artist Management (Los Angeles)](https://jobright.ai/jobs/info/6726ea4fc834214b8e916190?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Oct 31 |
 | ↳ | **[Spring 2025 Intern - Latin Artist Relations (Distribution)](https://jobright.ai/jobs/info/6726ea4fc834214b8e9161c0?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Oct 31 |
@@ -116,9 +124,9 @@ For a complete list, click the following sortable link below:
 | **[Gray Television](http://www.gray.tv)** | **[GRAY TELEVISION FUTURE FOCUS INTERN SPRING '25 - WBKO](https://jobright.ai/jobs/info/6723f2dadd551391920c4901?utm_campaign=1053&utm_source=git)** | Bowling Green, KY | On Site | Oct 31 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Production Spring Intern](https://jobright.ai/jobs/info/6723c3c6a9a8ef24d3598754?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | ↳ | **[Authentic Studios Spring Intern](https://jobright.ai/jobs/info/6723b45ecc7aa61704fdde40?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 31 |
-| **[Duolingo](https://www.duolingo.com)** | **[2D Character Animator, Thrive Intern](https://jobright.ai/jobs/info/672393e1b93914133bc874f6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6723c3c6a9a8ef24d35988f0?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Oct 31 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7 and Telemundo 20) News Internship - Spring 2025](https://jobright.ai/jobs/info/6723c0eaac433bc97fa3d467?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Oct 31 |
+| **[Duolingo](https://www.duolingo.com)** | **[Animator, Thrive Intern](https://jobright.ai/jobs/info/672393e1b93914133bc874f6?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Experiences Communications Events Intern, Spring 2025](https://jobright.ai/jobs/info/6723e14fbec60055655cc921?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Oct 31 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[US Networks Digital Video Intern: LA - Spring 2025](https://jobright.ai/jobs/info/67078d0721156ca41afaa0e1?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 31 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/67059b5a4d58cf251564e0d8?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 31 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring) - Washington, DC](https://jobright.ai/jobs/info/6705c7b4f5062092d1f9cb50?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 30 |
 | **[IBM](http://www.ibm.com)** | **[2025 Intern – Production Assistant](https://jobright.ai/jobs/info/6722380068d7535f8bdcb2e8?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Oct 30 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Brand Storytelling Intern - Summer 2025](https://jobright.ai/jobs/info/672217be659717aba58e4b7c?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Oct 30 |
-| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Podcast Producer (HBCU) - Part - Time](https://jobright.ai/jobs/info/672169287987123849ebeb97?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Oct 30 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[WB Games Production MBA Intern: LA - Summer 2025](https://jobright.ai/jobs/info/670548ba6774a37c8d3211f9?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 30 |
-| **[NAACP Legal Defense and Educational Fund, Inc.](http://www.naacpldf.org)** | **[Fall 2024 Archives Internship](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7706?utm_campaign=1053&utm_source=git)** | Utica-Rome Area | Hybrid | Oct 30 |
-| **[CNN](https://www.cnn.com)** | **[CNN Editorial Internships: NYC - Spring 2025](https://jobright.ai/jobs/info/670df7bb7f5ea8875ce6a5fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 30 |
-| **[POLITICO](http://www.politico.com)** | **[Editorial Internship, New York Summer 2025](https://jobright.ai/jobs/info/67058af8cabc82dd727d4103?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 30 |
-| ↳ | **[Editorial Internship, New York Spring 2025](https://jobright.ai/jobs/info/67057fab54d45438f2340148?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Oct 30 |
-| ↳ | **[Editorial Internship, California Summer 2025](https://jobright.ai/jobs/info/67057fab54d45438f2340146?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Oct 30 |
-| **[Boston College](http://www.bc.edu/)** | **[Culinary Intern/CATERING](https://jobright.ai/jobs/info/6721ba89d3a1d00f465fd1a4?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
