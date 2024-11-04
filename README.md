@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of New Mexico](http://unm.edu)** | **[Technical Theatre Intern](https://jobright.ai/jobs/info/6727e2c317b28421aeeff372?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Nov 03 |
 | **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[Walt Disney Animation Studios Story Intern, Summer 2025](https://jobright.ai/jobs/info/6727a133af6e4c0448af8d6a?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 03 |
 | ↳ | **[Walt Disney Animation Studios General TD Intern, Summer 2025](https://jobright.ai/jobs/info/6727a133af6e4c0448af8d4f?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 03 |
 | ↳ | **[Walt Disney Animation Studios 2D Cleanup Animation Intern, Summer 2025](https://jobright.ai/jobs/info/6727a133af6e4c0448af8d6b?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 03 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[GreenTomatoMedia](http://www.greentomatomedia.com)** | **[YouTube-Video-Editor (Praktikant)](https://jobright.ai/jobs/info/67248c2dd7f773c2272dcfe5?utm_campaign=1053&utm_source=git)** | Guernsey, WY | On Site | Oct 31 |
 | ↳ | **[YouTube-Video-Editor (Praktikant)](https://jobright.ai/jobs/info/67248c2dd7f773c2272dd252?utm_campaign=1053&utm_source=git)** | San Marino, CA | On Site | Oct 31 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Culinary Internship - Three Leaf Catering (Temporary)](https://jobright.ai/jobs/info/6724954ed216bf4b7c4a9a4c?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Oct 31 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios Story Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e916191?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
-| ↳ | **[Walt Disney Animation Studios 2D Cleanup Animation Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e916199?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios 2D Cleanup Animation Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e916199?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
+| ↳ | **[Walt Disney Animation Studios Story Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e916191?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
 | ↳ | **[Walt Disney Animation Studios General TD Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e91618f?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Spring 2025 Intern - Artist Management (Los Angeles)](https://jobright.ai/jobs/info/6726ea4fc834214b8e916190?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Oct 31 |
 | ↳ | **[Spring 2025 Intern - Latin Artist Relations (Distribution)](https://jobright.ai/jobs/info/6726ea4fc834214b8e9161c0?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Oct 31 |
@@ -111,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[UNICEF](https://agora.unicef.org/)** | **[Internship - Junior Archivist, DFAM, New York Headquarters [On-Site Position]](https://jobright.ai/jobs/info/6723faabeda88fc0c0220cf1?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Media Intern, Center for Communications, Media Strategy (Winter/Spring 2025)](https://jobright.ai/jobs/info/672404be8a79e99dcc818ccd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 31 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring 2025 News Internship](https://jobright.ai/jobs/info/6723f2dadd551391920c48fe?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Oct 31 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Comedy Development Intern, SPT – Spring 2025](https://jobright.ai/jobs/info/6706e1f981b7bc3b2ddc5c6f?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Oct 31 |
 | **[Gray Television](http://www.gray.tv)** | **[GRAY TELEVISION FUTURE FOCUS INTERN SPRING '25 - WBKO](https://jobright.ai/jobs/info/6723f2dadd551391920c4901?utm_campaign=1053&utm_source=git)** | Bowling Green, KY | On Site | Oct 31 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Production Spring Intern](https://jobright.ai/jobs/info/6723c3c6a9a8ef24d3598754?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | ↳ | **[Authentic Studios Spring Intern](https://jobright.ai/jobs/info/6723b45ecc7aa61704fdde40?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, New York Summer 2025](https://jobright.ai/jobs/info/67058af8cabc82dd727d4103?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | ↳ | **[Editorial Internship, New York Spring 2025](https://jobright.ai/jobs/info/67057fab54d45438f2340148?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Oct 30 |
 | ↳ | **[Editorial Internship, California Summer 2025](https://jobright.ai/jobs/info/67057fab54d45438f2340146?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Oct 30 |
-| **[Boston College](http://www.bc.edu/)** | **[Culinary Intern/CATERING](https://jobright.ai/jobs/info/6721ba89d3a1d00f465fd1a4?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | On Site | Oct 29 |
-| **[Bishops Bay Country Club](http://www.bishopsbay.com)** | **[Golf Assistant Intern](https://jobright.ai/jobs/info/67219c80b16b7eea82821748?utm_campaign=1053&utm_source=git)** | Middleton, WI | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
