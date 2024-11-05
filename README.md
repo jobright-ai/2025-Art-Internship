@@ -57,14 +57,34 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Activision](https://www.activision.com/)** | **[2025 US Summer Internship - VFX](https://jobright.ai/jobs/info/67297f356abe2e9d5f9cd8e0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 04 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KPIX San Francisco (Summer 2025)](https://jobright.ai/jobs/info/672983bbdcc903eaf125db00?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 04 |
+| **[Paramount](https://www.paramount.com)** | **[Paramount Pictures Internships (Summer 2025, Hybrid - LA)](https://jobright.ai/jobs/info/672983bbdcc903eaf125db34?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 04 |
+| ↳ | **[Production & Development Internships (Summer 2025, Hybrid - NYC/LA)](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56c70?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, CBS Chicago (Summer 2025)](https://jobright.ai/jobs/info/672983bbdcc903eaf125db26?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
+| ↳ | **[CBS News Internships (Summer 2025, In Person - NYC)](https://jobright.ai/jobs/info/672983bbdcc903eaf125db03?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 04 |
+| ↳ | **[Sports Intern, CBS Miami (Summer 2025)](https://jobright.ai/jobs/info/672983bbdcc903eaf125db08?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 04 |
+| ↳ | **[CBS News Intern, WBZ Boston (Summer 2025)](https://jobright.ai/jobs/info/67298a1a092266d449c8160e?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Nov 04 |
+| ↳ | **[CBS News Intern, KCNC Denver (Summer 2025)](https://jobright.ai/jobs/info/67298a1a092266d449c815f1?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Nov 04 |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56c80?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Nov 04 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KOVR Sacramento (Summer 2025)](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56c7a?utm_campaign=1053&utm_source=git)** | West Sacramento, CA | On Site | Nov 04 |
+| **[Paramount](https://www.paramount.com)** | **[TV Programming Internships (Summer 2025, Hybrid - NYC/LA)](https://jobright.ai/jobs/info/67297f356abe2e9d5f9cd911?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, WBBM Chicago (Summer 2025)](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56c78?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
+| ↳ | **[Creative Services Intern, CBS Philadelphia (Summer 2025)](https://jobright.ai/jobs/info/672983bbdcc903eaf125db10?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 04 |
+| ↳ | **[CBS News Intern, WFOR Miami (Summer 2025)](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56c8b?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 04 |
+| ↳ | **[CBS News Intern, KYW Philadelphia (Summer 2025)](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56c79?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 04 |
+| ↳ | **[CBS News Internships (Summer 2025, In Person - LA)](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56c76?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 04 |
+| ↳ | **[CBS News Intern, WJZ Baltimore (Summer 2025)](https://jobright.ai/jobs/info/672983bbdcc903eaf125db12?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Nov 04 |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/672978234190d7ef7e1920cf?utm_campaign=1053&utm_source=git)** | Carlsbad, CA | On Site | Nov 04 |
+| ↳ | **[2025 US Summer Internship - VFX](https://jobright.ai/jobs/info/672978234190d7ef7e1920c4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 04 |
 | **[King](https://www.king.com/)** | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67295946d9de5e445df4de2c?utm_campaign=1053&utm_source=git)** | Irvine - Blizzard - Blizzard Way | On Site | Nov 04 |
 | ↳ | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67295946d9de5e445df4de62?utm_campaign=1053&utm_source=git)** | Albany | On Site | Nov 04 |
 | ↳ | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67295946d9de5e445df4de61?utm_campaign=1053&utm_source=git)** | Boston | On Site | Nov 04 |
-| ↳ | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67295946d9de5e445df4de86?utm_campaign=1053&utm_source=git)** | Carlsbad - Activision - High Moon | On Site | Nov 04 |
-| ↳ | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67295946d9de5e445df4de21?utm_campaign=1053&utm_source=git)** | Middleton | On Site | Nov 04 |
-| ↳ | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67295946d9de5e445df4de84?utm_campaign=1053&utm_source=git)** | Foster City | On Site | Nov 04 |
-| ↳ | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67295946d9de5e445df4de85?utm_campaign=1053&utm_source=git)** | Novato | On Site | Nov 04 |
 | ↳ | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67295946d9de5e445df4de83?utm_campaign=1053&utm_source=git)** | Austin - Activision - Infinity Ward | On Site | Nov 04 |
+| ↳ | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67295946d9de5e445df4de86?utm_campaign=1053&utm_source=git)** | Carlsbad - Activision - High Moon | On Site | Nov 04 |
+| ↳ | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67295946d9de5e445df4de84?utm_campaign=1053&utm_source=git)** | Foster City | On Site | Nov 04 |
+| ↳ | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67295946d9de5e445df4de21?utm_campaign=1053&utm_source=git)** | Middleton | On Site | Nov 04 |
+| ↳ | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67295946d9de5e445df4de85?utm_campaign=1053&utm_source=git)** | Novato | On Site | Nov 04 |
 | ↳ | **[2025 US Summer Internship - VFX](https://jobright.ai/jobs/info/672949bb21d77766065029bf?utm_campaign=1053&utm_source=git)** | Albany | On Site | Nov 04 |
 | ↳ | **[2025 US Summer Internship - VFX](https://jobright.ai/jobs/info/672949bb21d77766065029ab?utm_campaign=1053&utm_source=git)** | Irvine - Blizzard - Blizzard Way | On Site | Nov 04 |
 | ↳ | **[2025 US Summer Internship - VFX](https://jobright.ai/jobs/info/672949bb21d77766065029c0?utm_campaign=1053&utm_source=git)** | Boston | On Site | Nov 04 |
@@ -109,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67284bf75d2ab950de2e38de?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 03 |
 | **[University of Florida](https://www.ufl.edu)** | **[ACQ Assistant](https://jobright.ai/jobs/info/672935bc87decbad371b9236?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Nov 03 |
 | **[The Bernard Group, Inc.](http://www.thebernardgroup.com)** | **[Intern, Videographer](https://jobright.ai/jobs/info/672888ce730c11ee566439a2?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 03 |
+| **[Raven Software](http://www.ravensoftware.com)** | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/672966abba5457730037c057?utm_campaign=1053&utm_source=git)** | Carlsbad, CA | On Site | Nov 03 |
 | **[The University of New Mexico](http://unm.edu)** | **[Technical Theatre Intern](https://jobright.ai/jobs/info/6727e2c317b28421aeeff372?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Nov 03 |
-| **[Jooble](https://jooble.org/)** | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.00 - $18.00/HR](https://jobright.ai/jobs/info/67284bf75d2ab950de2e382f?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Nov 03 |
 | **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[Walt Disney Animation Studios Story Intern, Summer 2025](https://jobright.ai/jobs/info/6727a133af6e4c0448af8d6a?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 03 |
 | ↳ | **[Walt Disney Animation Studios General TD Intern, Summer 2025](https://jobright.ai/jobs/info/6727a133af6e4c0448af8d4f?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 03 |
 | ↳ | **[Walt Disney Animation Studios 2D Cleanup Animation Intern, Summer 2025](https://jobright.ai/jobs/info/6727a133af6e4c0448af8d6b?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 03 |
@@ -137,24 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/66eb79f05d0f4d9f247f1d67?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Nov 01 |
 | **[Gray Television](http://www.gray.tv)** | **[SPRING 2025 GRAY MEDIA TRAINING CENTER PROGRAM INTERNSHIP - WLBT](https://jobright.ai/jobs/info/6722e49ddcc0f2299e8fbcd1?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Nov 01 |
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WALB](https://jobright.ai/jobs/info/672534f24bb4e3eccac0659c?utm_campaign=1053&utm_source=git)** | Albany, GA | On Site | Nov 01 |
-| **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/66eb74033b477952e26ec128?utm_campaign=1053&utm_source=git)** | Glenview, IL | On Site | Nov 01 |
-| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Chocolatier Culinary Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/67251f20a97472deb2e1f5bc?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Nov 01 |
-| **[ButcherBox](https://www.butcherbox.com)** | **[Culinary Studio Intern](https://jobright.ai/jobs/info/66eb5de4bbf3f49862203922?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | Nov 01 |
-| **[Duolingo](https://www.duolingo.com)** | **[2D Character Animator, Thrive Intern](https://jobright.ai/jobs/info/67239265f9133d63e2e0da92?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 01 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6725276420b35fa9d1c9400b?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Nov 01 |
-| **[Fox News Media](http://foxnews.com)** | **[Summer 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708e7c03812d8882709e769?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
-| ↳ | **[Summer 2025 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/6709ac741581bee82e0a108f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 01 |
-| **[Sentry](https://www.sentry.com/)** | **[Brand Journalist Internship- Summer 2025](https://jobright.ai/jobs/info/66eb8dee61391f561b918289?utm_campaign=1053&utm_source=git)** | Stevens Point, WI | Hybrid | Nov 01 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Oak Park Mall](https://jobright.ai/jobs/info/6724b0ac95a947eb920c2609?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Nov 01 |
-| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship Spring 2025 - Dallas-Ft. Worth](https://jobright.ai/jobs/info/66ec7c3ad4c205834a967f3a?utm_campaign=1053&utm_source=git)** | Grapevine, TX | On Site | Nov 01 |
-| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Video Production & ThunderVision](https://jobright.ai/jobs/info/67248c2dd7f773c2272dcf54?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios Hair Tools Intern, Summer 2025](https://jobright.ai/jobs/info/67247fa99463adf0bc6398f7?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Nov 01 |
-| **[Wilderness Resort in Wisconsin Dells](https://www.wildernessresort.com)** | **[Wild Rock Golf Maintenance Internship Summer 2025](https://jobright.ai/jobs/info/6724a233f6cca8149fc684b7?utm_campaign=1053&utm_source=git)** | Wisconsin Dells, WI | On Site | Nov 01 |
-| **[GreenTomatoMedia](http://www.greentomatomedia.com)** | **[YouTube-Video-Editor (Praktikant)](https://jobright.ai/jobs/info/67248c2dd7f773c2272dcfe5?utm_campaign=1053&utm_source=git)** | Guernsey, WY | On Site | Oct 31 |
-| ↳ | **[YouTube-Video-Editor (Praktikant)](https://jobright.ai/jobs/info/67248c2dd7f773c2272dd252?utm_campaign=1053&utm_source=git)** | San Marino, CA | On Site | Oct 31 |
-| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Culinary Internship - Three Leaf Catering (Temporary)](https://jobright.ai/jobs/info/6724954ed216bf4b7c4a9a4c?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Oct 31 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios Story Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e916191?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
-| ↳ | **[Walt Disney Animation Studios 2D Cleanup Animation Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e916199?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
-| ↳ | **[Walt Disney Animation Studios General TD Intern, Summer 2025](https://jobright.ai/jobs/info/6726ea4fc834214b8e91618f?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Spring 2025 Intern - Artist Management (Los Angeles)](https://jobright.ai/jobs/info/6726ea4fc834214b8e916190?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
