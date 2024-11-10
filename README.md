@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern-Red Owl Tavern](https://jobright.ai/jobs/info/673094a428c18895e06bb959?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 10 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Copy Editor - Blazer Job at Joliet Junior College in Downtown](https://jobright.ai/jobs/info/67303a03091d6b0c3ecbf5c0?utm_campaign=1053&utm_source=git)** | Joliet, IL | On Site | Nov 09 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multimedia/Content Strategy Trainee – Spring 2025](https://jobright.ai/jobs/info/672fbffafbe05f4552c6f491?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 09 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Joliet Junior College is hiring: Student Employee, Copy Editor - Blazer in Downt](https://jobright.ai/jobs/info/672fc33ce0f0e6610a1a4ab2?utm_campaign=1053&utm_source=git)** | Joliet, IL | On Site | Nov 09 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/664de06a0790ade97e15e7b9?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Nov 09 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Stadium and Event Operations Intern - Spring 2025](https://jobright.ai/jobs/info/672f4d377d1b770370e64b0f?utm_campaign=1053&utm_source=git)** | Kansas City, KS | On Site | Nov 09 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Video Intern (Full-Time)](https://jobright.ai/jobs/info/66db4ff4b0914c467cb0d4c8?utm_campaign=1053&utm_source=git)** | St Louis, MO | Hybrid | Nov 09 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Guest Experience Intern](https://jobright.ai/jobs/info/67117a28055f87b8669497ad?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Nov 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/672ee51e8e64d2565eb42696?utm_campaign=1053&utm_source=git)** | Wichita Falls, TX | On Site | Nov 08 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/672ef381068d53f477c285fd?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 08 |
 | **[Boston College](http://www.bc.edu)** | **[Culinary Intern/CATERING](https://jobright.ai/jobs/info/672ee8ec6f21c235ed2dd95f?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | On Site | Nov 08 |
@@ -110,10 +112,10 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 LA Internships - Summer 2025](https://jobright.ai/jobs/info/672d48ff2bbd900374f3f8ed?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 07 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo 52 Internships - Summer 2025](https://jobright.ai/jobs/info/672d43fc880efda237b562c0?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 07 |
 | **[University of South Florida](http://www.usf.edu)** | **[WUSF News Intern-Summer 2025 (Admin Clerk)](https://jobright.ai/jobs/info/672d2e190a142a9b4d66a566?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Nov 07 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Internship](https://jobright.ai/jobs/info/672d2fc65683c7d05550403c?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 07 |
-| ↳ | **[News Internship](https://jobright.ai/jobs/info/672d2fc65683c7d05550403d?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 07 |
-| **[Regent University](https://www.spiritsofts.com)** | **[Graduate Assistant (Media & Visual Arts: Equipment Office)](https://jobright.ai/jobs/info/672d48ff2bbd900374f3f9b5?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Nov 07 |
-| ↳ | **[Student Worker (Music Assistant)](https://jobright.ai/jobs/info/672d48ff2bbd900374f3f9b7?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Nov 07 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/672d2fc65683c7d05550403d?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 07 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/672d2fc65683c7d05550403c?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 07 |
+| **[Regent University](https://www.spiritsofts.com)** | **[Student Worker (Music Assistant)](https://jobright.ai/jobs/info/672d48ff2bbd900374f3f9b7?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Nov 07 |
+| ↳ | **[Graduate Assistant (Media & Visual Arts: Equipment Office)](https://jobright.ai/jobs/info/672d48ff2bbd900374f3f9b5?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Nov 07 |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[Proprietary Content Intern](https://jobright.ai/jobs/info/672d28e963959503758bfcf5?utm_campaign=1053&utm_source=git)** | Ipswich, MA | Remote | Nov 07 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Culinary Internship, Great American Ballpark](https://jobright.ai/jobs/info/672d43fc880efda237b56446?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 07 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Production Internship (Spring 2025)](https://jobright.ai/jobs/info/672d2e190a142a9b4d66a666?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 07 |
@@ -131,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Concordia Publishing House](https://www.cph.org/default.aspx?)** | **[Music/Worship Intern](https://jobright.ai/jobs/info/672bdd440c8cc7dcab5af84f?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Nov 06 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Reuters News Internship Program 2024 (Temp Guild) – New York – Graphics Internship](https://jobright.ai/jobs/info/672bd0f1272dfef88974ac4e?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Winter/Spring 2025)](https://jobright.ai/jobs/info/670edb83468f998f8d657e10?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 06 |
-| **[MacArthur Foundation](http://www.macfound.org)** | **[Art Portfolio Intern - Summer 2025](https://jobright.ai/jobs/info/672ba3d96c417e118d0d589e?utm_campaign=1053&utm_source=git)** | Chicago Office | On Site | Nov 06 |
-| ↳ | **[Journalism & Media Intern - Summer 2025](https://jobright.ai/jobs/info/672ba3d96c417e118d0d58d5?utm_campaign=1053&utm_source=git)** | Chicago Office | On Site | Nov 06 |
+| **[MacArthur Foundation](http://www.macfound.org)** | **[Journalism & Media Intern - Summer 2025](https://jobright.ai/jobs/info/672ba3d96c417e118d0d58d5?utm_campaign=1053&utm_source=git)** | Chicago Office | On Site | Nov 06 |
+| ↳ | **[Art Portfolio Intern - Summer 2025](https://jobright.ai/jobs/info/672ba3d96c417e118d0d589e?utm_campaign=1053&utm_source=git)** | Chicago Office | On Site | Nov 06 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Writing Undergraduate Internship](https://jobright.ai/jobs/info/672ce278ebe36b6d3f841bf1?utm_campaign=1053&utm_source=git)** | Beaverton, OR | On Site | Nov 06 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Chicago Digital Editorial Intern - Summer 2025](https://jobright.ai/jobs/info/672b9f07ca95167292ef1b21?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 06 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Reuters News Internship Program 2024 (Temp Guild) – New York – Graphics Internship](https://jobright.ai/jobs/info/672b6e36c4e88de46e2e63b0?utm_campaign=1053&utm_source=git)** | USA-New York-3 Times Square | Hybrid | Nov 06 |
@@ -143,11 +145,11 @@ For a complete list, click the following sortable link below:
 | **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, CBS Chicago (Summer 2025)](https://jobright.ai/jobs/info/672983bbdcc903eaf125db26?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
 | **[University of Arkansas](http://uark.edu)** | **[Acquisitions Intern - UA Press](https://jobright.ai/jobs/info/672b2b2e226f757ee6c75d22?utm_campaign=1053&utm_source=git)** | Fayetteville, AR | On Site | Nov 05 |
 | **[Activision](https://www.activision.com/)** | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/672b14cfa4cedeabbed87404?utm_campaign=1053&utm_source=git)** | Carlsbad, CA | On Site | Nov 05 |
-| **[Athletes First](http://www.athletesfirst.net/)** | **[Spring Social Content Editor Internship](https://jobright.ai/jobs/info/672b488f819827758ad178c7?utm_campaign=1053&utm_source=git)** | CA, US | On Site | Nov 05 |
-| ↳ | **[Spring Social Content Editor Internship](https://jobright.ai/jobs/info/672b488f819827758ad178c6?utm_campaign=1053&utm_source=git)** | NY, US | On Site | Nov 05 |
+| **[Athletes First](http://www.athletesfirst.net/)** | **[Spring Social Content Editor Internship](https://jobright.ai/jobs/info/672b488f819827758ad178c6?utm_campaign=1053&utm_source=git)** | NY, US | On Site | Nov 05 |
+| ↳ | **[Spring Social Content Editor Internship](https://jobright.ai/jobs/info/672b47bc819827758ad16c81?utm_campaign=1053&utm_source=git)** | FL, US | On Site | Nov 05 |
+| ↳ | **[Spring Social Content Editor Internship](https://jobright.ai/jobs/info/672b488f819827758ad178c7?utm_campaign=1053&utm_source=git)** | CA, US | On Site | Nov 05 |
 | ↳ | **[Spring Social Content Editor Internship](https://jobright.ai/jobs/info/672b488f819827758ad178c4?utm_campaign=1053&utm_source=git)** | TN, US | On Site | Nov 05 |
 | ↳ | **[Spring Social Content Editor Internship](https://jobright.ai/jobs/info/672b488f819827758ad178c5?utm_campaign=1053&utm_source=git)** | GA, US | On Site | Nov 05 |
-| ↳ | **[Spring Social Content Editor Internship](https://jobright.ai/jobs/info/672b47bc819827758ad16c81?utm_campaign=1053&utm_source=git)** | FL, US | On Site | Nov 05 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Entertainment](https://jobright.ai/jobs/info/672bcb869136561e1d0c1563?utm_campaign=1053&utm_source=git)** | One Brewers Way, Milwaukee, WI, US | On Site | Nov 05 |
 | **[Cosm](https://www.cosm.com)** | **[Content Editor Intern](https://jobright.ai/jobs/info/672b01f931235e93a49d30f8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 05 |
 | **[Houston Astros](https://astros.mlb.com/)** | **[Ballpark Entertainment Production Apprentice](https://jobright.ai/jobs/info/672afa20337d12b378a67e84?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Nov 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nordstrom](http://www.nordstrom.com)** | **[Seasonal Alterations & Tailor Shop - Apprentice - Scottsdale Fashion Square](https://jobright.ai/jobs/info/672ac49c73153ecf0ab169db?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Nov 05 |
 | **[Blackstone](http://blackstone.com)** | **[2025 Blackstone LaunchPad Summer Analyst – Corporate Affairs, Video Production](https://jobright.ai/jobs/info/672aa530accfa86d33ef7edf?utm_campaign=1053&utm_source=git)** | New York | On Site | Nov 05 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Writing Undergraduate Internship](https://jobright.ai/jobs/info/672a9c27207fdb75332cd9a9?utm_campaign=1053&utm_source=git)** | Beaverton, Oregon | On Site | Nov 05 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Seasonal Alterations & Tailor Shop - Apprentice - Scottsdale Fashion Square](https://jobright.ai/jobs/info/672a97f4f43737e3b427d147?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Nov 05 |
-| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KDKA Pittsburgh (Summer 2025)](https://jobright.ai/jobs/info/672aa2cb3bc24e73f890ea55?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
