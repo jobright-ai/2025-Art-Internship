@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6732c958b35f8e66b3ee2f59?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | Nov 11 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6732ce4b3a5a342bf4e88cd3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 11 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, WCBS New York (Summer 2025)](https://jobright.ai/jobs/info/6732b7d7af6db890fa3a1a19?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Intern, Assistant Video Editor](https://jobright.ai/jobs/info/673275e3ac97192c7749e22c?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 11 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/67327953caad3a1829c41ec3?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Nov 11 |
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Art Therapist Intern](https://jobright.ai/jobs/info/673278d5b66f3c08ab36ffbb?utm_campaign=1053&utm_source=git)** | Northbrook, IL | On Site | Nov 11 |
@@ -91,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KYW Philadelphia (Summer 2025)](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56c79?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 08 |
 | ↳ | **[CBS News Intern, KCNC Denver (Summer 2025)](https://jobright.ai/jobs/info/67298a1a092266d449c815f1?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Nov 08 |
 | **[The Associated Press](http://www.ap.org)** | **[Newsperson (Global News Intern, Women in Sports Reporter)](https://jobright.ai/jobs/info/672e8382dd5d0e21448a828d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 08 |
-| ↳ | **[Newsperson (Global News Intern, Entertainment Reporter)](https://jobright.ai/jobs/info/672e8382dd5d0e21448a8289?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
 | ↳ | **[Videojournalist (Global News Intern, Washington Videojournalist)](https://jobright.ai/jobs/info/672e8382dd5d0e21448a828e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 08 |
+| ↳ | **[Newsperson (Global News Intern, Entertainment Reporter)](https://jobright.ai/jobs/info/672e8382dd5d0e21448a8289?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
 | ↳ | **[Newsperson (Global News Intern, Race and Ethnicity Reporter)](https://jobright.ai/jobs/info/672e8382dd5d0e21448a82a0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Bon Appétit Management Company](http://www.bamco.com/)** | **[PREP COOK (INTERN)](https://jobright.ai/jobs/info/672e773021502aaab316d3d6?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 08 |
 | **[Yahoo](http://www.yahoo.com)** | **[All Yahoo Editorial Internships (US) - Apply Here!](https://jobright.ai/jobs/info/672e30a5fb9699375fa833e2?utm_campaign=1053&utm_source=git)** | United States of America - Remote | Remote | Nov 08 |
@@ -129,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Culinary Internship, Great American Ballpark](https://jobright.ai/jobs/info/672d43fc880efda237b56446?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 07 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Production Internship (Spring 2025)](https://jobright.ai/jobs/info/672d2e190a142a9b4d66a666?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 07 |
 | **[AAAS](http://www.aaas.org/)** | **[Diverse Voices in Science Journalism Intern](https://jobright.ai/jobs/info/672d131e1d4bc828f73994a0?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
-| **[Kimball International](https://www.kimballinternational.com)** | **[Sewing Associate, MFG, Kimball International - Danville, KY](https://jobright.ai/jobs/info/672d174f3ce3cf8f52194377?utm_campaign=1053&utm_source=git)** | Danville, KY | On Site | Nov 07 |
 | **[Ace Hardware Corporation](http://www.acehardware.com/)** | **[Video Production 2025 Summer Internship (Full Time/Paid/Hybrid)](https://jobright.ai/jobs/info/672d3f5dfccb423711ef2990?utm_campaign=1053&utm_source=git)** | Oak Brook, IL | Hybrid | Nov 07 |
 | **[Paramount Global](https://www.paramountglobal.com/)** | **[THE LATE SHOW WITH STEPHEN COLBERT - SPRING 2025 INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/672c85e22906d8c566abf1ce?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Writer](https://jobright.ai/jobs/info/6731a6e71203502b2b0833ae?utm_campaign=1053&utm_source=git)** | Union, KY | On Site | Nov 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, CBS Chicago (Summer 2025)](https://jobright.ai/jobs/info/672983bbdcc903eaf125db26?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
 | **[University of Arkansas](http://uark.edu)** | **[Acquisitions Intern - UA Press](https://jobright.ai/jobs/info/672b2b2e226f757ee6c75d22?utm_campaign=1053&utm_source=git)** | Fayetteville, AR | On Site | Nov 05 |
 | **[Activision](https://www.activision.com/)** | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/672b14cfa4cedeabbed87404?utm_campaign=1053&utm_source=git)** | Carlsbad, CA | On Site | Nov 05 |
-| **[Athletes First](http://www.athletesfirst.net/)** | **[Spring Social Content Editor Internship](https://jobright.ai/jobs/info/672b488f819827758ad178c7?utm_campaign=1053&utm_source=git)** | CA, US | On Site | Nov 05 |
-| ↳ | **[Spring Social Content Editor Internship](https://jobright.ai/jobs/info/672b488f819827758ad178c5?utm_campaign=1053&utm_source=git)** | GA, US | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
