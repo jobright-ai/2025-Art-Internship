@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Regis Corporation](http://www.regiscorp.com/)** | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706879?utm_campaign=1053&utm_source=git)** | Greensburg, PA | On Site | Nov 13 |
+| **[Cosm](https://www.cosm.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/67353afc388cd9b23b439ce8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 13 |
+| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.00 - $18.00/HR](https://jobright.ai/jobs/info/67352f3d79bce4e481ea565c?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Nov 13 |
+| **[Electronic Arts (EA)](http://www.ea.com)** | **["Music Intern"](https://jobright.ai/jobs/info/67350653105834d8d1b2e657?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 13 |
+| **[Regis Corporation](http://www.regiscorp.com/)** | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350b32d9f5d9f97bb845a4?utm_campaign=1053&utm_source=git)** | Rolla, MO | On Site | Nov 13 |
+| **[Ladies Professional Golf Association (LPGA)](http://www.lpga.com)** | **[LPGA 2025 Summer Internship - Tour Ops Member Services Intern](https://jobright.ai/jobs/info/673517931d7acaa5ed4c4090?utm_campaign=1053&utm_source=git)** | Daytona Beach, FL | On Site | Nov 13 |
+| **[Regis Corporation](http://www.regiscorp.com/)** | **[Stylist Internship](https://jobright.ai/jobs/info/673510fd82508c2ce1f388ae?utm_campaign=1053&utm_source=git)** | North Myrtle Beach, SC | On Site | Nov 13 |
+| ↳ | **[Stylist Internship](https://jobright.ai/jobs/info/67350eccf7e586e7bd241999?utm_campaign=1053&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706879?utm_campaign=1053&utm_source=git)** | Greensburg, PA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706893?utm_campaign=1053&utm_source=git)** | Woodbridge, NJ | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706889?utm_campaign=1053&utm_source=git)** | Sutton, WV | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706874?utm_campaign=1053&utm_source=git)** | Medford, OR | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f7068ca?utm_campaign=1053&utm_source=git)** | Ashland, OR | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706868?utm_campaign=1053&utm_source=git)** | Terrell, TX | On Site | Nov 13 |
-| ↳ | **[Stylist Internship](https://jobright.ai/jobs/info/67350015bbedbb454f70686c?utm_campaign=1053&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706866?utm_campaign=1053&utm_source=git)** | Somers Point, NJ | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f7068cd?utm_campaign=1053&utm_source=git)** | Du Bois, PA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f7068cf?utm_campaign=1053&utm_source=git)** | Elkins, WV | On Site | Nov 13 |
@@ -85,12 +91,10 @@ For a complete list, click the following sortable link below:
 | **[PUMA Group](http://us.puma.com/)** | **[CO-OP - CONTENT CREATOR RUN/TRAIN](https://jobright.ai/jobs/info/6733c66bd6c41ad62cb42afe?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Nov 12 |
 | ↳ | **[Co-Op - Content Creator Run/Train](https://jobright.ai/jobs/info/6733aac2d1ffebdeae1c6718?utm_campaign=1053&utm_source=git)** | PUMA Boston International Office | On Site | Nov 12 |
 | **[Striking Distance Studios](https://strikingdistancestudios.com)** | **[Animation Intern](https://jobright.ai/jobs/info/6733c7f337b9d2f2fdd336e4?utm_campaign=1053&utm_source=git)** | San Ramon, CA | On Site | Nov 12 |
-| **[Leidos](https://www.leidos.com/)** | **[Events Intern Summer 2025](https://jobright.ai/jobs/info/67339290de8df14291e9453a?utm_campaign=1053&utm_source=git)** | Lake Geneva, WI | On Site | Nov 12 |
-| **[Striking Distance Studios](https://strikingdistancestudios.com)** | **[Animation Intern](https://jobright.ai/jobs/info/67338186b46b4ba131a4926a?utm_campaign=1053&utm_source=git)** | San Ramon, CA | On Site | Nov 12 |
+| ↳ | **[Animation Intern](https://jobright.ai/jobs/info/67338186b46b4ba131a4926a?utm_campaign=1053&utm_source=git)** | San Ramon, CA | On Site | Nov 12 |
 | **[Leidos](https://www.leidos.com/)** | **[Designer In Training Salon - Southpark Center](https://jobright.ai/jobs/info/6733fcfd05c78e9eeb44eb21?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Nov 12 |
 | ↳ | **[Designer In Training Salon - Southpark Mall](https://jobright.ai/jobs/info/6733c17a30c73ee9927a4728?utm_campaign=1053&utm_source=git)** | Colonial Heights, VA | On Site | Nov 12 |
 | ↳ | **[Designer In Training Salon - Southcenter Mall](https://jobright.ai/jobs/info/6733c25507ac673cec44318b?utm_campaign=1053&utm_source=git)** | Tukwila, WA | On Site | Nov 12 |
-| ↳ | **[Designer In Training Salon - Columbia Mall](https://jobright.ai/jobs/info/6733c25507ac673cec4432b4?utm_campaign=1053&utm_source=git)** | Grand Forks, ND | On Site | Nov 12 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Internship](https://jobright.ai/jobs/info/673387d10b03dcd3efd34ec5?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Nov 12 |
 | **[Leidos](https://www.leidos.com/)** | **[Golf Intern-Summer 2025](https://jobright.ai/jobs/info/6733c72eb17895d1e31f4d83?utm_campaign=1053&utm_source=git)** | Lake Geneva, WI | On Site | Nov 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/673370a9ff48d2b2dce51021?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 12 |
@@ -111,10 +115,10 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring 2025 News Internship](https://jobright.ai/jobs/info/6731db03b54e43e0afc0b892?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Nov 11 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, WJZ Baltimore (Summer 2025)](https://jobright.ai/jobs/info/672983bbdcc903eaf125db12?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Nov 10 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2024/2025) / Crystal Lake, IL](https://jobright.ai/jobs/info/67310c497ccad5d25f1223e1?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Nov 10 |
-| **[Boston College](http://www.bc.edu)** | **[Culinary Intern/CATERING](https://jobright.ai/jobs/info/6730d704299f3fb3240d88a0?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | On Site | Nov 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern I, News](https://jobright.ai/jobs/info/6672e80cd742a3597e9aba0f?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Nov 10 |
 | **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern-Red Owl Tavern](https://jobright.ai/jobs/info/673094a428c18895e06bb959?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 10 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multimedia/Content Strategy Trainee – Spring 2025](https://jobright.ai/jobs/info/672fbffafbe05f4552c6f491?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 09 |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring) - Salt Lake City, UT](https://jobright.ai/jobs/info/67129449b4782000923ce9df?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/672f7b5fce15f37560742b55?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 09 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2025 FOX News Media Internship Program - Atlanta](https://jobright.ai/jobs/info/66f7098566c24823f625c892?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/664de06a0790ade97e15e7b9?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Nov 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Michigan](http://www.michigan.gov)** | **[MDHHS Laboratory Video Intern](https://jobright.ai/jobs/info/672d9a92e8706d9303075475?utm_campaign=1053&utm_source=git)** | Lansing, MI | On Site | Nov 07 |
 | **[Paramount](https://www.paramount.com)** | **[Production & Development Internships (Summer 2025, Hybrid - NYC/LA)](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56c70?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 07 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, WBZ Boston (Summer 2025)](https://jobright.ai/jobs/info/67298a1a092266d449c8160e?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Nov 07 |
-| **[Paramount](https://www.paramount.com)** | **[Paramount Pictures Internships (Summer 2025, Hybrid - LA)](https://jobright.ai/jobs/info/672983bbdcc903eaf125db34?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 07 |
-| **[University of California, Davis](http://ucdavis.edu)** | **[Video Fellowship (ATH PROFL 1 BYA)](https://jobright.ai/jobs/info/672d83eae5c31ad3324c4e8f?utm_campaign=1053&utm_source=git)** | Davis, CA | On Site | Nov 07 |
-| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KOVR Sacramento (Summer 2025)](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56c7a?utm_campaign=1053&utm_source=git)** | West Sacramento, CA | On Site | Nov 07 |
-| ↳ | **[CBS News Intern, KCAL Los Angeles/Studio City (Summer 2025)](https://jobright.ai/jobs/info/672d74518338365fa8de7ad5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
