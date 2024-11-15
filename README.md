@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Sports News Intern, Spring 2025](https://jobright.ai/jobs/info/67377c3d33d89b5b5d12632f?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Nov 15 |
+| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut News Producer Internship - Spring 2025](https://jobright.ai/jobs/info/673776df9e2e92dfbfa0664c?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Nov 15 |
+| ↳ | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Spring 2025](https://jobright.ai/jobs/info/673776df9e2e92dfbfa06648?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Nov 15 |
 | **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[Lyric Opera of Chicago is hiring: Digital Content Intern in Chicago](https://jobright.ai/jobs/info/6736e2e63f0ad04c585d4d9e?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Pencor Services Inc is hiring: Creative News Internship in Lehighton](https://jobright.ai/jobs/info/6736cd5f01b445790ec7874f?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Nov 14 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6736cad35a392bc151e2f158?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 14 |
@@ -76,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Collection & Archivist Intern (Student Intern Level II), Quality & Safety *Grant Funded/Temporary* 14 hours/week](https://jobright.ai/jobs/info/673661b0822ca45d71504231?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Benco Dental](https://www.benco.com/)** | **[Content Creator Intern (Spring 2025)](https://jobright.ai/jobs/info/673635cee230ecbacb0afcd7?utm_campaign=1053&utm_source=git)** | Pittston, PA | On Site | Nov 14 |
 | **[Gorilla 76](http://gorilla76.com)** | **[Gorilla 76 is hiring: Thinker &amp; Content Intern in St Louis](https://jobright.ai/jobs/info/6736306b58a2c2cabfd01b5c?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Nov 14 |
+| **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[Fall Film Intern](https://jobright.ai/jobs/info/66be3955f1b881a79a6341dc?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Nov 14 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Copy Editor (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/6736210a02a76bbe512ef940?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Nov 14 |
 | ↳ | **[Internship - Reporter (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/6736210a02a76bbe512ef934?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Nov 14 |
 | **[PatPat](https://us.patpat.com)** | **[Content Creator](https://jobright.ai/jobs/info/6735ea74551026bff8213615?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 14 |
@@ -98,15 +102,11 @@ For a complete list, click the following sortable link below:
 | **[Cosm](https://www.cosm.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/67353afc388cd9b23b439ce8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 13 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.00 - $18.00/HR](https://jobright.ai/jobs/info/67352f3d79bce4e481ea565c?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Nov 13 |
 | **[Electronic Arts (EA)](http://www.ea.com)** | **["Music Intern"](https://jobright.ai/jobs/info/67350653105834d8d1b2e657?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 13 |
-| **[Regis Corporation](http://www.regiscorp.com/)** | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778415?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778431?utm_campaign=1053&utm_source=git)** | Ashland, KY | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778440?utm_campaign=1053&utm_source=git)** | Edwardsville, IL | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778449?utm_campaign=1053&utm_source=git)** | Columbia, MO | On Site | Nov 13 |
+| **[Regis Corporation](http://www.regiscorp.com/)** | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778440?utm_campaign=1053&utm_source=git)** | Edwardsville, IL | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350b32d9f5d9f97bb845a4?utm_campaign=1053&utm_source=git)** | Rolla, MO | On Site | Nov 13 |
 | **[Ladies Professional Golf Association (LPGA)](http://www.lpga.com)** | **[LPGA 2025 Summer Internship - Tour Ops Member Services Intern](https://jobright.ai/jobs/info/673517931d7acaa5ed4c4090?utm_campaign=1053&utm_source=git)** | Daytona Beach, FL | On Site | Nov 13 |
 | **[Regis Corporation](http://www.regiscorp.com/)** | **[Stylist Internship](https://jobright.ai/jobs/info/673510fd82508c2ce1f388ae?utm_campaign=1053&utm_source=git)** | North Myrtle Beach, SC | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778336?utm_campaign=1053&utm_source=git)** | Garden City, MI | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778339?utm_campaign=1053&utm_source=git)** | Willard, OH | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778330?utm_campaign=1053&utm_source=git)** | Quakertown, PA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778335?utm_campaign=1053&utm_source=git)** | Willow Street, PA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778321?utm_campaign=1053&utm_source=git)** | Altoona, PA | On Site | Nov 13 |
@@ -119,13 +119,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778324?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e0899077846a?utm_campaign=1053&utm_source=git)** | Lihue, HI | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e0899077847e?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Nov 13 |
-| ↳ | **[Stylist Internship](https://jobright.ai/jobs/info/67350eccf7e586e7bd241999?utm_campaign=1053&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706879?utm_campaign=1053&utm_source=git)** | Greensburg, PA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706893?utm_campaign=1053&utm_source=git)** | Woodbridge, NJ | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706889?utm_campaign=1053&utm_source=git)** | Sutton, WV | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706874?utm_campaign=1053&utm_source=git)** | Medford, OR | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f7068ca?utm_campaign=1053&utm_source=git)** | Ashland, OR | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706868?utm_campaign=1053&utm_source=git)** | Terrell, TX | On Site | Nov 13 |
+| ↳ | **[Stylist Internship](https://jobright.ai/jobs/info/67350015bbedbb454f70686c?utm_campaign=1053&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706866?utm_campaign=1053&utm_source=git)** | Somers Point, NJ | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f7068cd?utm_campaign=1053&utm_source=git)** | Du Bois, PA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f7068cf?utm_campaign=1053&utm_source=git)** | Elkins, WV | On Site | Nov 13 |
@@ -133,22 +133,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706898?utm_campaign=1053&utm_source=git)** | Summerville, SC | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf674?utm_campaign=1053&utm_source=git)** | Reedsburg, WI | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf677?utm_campaign=1053&utm_source=git)** | Lake Mills, WI | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf67b?utm_campaign=1053&utm_source=git)** | Chesapeake, VA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf67c?utm_campaign=1053&utm_source=git)** | Seaford, DE | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf67e?utm_campaign=1053&utm_source=git)** | Greenfield, IN | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf687?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf692?utm_campaign=1053&utm_source=git)** | Kennesaw, GA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf693?utm_campaign=1053&utm_source=git)** | Camden, TN | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf694?utm_campaign=1053&utm_source=git)** | Linton, IN | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf692?utm_campaign=1053&utm_source=git)** | Kennesaw, GA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf696?utm_campaign=1053&utm_source=git)** | Amelia, OH | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf697?utm_campaign=1053&utm_source=git)** | Newport, KY | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf69d?utm_campaign=1053&utm_source=git)** | Methuen, MA | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6a0?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6a2?utm_campaign=1053&utm_source=git)** | Brooksville, FL | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6a3?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6a4?utm_campaign=1053&utm_source=git)** | McKinney, TX | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6aa?utm_campaign=1053&utm_source=git)** | Sevierville, TN | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6a3?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6ad?utm_campaign=1053&utm_source=git)** | Glendale, AZ | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6aa?utm_campaign=1053&utm_source=git)** | Sevierville, TN | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6b1?utm_campaign=1053&utm_source=git)** | Urbandale, IA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6b6?utm_campaign=1053&utm_source=git)** | Brunswick, ME | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6b9?utm_campaign=1053&utm_source=git)** | Blackfoot, ID | On Site | Nov 13 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6c2?utm_campaign=1053&utm_source=git)** | Hermitage, PA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6ca?utm_campaign=1053&utm_source=git)** | Middleburg, FL | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6cc?utm_campaign=1053&utm_source=git)** | Torrance, CA | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6cf?utm_campaign=1053&utm_source=git)** | Claremont, NH | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6db?utm_campaign=1053&utm_source=git)** | Del Rio, TX | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf631?utm_campaign=1053&utm_source=git)** | Everett, PA | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
