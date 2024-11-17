@@ -74,11 +74,11 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Spring 2025](https://jobright.ai/jobs/info/6737ddd49cbcd1bffa74b948?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Nov 15 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Filmed Entertainment Development & Production Internships - Summer 2025](https://jobright.ai/jobs/info/6737d5fdb2a7384b8c22c8b3?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 15 |
 | ↳ | **[NBC10 Philadelphia Digital News Intern - Spring 2025](https://jobright.ai/jobs/info/6737d2939325e2ec27f27de2?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 15 |
-| **[Riot Games](http://www.riotgames.com)** | **[VFX Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6737c53ce12bd1bd242dde1c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Nov 15 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Museum and Institutional Partnerships Intern](https://jobright.ai/jobs/info/6737ab844deffe7a0562ed5d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Sports News Intern, Spring 2025](https://jobright.ai/jobs/info/67377c3d33d89b5b5d12632f?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Nov 15 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut News Producer Internship - Spring 2025](https://jobright.ai/jobs/info/673776df9e2e92dfbfa0664c?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Nov 15 |
 | ↳ | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Spring 2025](https://jobright.ai/jobs/info/673776df9e2e92dfbfa06648?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Nov 15 |
+| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Event Services (Part-time)](https://jobright.ai/jobs/info/67398654d19f614a424c4ec9?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Nov 14 |
 | **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[Lyric Opera of Chicago is hiring: Digital Content Intern in Chicago](https://jobright.ai/jobs/info/6736e2e63f0ad04c585d4d9e?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6736cad35a392bc151e2f158?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 14 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Video Production Intern / 2025 Season](https://jobright.ai/jobs/info/6736af2cb998a2e3a3b44132?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 14 |
@@ -91,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Boston News Intern - Spring 2025](https://jobright.ai/jobs/info/673681e21cbc555098ec0a1a?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Nov 14 |
 | ↳ | **[NBC Boston Digital News Intern - Spring 2025](https://jobright.ai/jobs/info/6736703862e260e5db63d027?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Nov 14 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Staff Writer Internship (Spring 2025)](https://jobright.ai/jobs/info/6736703862e260e5db63d068?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 14 |
-| **[Gray Television](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - KNOE](https://jobright.ai/jobs/info/673685682baf7921e032d95f?utm_campaign=1053&utm_source=git)** | Monroe, LA | On Site | Nov 14 |
-| ↳ | **[TUPELO HONEY INTERNSHIP (Sports Production) - TUPELO HONEY (Tupelo Media Group, LLC)](https://jobright.ai/jobs/info/673685682baf7921e032d92e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 14 |
+| **[Gray Television](http://www.gray.tv)** | **[TUPELO HONEY INTERNSHIP (Sports Production) - TUPELO HONEY (Tupelo Media Group, LLC)](https://jobright.ai/jobs/info/673685682baf7921e032d92e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 14 |
+| ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - KNOE](https://jobright.ai/jobs/info/673685682baf7921e032d95f?utm_campaign=1053&utm_source=git)** | Monroe, LA | On Site | Nov 14 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Trainee, Multiplatform Content Strategy – Spring 2025](https://jobright.ai/jobs/info/67365e1fcfccb9054ed5ec59?utm_campaign=1053&utm_source=git)** | Miami, Florida | On Site | Nov 14 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Collection & Archivist Intern (Student Intern Level II), Quality & Safety *Grant Funded/Temporary* 14 hours/week](https://jobright.ai/jobs/info/673661b0822ca45d71504231?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Benco Dental](https://www.benco.com/)** | **[Content Creator Intern (Spring 2025)](https://jobright.ai/jobs/info/673635cee230ecbacb0afcd7?utm_campaign=1053&utm_source=git)** | Pittston, PA | On Site | Nov 14 |
@@ -109,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[ButcherBox](https://www.butcherbox.com)** | **[Video Production Intern - Culinary](https://jobright.ai/jobs/info/66eb3b7dc4305714cfc5902f?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | Nov 13 |
 | **[Gray Television](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WIBW](https://jobright.ai/jobs/info/67356114c4647772710708bc?utm_campaign=1053&utm_source=git)** | Topeka, KS | On Site | Nov 13 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - The Friend Digital Messaging (Church Magazines)](https://jobright.ai/jobs/info/67356905f39501db7baf3048?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 13 |
-| ↳ | **[Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67356905f39501db7baf304c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 13 |
 | ↳ | **[Part Time Paid Intern – Youth Messaging Digital Editorial (Church Magazines)](https://jobright.ai/jobs/info/67356905f39501db7baf304d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 13 |
+| ↳ | **[Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67356905f39501db7baf304c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 13 |
 | ↳ | **[Paid Intern - For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67355cf68953df310ef57495?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 13 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Video Production Intern / 2025 Season](https://jobright.ai/jobs/info/6736943a34ad0efd0359b461?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 13 |
 | ↳ | **[Video Production Intern / 2025 Season](https://jobright.ai/jobs/info/6736943a34ad0efd0359b458?utm_campaign=1053&utm_source=git)** | Frisco, Texas, United States | On Site | Nov 13 |
@@ -142,7 +142,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf67c?utm_campaign=1053&utm_source=git)** | Seaford, DE | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf67e?utm_campaign=1053&utm_source=git)** | Greenfield, IN | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf687?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf690?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf693?utm_campaign=1053&utm_source=git)** | Camden, TN | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf656?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf694?utm_campaign=1053&utm_source=git)** | Linton, IN | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf697?utm_campaign=1053&utm_source=git)** | Newport, KY | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf69d?utm_campaign=1053&utm_source=git)** | Methuen, MA | On Site | Nov 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6c4?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6c2?utm_campaign=1053&utm_source=git)** | Hermitage, PA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6ca?utm_campaign=1053&utm_source=git)** | Middleburg, FL | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6cc?utm_campaign=1053&utm_source=git)** | Torrance, CA | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6cf?utm_campaign=1053&utm_source=git)** | Claremont, NH | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
