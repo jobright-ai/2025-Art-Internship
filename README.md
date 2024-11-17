@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Studio Production Intern, Spring 2025](https://jobright.ai/jobs/info/673a2318ea249081c0977ce7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Nov 17 |
+| ↳ | **[Disney Entertainment Television Production Shared Services Intern, Spring 2025](https://jobright.ai/jobs/info/673a10a58a6d30e6b1ce7567?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle and Entertainment Show-Winter Intern 1](https://jobright.ai/jobs/info/66c7c3dbe9f0701d09066a13?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Nov 17 |
 | **[Bishops Bay Country Club](http://www.bishopsbay.com)** | **[Golf Assistant Intern](https://jobright.ai/jobs/info/6739657b7a4a7c39d5893f64?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Nov 16 |
 | **[Riot Games](http://www.riotgames.com)** | **[VFX Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6738dd1b15628e3d5ca23de5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 16 |
@@ -77,10 +79,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC10 Philadelphia Digital News Intern - Spring 2025](https://jobright.ai/jobs/info/6737d2939325e2ec27f27de2?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 15 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Museum and Institutional Partnerships Intern](https://jobright.ai/jobs/info/6737ab844deffe7a0562ed5d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Sports News Intern, Spring 2025](https://jobright.ai/jobs/info/67377c3d33d89b5b5d12632f?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Nov 15 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, WCCO Minnesota (Summer 2025)](https://jobright.ai/jobs/info/673a1008af04c4cb914ce7d0?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Nov 15 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut News Producer Internship - Spring 2025](https://jobright.ai/jobs/info/673776df9e2e92dfbfa0664c?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Nov 15 |
 | ↳ | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Spring 2025](https://jobright.ai/jobs/info/673776df9e2e92dfbfa06648?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Nov 15 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2025](https://jobright.ai/jobs/info/671ab7ffeb3c303a4dde9498?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 15 |
 | **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Event Services (Part-time)](https://jobright.ai/jobs/info/67398654d19f614a424c4ec9?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Nov 14 |
-| **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[Lyric Opera of Chicago is hiring: Digital Content Intern in Chicago](https://jobright.ai/jobs/info/6736e2e63f0ad04c585d4d9e?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6736cad35a392bc151e2f158?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 14 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Video Production Intern / 2025 Season](https://jobright.ai/jobs/info/6736af2cb998a2e3a3b44132?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 14 |
 | **[Flash Social](https://flashsocial.app/)** | **[Tiktok Content Creator](https://jobright.ai/jobs/info/6736a4d70c9a5bba69053085?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 14 |
@@ -122,8 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Regis Corporation](http://www.regiscorp.com/)** | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778440?utm_campaign=1053&utm_source=git)** | Edwardsville, IL | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350b32d9f5d9f97bb845a4?utm_campaign=1053&utm_source=git)** | Rolla, MO | On Site | Nov 13 |
 | **[Ladies Professional Golf Association (LPGA)](http://www.lpga.com)** | **[LPGA 2025 Summer Internship - Tour Ops Member Services Intern](https://jobright.ai/jobs/info/673517931d7acaa5ed4c4090?utm_campaign=1053&utm_source=git)** | Daytona Beach, FL | On Site | Nov 13 |
-| **[Regis Corporation](http://www.regiscorp.com/)** | **[Stylist Internship](https://jobright.ai/jobs/info/673510fd82508c2ce1f388ae?utm_campaign=1053&utm_source=git)** | North Myrtle Beach, SC | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778336?utm_campaign=1053&utm_source=git)** | Garden City, MI | On Site | Nov 13 |
+| **[Regis Corporation](http://www.regiscorp.com/)** | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778336?utm_campaign=1053&utm_source=git)** | Garden City, MI | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e08990778335?utm_campaign=1053&utm_source=git)** | Willow Street, PA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e0899077831b?utm_campaign=1053&utm_source=git)** | Oregon, OH | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e0899077830f?utm_campaign=1053&utm_source=git)** | Cumberland, RI | On Site | Nov 13 |
@@ -140,21 +142,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f7068cd?utm_campaign=1053&utm_source=git)** | Du Bois, PA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706866?utm_campaign=1053&utm_source=git)** | Somers Point, NJ | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f7068cf?utm_campaign=1053&utm_source=git)** | Elkins, WV | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706898?utm_campaign=1053&utm_source=git)** | Summerville, SC | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf67c?utm_campaign=1053&utm_source=git)** | Seaford, DE | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf67e?utm_campaign=1053&utm_source=git)** | Greenfield, IN | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf687?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf690?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf656?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf694?utm_campaign=1053&utm_source=git)** | Linton, IN | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf693?utm_campaign=1053&utm_source=git)** | Camden, TN | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf697?utm_campaign=1053&utm_source=git)** | Newport, KY | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf69d?utm_campaign=1053&utm_source=git)** | Methuen, MA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6a2?utm_campaign=1053&utm_source=git)** | Brooksville, FL | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6a3?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6aa?utm_campaign=1053&utm_source=git)** | Sevierville, TN | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6ad?utm_campaign=1053&utm_source=git)** | Glendale, AZ | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6aa?utm_campaign=1053&utm_source=git)** | Sevierville, TN | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6b9?utm_campaign=1053&utm_source=git)** | Blackfoot, ID | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6bc?utm_campaign=1053&utm_source=git)** | Clearfield, PA | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6bf?utm_campaign=1053&utm_source=git)** | Madison, OH | On Site | Nov 13 |
-| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6c4?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
