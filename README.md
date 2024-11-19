@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Ventures](http://www.redventures.com)** | **[Editor, Content Operations / The Points Guy](https://jobright.ai/jobs/info/67200a71292861b2e54aff2c?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 19 |
+| **[Paramount Global](https://www.paramountglobal.com/)** | **[THE LATE SHOW WITH STEPHEN COLBERT - SPRING 2025 INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/673c65d9379ae7e56010f962?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/673c27ffa9c14fe9ef0179a6?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 18 |
 | **[Boston College](http://www.bc.edu)** | **[Culinary Intern/CATERING](https://jobright.ai/jobs/info/673c17df9baf6451ab84ec1d?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | On Site | Nov 18 |
 | **[Aegon](https://www.aegon.com/)** | **[Content Creation/Writer and Research Intern (Spring 2025, Part-time Hours)](https://jobright.ai/jobs/info/673bfc8b555a768b9615532c?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 18 |
@@ -65,20 +67,9 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/673bb41e23a3d19e9a268b81?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Nov 18 |
 | **[PUMA Group](http://us.puma.com/)** | **[CONTENT CREATOR RUN/TRAIN – TEMP](https://jobright.ai/jobs/info/673ba7166f0477e2923fa51f?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Nov 18 |
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Experience: Events](https://jobright.ai/jobs/info/673b86aa00402ec3319f8c61?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 18 |
-| **[PUMA Group](http://us.puma.com/)** | **[Content Creator Run/Train – Temp](https://jobright.ai/jobs/info/673b76a7cea3bf79ebf7beb6?utm_campaign=1053&utm_source=git)** | PUMA Boston International Office | On Site | Nov 18 |
-| **[PatPat](https://us.patpat.com)** | **[PatPat is hiring: Content Creator in Los Angeles](https://jobright.ai/jobs/info/673b761605ab861f0b8726f3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 18 |
-| **[Council on Foreign Relations](https://www.cfr.org/)** | **[Internship, Digital Content, Editorial, Fall 2024 Job at Council on Foreign Rela](https://jobright.ai/jobs/info/673b761605ab861f0b87275c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 18 |
+| **[PUMA Group](http://us.puma.com/)** | **[Content Creator Run/Train – Temp](https://jobright.ai/jobs/info/673b76a7cea3bf79ebf7be6a?utm_campaign=1053&utm_source=git)** | PUMA Boston International Office | On Site | Nov 18 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/673b702dd81a700934eeb543?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 18 |
-| **[BluShark Digital](https://blusharkdigital.com)** | **[Digital Content/Copy Editing Internship - (Winter 2024) Job at BluShark Digital](https://jobright.ai/jobs/info/673b702dd81a700934eeb562?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 18 |
-| ↳ | **[Digital Content/Copy Editing Internship (Winter 2024) Job at BluShark Digital in](https://jobright.ai/jobs/info/673b702dd81a700934eeb564?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 18 |
-| **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Internship Job at Pencor Services Inc in Lehighton](https://jobright.ai/jobs/info/673b6dc2ce4574ea45037641?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Nov 18 |
-| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Writer/Content Creator: Student Assistant Job at Liberty University in Lynchburg](https://jobright.ai/jobs/info/673b6dc2ce4574ea450377bd?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Nov 18 |
-| **[Gorilla 76](http://gorilla76.com)** | **[Thinker &amp; Content Intern Job at Gorilla 76 in St Louis](https://jobright.ai/jobs/info/673b6dc2ce4574ea450377fd?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Nov 18 |
-| **[The University of Texas Rio Grande Valley](https://www.utrgv.edu/)** | **[University of Texas Rio Grande Valley is hiring: Creative Writing: Graduate Assi](https://jobright.ai/jobs/info/673b6bb2cde2dc557459130a?utm_campaign=1053&utm_source=git)** | Edinburg, TX | On Site | Nov 18 |
-| **[Gorilla 76](http://gorilla76.com)** | **[Thinker &amp; Content Intern Job at Gorilla 76 in Saint Louis](https://jobright.ai/jobs/info/673b78f2b34d5b54b0a07ccc?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Nov 18 |
-| **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[Digital Content Intern Job at Lyric Opera of Chicago in Chicago](https://jobright.ai/jobs/info/673b761605ab861f0b872795?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Nov 18 |
 | **[PatPat](https://us.patpat.com)** | **[Content Creator Job at PatPat in Los Angeles](https://jobright.ai/jobs/info/673b61aa71e0dfbb1560e898?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 18 |
-| **[Emerging Tech](https://emergingtech.co)** | **[Assistant Animator and Content Creator Analyst Job at Emerging Tech, LLC in Gain](https://jobright.ai/jobs/info/673b66ebddf92e6613200dd2?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Nov 18 |
 | **[Epiic](https://epiic.com)** | **[Writers at Pro & Expert Levels ($62-$136 per 1k words)](https://jobright.ai/jobs/info/673ac38219e2047502cb6da1?utm_campaign=1053&utm_source=git)** | Wilmington, DE | Hybrid | Nov 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Studio Production Intern, Spring 2025](https://jobright.ai/jobs/info/673a2318ea249081c0977ce7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Nov 17 |
 | ↳ | **[Disney Entertainment Television Production Shared Services Intern, Spring 2025](https://jobright.ai/jobs/info/673a10a58a6d30e6b1ce7567?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 17 |
@@ -137,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[ButcherBox](https://www.butcherbox.com)** | **[Video Production Intern - Culinary](https://jobright.ai/jobs/info/66eb3b7dc4305714cfc5902f?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | Nov 13 |
 | **[Gray Television](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WIBW](https://jobright.ai/jobs/info/67356114c4647772710708bc?utm_campaign=1053&utm_source=git)** | Topeka, KS | On Site | Nov 13 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - The Friend Digital Messaging (Church Magazines)](https://jobright.ai/jobs/info/67356905f39501db7baf3048?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 13 |
-| ↳ | **[Part Time Paid Intern – Youth Messaging Digital Editorial (Church Magazines)](https://jobright.ai/jobs/info/67356905f39501db7baf304d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 13 |
 | ↳ | **[Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67356905f39501db7baf304c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 13 |
+| ↳ | **[Part Time Paid Intern – Youth Messaging Digital Editorial (Church Magazines)](https://jobright.ai/jobs/info/67356905f39501db7baf304d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 13 |
 | ↳ | **[Paid Intern - For the Strength of Youth Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67355cf68953df310ef57495?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 13 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Video Production Intern / 2025 Season](https://jobright.ai/jobs/info/6736943a34ad0efd0359b461?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 13 |
 | ↳ | **[Video Production Intern / 2025 Season](https://jobright.ai/jobs/info/6736943a34ad0efd0359b458?utm_campaign=1053&utm_source=git)** | Frisco, Texas, United States | On Site | Nov 13 |
@@ -157,4 +148,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/673573c6a875e0899077847e?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706893?utm_campaign=1053&utm_source=git)** | Woodbridge, NJ | On Site | Nov 13 |
 | ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706889?utm_campaign=1053&utm_source=git)** | Sutton, WV | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706874?utm_campaign=1053&utm_source=git)** | Medford, OR | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f706866?utm_campaign=1053&utm_source=git)** | Somers Point, NJ | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f7068cd?utm_campaign=1053&utm_source=git)** | Du Bois, PA | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/67350015bbedbb454f7068cf?utm_campaign=1053&utm_source=git)** | Elkins, WV | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf67c?utm_campaign=1053&utm_source=git)** | Seaford, DE | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf656?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf694?utm_campaign=1053&utm_source=git)** | Linton, IN | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf69d?utm_campaign=1053&utm_source=git)** | Methuen, MA | On Site | Nov 13 |
+| ↳ | **[Stylist in Training / Apprentice Stylist](https://jobright.ai/jobs/info/6735817e0ca75b9411ebf6a0?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
