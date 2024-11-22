@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Programming Internship - Summer 2025](https://jobright.ai/jobs/info/6740112c69699fd38edb9bee?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 21 |
+| ↳ | **[NBCU Local Bay Area - Production Assistant Internship - Summer 2025](https://jobright.ai/jobs/info/6740112c69699fd38edb9be8?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 21 |
 | **[Gray Television](http://www.gray.tv)** | **[GRAY TELEVISION FUTURE FOCUS INTERN SPRING/SUMMER '25 - WBRC](https://jobright.ai/jobs/info/673fe7dd92aafae77f91db40?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Nov 21 |
 | **[Denver Botanic Gardens](http://www.botanicgardens.org)** | **[Bonsai Collection Management and Curation and Japanese Gardening Techniques Internship](https://jobright.ai/jobs/info/673fef27b63c227e393bc49e?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Nov 21 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[2025 Louis Vuitton Internship](https://jobright.ai/jobs/info/6726170744383f2b1ff51b4b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 21 |
@@ -96,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Assistant Curator - EKY BEREA](https://jobright.ai/jobs/info/673eb972774604faad2578f7?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Nov 20 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Podcast Production - HBCU - Part-Time](https://jobright.ai/jobs/info/67216245714df3bed04bcecb?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Nov 20 |
 | ↳ | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb9f?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 20 |
+| **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Events Intern / Spring 2025](https://jobright.ai/jobs/info/67402bc0717517508a6b2f4b?utm_campaign=1053&utm_source=git)** | Frisco, Texas, United States | On Site | Nov 20 |
 | **[The Associated Press](http://www.ap.org)** | **[Newsperson (Global News Intern, Race and Ethnicity Reporter)](https://jobright.ai/jobs/info/672e8382dd5d0e21448a82a0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[Academy Gold Rising - The Black List Internship (Summer 2025)](https://jobright.ai/jobs/info/673e62101e77af8f327b3447?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Nov 20 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2025](https://jobright.ai/jobs/info/673e6fbe2d481a1195dbd5d2?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Nov 20 |
@@ -131,6 +134,9 @@ For a complete list, click the following sortable link below:
 | **[Archdiocese of Milwaukee](https://www.archmil.org/archdiocese-milwaukee/home.htm)** | **[Archives Intern](https://jobright.ai/jobs/info/673cb8419649964bb6d389a4?utm_campaign=1053&utm_source=git)** | St Francis, WI | On Site | Nov 19 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Styling Intern](https://jobright.ai/jobs/info/671ff8fa900f241460764d1e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 19 |
 | **[Red Ventures](http://www.redventures.com)** | **[Editor, Content Operations / The Points Guy](https://jobright.ai/jobs/info/67200a71292861b2e54aff2c?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 19 |
+| **[Financial Times](http://ft.com)** | **[US Audio Summer Intern](https://jobright.ai/jobs/info/674050a28ac592b5302e6575?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Nov 19 |
+| ↳ | **[US Newsroom Summer Intern](https://jobright.ai/jobs/info/674050a28ac592b5302e6572?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Nov 19 |
+| **[Gray Television](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - KNOE](https://jobright.ai/jobs/info/673685682baf7921e032d95f?utm_campaign=1053&utm_source=git)** | Monroe, LA | On Site | Nov 18 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/673c27ffa9c14fe9ef0179a6?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 18 |
 | **[Boston College](http://www.bc.edu)** | **[Culinary Intern/CATERING](https://jobright.ai/jobs/info/673c17df9baf6451ab84ec1d?utm_campaign=1053&utm_source=git)** | Chestnut Hill, MA | On Site | Nov 18 |
 | **[Aegon](https://www.aegon.com/)** | **[Content Creation/Writer and Research Intern (Spring 2025, Part-time Hours)](https://jobright.ai/jobs/info/673bfc8b555a768b9615532c?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6738c760d899abbbe4bd86c6?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/6738b5e118486071fb53ea49?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 16 |
 | ↳ | **[Lifestyle Entertainment Winter Intern 2](https://jobright.ai/jobs/info/66c7c3dbe9f0701d09066a12?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Nov 16 |
-| **[Mount St. Joseph University](http://www.msj.edu)** | **[Digital Content and Editorial Co-Op](https://jobright.ai/jobs/info/6738747c699dec3abf2c794f?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Nov 16 |
-| **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Golf and Grounds Intern, 2025 Spring/Summer Season](https://jobright.ai/jobs/info/673824bbaade8bd98190d642?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Nov 15 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Studio Production Intern, Spring 2025](https://jobright.ai/jobs/info/6737f1acc8300f0a16c685db?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | Remote | Nov 15 |
-| **[South Carolina Department of Employment and Workforce](http://dew.sc.gov)** | **[REPOST: Videography Intern - Columbia](https://jobright.ai/jobs/info/6737f59fb444791c5246a8bb?utm_campaign=1053&utm_source=git)** | Richland County, SC | On Site | Nov 15 |
-| **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[Golf Course Maintenance Intern - Summer 2024](https://jobright.ai/jobs/info/6737e7754a5a7d93337eeaf7?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Nov 15 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Entertainment Television Production Shared Services Intern, Spring 2025](https://jobright.ai/jobs/info/6737e53d8d4eda1bdf6ea970?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
