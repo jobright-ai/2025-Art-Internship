@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67420cca2081e7c4a40fd577?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 23 |
+| **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS News Internships (Summer 2025, In Person - NYC)](https://jobright.ai/jobs/info/67420cca2081e7c4a40fd4ed?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 23 |
 | **[Travelers](https://www.travelers.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6b98?utm_campaign=1053&utm_source=git)** | Hartford, CT | Hybrid | Nov 22 |
-| **[TDI](http://tdinternational.com)** | **[TD International is hiring: Copy Editor in Washington](https://jobright.ai/jobs/info/6741677c437b65e3b9943dc3?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Nov 22 |
+| **[TDI](http://tdinternational.com)** | **[TD International is hiring: Copy Editor in Washington](https://jobright.ai/jobs/info/6741677c437b65e3b9943baa?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Nov 22 |
 | ↳ | **[TD International, LLC is hiring: Copy Editor in Washington](https://jobright.ai/jobs/info/6741677c437b65e3b9943dc7?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Nov 22 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Emerging Tech, LLC is hiring: Assistant Animator and Content Creator Analyst in](https://jobright.ai/jobs/info/6741677c437b65e3b9943e2b?utm_campaign=1053&utm_source=git)** | Gainesville, FL | Remote | Nov 22 |
 | **[PatPat](https://us.patpat.com)** | **[Content Creator Job at PatPat in Los Angeles](https://jobright.ai/jobs/info/674164562bdd7df83c487653?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PUMA Group](http://us.puma.com/)** | **[Content Creator Run/Train – Temp](https://jobright.ai/jobs/info/673cd49ff41d4f0e4b84c6d0?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Nov 19 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Digital Archive Intern](https://jobright.ai/jobs/info/67204cc6c572d46b14cd25a2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Research Intern](https://jobright.ai/jobs/info/673cbd139b276e71c549394d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 19 |
-| **[Archdiocese of Milwaukee](https://www.archmil.org/archdiocese-milwaukee/home.htm)** | **[Archives Intern](https://jobright.ai/jobs/info/673cb8419649964bb6d389a4?utm_campaign=1053&utm_source=git)** | St Francis, WI | On Site | Nov 19 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Styling Intern](https://jobright.ai/jobs/info/671ff8fa900f241460764d1e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
