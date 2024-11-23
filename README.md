@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Travelers](https://www.travelers.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6b98?utm_campaign=1053&utm_source=git)** | Hartford, CT | Hybrid | Nov 22 |
-| **[TDI](http://tdinternational.com)** | **[TD International is hiring: Copy Editor in Washington](https://jobright.ai/jobs/info/6741677c437b65e3b9943baa?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Nov 22 |
+| **[TDI](http://tdinternational.com)** | **[TD International is hiring: Copy Editor in Washington](https://jobright.ai/jobs/info/6741677c437b65e3b9943dc3?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Nov 22 |
 | ↳ | **[TD International, LLC is hiring: Copy Editor in Washington](https://jobright.ai/jobs/info/6741677c437b65e3b9943dc7?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Nov 22 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Emerging Tech, LLC is hiring: Assistant Animator and Content Creator Analyst in](https://jobright.ai/jobs/info/6741677c437b65e3b9943e2b?utm_campaign=1053&utm_source=git)** | Gainesville, FL | Remote | Nov 22 |
 | **[PatPat](https://us.patpat.com)** | **[Content Creator Job at PatPat in Los Angeles](https://jobright.ai/jobs/info/674164562bdd7df83c487653?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 22 |
@@ -86,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Events Intern / Spring 2025](https://jobright.ai/jobs/info/67409bfab7536279bf99e839?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 22 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6708e7c03812d8882709e78e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 22 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/6708ead2cee6942efe607ca5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Oak Park Mall](https://jobright.ai/jobs/info/6724b0ac95a947eb920c2609?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Nov 22 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Media Intern, Center for Communications, Media Strategy (Winter/Spring 2025)](https://jobright.ai/jobs/info/672404be8a79e99dcc818ccd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 22 |
 | **[Arbor Day Foundation](http://arborday.org)** | **[Student Contractor, Content Creator](https://jobright.ai/jobs/info/670981c5da79b28e4ea86040?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Nov 22 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/6709d93088f13f3637f36637?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 22 |
@@ -130,7 +131,8 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Editing Intern](https://jobright.ai/jobs/info/673e62101e77af8f327b37f6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Nov 20 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/673e7349144bdd628337b8e1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Nov 20 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Music and Audio Event Operations](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a212?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 20 |
-| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Music Production - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeba5?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 20 |
+| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb7f?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Nov 20 |
+| ↳ | **[Spring Intern, Music Production - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeba5?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 20 |
 | ↳ | **[Spring Intern, Podcast Producer (HBCU) - Part - Time](https://jobright.ai/jobs/info/672169287987123849ebeb97?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Nov 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Everyday Northwest Lifestyle Show Intern (unpaid)](https://jobright.ai/jobs/info/66cafef8423ff6807e053283?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Nov 19 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Corporate Travel (Memphis, TN or Remote)](https://jobright.ai/jobs/info/673d863ea81b8c817bdd3869?utm_campaign=1053&utm_source=git)** | Memphis, TN | Remote | Nov 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Research Intern](https://jobright.ai/jobs/info/673cbd139b276e71c549394d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 19 |
 | **[Archdiocese of Milwaukee](https://www.archmil.org/archdiocese-milwaukee/home.htm)** | **[Archives Intern](https://jobright.ai/jobs/info/673cb8419649964bb6d389a4?utm_campaign=1053&utm_source=git)** | St Francis, WI | On Site | Nov 19 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Styling Intern](https://jobright.ai/jobs/info/671ff8fa900f241460764d1e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 19 |
-| **[Red Ventures](http://www.redventures.com)** | **[Editor, Content Operations / The Points Guy](https://jobright.ai/jobs/info/67200a71292861b2e54aff2c?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 19 |
-| **[Gray Television](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - KNOE](https://jobright.ai/jobs/info/673685682baf7921e032d95f?utm_campaign=1053&utm_source=git)** | Monroe, LA | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
