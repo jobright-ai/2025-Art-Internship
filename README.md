@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Gen Z Fashion Board Internship Opportunity](https://jobright.ai/jobs/info/67435858ac94089e272351dd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 24 |
+| **[Emerging Tech](https://emergingtech.co)** | **[Assistant Animator and Content Creator Analyst Job at Emerging Tech, LLC in Gain](https://jobright.ai/jobs/info/67435295bc91563e7d995f07?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Nov 24 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67420cca2081e7c4a40fd577?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 23 |
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS News Internships (Summer 2025, In Person - NYC)](https://jobright.ai/jobs/info/67420cca2081e7c4a40fd4ed?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 23 |
 | **[Travelers](https://www.travelers.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6b98?utm_campaign=1053&utm_source=git)** | Hartford, CT | Hybrid | Nov 22 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring Intern](https://jobright.ai/jobs/info/67410d00a05a7947272346ae?utm_campaign=1053&utm_source=git)** | Huntsville, AL | On Site | Nov 22 |
 | ↳ | **[NewsNation News Internship Spring 2025 (Chicago, DC, New York)](https://jobright.ai/jobs/info/67410d00a05a7947272346b5?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 22 |
 | **[Travelers](https://www.travelers.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6740f5eae57668939158070b?utm_campaign=1053&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - NorthPark Center](https://jobright.ai/jobs/info/6740e4dd75a72fe787a7e49d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
 | **[Stila Cosmetics](http://www.stilacosmetics.com)** | **[Intern - Social and Video/Content Editing](https://jobright.ai/jobs/info/6740da8aeb8e42209dcc0895?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 22 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - NorthPark Center](https://jobright.ai/jobs/info/6740a451ade6457a8276009e?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Events Intern / Spring 2025](https://jobright.ai/jobs/info/67409bfab7536279bf99e839?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 22 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6708e7c03812d8882709e78e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 22 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/6708ead2cee6942efe607ca5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - WLJS Music Director (Spring 2025)](https://jobright.ai/jobs/info/673d406fe17d31780ea325f8?utm_campaign=1053&utm_source=git)** | Jacksonville, AL | On Site | Nov 19 |
 | **[Birmingham Barons](http://barons.com)** | **[2025 Entertainment and Fan Experience Intern](https://jobright.ai/jobs/info/673d0833c475c1de907892e4?utm_campaign=1053&utm_source=git)** | Birmingham, AL | Hybrid | Nov 19 |
 | **[Riot Games](http://www.riotgames.com)** | **[VFX Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6738dd1b15628e3d5ca23de5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
-| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KTVT Dallas/Ft Worth (Summer 2025)](https://jobright.ai/jobs/info/672d74518338365fa8de7aba?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Nov 19 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Spokane](https://jobright.ai/jobs/info/673d9ef7f53df77963c09d0d?utm_campaign=1053&utm_source=git)** | Spokane, WA | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
