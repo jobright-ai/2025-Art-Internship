@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Summer 2025 FOX Sports Internship Program - Big Ten Network - Chicago](https://jobright.ai/jobs/info/6744d13a750da448c527acf5?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, USA | On Site | Nov 25 |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6744a56bbcc5bdfd38d82ec9?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 25 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/67445b96a4d88f95bb8c50dd?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Nov 25 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/6744070b2c0acff1f3f9a5ba?utm_campaign=1053&utm_source=git)** | Cambridge, MA, USA | On Site | Nov 24 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[HR Video Production Co-op Spring 2025](https://jobright.ai/jobs/info/6743a73013a63081396fcd37?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Nov 24 |
@@ -65,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67420cca2081e7c4a40fd577?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 23 |
 | **[Travelers](https://www.travelers.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6b98?utm_campaign=1053&utm_source=git)** | Hartford, CT | Hybrid | Nov 22 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708e7c03812d8882709e769?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
-| **[TDI](http://tdinternational.com)** | **[TD International is hiring: Copy Editor in Washington](https://jobright.ai/jobs/info/6741677c437b65e3b9943dc3?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Nov 22 |
+| **[TDI](http://tdinternational.com)** | **[TD International is hiring: Copy Editor in Washington](https://jobright.ai/jobs/info/6741677c437b65e3b9943baa?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Nov 22 |
 | ↳ | **[TD International, LLC is hiring: Copy Editor in Washington](https://jobright.ai/jobs/info/6741677c437b65e3b9943dc7?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Nov 22 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Emerging Tech, LLC is hiring: Assistant Animator and Content Creator Analyst in](https://jobright.ai/jobs/info/6741677c437b65e3b9943e2b?utm_campaign=1053&utm_source=git)** | Gainesville, FL | Remote | Nov 22 |
 | **[PatPat](https://us.patpat.com)** | **[Content Creator Job at PatPat in Los Angeles](https://jobright.ai/jobs/info/674164562bdd7df83c487653?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 22 |
@@ -143,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, College Sports (HBCU) - Part-Time](https://jobright.ai/jobs/info/67216245714df3bed04bceda?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Nov 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Editing Intern](https://jobright.ai/jobs/info/673e62101e77af8f327b37f6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Nov 20 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/673e7349144bdd628337b8e1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Nov 20 |
+| **[Argus Media](https://www.argusmedia.com)** | **[Summer Internship 2025 - Editorial](https://jobright.ai/jobs/info/66e9d40cdbc8f327e4ac59c5?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Nov 20 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Music and Audio Event Operations](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a212?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 20 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb7f?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Nov 20 |
 | ↳ | **[Spring Intern, Music Production - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeba5?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[Academy Gold Rising - Monkeypaw Productions - Development Intern (Summer 2025)](https://jobright.ai/jobs/info/673d3e83d4ac23a7d38d65dd?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Nov 19 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6704b5999860709ccb4d3fb2?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Nov 19 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KCAL Los Angeles/Studio City (Summer 2025)](https://jobright.ai/jobs/info/672d74518338365fa8de7ad5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
-| **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[Academy Gold Rising - Panavision - Intern (Summer 2025)](https://jobright.ai/jobs/info/673d0f836bb433aefdd3319d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
-| **[Delaware North](http://www.delawarenorth.com/)** | **[Culinary Internship, Comerica Park](https://jobright.ai/jobs/info/673d0f836bb433aefdd33231?utm_campaign=1053&utm_source=git)** | Detroit, MI | Hybrid | Nov 19 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/673d06154c831a96f2245d7c?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
