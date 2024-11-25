@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/6744070b2c0acff1f3f9a5ba?utm_campaign=1053&utm_source=git)** | Cambridge, MA, USA | On Site | Nov 24 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[HR Video Production Co-op Spring 2025](https://jobright.ai/jobs/info/6743a73013a63081396fcd37?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Nov 24 |
 | **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Gen Z Fashion Board Internship Opportunity](https://jobright.ai/jobs/info/67435858ac94089e272351dd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 24 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Assistant Animator and Content Creator Analyst Job at Emerging Tech, LLC in Gain](https://jobright.ai/jobs/info/67435295bc91563e7d995f07?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Nov 24 |
+| **[Montage International](http://www.montageinternational.com)** | **[Culinary Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d61?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Nov 23 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67420cca2081e7c4a40fd577?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 23 |
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS News Internships (Summer 2025, In Person - NYC)](https://jobright.ai/jobs/info/67420cca2081e7c4a40fd4ed?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 23 |
 | **[Travelers](https://www.travelers.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6b98?utm_campaign=1053&utm_source=git)** | Hartford, CT | Hybrid | Nov 22 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Gorilla 76](http://gorilla76.com)** | **[Thinker &amp; Content Intern Job at Gorilla 76 in Saint Louis](https://jobright.ai/jobs/info/67416dd41f552c4eda58c4c5?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Nov 22 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Chautauqua Institution is hiring: Internship - Copy Editor (The Chautauquan Dail](https://jobright.ai/jobs/info/67415e98ce7b10d57ca09261?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Nov 22 |
 | **[Andrew Wommack Ministries, Inc.](http://www.awmi.net/)** | **[GTN Story Editor II Job at ANDREW WOMMACK MINISTRIES INC in Woodland Park](https://jobright.ai/jobs/info/67415c95f500b2ebbbde4b3c?utm_campaign=1053&utm_source=git)** | Woodland Park, CO | On Site | Nov 22 |
-| **[Duolingo](https://www.duolingo.com)** | **[2D Character Animator, Thrive Intern](https://jobright.ai/jobs/info/6743f124bb69a94790d18467?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 22 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Internship Job at Pencor Services Inc in Lehighton](https://jobright.ai/jobs/info/674169b0222271e39af6e68b?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Nov 22 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Copy Editor - Blazer Job at Joliet Junior College in Joliet](https://jobright.ai/jobs/info/6741677c437b65e3b9943e52?utm_campaign=1053&utm_source=git)** | Joliet, IL | On Site | Nov 22 |
 | **[Gorilla 76](http://gorilla76.com)** | **[Gorilla 76 is hiring: Thinker &amp; Content Intern in Saint Louis](https://jobright.ai/jobs/info/67415952f1197db4b1c357c7?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Nov 22 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring Intern](https://jobright.ai/jobs/info/67410d00a05a7947272346ae?utm_campaign=1053&utm_source=git)** | Huntsville, AL | On Site | Nov 22 |
 | ↳ | **[NewsNation News Internship Spring 2025 (Chicago, DC, New York)](https://jobright.ai/jobs/info/67410d00a05a7947272346b5?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 22 |
 | **[Travelers](https://www.travelers.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6740f5eae57668939158070b?utm_campaign=1053&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - NorthPark Center](https://jobright.ai/jobs/info/6740e4dd75a72fe787a7e49d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
 | **[Stila Cosmetics](http://www.stilacosmetics.com)** | **[Intern - Social and Video/Content Editing](https://jobright.ai/jobs/info/6740da8aeb8e42209dcc0895?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 22 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - NorthPark Center](https://jobright.ai/jobs/info/6740a451ade6457a8276009e?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Events Intern / Spring 2025](https://jobright.ai/jobs/info/67409bfab7536279bf99e839?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 22 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6708e7c03812d8882709e78e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 22 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/6708ead2cee6942efe607ca5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[Academy Gold Rising - Panavision - Intern (Summer 2025)](https://jobright.ai/jobs/info/673d0f836bb433aefdd3319d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Culinary Internship, Comerica Park](https://jobright.ai/jobs/info/673d0f836bb433aefdd33231?utm_campaign=1053&utm_source=git)** | Detroit, MI | Hybrid | Nov 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/673d06154c831a96f2245d7c?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 19 |
-| **[Jordan Mac Studios](http://www.jordanmacstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/673dde996ba7afe01d549af4?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
