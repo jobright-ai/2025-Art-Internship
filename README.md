@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[HR Video Production Co-op Spring 2025](https://jobright.ai/jobs/info/6743a73013a63081396fcd37?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Nov 24 |
 | **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Gen Z Fashion Board Internship Opportunity](https://jobright.ai/jobs/info/67435858ac94089e272351dd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 24 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Assistant Animator and Content Creator Analyst Job at Emerging Tech, LLC in Gain](https://jobright.ai/jobs/info/67435295bc91563e7d995f07?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Nov 24 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67420cca2081e7c4a40fd577?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 23 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Distribution Intern](https://jobright.ai/jobs/info/673d8f7592582bf018238a29?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 19 |
 | **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[Academy Gold Rising - Monkeypaw Productions - Development Intern (Summer 2025)](https://jobright.ai/jobs/info/673d3e83d4ac23a7d38d65dd?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Nov 19 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6704b5999860709ccb4d3fb2?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Nov 19 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KCAL Los Angeles/Studio City (Summer 2025)](https://jobright.ai/jobs/info/672d74518338365fa8de7ad5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
 | **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[Academy Gold Rising - Panavision - Intern (Summer 2025)](https://jobright.ai/jobs/info/673d0f836bb433aefdd3319d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Culinary Internship, Comerica Park](https://jobright.ai/jobs/info/673d0f836bb433aefdd33231?utm_campaign=1053&utm_source=git)** | Detroit, MI | Hybrid | Nov 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/673d06154c831a96f2245d7c?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 19 |
 | **[Jordan Mac Studios](http://www.jordanmacstudios.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/673dde996ba7afe01d549af4?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Nov 19 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - WLJS Music Director (Spring 2025)](https://jobright.ai/jobs/info/673d406fe17d31780ea325f8?utm_campaign=1053&utm_source=git)** | Jacksonville, AL | On Site | Nov 19 |
-| **[Birmingham Barons](http://barons.com)** | **[2025 Entertainment and Fan Experience Intern](https://jobright.ai/jobs/info/673d0833c475c1de907892e4?utm_campaign=1053&utm_source=git)** | Birmingham, AL | Hybrid | Nov 19 |
-| **[Riot Games](http://www.riotgames.com)** | **[VFX Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6738dd1b15628e3d5ca23de5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
