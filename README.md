@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Daily Beast](http://www.thedailybeast.com)** | **[Breaking News Intern](https://jobright.ai/jobs/info/66ff353b84a38684300850f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 25 |
+| **[FOX Sports](http://foxsports.com)** | **[Summer 2025 FOX Sports Internship Program - Big Ten Network - Chicago](https://jobright.ai/jobs/info/674513735afaf783e4a736cd?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 25 |
+| **[The Institute of Internal Auditors Inc.](https://na.theiia.org)** | **[Managing Editor, Internal Auditor Magazine](https://jobright.ai/jobs/info/67450cd437c3005e59001cbb?utm_campaign=1053&utm_source=git)** | Lake Mary, FL | On Site | Nov 25 |
+| **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2024 Editorial Intern](https://jobright.ai/jobs/info/6744f94a357f937f6502b298?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Nov 25 |
+| **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[PRODUCTION INTERNSHIP](https://jobright.ai/jobs/info/6744f7b8f9e4cc0a0d79d10a?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 25 |
+| **[Gray Television](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - KAIT](https://jobright.ai/jobs/info/6744d94ae4b411948bf143f6?utm_campaign=1053&utm_source=git)** | Jonesboro, AR | On Site | Nov 25 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Summer 2025 FOX Sports Internship Program - Big Ten Network - Chicago](https://jobright.ai/jobs/info/6744d13a750da448c527acf5?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, USA | On Site | Nov 25 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6744a56bbcc5bdfd38d82ec9?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 25 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/67445b96a4d88f95bb8c50dd?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Nov 25 |
@@ -94,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring Intern](https://jobright.ai/jobs/info/67410d00a05a7947272346ae?utm_campaign=1053&utm_source=git)** | Huntsville, AL | On Site | Nov 22 |
 | ↳ | **[NewsNation News Internship Spring 2025 (Chicago, DC, New York)](https://jobright.ai/jobs/info/67410d00a05a7947272346b5?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 22 |
 | **[Travelers](https://www.travelers.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6740f5eae57668939158070b?utm_campaign=1053&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - NorthPark Center](https://jobright.ai/jobs/info/6740e4dd75a72fe787a7e49d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
 | **[Stila Cosmetics](http://www.stilacosmetics.com)** | **[Intern - Social and Video/Content Editing](https://jobright.ai/jobs/info/6740da8aeb8e42209dcc0895?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 22 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - NorthPark Center](https://jobright.ai/jobs/info/6740a451ade6457a8276009e?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Events Intern / Spring 2025](https://jobright.ai/jobs/info/67409bfab7536279bf99e839?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 22 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6708e7c03812d8882709e78e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 22 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/6708ead2cee6942efe607ca5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Intern, Music Production - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeba5?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 20 |
 | ↳ | **[Spring Intern, Podcast Producer (HBCU) - Part - Time](https://jobright.ai/jobs/info/672169287987123849ebeb97?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Nov 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Everyday Northwest Lifestyle Show Intern (unpaid)](https://jobright.ai/jobs/info/66cafef8423ff6807e053283?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Nov 19 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Corporate Travel (Memphis, TN or Remote)](https://jobright.ai/jobs/info/673d863ea81b8c817bdd3869?utm_campaign=1053&utm_source=git)** | Memphis, TN | Remote | Nov 19 |
-| ↳ | **[Summer 2025 Intern - Music and Audio Event Operations](https://jobright.ai/jobs/info/673d863ea81b8c817bdd3864?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 19 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Distribution Intern](https://jobright.ai/jobs/info/673d8f7592582bf018238a29?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 19 |
-| **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[Academy Gold Rising - Monkeypaw Productions - Development Intern (Summer 2025)](https://jobright.ai/jobs/info/673d3e83d4ac23a7d38d65dd?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Nov 19 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6704b5999860709ccb4d3fb2?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Nov 19 |
-| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KCAL Los Angeles/Studio City (Summer 2025)](https://jobright.ai/jobs/info/672d74518338365fa8de7ad5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
