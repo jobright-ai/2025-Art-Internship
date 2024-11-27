@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Bartley Fellowship - Book Review Internship](https://jobright.ai/jobs/info/6747184c308c2c67915e370d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Costume Shop Intern](https://jobright.ai/jobs/info/67469fa23405206a65b7dfa3?utm_campaign=1053&utm_source=git)** | Boston Conservatory at Berklee | On Site | Nov 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67468e723356795e0ae3f0e3?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67467aea5c96bf00329e6c77?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Nov 26 |
@@ -77,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Bartley Fellowship - Opinion Internship](https://jobright.ai/jobs/info/67460bdb64c9f44bb08b5aa2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2025 Editorial Intern](https://jobright.ai/jobs/info/6744f94a357f937f6502b298?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Nov 26 |
 | **[NewDay USA](https://newdayusa.com/)** | **[Winter Break Intern](https://jobright.ai/jobs/info/672027c189b66198735ef84d?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Nov 26 |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internship - VFX](https://jobright.ai/jobs/info/674711cdd3b3e60f9fa128a8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | **[Mars](https://www.mars.com)** | **[Winter 2025 Mars Museum Collections Management Internship – McLean, VA. (Part-Time)](https://jobright.ai/jobs/info/67294b1b2b6e69c549ae87f0?utm_campaign=1053&utm_source=git)** | McLean, VA | On Site | Nov 26 |
 | **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[Internal Media Content Creator](https://jobright.ai/jobs/info/6729d30879aa1f4ba0d9e614?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 26 |
 | **[PatPat](https://us.patpat.com)** | **[PatPat / Content Creator / los angeles, ca](https://jobright.ai/jobs/info/67455220c9924ab720802c4c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 25 |
@@ -96,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/6744070b2c0acff1f3f9a5ba?utm_campaign=1053&utm_source=git)** | Cambridge, MA, USA | On Site | Nov 24 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[HR Video Production Co-op Spring 2025](https://jobright.ai/jobs/info/6743a73013a63081396fcd37?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Nov 24 |
 | **[Montage International](http://www.montageinternational.com)** | **[Culinary Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d61?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Nov 23 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Production Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 23 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708e7c03812d8882709e769?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
-| **[Andrew Wommack Ministries, Inc.](http://www.awmi.net/)** | **[GTN Story Editor II Job at ANDREW WOMMACK MINISTRIES INC in Woodland Park](https://jobright.ai/jobs/info/67415c95f500b2ebbbde4b3c?utm_campaign=1053&utm_source=git)** | Woodland Park, CO | On Site | Nov 22 |
 | **[Menlo School](https://www.menloschool.org/)** | **[Stage Manager Intern (4-5 positions)](https://jobright.ai/jobs/info/6741482b7b1fa134faad9e33?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 22 |
 | ↳ | **[Audiovisual Intern (1 position)](https://jobright.ai/jobs/info/6741482b7b1fa134faad9e19?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 22 |
 | ↳ | **[Events and Hospitality Intern (2 positions)](https://jobright.ai/jobs/info/6741482b7b1fa134faad9e72?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 22 |
@@ -140,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Narrative Ads](https://narrativeads.com/)** | **[Narrative Student Internship: Content Creation Intern](https://jobright.ai/jobs/info/673f9b99f1a587ecd5f6ded9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 21 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Tournament Services - Intern](https://jobright.ai/jobs/info/673f7e37ba9a98de2118c444?utm_campaign=1053&utm_source=git)** | Palm Beach Gardens, FL | On Site | Nov 21 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Content Consolidation Coordinator Co-Op](https://jobright.ai/jobs/info/673f6eb0a147e9da1558cfbc?utm_campaign=1053&utm_source=git)** | USA, Ewing, NJ | On Site | Nov 21 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Studio Tech Internship - Summer 2025](https://jobright.ai/jobs/info/673f6a1b8850a760d10c6085?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 21 |
 | **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[2025 Talent Development Program- Character Technical Director Apprenticeship](https://jobright.ai/jobs/info/673f58087070f8748cc32126?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 21 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Video Intern (Full-Time)](https://jobright.ai/jobs/info/673f48aa6880da9ac9d662a9?utm_campaign=1053&utm_source=git)** | St. Louis | Hybrid | Nov 21 |
 | **[Holiday World & Splashin' Safari](https://www.holidayworld.com/)** | **[Holiday World & Splashin' Safari Seasonal Intern](https://jobright.ai/jobs/info/673f3c9b376039b9ab44f2ea?utm_campaign=1053&utm_source=git)** | Santa Claus, IN | On Site | Nov 21 |
@@ -154,7 +155,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb9f?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 20 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Events Intern / Spring 2025](https://jobright.ai/jobs/info/67402bc0717517508a6b2f4b?utm_campaign=1053&utm_source=git)** | Frisco, Texas, United States | On Site | Nov 20 |
 | **[The Associated Press](http://www.ap.org)** | **[Newsperson (Global News Intern, Race and Ethnicity Reporter)](https://jobright.ai/jobs/info/672e8382dd5d0e21448a82a0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
-| **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[Academy Gold Rising - The Black List Internship (Summer 2025)](https://jobright.ai/jobs/info/673e62101e77af8f327b3447?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Nov 20 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2025](https://jobright.ai/jobs/info/673e6fbe2d481a1195dbd5d2?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Nov 20 |
-| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, College Sports (HBCU) - Part-Time](https://jobright.ai/jobs/info/67216245714df3bed04bceda?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
