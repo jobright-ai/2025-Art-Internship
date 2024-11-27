@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67465e398fa876440d577558?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Nov 26 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67468e723356795e0ae3f0e3?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 26 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67467aea5c96bf00329e6c77?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Nov 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67466f6e0494c2da2e92c993?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/67465e398fa876440d577558?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Nov 26 |
 | **[Advisor.](www.advisormag.co)** | **[Fashion Writing Intern](https://jobright.ai/jobs/info/674654579eecbca9f68d70bd?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Xanterra Travel Collection](http://www.xanterra.com/)** | **[Culinary Internship - Yellowstone Food & Beverage - Seasonal](https://jobright.ai/jobs/info/6746572e9492827c0bfd70e7?utm_campaign=1053&utm_source=git)** | Park County, WY | On Site | Nov 26 |
 | ↳ | **[2025 Summer Golf and Greenskeeping Internship- Oasis at Death Valley](https://jobright.ai/jobs/info/6746572e9492827c0bfd7119?utm_campaign=1053&utm_source=git)** | Death Valley, CA | On Site | Nov 26 |
@@ -94,10 +97,12 @@ For a complete list, click the following sortable link below:
 | **[Montage International](http://www.montageinternational.com)** | **[Culinary Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d61?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Nov 23 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708e7c03812d8882709e769?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[Andrew Wommack Ministries, Inc.](http://www.awmi.net/)** | **[GTN Story Editor II Job at ANDREW WOMMACK MINISTRIES INC in Woodland Park](https://jobright.ai/jobs/info/67415c95f500b2ebbbde4b3c?utm_campaign=1053&utm_source=git)** | Woodland Park, CO | On Site | Nov 22 |
+| **[Duolingo](https://www.duolingo.com)** | **[2D Character Animator, Thrive Intern](https://jobright.ai/jobs/info/6746934627c7a209c0c3aff4?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 22 |
 | **[Menlo School](https://www.menloschool.org/)** | **[Stage Manager Intern (4-5 positions)](https://jobright.ai/jobs/info/6741482b7b1fa134faad9e33?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 22 |
 | ↳ | **[Audiovisual Intern (1 position)](https://jobright.ai/jobs/info/6741482b7b1fa134faad9e19?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 22 |
 | ↳ | **[Events and Hospitality Intern (2 positions)](https://jobright.ai/jobs/info/6741482b7b1fa134faad9e72?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 22 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/6709ac741581bee82e0a108f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 22 |
+| **[Montage International](http://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Deer Valley](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d5f?utm_campaign=1053&utm_source=git)** | Deer Valley, UT | On Site | Nov 22 |
 | **[Texas Tech University](http://www.depts.ttu.edu/icfie/)** | **[Department Intern - Art](https://jobright.ai/jobs/info/67412e352185b7536d24f166?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Nov 22 |
 | **[Kimball International](https://www.kimballinternational.com)** | **[Sewing Associate, MFG, Kimball International - Danville, KY](https://jobright.ai/jobs/info/6741196f5843fcd03c9b7c25?utm_campaign=1053&utm_source=git)** | Danville, KY | On Site | Nov 22 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, Albany Spring 2025](https://jobright.ai/jobs/info/672429729bea1ed07f423075?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[Academy Gold Rising - The Black List Internship (Summer 2025)](https://jobright.ai/jobs/info/673e62101e77af8f327b3447?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Nov 20 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2025](https://jobright.ai/jobs/info/673e6fbe2d481a1195dbd5d2?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Nov 20 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, College Sports (HBCU) - Part-Time](https://jobright.ai/jobs/info/67216245714df3bed04bceda?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Nov 20 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/673e7349144bdd628337b8e1?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Nov 20 |
-| **[Argus Media](https://www.argusmedia.com)** | **[Summer Internship 2025 - Editorial](https://jobright.ai/jobs/info/66e9d40cdbc8f327e4ac59c5?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Nov 20 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Music and Audio Event Operations](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a212?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 20 |
-| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeb7f?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Nov 20 |
-| ↳ | **[Spring Intern, Music Production - Part-Time](https://jobright.ai/jobs/info/672169287987123849ebeba5?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
