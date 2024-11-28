@@ -57,19 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Magazine Internship](https://jobright.ai/jobs/info/6747a5a09b4663e8065e2803?utm_campaign=1053&utm_source=git)** | Manhattan, NY | Hybrid | Nov 27 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 New York Internships – Summer 2025](https://jobright.ai/jobs/info/6747a7b7d4ce2e6e20e189ec?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 27 |
+| ↳ | **[NBCU News Group Technology Internships – Summer 2025](https://jobright.ai/jobs/info/6747a7b7d4ce2e6e20e189ed?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 27 |
+| ↳ | **[Local Stations Production & Editorial Internships – Summer 2025](https://jobright.ai/jobs/info/6747a7b7d4ce2e6e20e189ef?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 27 |
+| **[San Francisco Giants](https://www.mlb.com/giants)** | **[Associate, Baseball Video Systems (San Francisco)](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1bdb?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 27 |
+| **[MPOWER Financing](http://www.mpowerfinancing.com)** | **[Internship - Video Production - Washington D.C., USA](https://jobright.ai/jobs/info/674781ba1a25ad86fdf504e3?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 27 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Assistant Animator and Content Creator Analyst](https://jobright.ai/jobs/info/67474a25e50b087a2889fa11?utm_campaign=1053&utm_source=git)** | Gainesville, FL | Remote | Nov 27 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Spring News Intern](https://jobright.ai/jobs/info/67473173af660d862a11022f?utm_campaign=1053&utm_source=git)** | 200 S. Alto Mesa Drive, El Paso, TX, 79912, US | On Site | Nov 27 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Bartley Fellowship - Book Review Internship](https://jobright.ai/jobs/info/6747184c308c2c67915e370d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Costume Shop Intern](https://jobright.ai/jobs/info/67469fa23405206a65b7dfa3?utm_campaign=1053&utm_source=git)** | Boston Conservatory at Berklee | On Site | Nov 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67468e723356795e0ae3f0e3?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67467aea5c96bf00329e6c77?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Nov 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67466f6e0494c2da2e92c993?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
+| **[University of Florida](https://www.ufl.edu)** | **[Special Collections Student Assistant - Special and Area Studies Collections (SASC)](https://jobright.ai/jobs/info/67478f8ea915d8e50c1bee1b?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Nov 26 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/67466f6e0494c2da2e92c993?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/67465e398fa876440d577558?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Nov 26 |
 | **[Xanterra Travel Collection](http://www.xanterra.com/)** | **[Culinary Internship - Yellowstone Food & Beverage - Seasonal](https://jobright.ai/jobs/info/6746572e9492827c0bfd70e7?utm_campaign=1053&utm_source=git)** | Park County, WY | On Site | Nov 26 |
 | ↳ | **[2025 Summer Golf and Greenskeeping Internship- Oasis at Death Valley](https://jobright.ai/jobs/info/6746572e9492827c0bfd7119?utm_campaign=1053&utm_source=git)** | Death Valley, CA | On Site | Nov 26 |
 | **[NoGood](https://nogood.io)** | **[Content Creator Intern](https://jobright.ai/jobs/info/67464d29307203721e6d9664?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern Spring 2025](https://jobright.ai/jobs/info/674645a45be0a0a096c4e79c?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Nov 26 |
-| **[SMT (SportsMEDIA Technology)](http://www.smt.com)** | **[Sports Events Spring Intern](https://jobright.ai/jobs/info/6746419881fec35e7e33ec56?utm_campaign=1053&utm_source=git)** | Jacksonville, FL | On Site | Nov 26 |
 | **[Speedway Motorsports](https://www.speedwaymotorsports.com/)** | **[Intern](https://jobright.ai/jobs/info/67463e3ad985f62686d009ff?utm_campaign=1053&utm_source=git)** | Concord, NC | On Site | Nov 26 |
 | **[SMT (SportsMEDIA Technology)](http://www.smt.com)** | **[Sports Events Summer Intern](https://jobright.ai/jobs/info/674633e8e24bb0ba37485300?utm_campaign=1053&utm_source=git)** | Jacksonville, FL | On Site | Nov 26 |
 | **[Woodward Communications, Inc.](https://www.wcinet.com/)** | **[INTERN](https://jobright.ai/jobs/info/67462bdb47e907a8c18062b8?utm_campaign=1053&utm_source=git)** | Dyersville, IA | On Site | Nov 26 |
@@ -110,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring Intern](https://jobright.ai/jobs/info/67410d00a05a7947272346ae?utm_campaign=1053&utm_source=git)** | Huntsville, AL | On Site | Nov 22 |
 | ↳ | **[NewsNation News Internship Spring 2025 (Chicago, DC, New York)](https://jobright.ai/jobs/info/67410d00a05a7947272346b5?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 22 |
 | **[Travelers](https://www.travelers.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6740f5eae57668939158070b?utm_campaign=1053&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - NorthPark Center](https://jobright.ai/jobs/info/6740a451ade6457a8276009e?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - NorthPark Center](https://jobright.ai/jobs/info/6740e4dd75a72fe787a7e49d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Events Intern / Spring 2025](https://jobright.ai/jobs/info/67409bfab7536279bf99e839?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 22 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6708e7c03812d8882709e78e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 22 |
 | ↳ | **[Summer 2025 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/6708ead2cee6942efe607ca5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
@@ -147,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Holiday World & Splashin' Safari](https://www.holidayworld.com/)** | **[Holiday World & Splashin' Safari Seasonal Intern](https://jobright.ai/jobs/info/673f3c9b376039b9ab44f2ea?utm_campaign=1053&utm_source=git)** | Santa Claus, IN | On Site | Nov 21 |
 | **[TEGNA](http://www.tegna.com)** | **[2025 Summer Intern - News / Multiple Locations](https://jobright.ai/jobs/info/673f0d3e3b75412ef857b0e3?utm_campaign=1053&utm_source=git)** | Tysons, Virginia, United States | On Site | Nov 21 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring) - Washington, DC](https://jobright.ai/jobs/info/6705c7b4f5062092d1f9cb50?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - News Internship – Academic Year '24-'25](https://jobright.ai/jobs/info/673ed5defdf016f8d8c2c275?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
