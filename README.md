@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Washington Post](https://www.washingtonpost.com)** | **[Summer Intern, Creator Experience](https://jobright.ai/jobs/info/6749eade49b4023db9516630?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Nov 29 |
+| ↳ | **[Summer Intern, Creator Experience](https://jobright.ai/jobs/info/6749e65b37e46e29b747c345?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 29 |
+| **[The Information](https://www.theinformation.com)** | **[Summer Intern 2025](https://jobright.ai/jobs/info/6749ecff69778733df480864?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 29 |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6749e11a247306724849e82b?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 29 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Dance-Costume Shop0 Assistant and Stitcher(CWS)](https://jobright.ai/jobs/info/67490e2a0233923d3b8d9dc3?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
 | ↳ | **[Student Employee-Athletics-Creative Media Team](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec198?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
 | ↳ | **[student Employee-KSHU Student Staff-Filmmaker](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec1e6?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
@@ -76,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Bartley Fellowship - Book Review Internship](https://jobright.ai/jobs/info/6747184c308c2c67915e370d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Costume Shop Intern](https://jobright.ai/jobs/info/67469fa23405206a65b7dfa3?utm_campaign=1053&utm_source=git)** | Boston Conservatory at Berklee | On Site | Nov 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67468e723356795e0ae3f0e3?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 26 |
-| **[Titmouse](https://www.titmouse.net)** | **[Titmouse Artistic Mentorship Program - Design & Paint [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fda?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
-| ↳ | **[Titmouse Artistic Mentorship Program - Storyboarding [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fef?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
+| **[Titmouse](https://www.titmouse.net)** | **[Titmouse Artistic Mentorship Program - Storyboarding [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fef?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
+| ↳ | **[Titmouse Artistic Mentorship Program - Design & Paint [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fda?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67467aea5c96bf00329e6c77?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Nov 26 |
 | **[University of Florida](https://www.ufl.edu)** | **[Special Collections Student Assistant - Special and Area Studies Collections (SASC)](https://jobright.ai/jobs/info/67478f8ea915d8e50c1bee1b?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Nov 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/67466f6e0494c2da2e92c993?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
@@ -113,13 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Production Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 23 |
 | ↳ | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 23 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708e7c03812d8882709e769?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
-| **[Duolingo](https://www.duolingo.com)** | **[2D Character Animator, Thrive Intern](https://jobright.ai/jobs/info/6749328fc7f1d12438a52fcc?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 22 |
-| **[Menlo School](https://www.menloschool.org/)** | **[Stage Manager Intern (4-5 positions)](https://jobright.ai/jobs/info/6741482b7b1fa134faad9e33?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 22 |
-| ↳ | **[Audiovisual Intern (1 position)](https://jobright.ai/jobs/info/6741482b7b1fa134faad9e19?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 22 |
-| ↳ | **[Events and Hospitality Intern (2 positions)](https://jobright.ai/jobs/info/6741482b7b1fa134faad9e72?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 22 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/6709ac741581bee82e0a108f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 22 |
-| **[Montage International](http://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Deer Valley](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d5f?utm_campaign=1053&utm_source=git)** | Deer Valley, UT | On Site | Nov 22 |
-| **[Texas Tech University](http://www.depts.ttu.edu/icfie/)** | **[Department Intern - Art](https://jobright.ai/jobs/info/67412e352185b7536d24f166?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Nov 22 |
-| **[Kimball International](https://www.kimballinternational.com)** | **[Sewing Associate, MFG, Kimball International - Danville, KY](https://jobright.ai/jobs/info/6741196f5843fcd03c9b7c25?utm_campaign=1053&utm_source=git)** | Danville, KY | On Site | Nov 22 |
-| **[POLITICO](http://www.politico.com)** | **[Editorial Internship, Albany Spring 2025](https://jobright.ai/jobs/info/672429729bea1ed07f423075?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
