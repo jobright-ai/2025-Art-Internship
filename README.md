@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Spring 2025](https://jobright.ai/jobs/info/6748c51bd132fa3682abcfcc?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 28 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Athletics-Creative Media Team](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec198?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
+| ↳ | **[student Employee-KSHU Student Staff-Filmmaker](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec1e6?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
+| ↳ | **[Student Employee-The Houstonian Student Newspaper-News Editor](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec1b3?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
+| **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Winter/Spring 2025)](https://jobright.ai/jobs/info/670edb83468f998f8d657e10?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 28 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Reporter, Wealth ](https://jobright.ai/jobs/info/67484809852c8e2478442bf4?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Nov 28 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6747fcd672c704258800389c?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 27 |
 | **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Magazine Internship](https://jobright.ai/jobs/info/6747a5a09b4663e8065e2803?utm_campaign=1053&utm_source=git)** | Manhattan, NY | Hybrid | Nov 27 |
