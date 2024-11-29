@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Athletics-Creative Media Team](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec198?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Dance-Costume Shop0 Assistant and Stitcher(CWS)](https://jobright.ai/jobs/info/67490e2a0233923d3b8d9dc3?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
+| ↳ | **[Student Employee-Athletics-Creative Media Team](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec198?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
 | ↳ | **[student Employee-KSHU Student Staff-Filmmaker](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec1e6?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
 | ↳ | **[Student Employee-The Houstonian Student Newspaper-News Editor](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec1b3?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
+| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Spring 2025](https://jobright.ai/jobs/info/67493818af7babdce63d071c?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 28 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Winter/Spring 2025)](https://jobright.ai/jobs/info/670edb83468f998f8d657e10?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 28 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Reporter, Wealth ](https://jobright.ai/jobs/info/67484809852c8e2478442bf4?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Nov 28 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6747fcd672c704258800389c?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 27 |
@@ -112,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Production Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 23 |
 | ↳ | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 23 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708e7c03812d8882709e769?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
+| **[Duolingo](https://www.duolingo.com)** | **[2D Character Animator, Thrive Intern](https://jobright.ai/jobs/info/6749328fc7f1d12438a52fcc?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 22 |
 | **[Menlo School](https://www.menloschool.org/)** | **[Stage Manager Intern (4-5 positions)](https://jobright.ai/jobs/info/6741482b7b1fa134faad9e33?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 22 |
 | ↳ | **[Audiovisual Intern (1 position)](https://jobright.ai/jobs/info/6741482b7b1fa134faad9e19?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 22 |
 | ↳ | **[Events and Hospitality Intern (2 positions)](https://jobright.ai/jobs/info/6741482b7b1fa134faad9e72?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 22 |
@@ -125,14 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/6740f5eae57668939158070b?utm_campaign=1053&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - NorthPark Center](https://jobright.ai/jobs/info/6740e4dd75a72fe787a7e49d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Events Intern / Spring 2025](https://jobright.ai/jobs/info/67409bfab7536279bf99e839?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 22 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6708e7c03812d8882709e78e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 22 |
-| ↳ | **[Summer 2025 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/6708ead2cee6942efe607ca5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Oak Park Mall](https://jobright.ai/jobs/info/6724b0ac95a947eb920c2609?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Nov 22 |
-| **[National Education Association](http://www.nea.org)** | **[NEA Media Intern, Center for Communications, Media Strategy (Winter/Spring 2025)](https://jobright.ai/jobs/info/672404be8a79e99dcc818ccd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 22 |
-| **[Arbor Day Foundation](http://arborday.org)** | **[Student Contractor, Content Creator](https://jobright.ai/jobs/info/670981c5da79b28e4ea86040?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Nov 22 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/6709d93088f13f3637f36637?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 22 |
-| **[Authentic Brands Group](https://authentic.com)** | **[Authentic Studios Spring Intern](https://jobright.ai/jobs/info/674128bb177b1b791c033d2d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
-| ↳ | **[Production Spring Intern](https://jobright.ai/jobs/info/6723c3c6a9a8ef24d3598754?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 22 |
-| **[ButcherBox](https://www.butcherbox.com)** | **[Video Production Intern - Culinary](https://jobright.ai/jobs/info/66eb5de4bbf3f49862203922?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | Nov 22 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/6708ead2cee6942efe607ce9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
