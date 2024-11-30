@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seven Hills Foundation](http://www.sevenhills.org)** | **[Intern](https://jobright.ai/jobs/info/674b4822ef48d6b5966ddd82?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Nov 30 |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/674b3dba868d06f46629434a?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 30 |
 | **[The Associated Press](http://www.ap.org)** | **[Newsperson (Global News Intern, Women in Sports Reporter)](https://jobright.ai/jobs/info/672e8382dd5d0e21448a828d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 30 |
 | ↳ | **[Videojournalist (Global News Intern, Washington Videojournalist)](https://jobright.ai/jobs/info/672e8382dd5d0e21448a828e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 30 |
 | ↳ | **[Newsperson (Global News Intern, Entertainment Reporter)](https://jobright.ai/jobs/info/672e8382dd5d0e21448a8289?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 30 |
@@ -118,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Activision](https://www.activision.com/)** | **[2025 US Summer Internship - VFX](https://jobright.ai/jobs/info/674aaa945f2d39233cd4fc43?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Costume Shop Intern](https://jobright.ai/jobs/info/67469fa23405206a65b7dfa3?utm_campaign=1053&utm_source=git)** | Boston Conservatory at Berklee | On Site | Nov 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67468e723356795e0ae3f0e3?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 26 |
-| **[Titmouse](https://www.titmouse.net)** | **[Titmouse Artistic Mentorship Program - Design & Paint [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fda?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
-| ↳ | **[Titmouse Artistic Mentorship Program - Storyboarding [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fef?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
+| **[Titmouse](https://www.titmouse.net)** | **[Titmouse Artistic Mentorship Program - Storyboarding [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fef?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
+| ↳ | **[Titmouse Artistic Mentorship Program - Design & Paint [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fda?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67467aea5c96bf00329e6c77?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Nov 26 |
 | **[University of Florida](https://www.ufl.edu)** | **[Special Collections Student Assistant - Special and Area Studies Collections (SASC)](https://jobright.ai/jobs/info/67478f8ea915d8e50c1bee1b?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Nov 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/67466f6e0494c2da2e92c993?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
