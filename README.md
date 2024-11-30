@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delaware North](http://www.delawarenorth.com/)** | **[Culinary Internship, Great American Ballpark](https://jobright.ai/jobs/info/674a594b21d4c9d7cd89a61d?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 29 |
+| ↳ | **[Culinary Internship, Comerica Park](https://jobright.ai/jobs/info/674a552b2bd58d749f8bd2d0?utm_campaign=1053&utm_source=git)** | Detroit, MI | Hybrid | Nov 29 |
+| ↳ | **[Culinary Internship, American Family Field](https://jobright.ai/jobs/info/674a552b2bd58d749f8bd2c0?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 29 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Summer Intern, Creator Experience](https://jobright.ai/jobs/info/6749eade49b4023db9516630?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Nov 29 |
 | ↳ | **[Summer Intern, Creator Experience](https://jobright.ai/jobs/info/6749e65b37e46e29b747c345?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 29 |
 | **[The Information](https://www.theinformation.com)** | **[Summer Intern 2025](https://jobright.ai/jobs/info/6749ecff69778733df480864?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 29 |
@@ -65,6 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Employee-Athletics-Creative Media Team](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec198?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
 | ↳ | **[student Employee-KSHU Student Staff-Filmmaker](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec1e6?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
 | ↳ | **[Student Employee-The Houstonian Student Newspaper-News Editor](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec1b3?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Reuters News Internship Program 2024 (Temp Guild) – New York – Graphics Internship](https://jobright.ai/jobs/info/672bd0f1272dfef88974ac4e?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 28 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Winter/Spring 2025)](https://jobright.ai/jobs/info/670edb83468f998f8d657e10?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 28 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Reporter, Wealth ](https://jobright.ai/jobs/info/67484809852c8e2478442bf4?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Nov 28 |
 | **[Cosm](https://www.cosm.com)** | **[Content Editor Intern](https://jobright.ai/jobs/info/672b01f931235e93a49d30f8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 27 |
@@ -80,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Bartley Fellowship - Book Review Internship](https://jobright.ai/jobs/info/6747184c308c2c67915e370d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Costume Shop Intern](https://jobright.ai/jobs/info/67469fa23405206a65b7dfa3?utm_campaign=1053&utm_source=git)** | Boston Conservatory at Berklee | On Site | Nov 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67468e723356795e0ae3f0e3?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 26 |
-| **[Titmouse](https://www.titmouse.net)** | **[Titmouse Artistic Mentorship Program - Storyboarding [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fef?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
-| ↳ | **[Titmouse Artistic Mentorship Program - Design & Paint [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fda?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
+| **[Titmouse](https://www.titmouse.net)** | **[Titmouse Artistic Mentorship Program - Design & Paint [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fda?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
+| ↳ | **[Titmouse Artistic Mentorship Program - Storyboarding [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fef?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67467aea5c96bf00329e6c77?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Nov 26 |
 | **[University of Florida](https://www.ufl.edu)** | **[Special Collections Student Assistant - Special and Area Studies Collections (SASC)](https://jobright.ai/jobs/info/67478f8ea915d8e50c1bee1b?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Nov 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/67466f6e0494c2da2e92c993?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
@@ -116,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Montage International](http://www.montageinternational.com)** | **[Culinary Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d61?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Nov 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Production Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 23 |
 | ↳ | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e0?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 23 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708e7c03812d8882709e769?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
