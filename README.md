@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Park Ridge Country Club](https://parkridgecc.org)** | **[PGA Golf Intern](https://jobright.ai/jobs/info/674ce25b025d9316e79f7290?utm_campaign=1053&utm_source=git)** | Park Ridge, IL | On Site | Dec 01 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring Intern](https://jobright.ai/jobs/info/674cd152e61374359c691df0?utm_campaign=1053&utm_source=git)** | Huntsville, AL | On Site | Dec 01 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Distribution Intern](https://jobright.ai/jobs/info/674cddb78bc2145344f6ad9c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 01 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/674c816e83cfceee043704a9?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 01 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Video Intern (Full-Time)](https://jobright.ai/jobs/info/674c413025d44b9b160d826e?utm_campaign=1053&utm_source=git)** | St Louis, MO | Hybrid | Dec 01 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[670 The Score Fall Internship](https://jobright.ai/jobs/info/66c5246e93950544f36d9633?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Dec 01 |
@@ -78,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Concordia Publishing House](https://www.cph.org/default.aspx?)** | **[Concordia Publishing House is hiring: Music/Worship Intern in Saint Louis](https://jobright.ai/jobs/info/674a9c140d45b364505a035a?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Nov 29 |
 | ↳ | **[Music/Worship Intern Job at Concordia Publishing House in Saint Louis](https://jobright.ai/jobs/info/674a9c140d45b364505a035c?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Nov 29 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Pooled Position Limited Tempor - Copy editor, Branding Iron newspaper Job at Uni](https://jobright.ai/jobs/info/674a9c140d45b364505a05a8?utm_campaign=1053&utm_source=git)** | Laramie, WY | On Site | Nov 29 |
-| **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[Lyric Opera of Chicago is hiring: Digital Content Intern in Chicago](https://jobright.ai/jobs/info/674aa508806abf2b9372f60b?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Nov 29 |
+| **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[Lyric Opera of Chicago is hiring: Digital Content Intern in Chicago](https://jobright.ai/jobs/info/674a98051851a1057d4ed87e?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Nov 29 |
 | **[Reflex Performance Resources](https://www.90degreebyreflex.com/)** | **[[Full time Intern] Fashion Production for Activewear Apparel Brand Job at Reflex](https://jobright.ai/jobs/info/674a98051851a1057d4ed473?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | ↳ | **[Reflex Performance Resources is hiring: [Full time Intern] Fashion Production fo](https://jobright.ai/jobs/info/674a98051851a1057d4ed475?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Internship Job at Pencor Services Inc in Lehighton](https://jobright.ai/jobs/info/674a98051851a1057d4ed530?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Nov 29 |
@@ -97,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Culinary Internship, American Family Field](https://jobright.ai/jobs/info/674a552b2bd58d749f8bd2c0?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 29 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Summer Intern, Creator Experience](https://jobright.ai/jobs/info/6749eade49b4023db9516630?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Nov 29 |
 | ↳ | **[Summer Intern, Creator Experience](https://jobright.ai/jobs/info/6749e65b37e46e29b747c345?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 29 |
-| **[The Information](https://www.theinformation.com)** | **[Summer Intern 2025](https://jobright.ai/jobs/info/6749ecff69778733df480864?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 29 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6749e11a247306724849e82b?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 29 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Spring 2025](https://jobright.ai/jobs/info/674a8b703694fba68d98407e?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Dance-Costume Shop0 Assistant and Stitcher(CWS)](https://jobright.ai/jobs/info/67490e2a0233923d3b8d9dc3?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Bartley Fellowship - Book Review Internship](https://jobright.ai/jobs/info/6747184c308c2c67915e370d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Costume Shop Intern](https://jobright.ai/jobs/info/67469fa23405206a65b7dfa3?utm_campaign=1053&utm_source=git)** | Boston Conservatory at Berklee | On Site | Nov 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67468e723356795e0ae3f0e3?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 26 |
-| **[Titmouse](https://www.titmouse.net)** | **[Titmouse Artistic Mentorship Program - Storyboarding [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fef?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
-| ↳ | **[Titmouse Artistic Mentorship Program - Design & Paint [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fda?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
+| **[Titmouse](https://www.titmouse.net)** | **[Titmouse Artistic Mentorship Program - Design & Paint [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fda?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
+| ↳ | **[Titmouse Artistic Mentorship Program - Storyboarding [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fef?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67467aea5c96bf00329e6c77?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Nov 26 |
 | **[University of Florida](https://www.ufl.edu)** | **[Special Collections Student Assistant - Special and Area Studies Collections (SASC)](https://jobright.ai/jobs/info/67478f8ea915d8e50c1bee1b?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Nov 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/67466f6e0494c2da2e92c993?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
@@ -151,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6b98?utm_campaign=1053&utm_source=git)** | Hartford, CT | Hybrid | Nov 25 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6744a56bbcc5bdfd38d82ec9?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Nov 25 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/67445b96a4d88f95bb8c50dd?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Nov 25 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/6744070b2c0acff1f3f9a5ba?utm_campaign=1053&utm_source=git)** | Cambridge, MA, USA | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
