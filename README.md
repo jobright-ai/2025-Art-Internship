@@ -57,9 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Live Booking Intern](https://jobright.ai/jobs/info/674e4bf050ca74e91b7bc8ee?utm_campaign=1053&utm_source=git)** | Work From Home - California - Los Angeles | On Site | Dec 02 |
+| **[Atlanta Hawks](https://www.nba.com/hawks)** | **[Creative Video Producer (Hawk Studios), HBCU Pathways Internship](https://jobright.ai/jobs/info/674e466daca75bc3e365d725?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
+| **[Compass Health Center](https://compasshealthcenter.net)** | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e34906214014a2428e7a1?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, United States | On Site | Dec 02 |
+| ↳ | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e34906214014a2428ec55?utm_campaign=1053&utm_source=git)** | Oak Brook, Illinois, United States | On Site | Dec 02 |
+| **[JPL](https://jpl.agency)** | **[Event Intern (Summer 2025)](https://jobright.ai/jobs/info/674e4117034677c992cd1c51?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Dec 02 |
+| **[CNBC](http://www.cnbc.com)** | **[CNBC Production & Editorial Internships – Summer 2025](https://jobright.ai/jobs/info/674e2a8cec00fc6d856bc1ba?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 02 |
+| **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/674e2518a5dc411694ec1b22?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Dec 02 |
+| **[Homes.com](http://www.homes.com)** | **[Homes.com Video Editor Internship - Spring 2025](https://jobright.ai/jobs/info/674e2518a5dc411694ec1b1c?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 02 |
+| **[PGA TOUR](http://www.pgatour.com)** | **[Intern - Tournament Services, Truist Championship](https://jobright.ai/jobs/info/674e2a8cec00fc6d856bbfe9?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 02 |
+| **[Gray Television](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WANF](https://jobright.ai/jobs/info/674e14e35af32e87e1ba64c4?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
+| **[BJU Press](https://www.bjupress.com/page/Home)** | **[BJU Press Editorial Student Internship (Spring Semester 2025)](https://jobright.ai/jobs/info/674e21af0eebee95207112ce?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Dec 02 |
 | **[Minot State University](http://www.minotstateu.edu/)** | **[Student-Multimedia Content Creator](https://jobright.ai/jobs/info/674e0c190f011f63d3498b21?utm_campaign=1053&utm_source=git)** | Minot, ND | On Site | Dec 02 |
-| **[CoStar Group](http://www.costargroup.com/)** | **[Homes.com Video Editor Internship - Spring 2025](https://jobright.ai/jobs/info/674ddf5e32a1a34b17db189d?utm_campaign=1053&utm_source=git)** | US-VA Richmond | On Site | Dec 02 |
-| **[PGA TOUR](http://www.pgatour.com)** | **[Intern - Tournament Services, Truist Championship](https://jobright.ai/jobs/info/674dd3fff08857557a813442?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 02 |
+| **[CoStar Group](http://www.costargroup.com/)** | **[Homes.com Video Editor Internship - Spring 2025](https://jobright.ai/jobs/info/674ddf5e32a1a34b17db1972?utm_campaign=1053&utm_source=git)** | US-VA Richmond | On Site | Dec 02 |
 | **[Bishops Bay Country Club](http://www.bishopsbay.com)** | **[Golf Assistant Intern](https://jobright.ai/jobs/info/674d33de07ca17a559e9b88c?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Dec 01 |
 | **[The Information](https://www.theinformation.com)** | **[Summer Intern 2025](https://jobright.ai/jobs/info/674d1dc3d3ba939a1aae5bfc?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
 | **[Park Ridge Country Club](https://parkridgecc.org)** | **[PGA Golf Intern](https://jobright.ai/jobs/info/674ce25b025d9316e79f7290?utm_campaign=1053&utm_source=git)** | Park Ridge, IL | On Site | Dec 01 |
@@ -120,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[Spring News Intern](https://jobright.ai/jobs/info/67473173af660d862a11022f?utm_campaign=1053&utm_source=git)** | 200 S. Alto Mesa Drive, El Paso, TX, 79912, US | On Site | Nov 27 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Costume Shop Intern](https://jobright.ai/jobs/info/67469fa23405206a65b7dfa3?utm_campaign=1053&utm_source=git)** | Boston Conservatory at Berklee | On Site | Nov 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67468e723356795e0ae3f0e3?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Nov 26 |
-| **[Titmouse](https://www.titmouse.net)** | **[Titmouse Artistic Mentorship Program - Storyboarding [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fef?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
-| ↳ | **[Titmouse Artistic Mentorship Program - Design & Paint [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fda?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
+| **[Titmouse](https://www.titmouse.net)** | **[Titmouse Artistic Mentorship Program - Design & Paint [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fda?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
+| ↳ | **[Titmouse Artistic Mentorship Program - Storyboarding [Spring 2025]](https://jobright.ai/jobs/info/67483af949657b07edd76fef?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Nov 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67467aea5c96bf00329e6c77?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Nov 26 |
 | **[University of Florida](https://www.ufl.edu)** | **[Special Collections Student Assistant - Special and Area Studies Collections (SASC)](https://jobright.ai/jobs/info/67478f8ea915d8e50c1bee1b?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Nov 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/67466f6e0494c2da2e92c993?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
@@ -132,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern Spring 2025](https://jobright.ai/jobs/info/674645a45be0a0a096c4e79c?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Nov 26 |
 | **[Woodward Communications, Inc.](https://www.wcinet.com/)** | **[INTERN](https://jobright.ai/jobs/info/67462bdb47e907a8c18062b8?utm_campaign=1053&utm_source=git)** | Dyersville, IA | On Site | Nov 26 |
 | **[NEOGOV](http://www.neogov.com)** | **[Special Projects Intern – Centennial Event](https://jobright.ai/jobs/info/674619aca8d8d353a7f96c88?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | Hybrid | Nov 26 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Bartley Fellowship - Opinion Internship](https://jobright.ai/jobs/info/67460bdb64c9f44bb08b5aa2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2025 Editorial Intern](https://jobright.ai/jobs/info/6744f94a357f937f6502b298?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Nov 26 |
 | **[NewDay USA](https://newdayusa.com/)** | **[Winter Break Intern](https://jobright.ai/jobs/info/672027c189b66198735ef84d?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Nov 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern (Part-time)](https://jobright.ai/jobs/info/66d70375738bc7c92b176b38?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Nov 26 |
