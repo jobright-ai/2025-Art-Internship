@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Talent Booking Intern](https://jobright.ai/jobs/info/674fae14404c27aacbfa985c?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | On Site | Dec 03 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/674faca2247c6f0d63309c16?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Dec 03 |
+| ↳ | **[Spring News Intern](https://jobright.ai/jobs/info/674fa6b467b4a01747806358?utm_campaign=1053&utm_source=git)** | El Paso, TX | On Site | Dec 03 |
+| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, POTUS - Part-Time](https://jobright.ai/jobs/info/674fa33dee1b75a8ffe87f04?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 03 |
 | **[Seven Hills Foundation](http://www.sevenhills.org)** | **[Intern](https://jobright.ai/jobs/info/674f9b5abc19ed49eab83141?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Dec 03 |
 | **[Little Caesars Pizza](http://littlecaesars.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a901e?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 03 |
 | **[Middlebury College](http://www.middlebury.edu/)** | **[MUSC Costume Assistant (AY 24-25 901086)](https://jobright.ai/jobs/info/674f8d0cef346a070d449fbb?utm_campaign=1053&utm_source=git)** | Middlebury, VT | On Site | Dec 03 |
@@ -64,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[St. John's University](https://www.stjohns.edu)** | **[Athletic Events and Programming Intern](https://jobright.ai/jobs/info/674f6c215c269692ab3269ee?utm_campaign=1053&utm_source=git)** | Queens, NY | On Site | Dec 03 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Lifeway Women, Editor / Bible Studies](https://jobright.ai/jobs/info/674f66392d84ea3382b590b4?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 03 |
 | ↳ | **[Remote Summer Internship - Women's Events](https://jobright.ai/jobs/info/674f692d1d85b244c0a42a75?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 03 |
-| **[University of Nevada, Reno](http://www.unr.edu/)** | **[Student Worker - Staff Editor, Brushfire Journal](https://jobright.ai/jobs/info/674f4bc9dfef7ab54722ffe9?utm_campaign=1053&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Dec 03 |
-| ↳ | **[Student Worker - Copy Editor, Insight Magazine](https://jobright.ai/jobs/info/674f4bc9dfef7ab54722fff0?utm_campaign=1053&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Dec 03 |
+| **[University of Nevada, Reno](http://www.unr.edu/)** | **[Student Worker - Copy Editor, Insight Magazine](https://jobright.ai/jobs/info/674f4bc9dfef7ab54722fff0?utm_campaign=1053&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Dec 03 |
+| ↳ | **[Student Worker - Staff Editor, Brushfire Journal](https://jobright.ai/jobs/info/674f4bc9dfef7ab54722ffe9?utm_campaign=1053&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Dec 03 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hershey Lodge Culinary Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/674f3d838cf3048a901917c9?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Dec 03 |
 | ↳ | **[The Chocolatier Culinary Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/674f3d838cf3048a901917cc?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Dec 03 |
 | ↳ | **[The Hotel Hershey Culinary Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/674f3d838cf3048a901917d6?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Dec 03 |
@@ -82,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Remote Summer Internship - Editorial / Kids Books](https://jobright.ai/jobs/info/674e6a7447dd8e657fa26512?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Live Booking Intern](https://jobright.ai/jobs/info/674e4bf050ca74e91b7bc8ee?utm_campaign=1053&utm_source=git)** | Work From Home - California - Los Angeles | On Site | Dec 02 |
 | **[Atlanta Hawks](https://www.nba.com/hawks)** | **[Creative Video Producer (Hawk Studios), HBCU Pathways Internship](https://jobright.ai/jobs/info/674e466daca75bc3e365d725?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
-| **[Compass Health Center](https://compasshealthcenter.net)** | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e34906214014a2428ec55?utm_campaign=1053&utm_source=git)** | Oak Brook, Illinois, United States | On Site | Dec 02 |
-| ↳ | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e34906214014a2428e7a1?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, United States | On Site | Dec 02 |
+| **[Compass Health Center](https://compasshealthcenter.net)** | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e34906214014a2428e7a1?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, United States | On Site | Dec 02 |
+| ↳ | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e34906214014a2428ec55?utm_campaign=1053&utm_source=git)** | Oak Brook, Illinois, United States | On Site | Dec 02 |
 | **[JPL](https://jpl.agency)** | **[Event Intern (Summer 2025)](https://jobright.ai/jobs/info/674e4117034677c992cd1c51?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Dec 02 |
 | **[CNBC](http://www.cnbc.com)** | **[CNBC Production & Editorial Internships – Summer 2025](https://jobright.ai/jobs/info/674e2a8cec00fc6d856bc1ba?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 02 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/674e2518a5dc411694ec1b22?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Dec 02 |
@@ -92,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Gray Television](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WANF](https://jobright.ai/jobs/info/674e14e35af32e87e1ba64c4?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
 | **[BJU Press](https://www.bjupress.com/page/Home)** | **[BJU Press Editorial Student Internship (Spring Semester 2025)](https://jobright.ai/jobs/info/674e21af0eebee95207112ce?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Dec 02 |
 | **[Minot State University](http://www.minotstateu.edu/)** | **[Student-Multimedia Content Creator](https://jobright.ai/jobs/info/674e0c190f011f63d3498b21?utm_campaign=1053&utm_source=git)** | Minot, ND | On Site | Dec 02 |
-| **[CoStar Group](http://www.costargroup.com/)** | **[Homes.com Video Editor Internship - Spring 2025](https://jobright.ai/jobs/info/674ddf5e32a1a34b17db1972?utm_campaign=1053&utm_source=git)** | US-VA Richmond | On Site | Dec 02 |
+| **[CoStar Group](http://www.costargroup.com/)** | **[Homes.com Video Editor Internship - Spring 2025](https://jobright.ai/jobs/info/674ddf5e32a1a34b17db189d?utm_campaign=1053&utm_source=git)** | US-VA Richmond | On Site | Dec 02 |
 | **[Bishops Bay Country Club](http://www.bishopsbay.com)** | **[Golf Assistant Intern](https://jobright.ai/jobs/info/674d33de07ca17a559e9b88c?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Dec 01 |
 | **[The Information](https://www.theinformation.com)** | **[Summer Intern 2025](https://jobright.ai/jobs/info/674d1dc3d3ba939a1aae5bfc?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
 | **[Pittsburgh International Airport](https://flypittsburgh.com/allegheny-county-airport/)** | **[Arts & Culture Intern](https://jobright.ai/jobs/info/674e4fb4d6fa870fa3ec3a0e?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 01 |
