@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67546cf7de3170c6d94efac9?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 07 |
 | **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[Newsroom Internship Program (Summer 2025)](https://jobright.ai/jobs/info/67543436e89ff92bcc175f74?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Hybrid | Dec 07 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program – Video Production Team](https://jobright.ai/jobs/info/6753ee5219ce28f8c3dc6983?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Dec 06 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Event Production Intern](https://jobright.ai/jobs/info/6753c29d85b5468c3c6e2aaa?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Dec 06 |
@@ -86,8 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CBS News Intern, KDKA Pittsburgh (Summer 2025)](https://jobright.ai/jobs/info/67532f02ae618c905a9dfdd5?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 06 |
 | **[Gray Television](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - KLTV/KTRE](https://jobright.ai/jobs/info/67532831d545bee9786aeae1?utm_campaign=1053&utm_source=git)** | Tyler, TX | On Site | Dec 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Spring 2025](https://jobright.ai/jobs/info/671afc7567b5841dd56a73be?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 06 |
-| **[Reach Records](https://www.reachrecords.com)** | **[Reach Records Label Operations &amp; Publishing Intern - Fall 2024 Job at Reach](https://jobright.ai/jobs/info/67527f92590934997eb16a19?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
-| ↳ | **[Reach Records Studio Internship - Fall 2024 Job at Reach Records in Atlanta](https://jobright.ai/jobs/info/67527f92590934997eb169d5?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
+| **[Reach Records](https://www.reachrecords.com)** | **[Reach Records Studio Internship - Fall 2024 Job at Reach Records in Atlanta](https://jobright.ai/jobs/info/67527f92590934997eb169d5?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[Academy Gold Rising - Monkeypaw Productions - Development Intern (Summer 2025)](https://jobright.ai/jobs/info/67527182d567239875e5cb1b?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Dec 05 |
 | **[BCI Brands](https://www.bcibrands.com)** | **[Missy Apparel Team Intern (Immediate START)](https://jobright.ai/jobs/info/6752a32c0fb3ba8bdd87bdea?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Dec 05 |
 | **[Paul Smith](https://www.paulsmith.co.uk)** | **[Press & VIP, Intern North America](https://jobright.ai/jobs/info/67523787147d13afcd60e549?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 05 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Virginia Museum of History & Culture](https://virginiahistory.org)** | **[Curatorial Intern](https://jobright.ai/jobs/info/67537457198ccf475d31158a?utm_campaign=1053&utm_source=git)** | Richmond, VA | Hybrid | Dec 03 |
 | **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[Paid Intern - Content Studio](https://jobright.ai/jobs/info/674f99a6e13051b24868100f?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 03 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Women's Events](https://jobright.ai/jobs/info/674f692d1d85b244c0a42a75?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 03 |
-| **[University of Nevada, Reno](http://www.unr.edu/)** | **[Student Worker - Copy Editor, Insight Magazine](https://jobright.ai/jobs/info/674f4bc9dfef7ab54722fff0?utm_campaign=1053&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Dec 03 |
-| ↳ | **[Student Worker - Staff Editor, Brushfire Journal](https://jobright.ai/jobs/info/674f4bc9dfef7ab54722ffe9?utm_campaign=1053&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Dec 03 |
-| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hershey Lodge Culinary Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/674f3d838cf3048a901917c9?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Dec 03 |
-| ↳ | **[The Chocolatier Culinary Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/674f3d838cf3048a901917cc?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Dec 03 |
+| **[University of Nevada, Reno](http://www.unr.edu/)** | **[Student Worker - Staff Editor, Brushfire Journal](https://jobright.ai/jobs/info/674f4bc9dfef7ab54722ffe9?utm_campaign=1053&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Dec 03 |
+| ↳ | **[Student Worker - Copy Editor, Insight Magazine](https://jobright.ai/jobs/info/674f4bc9dfef7ab54722fff0?utm_campaign=1053&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Dec 03 |
+| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Chocolatier Culinary Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/674f3d838cf3048a901917cc?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Dec 03 |
+| ↳ | **[Hershey Lodge Culinary Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/674f3d838cf3048a901917c9?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
