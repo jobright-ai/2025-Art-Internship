@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[Newsroom Internship Program (Summer 2025)](https://jobright.ai/jobs/info/67543436e89ff92bcc175f74?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Hybrid | Dec 07 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program – Video Production Team](https://jobright.ai/jobs/info/6753ee5219ce28f8c3dc6983?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Dec 06 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Event Production Intern](https://jobright.ai/jobs/info/6753c29d85b5468c3c6e2aaa?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Dec 06 |
 | ↳ | **[Event Production Intern](https://jobright.ai/jobs/info/6753c29d85b5468c3c6e2aab?utm_campaign=1053&utm_source=git)** | Waltham, MA | On Site | Dec 06 |
@@ -151,7 +152,6 @@ For a complete list, click the following sortable link below:
 | **[Middlebury College](http://www.middlebury.edu/)** | **[MUSC Costume Assistant (AY 24-25 901086)](https://jobright.ai/jobs/info/674f8d0cef346a070d449fbb?utm_campaign=1053&utm_source=git)** | Middlebury, VT | On Site | Dec 03 |
 | **[Virginia Museum of History & Culture](https://virginiahistory.org)** | **[Curatorial Intern](https://jobright.ai/jobs/info/67537457198ccf475d31158a?utm_campaign=1053&utm_source=git)** | Richmond, VA | Hybrid | Dec 03 |
 | **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[Paid Intern - Content Studio](https://jobright.ai/jobs/info/674f99a6e13051b24868100f?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 03 |
-| **[St. John's University](https://www.stjohns.edu)** | **[Athletic Events and Programming Intern](https://jobright.ai/jobs/info/674f6c215c269692ab3269ee?utm_campaign=1053&utm_source=git)** | Queens, NY | On Site | Dec 03 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Women's Events](https://jobright.ai/jobs/info/674f692d1d85b244c0a42a75?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 03 |
 | **[University of Nevada, Reno](http://www.unr.edu/)** | **[Student Worker - Copy Editor, Insight Magazine](https://jobright.ai/jobs/info/674f4bc9dfef7ab54722fff0?utm_campaign=1053&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Dec 03 |
 | ↳ | **[Student Worker - Staff Editor, Brushfire Journal](https://jobright.ai/jobs/info/674f4bc9dfef7ab54722ffe9?utm_campaign=1053&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Dec 03 |
