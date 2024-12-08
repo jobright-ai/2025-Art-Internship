@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[HR Video Production Co-op Spring 2025](https://jobright.ai/jobs/info/6755e6b170fcdf2b2b47f819?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Dec 08 |
+| **[Cider](https://shop.shopcider.com)** | **[Cider / Styling Intern / los angeles, ca](https://jobright.ai/jobs/info/6755c044f3a488c6e510d883?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 08 |
 | **[The Information](https://www.theinformation.com)** | **[Summer Intern 2025](https://jobright.ai/jobs/info/6754bc96c9289cb45fe92542?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 07 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67546cf7de3170c6d94efac9?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Newsroom Intern, Spring 2025](https://jobright.ai/jobs/info/671ae85d3bc7f25709273e11?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 07 |
 | **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[Newsroom Internship Program (Summer 2025)](https://jobright.ai/jobs/info/67543436e89ff92bcc175f74?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Hybrid | Dec 07 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program – Video Production Team](https://jobright.ai/jobs/info/6753ee5219ce28f8c3dc6983?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Dec 06 |
-| **[National MS Society](http://www.nationalmssociety.org)** | **[Event Production Intern](https://jobright.ai/jobs/info/6753c29d85b5468c3c6e2aaa?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Dec 06 |
-| ↳ | **[Event Production Intern](https://jobright.ai/jobs/info/6753c29d85b5468c3c6e2aab?utm_campaign=1053&utm_source=git)** | Waltham, MA | On Site | Dec 06 |
+| **[National MS Society](http://www.nationalmssociety.org)** | **[Event Production Intern](https://jobright.ai/jobs/info/6753c29d85b5468c3c6e2aab?utm_campaign=1053&utm_source=git)** | Waltham, MA | On Site | Dec 06 |
+| ↳ | **[Event Production Intern](https://jobright.ai/jobs/info/6753c29d85b5468c3c6e2aaa?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Dec 06 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Golf Club Ops Intern](https://jobright.ai/jobs/info/6753d656d75d94b897c50d45?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Dec 06 |
 | **[Getty Images](https://www.gettyimages.com)** | **[Internship Immersion Program for Content Creation, Editorial Entertainment](https://jobright.ai/jobs/info/67538ceeba1e3a7a824939cc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 06 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Booking Intern](https://jobright.ai/jobs/info/67538450c98b36a49f8ab258?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 06 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Golf Operations Intern](https://jobright.ai/jobs/info/67534e49ffd92b89a7d83410?utm_campaign=1053&utm_source=git)** | Loch Lloyd Country Club  - Main Clubhouse | On Site | Dec 06 |
 | **[The Frick Collection](http://www.frick.org/)** | **[Conservation Internship for Graduate Students](https://jobright.ai/jobs/info/6753416ef1b1cfefc443fa65?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Dec 06 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Collection & Archivist Intern (Student Intern Level II), Quality & Safety *Grant Funded/Temporary* 14 hours/week](https://jobright.ai/jobs/info/67535efd17c10eade25568a7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 06 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Spring 2025](https://jobright.ai/jobs/info/671ab7ffeb3c303a4dde94ae?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | Hybrid | Dec 06 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6753286e94c05de2d5b3a450?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 06 |
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS News Intern, WBZ Boston (Summer 2025)](https://jobright.ai/jobs/info/6753286e94c05de2d5b3a3d3?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Dec 06 |
 | ↳ | **[CBS News Intern, WCBS New York (Summer 2025)](https://jobright.ai/jobs/info/6753286e94c05de2d5b3a3c8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 06 |
@@ -122,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67527f92590934997eb16d28?utm_campaign=1053&utm_source=git)** | Middleton, WI | On Site | Dec 04 |
 | **[PatPat](https://us.patpat.com)** | **[PatPat / Content Creator / los angeles, ca](https://jobright.ai/jobs/info/67513de0a4025cf72fbbd9cd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 04 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Editorial Intern, The Daily Beast's Obsessed](https://jobright.ai/jobs/info/6750bb84eb126c53ce4ad52e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/6750c6a2712417332dae7216?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Dec 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/6750d0c51f63d912779f513d?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Dec 04 |
 | **[Vita Coco](https://www.thevitacococompany.com)** | **[Coconut Content Community Connoisseur](https://jobright.ai/jobs/info/6750bb84eb126c53ce4ad5b4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Content Video Production](https://jobright.ai/jobs/info/6750b1dee6ed5b0e08c99ea8?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Dec 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Middlebury College](http://www.middlebury.edu/)** | **[MUSC Costume Assistant (AY 24-25 901086)](https://jobright.ai/jobs/info/674f8d0cef346a070d449fbb?utm_campaign=1053&utm_source=git)** | Middlebury, VT | On Site | Dec 03 |
 | **[Virginia Museum of History & Culture](https://virginiahistory.org)** | **[Curatorial Intern](https://jobright.ai/jobs/info/67537457198ccf475d31158a?utm_campaign=1053&utm_source=git)** | Richmond, VA | Hybrid | Dec 03 |
 | **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[Paid Intern - Content Studio](https://jobright.ai/jobs/info/674f99a6e13051b24868100f?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 03 |
-| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Women's Events](https://jobright.ai/jobs/info/674f692d1d85b244c0a42a75?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 03 |
-| **[University of Nevada, Reno](http://www.unr.edu/)** | **[Student Worker - Staff Editor, Brushfire Journal](https://jobright.ai/jobs/info/674f4bc9dfef7ab54722ffe9?utm_campaign=1053&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Dec 03 |
-| ↳ | **[Student Worker - Copy Editor, Insight Magazine](https://jobright.ai/jobs/info/674f4bc9dfef7ab54722fff0?utm_campaign=1053&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Dec 03 |
-| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hershey Lodge Culinary Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/674f3d838cf3048a901917c9?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
