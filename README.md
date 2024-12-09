@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[New York City Summer Intern](https://jobright.ai/jobs/info/6756e7b0ad086d190a344ca0?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Dec 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring 2025 News Internship](https://jobright.ai/jobs/info/67565f9f86d2e1e3f42cfe21?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Dec 08 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/67565f9f86d2e1e3f42cfe22?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Dec 08 |
 | ↳ | **[News Internship](https://jobright.ai/jobs/info/67565f9f86d2e1e3f42cfe23?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Dec 08 |
@@ -130,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67527f92590934997eb16d28?utm_campaign=1053&utm_source=git)** | Middleton, WI | On Site | Dec 04 |
 | **[PatPat](https://us.patpat.com)** | **[PatPat / Content Creator / los angeles, ca](https://jobright.ai/jobs/info/67513de0a4025cf72fbbd9cd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 04 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Editorial Intern, The Daily Beast's Obsessed](https://jobright.ai/jobs/info/6750bb84eb126c53ce4ad52e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/6750c6a2712417332dae7216?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Dec 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/6750d0c51f63d912779f513d?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Dec 04 |
 | **[Vita Coco](https://www.thevitacococompany.com)** | **[Coconut Content Community Connoisseur](https://jobright.ai/jobs/info/6750bb84eb126c53ce4ad5b4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Content Video Production](https://jobright.ai/jobs/info/6750b1dee6ed5b0e08c99ea8?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Dec 04 |
