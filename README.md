@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Spring 2025 Archives Internship](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7706?utm_campaign=1053&utm_source=git)** | Utica-Rome Area | On Site | Dec 12 |
+| **[The Associated Press](http://www.ap.org)** | **[Newsperson (Global News Intern, Race and Ethnicity Reporter)](https://jobright.ai/jobs/info/672e8382dd5d0e21448a82a0?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring 2025 News Internship](https://jobright.ai/jobs/info/675aa950b7a597b3d4fc259e?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Dec 12 |
 | **[Wikitongues](https://wikitongues.org/)** | **[Archival Intern](https://jobright.ai/jobs/info/675aa47cccefab6d02b630b9?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 12 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Assistant - Fan Experience](https://jobright.ai/jobs/info/675a715ccc9c051737c743b1?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Dec 11 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Little Caesars Pizza](http://littlecaesars.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/675a0cb88a5abc332d8fa69b?utm_campaign=1053&utm_source=git)** | Detroit Metro | On Site | Dec 11 |
 | **[NEOGOV](http://www.neogov.com)** | **[ST Art Studio Aide 3D - Sierra Vista](https://jobright.ai/jobs/info/6759fb8834ae812516b3d9b0?utm_campaign=1053&utm_source=git)** | Sierra Vista Campus, AZ | On Site | Dec 11 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[New York City Summer Intern](https://jobright.ai/jobs/info/6759edde9956471dd668974e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 11 |
-| **[Stealth Startup](http://stealthstartup.com)** | **[Content Intern](https://jobright.ai/jobs/info/6759cdfe224db3d4e01c245e?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 11 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6759c4ef68137ef7f3d92ca1?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 11 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b17?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Dec 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern-1](https://jobright.ai/jobs/info/66cb0ee70da4428950206d82?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 11 |
@@ -86,12 +87,12 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6758d3ff747d34d59b6b0184?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Dec 10 |
 | ↳ | **[KATV Spring 2025 Intern](https://jobright.ai/jobs/info/67588dd7d7cd8fcfc1e3a051?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Dec 10 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern (News), PT-1](https://jobright.ai/jobs/info/67589922c7084e3192598bcb?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 10 |
-| **[OCLC](http://www.oclc.org)** | **[Library, Archive, & Museum Intern](https://jobright.ai/jobs/info/675880a60ffcaa9a08d2c86d?utm_campaign=1053&utm_source=git)** | Dublin, OH | Hybrid | Dec 10 |
+| **[OCLC](http://www.oclc.org)** | **[Library, Archive, & Museum Intern](https://jobright.ai/jobs/info/675881450ffcaa9a08d2d354?utm_campaign=1053&utm_source=git)** | Dublin, OH | Hybrid | Dec 10 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136aab?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Dec 10 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab2?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab4?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 10 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136b46?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Dec 10 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab2?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 10 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ad9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Dec 10 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136b46?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Dec 10 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/675878545d1b2e080979053a?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Dec 10 |
 | ↳ | **[Spring News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ae1?utm_campaign=1053&utm_source=git)** | El Paso, TX | On Site | Dec 10 |
 | ↳ | **[News Intern (Part-time)](https://jobright.ai/jobs/info/675878545d1b2e080979056b?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Dec 10 |
@@ -106,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Dynamic Catholic is hiring: Internship - Videographer in Union](https://jobright.ai/jobs/info/67580ade70f5c55d1beaa553?utm_campaign=1053&utm_source=git)** | Union, KY | On Site | Dec 09 |
 | **[Reflex Performance Resources](https://www.90degreebyreflex.com/)** | **[[Full time Intern] Fashion Production for Activewear Apparel Brand Job at Reflex](https://jobright.ai/jobs/info/6757d307911c87e334021d84?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Hydrow, Inc.](https://hydrow.com)** | **[Social Video Intern Job at Hydrow, Inc. in Boston](https://jobright.ai/jobs/info/6757cda29771ed8f1bba5356?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Dec 09 |
+| **[Trove Brands](https://trovebrands.com)** | **[Trove Brands is hiring: Video Production Intern-Summer 2025 in Lehi](https://jobright.ai/jobs/info/6757ce6a9771ed8f1bba59f7?utm_campaign=1053&utm_source=git)** | Lehi, UT | On Site | Dec 09 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Pooled Position Limited Tempor - Copy editor, Branding Iron newspaper Job at Uni](https://jobright.ai/jobs/info/6757ce6a9771ed8f1bba5a29?utm_campaign=1053&utm_source=git)** | Laramie, WY | On Site | Dec 09 |
 | **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[InterVarsity Christian Fellowship is hiring: Video Producer Intern in Madison](https://jobright.ai/jobs/info/6757d9a6ba4fd49049b5b399?utm_campaign=1053&utm_source=git)** | Madison, WI | Hybrid | Dec 09 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Reporter (The Chautauquan Daily)/Seasonal Employment Job at Chautau](https://jobright.ai/jobs/info/6757d9a6ba4fd49049b5af1b?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Dec 09 |
@@ -119,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Hyatt Centric](https://www.hyatt.com/brands/hyatt-centric)** | **[Culinary Intern/Trainee](https://jobright.ai/jobs/info/6757ba8f7b8a062873f442a4?utm_campaign=1053&utm_source=git)** | Park City, UT | On Site | Dec 09 |
 | **[Andrew Wommack Ministries, Inc.](http://www.awmi.net/)** | **[GTN Story Editor II Job at Andrew Wommack Ministries in Woodland Park](https://jobright.ai/jobs/info/6757c595da61b76353e98330?utm_campaign=1053&utm_source=git)** | Woodland Park, CO | On Site | Dec 09 |
 | **[Deseret Digital Media](http://www.deseretdigital.com)** | **[News Intern Job at Deseret Digital Media in Salt Lake City](https://jobright.ai/jobs/info/6757c36509bb672731937e7e?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 09 |
-| **[Trove Brands](https://trovebrands.com)** | **[Trove Brands is hiring: Video Production Intern-Summer 2025 in Lehi](https://jobright.ai/jobs/info/6757c186f76c7a05ad81fe25?utm_campaign=1053&utm_source=git)** | Lehi, UT | On Site | Dec 09 |
 | **[Answers in Genesis](https://answersingenesis.org)** | **[ANSWERS IN GENESIS GROUP is hiring: Assistant Magazine Editor Embark Intern (Sum](https://jobright.ai/jobs/info/6757c186f76c7a05ad81ff24?utm_campaign=1053&utm_source=git)** | Hebron, KY | On Site | Dec 09 |
 | **[Deseret Digital Media](http://www.deseretdigital.com)** | **[Deseret Digital Media is hiring: News Intern in Salt Lake City](https://jobright.ai/jobs/info/6757ba8f7b8a062873f44349?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 09 |
 | **[Reach Records](https://www.reachrecords.com)** | **[Reach Records is hiring: Reach Records Studio Internship - Fall 2024 in Atlanta](https://jobright.ai/jobs/info/6757bdbda424688f7d663301?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship](https://jobright.ai/jobs/info/67565f9f86d2e1e3f42cfe22?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Dec 08 |
 | ↳ | **[News Internship](https://jobright.ai/jobs/info/67565f9f86d2e1e3f42cfe23?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Dec 08 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67566b94c6ed773fe4bdbe09?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 08 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[HR Video Production Co-op Spring 2025](https://jobright.ai/jobs/info/6755e6b170fcdf2b2b47f819?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
