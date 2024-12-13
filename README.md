@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Texas Rio Grande Valley](https://www.utrgv.edu/)** | **[Graduate Assistant - Special Collections & Archives](https://jobright.ai/jobs/info/675b736992c25733d3587ea9?utm_campaign=1053&utm_source=git)** | Edinburg, TX | On Site | Dec 12 |
+| **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Summer Intern, Photography & Videography](https://jobright.ai/jobs/info/675b69cb61cf69f125c846ba?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 12 |
+| **[EBSCO Information Services](http://www.ebsco.de)** | **[Proprietary Content Intern, Summer 2025](https://jobright.ai/jobs/info/675321e7b6bfe6b1759d5b6d?utm_campaign=1053&utm_source=git)** | Ipswich, MA | Remote | Dec 12 |
+| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Editorial / Kids Books](https://jobright.ai/jobs/info/674e6a7447dd8e657fa26512?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 12 |
 | **[Erin Hills Golf Course](http://erinhills.com)** | **[Turf - Student Intern](https://jobright.ai/jobs/info/675b2986a7f14cfea7ec0091?utm_campaign=1053&utm_source=git)** | Hartford, WI, None | On Site | Dec 12 |
-| **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS News Intern, KDKA Pittsburgh (Summer 2025)](https://jobright.ai/jobs/info/675b1e1cd66a627394c6002f?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 12 |
-| ↳ | **[CBS News Intern, WCCO Minnesota (Summer 2025)](https://jobright.ai/jobs/info/675b1e1cd66a627394c5ffe9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Dec 12 |
+| **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS News Intern, WCCO Minnesota (Summer 2025)](https://jobright.ai/jobs/info/675b1e1cd66a627394c5ffe9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Dec 12 |
+| ↳ | **[CBS News Intern, KDKA Pittsburgh (Summer 2025)](https://jobright.ai/jobs/info/675b1e1cd66a627394c6002f?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 12 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[High School Culinary and Pastry Intern - GIANT Center](https://jobright.ai/jobs/info/675b2d20de75857468079f12?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Dec 12 |
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS News Intern, WFOR Miami (Summer 2025)](https://jobright.ai/jobs/info/675b143a97d97f8fc862d818?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Dec 12 |
 | ↳ | **[CBS News Intern, KYW Philadelphia (Summer 2025)](https://jobright.ai/jobs/info/675b143a97d97f8fc862d8a1?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Dec 12 |
@@ -88,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/673bb41e23a3d19e9a268b81?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Dec 10 |
 | **[Parkview Health](http://www.parkview.com)** | **[Parkview Sports Medicine Multimedia Summer Non-Clinical Intern](https://jobright.ai/jobs/info/6758d91f7df9a1809353eba2?utm_campaign=1053&utm_source=git)** | Greater Fort Wayne | On Site | Dec 10 |
 | ↳ | **[Parkview Sports Medicine Summer Non-Clinical Intern](https://jobright.ai/jobs/info/6758d91f7df9a1809353e709?utm_campaign=1053&utm_source=git)** | Greater Fort Wayne | On Site | Dec 10 |
+| **[Studio71, LP](https://www.studio71.com/us)** | **[Production Internship Winter/Spring 25'](https://jobright.ai/jobs/info/672ba6b6cc7a88f94b6bfb61?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 10 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[News Intern - Telemundo Utah](https://jobright.ai/jobs/info/6758c5e223765ead0a603280?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 10 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WSFA](https://jobright.ai/jobs/info/6758d235ef07affb9d523c07?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Dec 10 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Character Animator - Summer Internship](https://jobright.ai/jobs/info/6758e84f209d9a8243c0ff15?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Dec 10 |
@@ -97,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6758d3ff747d34d59b6b0184?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Dec 10 |
 | ↳ | **[KATV Spring 2025 Intern](https://jobright.ai/jobs/info/67588dd7d7cd8fcfc1e3a051?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Dec 10 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern (News), PT-1](https://jobright.ai/jobs/info/67589922c7084e3192598bcb?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 10 |
-| **[OCLC](http://www.oclc.org)** | **[Library, Archive, & Museum Intern](https://jobright.ai/jobs/info/675880a60ffcaa9a08d2c86d?utm_campaign=1053&utm_source=git)** | Dublin, OH | Hybrid | Dec 10 |
+| **[OCLC](http://www.oclc.org)** | **[Library, Archive, & Museum Intern](https://jobright.ai/jobs/info/675881450ffcaa9a08d2d354?utm_campaign=1053&utm_source=git)** | Dublin, OH | Hybrid | Dec 10 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136aab?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Dec 10 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab2?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab4?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Research Group](http://www.crgrp.com/)** | **[Commercial Videographer / Photography Intern - Spring Semester 2025](https://jobright.ai/jobs/info/675768682ce5e5ffa7673476?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | Dec 09 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Golf Club Operations Intern](https://jobright.ai/jobs/info/67575e543120c86e5676a8b1?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Dec 09 |
 | **[Villanova University](http://www.villanova.edu)** | **[Liturgical Music Graduate Assistant-Liturgical Music (internal)](https://jobright.ai/jobs/info/675764538a19593ffbe6f0e3?utm_campaign=1053&utm_source=git)** | Charlotte Hall, MD | On Site | Dec 09 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - KTUU](https://jobright.ai/jobs/info/675760072b2d740d530f8678?utm_campaign=1053&utm_source=git)** | Anchorage, AK | On Site | Dec 09 |
-| **[Miami HEAT](http://HEAT.com)** | **[Content Studio Intern](https://jobright.ai/jobs/info/67575e543120c86e5676a94d?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Dec 09 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Marketing-Videographer Summer 2025 Intern-MA](https://jobright.ai/jobs/info/67575990031ba1a6f0c60b4b?utm_campaign=1053&utm_source=git)** | Milford, MA | On Site | Dec 09 |
-| **[PGA TOUR](http://www.pgatour.com)** | **[Golf Course Maintenance Internship - TPC River Highlands](https://jobright.ai/jobs/info/6757497ab4072a25474f16ee?utm_campaign=1053&utm_source=git)** | Cromwell, CT | On Site | Dec 09 |
-| **[Granite School District](http://www.graniteschools.org)** | **[Stage Crew - Student](https://jobright.ai/jobs/info/6758e3407cda57365004ebb1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
