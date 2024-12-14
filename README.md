@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/675cc2367c1c7571b5607f70?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Dec 13 |
+| **[Buckeye Broadband](https://www.buckeyebroadband.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/675cc31a309ba3181dbdb810?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 13 |
+| **[Blackstone](http://blackstone.com)** | **[2025 Blackstone Summer Analyst – Corporate Affairs, Video Production](https://jobright.ai/jobs/info/675cbc3c0c1ad24cea1e92a3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 13 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/675ca78ab1ef10763ac6e041?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Dec 13 |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship Spring 2025 - Dallas-Ft. Worth](https://jobright.ai/jobs/info/675cb6f4c64893f98e2332c4?utm_campaign=1053&utm_source=git)** | Grapevine, TX | On Site | Dec 13 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/675ca71100db11887af94867?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Dec 13 |
+| **[National MS Society](http://www.nationalmssociety.org)** | **[Event Production Intern](https://jobright.ai/jobs/info/675ca27232a1de326119342a?utm_campaign=1053&utm_source=git)** | Waltham, MA | Hybrid | Dec 13 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Production Intern ](https://jobright.ai/jobs/info/675c7e04a1846797aab02587?utm_campaign=1053&utm_source=git)** | Mission, TX, USA | On Site | Dec 13 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Event Production Intern](https://jobright.ai/jobs/info/675c79077795726c0b486622?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Dec 13 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Miami](https://jobright.ai/jobs/info/675c745f854f7d417e4eface?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Dec 13 |
@@ -66,11 +73,11 @@ For a complete list, click the following sortable link below:
 | **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/675c4b2ea85a84599533c772?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | ↳ | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/675c4b2ea85a84599533ca28?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Dec 13 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - KXNV/KOLO (Telemundo Reno)](https://jobright.ai/jobs/info/675c53c23faa863b0969bcf0?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Dec 13 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b5910d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Culinary Internship, Progressive Field](https://jobright.ai/jobs/info/675bd4e6f8b16c47909c0a27?utm_campaign=1053&utm_source=git)** | Cleveland, OH | Hybrid | Dec 12 |
 | **[Nagios](http://www.nagios.org/)** | **[Nagios Enterprises, LLC is hiring: Video Production Intern in Saint Paul](https://jobright.ai/jobs/info/675be43f1e413f6cbb213c28?utm_campaign=1053&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Dec 12 |
 | **[Tyndale House Publishers](http://www.tyndale.com)** | **[Tyndale House Publishers is hiring: Author Acquisitions Intern, Bibles (Summer 2](https://jobright.ai/jobs/info/675bd1a76e55c40226bac19e?utm_campaign=1053&utm_source=git)** | Carol Stream, IL | On Site | Dec 12 |
 | **[PatPat](https://us.patpat.com)** | **[Content Creator Job at PatPat in Los Angeles](https://jobright.ai/jobs/info/675bf00702b9240cfb88eebe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 12 |
-| **[BrandStar](http://www.brandstar.com)** | **[Booking Producer Trainee Program](https://jobright.ai/jobs/info/675bce0eeafeb498027a5b10?utm_campaign=1053&utm_source=git)** | Pompano Beach, FL | On Site | Dec 12 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Chautauqua Institution is hiring: Internship - Reporter (The Chautauquan Daily)/](https://jobright.ai/jobs/info/675bea4c5bb084736bbf9e95?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Dec 12 |
 | **[NBC5](https://www.mynbc5.com)** | **[WPTZ Production Intern](https://jobright.ai/jobs/info/675ba9047c902b078825c521?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | Dec 12 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WIFR](https://jobright.ai/jobs/info/675b973156d7853d43873c5d?utm_campaign=1053&utm_source=git)** | Rockford, IL | On Site | Dec 12 |
@@ -101,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[David Yurman](http://www.davidyurman.com)** | **[Styling Intern](https://jobright.ai/jobs/info/671ff8fa900f241460764d1e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | **[Groot Hospitality](https://groothospitality.com/)** | **[Nightlife Intern](https://jobright.ai/jobs/info/675a3143f5aae15e74e7430f?utm_campaign=1053&utm_source=git)** | Miami Beach, FL, USA | On Site | Dec 11 |
 | **[1517 Media](http://1517.media)** | **[Publishing Operations Intern](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbdf8?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, USA | Hybrid | Dec 11 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Digital Archive Intern](https://jobright.ai/jobs/info/67204cc6c572d46b14cd25a2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 11 |
 | **[San Francisco Giants](https://www.mlb.com/giants)** | **[Associate, Baseball Video Systems (San Francisco)](https://jobright.ai/jobs/info/675c8caa06af4ddac4dddbe7?utm_campaign=1053&utm_source=git)** | San Francisco | On Site | Dec 11 |
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Hajimari Intern, Global Artistry and Education (NARS)](https://jobright.ai/jobs/info/675a173d95726f060cb10284?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | **[Little Caesars Pizza](http://littlecaesars.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/675a0cb88a5abc332d8fa69b?utm_campaign=1053&utm_source=git)** | Detroit Metro | On Site | Dec 11 |
@@ -108,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[New York City Summer Intern](https://jobright.ai/jobs/info/6759edde9956471dd668974e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Dec 11 |
 | **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[Academy Gold Rising - Panavision - Intern (Summer 2025)](https://jobright.ai/jobs/info/673d0f836bb433aefdd3319d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 11 |
-| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6759c4ef68137ef7f3d92ca1?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 11 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Summer Intern, Creator Experience](https://jobright.ai/jobs/info/6749e65b37e46e29b747c345?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 11 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b17?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Dec 11 |
 | **[Grace Church](http://www.grace.church)** | **[Grace Kids Worship Arts Intern](https://jobright.ai/jobs/info/675c3d1ec85f82a7c7f62ef6?utm_campaign=1053&utm_source=git)** | Eden Prairie, MN | On Site | Dec 11 |
@@ -126,17 +133,16 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WSFA](https://jobright.ai/jobs/info/6758d235ef07affb9d523c07?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Dec 10 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Character Animator - Summer Internship](https://jobright.ai/jobs/info/6758e84f209d9a8243c0ff15?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Dec 10 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Event Production Intern](https://jobright.ai/jobs/info/6758b05a4453ccb99c2ce6cc?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Dec 10 |
-| ↳ | **[Event Production Intern](https://jobright.ai/jobs/info/6758b05a4453ccb99c2ce6a7?utm_campaign=1053&utm_source=git)** | Waltham, MA | Hybrid | Dec 10 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[News Intern - Telemundo Utah](https://jobright.ai/jobs/info/67588c326c901154454dc72f?utm_campaign=1053&utm_source=git)** | 314 S. Redwood Rd, Salt Lake City, Utah | On Site | Dec 10 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6758d3ff747d34d59b6b0184?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Dec 10 |
 | ↳ | **[KATV Spring 2025 Intern](https://jobright.ai/jobs/info/67588dd7d7cd8fcfc1e3a051?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Dec 10 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern (News), PT-1](https://jobright.ai/jobs/info/67589922c7084e3192598bcb?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 10 |
-| **[OCLC](http://www.oclc.org)** | **[Library, Archive, & Museum Intern](https://jobright.ai/jobs/info/675881450ffcaa9a08d2d354?utm_campaign=1053&utm_source=git)** | Dublin, OH | Hybrid | Dec 10 |
+| **[OCLC](http://www.oclc.org)** | **[Library, Archive, & Museum Intern](https://jobright.ai/jobs/info/675880a60ffcaa9a08d2c86d?utm_campaign=1053&utm_source=git)** | Dublin, OH | Hybrid | Dec 10 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136aab?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Dec 10 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab2?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab4?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 10 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ad9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Dec 10 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab2?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 10 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136b46?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Dec 10 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ad9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Dec 10 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/675878545d1b2e080979053a?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Dec 10 |
 | ↳ | **[Spring News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ae1?utm_campaign=1053&utm_source=git)** | El Paso, TX | On Site | Dec 10 |
 | ↳ | **[News Intern (Part-time)](https://jobright.ai/jobs/info/675878545d1b2e080979056b?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Dec 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Dynamic Catholic is hiring: Internship - Videographer in Union](https://jobright.ai/jobs/info/67580ade70f5c55d1beaa553?utm_campaign=1053&utm_source=git)** | Union, KY | On Site | Dec 09 |
 | **[Reflex Performance Resources](https://www.90degreebyreflex.com/)** | **[[Full time Intern] Fashion Production for Activewear Apparel Brand Job at Reflex](https://jobright.ai/jobs/info/6757d307911c87e334021d84?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Hydrow, Inc.](https://hydrow.com)** | **[Social Video Intern Job at Hydrow, Inc. in Boston](https://jobright.ai/jobs/info/6757cda29771ed8f1bba5356?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Dec 09 |
-| **[University of Wyoming](https://www.uwyo.edu/)** | **[Pooled Position Limited Tempor - Copy editor, Branding Iron newspaper Job at Uni](https://jobright.ai/jobs/info/6757ce6a9771ed8f1bba5a29?utm_campaign=1053&utm_source=git)** | Laramie, WY | On Site | Dec 09 |
-| **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[InterVarsity Christian Fellowship is hiring: Video Producer Intern in Madison](https://jobright.ai/jobs/info/6757d9a6ba4fd49049b5b399?utm_campaign=1053&utm_source=git)** | Madison, WI | Hybrid | Dec 09 |
-| **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Reporter (The Chautauquan Daily)/Seasonal Employment Job at Chautau](https://jobright.ai/jobs/info/6757d9a6ba4fd49049b5af1b?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Dec 09 |
-| ↳ | **[Internship - Copy Editor (The Chautauquan Daily)/Seasonal Employment Job at Chau](https://jobright.ai/jobs/info/6757d9a6ba4fd49049b5af33?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Dec 09 |
-| **[Ithaca College](http://www.ithaca.edu)** | **[STUDENT-VIDEO OPERATOR Job at Ithaca College in Ithaca](https://jobright.ai/jobs/info/6757d9a6ba4fd49049b5af43?utm_campaign=1053&utm_source=git)** | Ithaca, NY | On Site | Dec 09 |
-| **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Sports Editor - Blazer Job at Joliet Junior College in Joliet](https://jobright.ai/jobs/info/6757d9a6ba4fd49049b5af32?utm_campaign=1053&utm_source=git)** | Joliet, IL | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
