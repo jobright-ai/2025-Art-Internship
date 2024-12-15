@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2025](https://jobright.ai/jobs/info/6726212dd33e411863be17dc?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Dec 15 |
 | **[Tyndale House Publishers](http://www.tyndale.com)** | **[Editorial Intern, Nonfiction (Summer 2025)](https://jobright.ai/jobs/info/675e60f9e3e8a20ea332baf1?utm_campaign=1053&utm_source=git)** | Carol Stream, IL | On Site | Dec 14 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Reporter (The Chautauquan Daily)/Seasonal Employment Job at Chautau](https://jobright.ai/jobs/info/675e5f29d40a7ac943b93d25?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Dec 14 |
 | **[The Gideons International](http://www.gideonsteam.org)** | **[Video Production Intern Job at The Gideons International in Nashville](https://jobright.ai/jobs/info/675e59d26ecda6a3ee3b6bae?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Dec 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Parkview Sports Medicine Summer Non-Clinical Intern](https://jobright.ai/jobs/info/6758d91f7df9a1809353e709?utm_campaign=1053&utm_source=git)** | Greater Fort Wayne | On Site | Dec 10 |
 | **[Studio71, LP](https://www.studio71.com/us)** | **[Production Internship Winter/Spring 25'](https://jobright.ai/jobs/info/672ba6b6cc7a88f94b6bfb61?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 10 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[News Intern - Telemundo Utah](https://jobright.ai/jobs/info/6758c5e223765ead0a603280?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 10 |
-| **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Character Animator - Summer Internship](https://jobright.ai/jobs/info/6758e84f209d9a8243c0ff15?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
