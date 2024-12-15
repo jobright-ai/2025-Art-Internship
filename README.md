@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Copy Editor (The Chautauquan Daily)/Seasonal Employment Job at Chau](https://jobright.ai/jobs/info/675f10d017909aaf5b03f158?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Dec 15 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6709fe813748006a8f649c26?utm_campaign=1053&utm_source=git)** | Canton, OH | On Site | Dec 15 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2025](https://jobright.ai/jobs/info/6726212dd33e411863be17dc?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Dec 15 |
 | **[Tyndale House Publishers](http://www.tyndale.com)** | **[Editorial Intern, Nonfiction (Summer 2025)](https://jobright.ai/jobs/info/675e60f9e3e8a20ea332baf1?utm_campaign=1053&utm_source=git)** | Carol Stream, IL | On Site | Dec 14 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Reporter (The Chautauquan Daily)/Seasonal Employment Job at Chautau](https://jobright.ai/jobs/info/675e5f29d40a7ac943b93d25?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Dec 14 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Internship (2025) / Lake Bluff, IL](https://jobright.ai/jobs/info/675e3c9b4fa9a0ed242234e6?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Dec 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Internship](https://jobright.ai/jobs/info/675df38ee9158ef5f02fdfa8?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Dec 14 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Spring 2025 Archives Intern](https://jobright.ai/jobs/info/675de0dd3eb5844e8f43769d?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 14 |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/6708ead2cee6942efe607ca5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Dec 14 |
 | **[Montage International](http://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Deer Valley](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d5f?utm_campaign=1053&utm_source=git)** | Deer Valley, UT | On Site | Dec 14 |
 | **[Duolingo](https://www.duolingo.com)** | **[2D Character Animator, Thrive Intern](https://jobright.ai/jobs/info/6749328fc7f1d12438a52fcc?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 14 |
 | **[Montage International](http://www.montageinternational.com)** | **[Culinary Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d61?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Dec 14 |
@@ -88,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Work Study, Student Support (Creative Arts)](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae48c8?utm_campaign=1053&utm_source=git)** | Parma, OH | On Site | Dec 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/675ca78ab1ef10763ac6e041?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Dec 13 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship Spring 2025 - Dallas-Ft. Worth](https://jobright.ai/jobs/info/675cb6f4c64893f98e2332c4?utm_campaign=1053&utm_source=git)** | Grapevine, TX | On Site | Dec 13 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/675ca71100db11887af94867?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Dec 13 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/675ca71100db11887af9480f?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Dec 13 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Event Production Intern](https://jobright.ai/jobs/info/675ca27232a1de326119342a?utm_campaign=1053&utm_source=git)** | Waltham, MA | Hybrid | Dec 13 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Production Intern ](https://jobright.ai/jobs/info/675c7e04a1846797aab02587?utm_campaign=1053&utm_source=git)** | Mission, TX, USA | On Site | Dec 13 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Event Production Intern](https://jobright.ai/jobs/info/675c79077795726c0b486622?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Dec 13 |
@@ -97,8 +100,9 @@ For a complete list, click the following sortable link below:
 | **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/675c72624e05fdda122c97eb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[Deseret Book Company](https://deseretbook.com)** | **[Church News Writer - Winter 2025 Internship](https://jobright.ai/jobs/info/675c56b1acb75a3867cad7d4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 13 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/675c7563a7106fcc38275c30?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 13 |
-| **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/675c4b2ea85a84599533c772?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 13 |
-| ↳ | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/675c4b2ea85a84599533ca28?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Dec 13 |
+| **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/675c4b2ea85a84599533ca28?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Dec 13 |
+| ↳ | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/675c4b2ea85a84599533c772?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 13 |
+| **[PatPat](https://us.patpat.com)** | **[Content Creator Job at PatPat in Textile Finance](https://jobright.ai/jobs/info/675f0b360437d975c357f565?utm_campaign=1053&utm_source=git)** | California, United States | Hybrid | Dec 13 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - KXNV/KOLO (Telemundo Reno)](https://jobright.ai/jobs/info/675c53c23faa863b0969bcf0?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Dec 13 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/6709ac741581bee82e0a108f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b5910d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Everyday Northwest Lifestyle Show Intern (unpaid)](https://jobright.ai/jobs/info/66cafef8423ff6807e053283?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Dec 10 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/664defb5cf7bdc8f73b3c78e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 10 |
 | ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/673bb41e23a3d19e9a268b81?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Dec 10 |
-| **[Parkview Health](http://www.parkview.com)** | **[Parkview Sports Medicine Multimedia Summer Non-Clinical Intern](https://jobright.ai/jobs/info/6758d91f7df9a1809353eba2?utm_campaign=1053&utm_source=git)** | Greater Fort Wayne | On Site | Dec 10 |
-| ↳ | **[Parkview Sports Medicine Summer Non-Clinical Intern](https://jobright.ai/jobs/info/6758d91f7df9a1809353e709?utm_campaign=1053&utm_source=git)** | Greater Fort Wayne | On Site | Dec 10 |
-| **[Studio71, LP](https://www.studio71.com/us)** | **[Production Internship Winter/Spring 25'](https://jobright.ai/jobs/info/672ba6b6cc7a88f94b6bfb61?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 10 |
-| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[News Intern - Telemundo Utah](https://jobright.ai/jobs/info/6758c5e223765ead0a603280?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
