@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/675e4ea5b2054b91f4cf63c9?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Dec 14 |
+| ↳ | **[Arborist Trainee Internship (2025) / Crystal Lake, IL](https://jobright.ai/jobs/info/675e3c9b4fa9a0ed242234e4?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Dec 14 |
+| ↳ | **[Arborist Trainee Internship (2025) / Lake Bluff, IL](https://jobright.ai/jobs/info/675e3c9b4fa9a0ed242234e6?utm_campaign=1053&utm_source=git)** | Lake Bluff, IL | On Site | Dec 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Internship](https://jobright.ai/jobs/info/675df38ee9158ef5f02fdfa8?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Dec 14 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Spring 2025 Archives Intern](https://jobright.ai/jobs/info/675de0dd3eb5844e8f43769d?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 14 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Pencor Services Inc is hiring: Creative News Internship in Lehighton](https://jobright.ai/jobs/info/675d3034091f78254c7364db?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Dec 13 |
@@ -76,7 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Work Study, Student Support (Creative Arts)](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae48c8?utm_campaign=1053&utm_source=git)** | Parma, OH | On Site | Dec 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/675ca78ab1ef10763ac6e041?utm_campaign=1053&utm_source=git)** | Webb Addition, AL | On Site | Dec 13 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship Spring 2025 - Dallas-Ft. Worth](https://jobright.ai/jobs/info/675cb6f4c64893f98e2332c4?utm_campaign=1053&utm_source=git)** | Grapevine, TX | On Site | Dec 13 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/675ca71100db11887af94867?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Dec 13 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/675ca71100db11887af9480f?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Dec 13 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Event Production Intern](https://jobright.ai/jobs/info/675ca27232a1de326119342a?utm_campaign=1053&utm_source=git)** | Waltham, MA | Hybrid | Dec 13 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Production Intern ](https://jobright.ai/jobs/info/675c7e04a1846797aab02587?utm_campaign=1053&utm_source=git)** | Mission, TX, USA | On Site | Dec 13 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Event Production Intern](https://jobright.ai/jobs/info/675c79077795726c0b486622?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Dec 13 |
@@ -98,15 +101,15 @@ For a complete list, click the following sortable link below:
 | **[Imagine](https://www.theimaginegroup.com)** | **[Pressroom CAPS Internship](https://jobright.ai/jobs/info/675b870678fcd07ec14aedff?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Dec 12 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Content Video Production](https://jobright.ai/jobs/info/675bce0eeafeb498027a6162?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Dec 12 |
 | **[Erin Hills Golf Course](http://erinhills.com)** | **[Turf - Student Intern](https://jobright.ai/jobs/info/675b8f0269a4a00913d13aec?utm_campaign=1053&utm_source=git)** | Hartford Town, WI | On Site | Dec 12 |
-| **[The University of Texas Rio Grande Valley](https://www.utrgv.edu/)** | **[Graduate Assistant - Special Collections & Archives](https://jobright.ai/jobs/info/675b736992c25733d3587ea9?utm_campaign=1053&utm_source=git)** | Edinburg, TX | On Site | Dec 12 |
+| **[The University of Texas Rio Grande Valley](https://www.utrgv.edu/)** | **[Graduate Assistant - Special Collections & Archives](https://jobright.ai/jobs/info/675b736992c25733d3587f91?utm_campaign=1053&utm_source=git)** | Edinburg, TX | On Site | Dec 12 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[SMAD Office Assistant - IE](https://jobright.ai/jobs/info/675b870678fcd07ec14aeeaa?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Dec 12 |
 | **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Summer Intern, Photography & Videography](https://jobright.ai/jobs/info/675b69cb61cf69f125c846ba?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 12 |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[Proprietary Content Intern, Summer 2025](https://jobright.ai/jobs/info/675321e7b6bfe6b1759d5b6d?utm_campaign=1053&utm_source=git)** | Ipswich, MA | Remote | Dec 12 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Editorial / Kids Books](https://jobright.ai/jobs/info/674e6a7447dd8e657fa26512?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 12 |
 | **[DeVry University](http://www.devry.edu)** | **[FWS Student Worker III, Off Campus (Video & Multimedia Content Creator Intern)](https://jobright.ai/jobs/info/675bbb29d02cc5fd204608d8?utm_campaign=1053&utm_source=git)** | Lisle, IL | Hybrid | Dec 12 |
 | **[Erin Hills Golf Course](http://erinhills.com)** | **[Turf - Student Intern](https://jobright.ai/jobs/info/675b2986a7f14cfea7ec0091?utm_campaign=1053&utm_source=git)** | Hartford, WI, None | On Site | Dec 12 |
-| **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS News Intern, WCCO Minnesota (Summer 2025)](https://jobright.ai/jobs/info/675b1e1cd66a627394c5ffe9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Dec 12 |
-| ↳ | **[CBS News Intern, KDKA Pittsburgh (Summer 2025)](https://jobright.ai/jobs/info/675b1e1cd66a627394c6002f?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 12 |
+| **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS News Intern, KDKA Pittsburgh (Summer 2025)](https://jobright.ai/jobs/info/675b1e1cd66a627394c6002f?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 12 |
+| ↳ | **[CBS News Intern, WCCO Minnesota (Summer 2025)](https://jobright.ai/jobs/info/675b1e1cd66a627394c5ffe9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Dec 12 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[High School Culinary and Pastry Intern - GIANT Center](https://jobright.ai/jobs/info/675b2d20de75857468079f12?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Dec 12 |
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS News Intern, WFOR Miami (Summer 2025)](https://jobright.ai/jobs/info/675b143a97d97f8fc862d818?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Dec 12 |
 | ↳ | **[CBS News Intern, KYW Philadelphia (Summer 2025)](https://jobright.ai/jobs/info/675b143a97d97f8fc862d8a1?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Dec 12 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[KATV Spring 2025 Intern](https://jobright.ai/jobs/info/67588dd7d7cd8fcfc1e3a051?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Dec 10 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern (News), PT-1](https://jobright.ai/jobs/info/67589922c7084e3192598bcb?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 10 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136aab?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Dec 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab4?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 10 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab2?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 10 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ad9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Dec 10 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136b46?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Dec 10 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/675878545d1b2e080979053a?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Dec 10 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab4?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
