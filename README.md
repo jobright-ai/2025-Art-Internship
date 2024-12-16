@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Podcast/Photo/Video Internship](https://jobright.ai/jobs/info/67608160c784557d23a535fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 16 |
+| **[Destination by Hyatt](http://www.destinationhotels.com)** | **[2025 Culinary Intern/Extern](https://jobright.ai/jobs/info/66c5867b93a6fcca6e2535b6?utm_campaign=1053&utm_source=git)** | Isle of Palms, SC | On Site | Dec 16 |
 | **[NEOGOV](http://www.neogov.com)** | **[Library Intern (Communications)](https://jobright.ai/jobs/info/675ff01e1816de91ac0fc36c?utm_campaign=1053&utm_source=git)** | Mountain View Public Library | On Site | Dec 16 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Reporter (The Chautauquan Daily)/Seasonal Employment Job at Chautau](https://jobright.ai/jobs/info/675fa7f4f2add865b6e0cfd1?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Dec 15 |
 | **[Montage International](http://www.montageinternational.com)** | **[Culinary Internship - Montage Palmetto Bluff](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d82?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Dec 15 |
@@ -66,8 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/66eb74033b477952e26ec128?utm_campaign=1053&utm_source=git)** | Glenview, IL | On Site | Dec 15 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/6708ead2cee6942efe607ce9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 14 |
 | **[Tyndale House Publishers](http://www.tyndale.com)** | **[Editorial Intern, Nonfiction (Summer 2025)](https://jobright.ai/jobs/info/675e60f9e3e8a20ea332baf1?utm_campaign=1053&utm_source=git)** | Carol Stream, IL | On Site | Dec 14 |
-| **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Reporter (The Chautauquan Daily)/Seasonal Employment Job at Chautau](https://jobright.ai/jobs/info/675e5f29d40a7ac943b93d25?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Dec 14 |
-| **[The Gideons International](http://www.gideonsteam.org)** | **[Video Production Intern Job at The Gideons International in Nashville](https://jobright.ai/jobs/info/675e59d26ecda6a3ee3b6bae?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Dec 14 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/675e5709402c8972306de908?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 14 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Authentic Studios Spring Intern](https://jobright.ai/jobs/info/674128bb177b1b791c033d2d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 14 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/675e4ea5b2054b91f4cf63c9?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Dec 14 |
@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WSFA](https://jobright.ai/jobs/info/6758d235ef07affb9d523c07?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Dec 13 |
 | **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/675c72624e05fdda122c97eb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/675c7563a7106fcc38275c30?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 13 |
-| **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/675c4b2ea85a84599533ca28?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Dec 13 |
-| ↳ | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/675c4b2ea85a84599533c772?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 13 |
+| **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/675c4b2ea85a84599533c772?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 13 |
+| ↳ | **[Summer Intern - Programming & Production](https://jobright.ai/jobs/info/675c4b2ea85a84599533ca28?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Dec 13 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - KXNV/KOLO (Telemundo Reno)](https://jobright.ai/jobs/info/675c53c23faa863b0969bcf0?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Dec 13 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/6709ac741581bee82e0a108f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b5910d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 13 |
@@ -146,6 +146,7 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[ST Art Studio Aide 3D - Sierra Vista](https://jobright.ai/jobs/info/6759fb8834ae812516b3d9b0?utm_campaign=1053&utm_source=git)** | Sierra Vista Campus, AZ | On Site | Dec 11 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[New York City Summer Intern](https://jobright.ai/jobs/info/6759edde9956471dd668974e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Dec 11 |
+| **[Hearst Television](http://www.hearsttelevision.com)** | **[Fred Young Fellowship](https://jobright.ai/jobs/info/6693b635a955ace455aa3bbf?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Dec 11 |
 | **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[Academy Gold Rising - Panavision - Intern (Summer 2025)](https://jobright.ai/jobs/info/673d0f836bb433aefdd3319d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 11 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Summer Intern, Creator Experience](https://jobright.ai/jobs/info/6749e65b37e46e29b747c345?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 11 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b17?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Dec 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Spokane](https://jobright.ai/jobs/info/673d9ef7f53df77963c09d0d?utm_campaign=1053&utm_source=git)** | Spokane, WA | On Site | Dec 11 |
 | **[OCLC](http://www.oclc.org)** | **[Library, Archive, & Museum Intern](https://jobright.ai/jobs/info/675fe01030e7c6db78b48592?utm_campaign=1053&utm_source=git)** | Dublin, OH | On Site | Dec 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Everyday Northwest Lifestyle Show Intern (unpaid)](https://jobright.ai/jobs/info/66cafef8423ff6807e053283?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Dec 10 |
-| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/664defb5cf7bdc8f73b3c78e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
