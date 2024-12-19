@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quixote Studios](http://quixote.com)** | **[2025 NextGen Summer Internship](https://jobright.ai/jobs/info/67636e854dbc166396199158?utm_campaign=1053&utm_source=git)** | Los Angeles County, CA | On Site | Dec 18 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Dinners, Galas, Golf (Memphis, TN)](https://jobright.ai/jobs/info/67636e854dbc1663961991f4?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Dec 18 |
 | **[M Booth](http://www.mbooth.com)** | **[Winter Intern, Lifestyle](https://jobright.ai/jobs/info/67634c5d20cce07ff0181fe5?utm_campaign=1053&utm_source=git)** | NYC/Hybrid | Hybrid | Dec 18 |
 | ↳ | **[Winter Intern, Lifestyle](https://jobright.ai/jobs/info/67634c5d20cce07ff0182294?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Dec 18 |
+| **[Activision](https://www.activision.com/)** | **[2025 US Summer Internship - VFX](https://jobright.ai/jobs/info/67516af9913b556684ad94c2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
 | **[Cars Commerce](http://cars.com)** | **[Copy Editing Intern](https://jobright.ai/jobs/info/676338b0eafdbe093ea0c2c6?utm_campaign=1053&utm_source=git)** | Illinois, United States | Remote | Dec 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[NYSBA News Intern- Spring 2025](https://jobright.ai/jobs/info/676334e904cb4cf9b218a73b?utm_campaign=1053&utm_source=git)** | 4225 West Henrietta Road, Rochester, NY, 14623, US | On Site | Dec 18 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/67632c43a4ced291c34d4432?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Dec 18 |
@@ -103,7 +106,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Joliet Junior College is hiring: Student Employee, Sports Editor - Blazer in Jol](https://jobright.ai/jobs/info/6761029714017ed4e1678e0d?utm_campaign=1053&utm_source=git)** | Joliet, IL | On Site | Dec 16 |
 | **[The University of Texas Rio Grande Valley](https://www.utrgv.edu/)** | **[University of Texas Rio Grande Valley is hiring: Creative Writing: Graduate Assi](https://jobright.ai/jobs/info/6761029714017ed4e1679188?utm_campaign=1053&utm_source=git)** | Edinburg, TX | On Site | Dec 16 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Writer Job at Dynamic Catholic in Cincinnati](https://jobright.ai/jobs/info/6761029714017ed4e167929d?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 16 |
-| **[Cornerstone Research Group](http://www.crgrp.com/)** | **[Cornerstone Research Group, Inc. is hiring: Commercial Videographer / Photograph](https://jobright.ai/jobs/info/6761029714017ed4e167932e?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | Dec 16 |
+| **[Cornerstone Research Group](http://www.crgrp.com/)** | **[Cornerstone Research Group, Inc. is hiring: Commercial Videographer / Photograph](https://jobright.ai/jobs/info/6761029714017ed4e1679328?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | Dec 16 |
 | **[The Gideons International](http://www.gideonsteam.org)** | **[Video Production Intern Job at The Gideons International in Nashville](https://jobright.ai/jobs/info/6761029714017ed4e16793e6?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Dec 16 |
 | **[Trove Brands](https://trovebrands.com)** | **[Trove Brands is hiring: Video Production Intern-Summer 2025 in Lehi](https://jobright.ai/jobs/info/6760ff1cdb53dce157dade15?utm_campaign=1053&utm_source=git)** | Lehi, UT | On Site | Dec 16 |
 | **[Nagios](http://www.nagios.org/)** | **[Nagios Enterprises, LLC is hiring: Video Production Intern in Saint Paul](https://jobright.ai/jobs/info/6760ff1cdb53dce157dade7b?utm_campaign=1053&utm_source=git)** | St Paul, MN | On Site | Dec 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Hampton Roads Show Intern , Spring 2025](https://jobright.ai/jobs/info/675d01b7bf449941b5b9d858?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 13 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Spring 2025](https://jobright.ai/jobs/info/675d02f74f95ea270f549da8?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 13 |
 | ↳ | **[WAVY Unpaid Newsroom Intern, Spring 2025](https://jobright.ai/jobs/info/675d02f74f95ea270f549dbe?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 13 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Summer 2025 FOX News Media Internship Program - Miami](https://jobright.ai/jobs/info/675cf87c383a392860346c75?utm_campaign=1053&utm_source=git)** | Miami, Florida, USA | On Site | Dec 13 |
-| **[Fox Entertainment](http://www.fox.com/)** | **[Summer 2025 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/67092db0b4cf3536a410f5d3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 13 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/675cc2367c1c7571b5607f70?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
