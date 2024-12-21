@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern , Virginia This Morning, production, creative services](https://jobright.ai/jobs/info/676615a5c5ec74a44209d9b1?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 20 |
 | **[Sage](https://group.sagepub.com)** | **[Editorial Intern, US College](https://jobright.ai/jobs/info/676608005d30b24828551d2b?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 20 |
 | **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Clorox Production Studio Intern (Summer 2025)](https://jobright.ai/jobs/info/6765e221c2db5c63796e6236?utm_campaign=1053&utm_source=git)** | Oakland, CA | Hybrid | Dec 20 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Books](https://jobright.ai/jobs/info/6765ef7875b93d2604f21471?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Destination by Hyatt](http://www.destinationhotels.com)** | **[2025 Culinary Intern/Extern](https://jobright.ai/jobs/info/66c5867b93a6fcca6e2535b6?utm_campaign=1053&utm_source=git)** | Isle of Palms, SC | On Site | Dec 16 |
 | **[NEOGOV](http://www.neogov.com)** | **[Library Intern (Communications)](https://jobright.ai/jobs/info/675ff01e1816de91ac0fc36c?utm_campaign=1053&utm_source=git)** | Mountain View Public Library | On Site | Dec 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/67255d0b107054675e62f6bf?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 15 |
-| **[Granite School District](http://www.graniteschools.org)** | **[Stage Crew - Student](https://jobright.ai/jobs/info/676110f8babc49bdd19da92a?utm_campaign=1053&utm_source=git)** | West Valley City, UT | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
