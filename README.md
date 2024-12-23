@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Dinners, Galas, Golf (Memphis, TN)](https://jobright.ai/jobs/info/6769a2fbcb17293f7f683eab?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Dec 23 |
+| **[Ascension](https://www.ascensionpress.com)** | **[Mobile App Content Assistant (Internship)](https://jobright.ai/jobs/info/6769966a189f6abf1ad9b990?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 23 |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6769895cdfbe98acccc03932?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 23 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/670d350af5e866dffc4f721a?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 23 |
 | **[The Associated Press](http://www.ap.org)** | **[Newsperson (Global News Intern, Women in Sports Reporter)](https://jobright.ai/jobs/info/672e8382dd5d0e21448a828d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2025 -Video Services](https://jobright.ai/jobs/info/6767a940f59d17d8aba7a61a?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Dec 21 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6767907d8f4996e23f3b46a8?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 21 |
@@ -100,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Recreation Intern - Spring](https://jobright.ai/jobs/info/67649e15b126d690350ae3b1?utm_campaign=1053&utm_source=git)** | Amelia, FL | On Site | Dec 19 |
 | **[M Booth](http://www.mbooth.com)** | **[Summer 2025 Intern, Lifestyle](https://jobright.ai/jobs/info/676480d9f984cb228ac4bf04?utm_campaign=1053&utm_source=git)** | NYC/HYBRID | On Site | Dec 19 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Paid Internship](https://jobright.ai/jobs/info/67647e1ff812137a8ed34ab6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 19 |
-| ↳ | **[Elvis Duran Morning Show Paid Internship](https://jobright.ai/jobs/info/67646c1dca4377bf73966646?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Dec 19 |
+| ↳ | **[Elvis Duran Morning Show Paid Internship](https://jobright.ai/jobs/info/67646c1dca4377bf7396674e?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Dec 19 |
 | **[M Booth](http://www.mbooth.com)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/67646ce79409510352032db0?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Dec 19 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Summer 2025 Packaging Internship](https://jobright.ai/jobs/info/6764779655360fdcb56953bb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Sports Intern](https://jobright.ai/jobs/info/6764430a82625dfa4499ec4c?utm_campaign=1053&utm_source=git)** | Deerfield Beach, Florida | On Site | Dec 19 |
@@ -150,9 +154,4 @@ For a complete list, click the following sortable link below:
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[Proprietary Content Intern, Summer 2025](https://jobright.ai/jobs/info/675321e7b6bfe6b1759d5b6d?utm_campaign=1053&utm_source=git)** | Ipswich, MA | Remote | Dec 17 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Intern - Tournament Services, Truist Championship](https://jobright.ai/jobs/info/674e2a8cec00fc6d856bbfe9?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 17 |
 | **[Sweetwater](http://www.sweetwater.com/)** | **[Recording Studio Internship](https://jobright.ai/jobs/info/6761029714017ed4e1678d6b?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | Dec 16 |
-| **[The University of Texas Rio Grande Valley](https://www.utrgv.edu/)** | **[University of Texas Rio Grande Valley is hiring: Creative Writing: Graduate Assi](https://jobright.ai/jobs/info/6761029714017ed4e1679188?utm_campaign=1053&utm_source=git)** | Edinburg, TX | On Site | Dec 16 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship-Unpaid, College Credit](https://jobright.ai/jobs/info/67610a3cebe9424e0d1f7357?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Dec 16 |
-| **[Philadelphia Museum of Art](http://www.philamuseum.org/)** | **[Museum Studies Internship Program](https://jobright.ai/jobs/info/6760da4a7bcf122935006b5f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Dec 16 |
-| **[NEOGOV](http://www.neogov.com)** | **[Museum Intern](https://jobright.ai/jobs/info/6760c0f574b06de369ab5534?utm_campaign=1053&utm_source=git)** | Barrow, AK | On Site | Dec 16 |
-| **[BCI Brands](https://www.bcibrands.com)** | **[Missy Apparel Team Intern (Immediate START)](https://jobright.ai/jobs/info/6760c6885b70b97e593bda8e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
