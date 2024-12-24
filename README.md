@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chapman University](https://www.chapman.edu/)** | **[Wellness and Recreation Video Content Creator](https://jobright.ai/jobs/info/676a80728b4ee94e685bff52?utm_campaign=1053&utm_source=git)** | Orange, CA | On Site | Dec 24 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Editorial Intern](https://jobright.ai/jobs/info/676a30ec99b821fd578ee3a4?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 23 |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Apprentice Bakery Decorator](https://jobright.ai/jobs/info/676a2c2ac719975fed424b67?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 23 |
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS Sports Soccer Production Internship (Summer 2025, On Site - Stamford, CT)](https://jobright.ai/jobs/info/6769e3a3234147b1fbfdd369?utm_campaign=1053&utm_source=git)** | Stamford, CT | Hybrid | Dec 23 |
 | **[Penn State University](http://psu.edu)** | **[Pennsylvania Sea Grant 2025 Summer Undergraduate Internship Program – Science Communications](https://jobright.ai/jobs/info/6769e3a3234147b1fbfdd39a?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Dec 23 |
@@ -97,10 +99,11 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Production Intern, US Scripted Series Production Team](https://jobright.ai/jobs/info/6765f9ea27e429aa67bb7347?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 20 |
 | ↳ | **[Creative Development Intern, Animation/Original Movies, Amazon MGM Studios](https://jobright.ai/jobs/info/67656537ae31c9fafd497e55?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 20 |
 | **[22squared](http://www.22squared.com)** | **[Internship](https://jobright.ai/jobs/info/6767c8ae8e731c44083ba5e1?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Dec 19 |
+| **[Cox Enterprises](http://coxenterprises.com)** | **[Content/Editorial Intern - Cox First Media -Summer 2025](https://jobright.ai/jobs/info/676a67139a99ca7487028995?utm_campaign=1053&utm_source=git)** | Dayton, OH | Hybrid | Dec 19 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Women's Events](https://jobright.ai/jobs/info/674f692d1d85b244c0a42a75?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 19 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Archivist Intern - Church History](https://jobright.ai/jobs/info/6764bba662795f5ff50cc359?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 19 |
-| **[Amazon](https://amazon.com)** | **[Creative Development Intern, Animation/Original Movies, Amazon MGM Studios](https://jobright.ai/jobs/info/6764b8a99446c4410ac02e8a?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 19 |
-| ↳ | **[Production Intern, US Scripted Series Production Team](https://jobright.ai/jobs/info/6764b8a99446c4410ac02e43?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 19 |
+| **[Amazon](https://amazon.com)** | **[Production Intern, US Scripted Series Production Team](https://jobright.ai/jobs/info/6764b8a99446c4410ac02e43?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 19 |
+| ↳ | **[Creative Development Intern, Animation/Original Movies, Amazon MGM Studios](https://jobright.ai/jobs/info/6764b8a99446c4410ac02e8a?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 19 |
 | ↳ | **[Music Intern, TV/Film, Amazon MGM Studios Music Team](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2e0?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 19 |
 | ↳ | **[Music Intern, TV/Film, Amazon MGM Studios Music Team](https://jobright.ai/jobs/info/67649c14c9f45bb98e8bc594?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 19 |
 | **[Paramount](https://www.paramount.com)** | **[Creative Music Strategy, Licensing & Standards Internships (Summer 2025, Hybrid- NYC/LA)](https://jobright.ai/jobs/info/6757b091863734d30e26569e?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
@@ -133,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Short Reads (Data Journalism), Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a876311?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 18 |
 | **[Ariadne Labs](https://www.ariadnelabs.org/)** | **[Fall Communications Intern, Ariadne Labs](https://jobright.ai/jobs/info/6765a73845d0ebb310ae9a1e?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Dec 18 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762e84b376ef29750cc4d1e?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Dec 18 |
-| ↳ | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762e84b376ef29750cc4d1f?utm_campaign=1053&utm_source=git)** | Kenosha, WI | On Site | Dec 18 |
 | ↳ | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762e84b376ef29750cc4d20?utm_campaign=1053&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 18 |
+| ↳ | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762e84b376ef29750cc4d1f?utm_campaign=1053&utm_source=git)** | Kenosha, WI | On Site | Dec 18 |
 | ↳ | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762dc80facab55967b8b3bb?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Dec 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[2025 Spring News Internship](https://jobright.ai/jobs/info/6762b93b8727298217323abc?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Dec 18 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762ba403bfe29485ae40861?utm_campaign=1053&utm_source=git)** | Glenview, IL | On Site | Dec 18 |
@@ -151,7 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Ryders Rental Internship](https://jobright.ai/jobs/info/6761e724405043aca1a5cffb?utm_campaign=1053&utm_source=git)** | Moonachie, NJ | On Site | Dec 17 |
 | **[TMZ](http://www.tmz.com/)** | **[Spring 2025 Internship - TMZ](https://jobright.ai/jobs/info/6761d3abf6054847f06cd77a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2025 Internship: Medical Writing Intern](https://jobright.ai/jobs/info/6761c555a5658fcbefc983bd?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Dec 17 |
-| ↳ | **[Summer 2025 Internship: Medical Writing Intern](https://jobright.ai/jobs/info/6761c25db63f894e5254cb35?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Dec 17 |
-| **[Riot Games](http://www.riotgames.com)** | **[VFX Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6738dd1b15628e3d5ca23de5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
-| **[PGA TOUR](http://www.pgatour.com)** | **[Intern - Tournament Services, Truist Championship](https://jobright.ai/jobs/info/674e2a8cec00fc6d856bbfe9?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
