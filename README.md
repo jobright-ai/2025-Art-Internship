@@ -117,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Recreation Intern - Spring](https://jobright.ai/jobs/info/67649e15b126d690350ae3b1?utm_campaign=1053&utm_source=git)** | Amelia, FL | On Site | Dec 19 |
 | **[M Booth](http://www.mbooth.com)** | **[Summer 2025 Intern, Lifestyle](https://jobright.ai/jobs/info/676480d9f984cb228ac4bf04?utm_campaign=1053&utm_source=git)** | NYC/HYBRID | On Site | Dec 19 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Paid Internship](https://jobright.ai/jobs/info/67647e1ff812137a8ed34ab6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 19 |
-| ↳ | **[Elvis Duran Morning Show Paid Internship](https://jobright.ai/jobs/info/67646c1dca4377bf7396674c?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Dec 19 |
+| ↳ | **[Elvis Duran Morning Show Paid Internship](https://jobright.ai/jobs/info/67646c1dca4377bf73966646?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Dec 19 |
 | **[M Booth](http://www.mbooth.com)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/67646ce79409510352032db0?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Dec 19 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Summer 2025 Packaging Internship](https://jobright.ai/jobs/info/6764779655360fdcb56953bb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Sports Intern](https://jobright.ai/jobs/info/6764430a82625dfa4499ec4c?utm_campaign=1053&utm_source=git)** | Deerfield Beach, Florida | On Site | Dec 19 |
@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Apprentice, Props (Summer 2025)](https://jobright.ai/jobs/info/67658b49563cfbd6e1a98ac4?utm_campaign=1053&utm_source=git)** | Wolf Trap, VA | On Site | Dec 19 |
 | ↳ | **[Apprentice, Scene Painting (Summer 2025)](https://jobright.ai/jobs/info/67658b49563cfbd6e1a98aa8?utm_campaign=1053&utm_source=git)** | Wolf Trap, VA | On Site | Dec 19 |
 | ↳ | **[Intern, Publications (Summer 2025)](https://jobright.ai/jobs/info/67658b49563cfbd6e1a98ac1?utm_campaign=1053&utm_source=git)** | Wolf Trap, VA | On Site | Dec 19 |
-| **[FOX Sports](http://foxsports.com)** | **[Summer 2025 FOX Sports Internship Program - Big Ten Network - Chicago](https://jobright.ai/jobs/info/674513735afaf783e4a736cd?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
