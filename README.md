@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orange County Government](http://www.ocfl.net)** | **[Student Intern](https://jobright.ai/jobs/info/6765ef7875b93d2604f2158e?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Dec 26 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/676d782cebebfa98936faccd?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 26 |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67527f92590934997eb16d28?utm_campaign=1053&utm_source=git)** | Middleton, WI | On Site | Dec 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[NYSBA News Intern- Spring 2025](https://jobright.ai/jobs/info/676c4f86165cbfd62f5f3888?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Dec 25 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[VCU Athletics *Communications* Graduate Assistant](https://jobright.ai/jobs/info/676b8c38cf161dc7d8d1b78c?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 24 |
 | **[Corsair](http://www.corsair.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/676b7c6f9c2ccf6fad9c4652?utm_campaign=1053&utm_source=git)** | Milpitas, CA | On Site | Dec 24 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, WME - Comedy](https://jobright.ai/jobs/info/6766d78a87856a203712584d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 21 |
 | ↳ | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/6766d78a87856a2037125857?utm_campaign=1053&utm_source=git)** | Nashville Metro | On Site | Dec 21 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, WME - Comedy](https://jobright.ai/jobs/info/6766a1766801b5a285f784f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 21 |
-| ↳ | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a28?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Dec 21 |
 | ↳ | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a51?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Dec 21 |
+| ↳ | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a28?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Dec 21 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/676655db8a0c69ccb0acfdff?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[American University](http://american.edu)** | **[Video Production Assistant (Student)](https://jobright.ai/jobs/info/67664eed14e7aa8fb24449f5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 20 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Event Production Intern](https://jobright.ai/jobs/info/675ca27232a1de326119342a?utm_campaign=1053&utm_source=git)** | Waltham, MA | Hybrid | Dec 20 |
@@ -96,14 +98,11 @@ For a complete list, click the following sortable link below:
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS Sports HQ Production Internship (Summer 2025, On Site - Ft. Lauderdale)](https://jobright.ai/jobs/info/676603ae1bf171dba2e37319?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 20 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, Books](https://jobright.ai/jobs/info/6765e71af6406944246cdb91?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | ↳ | **[Intern, Television](https://jobright.ai/jobs/info/6765e71af6406944246cdbb3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| **[Twitch](https://www.twitch.tv)** | **[Creator Acquisitions Intern (Dec 2025/Spring 2026)](https://jobright.ai/jobs/info/6765e71af6406944246cdbef?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
-| **[Orange County Government](http://www.ocfl.net)** | **[Student Intern](https://jobright.ai/jobs/info/6765ef7875b93d2604f2158e?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Dec 20 |
 | **[Gray Media](http://www.gray.tv)** | **[NEWS FELLOWSHIP/INTERNSHIP (SPRING '25) - KSWO](https://jobright.ai/jobs/info/6765ee92ca980ba648469abc?utm_campaign=1053&utm_source=git)** | Lawton, OK | On Site | Dec 20 |
+| **[Twitch](https://www.twitch.tv)** | **[Creator Acquisitions Intern (Dec 2025/Spring 2026)](https://jobright.ai/jobs/info/6765cf457e28baf35cbd8f99?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Distribution Intern](https://jobright.ai/jobs/info/6765ebefa3102f5140017496?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Content Editor Intern](https://jobright.ai/jobs/info/6765d986a161cc8a77ff0ece?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Dec 20 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern , Virginia This Morning, production, creative services](https://jobright.ai/jobs/info/6765bf009c097dd2e369f32b?utm_campaign=1053&utm_source=git)** | Richmond, VA - WTVR | On Site | Dec 20 |
 | **[Amazon](https://amazon.com)** | **[Production Intern, US Scripted Series Production Team](https://jobright.ai/jobs/info/6765f9ea27e429aa67bb7347?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 20 |
 | ↳ | **[Creative Development Intern, Animation/Original Movies, Amazon MGM Studios](https://jobright.ai/jobs/info/67656537ae31c9fafd497e55?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 20 |
-| **[22squared](http://www.22squared.com)** | **[Internship](https://jobright.ai/jobs/info/6767c8ae8e731c44083ba5e1?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Dec 19 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[Content/Editorial Intern - Cox First Media -Summer 2025](https://jobright.ai/jobs/info/676a67139a99ca7487028995?utm_campaign=1053&utm_source=git)** | Dayton, OH | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
