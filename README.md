@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[Montage International](http://www.montageinternational.com)** | **[Recreation & Activities Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/676ef737a227a14c21c48c42?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Dec 27 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Culinary Internship, Progressive Field](https://jobright.ai/jobs/info/676efd4e47e5bbd26188e62a?utm_campaign=1053&utm_source=git)** | Cleveland, OH | Hybrid | Dec 27 |
 | ↳ | **[Culinary Internship, American Family Field](https://jobright.ai/jobs/info/676efd4e47e5bbd26188e61f?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 27 |
+| ↳ | **[Culinary Internship, Comerica Park](https://jobright.ai/jobs/info/676fb8e542bbc3866a883535?utm_campaign=1053&utm_source=git)** | Detroit, MI | Hybrid | Dec 27 |
 | ↳ | **[Culinary Internship, Great American Ballpark](https://jobright.ai/jobs/info/676f36bdc1add4d71c195eeb?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 27 |
 | **[Montage International](http://www.montageinternational.com)** | **[Recreation & Activities Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/676ed91815e8c51532c3b938?utm_campaign=1053&utm_source=git)** | USA – SC – Bluffton | On Site | Dec 27 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/676ec854b8214942ff1c3373?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 27 |
@@ -87,9 +88,4 @@ For a complete list, click the following sortable link below:
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[Proprietary Content Intern, Summer 2025](https://jobright.ai/jobs/info/675321e7b6bfe6b1759d5b6d?utm_campaign=1053&utm_source=git)** | Ipswich, MA | Remote | Dec 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/670d350af5e866dffc4f721a?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 23 |
 | **[The Associated Press](http://www.ap.org)** | **[Newsperson (Global News Intern, Women in Sports Reporter)](https://jobright.ai/jobs/info/672e8382dd5d0e21448a828d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[Sage](https://group.sagepub.com)** | **[Editorial Intern, US College](https://jobright.ai/jobs/info/6766e9304cdc7b3fcc7ff5e9?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Dec 21 |
-| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/6766d78a87856a203712586f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 21 |
-| ↳ | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/6766d78a87856a203712586c?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Dec 21 |
-| ↳ | **[Intern, WME - Comedy](https://jobright.ai/jobs/info/6766d78a87856a203712584d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 21 |
-| ↳ | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/6766d78a87856a2037125857?utm_campaign=1053&utm_source=git)** | Nashville Metro | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
