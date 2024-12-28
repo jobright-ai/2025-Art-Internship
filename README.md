@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Lifeway Women, Editor / Bible Studies](https://jobright.ai/jobs/info/674f66392d84ea3382b590b4?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Montage International](http://www.montageinternational.com)** | **[Recreation & Activities Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/676ef737a227a14c21c48c42?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Dec 27 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Culinary Internship, Progressive Field](https://jobright.ai/jobs/info/676efd4e47e5bbd26188e62a?utm_campaign=1053&utm_source=git)** | Cleveland, OH | Hybrid | Dec 27 |
 | ↳ | **[Culinary Internship, American Family Field](https://jobright.ai/jobs/info/676efd4e47e5bbd26188e61f?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 27 |
+| ↳ | **[Culinary Internship, Great American Ballpark](https://jobright.ai/jobs/info/676f36bdc1add4d71c195eeb?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 27 |
 | **[Montage International](http://www.montageinternational.com)** | **[Recreation & Activities Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/676ed91815e8c51532c3b938?utm_campaign=1053&utm_source=git)** | USA – SC – Bluffton | On Site | Dec 27 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/676ec854b8214942ff1c3373?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 27 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025  Associate Producer Internship](https://jobright.ai/jobs/info/676e6a64616f60ba5e25cf41?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Dec 27 |
@@ -90,8 +92,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/6766d78a87856a203712586c?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Dec 21 |
 | ↳ | **[Intern, WME - Comedy](https://jobright.ai/jobs/info/6766d78a87856a203712584d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 21 |
 | ↳ | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/6766d78a87856a2037125857?utm_campaign=1053&utm_source=git)** | Nashville Metro | On Site | Dec 21 |
-| **[Endeavor](http://www.endeavorco.com/)** | **[Intern, WME - Comedy](https://jobright.ai/jobs/info/6766a1766801b5a285f784f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 21 |
-| ↳ | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a28?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Dec 21 |
-| ↳ | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a51?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Dec 21 |
-| **[Endeavor](http://www.endeavorco.com/)** | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/676655db8a0c69ccb0acfdff?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
