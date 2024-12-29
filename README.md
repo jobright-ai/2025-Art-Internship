@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Observer Media](https://www.observermedia.com/)** | **[EDITORIAL INTERNSHIPS](https://jobright.ai/jobs/info/67707effb92e57bd3e4e1433?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 28 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67701c325adabb510d13877d?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 28 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Lifeway Women, Editor / Bible Studies](https://jobright.ai/jobs/info/674f66392d84ea3382b590b4?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Montage International](http://www.montageinternational.com)** | **[Recreation & Activities Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/676ef737a227a14c21c48c42?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Dec 27 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/676ec854b8214942ff1c3373?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 27 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025  Associate Producer Internship](https://jobright.ai/jobs/info/676e6a64616f60ba5e25cf41?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Dec 27 |
 | **[Orange County Government](http://www.ocfl.net)** | **[Student Intern](https://jobright.ai/jobs/info/6765ef7875b93d2604f2158e?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Dec 26 |
-| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/676d782cebebfa98936faccd?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 26 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67527f92590934997eb16d28?utm_campaign=1053&utm_source=git)** | Middleton, WI | On Site | Dec 26 |
 | **[Activision](https://www.activision.com/)** | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67517be8b6f5bb6683f7bb1b?utm_campaign=1053&utm_source=git)** | Middleton, WI | On Site | Dec 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[NYSBA News Intern- Spring 2025](https://jobright.ai/jobs/info/676c4f86165cbfd62f5f3888?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Dec 25 |
@@ -77,7 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/676b39656f6eda9055abf591?utm_campaign=1053&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Short Reads (Data Journalism), Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a876311?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 24 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '25 - WECT](https://jobright.ai/jobs/info/676ad96f04cbe83dd102e278?utm_campaign=1053&utm_source=git)** | Wilmington, NC | On Site | Dec 24 |
-| **[Chapman University](https://www.chapman.edu/)** | **[Wellness and Recreation Video Content Creator](https://jobright.ai/jobs/info/676a80728b4ee94e685bff52?utm_campaign=1053&utm_source=git)** | Orange, CA | On Site | Dec 24 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2025 -Video Services](https://jobright.ai/jobs/info/6767a940f59d17d8aba7a61a?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Dec 23 |
 | **[City of Mountain View](http://mountainview.gov/)** | **[Library Intern (Communications)](https://jobright.ai/jobs/info/676b8b0be76c05c0353e78c9?utm_campaign=1053&utm_source=git)** | Mountain View, CA | On Site | Dec 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Editorial Intern](https://jobright.ai/jobs/info/676a30ec99b821fd578ee3a4?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 23 |
