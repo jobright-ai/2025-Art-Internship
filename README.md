@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/677174bbaa51e5772de9cc99?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 29 |
 | **[Observer Media](https://www.observermedia.com/)** | **[EDITORIAL INTERNSHIPS](https://jobright.ai/jobs/info/67707effb92e57bd3e4e1433?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 28 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Lifeway Women, Editor / Bible Studies](https://jobright.ai/jobs/info/674f66392d84ea3382b590b4?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Montage International](http://www.montageinternational.com)** | **[Recreation & Activities Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/676ef737a227a14c21c48c42?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Dec 27 |
