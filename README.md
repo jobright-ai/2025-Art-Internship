@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6772c9c4f5b3171b376623f4?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 30 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/677174bbaa51e5772de9cc99?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 29 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Lifeway Women, Editor / Bible Studies](https://jobright.ai/jobs/info/674f66392d84ea3382b590b4?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Montage International](http://www.montageinternational.com)** | **[Recreation & Activities Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/676ef737a227a14c21c48c42?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Dec 27 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Montage International](http://www.montageinternational.com)** | **[Recreation & Activities Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/676ed91815e8c51532c3b938?utm_campaign=1053&utm_source=git)** | USA – SC – Bluffton | On Site | Dec 27 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/676ec854b8214942ff1c3373?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 27 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025  Associate Producer Internship](https://jobright.ai/jobs/info/676e6a64616f60ba5e25cf41?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Dec 27 |
-| **[Orange County Government](http://www.ocfl.net)** | **[Student Intern](https://jobright.ai/jobs/info/6765ef7875b93d2604f2158e?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Dec 26 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Corporate and Special Events - R8064](https://jobright.ai/jobs/info/6710a3ccdb980f1b4cbd4efa?utm_campaign=1053&utm_source=git)** | Dayton, OH | Hybrid | Dec 26 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67527f92590934997eb16d28?utm_campaign=1053&utm_source=git)** | Middleton, WI | On Site | Dec 26 |
 | **[Activision](https://www.activision.com/)** | **[2025 US Summer Internship - Animation](https://jobright.ai/jobs/info/67517be8b6f5bb6683f7bb1b?utm_campaign=1053&utm_source=git)** | Middleton, WI | On Site | Dec 26 |
@@ -95,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, WME - Comedy](https://jobright.ai/jobs/info/6766d78a87856a203712584d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 21 |
 | ↳ | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/6766d78a87856a2037125857?utm_campaign=1053&utm_source=git)** | Nashville Metro | On Site | Dec 21 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, WME - Comedy](https://jobright.ai/jobs/info/6766a1766801b5a285f784f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 21 |
-| ↳ | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a51?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Dec 21 |
 | ↳ | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a28?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Dec 21 |
+| ↳ | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a51?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Dec 21 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/676655db8a0c69ccb0acfdff?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[American University](http://american.edu)** | **[Video Production Assistant (Student)](https://jobright.ai/jobs/info/67664eed14e7aa8fb24449f5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 20 |
 | **[Getty Images](https://www.gettyimages.com)** | **[Internship Immersion Program for Content Creation, Editorial Entertainment](https://jobright.ai/jobs/info/676e5fc4ba61bcfbade39ffc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 20 |
@@ -109,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS Sports HQ Production Internship (Summer 2025, On Site - Ft. Lauderdale)](https://jobright.ai/jobs/info/676603ae1bf171dba2e37319?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 20 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, Books](https://jobright.ai/jobs/info/6765e71af6406944246cdb91?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | ↳ | **[Intern, Television](https://jobright.ai/jobs/info/6765e71af6406944246cdbb3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| **[Twitch](https://www.twitch.tv)** | **[Creator Acquisitions Intern (Dec 2025/Spring 2026)](https://jobright.ai/jobs/info/6765e71af6406944246cdbef?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[Gray Media](http://www.gray.tv)** | **[NEWS FELLOWSHIP/INTERNSHIP (SPRING '25) - KSWO](https://jobright.ai/jobs/info/6765ee92ca980ba648469abc?utm_campaign=1053&utm_source=git)** | Lawton, OK | On Site | Dec 20 |
+| **[Twitch](https://www.twitch.tv)** | **[Creator Acquisitions Intern (Dec 2025/Spring 2026)](https://jobright.ai/jobs/info/6765cf457e28baf35cbd8f99?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Distribution Intern](https://jobright.ai/jobs/info/6765ebefa3102f5140017496?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Content Editor Intern](https://jobright.ai/jobs/info/6765d986a161cc8a77ff0ece?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Dec 20 |
 | **[Amazon](https://amazon.com)** | **[Production Intern, US Scripted Series Production Team](https://jobright.ai/jobs/info/6765f9ea27e429aa67bb7347?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 20 |
