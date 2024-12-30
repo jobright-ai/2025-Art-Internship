@@ -95,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, WME - Comedy](https://jobright.ai/jobs/info/6766d78a87856a203712584d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 21 |
 | ↳ | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/6766d78a87856a2037125857?utm_campaign=1053&utm_source=git)** | Nashville Metro | On Site | Dec 21 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, WME - Comedy](https://jobright.ai/jobs/info/6766a1766801b5a285f784f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 21 |
-| ↳ | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a28?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Dec 21 |
 | ↳ | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a51?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Dec 21 |
+| ↳ | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a28?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Dec 21 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/676655db8a0c69ccb0acfdff?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[American University](http://american.edu)** | **[Video Production Assistant (Student)](https://jobright.ai/jobs/info/67664eed14e7aa8fb24449f5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 20 |
 | **[Getty Images](https://www.gettyimages.com)** | **[Internship Immersion Program for Content Creation, Editorial Entertainment](https://jobright.ai/jobs/info/676e5fc4ba61bcfbade39ffc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 20 |
@@ -109,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS Sports HQ Production Internship (Summer 2025, On Site - Ft. Lauderdale)](https://jobright.ai/jobs/info/676603ae1bf171dba2e37319?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 20 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, Books](https://jobright.ai/jobs/info/6765e71af6406944246cdb91?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | ↳ | **[Intern, Television](https://jobright.ai/jobs/info/6765e71af6406944246cdbb3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
+| **[Twitch](https://www.twitch.tv)** | **[Creator Acquisitions Intern (Dec 2025/Spring 2026)](https://jobright.ai/jobs/info/6765e71af6406944246cdbef?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[Gray Media](http://www.gray.tv)** | **[NEWS FELLOWSHIP/INTERNSHIP (SPRING '25) - KSWO](https://jobright.ai/jobs/info/6765ee92ca980ba648469abc?utm_campaign=1053&utm_source=git)** | Lawton, OK | On Site | Dec 20 |
-| **[Twitch](https://www.twitch.tv)** | **[Creator Acquisitions Intern (Dec 2025/Spring 2026)](https://jobright.ai/jobs/info/6765cf457e28baf35cbd8f99?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Distribution Intern](https://jobright.ai/jobs/info/6765ebefa3102f5140017496?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Content Editor Intern](https://jobright.ai/jobs/info/6765d986a161cc8a77ff0ece?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Dec 20 |
 | **[Amazon](https://amazon.com)** | **[Production Intern, US Scripted Series Production Team](https://jobright.ai/jobs/info/6765f9ea27e429aa67bb7347?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 20 |
@@ -149,8 +149,8 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[Film Intern](https://jobright.ai/jobs/info/67632478dd38a8ef53ec59dd?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Dec 18 |
 | **[DeVry University](http://www.devry.edu)** | **[FWS Student Worker III, Off Campus (Event Assistant Intern)](https://jobright.ai/jobs/info/67632e21bd11ae9d802986cc?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Dec 18 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762e84b376ef29750cc4d1e?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Dec 18 |
-| ↳ | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762e84b376ef29750cc4d20?utm_campaign=1053&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 18 |
 | ↳ | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762e84b376ef29750cc4d1f?utm_campaign=1053&utm_source=git)** | Kenosha, WI | On Site | Dec 18 |
+| ↳ | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762e84b376ef29750cc4d20?utm_campaign=1053&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 18 |
 | ↳ | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762dc80facab55967b8b3bb?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Dec 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[2025 Spring News Internship](https://jobright.ai/jobs/info/6762b93b8727298217323abc?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Dec 18 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762ba403bfe29485ae40861?utm_campaign=1053&utm_source=git)** | Glenview, IL | On Site | Dec 18 |
