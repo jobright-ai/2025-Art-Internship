@@ -87,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Dinners, Galas, Golf (Memphis, TN)](https://jobright.ai/jobs/info/6769a2fbcb17293f7f683eab?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Dec 23 |
 | **[Ascension](https://www.ascensionpress.com)** | **[Mobile App Content Assistant (Internship)](https://jobright.ai/jobs/info/6769966a189f6abf1ad9b990?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 23 |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[Proprietary Content Intern, Summer 2025](https://jobright.ai/jobs/info/675321e7b6bfe6b1759d5b6d?utm_campaign=1053&utm_source=git)** | Ipswich, MA | Remote | Dec 23 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/670d350af5e866dffc4f721a?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
