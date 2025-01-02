@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.00 - $18.00/HR](https://jobright.ai/jobs/info/67352f3d79bce4e481ea565c?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Jan 02 |
 | **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Broadway Theater Camp Internship](https://jobright.ai/jobs/info/677648bbcfe590505d2a7032?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Jan 01 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/677595c9b604df12926b6803?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jan 01 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Content/Editorial Intern - Cox First Media -Summer 2025](https://jobright.ai/jobs/info/676a67139a99ca7487028995?utm_campaign=1053&utm_source=git)** | Dayton, OH | Hybrid | Jan 01 |
@@ -131,9 +132,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Development Intern, Animation/Original Movies, Amazon MGM Studios](https://jobright.ai/jobs/info/6764b8a99446c4410ac02e8a?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 19 |
 | ↳ | **[Music Intern, TV/Film, Amazon MGM Studios Music Team](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2e0?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 19 |
 | ↳ | **[Music Intern, TV/Film, Amazon MGM Studios Music Team](https://jobright.ai/jobs/info/67649c14c9f45bb98e8bc594?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 19 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Recreation Intern - Spring](https://jobright.ai/jobs/info/67649e15b126d690350ae3b1?utm_campaign=1053&utm_source=git)** | Amelia, FL | On Site | Dec 19 |
-| **[M Booth](http://www.mbooth.com)** | **[Summer 2025 Intern, Lifestyle](https://jobright.ai/jobs/info/676480d9f984cb228ac4bf04?utm_campaign=1053&utm_source=git)** | NYC/HYBRID | On Site | Dec 19 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Paid Internship](https://jobright.ai/jobs/info/67647e1ff812137a8ed34ab6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 19 |
-| ↳ | **[Elvis Duran Morning Show Paid Internship](https://jobright.ai/jobs/info/67646c1dca4377bf7396674e?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Dec 19 |
-| **[M Booth](http://www.mbooth.com)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/67646ce79409510352032db0?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
