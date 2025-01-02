@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/677595c9b604df12926b6803?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jan 01 |
+| **[Cox Enterprises](http://coxenterprises.com)** | **[Content/Editorial Intern - Cox First Media -Summer 2025](https://jobright.ai/jobs/info/676a67139a99ca7487028995?utm_campaign=1053&utm_source=git)** | Dayton, OH | Hybrid | Jan 01 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[New York City Summer Intern](https://jobright.ai/jobs/info/6759edde9956471dd668974e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6758d3ff747d34d59b6b0184?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Jan 01 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2025 Atlanta Summer Internship Program - Archival and Knowledge Management Intern](https://jobright.ai/jobs/info/67754dc3b60b4f671ec6e606?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 01 |
@@ -125,10 +126,9 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Production Intern, US Scripted Series Production Team](https://jobright.ai/jobs/info/6765f9ea27e429aa67bb7347?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 20 |
 | ↳ | **[Creative Development Intern, Animation/Original Movies, Amazon MGM Studios](https://jobright.ai/jobs/info/67656537ae31c9fafd497e55?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 20 |
 | **[22squared](http://www.22squared.com)** | **[Internship](https://jobright.ai/jobs/info/6767c8ae8e731c44083ba5e1?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Dec 19 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[Content/Editorial Intern - Cox First Media -Summer 2025](https://jobright.ai/jobs/info/676a67139a99ca7487028995?utm_campaign=1053&utm_source=git)** | Dayton, OH | Hybrid | Dec 19 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Archivist Intern - Church History](https://jobright.ai/jobs/info/6764bba662795f5ff50cc359?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 19 |
-| **[Amazon](https://amazon.com)** | **[Creative Development Intern, Animation/Original Movies, Amazon MGM Studios](https://jobright.ai/jobs/info/6764b8a99446c4410ac02e8a?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 19 |
-| ↳ | **[Production Intern, US Scripted Series Production Team](https://jobright.ai/jobs/info/6764b8a99446c4410ac02e43?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 19 |
+| **[Amazon](https://amazon.com)** | **[Production Intern, US Scripted Series Production Team](https://jobright.ai/jobs/info/6764b8a99446c4410ac02e43?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 19 |
+| ↳ | **[Creative Development Intern, Animation/Original Movies, Amazon MGM Studios](https://jobright.ai/jobs/info/6764b8a99446c4410ac02e8a?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 19 |
 | ↳ | **[Music Intern, TV/Film, Amazon MGM Studios Music Team](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2e0?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 19 |
 | ↳ | **[Music Intern, TV/Film, Amazon MGM Studios Music Team](https://jobright.ai/jobs/info/67649c14c9f45bb98e8bc594?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 19 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Recreation Intern - Spring](https://jobright.ai/jobs/info/67649e15b126d690350ae3b1?utm_campaign=1053&utm_source=git)** | Amelia, FL | On Site | Dec 19 |
@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Apprentice, Props (Summer 2025)](https://jobright.ai/jobs/info/67658b49563cfbd6e1a98ac4?utm_campaign=1053&utm_source=git)** | Wolf Trap, VA | On Site | Dec 19 |
 | ↳ | **[Apprentice, Scene Painting (Summer 2025)](https://jobright.ai/jobs/info/67658b49563cfbd6e1a98aa8?utm_campaign=1053&utm_source=git)** | Wolf Trap, VA | On Site | Dec 19 |
 | ↳ | **[Intern, Publications (Summer 2025)](https://jobright.ai/jobs/info/67658b49563cfbd6e1a98ac1?utm_campaign=1053&utm_source=git)** | Wolf Trap, VA | On Site | Dec 19 |
-| **[FOX Sports](http://foxsports.com)** | **[Summer 2025 FOX Sports Internship Program - Big Ten Network - Chicago](https://jobright.ai/jobs/info/674513735afaf783e4a736cd?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
