@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Education Association](http://www.nea.org)** | **[NEA Media Intern, Center for Communications, Media Strategy (Winter/Spring 2025)](https://jobright.ai/jobs/info/672404be8a79e99dcc818ccd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 03 |
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern - Hawaii](https://jobright.ai/jobs/info/67777dae56aa27802ba285c8?utm_campaign=1053&utm_source=git)** | Honolulu, HI | On Site | Jan 02 |
 | ↳ | **[Intern - Cultural Resources](https://jobright.ai/jobs/info/677738d967af1d75ff0e03e0?utm_campaign=1053&utm_source=git)** | Pasadena, CA | On Site | Jan 02 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Temporary Reporter/Writer Intern](https://jobright.ai/jobs/info/6777063ff6b49f1d88394faf?utm_campaign=1053&utm_source=git)** | Boulder, CO | Hybrid | Jan 02 |
@@ -99,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Short Reads (Data Journalism), Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a876311?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 24 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '25 - WECT](https://jobright.ai/jobs/info/676ad96f04cbe83dd102e278?utm_campaign=1053&utm_source=git)** | Wilmington, NC | On Site | Dec 24 |
 | **[Chapman University](https://www.chapman.edu/)** | **[Wellness and Recreation Video Content Creator](https://jobright.ai/jobs/info/677267269e8c76a4588c6437?utm_campaign=1053&utm_source=git)** | Orange, CA | On Site | Dec 24 |
-| **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2025 -Video Services](https://jobright.ai/jobs/info/6767a940f59d17d8aba7a61a?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Dec 23 |
+| **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2025 -Video Services](https://jobright.ai/jobs/info/6767a940f59d17d8aba7a61a?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Dec 23 |
 | **[City of Mountain View](http://mountainview.gov/)** | **[Library Intern (Communications)](https://jobright.ai/jobs/info/676b8b0be76c05c0353e78c9?utm_campaign=1053&utm_source=git)** | Mountain View, CA | On Site | Dec 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Editorial Intern](https://jobright.ai/jobs/info/676a30ec99b821fd578ee3a4?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 23 |
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS Sports Soccer Production Internship (Summer 2025, On Site - Stamford, CT)](https://jobright.ai/jobs/info/6769e3a3234147b1fbfdd369?utm_campaign=1053&utm_source=git)** | Stamford, CT | Hybrid | Dec 23 |
@@ -114,22 +115,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, WME - Comedy](https://jobright.ai/jobs/info/6766d78a87856a203712584d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 21 |
 | ↳ | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/6766d78a87856a2037125857?utm_campaign=1053&utm_source=git)** | Nashville Metro | On Site | Dec 21 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, WME - Comedy](https://jobright.ai/jobs/info/6766a1766801b5a285f784f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 21 |
-| ↳ | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a51?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Dec 21 |
 | ↳ | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a28?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Dec 21 |
+| ↳ | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a51?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Dec 21 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/676655db8a0c69ccb0acfdff?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[American University](http://american.edu)** | **[Video Production Assistant (Student)](https://jobright.ai/jobs/info/67664eed14e7aa8fb24449f5?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 20 |
 | **[Getty Images](https://www.gettyimages.com)** | **[Internship Immersion Program for Content Creation, Editorial Entertainment](https://jobright.ai/jobs/info/676e5fc4ba61bcfbade39ffc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 20 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Event Production Intern](https://jobright.ai/jobs/info/675ca27232a1de326119342a?utm_campaign=1053&utm_source=git)** | Waltham, MA | Hybrid | Dec 20 |
 | **[Sage](https://group.sagepub.com)** | **[Editorial Intern, US College](https://jobright.ai/jobs/info/676608005d30b24828551d2b?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 20 |
-| **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Clorox Production Studio Intern (Summer 2025)](https://jobright.ai/jobs/info/6765e221c2db5c63796e6236?utm_campaign=1053&utm_source=git)** | Oakland, CA | Hybrid | Dec 20 |
-| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Books](https://jobright.ai/jobs/info/6765ef7875b93d2604f21471?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| ↳ | **[Intern, Television](https://jobright.ai/jobs/info/6765ef7875b93d2604f2146b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| **[University of Illinois Chicago](https://uic.edu)** | **[Graduate Assistant Hourly for Media Production Support](https://jobright.ai/jobs/info/6765ebefa3102f51400172c5?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
-| **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[CBS Sports HQ Production Internship (Summer 2025, On Site - Ft. Lauderdale)](https://jobright.ai/jobs/info/676603ae1bf171dba2e37319?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 20 |
-| **[Endeavor](http://www.endeavorco.com/)** | **[Intern, Books](https://jobright.ai/jobs/info/6765e71af6406944246cdb91?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| ↳ | **[Intern, Television](https://jobright.ai/jobs/info/6765e71af6406944246cdbb3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| **[Gray Media](http://www.gray.tv)** | **[NEWS FELLOWSHIP/INTERNSHIP (SPRING '25) - KSWO](https://jobright.ai/jobs/info/6765ee92ca980ba648469abc?utm_campaign=1053&utm_source=git)** | Lawton, OK | On Site | Dec 20 |
-| **[Twitch](https://www.twitch.tv)** | **[Creator Acquisitions Intern (Dec 2025/Spring 2026)](https://jobright.ai/jobs/info/6765cf457e28baf35cbd8f99?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Distribution Intern](https://jobright.ai/jobs/info/6765ebefa3102f5140017496?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Content Editor Intern](https://jobright.ai/jobs/info/6765d986a161cc8a77ff0ece?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
