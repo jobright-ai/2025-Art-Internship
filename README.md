@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Intern - Cultural Resources](https://jobright.ai/jobs/info/677738d967af1d75ff0e03e0?utm_campaign=1053&utm_source=git)** | Pasadena, CA | On Site | Jan 02 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Temporary Reporter/Writer Intern](https://jobright.ai/jobs/info/6777063ff6b49f1d88394faf?utm_campaign=1053&utm_source=git)** | Boulder, CO | Hybrid | Jan 02 |
 | **[American Public Health Association](https://www.apha.org)** | **[The Nation's Health Internship: 2025 summer term (June 1 - August 15)](https://jobright.ai/jobs/info/6776eba6eac469213f0da268?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[News Intern, KBZK](https://jobright.ai/jobs/info/6776d4468ec19443e29afb9c?utm_campaign=1053&utm_source=git)** | Bozeman, MT - KBZK | On Site | Jan 02 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[INNOCEAN USA](http://www.innoceanusa.com/)** | **[Content Creator INNtern](https://jobright.ai/jobs/info/6776c920abbe931950ea12de?utm_campaign=1053&utm_source=git)** | Huntington Beach, CA | Hybrid | Jan 02 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/6776c45e68c46eab19ee8318?utm_campaign=1053&utm_source=git)** | 49 Old Hickory Lane, Johnstown, PA, 15905, US | On Site | Jan 02 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6776c920abbe931950ea13db?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jan 02 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program – Video Production Team](https://jobright.ai/jobs/info/675fed09862094aa3853e9f4?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jan 02 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.00 - $18.00/HR](https://jobright.ai/jobs/info/67352f3d79bce4e481ea565c?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Jan 02 |
 | **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Broadway Theater Camp Internship](https://jobright.ai/jobs/info/677648bbcfe590505d2a7032?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Jan 01 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136aab?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jan 01 |
