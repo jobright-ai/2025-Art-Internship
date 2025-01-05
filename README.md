@@ -59,9 +59,11 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[Golf Course Maintenance Intern - Summer 2024](https://jobright.ai/jobs/info/6779c43a3294841f890af9f0?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Jan 04 |
 | **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Editorial Internship, Summer 2025](https://jobright.ai/jobs/info/6779778950c82706a117983b?utm_campaign=1053&utm_source=git)** | West Allis, WI | Hybrid | Jan 04 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern - Unpaid](https://jobright.ai/jobs/info/671969ea3cbe0aee42b8ab66?utm_campaign=1053&utm_source=git)** | Tyler, TX | Hybrid | Jan 04 |
 | **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[Academy Gold Rising - The Black List Internship (Summer 2025)](https://jobright.ai/jobs/info/673e62101e77af8f327b3447?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Jan 04 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136b46?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Jan 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern I, News](https://jobright.ai/jobs/info/6672e80cd742a3597e9aba0f?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Jan 04 |
+| **[Groot Hospitality](https://groothospitality.com/)** | **[Nightlife Intern](https://jobright.ai/jobs/info/675a3ed1d6e2ea18361d2f6c?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | On Site | Jan 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b5910d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 03 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[New York City Summer Intern](https://jobright.ai/jobs/info/6778bff03681dfa227435a60?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[FOX Sports](http://foxsports.com)** | **[Summer 2025 FOX Internship Program - Sports Production - New York](https://jobright.ai/jobs/info/67099b2e94de3270c3d86677?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 03 |
@@ -82,9 +84,9 @@ For a complete list, click the following sortable link below:
 | **[TEGNA](http://www.tegna.com)** | **[News Intern](https://jobright.ai/jobs/info/6778610073b26be91cdccc22?utm_campaign=1053&utm_source=git)** | KARE-TV Minneapolis | On Site | Jan 03 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/67784ee79f637be887dacb91?utm_campaign=1053&utm_source=git)** | 140 4th Ave. North, Seattle, WA, 98109, US | On Site | Jan 03 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/67784ee79f637be887dacb8a?utm_campaign=1053&utm_source=git)** | 4279 Benton Drive, Chattanooga, TN, 37406, US | On Site | Jan 03 |
-| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/67784ee79f637be887dacb8b?utm_campaign=1053&utm_source=git)** | 4225 West Henrietta Road, Rochester, NY, 14623, US | On Site | Jan 03 |
-| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/67784ee79f637be887dacb9a?utm_campaign=1053&utm_source=git)** | 1500 Foremaster Lane, Las Vegas, NV, 89101, US | On Site | Jan 03 |
 | ↳ | **[News Intern - Spring 2025 (The National News Desk)](https://jobright.ai/jobs/info/67784ee79f637be887dacbb4?utm_campaign=1053&utm_source=git)** | 1100 Wilson Boulevard, Arlington, VA, 22209, US | On Site | Jan 03 |
+| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/67784ee79f637be887dacb9a?utm_campaign=1053&utm_source=git)** | 1500 Foremaster Lane, Las Vegas, NV, 89101, US | On Site | Jan 03 |
+| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/67784ee79f637be887dacb8b?utm_campaign=1053&utm_source=git)** | 4225 West Henrietta Road, Rochester, NY, 14623, US | On Site | Jan 03 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/67784ee79f637be887dacb71?utm_campaign=1053&utm_source=git)** | 10 Turtle Creek Lane, Little Rock, AR, 72202, US | On Site | Jan 03 |
 | **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fac6?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | On Site | Jan 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Newsroom Internship](https://jobright.ai/jobs/info/66cc5c2fc69ad78cae6d7f16?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
@@ -93,7 +95,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677831184ffdd24b1ee8a2aa?utm_campaign=1053&utm_source=git)** | 1100 Fairfield Drive, West Palm Beach, FL, 33407, US | On Site | Jan 03 |
 | **[NoGood](https://nogood.io)** | **[Content Creator Intern](https://jobright.ai/jobs/info/67783e1ed3b2b871c7b692e6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - PAC](https://jobright.ai/jobs/info/67782596bb2cb2aa26646a60?utm_campaign=1053&utm_source=git)** | Performing Arts Center, AL | On Site | Jan 03 |
-| **[Florida International University](https://www.fiu.edu)** | **[FIU Undergraduate Research Journal Editorial - Student Intern](https://jobright.ai/jobs/info/67785fc653f09f3b3120734a?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jan 03 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[KATV Spring 2025 Intern](https://jobright.ai/jobs/info/67588dd7d7cd8fcfc1e3a051?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jan 03 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Styling Intern](https://jobright.ai/jobs/info/671ff8fa900f241460764d1e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/67522767cbdea6438a5770b2?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Jan 03 |
