@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peace Corps](http://www.peacecorps.gov)** | **[Multimedia Specialist/Video Editor Internship (Summer 2025) - Federal Hire](https://jobright.ai/jobs/info/677bd70bbfc72d27e9e51550?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 06 |
 | **[New Jersey Institute of Technology](https://www.njit.edu/)** | **[Summer Videographer](https://jobright.ai/jobs/info/677b93027464c4433edd6a32?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Jan 05 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Color Apprentice - Bumble and bumble - Full Time - 146 E 56th Street - New York, NY](https://jobright.ai/jobs/info/677b40b136bea7cd1e6b8aa2?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 05 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Collection & Archivist Intern (Student Intern Level II), Quality & Safety *Grant Funded/Temporary* 14 hours/week](https://jobright.ai/jobs/info/677ae5a0bcc8642755cb3802?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Music and Audio Event Operations](https://jobright.ai/jobs/info/673de80ffb2429f0edb2a212?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Jan 04 |
-| **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[Golf Course Maintenance Intern - Summer 2024](https://jobright.ai/jobs/info/6779c43a3294841f890af9f0?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Jan 04 |
 | **[Montage International](http://www.montageinternational.com)** | **[Culinary Internship & Externships / Montage Palmetto Bluff](https://jobright.ai/jobs/info/66c9bc446c1ffa1ddaf44c39?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Jan 04 |
 | **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Editorial Internship, Summer 2025](https://jobright.ai/jobs/info/6779778950c82706a117983b?utm_campaign=1053&utm_source=git)** | West Allis, WI | Hybrid | Jan 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern - Unpaid](https://jobright.ai/jobs/info/671969ea3cbe0aee42b8ab66?utm_campaign=1053&utm_source=git)** | Tyler, TX | Hybrid | Jan 04 |
@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fac6?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | On Site | Jan 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Newsroom Internship](https://jobright.ai/jobs/info/66cc5c2fc69ad78cae6d7f16?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677831184ffdd24b1ee8a2b9?utm_campaign=1053&utm_source=git)** | 23 Kenney Drive, Cranston, RI, 02920, US | On Site | Jan 03 |
-| ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677831184ffdd24b1ee8a283?utm_campaign=1053&utm_source=git)** | 1301 PIEDMONT RD, Charleston, WV, 25301, US | On Site | Jan 03 |
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677831184ffdd24b1ee8a2aa?utm_campaign=1053&utm_source=git)** | 1100 Fairfield Drive, West Palm Beach, FL, 33407, US | On Site | Jan 03 |
+| ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677831184ffdd24b1ee8a283?utm_campaign=1053&utm_source=git)** | 1301 PIEDMONT RD, Charleston, WV, 25301, US | On Site | Jan 03 |
 | **[NoGood](https://nogood.io)** | **[Content Creator Intern](https://jobright.ai/jobs/info/67783e1ed3b2b871c7b692e6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - PAC](https://jobright.ai/jobs/info/67782596bb2cb2aa26646a60?utm_campaign=1053&utm_source=git)** | Performing Arts Center, AL | On Site | Jan 03 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[KATV Spring 2025 Intern](https://jobright.ai/jobs/info/67588dd7d7cd8fcfc1e3a051?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jan 03 |
