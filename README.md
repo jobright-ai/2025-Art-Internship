@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2025](https://jobright.ai/jobs/info/6726212dd33e411863be17dc?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Jan 07 |
+| **[Compass Health Center](https://compasshealthcenter.net)** | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e76661417c381a0dfd7be?utm_campaign=1053&utm_source=git)** | Oak Brook, IL | On Site | Jan 07 |
+| **[Argus Media](https://www.argusmedia.com)** | **[Summer Internship 2025 - Editorial](https://jobright.ai/jobs/info/66e9d40cdbc8f327e4ac59c5?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jan 07 |
 | **[Woodward Communications, Inc.](https://www.wcinet.com/)** | **[REPORTER INTERN](https://jobright.ai/jobs/info/677cdf8b35dce1b798dd4dd1?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Jan 06 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025  Associate Producer Internship](https://jobright.ai/jobs/info/677cafd44ab24f99a3a86936?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Jan 06 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Video Production - Summer 2025](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72cb5?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jan 06 |
@@ -93,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2025] Digital Content Internship](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72891?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | ↳ | **[[Summer 2025] Curatorial Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af28fd2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | ↳ | **[[Summer 2025] Publications Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af28fde?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 03 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Video Production - Summer 2025](https://jobright.ai/jobs/info/6778895e1b26e05c48d093d8?utm_campaign=1053&utm_source=git)** | Houston, TX, US | On Site | Jan 03 |
-| ↳ | **[Student Internship – Video Production - Summer 2025](https://jobright.ai/jobs/info/6778895e1b26e05c48d093f1?utm_campaign=1053&utm_source=git)** | Austin, TX, US | On Site | Jan 03 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship – Video Production - Summer 2025](https://jobright.ai/jobs/info/6778895e1b26e05c48d093f1?utm_campaign=1053&utm_source=git)** | Austin, TX, US | On Site | Jan 03 |
+| ↳ | **[Student Internship – Video Production - Summer 2025](https://jobright.ai/jobs/info/6778895e1b26e05c48d093d8?utm_campaign=1053&utm_source=git)** | Houston, TX, US | On Site | Jan 03 |
 | **[Caesars Entertainment](https://www.caesars.com/corporate)** | **[Table Games Operations Intern - Summer 2025](https://jobright.ai/jobs/info/6778862a853e83ad6ca5f9fa?utm_campaign=1053&utm_source=git)** | Danville, VA, United States | On Site | Jan 03 |
 | **[Three Rivers Behavioral Health](https://threeriversbehavioral.org/)** | **[Music Therapy Intern](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd787?utm_campaign=1053&utm_source=git)** | West Columbia, SC | On Site | Jan 03 |
 | **[TEGNA](http://www.tegna.com)** | **[News Intern](https://jobright.ai/jobs/info/677882351464a795e5d36bec?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Jan 03 |
@@ -103,10 +106,10 @@ For a complete list, click the following sortable link below:
 | **[TEGNA](http://www.tegna.com)** | **[News Intern](https://jobright.ai/jobs/info/6778610073b26be91cdccc22?utm_campaign=1053&utm_source=git)** | KARE-TV Minneapolis | On Site | Jan 03 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/67784ee79f637be887dacb91?utm_campaign=1053&utm_source=git)** | 140 4th Ave. North, Seattle, WA, 98109, US | On Site | Jan 03 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/67784ee79f637be887dacb8a?utm_campaign=1053&utm_source=git)** | 4279 Benton Drive, Chattanooga, TN, 37406, US | On Site | Jan 03 |
-| ↳ | **[News Intern - Spring 2025 (The National News Desk)](https://jobright.ai/jobs/info/67784ee79f637be887dacbb4?utm_campaign=1053&utm_source=git)** | 1100 Wilson Boulevard, Arlington, VA, 22209, US | On Site | Jan 03 |
-| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/67784ee79f637be887dacb9a?utm_campaign=1053&utm_source=git)** | 1500 Foremaster Lane, Las Vegas, NV, 89101, US | On Site | Jan 03 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/67784ee79f637be887dacb8b?utm_campaign=1053&utm_source=git)** | 4225 West Henrietta Road, Rochester, NY, 14623, US | On Site | Jan 03 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/67784ee79f637be887dacb71?utm_campaign=1053&utm_source=git)** | 10 Turtle Creek Lane, Little Rock, AR, 72202, US | On Site | Jan 03 |
+| ↳ | **[News Intern - Spring 2025 (The National News Desk)](https://jobright.ai/jobs/info/67784ee79f637be887dacbb4?utm_campaign=1053&utm_source=git)** | 1100 Wilson Boulevard, Arlington, VA, 22209, US | On Site | Jan 03 |
+| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/67784ee79f637be887dacb9a?utm_campaign=1053&utm_source=git)** | 1500 Foremaster Lane, Las Vegas, NV, 89101, US | On Site | Jan 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Newsroom Internship](https://jobright.ai/jobs/info/66cc5c2fc69ad78cae6d7f16?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677831184ffdd24b1ee8a2b9?utm_campaign=1053&utm_source=git)** | 23 Kenney Drive, Cranston, RI, 02920, US | On Site | Jan 03 |
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677831184ffdd24b1ee8a283?utm_campaign=1053&utm_source=git)** | 1301 PIEDMONT RD, Charleston, WV, 25301, US | On Site | Jan 03 |
