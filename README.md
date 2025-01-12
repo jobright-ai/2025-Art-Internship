@@ -89,13 +89,13 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea6469f?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jan 08 |
 | ↳ | **[News Intern - Spring 2025 (The National News Desk)](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jan 08 |
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646b9?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Jan 08 |
-| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c0?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jan 08 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a1?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 08 |
+| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c0?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jan 08 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646ae?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jan 08 |
+| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a8?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Jan 08 |
+| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646f2?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jan 08 |
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jan 08 |
 | ↳ | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea64694?utm_campaign=1053&utm_source=git)** | Johnstown, PA | On Site | Jan 08 |
-| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646f2?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jan 08 |
-| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a8?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Jan 08 |
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646af?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 08 |
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a2?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Jan 08 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646f0?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Jan 08 |
