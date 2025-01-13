@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/6784762a3b3212f53f027026?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 12 |
 | **[Cars Commerce](http://cars.com)** | **[Copy Editing Intern](https://jobright.ai/jobs/info/676338b0eafdbe093ea0c2c6?utm_campaign=1053&utm_source=git)** | Illinois, United States | Remote | Jan 12 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/676655db8a0c69ccb0acfdff?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 12 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/675cc2367c1c7571b5607f70?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Jan 12 |
@@ -98,13 +99,13 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea6469f?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jan 08 |
 | ↳ | **[News Intern - Spring 2025 (The National News Desk)](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jan 08 |
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646b9?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Jan 08 |
-| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a1?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 08 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c0?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jan 08 |
+| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a1?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 08 |
 | ↳ | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea64694?utm_campaign=1053&utm_source=git)** | Johnstown, PA | On Site | Jan 08 |
-| ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jan 08 |
-| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a8?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Jan 08 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646ae?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jan 08 |
+| ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jan 08 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646f2?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jan 08 |
+| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a8?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Jan 08 |
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646af?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 08 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646f0?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Jan 08 |
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a2?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Jan 08 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[American Chemical Society](https://www.acs.org/)** | **[Awards Program Assistant Intern](https://jobright.ai/jobs/info/677d97c92792942f6efec3e4?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Editorial Operations Specialist Co-op](https://jobright.ai/jobs/info/677d95501a28a17060c126dc?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Jan 07 |
 | **[3STEP Sports](https://threestep.com)** | **[Event Operations Intern - Summer 2025](https://jobright.ai/jobs/info/677da41288a202af72e04caf?utm_campaign=1053&utm_source=git)** | Hanover, MD | On Site | Jan 07 |
-| **[Peter Millar](http://www.petermillar.com/)** | **[Production Internship](https://jobright.ai/jobs/info/677d7e8f39f6af30985ce52e?utm_campaign=1053&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 07 |
-| ↳ | **[Embroidery Internship](https://jobright.ai/jobs/info/677d7e8f39f6af30985ce540?utm_campaign=1053&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 07 |
+| **[Peter Millar](http://www.petermillar.com/)** | **[Embroidery Internship](https://jobright.ai/jobs/info/677d7e8f39f6af30985ce540?utm_campaign=1053&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 07 |
+| ↳ | **[Production Internship](https://jobright.ai/jobs/info/677d7e8f39f6af30985ce52e?utm_campaign=1053&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Town Hall, Events Production Co-op](https://jobright.ai/jobs/info/677d76fde33f40db229159d1?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 1800 Arch St | On Site | Jan 07 |
 | ↳ | **[Comcast Campus Experience Co-op](https://jobright.ai/jobs/info/677d76fde33f40db229159ce?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Jan 07 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Culinary Operations Intern   ](https://jobright.ai/jobs/info/677d76fde33f40db229159ad?utm_campaign=1053&utm_source=git)** | 50 Broadway, Cambridge, MA, 02142, US | On Site | Jan 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Perfect Game ](https://cesoftco.net/)** | **[Internship](https://jobright.ai/jobs/info/677d553eff5076697fca3c50?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Jan 07 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SUMMER '25 - KWTX](https://jobright.ai/jobs/info/677d62871b30306474488a64?utm_campaign=1053&utm_source=git)** | Waco, TX | On Site | Jan 07 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Spring 2025 Archives Internship](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7706?utm_campaign=1053&utm_source=git)** | Utica-Rome Area | On Site | Jan 07 |
-| **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2025](https://jobright.ai/jobs/info/6726212dd33e411863be17dc?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
