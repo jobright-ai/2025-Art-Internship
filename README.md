@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alcon](http://www.alcon.com)** | **[Summer 2025 - Video Production Intern](https://jobright.ai/jobs/info/678694f720f761736052e1a0?utm_campaign=1053&utm_source=git)** | Fort Worth, Texas | On Site | Jan 14 |
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[Intern - Production](https://jobright.ai/jobs/info/6785f659540079ebea2c6d2b?utm_campaign=1053&utm_source=git)** | Lima, OH | Hybrid | Jan 13 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/6785e67304c3ba50f082f010?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jan 13 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Assistant Video Editor (Memphis, TN)](https://jobright.ai/jobs/info/6785b4b238a2244bb525dbae?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Jan 13 |
 | **[54 Thrones](https://www.54thrones.com)** | **[Content Creator Intern - Houston](https://jobright.ai/jobs/info/6785aca9c93e455e4e409e3c?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Jan 13 |
 | **[American Chemical Society](https://www.acs.org/)** | **[ACS Productions & Podcast Intern](https://jobright.ai/jobs/info/6785806370da96d617bc6d08?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 13 |
-| **[MediaNews Group](https://www.medianewsgroup.com/)** | **[News Intern](https://jobright.ai/jobs/info/67857ca3ef948ada47042122?utm_campaign=1053&utm_source=git)** | Orlando Sentinel | On Site | Jan 13 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Editorial Cartoonist, Student Media](https://jobright.ai/jobs/info/678577928ceb31dd30af265b?utm_campaign=1053&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Jan 13 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Culinary Intern/Trainee (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/6785853148fcb61a7529c3f2?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | On Site | Jan 13 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING/SUMMER '25 - WSAZ](https://jobright.ai/jobs/info/67857cb902a707367ca88d14?utm_campaign=1053&utm_source=git)** | Huntington, WV | On Site | Jan 13 |
@@ -112,13 +112,13 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea6469f?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jan 08 |
 | ↳ | **[News Intern - Spring 2025 (The National News Desk)](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jan 08 |
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646b9?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Jan 08 |
-| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a1?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 08 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c0?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jan 08 |
-| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a8?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Jan 08 |
-| ↳ | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea64694?utm_campaign=1053&utm_source=git)** | Johnstown, PA | On Site | Jan 08 |
-| ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jan 08 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646ae?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jan 08 |
+| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a1?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 08 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646f2?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jan 08 |
+| ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jan 08 |
+| ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a8?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Jan 08 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646ae?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jan 08 |
+| ↳ | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea64694?utm_campaign=1053&utm_source=git)** | Johnstown, PA | On Site | Jan 08 |
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646af?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 08 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646f0?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Jan 08 |
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a2?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Jan 08 |
@@ -142,9 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern-1](https://jobright.ai/jobs/info/66cb0ee70da4428950206d82?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 08 |
 | **[The Institute of Internal Auditors Inc.](https://na.theiia.org)** | **[Managing Editor, Internal Auditor Magazine](https://jobright.ai/jobs/info/67450cd437c3005e59001cbb?utm_campaign=1053&utm_source=git)** | Lake Mary, FL | On Site | Jan 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Programming Intern](https://jobright.ai/jobs/info/67224cd2d30ae919a2733974?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jan 07 |
-| **[MyFitnessPal](https://www.myfitnesspal.com/)** | **[Editorial Intern - Summer 2025](https://jobright.ai/jobs/info/677dfc7948d6bb48a5647b1c?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 07 |
-| **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/677dd3089ea54e3c37b0f0a6?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Jan 07 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Everyday Northwest Lifestyle Show Intern (unpaid)](https://jobright.ai/jobs/info/66cafef8423ff6807e053283?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Jan 07 |
-| **[IMG Academy](https://www.imgacademy.com)** | **[Golf Club Operations Intern](https://jobright.ai/jobs/info/67575e543120c86e5676a8b1?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Jan 07 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Video Production Communications](https://jobright.ai/jobs/info/677db839efa1091c0884836b?utm_campaign=1053&utm_source=git)** | Plainsboro, NJ | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
