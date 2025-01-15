@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-IMC Content Communications-Photography & Video Production Assistant](https://jobright.ai/jobs/info/67870e4a878822ceb67680eb?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Jan 14 |
+| **[MyFitnessPal](https://www.myfitnesspal.com/)** | **[Editorial Intern - Trends & News - Summer 2025](https://jobright.ai/jobs/info/677daccaa3d017a7d8bd41bd?utm_campaign=1053&utm_source=git)** | Remote - US | Remote | Jan 14 |
+| ↳ | **[Editorial Intern - Multi-channel Writing - Summer 2025](https://jobright.ai/jobs/info/678701321f543a28c32f35ba?utm_campaign=1053&utm_source=git)** | Remote - US | Remote | Jan 14 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Museum Director (Summer)](https://jobright.ai/jobs/info/6787069f45c27abaa8b07cf4?utm_campaign=1053&utm_source=git)** | Lake City, SD | On Site | Jan 14 |
+| **[Seaside Sustainability (nonprofit)](https://www.seasidesustainability.org/)** | **[Video Editing Intern (Unpaid)](https://jobright.ai/jobs/info/678703ccf3d22a8a877d1c90?utm_campaign=1053&utm_source=git)** | Gloucester, MA | Remote | Jan 14 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Banquets and Events Intern](https://jobright.ai/jobs/info/6786e6e74bcfa19ee5c1e732?utm_campaign=1053&utm_source=git)** | 57-091 Kamehameha Highway, Kahuku, HI, 96731, US | On Site | Jan 14 |
+| **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Video Production Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/678701321f543a28c32f3645?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 14 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Summer 2025 QVC/Broadcast Internship](https://jobright.ai/jobs/info/6786f09d833691e745d05c9c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 14 |
 | **[NEOGOV](http://www.neogov.com)** | **[Performing Arts Production Internship- Unpaid](https://jobright.ai/jobs/info/6786deaf8a6d2ad480f893d1?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jan 14 |
 | **[Hello Sunshine](https://hello-sunshine.com/)** | **[Film & TV Team Internship (Spring Semester)](https://jobright.ai/jobs/info/6786c7207390098da8e35495?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 14 |
@@ -120,14 +126,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646b9?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Jan 08 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c0?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jan 08 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a1?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 08 |
-| ↳ | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea64694?utm_campaign=1053&utm_source=git)** | Johnstown, PA | On Site | Jan 08 |
+| ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jan 08 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646f2?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jan 08 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a8?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Jan 08 |
-| ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c1?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jan 08 |
+| ↳ | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea64694?utm_campaign=1053&utm_source=git)** | Johnstown, PA | On Site | Jan 08 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646ae?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jan 08 |
 | ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646af?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Jan 08 |
-| ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a2?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Jan 08 |
 | ↳ | **[ARC News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646f0?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Jan 08 |
+| ↳ | **[News Intern - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646a2?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL | On Site | Jan 08 |
 | **[NEOGOV](http://www.neogov.com)** | **[Westworld Intern](https://jobright.ai/jobs/info/677f00bbddfb55d79d7bb394?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Jan 08 |
 | **[Atlantic Health System](http://www.atlantichealth.org)** | **[Culinary Intern](https://jobright.ai/jobs/info/677f02179fcf69ed6bd05e96?utm_campaign=1053&utm_source=git)** | Morristown, NJ | On Site | Jan 08 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Writer-Editor Intern](https://jobright.ai/jobs/info/677ef09356391bb9d0394d56?utm_campaign=1053&utm_source=git)** | Holland, MI | On Site | Jan 08 |
@@ -143,8 +149,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Lucasfilm Video Production Intern, Summer 2025](https://jobright.ai/jobs/info/677ea840c0266a459c2deab4?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 08 |
 | ↳ | **[Lucasfilm Diversity & Inclusion Intern, Summer 2025](https://jobright.ai/jobs/info/677ea3a75710b13982c84fbd?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship-Unpaid, College Credit](https://jobright.ai/jobs/info/67610a3cebe9424e0d1f7357?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Jan 08 |
-| **[Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)** | **[Academy Gold Rising - Monkeypaw Productions - Development Intern (Summer 2025)](https://jobright.ai/jobs/info/67527182d567239875e5cb1b?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Jan 08 |
-| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.50/HR](https://jobright.ai/jobs/info/677e606fd72550fb7550c365?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Jan 08 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern-1](https://jobright.ai/jobs/info/66cb0ee70da4428950206d82?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 08 |
-| **[The Institute of Internal Auditors Inc.](https://na.theiia.org)** | **[Managing Editor, Internal Auditor Magazine](https://jobright.ai/jobs/info/67450cd437c3005e59001cbb?utm_campaign=1053&utm_source=git)** | Lake Mary, FL | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
