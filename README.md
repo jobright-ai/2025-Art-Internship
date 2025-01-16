@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Auburn University](https://www.auburn.edu/)** | **[Student Videographer - Auburn Football](https://jobright.ai/jobs/info/6789566cb33a8dfc97820e1a?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Jan 16 |
+| **[NEOGOV](http://www.neogov.com)** | **[Seasonal Video Production Intern](https://jobright.ai/jobs/info/67893a72dda060aee11ab010?utm_campaign=1053&utm_source=git)** | Municipal Center - Apple Valley, MN | On Site | Jan 16 |
+| ↳ | **[Intern - Athletics and Special Olympics](https://jobright.ai/jobs/info/67893a72dda060aee11aafd8?utm_campaign=1053&utm_source=git)** | 929 N. Front Street, NC | On Site | Jan 16 |
+| **[VALRHONA](https://www.valrhona.us/)** | **[Pastry Assistant Intern](https://jobright.ai/jobs/info/67893aa1ae9f3dd8824166e8?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jan 16 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/678925feb1ed92949ce60195?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Jan 16 |
 | **[United Talent Agency](http://www.unitedtalent.com)** | **[2025 KLUTCH Summer Internship](https://jobright.ai/jobs/info/6788ffb092013d24841988e6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e76661417c381a0dfd7c8?utm_campaign=1053&utm_source=git)** | Northbrook, IL | On Site | Jan 16 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship Spring 2025 - Dallas-Ft. Worth](https://jobright.ai/jobs/info/675cb6f4c64893f98e2332c4?utm_campaign=1053&utm_source=git)** | Grapevine, TX | On Site | Jan 16 |
@@ -70,14 +75,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WIS-TV](https://jobright.ai/jobs/info/67887a70d0a32ca338ed38a7?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jan 15 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[San Diego Station (NBC 7 and T20) Production Internship - Summer 2025](https://jobright.ai/jobs/info/67885475af50ea7fc0ea9f99?utm_campaign=1053&utm_source=git)** | 9680 Granite Ridge Drive, San Diego, CALIFORNIA | On Site | Jan 15 |
 | ↳ | **[Technology Communications & Events Intern, DreamWorks Animation (Spring 2025)](https://jobright.ai/jobs/info/67885475af50ea7fc0ea9fa1?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Jan 15 |
-| **[Cirque du Soleil Entertainment Group](http://www.cirquedusoleil.com)** | **[Technical Internship - Summer 2025 - Resident Shows Division](https://jobright.ai/jobs/info/6788622680757b33f8dcd053?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jan 15 |
 | **[Seaside Sustainability (nonprofit)](https://www.seasidesustainability.org/)** | **[Video Editor Intern (Unpaid)](https://jobright.ai/jobs/info/6788536472d340052ffbc4ec?utm_campaign=1053&utm_source=git)** | Gloucester, MA | Remote | Jan 15 |
 | **[Project C.U.R.E.](https://projectcure.org/)** | **[Volunteer Videographer/Editor for Training Department](https://jobright.ai/jobs/info/678869774fe23f0095a1a622?utm_campaign=1053&utm_source=git)** | Littleton, CO | On Site | Jan 15 |
 | **[Dartmouth College](http://dartmouth.edu)** | **[Studio Art Intern.](https://jobright.ai/jobs/info/678869774fe23f0095a1a730?utm_campaign=1053&utm_source=git)** | Hanover, NH | On Site | Jan 15 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Multimedia Summer Intern 2025 (Charlotte, NC)](https://jobright.ai/jobs/info/67883469bed67993bd341c87?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Jan 15 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7 and T20) Production Internship - Summer 2025](https://jobright.ai/jobs/info/67884bd3360cc0360251312b?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jan 15 |
 | **[The University of Texas Rio Grande Valley](https://www.utrgv.edu/)** | **[Graduate Assistant - Special Collections & Archives](https://jobright.ai/jobs/info/67885c4735eda3721cc90ad7?utm_campaign=1053&utm_source=git)** | Edinburg, TX | On Site | Jan 15 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Multimedia Summer Intern 2025 (Charlotte, NC)](https://jobright.ai/jobs/info/6788249d21baa30b1ac91a0a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Jan 15 |
-| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Spring 2025 Subrights Intern](https://jobright.ai/jobs/info/678879932961e26d16b1b2a4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 15 |
+| **[Cirque du Soleil Entertainment Group](http://www.cirquedusoleil.com)** | **[Technical Internship - Summer 2025 - Resident Shows Division](https://jobright.ai/jobs/info/678824c4a351c092f63815c0?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jan 15 |
 | **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[WTWH Media Expression of Interest](https://jobright.ai/jobs/info/67881cbb7579f794e1af6efa?utm_campaign=1053&utm_source=git)** | Cleveland, OH | Hybrid | Jan 15 |
 | **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/678815cccb3942eb14505687?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 15 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Summer Internship](https://jobright.ai/jobs/info/678815cccb3942eb1450516d?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jan 15 |
@@ -111,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Alcon](http://www.alcon.com)** | **[Summer 2025 - Video Production Intern](https://jobright.ai/jobs/info/678694f720f761736052e1a0?utm_campaign=1053&utm_source=git)** | Fort Worth, Texas | On Site | Jan 14 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Internal Communications Intern Summer 2025 (Hybrid- 3 Days in Office)](https://jobright.ai/jobs/info/676237656559dce59cb75aea?utm_campaign=1053&utm_source=git)** | McLean, VA | Hybrid | Jan 14 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762e84b376ef29750cc4d1e?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Jan 14 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Editorial Content Strategy Intern](https://jobright.ai/jobs/info/677c57393cb3db4e34cbcaec?utm_campaign=1053&utm_source=git)** | Saint Paul Church, MN | On Site | Jan 14 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Television](https://jobright.ai/jobs/info/6765ef7875b93d2604f2146b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Intern](https://jobright.ai/jobs/info/664e2071b45b688e7b70fba9?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 14 |
 | **[Amazon](https://amazon.com)** | **[Production Intern, US Scripted Series Production Team](https://jobright.ai/jobs/info/6765f9ea27e429aa67bb7347?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jan 13 |
@@ -152,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[David Yurman](http://www.davidyurman.com)** | **[Digital Archive Intern](https://jobright.ai/jobs/info/67204cc6c572d46b14cd25a2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762e84b376ef29750cc4d1f?utm_campaign=1053&utm_source=git)** | Kenosha, WI | On Site | Jan 09 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Event Production Intern](https://jobright.ai/jobs/info/6758b05a4453ccb99c2ce6cc?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Jan 09 |
-| **[FOX Sports](http://foxsports.com)** | **[Summer 2025 FOX Sports Internship Program - Big Ten Network - Chicago](https://jobright.ai/jobs/info/674513735afaf783e4a736cd?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 09 |
-| **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Culture](https://jobright.ai/jobs/info/678088c8ec2902c565d10a05?utm_campaign=1053&utm_source=git)** | Union, NJ | On Site | Jan 09 |
-| ↳ | **[Internship - Culture](https://jobright.ai/jobs/info/6780691f91784ea11691e654?utm_campaign=1053&utm_source=git)** | Union, NJ, USA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
