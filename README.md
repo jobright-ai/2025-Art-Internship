@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Multimedia Summer Intern 2025 (Charlotte, NC)](https://jobright.ai/jobs/info/67883469bed67993bd341c87?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Jan 15 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7 and T20) Production Internship - Summer 2025](https://jobright.ai/jobs/info/67884bd3360cc0360251312b?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jan 15 |
+| **[Cirque du Soleil Entertainment Group](http://www.cirquedusoleil.com)** | **[Technical Internship - Summer 2025 - Resident Shows Division](https://jobright.ai/jobs/info/678824c4a351c092f63815c0?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jan 15 |
+| **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[WTWH Media Expression of Interest](https://jobright.ai/jobs/info/67881cbb7579f794e1af6efa?utm_campaign=1053&utm_source=git)** | Cleveland, OH | Hybrid | Jan 15 |
+| **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/678815cccb3942eb14505687?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 15 |
+| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Summer Internship](https://jobright.ai/jobs/info/678815cccb3942eb1450516d?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jan 15 |
 | **[New York City FC](http://www.nycfc.com/zach-dixon)** | **[Video Intern](https://jobright.ai/jobs/info/6787f32c073bc31b89333cd7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jan 15 |
 | **[Orange County Government](http://www.ocfl.net)** | **[Student Intern](https://jobright.ai/jobs/info/6787f32c073bc31b89333e87?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 15 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Golf Club Operations Intern](https://jobright.ai/jobs/info/6787e600c04cd36c3eb5d72f?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Jan 15 |
@@ -66,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[[Summer 2025] Curatorial - Prewar Art Internship](https://jobright.ai/jobs/info/6787c615eeabb259410fe58b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 15 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2025 - Video Production Intern](https://jobright.ai/jobs/info/6787b9dfdf1de9a8e2f298d2?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Jan 15 |
 | **[DeVry University](http://www.devry.edu)** | **[FWS Student Worker III, Off Campus (Event Assistant Intern)](https://jobright.ai/jobs/info/6787c615eeabb259410feaae?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Jan 15 |
+| ↳ | **[FWS Student Worker III, Off Campus (Video & Multimedia Content Creator Intern)](https://jobright.ai/jobs/info/67881778cb3942eb145057b9?utm_campaign=1053&utm_source=git)** | Lisle, IL | Hybrid | Jan 15 |
 | **[Destination by Hyatt](http://www.destinationhotels.com)** | **[2025 Culinary Intern/Extern](https://jobright.ai/jobs/info/6787c615eeabb259410feb3e?utm_campaign=1053&utm_source=git)** | Isle of Palms, SC | On Site | Jan 15 |
 | **[United Talent Agency](http://www.unitedtalent.com)** | **[2025 KLUTCH Summer Internship](https://jobright.ai/jobs/info/6787aa2f547cc419145a938b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 15 |
 | **[Parkview Health](http://www.parkview.com)** | **[Parkview Sports Medicine Multimedia Summer Non-Clinical Intern](https://jobright.ai/jobs/info/6787b3a24724769c6a0f324b?utm_campaign=1053&utm_source=git)** | Greater Fort Wayne | On Site | Jan 15 |
@@ -132,7 +139,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Culture](https://jobright.ai/jobs/info/6780691f91784ea11691e654?utm_campaign=1053&utm_source=git)** | Union, NJ, USA | On Site | Jan 09 |
 | **[Inc. Magazine](http://www.inc.com)** | **[Editorial Fellowship](https://jobright.ai/jobs/info/678029416f54407cc2aa65b8?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jan 09 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[ARC News Intern (WTVC) - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646f0?utm_campaign=1053&utm_source=git)** | Chattanooga, TN | On Site | Jan 09 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[2025 Spring News Internship](https://jobright.ai/jobs/info/6762b93b8727298217323abc?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Jan 08 |
-| **[Resources for the Future](http://www.rff.org/)** | **[Summer 2025 Editorial Intern](https://jobright.ai/jobs/info/677f6c147bd4dfea0cda8ff6?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 08 |
-| **[Miami Marlins and loanDepot park](https://marlins.mlb.com/)** | **[Sports Pathways Internship](https://jobright.ai/jobs/info/6780ae27c3681a41721e693e?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
