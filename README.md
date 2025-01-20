@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Recreation Intern-Experience](https://jobright.ai/jobs/info/672dd38da60eba426c3871e0?utm_campaign=1053&utm_source=git)** | Destin, FL | On Site | Jan 20 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/674e2518a5dc411694ec1b22?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jan 20 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/678c7c92aecf46ce92ef4f30?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jan 18 |
 | **[The University of New Mexico](http://unm.edu)** | **[Planetarium Assistant](https://jobright.ai/jobs/info/678c579dea67b0ed2f04dd07?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jan 18 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[New Avenues to Independence, Inc.](https://www.newavenues.net)** | **[Music Therapist Intern](https://jobright.ai/jobs/info/678b15fdc2967b41b824497d?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jan 17 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Studio Operations Intern- College Credit](https://jobright.ai/jobs/info/678b06859fe8192195548bfa?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 17 |
 | ↳ | **[Content and Creative Operations Intern- College Credit](https://jobright.ai/jobs/info/678b06859fe8192195548c62?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 17 |
-| ↳ | **[Editor Video Production Management- Intern- College Credit](https://jobright.ai/jobs/info/678af62bb3f558bc73ac4f17?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 17 |
 | ↳ | **[Editorial Creator- Intern- College Credit](https://jobright.ai/jobs/info/678af62bb3f558bc73ac4f0b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 17 |
+| ↳ | **[Editor Video Production Management- Intern- College Credit](https://jobright.ai/jobs/info/678af62bb3f558bc73ac4f17?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[Zookeeper Intern](https://jobright.ai/jobs/info/678adfa2717466fd5d9fd2fb?utm_campaign=1053&utm_source=git)** | Baraboo, WI | On Site | Jan 17 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762dc80facab55967b8b3bb?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Jan 17 |
 | **[Amazon](https://amazon.com)** | **[Casting Intern, Amazon MGM Studios](https://jobright.ai/jobs/info/678b14ed39c834883b79877c?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jan 17 |
@@ -98,10 +99,10 @@ For a complete list, click the following sortable link below:
 | **[Sage](https://group.sagepub.com)** | **[Video Journalism Intern](https://jobright.ai/jobs/info/6789f03c3d32ccd27895f3c3?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/6789cacc482497791a3db457?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Jan 16 |
 | **[U.S. Department of Homeland Security](http://www.dhs.gov)** | **[Editorial and technical Editor](https://jobright.ai/jobs/info/678b6955caf09692ceb223a2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 16 |
-| **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Wigmaker](https://jobright.ai/jobs/info/6789b384fade8859f716aaa6?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
-| ↳ | **[Intern - Tailor](https://jobright.ai/jobs/info/6789b384fade8859f716aaa5?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
-| ↳ | **[Brickyard Interpreter (Summer)](https://jobright.ai/jobs/info/6789b384fade8859f716aac5?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
+| **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tailor](https://jobright.ai/jobs/info/6789b384fade8859f716aaa5?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
+| ↳ | **[Intern - Wigmaker](https://jobright.ai/jobs/info/6789b384fade8859f716aaa6?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
 | ↳ | **[Intern - Cooper](https://jobright.ai/jobs/info/6789b384fade8859f716aac2?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
+| ↳ | **[Brickyard Interpreter (Summer)](https://jobright.ai/jobs/info/6789b384fade8859f716aac5?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
 | ↳ | **[Intern - Leather Breeches Maker](https://jobright.ai/jobs/info/6789b384fade8859f716aab9?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
 | ↳ | **[Intern - Fife & Drum](https://jobright.ai/jobs/info/6789b384fade8859f716aab4?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
 | **[Corsair](http://www.corsair.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/676b7c6f9c2ccf6fad9c4652?utm_campaign=1053&utm_source=git)** | Milpitas, CA | On Site | Jan 16 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[WTWH Media Expression of Interest](https://jobright.ai/jobs/info/67881cbb7579f794e1af6efa?utm_campaign=1053&utm_source=git)** | Cleveland, OH | Hybrid | Jan 15 |
 | **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/678815cccb3942eb14505687?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 15 |
 | **[New York City FC](http://www.nycfc.com/zach-dixon)** | **[Video Intern](https://jobright.ai/jobs/info/6787f32c073bc31b89333cd7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jan 15 |
-| **[Orange County Government](http://www.ocfl.net)** | **[Student Intern](https://jobright.ai/jobs/info/6787f32c073bc31b89333e87?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 15 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Golf Club Operations Intern](https://jobright.ai/jobs/info/6787e600c04cd36c3eb5d72f?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Jan 15 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/6787bd52bfcaad578c0a284c?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Jan 15 |
 | **[MyFitnessPal](https://www.myfitnesspal.com/)** | **[Editorial Intern - Multi-channel Writing - Summer 2025](https://jobright.ai/jobs/info/6787cd5be8aae0b2c7a82361?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 15 |
