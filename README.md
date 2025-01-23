@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quixote Studios](http://quixote.com)** | **[2025 NextGen Summer Internship](https://jobright.ai/jobs/info/6791939a5e429bfa2602fee4?utm_campaign=1053&utm_source=git)** | Los Angeles County, CA | On Site | Jan 22 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Video Production Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/678701321f543a28c32f3645?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[Advisor.](www.advisormag.co)** | **[Fashion Writing Intern](https://jobright.ai/jobs/info/67916e61b33c158044614dcb?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Jan 22 |
 | **[Flik Hospitality Group ](https://www.flik-usa.com/)** | **[Culinary Intern, FLIK / New York Jets / Florham Park, NJ](https://jobright.ai/jobs/info/679183da34922ef61b6fd2ce?utm_campaign=1053&utm_source=git)** | Florham Park, NJ | On Site | Jan 22 |
@@ -80,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo Nueva Ingleterra News Internship - Summer 2025](https://jobright.ai/jobs/info/67902fb3a435e7f3acf05014?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 21 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Boston Programming Intern - Summer 2025](https://jobright.ai/jobs/info/679019ada71cba5034ab6b12?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 21 |
 | **[The University of New Mexico](http://unm.edu)** | **[Assistant Video Editor](https://jobright.ai/jobs/info/67901ccc52e143626865f3f1?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Development Trainee, TriStar Pictures – Spring 2025](https://jobright.ai/jobs/info/678ff5c5704d6375369a3f08?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jan 21 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Development Trainee, TriStar Pictures – Spring 2025](https://jobright.ai/jobs/info/678ff5c5704d6375369a3e12?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jan 21 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Boston Technical Operations Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3017?utm_campaign=1053&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jan 21 |
 | ↳ | **[Telemundo Nueva Ingleterra News Internship - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3003?utm_campaign=1053&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jan 21 |
 | ↳ | **[NBC Boston Programming Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f302d?utm_campaign=1053&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jan 21 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[Weather Intern](https://jobright.ai/jobs/info/678b5cc878fc5b66cffeb3e8?utm_campaign=1053&utm_source=git)** | Schenectady, NY | On Site | Jan 17 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHeartRaves Styling Intern](https://jobright.ai/jobs/info/678b60402c2f04d642670717?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Jan 17 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Editorial Cartoonist, Student Media](https://jobright.ai/jobs/info/678dd8538c263913f6a4d078?utm_campaign=1053&utm_source=git)** | Laramie, WY | On Site | Jan 17 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/6791b1b458b770e262c80a86?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Jan 17 |
 | **[Sage](https://group.sagepub.com)** | **[Video Journalism Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518a2e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 17 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Recreation Intern - Summer](https://jobright.ai/jobs/info/678b25fa505c1dfcb24aa2ed?utm_campaign=1053&utm_source=git)** | Amelia, FL | On Site | Jan 17 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Pastoral Care Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518d64?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Jan 17 |
@@ -134,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Sage](https://group.sagepub.com)** | **[Video Journalism Intern](https://jobright.ai/jobs/info/6789f03c3d32ccd27895f3c3?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/67255d0b107054675e62f6bf?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jan 16 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/6789cacc482497791a3db457?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Jan 16 |
+| **[Orange County SC](https://www.orangecountysoccer.com)** | **[Intern Creators Club (Photographers, Videographers, Designers)](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0ca56?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Jan 16 |
 | **[U.S. Department of Homeland Security](http://www.dhs.gov)** | **[Editorial and technical Editor](https://jobright.ai/jobs/info/678b6955caf09692ceb223a2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jan 16 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Wigmaker](https://jobright.ai/jobs/info/6789b384fade8859f716aaa6?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
 | ↳ | **[Intern - Tailor](https://jobright.ai/jobs/info/6789b384fade8859f716aaa5?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
@@ -150,11 +153,6 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/678966a5b30c03b782c5798b?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Jan 16 |
 | **[NEOGOV](http://www.neogov.com)** | **[Seasonal Video Production Intern](https://jobright.ai/jobs/info/67893a72dda060aee11ab010?utm_campaign=1053&utm_source=git)** | Municipal Center - Apple Valley, MN | On Site | Jan 16 |
 | ↳ | **[Intern - Athletics and Special Olympics](https://jobright.ai/jobs/info/67893a72dda060aee11aafd8?utm_campaign=1053&utm_source=git)** | 929 N. Front Street, NC | On Site | Jan 16 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664f355d74b9d07f40fc4798?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jan 16 |
 | **[VALRHONA](https://www.valrhona.us/)** | **[Pastry Assistant Intern](https://jobright.ai/jobs/info/67893aa1ae9f3dd8824166e8?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jan 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/678925feb1ed92949ce60195?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Jan 16 |
-| **[United Talent Agency](http://www.unitedtalent.com)** | **[2025 KLUTCH Summer Internship](https://jobright.ai/jobs/info/6788ffb092013d24841988e6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 16 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring Intern](https://jobright.ai/jobs/info/674cd152e61374359c691df0?utm_campaign=1053&utm_source=git)** | Huntsville, AL | On Site | Jan 16 |
-| **[Compass Health Center](https://compasshealthcenter.net)** | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e76661417c381a0dfd7c8?utm_campaign=1053&utm_source=git)** | Northbrook, IL | On Site | Jan 16 |
-| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship Spring 2025 - Dallas-Ft. Worth](https://jobright.ai/jobs/info/675cb6f4c64893f98e2332c4?utm_campaign=1053&utm_source=git)** | Grapevine, TX | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
