@@ -57,8 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Boston Digital News Intern - Summer 2025](https://jobright.ai/jobs/info/67928be17398e6f5e77470d1?utm_campaign=1053&utm_source=git)** | 189 B St, Needham, MA 02494, USA | On Site | Jan 23 |
-| ↳ | **[NBC Sports Boston Intern - Summer 2025](https://jobright.ai/jobs/info/67928be17398e6f5e77470c3?utm_campaign=1053&utm_source=git)** | 189 B St, Needham, MA 02494, USA | On Site | Jan 23 |
+| **[Krispy Kreme](https://www.krispykreme.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6792bab67832e354022e875b?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
+| **[Nemacolin](http://www.nemacolin.com)** | **[Golf Operations Internship](https://jobright.ai/jobs/info/6792d9cdb8de6b784f61a8b5?utm_campaign=1053&utm_source=git)** | Farmington, PA | On Site | Jan 23 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Boston Digital News Intern - Summer 2025](https://jobright.ai/jobs/info/6792cd12297fc84f8cc46662?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
+| ↳ | **[NBC Boston News Intern - Summer 2025](https://jobright.ai/jobs/info/6792cd12297fc84f8cc4667f?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6792b1e99b57d4bb647187e1?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 23 |
+| ↳ | **[Paid News Intern](https://jobright.ai/jobs/info/6792b763cdc101c9cbbdab72?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 23 |
+| **[National Heritage Academies](https://www.nhaschools.com)** | **[Special Events Intern](https://jobright.ai/jobs/info/6792bffd798b2f22764db555?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Jan 23 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Intern / Golf Course Maintenance](https://jobright.ai/jobs/info/6792b882cf4a8b825e0078a8?utm_campaign=1053&utm_source=git)** | Frisco, TX | Hybrid | Jan 23 |
+| **[MullenLowe U.S.](https://mullen.com)** | **[Momternship - Production](https://jobright.ai/jobs/info/6792a587a3d006db3394d87c?utm_campaign=1053&utm_source=git)** | Boston | On Site | Jan 23 |
+| **[National Heritage Academies](https://www.nhaschools.com)** | **[Special Events Intern](https://jobright.ai/jobs/info/6792a702daf58a083a9891ff?utm_campaign=1053&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | Jan 23 |
+| **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Live Events Intern](https://jobright.ai/jobs/info/6792aa4e9767c0938dc03f1e?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Jan 23 |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2025] Curatorial - Time-Based Media Internship](https://jobright.ai/jobs/info/6792b3897b19f35ddce4c766?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 23 |
+| ↳ | **[[Summer 2025] Curatorial - Photography Internship](https://jobright.ai/jobs/info/67929edcf8c267e801e160a9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 23 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Sports Boston Intern - Summer 2025](https://jobright.ai/jobs/info/67928be17398e6f5e77470c3?utm_campaign=1053&utm_source=git)** | 189 B St, Needham, MA 02494, USA | On Site | Jan 23 |
+| ↳ | **[NBC Boston Digital News Intern - Summer 2025](https://jobright.ai/jobs/info/67928be17398e6f5e77470d1?utm_campaign=1053&utm_source=git)** | 189 B St, Needham, MA 02494, USA | On Site | Jan 23 |
 | **[NoGood](https://nogood.io)** | **[Content Creator Intern](https://jobright.ai/jobs/info/67783e1ed3b2b871c7b692e6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[Marriott International](https://w-hotels.marriott.com)** | **[Culinary Intern - Summer 2025](https://jobright.ai/jobs/info/67926dee0c4dc3701683e938?utm_campaign=1053&utm_source=git)** | 2300 Deer Valley Drive East, Park City, UT, 84060, US | On Site | Jan 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, Unpaid](https://jobright.ai/jobs/info/67925ed187432148cdd1c20f?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Jan 23 |
@@ -91,9 +104,9 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Boston Programming Intern - Summer 2025](https://jobright.ai/jobs/info/679019ada71cba5034ab6b12?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 21 |
 | **[The University of New Mexico](http://unm.edu)** | **[Assistant Video Editor](https://jobright.ai/jobs/info/67901ccc52e143626865f3f1?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Development Trainee, TriStar Pictures – Spring 2025](https://jobright.ai/jobs/info/678ff5c5704d6375369a3f08?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jan 21 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Nueva Ingleterra News Internship - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3003?utm_campaign=1053&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jan 21 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Boston Technical Operations Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3017?utm_campaign=1053&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jan 21 |
 | ↳ | **[NBC Boston Programming Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f302d?utm_campaign=1053&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jan 21 |
-| ↳ | **[NBC Boston Technical Operations Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3017?utm_campaign=1053&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jan 21 |
+| ↳ | **[Telemundo Nueva Ingleterra News Internship - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3003?utm_campaign=1053&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jan 21 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong Archives Intern](https://jobright.ai/jobs/info/678fe99f1e2a0844215f30b0?utm_campaign=1053&utm_source=git)** | USA-Illinois-Chicago | On Site | Jan 21 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Video Intern](https://jobright.ai/jobs/info/678fccec1ac6c91d8c7d6a45?utm_campaign=1053&utm_source=git)** | Allen Park, MI 48101 | On Site | Jan 21 |
 | **[West Wing Writers](https://www.westwingwriters.com)** | **[2025 West Wing Writers Summer and Fall Internships](https://jobright.ai/jobs/info/678fd2696cbeb4ea26249bac?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Jan 21 |
@@ -115,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[New Avenues to Independence, Inc.](https://www.newavenues.net)** | **[Music Therapist Intern](https://jobright.ai/jobs/info/678b15fdc2967b41b824497d?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jan 17 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Studio Operations Intern- College Credit](https://jobright.ai/jobs/info/678b06859fe8192195548bfa?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 17 |
 | ↳ | **[Content and Creative Operations Intern- College Credit](https://jobright.ai/jobs/info/678b06859fe8192195548c62?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 17 |
-| ↳ | **[Editor Video Production Management- Intern- College Credit](https://jobright.ai/jobs/info/678af62bb3f558bc73ac4f17?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 17 |
 | ↳ | **[Editorial Creator- Intern- College Credit](https://jobright.ai/jobs/info/678af62bb3f558bc73ac4f0b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 17 |
+| ↳ | **[Editor Video Production Management- Intern- College Credit](https://jobright.ai/jobs/info/678af62bb3f558bc73ac4f17?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jan 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[Zookeeper Intern](https://jobright.ai/jobs/info/678adfa2717466fd5d9fd2fb?utm_campaign=1053&utm_source=git)** | Baraboo, WI | On Site | Jan 17 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762dc80facab55967b8b3bb?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Jan 17 |
 | **[Amazon](https://amazon.com)** | **[Casting Intern, Amazon MGM Studios](https://jobright.ai/jobs/info/678b14ed39c834883b79877c?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jan 17 |
@@ -134,12 +147,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Hulu Originals Documentary Development Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/678aa3ca90d67f3fa499e7ce?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jan 17 |
 | **[Amazon](https://amazon.com)** | **[Music Intern, TV/Film, Amazon MGM Studios Music Team](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2e0?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jan 17 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/6708ead2cee6942efe607ca5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
-| **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/678a2a9d6fb9b01e8262541a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 17 |
-| **[Crescent Hotels & Resorts](http://www.chrco.com)** | **[INTERN - WIGMAKER](https://jobright.ai/jobs/info/678a1a5e3294668389b52123?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
-| ↳ | **[INTERN - COOPER](https://jobright.ai/jobs/info/678a1a5e3294668389b52111?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
-| ↳ | **[INTERN - TAILOR](https://jobright.ai/jobs/info/678a1a5e3294668389b5211a?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
-| ↳ | **[INTERN - FIFE & DRUM](https://jobright.ai/jobs/info/678a0b18c0811c5d0beec738?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Jan 16 |
-| **[Mead & Hunt](https://meadhunt.com/)** | **[Part-Time Cultural Resources Intern](https://jobright.ai/jobs/info/678a1a5e3294668389b521a7?utm_campaign=1053&utm_source=git)** | Greater Madison Area | On Site | Jan 16 |
-| **[Sage](https://group.sagepub.com)** | **[Video Journalism Intern](https://jobright.ai/jobs/info/6789f03c3d32ccd27895f3c3?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 16 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/67255d0b107054675e62f6bf?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
