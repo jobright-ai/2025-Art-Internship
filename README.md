@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Amazon Commerce](https://jobright.ai/jobs/info/679458bfff32dd79fcd3795a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
+| **[KET - Kentucky Educational Television](https://www.ket.org)** | **[Fall 2025 Public Affairs Television Production Internship](https://jobright.ai/jobs/info/679453dbdd489fbbc79a65f8?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Jan 24 |
+| ↳ | **[Summer 2025 Public Affairs Television Production Internship](https://jobright.ai/jobs/info/679453dbdd489fbbc79a65ec?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Jan 24 |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2025] Curatorial - artport 25th Anniversary Internship](https://jobright.ai/jobs/info/67945b243369a334e3f6c479?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
+| ↳ | **[[Summer 2025] Curatorial - Sixties Art  Exhibition Internship](https://jobright.ai/jobs/info/67945b243369a334e3f6c48f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
+| **[livingHR, Inc.](https://livinghr.com/)** | **[Emerging Journalists Fellowship](https://jobright.ai/jobs/info/67943d075312f4af9b00cacd?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[Netflix](https://www.netflix.com)** | **[Dubbing Intern, Content Operations & Innovation - Summer 2025](https://jobright.ai/jobs/info/67942261d0a5bebb8afe48bc?utm_campaign=1053&utm_source=git)** | Los Angeles,California,United States of America | On Site | Jan 24 |
 | ↳ | **[Music Lab Intern - Summer 2025](https://jobright.ai/jobs/info/67942261d0a5bebb8afe48ca?utm_campaign=1053&utm_source=git)** | Los Angeles,California,United States of America | On Site | Jan 24 |
 | ↳ | **[Archive Intern, Content Operations & Innovation - Summer 2025](https://jobright.ai/jobs/info/67942261d0a5bebb8afe48bb?utm_campaign=1053&utm_source=git)** | Los Angeles,California,United States of America | On Site | Jan 24 |
@@ -76,9 +82,9 @@ For a complete list, click the following sortable link below:
 | **[Nature Portfolio](https://www.nature.com)** | **[News Intern, Nature News](https://jobright.ai/jobs/info/6793fb1103b52f3812367bfa?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jan 24 |
 | ↳ | **[News Intern, Nature News](https://jobright.ai/jobs/info/679406b3d1035a4c799b8c3a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Video Strategy](https://jobright.ai/jobs/info/6793e96ecac1c8332cc47afd?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 24 |
-| ↳ | **[Summer Intern, People - Editorial](https://jobright.ai/jobs/info/6793e96ecac1c8332cc47ae6?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 24 |
 | ↳ | **[Summer Intern, Editorial - Beauty & Style](https://jobright.ai/jobs/info/6793e96ecac1c8332cc47ad4?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 24 |
 | ↳ | **[Summer Intern, Editorial - Travel + Leisure](https://jobright.ai/jobs/info/6793e96ecac1c8332cc47b38?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 24 |
+| ↳ | **[Summer Intern, People - Editorial](https://jobright.ai/jobs/info/6793e96ecac1c8332cc47ae6?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 24 |
 | ↳ | **[Summer Intern, The Foundry](https://jobright.ai/jobs/info/6793e96ecac1c8332cc47af4?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 24 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[KTDO News Intern (June 2025 – August 2025)](https://jobright.ai/jobs/info/6793df4932f3629658ed42ee?utm_campaign=1053&utm_source=git)** | 12285 Pellicano Drive Suite C, El Paso, TEXAS | On Site | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Action and 20th Century Studios VFX Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/6793da719e7108124cd41cea?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Jan 24 |
@@ -94,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[On Location](https://onlocationexp.com/)** | **[Intern, Event Production](https://jobright.ai/jobs/info/67932423cfe8e03be68bf173?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 23 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[News Intern - Telemundo Utah](https://jobright.ai/jobs/info/67933bfb8b8cd246369047a4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 23 |
 | ↳ | **[Telemundo Nueva Ingleterra News Internship - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca90a31?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Boston News Intern - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca90a74?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
-| ↳ | **[NBC Boston Technical Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca909e2?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Boston Technical Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca909e2?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
+| ↳ | **[NBC Boston News Intern - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca90a74?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
 | ↳ | **[KHRR/KTAZ News Intern](https://jobright.ai/jobs/info/67932b59f7cb75e47ca90a20?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Jan 23 |
 | ↳ | **[NBCU Local Bay Area - Programming Internship - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca909e8?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
 | ↳ | **[NBC Boston Programming Intern - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca90a56?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
@@ -140,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Berklee College of Music](http://berklee.edu)** | **[Caf Show Engineer](https://jobright.ai/jobs/info/67912990ac8ec7cab7a39592?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Jan 22 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/6766d78a87856a203712586f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | ↳ | **[Intern, Books](https://jobright.ai/jobs/info/6765ef7875b93d2604f21471?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/67908e4936493d01dddfdf55?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 21 |
-| ↳ | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/67908e4936493d01dddfdfc7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 21 |
+| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/67908e4936493d01dddfdfc7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 21 |
+| ↳ | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/67908e4936493d01dddfdf55?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, AEG Presents Concerts West (Touring)](https://jobright.ai/jobs/info/6790795e41df88919d85ae8f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
 | **[Seven Hills Foundation](http://www.sevenhills.org)** | **[Intern](https://jobright.ai/jobs/info/67908260ed3a304e2d1fadaa?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Jan 21 |
 | **[Cornerstone Research Group](http://www.crgrp.com/)** | **[Commercial Videographer / Photography Intern - Spring Semester 2025](https://jobright.ai/jobs/info/6790795e41df88919d85aff4?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | Jan 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Intern - Editorial Spanish](https://jobright.ai/jobs/info/67904a91a91a9be1558a2137?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 21 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Videographer - Auburn Football](https://jobright.ai/jobs/info/67903cb30e4c05facb5a59a4?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Jan 21 |
 | **[The University of New Mexico](http://unm.edu)** | **[Assistant Video Editor](https://jobright.ai/jobs/info/67901ccc52e143626865f3f1?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Development Trainee, TriStar Pictures – Spring 2025](https://jobright.ai/jobs/info/678ff5c5704d6375369a3f08?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jan 21 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Boston Programming Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f302d?utm_campaign=1053&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jan 21 |
-| ↳ | **[NBC Boston Technical Operations Intern - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3017?utm_campaign=1053&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jan 21 |
-| ↳ | **[Telemundo Nueva Ingleterra News Internship - Summer 2025](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3003?utm_campaign=1053&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jan 21 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong Archives Intern](https://jobright.ai/jobs/info/678fe99f1e2a0844215f30b0?utm_campaign=1053&utm_source=git)** | USA-Illinois-Chicago | On Site | Jan 21 |
-| **[Detroit Lions](http://www.detroitlions.com)** | **[Video Intern](https://jobright.ai/jobs/info/678fccec1ac6c91d8c7d6a45?utm_campaign=1053&utm_source=git)** | Allen Park, MI 48101 | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
