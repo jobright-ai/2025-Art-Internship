@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conewago Enterprises Inc](http://conewago.com)** | **[Co-Op/Internship](https://jobright.ai/jobs/info/67956cddffe57bc6eeb5fcfa?utm_campaign=1053&utm_source=git)** | Hanover, PA | On Site | Jan 25 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67951710d3f9102099da33cb?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jan 25 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6794988eaf2baddc639b66e2?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jan 24 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern (Spring)](https://jobright.ai/jobs/info/677c704ba4a6427558d5e6b1?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jan 24 |
@@ -88,9 +89,9 @@ For a complete list, click the following sortable link below:
 | **[Nature Portfolio](https://www.nature.com)** | **[News Intern, Nature News](https://jobright.ai/jobs/info/6793fb1103b52f3812367bfa?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jan 24 |
 | ↳ | **[News Intern, Nature News](https://jobright.ai/jobs/info/679406b3d1035a4c799b8c3a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Video Strategy](https://jobright.ai/jobs/info/6793e96ecac1c8332cc47afd?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 24 |
-| ↳ | **[Summer Intern, Editorial - Travel + Leisure](https://jobright.ai/jobs/info/6793e96ecac1c8332cc47b38?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 24 |
 | ↳ | **[Summer Intern, Editorial - Beauty & Style](https://jobright.ai/jobs/info/6793e96ecac1c8332cc47ad4?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 24 |
 | ↳ | **[Summer Intern, People - Editorial](https://jobright.ai/jobs/info/6793e96ecac1c8332cc47ae6?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 24 |
+| ↳ | **[Summer Intern, Editorial - Travel + Leisure](https://jobright.ai/jobs/info/6793e96ecac1c8332cc47b38?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 24 |
 | ↳ | **[Summer Intern, The Foundry](https://jobright.ai/jobs/info/6793e96ecac1c8332cc47af4?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 24 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[KTDO News Intern (June 2025 – August 2025)](https://jobright.ai/jobs/info/6793df4932f3629658ed42ee?utm_campaign=1053&utm_source=git)** | 12285 Pellicano Drive Suite C, El Paso, TEXAS | On Site | Jan 24 |
 | **[Dolls Kill](http://dollskill.com)** | **[Creative Production Internship](https://jobright.ai/jobs/info/6793e252b92b7192109f109c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
@@ -106,10 +107,10 @@ For a complete list, click the following sortable link below:
 | **[On Location](https://onlocationexp.com/)** | **[Intern, Event Production](https://jobright.ai/jobs/info/67932423cfe8e03be68bf173?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 23 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[News Intern - Telemundo Utah](https://jobright.ai/jobs/info/67933bfb8b8cd246369047a4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 23 |
 | ↳ | **[Telemundo Nueva Ingleterra News Internship - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca90a31?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Boston Technical Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca909e2?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
-| ↳ | **[NBC Boston News Intern - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca90a74?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
-| ↳ | **[NBCU Local Bay Area - Programming Internship - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca909e8?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Boston News Intern - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca90a74?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
+| ↳ | **[NBC Boston Technical Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca909e2?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
 | ↳ | **[KHRR/KTAZ News Intern](https://jobright.ai/jobs/info/67932b59f7cb75e47ca90a20?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Jan 23 |
+| ↳ | **[NBCU Local Bay Area - Programming Internship - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca909e8?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
 | ↳ | **[NBC Boston Programming Intern - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca90a56?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Spring 2025 Archives Internship](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7706?utm_campaign=1053&utm_source=git)** | Utica-Rome Area | On Site | Jan 23 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67932423cfe8e03be68bf89d?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Video Intern, Quanta Magazine](https://jobright.ai/jobs/info/67908e4936493d01dddfdfc7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | ↳ | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/67908e4936493d01dddfdf55?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[The University of Texas Rio Grande Valley](https://www.utrgv.edu/)** | **[Graduate Assistant - Special Collections & Archives](https://jobright.ai/jobs/info/679512618824b11c31f99e8e?utm_campaign=1053&utm_source=git)** | Edinburg, TX | On Site | Jan 21 |
-| **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, AEG Presents Concerts West (Touring)](https://jobright.ai/jobs/info/6790795e41df88919d85ae8f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
