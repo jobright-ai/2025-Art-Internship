@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Editorial Internship, Summer 2025](https://jobright.ai/jobs/info/6798436b0df910e0011f163a?utm_campaign=1053&utm_source=git)** | West Allis, WI | Hybrid | Jan 27 |
+| **[Erickson Senior Living](https://www.ericksonseniorliving.com)** | **[High School Culinary Intern](https://jobright.ai/jobs/info/67984853b0a599a69cf9e2e5?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Jan 27 |
+| **[Atria Management Company](http://AtriaCareers.com)** | **[Video Specialist Intern](https://jobright.ai/jobs/info/67982c9a100c2f2e3738460d?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Jan 27 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Content Management Intern: ATL - Summer 2025](https://jobright.ai/jobs/info/67982c9a100c2f2e373845f6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 27 |
 | **[National Geographic Society](https://www.nationalgeographic.org/society/)** | **[Intern, Storytelling Program and Grants](https://jobright.ai/jobs/info/6798170ce9e3359ad88434d2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Erickson Senior Living](https://www.ericksonseniorliving.com)** | **[High School Culinary Intern](https://jobright.ai/jobs/info/6797fb2524637415191fa4be?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Jan 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern - News Investigative Spring Internship](https://jobright.ai/jobs/info/679801deaf7a1d8ce2162324?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Jan 27 |
@@ -74,35 +78,35 @@ For a complete list, click the following sortable link below:
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e76661417c381a0dfd91d?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Spring 2025 (Chicago, DC, New York)](https://jobright.ai/jobs/info/67976eff42f5c72d7dea37af?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | **[Electronic Arts (EA)](https://www.ea.com/)** | **[Music Intern](https://jobright.ai/jobs/info/67350653105834d8d1b2e657?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jan 27 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[Adult Swim Production Internships: ATL - Summer 2025](https://jobright.ai/jobs/info/6797468033caa3ffbe79f5b9?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNNi Business Show Teams Internships: NYC - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22b6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 26 |
+| ↳ | **[Adult Swim Production Internships: ATL - Summer 2025](https://jobright.ai/jobs/info/6797468033caa3ffbe79f5b9?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
 | ↳ | **[DC Comics Editorial and Publishing Internships: LA - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba229b?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Jan 26 |
-| ↳ | **[WBTV Artist Management Intern: LA - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22ca?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Jan 26 |
 | ↳ | **[TV Development Internships: NYC - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22bf?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
+| ↳ | **[WBTV Artist Management Intern: LA - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22ca?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Jan 26 |
 | ↳ | **[CNN Image and Audio Internships: NYC- Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22ef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | ↳ | **[CNN News Show Team Internships: NYC - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22cf?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | **[CNN](https://www.cnn.com)** | **[CNN International Internships: ATL - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22e3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Desk Newsgathering Intern: DC - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba230f?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
-| ↳ | **[DC Comics Creative Affairs and Production Internships: LA - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22ee?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Jan 26 |
-| ↳ | **[Film & TV Post-Production Internships: LA - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22bd?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Jan 26 |
-| ↳ | **[CNN FactCheck Internships: ATL - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22b7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
-| ↳ | **[Studio Services Internships: LA - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba229d?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Jan 26 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[Film & TV Post-Production Internships: LA - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22bd?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Jan 26 |
 | ↳ | **[TV Editorial Internships: NYC - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22e6?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
-| ↳ | **[CNN International Show Teams Internships: NYC - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22b6?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
+| ↳ | **[Studio Services Internships: LA - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba229d?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Jan 26 |
+| ↳ | **[CNN Desk Newsgathering Intern: DC - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba230f?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
+| ↳ | **[CNN FactCheck Internships: ATL - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22b7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
+| ↳ | **[DC Comics Creative Affairs and Production Internships: LA - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22ee?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Jan 26 |
 | ↳ | **[CNN Weather Intern: NYC or ATL: Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba2312?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
-| ↳ | **[CNN Newsgathering Internships: ATL - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba2297?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
 | ↳ | **[CNN News Show Team Internships: DC - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22fb?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
+| ↳ | **[CNN Newsgathering Internships: ATL - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba2297?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
 | ↳ | **[Music Internships: LA - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22df?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Jan 26 |
 | ↳ | **[CNN Heroes Intern: NYC - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22d8?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | ↳ | **[Warner Bros. TV Casting Intern: NYC - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22c0?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
-| ↳ | **[Documentary Production Internships: NYC - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba2299?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | ↳ | **[CNN Editorial: NYC - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22a4?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
+| ↳ | **[Documentary Production Internships: NYC - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba2299?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | ↳ | **[Fareed Zakaria GPS Intern: NYC - Summer 2025](https://jobright.ai/jobs/info/6797362cfee9d9c11efb3203?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | ↳ | **[CNN Weather Intern: NYC or ATL: Summer 2025](https://jobright.ai/jobs/info/6797362cfee9d9c11efb32a1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | ↳ | **[CNN Sports Intern: ATL - Summer 2025](https://jobright.ai/jobs/info/6797362cfee9d9c11efb31dc?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
 | ↳ | **[Sports Production Internships: ATL - Summer 2025](https://jobright.ai/jobs/info/6797362cfee9d9c11efb31ed?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
 | ↳ | **[CNN Health Intern: ATL - Summer 2025](https://jobright.ai/jobs/info/6797362cfee9d9c11efb31d6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
-| **[The Walters Art Museum](http://thewalters.org)** | **[Collections Management College Intern (32494)](https://jobright.ai/jobs/info/679822415ee642eade346fa5?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Jan 26 |
-| ↳ | **[Library Archives Intern (32495)](https://jobright.ai/jobs/info/679822415ee642eade346fae?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Jan 26 |
+| **[The Walters Art Museum](http://thewalters.org)** | **[Library Archives Intern (32495)](https://jobright.ai/jobs/info/679822415ee642eade346fae?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Jan 26 |
+| ↳ | **[Collections Management College Intern (32494)](https://jobright.ai/jobs/info/679822415ee642eade346fa5?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Jan 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab4?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Jan 26 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, WME - Contemporary Music](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a28?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Jan 26 |
 | **[Services for the UnderServed](https://www.sus.org)** | **[Graduate Intern](https://jobright.ai/jobs/info/6795db07e02e3386384ed62f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 25 |
@@ -117,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Production Intern](https://jobright.ai/jobs/info/679462250a653a234fd32d0e?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Jan 24 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Amazon Commerce](https://jobright.ai/jobs/info/679458bfff32dd79fcd3795a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING/SUMMER '25 - WMTV](https://jobright.ai/jobs/info/67945eb1df0af28d084348b2?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Jan 24 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Jan 24 |
 | **[KET - Kentucky Educational Television](https://www.ket.org)** | **[Fall 2025 Public Affairs Television Production Internship](https://jobright.ai/jobs/info/679453dbdd489fbbc79a65f8?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Jan 24 |
 | ↳ | **[Summer 2025 Public Affairs Television Production Internship](https://jobright.ai/jobs/info/679453dbdd489fbbc79a65ec?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Jan 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2025] Curatorial - artport 25th Anniversary Internship](https://jobright.ai/jobs/info/67945b243369a334e3f6c479?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, The Foundry](https://jobright.ai/jobs/info/6793e96ecac1c8332cc47af4?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 24 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[KTDO News Intern (June 2025 – August 2025)](https://jobright.ai/jobs/info/6793df4932f3629658ed42ee?utm_campaign=1053&utm_source=git)** | 12285 Pellicano Drive Suite C, El Paso, TEXAS | On Site | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Action and 20th Century Studios VFX Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/6793da719e7108124cd41cea?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Jan 24 |
-| **[Springer Nature](https://group.springernature.com/)** | **[News Intern, Nature News](https://jobright.ai/jobs/info/6793cacdab0b817c62bd55b6?utm_campaign=1053&utm_source=git)** | Washington DC | Hybrid | Jan 24 |
-| ↳ | **[News Intern, Nature News](https://jobright.ai/jobs/info/6793cacdab0b817c62bd564c?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Jan 24 |
+| **[Springer Nature](https://group.springernature.com/)** | **[News Intern, Nature News](https://jobright.ai/jobs/info/6793cacdab0b817c62bd564c?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Jan 24 |
+| ↳ | **[News Intern, Nature News](https://jobright.ai/jobs/info/6793cacdab0b817c62bd55b6?utm_campaign=1053&utm_source=git)** | Washington DC | Hybrid | Jan 24 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Libraries and Archives Summer Intern](https://jobright.ai/jobs/info/6793ca9354b93c65f71566b5?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jan 24 |
-| **[American Greetings](http://americangreetings.com)** | **[Creative Writing Internship (Hybrid) - Summer 2025](https://jobright.ai/jobs/info/679080cced3a304e2d1fa7a3?utm_campaign=1053&utm_source=git)** | Westlake, OH | Hybrid | Jan 24 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Research Intern, International Center for the Arts of the Americas (ICAA)](https://jobright.ai/jobs/info/679401dfca91e29a814f07c1?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jan 24 |
+| ↳ | **[Research Intern, International Center for the Arts of the Americas (ICAA)](https://jobright.ai/jobs/info/679401dfca91e29a814f07c1?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[2025 National Hearst Journalism Fellowship Program](https://jobright.ai/jobs/info/66e427c1f1806f0600622719?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Messina Touring Group](https://jobright.ai/jobs/info/6793343b7ea3896cf8c154af?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jan 23 |
 | **[On Location](https://onlocationexp.com/)** | **[Intern, Event Production](https://jobright.ai/jobs/info/67932423cfe8e03be68bf173?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jan 23 |
-| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[News Intern - Telemundo Utah](https://jobright.ai/jobs/info/67933bfb8b8cd246369047a4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jan 23 |
-| ↳ | **[Telemundo Nueva Ingleterra News Internship - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca90a31?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Boston Technical Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca909e2?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
-| ↳ | **[NBC Boston News Intern - Summer 2025](https://jobright.ai/jobs/info/67932b59f7cb75e47ca90a74?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
