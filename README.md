@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC Entertainment & Hulu Originals Comedy Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67a07de0f96ba3e77ad27f63?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Feb 03 |
 | **[Fairbanks Morse Defense](https://www.fairbanksmorsedefense.com)** | **[3D Drafter / Animator Intern](https://jobright.ai/jobs/info/679ebe66894aae352de4fecc?utm_campaign=1053&utm_source=git)** | Fairbanks Morse Defense, Beloit, Wisconsin, United States of America | On Site | Feb 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Operations Localization Intern, Summer 2025](https://jobright.ai/jobs/info/679e9b83d2470fe2489ec6b8?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Feb 01 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/679e9a09a7a06d104e1edcb0?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | Feb 01 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Summer Events Intern](https://jobright.ai/jobs/info/679d4b70b0de791cd694ddbe?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | **[WWE](http://wwe.com)** | **[Intern, Live Production](https://jobright.ai/jobs/info/679d57b9acf37c2ab6d40ba2?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Jan 31 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC10 News Intern, Philadelphia - Summer 2025](https://jobright.ai/jobs/info/679d5ca730d7fe59af9ab553?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 31 |
+| ↳ | **[NBC10 Philadelphia Digital News Intern - Summer 2025](https://jobright.ai/jobs/info/679d5ca730d7fe59af9ab562?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 31 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo62 News Intern - Summer 2025](https://jobright.ai/jobs/info/679d4edff02d4628a94efe31?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 31 |
 | **[Vinfen](http://www.vinfen.org)** | **[Unpaid Intern](https://jobright.ai/jobs/info/679d377c0c41b2102622cc61?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jan 31 |
 | **[WWE](http://wwe.com)** | **[Intern, Live Production](https://jobright.ai/jobs/info/679d32ed9b91dbe07356593c?utm_campaign=1053&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Jan 31 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ABC Entertainment, Hulu Originals & Onyx Collective Casting Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/679c894ac1c61f8f49342cd3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Jan 31 |
 | ↳ | **[ABC Entertainment, Hulu Originals & Onyx Collective Casting Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/679c894ac1c61f8f49342ecc?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Jan 31 |
 | **[Warner Bros. Games](https://careers.wbgames.com/studios/san-francisco/)** | **[WB Games Production Intern: LA - Summer 2025](https://jobright.ai/jobs/info/679c70e639920c31548272ad?utm_campaign=1053&utm_source=git)** | Burbank, CA | Hybrid | Jan 30 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC10 Philadelphia Digital News Intern - Summer 2025](https://jobright.ai/jobs/info/679c63e9d1eb7fa83f77612e?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 30 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo62-Digital News Intern- Summer 2025](https://jobright.ai/jobs/info/679c6a561a9aecd1b00a3d2d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 30 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Printmaking Studio Assistant](https://jobright.ai/jobs/info/679c5de38229ed405b844cf1?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Jan 30 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2025](https://jobright.ai/jobs/info/679c55b15aef894243dfb910?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Jan 30 |
@@ -103,11 +104,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DC Comics Business Affairs Intern: LA - Summer 2025](https://jobright.ai/jobs/info/679c3911c4fea47eabb8c44b?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jan 30 |
 | ↳ | **[WBD Theatre Ventures Intern: NYC - Summer 2025](https://jobright.ai/jobs/info/679c3911c4fea47eabb8c48b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Sports Digital News Intern, NBC Philadelphia - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a1c?utm_campaign=1053&utm_source=git)** | 3601 S Broad St, Philadelphia, PA 19148, USA | On Site | Jan 30 |
-| ↳ | **[NBC Sports Philadelphia Production Intern - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a08?utm_campaign=1053&utm_source=git)** | 3601 S Broad St, Philadelphia, PA 19148, USA | On Site | Jan 30 |
 | ↳ | **[NBC10 Philadelphia Digital News Intern - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a18?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 30 |
-| ↳ | **[Telemundo62-Digital News Intern- Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a28?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 30 |
+| ↳ | **[NBC Sports Philadelphia Production Intern - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a08?utm_campaign=1053&utm_source=git)** | 3601 S Broad St, Philadelphia, PA 19148, USA | On Site | Jan 30 |
 | ↳ | **[Telemundo62 News Intern - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a19?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 30 |
 | ↳ | **[NBC10 News Intern, Philadelphia - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a1b?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 30 |
+| ↳ | **[Telemundo62-Digital News Intern- Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a28?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 30 |
 | ↳ | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a20?utm_campaign=1053&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | Jan 30 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Digital Branded Entertainment Intern: NYC - Summer 2025](https://jobright.ai/jobs/info/679c1d6ddf689b6b052b6781?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.50/HR](https://jobright.ai/jobs/info/677e606fd72550fb7550c365?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Jan 30 |
@@ -136,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[BambooHR](http://www.BambooHR.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/679ae4a045a24c0fe8995bbc?utm_campaign=1053&utm_source=git)** | Utah | Hybrid | Hybrid | Jan 29 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SUMMER '25 - WILX](https://jobright.ai/jobs/info/679aecdf537aa50198ff0de3?utm_campaign=1053&utm_source=git)** | Lansing, MI | On Site | Jan 29 |
 | **[OceanX](https://oceanx.org/)** | **[Post-Production Intern](https://jobright.ai/jobs/info/679ae213f25fbc5b7bac87b0?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
+| **[Jackson Spalding](http://jacksonspalding.com)** | **[POST GRADUATE PAID internship](https://jobright.ai/jobs/info/679ade66d2d0a7d60b2bc500?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[Columbia Hospitality](http://www.columbiahospitality.com)** | **[Seasonal Events Intern / Semiahmoo Golf & Country Club](https://jobright.ai/jobs/info/679ad01deabe04321f80d6e8?utm_campaign=1053&utm_source=git)** | Semiahmoo Golf & Country Club, Blaine, Washington, United States of America | On Site | Jan 29 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[HBO/Max Content Acquisition Intern: NYC - Summer 2025](https://jobright.ai/jobs/info/679adb5c5833a427d5cf5e96?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Content Studio Operations & Multimedia Co-op](https://jobright.ai/jobs/info/679ad1de143399ba95b68b48?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jan 29 |
@@ -144,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[Up To Date Intern, KCUR - Summer Internship Program, 84314](https://jobright.ai/jobs/info/679ad1de143399ba95b68bba?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Jan 29 |
 | ↳ | **[News Intern, KCUR - Summer Internship Program, 72564](https://jobright.ai/jobs/info/679ab0e2b0b5a9de6506d805?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Jan 29 |
 | ↳ | **[KCUR Studios Intern - Summer Internship Program, 72562](https://jobright.ai/jobs/info/679ab0e2b0b5a9de6506d808?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Jan 29 |
-| **[GBH](http://www.wgbh.org/)** | **[Frontline Editorial Internship – Summer 2025](https://jobright.ai/jobs/info/679abd11b236413ceadebd2f?utm_campaign=1053&utm_source=git)** | United States | On Site | Jan 29 |
-| ↳ | **[Antiques Roadshow Internship - Summer 2025](https://jobright.ai/jobs/info/679abd11b236413ceadebd5a?utm_campaign=1053&utm_source=git)** | United States | On Site | Jan 29 |
+| **[GBH](http://www.wgbh.org/)** | **[Antiques Roadshow Internship - Summer 2025](https://jobright.ai/jobs/info/679abd11b236413ceadebd5a?utm_campaign=1053&utm_source=git)** | United States | On Site | Jan 29 |
+| ↳ | **[Frontline Editorial Internship – Summer 2025](https://jobright.ai/jobs/info/679abd11b236413ceadebd2f?utm_campaign=1053&utm_source=git)** | United States | On Site | Jan 29 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Athletics Media Relations-Broadcast/Production](https://jobright.ai/jobs/info/679aba9a9dd65505ba1f989c?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Jan 29 |
 | **[Warby Parker](http://www.warbyparker.com)** | **[Apprentice Optician, Part-Time - Ellis Preserve](https://jobright.ai/jobs/info/679aab1f779e7929a1903d4d?utm_campaign=1053&utm_source=git)** | Newtown Square, PA | On Site | Jan 29 |
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Summer 2025](https://jobright.ai/jobs/info/679aa8c9ca2d24a30e1f754f?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jan 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[The Forum Network Internship - Summer 2025](https://jobright.ai/jobs/info/679aa8c9ca2d24a30e1f7323?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jan 29 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/679a9ef382a7619ae45674f4?utm_campaign=1053&utm_source=git)** | Farmersburg, IN | On Site | Jan 29 |
 | **[KET - Kentucky Educational Television](https://www.ket.org)** | **[Fall 2025 Public Affairs Television Production Internship](https://jobright.ai/jobs/info/679aa10bc1a6d2b4fd48771c?utm_campaign=1053&utm_source=git)** | Louisville, KY | Hybrid | Jan 29 |
-| **[GBH](http://www.wgbh.org/)** | **[The Forum Network Internship - Summer 2025](https://jobright.ai/jobs/info/679a911d35cf6bb7d41ca168?utm_campaign=1053&utm_source=git)** | Boston | On Site | Jan 29 |
-| ↳ | **[Antiques Roadshow Internship - Summer 2025](https://jobright.ai/jobs/info/679a8f7a44d8443712543f94?utm_campaign=1053&utm_source=git)** | United States | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
