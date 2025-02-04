@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Compass Health Center](https://compasshealthcenter.net)** | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e76661417c381a0dfd7be?utm_campaign=1053&utm_source=git)** | Oak Brook, IL | On Site | Feb 04 |
+| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/677f6b389f872438cd06fa80?utm_campaign=1053&utm_source=git)** | Nashville Metro | On Site | Feb 04 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Student Accompanist - Dance](https://jobright.ai/jobs/info/67a196cd9644a9fa32f2eb88?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Feb 03 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Junior Production Manager (Corporate Events)](https://jobright.ai/jobs/info/67a19d1cf20d1f9f2954f7d0?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/67a19369c93339ec93444dad?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Feb 03 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Atria Management Company](http://AtriaCareers.com)** | **[Video Specialist Intern](https://jobright.ai/jobs/info/67982c9a100c2f2e3738460d?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Feb 03 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC 10 Philadelphia Production Operations Intern- Summer 2025](https://jobright.ai/jobs/info/67a16324022d9b9d9509023d?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Feb 03 |
 | **[NEOGOV](http://www.neogov.com)** | **[Arts & History Intern](https://jobright.ai/jobs/info/67a16130f630df82025a8ddc?utm_campaign=1053&utm_source=git)** | Boise City Hall, ID | On Site | Feb 03 |
+| **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator- Intern- College Credit](https://jobright.ai/jobs/info/678af62bb3f558bc73ac4f0b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Feb 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Searchlight Production, Post Production, & VFX Intern, Summer 2025](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c7c9?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Feb 03 |
 | ↳ | **[Studio Post Production Intern, Summer 2025](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c7a8?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Feb 03 |
 | **[Vizance](https://vizance.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/67a146914240e689c9eb2e14?utm_campaign=1053&utm_source=git)** | Hartland, WI | On Site | Feb 03 |
@@ -84,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Telemundo Connecticut Investigative & Consumer Intern - Summer 2025](https://jobright.ai/jobs/info/67a10d8f5e0c8c78014f808d?utm_campaign=1053&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | Feb 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[National Geographic Media Archive Intern, Summer 2025](https://jobright.ai/jobs/info/67a10ac6aa9d34b2e0595b03?utm_campaign=1053&utm_source=git)** | Washington, DC, USA | On Site | Feb 03 |
 | **[Library of Congress](http://www.loc.gov)** | **[2025 AFC Folklife Internship](https://jobright.ai/jobs/info/67a104e22ec4c02bbf835537?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 03 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern 2025 - WFAN](https://jobright.ai/jobs/info/67a1a41aa2fee5109f800624?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 03 |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Video Production Communications](https://jobright.ai/jobs/info/677db839efa1091c0884836b?utm_campaign=1053&utm_source=git)** | Plainsboro, NJ | On Site | Feb 03 |
 | **[160over90](http://160over90.com/)** | **[Intern, Obsidianworks](https://jobright.ai/jobs/info/677c14ac36a42b80993fdd18?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC Entertainment & Hulu Originals Comedy Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67a07de0f96ba3e77ad27f63?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Feb 03 |
 | **[Waukegan Park District](https://www.waukeganparks.org)** | **[Intern - Cultural Arts SEA](https://jobright.ai/jobs/info/67a16b01eb59592056619a2e?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
@@ -136,9 +139,9 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Sports Digital News Intern, NBC Philadelphia - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a1c?utm_campaign=1053&utm_source=git)** | 3601 S Broad St, Philadelphia, PA 19148, USA | On Site | Jan 30 |
 | ↳ | **[NBC10 Philadelphia Digital News Intern - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a18?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 30 |
 | ↳ | **[NBC Sports Philadelphia Production Intern - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a08?utm_campaign=1053&utm_source=git)** | 3601 S Broad St, Philadelphia, PA 19148, USA | On Site | Jan 30 |
-| ↳ | **[Telemundo62 News Intern - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a19?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 30 |
-| ↳ | **[NBC10 News Intern, Philadelphia - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a1b?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 30 |
 | ↳ | **[Telemundo62-Digital News Intern- Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a28?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 30 |
+| ↳ | **[NBC10 News Intern, Philadelphia - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a1b?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 30 |
+| ↳ | **[Telemundo62 News Intern - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a19?utm_campaign=1053&utm_source=git)** | 1800 Arch St., Philadelphia, PENNSYLVANIA | On Site | Jan 30 |
 | ↳ | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2025](https://jobright.ai/jobs/info/679c1b6cf915e35f93155a20?utm_campaign=1053&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | Jan 30 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Digital Branded Entertainment Intern: NYC - Summer 2025](https://jobright.ai/jobs/info/679c1d6ddf689b6b052b6781?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.50/HR](https://jobright.ai/jobs/info/677e606fd72550fb7550c365?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Jan 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oneday](https://www.oneday.co.uk/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/679bb2d9faa743af218877dc?utm_campaign=1053&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Disney Programs Digital Content Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/679bba07978b3c868fd20c7a?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Jan 30 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Sweeterie Pastry Intern - Fall 2025](https://jobright.ai/jobs/info/679bba07978b3c868fd20cd9?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jan 30 |
-| **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2025 U.S. Businesses, Brand Internship Program](https://jobright.ai/jobs/info/679b9177a35325d32115f9c9?utm_campaign=1053&utm_source=git)** | Newark, NJ | Hybrid | Jan 30 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[Book Publishing Creative Editorial Intern: NYC - Summer 2025](https://jobright.ai/jobs/info/679b7883cdee34e7569c1c23?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
-| **[BambooHR](http://www.BambooHR.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/679b46f65c70ebb1014e9f83?utm_campaign=1053&utm_source=git)** | Draper, UT | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
