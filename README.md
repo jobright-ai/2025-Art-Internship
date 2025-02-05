@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Fellow, Test Kitchen](https://jobright.ai/jobs/info/67a2de0fd8e4696d40bb666e?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 04 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WABC-TV (ABC7) Programming Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67a2f36d8a5ec7e941239a6a?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 04 |
+| **[IFC - International Finance Corporation](http://www.ifc.org)** | **[IFC Global Internship Program - Multimedia Internship - req31568](https://jobright.ai/jobs/info/67a2ec7191522970b9f7359d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 04 |
+| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Fellow, Allrecipes Editorial](https://jobright.ai/jobs/info/67a2e4e5792b9622725c0e53?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 04 |
+| ↳ | **[Fellow, Test Kitchen](https://jobright.ai/jobs/info/67a2de0fd8e4696d40bb666e?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 04 |
 | **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Editorial Internship, Summer 2025](https://jobright.ai/jobs/info/67a2d70def4c8dc4fc6cc869?utm_campaign=1053&utm_source=git)** | West Allis, WI | Hybrid | Feb 04 |
 | **[Arbor Day Foundation](http://arborday.org)** | **[Student Contractor, Content Creator](https://jobright.ai/jobs/info/67a2d026b8c6e4f3f31dbe66?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Feb 04 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern - Flex Factory (This position is only available to current ACC students.)](https://jobright.ai/jobs/info/67a2d026b8c6e4f3f31dbedb?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Feb 04 |
@@ -88,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/664defb5cf7bdc8f73b3c78e?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 04 |
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e76661417c381a0dfd7be?utm_campaign=1053&utm_source=git)** | Oak Brook, IL | On Site | Feb 04 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, WME - Country Music](https://jobright.ai/jobs/info/677f6b389f872438cd06fa80?utm_campaign=1053&utm_source=git)** | Nashville Metro | On Site | Feb 04 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern (WJAR) - Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646af?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Feb 03 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Student Accompanist - Dance](https://jobright.ai/jobs/info/67a196cd9644a9fa32f2eb88?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Feb 03 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Junior Production Manager (Corporate Events)](https://jobright.ai/jobs/info/67a19d1cf20d1f9f2954f7d0?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/67a19369c93339ec93444dad?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Feb 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Berklee College of Music](http://berklee.edu)** | **[Caf Show Engineer (Federal Work-Study)](https://jobright.ai/jobs/info/679cec3dd497652eb6aedb60?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Jan 31 |
 | **[Calvin Klein](https://www.calvinklein.us)** | **[Intern, Content Production - Calvin Klein](https://jobright.ai/jobs/info/679cf4d5dc665a572a9900d3?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Food Network Social Convergent Intern: NYC - Summer 2025](https://jobright.ai/jobs/info/679cc6669a72a802a6478b2d?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern - Spring 2025 (The National News Desk)](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646c4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jan 31 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[National Geographic Documentary Films Intern, Summer 2025](https://jobright.ai/jobs/info/679c894ac1c61f8f49342ce4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Jan 31 |
-| ↳ | **[ABC Entertainment, Hulu Originals & Onyx Collective Casting Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/679c894ac1c61f8f49342ecc?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Jan 31 |
-| ↳ | **[ABC Entertainment, Hulu Originals & Onyx Collective Casting Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/679c894ac1c61f8f49342cd3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
