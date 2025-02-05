@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CEI (Coastal Enterprises, Inc.)](http://www.ceimaine.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/67a3ba54f130561da1e8995b?utm_campaign=1053&utm_source=git)** | Brunswick, ME | On Site | Feb 05 |
+| **[Montage International](http://www.montageinternational.com)** | **[People Internship - Montage Laguna Beach](https://jobright.ai/jobs/info/67a39f1b994d38ad6a87497e?utm_campaign=1053&utm_source=git)** | USA – CA – Laguna Beach | On Site | Feb 05 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Searchlight Production, Post Production, & VFX Intern, Summer 2025](https://jobright.ai/jobs/info/67a3a9b129c4e7788b511188?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 05 |
+| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67a38e98e441876a07053fab?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Feb 05 |
+| **[MyFitnessPal](https://www.myfitnesspal.com/)** | **[Editorial Intern - Trends & News - Summer 2025](https://jobright.ai/jobs/info/677dfc7948d6bb48a5647b1c?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 05 |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/6708e7c03812d8882709e78e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 05 |
+| ↳ | **[Summer 2025 FOX News Media Internship Program - Miami](https://jobright.ai/jobs/info/675c745f854f7d417e4eface?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Feb 05 |
 | **[Montage International](http://www.montageinternational.com)** | **[Culinary Internship & Externships / Montage Palmetto Bluff](https://jobright.ai/jobs/info/66c9bc446c1ffa1ddaf44c39?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Feb 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WABC-TV (ABC7) Programming Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67a2f36d8a5ec7e941239a6a?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 04 |
 | **[IFC - International Finance Corporation](http://www.ifc.org)** | **[IFC Global Internship Program - Multimedia Internship - req31568](https://jobright.ai/jobs/info/67a2ec7191522970b9f7359d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alma](https://www.almaad.com/)** | **[alma Summer Internship](https://jobright.ai/jobs/info/679d4c37b042f6bdde882816?utm_campaign=1053&utm_source=git)** | Miami, Florida, United States | On Site | Jan 31 |
 | **[Corgan](http://www.corgan.com/)** | **[Summer Events Intern](https://jobright.ai/jobs/info/679d4b70b0de791cd694ddbe?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | **[WWE](http://wwe.com)** | **[Intern, Live Production](https://jobright.ai/jobs/info/679d57b9acf37c2ab6d40ba2?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Jan 31 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC10 News Intern, Philadelphia - Summer 2025](https://jobright.ai/jobs/info/679d5ca730d7fe59af9ab553?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 31 |
-| ↳ | **[NBC10 Philadelphia Digital News Intern - Summer 2025](https://jobright.ai/jobs/info/679d5ca730d7fe59af9ab562?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 31 |
-| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo62 News Intern - Summer 2025](https://jobright.ai/jobs/info/679d4edff02d4628a94efe31?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 31 |
-| **[WWE](http://wwe.com)** | **[Intern, Live Production](https://jobright.ai/jobs/info/679d32ed9b91dbe07356593c?utm_campaign=1053&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Jan 31 |
-| **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Patient Media and Broadcasting Intern](https://jobright.ai/jobs/info/679d1c1c081c0e8b12f54189?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jan 31 |
-| **[Shepherd University](https://www.shepherd.edu/)** | **[Art Department Assistant](https://jobright.ai/jobs/info/679d01d60218e26901a608f2?utm_campaign=1053&utm_source=git)** | Shepherdstown, WV | On Site | Jan 31 |
-| **[Berklee College of Music](http://berklee.edu)** | **[Caf Show Engineer (Federal Work-Study)](https://jobright.ai/jobs/info/679cec3dd497652eb6aedb60?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
