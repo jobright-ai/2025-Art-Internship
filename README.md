@@ -57,19 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[2025 Omni Care Internship / Events (Summer June - August)](https://jobright.ai/jobs/info/67a42f4998e77eab63869404?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 05 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/67a3f82e6f2654843f7396e0?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | ↳ | **[Summer Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/67a3f82e6f2654843f7396e1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | ↳ | **[Summer Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3c6?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | Hybrid | Feb 05 |
 | ↳ | **[Summer Intern, Music Production - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3aa?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | ↳ | **[Summer Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a427?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Feb 05 |
-| ↳ | **[Summer Intern, College Sports (HBCU) - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3b7?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
-| ↳ | **[Summer Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3d2?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Feb 05 |
 | ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3f7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
+| ↳ | **[Summer Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3d2?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Feb 05 |
 | ↳ | **[Summer Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/67a3ec183620dc2505482edd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 05 |
+| ↳ | **[Summer Intern, College Sports (HBCU) - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3b7?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | ↳ | **[Summer Intern, Music Library - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3b3?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
-| ↳ | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3a7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
-| ↳ | **[Summer Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/67a3ec183620dc2505482ede?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a428?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
+| ↳ | **[Summer Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/67a3ec183620dc2505482ede?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
+| ↳ | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3a7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Entertainment Intern](https://jobright.ai/jobs/info/67a3f0c595275fd814c3f957?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Feb 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/67a3d4f518d284e8cf72d1cd?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Feb 05 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY TELEVISION FUTURE FOCUS INTERN SPRING '25 - KMVT/KSVT](https://jobright.ai/jobs/info/67a3d4f518d284e8cf72d1d6?utm_campaign=1053&utm_source=git)** | Twin Falls, ID | On Site | Feb 05 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Museum Intern](https://jobright.ai/jobs/info/67a2b681eba6ecaf98206dd5?utm_campaign=1053&utm_source=git)** | Frisco, CO | On Site | Feb 04 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Video Production Intern ](https://jobright.ai/jobs/info/67a2b9aa9f5e0b0646a4f23a?utm_campaign=1053&utm_source=git)** | Houston Headquarters, Houston, Texas, United States of America | On Site | Feb 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[HBO/Max Talent Relations & Events Intern: LA - Summer 2025](https://jobright.ai/jobs/info/67a2ba4918463e68dca07d71?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Feb 04 |
-| ↳ | **[CNN en Espanol FactCheck Intern: ATL - Summer 2025](https://jobright.ai/jobs/info/67a2ba4918463e68dca07d66?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Feb 04 |
 | ↳ | **[HBO & Max Awards Intern: LA - Summer 2025](https://jobright.ai/jobs/info/67a2ba4918463e68dca07dad?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Feb 04 |
+| ↳ | **[CNN en Espanol FactCheck Intern: ATL - Summer 2025](https://jobright.ai/jobs/info/67a2ba4918463e68dca07d66?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Feb 04 |
 | **[54 Thrones](https://www.54thrones.com)** | **[Content Creator Intern - NEW YORK](https://jobright.ai/jobs/info/67a2a2f3977fbadfcaa27664?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Feb 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/67a29043ced5da1845408699?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | Feb 04 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2025](https://jobright.ai/jobs/info/67a28f46ce3af7b838d7500d?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Feb 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fairbanks Morse Defense](https://www.fairbanksmorsedefense.com)** | **[3D Drafter / Animator Intern](https://jobright.ai/jobs/info/679ebe66894aae352de4fecc?utm_campaign=1053&utm_source=git)** | Fairbanks Morse Defense, Beloit, Wisconsin, United States of America | On Site | Feb 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Operations Localization Intern, Summer 2025](https://jobright.ai/jobs/info/679e9b83d2470fe2489ec6b8?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Feb 01 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Fellow, Allrecipes Editorial](https://jobright.ai/jobs/info/679e8817892e51121960a308?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 01 |
-| ↳ | **[Fellow, Test Kitchen](https://jobright.ai/jobs/info/679e8a09d7126576fd0a5ddb?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
