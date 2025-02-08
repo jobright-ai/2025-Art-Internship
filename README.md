@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Production Internship](https://jobright.ai/jobs/info/67a6c326007f8365c3b01e6d?utm_campaign=1053&utm_source=git)** | Auburn Hills, MI | On Site | Feb 07 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Stadium and Event Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67a6a6d98c47dfe6a5dcb2c9?utm_campaign=1053&utm_source=git)** | Kansas City, KS | On Site | Feb 07 |
 | **[Ann Arbor SPARK](http://www.annarborusa.org/)** | **[Marquee Arts: Cinetopia Film Festival Internship](https://jobright.ai/jobs/info/67a6a9ad6843194e26464b05?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Internship](https://jobright.ai/jobs/info/67a68b7b178b11a0f93835ae?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 07 |
@@ -88,11 +89,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Geographic Team Nature Production Intern, Summer 2025](https://jobright.ai/jobs/info/67a595af0065b0b50632a01b?utm_campaign=1053&utm_source=git)** | Washington, DC, USA | On Site | Feb 06 |
 | **[Sight & Sound](https://www.sight-sound.com/)** | **[Summer Internship - Wardrobe](https://jobright.ai/jobs/info/67a580f0136100ed1b392864?utm_campaign=1053&utm_source=git)** | Branson, MO | On Site | Feb 06 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Golf Digest Editorial intern: NYC - Summer 2025](https://jobright.ai/jobs/info/67a554452dba4fdf5a92cd2e?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
-| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut Digital Video Intern - Summer 2025](https://jobright.ai/jobs/info/67a5441850c7e785a41646ad?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 06 |
-| ↳ | **[NBC Telemundo Connecticut Assignment Desk/Digital Intern - Summer 2025](https://jobright.ai/jobs/info/67a5441850c7e785a41646bf?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 06 |
+| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut Assignment Desk/Digital Intern - Summer 2025](https://jobright.ai/jobs/info/67a5441850c7e785a41646bf?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 06 |
+| ↳ | **[NBC Telemundo Connecticut Digital Video Intern - Summer 2025](https://jobright.ai/jobs/info/67a5441850c7e785a41646ad?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 06 |
 | **[Los Angeles Superior Court](https://lacourt.org/)** | **[Court Reporter Intern](https://jobright.ai/jobs/info/67a53febd4fcbb5aff2bead6?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/67a53ab163603bc4de43b2f1?utm_campaign=1053&utm_source=git)** | Chicopee, MA | On Site | Feb 06 |
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Editorial Internship](https://jobright.ai/jobs/info/67a53499f8b2e75730b90e76?utm_campaign=1053&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Feb 06 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Associate Producer, Live Broadcast Internship](https://jobright.ai/jobs/info/67a51a3891cb718d2bfc363f?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Feb 06 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SUMMER '25 - WFIE](https://jobright.ai/jobs/info/67a5303407e6822c2dffd327?utm_campaign=1053&utm_source=git)** | Evansville, IN | On Site | Feb 06 |
 | **[GBH](http://www.wgbh.org/)** | **[The Forum Network Internship - Summer 2025](https://jobright.ai/jobs/info/679aa8c9ca2d24a30e1f7323?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 06 |
 | **[College Works Painting](https://www.collegeworks.com/)** | **[Intern](https://jobright.ai/jobs/info/67a51bd861e4f7e7f746fbb1?utm_campaign=1053&utm_source=git)** | Madison, WI | Hybrid | Feb 06 |
@@ -107,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/67a235ee78a85db0e22f3560?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Feb 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WABC-TV (ABC7) Programming Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67a4e30bb7f9074930101c7f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Fellow, Video](https://jobright.ai/jobs/info/67a4e40ec9f757a3af7c9945?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 06 |
-| **[54 Thrones](https://www.54thrones.com)** | **[Content Creator Intern - HOUSTON](https://jobright.ai/jobs/info/67a4d360179c7ec845cd77ee?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Feb 06 |
 | **[NEOGOV](http://www.neogov.com)** | **[Museum Archivist Intern](https://jobright.ai/jobs/info/67a4cc17db28d6cc408ea699?utm_campaign=1053&utm_source=git)** | Rochester Hills, MI | On Site | Feb 06 |
 | **[tastylive](https://www.tastylive.com)** | **[Live Content Show Operations Intern](https://jobright.ai/jobs/info/67a49a48844f4a3c6c492c6a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
 | **[Sézane](https://www.sezane.com)** | **[Internship - Content Assistant (M/F)](https://jobright.ai/jobs/info/67a45fc8a3e4c539ac286639?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Feb 05 |
@@ -124,19 +125,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MM+M Editorial Intern](https://jobright.ai/jobs/info/67a54c6da9385b70f935405d?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | ↳ | **[McKnight’s Editorial Intern](https://jobright.ai/jobs/info/67a54c6da9385b70f935405c?utm_campaign=1053&utm_source=git)** | Northbrook, IL | Hybrid | Feb 05 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Museum Archivist Intern](https://jobright.ai/jobs/info/67a4f812596f17d6578acb76?utm_campaign=1053&utm_source=git)** | Rochester Hills, MI | On Site | Feb 05 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Associate Producer, Live Broadcast Internship](https://jobright.ai/jobs/info/67a554452dba4fdf5a92ce90?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Feb 05 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/67a3f82e6f2654843f7396e0?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
-| ↳ | **[Summer Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/67a3f82e6f2654843f7396e1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/67a3f82e6f2654843f7396e1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
+| ↳ | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/67a3f82e6f2654843f7396e0?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | ↳ | **[Summer Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3c6?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | Hybrid | Feb 05 |
 | ↳ | **[Summer Intern, Music Production - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3aa?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | ↳ | **[Summer Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a427?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Feb 05 |
-| ↳ | **[Summer Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/67a3ec183620dc2505482edd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 05 |
+| ↳ | **[Summer Intern, College Sports (HBCU) - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3b7?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | ↳ | **[Summer Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3d2?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Feb 05 |
 | ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3f7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
-| ↳ | **[Summer Intern, College Sports (HBCU) - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3b7?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
+| ↳ | **[Summer Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/67a3ec183620dc2505482edd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 05 |
 | ↳ | **[Summer Intern, Music Library - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3b3?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
-| ↳ | **[Summer Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/67a3ec183620dc2505482ede?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | ↳ | **[Summer Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a428?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
+| ↳ | **[Summer Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/67a3ec183620dc2505482ede?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | ↳ | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/67a3e724a6a6c32cdd87a3a7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Entertainment Intern](https://jobright.ai/jobs/info/67a3f0c595275fd814c3f957?utm_campaign=1053&utm_source=git)** | Shakopee, MN | On Site | Feb 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/67a3d4f518d284e8cf72d1cd?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Feb 05 |
