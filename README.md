@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Digital Features Intern: NYC or ATL - Summer 2025](https://jobright.ai/jobs/info/67abff37052bc11f7a531ecf?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Feb 11 |
+| ↳ | **[CNN Digital Features Intern: NYC or ATL - Summer 2025](https://jobright.ai/jobs/info/67abf3a5d3d54a3f2c41678f?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FHD Chinese Family Tree Intern](https://jobright.ai/jobs/info/67abfca2981dd163a5ead057?utm_campaign=1053&utm_source=git)** | Lehi, UT | Hybrid | Feb 11 |
+| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Archive Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/67abf3a5d3d54a3f2c4169c8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 11 |
+| **[Green Bay Packers](http://www.packers.com/)** | **[Titletown Events & Programs Intern](https://jobright.ai/jobs/info/67abecd187795a764d3c16b6?utm_campaign=1053&utm_source=git)** | Green Bay, WI | On Site | Feb 11 |
 | **[Community of Christ](https://cofchrist.org/)** | **[Oral History Intern in Missouri, USA](https://jobright.ai/jobs/info/67abdce002474609d6ec7bd4?utm_campaign=1053&utm_source=git)** | Independence, MO | Remote | Feb 11 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Film/Video Studio Archivist Intern, Wexner Center for the Arts](https://jobright.ai/jobs/info/67abc123b49f478416c66643?utm_campaign=1053&utm_source=git)** | Columbus Campus | On Site | Feb 11 |
 | ↳ | **[Exhibitions Archivist Intern, Wexner Center for the Arts](https://jobright.ai/jobs/info/67abc123b49f478416c665eb?utm_campaign=1053&utm_source=git)** | Columbus Campus | On Site | Feb 11 |
 | **[Allen County Public Library](https://acpl.lib.in.us)** | **[Teen Reader - Team Read 2025](https://jobright.ai/jobs/info/67abd4cef789d3e22018ff1b?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Feb 11 |
+| **[Knights ](https://knights.gg)** | **[Video Production Associate (FT/Post Graduate Intern)](https://jobright.ai/jobs/info/67abecd187795a764d3c1749?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 11 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[Golf Course Maintenance Intern - Summer 2025](https://jobright.ai/jobs/info/67abcc5702c068d19c7fa11b?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Feb 11 |
 | **[Indy Eleven Professional Soccer](https://www.indyeleven.com)** | **[Video Production Internship (SUMMER 2025)](https://jobright.ai/jobs/info/67abcc5702c068d19c7fa11c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 11 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Live Productions (Summer 2025)](https://jobright.ai/jobs/info/67ababe462a39798501bb19a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 11 |
@@ -71,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Our Daily Bread Ministries](https://odb.org/)** | **[Visual Media Intern (Associate Producer & Editor)-PT](https://jobright.ai/jobs/info/67ab7c9ebbf50c732ada8270?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Feb 11 |
 | ↳ | **[Audio Media Internship (Podcast)-PT](https://jobright.ai/jobs/info/67ab7c9ebbf50c732ada8213?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Feb 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Searchlight Pictures Development Intern, Summer 2025](https://jobright.ai/jobs/info/67ab7e60a208514e46dc3e4e?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 11 |
-| ↳ | **[Disney Branded Television Original Movies Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ab7e60a208514e46dc3e63?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 11 |
 | ↳ | **[Disney Television Animation Production Admin Intern, Summer 2025](https://jobright.ai/jobs/info/67ab7e60a208514e46dc3e52?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 11 |
+| ↳ | **[Disney Branded Television Original Movies Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ab7e60a208514e46dc3e63?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 11 |
 | ↳ | **[National Geographic Video Intern, Summer 2025](https://jobright.ai/jobs/info/67ab8e16448ee698a1c159ef?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 11 |
 | **[Kubota Tractor Corporation](https://linktr.ee/kubotausa)** | **[Journalism Intern](https://jobright.ai/jobs/info/67aa5dabd63508312308deb2?utm_campaign=1053&utm_source=git)** | Grapevine, TX | On Site | Feb 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Junior Original Programming Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ab72dc8f30361012920c5c?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 11 |
@@ -106,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Godfrey Dadich Partners](https://www.godfreydadich.com/)** | **[Video Intern [Summer]](https://jobright.ai/jobs/info/67aa99626419143aed24263f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Feb 10 |
 | ↳ | **[Editorial Intern [Summer]](https://jobright.ai/jobs/info/67aa99626419143aed24268e?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Feb 10 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Media Student Actor](https://jobright.ai/jobs/info/67aa9e880b656a667d3d8fcc?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Feb 10 |
-| **[Allen County Public Library](https://acpl.lib.in.us)** | **[Teen Reader - Team Read 2025](https://jobright.ai/jobs/info/67aa7ce42388250388b9b4a5?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | Feb 10 |
+| **[Allen County Public Library](https://acpl.lib.in.us)** | **[Teen Reader - Team Read 2025](https://jobright.ai/jobs/info/67aa99626419143aed2427d4?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | Feb 10 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Summer - Event Operations](https://jobright.ai/jobs/info/67aa76e7282416148e1d25fb?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Feb 10 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2025 Orbit Internship](https://jobright.ai/jobs/info/67aa746caf7eda6156b0989c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 10 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SUMMER '25 - WKYT](https://jobright.ai/jobs/info/67aa6ab9746b52c4d6bcd5fa?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Feb 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ann Arbor SPARK](http://www.annarborusa.org/)** | **[Marquee Arts: Cinetopia Film Festival Internship](https://jobright.ai/jobs/info/67a6a9ad6843194e26464b05?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Intern](https://jobright.ai/jobs/info/664e2071b45b688e7b70fba9?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Feb 07 |
 | ↳ | **[Unpaid News Internship](https://jobright.ai/jobs/info/67a68b7b178b11a0f93835ae?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 07 |
-| **[CELINE](https://www.celine.com)** | **[VIP INTERN - SUMMER 2025](https://jobright.ai/jobs/info/67a68265e637700e388e521e?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Feb 07 |
-| **[University of Arkansas](http://uark.edu)** | **[Acquisitions Intern - UA Press](https://jobright.ai/jobs/info/67a68bb33c30ca8d3d9e1fcf?utm_campaign=1053&utm_source=git)** | Fayetteville, AR | On Site | Feb 07 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Intern](https://jobright.ai/jobs/info/67a67bbdc7b2e2d2ddb47162?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | Feb 07 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING/SUMMER '25 - WDTV](https://jobright.ai/jobs/info/67a6892a16aa6dfe3b49cf92?utm_campaign=1053&utm_source=git)** | Bridgeport, WV | On Site | Feb 07 |
-| ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SUMMER '25 - WCAX](https://jobright.ai/jobs/info/67a6812d54f349bcf1941060?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | Feb 07 |
-| ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SUMMER '25 - WBAY](https://jobright.ai/jobs/info/67a6812d54f349bcf1941066?utm_campaign=1053&utm_source=git)** | Green Bay, WI | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
