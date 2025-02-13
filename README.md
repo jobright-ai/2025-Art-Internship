@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Intern Cook - Ironwood American Kitchen](https://jobright.ai/jobs/info/67adec89369aac0736b6cb9b?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Feb 13 |
+| ↳ | **[Cook (General), Internship](https://jobright.ai/jobs/info/67adec89369aac0736b6cbcd?utm_campaign=1053&utm_source=git)** | Kohala, HI | On Site | Feb 13 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/67adf56a731fb564700b6aee?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[Wayfair](https://www.wayfair.com)** | **[Video Content Creator Co-op - July 2025](https://jobright.ai/jobs/info/67adafbd39d579bd27a88129?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Content & Editorial Internship, Summer/Fall 2025](https://jobright.ai/jobs/info/67adac6306cc203985092987?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[National Geographic Programming and Content Planning Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ad80058bcc7ac54c5f5d2e?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 12 |
@@ -70,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern (Fall 2025) - Los Angeles, Orange County, San Diego](https://jobright.ai/jobs/info/67ad3b9f17f43fabb72525f2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 12 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, Theater](https://jobright.ai/jobs/info/67ad0e65a81a091bca2019c2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Digital Archivist Intern](https://jobright.ai/jobs/info/67ad06477f608ac85d3f3c8c?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Feb 12 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Operations Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698e78?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
-| ↳ | **[Podcast Production Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698e7c?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698e77?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
+| ↳ | **[Podcast Operations Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698e78?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
 | **[NEOGOV](http://www.neogov.com)** | **[Forest Park Museum Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698dba?utm_campaign=1053&utm_source=git)** | Perry, IA | On Site | Feb 12 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Operations Intern](https://jobright.ai/jobs/info/67ad076667f67e2f336efdbc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | ↳ | **[Podcast Production Intern](https://jobright.ai/jobs/info/67ad076667f67e2f336efe07?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 12 |
@@ -90,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Cars Commerce](http://cars.com)** | **[Editorial News Intern](https://jobright.ai/jobs/info/67acec7eaea7bba132e5552d?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Feb 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/67acb98fd5494a77c14a9a04?utm_campaign=1053&utm_source=git)** | Johnson City, TN | On Site | Feb 12 |
 | **[HubSpot](http://www.hubspot.com)** | **[Global Events Production Co-op - Fall 2025 ](https://jobright.ai/jobs/info/67acadd3d2d39a208e072c3c?utm_campaign=1053&utm_source=git)** | Flex - Cambridge, Massachusetts · Remote - USA | Remote | Feb 12 |
-| **[Humane Society International](http://hsi.org)** | **[Intern, Animal Caregiver, Black Beauty Ranch - Spring '25](https://jobright.ai/jobs/info/67acaaeb65d7d9b462a7a7ce?utm_campaign=1053&utm_source=git)** | Murchison, TX | On Site | Feb 12 |
+| **[Humane World for Animals](http://hsi.org)** | **[Intern, Animal Caregiver, Black Beauty Ranch - Spring '25](https://jobright.ai/jobs/info/67acaaeb65d7d9b462a7a7ce?utm_campaign=1053&utm_source=git)** | Murchison, TX | On Site | Feb 12 |
 | **[The Transmitter](https://spectrumnews.org/)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/67908e4936493d01dddfdf55?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Summer 2025 Editorial Intern](https://jobright.ai/jobs/info/677f6c147bd4dfea0cda8ff6?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 12 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136aab?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Feb 12 |
@@ -120,10 +123,10 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[EnglishConnect Video Editor - BYU-Pathway Worldwide (Full-time, Intern)](https://jobright.ai/jobs/info/67ab9882896d58016d2f1986?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Feb 11 |
 | **[U.S. News & World Report](http://www.usnews.com/)** | **[Editorial 2025 Summer Intern, Branded Content](https://jobright.ai/jobs/info/67aba4a9465ec2c5228d25b6?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b17?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Feb 11 |
-| **[Our Daily Bread Ministries](https://odb.org/)** | **[Audio Media Internship (Podcast)-PT](https://jobright.ai/jobs/info/67ab7c9ebbf50c732ada8213?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Feb 11 |
-| ↳ | **[Visual Media Intern (Associate Producer & Editor)-PT](https://jobright.ai/jobs/info/67ab7c9ebbf50c732ada8270?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Feb 11 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Branded Television Original Movies Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ab7e60a208514e46dc3e63?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 11 |
-| ↳ | **[Disney Television Animation Production Admin Intern, Summer 2025](https://jobright.ai/jobs/info/67ab7e60a208514e46dc3e52?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 11 |
+| **[Our Daily Bread Ministries](https://odb.org/)** | **[Visual Media Intern (Associate Producer & Editor)-PT](https://jobright.ai/jobs/info/67ab7c9ebbf50c732ada8270?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Feb 11 |
+| ↳ | **[Audio Media Internship (Podcast)-PT](https://jobright.ai/jobs/info/67ab7c9ebbf50c732ada8213?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Feb 11 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Television Animation Production Admin Intern, Summer 2025](https://jobright.ai/jobs/info/67ab7e60a208514e46dc3e52?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 11 |
+| ↳ | **[Disney Branded Television Original Movies Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ab7e60a208514e46dc3e63?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 11 |
 | ↳ | **[National Geographic Video Intern, Summer 2025](https://jobright.ai/jobs/info/67ab8e16448ee698a1c159ef?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 11 |
 | ↳ | **[Disney Junior Original Programming Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ab72dc8f30361012920c5c?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 11 |
 | ↳ | **[Disney Television Animation Creative Production Intern, Summer 2025](https://jobright.ai/jobs/info/67ab72dc8f30361012920c4f?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 11 |
@@ -132,6 +135,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Disney Live Entertainment Costume Buying Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ab5b9f171413ed69f9ffc6?utm_campaign=1053&utm_source=git)** | Orlando, FL, USA | On Site | Feb 11 |
 | ↳ | **[Disney Live Entertainment Show Control Design  Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ab4d6f67b603e5f2eaab74?utm_campaign=1053&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 11 |
 | **[LOGAN Community Resources, Inc.](https://www.logancenter.org)** | **[NOSE-ON INTERN](https://jobright.ai/jobs/info/67ab5d9bac5ac4245627aabf?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Feb 11 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Production Intern](https://jobright.ai/jobs/info/66d00ae377d1f6b860b590e2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 11 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67ab00235d34f12463b0055d?utm_campaign=1053&utm_source=git)** | Charleston, SC | On Site | Feb 10 |
 | ↳ | **[Summer News Intern](https://jobright.ai/jobs/info/67ab0b3212b9c87e96e9be43?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Feb 10 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Corporate Communications, Video & Social Media Editor](https://jobright.ai/jobs/info/67ac57de7a4cbee0ca9254ff?utm_campaign=1053&utm_source=git)** | Omaha, NE | Hybrid | Feb 10 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67aaa9ee8ffc55bdd59ae64b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 10 |
 | ↳ | **[Full Time Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67aaa9ee8ffc55bdd59ae65f?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 10 |
 | ↳ | **[Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/67aaa9ee8ffc55bdd59ae63f?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 10 |
-| ↳ | **[Paid Intern - Print and Fine Arts](https://jobright.ai/jobs/info/67aaa9ee8ffc55bdd59ae659?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 10 |
 | ↳ | **[Paid Intern – Liahona Digital Content Writer/Creator](https://jobright.ai/jobs/info/67aaa9ee8ffc55bdd59ae64c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 10 |
+| ↳ | **[Paid Intern - Print and Fine Arts](https://jobright.ai/jobs/info/67aaa9ee8ffc55bdd59ae659?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 10 |
 | **[Hill International, Inc.](http://hillintl.com)** | **[Intern](https://jobright.ai/jobs/info/67aa9a68725f1dcc71eec44d?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Feb 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67aa9a68725f1dcc71eec42e?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, United States | On Site | Feb 10 |
-| **[Godfrey Dadich Partners](https://www.godfreydadich.com/)** | **[Video Intern [Summer]](https://jobright.ai/jobs/info/67aa99626419143aed24263f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Feb 10 |
-| ↳ | **[Editorial Intern [Summer]](https://jobright.ai/jobs/info/67aa99626419143aed24268e?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Feb 10 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Media Student Actor](https://jobright.ai/jobs/info/67aa9e880b656a667d3d8fcc?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
