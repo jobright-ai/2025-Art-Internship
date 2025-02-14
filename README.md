@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Manager Intern (TikTok LIVE - AMS) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67af14f8fb95281f0b44f02e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Community Engagement Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67af07185a6d092b1ab78e15?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Feb 14 |
 | ↳ | **[KABC-TV (ABC7) Assignment Desk Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67af07185a6d092b1ab78e9a?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Feb 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Manager Intern (TikTok LIVE - AMS) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67aeead58603b802056e94f3?utm_campaign=1053&utm_source=git)** | Los Angeles | On Site | Feb 13 |
@@ -100,19 +101,20 @@ For a complete list, click the following sortable link below:
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67ad81a53b84aa2b355a7c32?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Feb 12 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25- KBTX](https://jobright.ai/jobs/info/67ad648c27b6d39005278504?utm_campaign=1053&utm_source=git)** | Bryan, TX | On Site | Feb 12 |
 | **[Prison Fellowship](http://www.prisonfellowship.org)** | **[Writer/Editor Summer Intern](https://jobright.ai/jobs/info/67ad4be91018ac8dcaa4b9c3?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 12 |
+| **[Westminster University](http://westminsteru.edu)** | **[S/L - Theatre: Scene Shop Tech](https://jobright.ai/jobs/info/67af26713972840ba77356ae?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 12 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Summer - Game Presentation & Entertainment](https://jobright.ai/jobs/info/67ad43b442046ac9b7e2bcdf?utm_campaign=1053&utm_source=git)** | Harrison, NJ | Hybrid | Feb 12 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Theater](https://jobright.ai/jobs/info/67ad3b9f17f43fabb7252538?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern (Fall 2025) - Los Angeles, Orange County, San Diego](https://jobright.ai/jobs/info/67ad3b9f17f43fabb72525f2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 12 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, Theater](https://jobright.ai/jobs/info/67ad0e65a81a091bca2019c2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Digital Archivist Intern](https://jobright.ai/jobs/info/67ad06477f608ac85d3f3c8c?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Feb 12 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Operations Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698d02?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
-| ↳ | **[Podcast Production Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698cf9?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698e77?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
+| ↳ | **[Podcast Operations Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698e78?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
 | **[NEOGOV](http://www.neogov.com)** | **[Forest Park Museum Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698dba?utm_campaign=1053&utm_source=git)** | Perry, IA | On Site | Feb 12 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Operations Intern](https://jobright.ai/jobs/info/67ad076667f67e2f336efdbc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | ↳ | **[Podcast Production Intern](https://jobright.ai/jobs/info/67ad076667f67e2f336efe07?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[Paramount](https://www.paramount.com)** | **[THE LATE SHOW WITH STEPHEN COLBERT - SUMMER 2025 INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/67ad06477f608ac85d3f3cba?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 12 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WHNS](https://jobright.ai/jobs/info/67ad076667f67e2f336efda4?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Feb 12 |
-| ↳ | **[GRAY TELEVISION FUTURE FOCUS INTERN SUMMER '25 - KFDA](https://jobright.ai/jobs/info/67ad076667f67e2f336efda3?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Feb 12 |
+| **[Gray Media](http://www.gray.tv)** | **[GRAY TELEVISION FUTURE FOCUS INTERN SUMMER '25 - KFDA](https://jobright.ai/jobs/info/67ad076667f67e2f336efda3?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Feb 12 |
+| ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25 - WHNS](https://jobright.ai/jobs/info/67ad076667f67e2f336efda4?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Feb 12 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Culinary Internship](https://jobright.ai/jobs/info/67ada7cbfdb6f67343041bc1?utm_campaign=1053&utm_source=git)** | Jackson, NJ | On Site | Feb 12 |
 | ↳ | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.50/HR](https://jobright.ai/jobs/info/67ace5f2868690c0fbd3c77a?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Feb 12 |
 | ↳ | **[Entertainment Technician Internship - $15/HR](https://jobright.ai/jobs/info/67ace5f2868690c0fbd3c780?utm_campaign=1053&utm_source=git)** | Gurnee, IL | On Site | Feb 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Green Bay Packers](http://www.packers.com/)** | **[Titletown Events & Programs Intern](https://jobright.ai/jobs/info/67ab9d16729bff04ca960722?utm_campaign=1053&utm_source=git)** | 1265 Lombardi Ave, Green Bay, WI 54304, USA | On Site | Feb 11 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[EnglishConnect Video Editor - BYU-Pathway Worldwide (Full-time, Intern)](https://jobright.ai/jobs/info/67ab9882896d58016d2f1986?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Feb 11 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b17?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Feb 11 |
-| **[Our Daily Bread Ministries](https://odb.org/)** | **[Audio Media Internship (Podcast)-PT](https://jobright.ai/jobs/info/67ab7c9ebbf50c732ada8213?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Feb 11 |
-| ↳ | **[Visual Media Intern (Associate Producer & Editor)-PT](https://jobright.ai/jobs/info/67ab7c9ebbf50c732ada8270?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
