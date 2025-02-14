@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Springer Nature](https://group.springernature.com/)** | **[News Intern, Scientific American](https://jobright.ai/jobs/info/67ae7b33418f6050be456e99?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Feb 13 |
+| **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Costume Internship – Summer 2025](https://jobright.ai/jobs/info/67ae7fb9b4f1f53b5bfb6995?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Feb 13 |
+| **[Seton Hall University](http://www.shu.edu/)** | **[Student Assistant - WSOU Community Programming Producer 2024/25](https://jobright.ai/jobs/info/67ae8191b4f1f53b5bfb6ecd?utm_campaign=1053&utm_source=git)** | South Orange, NJ | On Site | Feb 13 |
+| **[charity: water](http://www.charitywater.org)** | **[The Experience Lab Intern (Onsite, Greater Nashville Area)](https://jobright.ai/jobs/info/67ae7fb9b4f1f53b5bfb6a09?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Feb 13 |
+| **[Erickson Senior Living](https://www.ericksonseniorliving.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/67ae6e3bf2925bf8cac35444?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Feb 13 |
+| **[Blumhouse](http://Blumhouse.com)** | **[Development Internship - Film](https://jobright.ai/jobs/info/67ae76b0c2b0924007b2646d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
+| **[tastytrade](https://tastytrade.com)** | **[Live Content Show Operations Intern](https://jobright.ai/jobs/info/67ae76b0c2b0924007b264cf?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/67ae630f10b15bc12cb0f7d6?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Feb 13 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Classics - Summer 2025](https://jobright.ai/jobs/info/67ae6456653aa864e7bd4bcf?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Feb 13 |
+| **[Detroit Lions](http://www.detroitlions.com)** | **[Video Intern](https://jobright.ai/jobs/info/67ae58e6798c1aca6ce0c66d?utm_campaign=1053&utm_source=git)** | Allen Park, MI | On Site | Feb 13 |
 | **[charity: water](http://www.charitywater.org)** | **[The Experience Lab Intern (Onsite, Greater Nashville Area)](https://jobright.ai/jobs/info/67ae2cc20a427d8a90928010?utm_campaign=1053&utm_source=git)** | Nashville, Tennessee | On Site | Feb 13 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Editorial Services Summer Intern](https://jobright.ai/jobs/info/67ae2b8e27c3c2d19fc298d3?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 13 |
 | **[Racepoint Global](http://www.racepointglobal.com)** | **[Summer Intern](https://jobright.ai/jobs/info/67ae2467cdcbfa5eb50c6ccf?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 13 |
@@ -77,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern (Fall 2025) - Los Angeles, Orange County, San Diego](https://jobright.ai/jobs/info/67ad3b9f17f43fabb72525f2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 12 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, Theater](https://jobright.ai/jobs/info/67ad0e65a81a091bca2019c2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Digital Archivist Intern](https://jobright.ai/jobs/info/67ad06477f608ac85d3f3c8c?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Feb 12 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698cf9?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
-| ↳ | **[Podcast Operations Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698e7a?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Operations Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698e7a?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
+| ↳ | **[Podcast Production Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698e7c?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
 | **[NEOGOV](http://www.neogov.com)** | **[Forest Park Museum Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698dba?utm_campaign=1053&utm_source=git)** | Perry, IA | On Site | Feb 12 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Operations Intern](https://jobright.ai/jobs/info/67ad076667f67e2f336efdbc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | ↳ | **[Podcast Production Intern](https://jobright.ai/jobs/info/67ad076667f67e2f336efe07?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 12 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[George P Johnson Experience Marketing](https://www.gpj.com)** | **[GPJ 2025 Ignite Coordinators - Production Artist](https://jobright.ai/jobs/info/67ab168705c21060d4d28585?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Feb 10 |
 | **[Maharishi International University](https://www.miu.edu/)** | **[FWS Art Gallery Assistant - Spring 2025](https://jobright.ai/jobs/info/67adfd7cceb3207acef1c623?utm_campaign=1053&utm_source=git)** | Fairfield, IA | On Site | Feb 10 |
 | **[U.S. News & World Report](http://www.usnews.com/)** | **[Health Editorial Summer 2025 Intern](https://jobright.ai/jobs/info/67aae934a27a6f67c81afa68?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
-| ↳ | **[Money Editorial 2025 Summer Intern](https://jobright.ai/jobs/info/67aae934a27a6f67c81afa60?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
-| ↳ | **[Travel Editorial 2025 Summer Intern](https://jobright.ai/jobs/info/67aae934a27a6f67c81afa81?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
-| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67aae4424f3d707c9f9c266f?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Feb 10 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Broadcast Internship (NYSBA)](https://jobright.ai/jobs/info/67aac115fd3e617919141d48?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Feb 10 |
-| **[Steve Madden](http://www.stevemadden.com/)** | **[Summer Intern, Production - SM Apparel](https://jobright.ai/jobs/info/67aab5545aa61ce950a0d0d9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 10 |
-| ↳ | **[Summer Intern, Madden Girl Production](https://jobright.ai/jobs/info/67aab5545aa61ce950a0d2c4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 10 |
-| ↳ | **[Summer Intern, Footwear Production](https://jobright.ai/jobs/info/67aabba847e257b8d0860ddd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 10 |
-| **[GoodTalk](https://cinematicworldwide.com)** | **[Social Media & Content Producer Intern](https://jobright.ai/jobs/info/67aab408597416200522a37b?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Feb 10 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[HBO & Max West Coast Production Intern: LA - Summer 2025](https://jobright.ai/jobs/info/67aab1f800a8980b757830de?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Feb 10 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - The Friend Digital Messaging (Church Magazines)](https://jobright.ai/jobs/info/67aaa9ee8ffc55bdd59ae652?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
