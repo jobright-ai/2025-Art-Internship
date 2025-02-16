@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Feb 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Community Engagement Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b0d20c426b47b30c72b949?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 15 |
 | **[GBH](http://www.wgbh.org/)** | **[The Forum Network Internship - Summer 2025](https://jobright.ai/jobs/info/679aa8c9ca2d24a30e1f7323?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Assignment Desk Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b0d20c426b47b30c72b952?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 15 |
@@ -105,9 +106,9 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Content & Editorial Internship, Summer/Fall 2025](https://jobright.ai/jobs/info/67af71d959b3abcadb8d5e1c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 14 |
 | ↳ | **[National Geographic Programming and Content Planning Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67af7b8acb2c5fd5456bacba?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 14 |
 | **[University of Michigan](https://www.umich.edu)** | **[STAGEHAND (STUDENT/WORKSTUDY)](https://jobright.ai/jobs/info/67af621c0091b888bd799974?utm_campaign=1053&utm_source=git)** | Flint, MI | On Site | Feb 14 |
-| **[dentsu](https://www.dentsu.com)** | **[Production Summer Internship (Paid) - Integrated & Experiential](https://jobright.ai/jobs/info/67af4f8c57ddeb887fad6dea?utm_campaign=1053&utm_source=git)** | New York | On Site | Feb 14 |
-| ↳ | **[Production Summer Internship (Paid) - Integrated & Experiential](https://jobright.ai/jobs/info/67af4f8c57ddeb887fad6de9?utm_campaign=1053&utm_source=git)** | San Francisco - California St | On Site | Feb 14 |
+| **[dentsu](https://www.dentsu.com)** | **[Production Summer Internship (Paid) - Integrated & Experiential](https://jobright.ai/jobs/info/67af4f8c57ddeb887fad6de9?utm_campaign=1053&utm_source=git)** | San Francisco - California St | On Site | Feb 14 |
 | ↳ | **[Production Summer Internship (Paid) - Integrated & Experiential](https://jobright.ai/jobs/info/67af4d3c57ddeb887fad62a9?utm_campaign=1053&utm_source=git)** | Chicago - N. State | On Site | Feb 14 |
+| ↳ | **[Production Summer Internship (Paid) - Integrated & Experiential](https://jobright.ai/jobs/info/67af4f8c57ddeb887fad6dea?utm_campaign=1053&utm_source=git)** | New York | On Site | Feb 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Manager Intern (TikTok LIVE - AMS) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67af14f8fb95281f0b44f02e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Community Engagement Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67af07185a6d092b1ab78e15?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Feb 14 |
 | ↳ | **[KABC-TV (ABC7) Assignment Desk Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67af07185a6d092b1ab78e9a?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Feb 14 |
@@ -133,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Fellow, Video](https://jobright.ai/jobs/info/67ae8b77daf9fb9eb02cef55?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 13 |
 | **[Blumhouse](http://Blumhouse.com)** | **[Development Internship - Film](https://jobright.ai/jobs/info/67ae76b0c2b0924007b2646d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
 | **[tastytrade](https://tastytrade.com)** | **[Live Content Show Operations Intern](https://jobright.ai/jobs/info/67ae76b0c2b0924007b264cf?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/67ae630f10b15bc12cb0f7d6?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Feb 13 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Classics - Summer 2025](https://jobright.ai/jobs/info/67ae6456653aa864e7bd4bcf?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Feb 13 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Video Intern](https://jobright.ai/jobs/info/67ae58e6798c1aca6ce0c66d?utm_campaign=1053&utm_source=git)** | Allen Park, MI | On Site | Feb 13 |
 | **[charity: water](http://www.charitywater.org)** | **[The Experience Lab Intern (Onsite, Greater Nashville Area)](https://jobright.ai/jobs/info/67ae2cc20a427d8a90928010?utm_campaign=1053&utm_source=git)** | Nashville, Tennessee | On Site | Feb 13 |
@@ -146,13 +148,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cook (General), Internship](https://jobright.ai/jobs/info/67adec89369aac0736b6cbcd?utm_campaign=1053&utm_source=git)** | Kohala, HI | On Site | Feb 13 |
 | **[Wayfair](https://www.wayfair.com)** | **[Video Content Creator Co-op - July 2025](https://jobright.ai/jobs/info/67adafbd39d579bd27a88129?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Content & Editorial Internship, Summer/Fall 2025](https://jobright.ai/jobs/info/67adac6306cc203985092987?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Feb 13 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern 2025 - 1010 WINS](https://jobright.ai/jobs/info/67b06c831ab8f57d2c77d40c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[National Geographic Programming and Content Planning Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ad80058bcc7ac54c5f5d2e?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 12 |
 | **[American University](http://american.edu)** | **[Gallery Attendant (Student)](https://jobright.ai/jobs/info/67ad81a53b84aa2b355a788b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Feb 12 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67ad81a53b84aa2b355a7c32?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Feb 12 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SPRING '25- KBTX](https://jobright.ai/jobs/info/67ad648c27b6d39005278504?utm_campaign=1053&utm_source=git)** | Bryan, TX | On Site | Feb 12 |
 | **[Prison Fellowship](http://www.prisonfellowship.org)** | **[Writer/Editor Summer Intern](https://jobright.ai/jobs/info/67ad4be91018ac8dcaa4b9c3?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 12 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/67af1d974c52b7c9021f15f3?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Feb 12 |
 | **[Westminster University](http://westminsteru.edu)** | **[S/L - Theatre: Scene Shop Tech](https://jobright.ai/jobs/info/67af26713972840ba77356ae?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 12 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Summer - Game Presentation & Entertainment](https://jobright.ai/jobs/info/67ad43b442046ac9b7e2bcdf?utm_campaign=1053&utm_source=git)** | Harrison, NJ | Hybrid | Feb 12 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Theater](https://jobright.ai/jobs/info/67ad3b9f17f43fabb7252538?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 12 |
