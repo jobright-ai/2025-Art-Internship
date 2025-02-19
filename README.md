@@ -67,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[OUTRIGGER Hospitality Group](http://www.outrigger.com.au)** | **[Culinary Student Intern](https://jobright.ai/jobs/info/67b52b0461991622fc34d0f6?utm_campaign=1053&utm_source=git)** | HAWAII, Kona, Kailua-Kona | On Site | Feb 18 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Summer 2025](https://jobright.ai/jobs/info/67b51409bab3355a7c8ee1ed?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 18 |
 | **[Starz](http://www.starz.com/)** | **[Intern, Program Planning & Reporting](https://jobright.ai/jobs/info/67b51b2c9946ce42853808b5?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | Hybrid | Feb 18 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Summer 2025](https://jobright.ai/jobs/info/67b4fd6513e85c4553c4b54e?utm_campaign=1053&utm_source=git)** | Boston | On Site | Feb 18 |
+| **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Summer 2025](https://jobright.ai/jobs/info/67b4fd6513e85c4553c4b7ba?utm_campaign=1053&utm_source=git)** | Boston | On Site | Feb 18 |
 | **[Condé Nast](http://www.condenast.com)** | **[Video Content Operations Intern](https://jobright.ai/jobs/info/67b4f9701fe5386b2276cae4?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | On Site | Feb 18 |
 | ↳ | **[Editorial Intern, Allure & SELF](https://jobright.ai/jobs/info/67b4f9701fe5386b2276caf9?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | On Site | Feb 18 |
 | ↳ | **[Editorial Intern, Bon Appétit](https://jobright.ai/jobs/info/67b4f9701fe5386b2276caed?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | On Site | Feb 18 |
@@ -146,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Community Engagement Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b0d20c426b47b30c72b949?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 15 |
 | **[GBH](http://www.wgbh.org/)** | **[The Forum Network Internship - Summer 2025](https://jobright.ai/jobs/info/679aa8c9ca2d24a30e1f7323?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Assignment Desk Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b0d20c426b47b30c72b952?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 15 |
-| **[University of Richmond](http://www.richmond.edu/)** | **[Culinary Arts Intern (Dining Services) - 501003](https://jobright.ai/jobs/info/67b0def352274c64beb6f2a1?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Feb 15 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Fred Young Fellowship](https://jobright.ai/jobs/info/6693b635a955ace455aa3bbf?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Feb 15 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/67204cc6c572d46b14cd2587?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/673bb41e23a3d19e9a268b81?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Feb 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Medina Country Club Golf Operations Academy Intern](https://jobright.ai/jobs/info/66c378853df2e299c0adc250?utm_campaign=1053&utm_source=git)** | Medina, OH | On Site | Feb 15 |
 | **[C.H. Guenther & Son](http://www.chg.com)** | **[Culinary R&D Intern - CH Guenther & Son](https://jobright.ai/jobs/info/67b0a20f123da9642df8506f?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Feb 15 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6794988eaf2baddc639b66e2?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Feb 15 |
+| ↳ | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/6787bd52bfcaad578c0a284c?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
