@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Studio Casting Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b540415d0d5be7e5849ad8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Feb 18 |
+| **[OUTRIGGER Hospitality Group](http://www.outrigger.com.au)** | **[Culinary Student Intern](https://jobright.ai/jobs/info/67b52b0461991622fc34d0f6?utm_campaign=1053&utm_source=git)** | HAWAII, Kona, Kailua-Kona | On Site | Feb 18 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Summer 2025](https://jobright.ai/jobs/info/67b51409bab3355a7c8ee1ed?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Feb 18 |
 | **[Starz](http://www.starz.com/)** | **[Intern, Program Planning & Reporting](https://jobright.ai/jobs/info/67b51b2c9946ce42853808b5?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | Hybrid | Feb 18 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Summer 2025](https://jobright.ai/jobs/info/67b4fd6513e85c4553c4b54e?utm_campaign=1053&utm_source=git)** | Boston | On Site | Feb 18 |
+| **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Summer 2025](https://jobright.ai/jobs/info/67b4fd6513e85c4553c4b7ba?utm_campaign=1053&utm_source=git)** | Boston | On Site | Feb 18 |
 | **[Condé Nast](http://www.condenast.com)** | **[Video Content Operations Intern](https://jobright.ai/jobs/info/67b4f9701fe5386b2276cae4?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | On Site | Feb 18 |
 | ↳ | **[Editorial Intern, Bon Appétit](https://jobright.ai/jobs/info/67b4f9701fe5386b2276caed?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | On Site | Feb 18 |
 | ↳ | **[Editorial Intern, Allure & SELF](https://jobright.ai/jobs/info/67b4f9701fe5386b2276caf9?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | On Site | Feb 18 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Field Production/Technical Operations Intern: DC - Summer 2025](https://jobright.ai/jobs/info/6797d145958a808d33326b1c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67988c2f44085fedc25732ff?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | Feb 18 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[On-Deck Summer Internship - HR, Work Of Change](https://jobright.ai/jobs/info/67b41c58832bba3c241aa255?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
+| **[Wintergreen Resort](http://www.wintergreenresort.com/)** | **[GOLF - Intern, Golf](https://jobright.ai/jobs/info/67b55134b1725a3f4dba4265?utm_campaign=1053&utm_source=git)** | Nellysford, VA | On Site | Feb 17 |
 | **[FOX 47 (WSYM)](https://www.fox47news.com)** | **[Summer News Intern, WSYM](https://jobright.ai/jobs/info/67b3e42576567368e70eb919?utm_campaign=1053&utm_source=git)** | Greater Lansing | On Site | Feb 17 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Summer News Intern, WSYM](https://jobright.ai/jobs/info/67b3b52a3a7d5c2a2257b90f?utm_campaign=1053&utm_source=git)** | Lansing, MI - WSYM | On Site | Feb 17 |
 | **[University of Michigan](https://www.umich.edu)** | **[Shakespeare in the Arb Production Assistant Intern](https://jobright.ai/jobs/info/67b05d4caa1cc6fe657bfb0d?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | On Site | Feb 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762e84b376ef29750cc4d1f?utm_campaign=1053&utm_source=git)** | Kenosha, WI | On Site | Feb 15 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Print and Fine Arts](https://jobright.ai/jobs/info/67aaa9ee8ffc55bdd59ae659?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI - TV (6abc) News Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b022fec6085cccff78f453?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Feb 14 |
-| ↳ | **[WPVI-TV (6abc) Multiplatform Programming Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b02055a9b75509292f838a?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Feb 14 |
-| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Fellow, Video](https://jobright.ai/jobs/info/67b0354a1bbea9132f88d04a?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 14 |
-| **[Cotton Holdings Inc.](https://cottonholdings.com)** | **[Culinary Summer Internship](https://jobright.ai/jobs/info/67b05d4caa1cc6fe657bf78e?utm_campaign=1053&utm_source=git)** | Katy, TX | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
