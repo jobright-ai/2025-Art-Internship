@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Slate Magazine](http://www.slate.com)** | **[Summer 2025 Editorial Intern, Advice](https://jobright.ai/jobs/info/67be6f66a26f73013ec7aed9?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia | Hybrid | Feb 25 |
+| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Multimedia Services Intern](https://jobright.ai/jobs/info/67be78f9ac04acdcaae0a5f8?utm_campaign=1053&utm_source=git)** | Peoria, IL | On Site | Feb 25 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Event Production Intern - Summer 2025](https://jobright.ai/jobs/info/67be663da4a8d1448bb635fb?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Feb 25 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Physical Production Intern, SPT – Summer 2025](https://jobright.ai/jobs/info/67be4ef2c86ddff6e877f8d2?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Feb 25 |
 | **[Springer Nature](https://group.springernature.com/)** | **[Newsletter and Engagement Intern, Scientific American](https://jobright.ai/jobs/info/67be424765ad90ce2a07b0d0?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Feb 25 |
 | **[Conewago Enterprises Inc](http://conewago.com)** | **[Co-Op/Internship](https://jobright.ai/jobs/info/67be55d9020e15024df9f422?utm_campaign=1053&utm_source=git)** | Hanover, PA | On Site | Feb 25 |
 | **[NEOGOV](http://www.neogov.com)** | **[Video Content Creator - Internship](https://jobright.ai/jobs/info/67be424765ad90ce2a07b0be?utm_campaign=1053&utm_source=git)** | Municipal Center - Apple Valley, MN | On Site | Feb 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Original Programming Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67be424765ad90ce2a07b0d5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Feb 25 |
-| **[Churchill Downs Incorporated](http://www.churchilldownsincorporated.com)** | **[Backstretch Activities Intern](https://jobright.ai/jobs/info/67be4a19cb48effd4b171673?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Feb 25 |
 | **[Baltimore Country Club](http://bcc1898.com)** | **[Food & Beverage Internship (Summer 2025)](https://jobright.ai/jobs/info/67be41e53dc4fea871f7ac27?utm_campaign=1053&utm_source=git)** | Mays Chapel, MD | On Site | Feb 25 |
 | **[Terex Corporation](http://www.terex.com)** | **[Videographer Intern, Chattanooga](https://jobright.ai/jobs/info/67be28d0a4227fe6bd5c238a?utm_campaign=1053&utm_source=git)** | USA, TN, Chattanooga | On Site | Feb 25 |
 | **[Little Caesars Pizza](http://littlecaesars.com/)** | **[Event Production Assistant / Intern (Summer / Seasonal)](https://jobright.ai/jobs/info/67be191af36025d5e93502e4?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Feb 25 |
@@ -119,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[DC Comics Business Affairs Intern: LA - Summer 2025](https://jobright.ai/jobs/info/679c3911c4fea47eabb8c44b?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Feb 21 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6732ce4b3a5a342bf4e88cd3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Feb 21 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Culture & Colleague Experience](https://jobright.ai/jobs/info/67b9450bea9b1274cf490e7b?utm_campaign=1053&utm_source=git)** | Jericho, NY | On Site | Feb 21 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646ae?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Feb 21 |
 | **[Tennessee Titans](http://www.titansonline.com)** | **[Stadium Experience Intern (Summer 2025)](https://jobright.ai/jobs/info/67b921f33b2328fdd919f85d?utm_campaign=1053&utm_source=git)** | NISSAN STADIUM, Nashville, Tennessee, United States of America | On Site | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment  Costume Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b91c3e3140ee960eb483d1?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Feb 21 |
 | ↳ | **[Disney Live Entertainment Costume Development Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b91c3e3140ee960eb483d6?utm_campaign=1053&utm_source=git)** | Orlando, FL, USA | On Site | Feb 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Fellow, Prop Styling](https://jobright.ai/jobs/info/679be72cc97d93a793035c17?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Feb 21 |
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Culture](https://jobright.ai/jobs/info/678088c8ec2902c565d10a05?utm_campaign=1053&utm_source=git)** | Union, NJ | On Site | Feb 21 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Production Assistant (Art-Intern)](https://jobright.ai/jobs/info/67afeb3c1c8f18142e9bd58d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Casting Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b75b5ea0655543c49d78c2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 21 |
-| **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[News Intern, KCUR - Summer Internship Program, 72564](https://jobright.ai/jobs/info/679ab0e2b0b5a9de6506d805?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Feb 21 |
-| **[NEOGOV](http://www.neogov.com)** | **[Civilian Intern - Multimedia](https://jobright.ai/jobs/info/67b82624dbe1c8af915247e1?utm_campaign=1053&utm_source=git)** | Round Rock, TX | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
