@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Storytelling Production Assistant Intern](https://jobright.ai/jobs/info/67bfa325cc19b1c04eb1b752?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA (Hybrid) | On Site | Feb 26 |
+| **[minds + assembly](https://www.mna.co)** | **[Writing, Intern](https://jobright.ai/jobs/info/67bfd9c923be7c23ec7fac8a?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Feb 26 |
+| **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/67bfc81ded43d034cd8f7e8f?utm_campaign=1053&utm_source=git)** | Incline Village, NV | On Site | Feb 26 |
+| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Storytelling Production Assistant Intern](https://jobright.ai/jobs/info/67bfbea0dd43429077fa21c9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 26 |
+| ↳ | **[Storytelling Production Assistant Intern](https://jobright.ai/jobs/info/67bfa325cc19b1c04eb1b752?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA (Hybrid) | On Site | Feb 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Summer Broadcast Internship (NYSBA)](https://jobright.ai/jobs/info/67bf997d109c80aca78d7af5?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Feb 26 |
 | **[Tennessee Titans](http://www.titansonline.com)** | **[Stadium Experience Intern (Summer 2025)](https://jobright.ai/jobs/info/67bf99eac68ad3fcea38dd5f?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Feb 26 |
 | **[The University of Texas Rio Grande Valley](https://www.utrgv.edu/)** | **[Graduate Assistant - Special Collections & Archives](https://jobright.ai/jobs/info/67bfa4eecc19b1c04eb1bfb7?utm_campaign=1053&utm_source=git)** | Edinburg, TX | On Site | Feb 26 |
@@ -126,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Content Development Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67bb4b8fb4abf9b7c9869be8?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Feb 23 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Culinary Intern - Summer 2025](https://jobright.ai/jobs/info/67bb58ba6feaec1cc46e909c?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Feb 23 |
 | **[Shepherd University](https://www.shepherd.edu/)** | **[Art Department Assistant](https://jobright.ai/jobs/info/67bb4c611aa7ccb3188bcd86?utm_campaign=1053&utm_source=git)** | Shepherdstown, WV | On Site | Feb 23 |
-| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Sweeterie Pastry Intern - Fall 2025](https://jobright.ai/jobs/info/67bb47fa8cf1826dbddea35b?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Feb 23 |
-| ↳ | **[The Hotel Hershey Pastry Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/67bb47fa8cf1826dbddea2b8?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Feb 23 |
+| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Pastry Intern - Spring/Summer 2025](https://jobright.ai/jobs/info/67bb47fa8cf1826dbddea2b8?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Feb 23 |
+| ↳ | **[The Sweeterie Pastry Intern - Fall 2025](https://jobright.ai/jobs/info/67bb47fa8cf1826dbddea35b?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Feb 23 |
 | **[MyFitnessPal](https://www.myfitnesspal.com/)** | **[Editorial Intern - Trends & News - Summer 2025](https://jobright.ai/jobs/info/67bb150c188ffb42f66387f8?utm_campaign=1053&utm_source=git)** | Remote - US | Remote | Feb 23 |
 | ↳ | **[Editorial Intern - Multi-channel Writing - Summer 2025](https://jobright.ai/jobs/info/67bb150c188ffb42f66387f9?utm_campaign=1053&utm_source=git)** | Remote - US | Remote | Feb 23 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Food Network Social Convergent Intern: NYC - Summer 2025](https://jobright.ai/jobs/info/679cc6669a72a802a6478b2d?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Baking & Pastry / Fall 2025](https://jobright.ai/jobs/info/67b8fbe3458f231b3fb57790?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Feb 21 |
 | ↳ | **[Omni Care Internship Culinary / Summer 2025](https://jobright.ai/jobs/info/67b8fda8458f231b3fb57c43?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Feb 21 |
 | ↳ | **[Omni Care Internship Baking & Pastry / Summer 2025](https://jobright.ai/jobs/info/67b8fbe3458f231b3fb57798?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Feb 21 |
-| **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHeartRaves Styling Intern](https://jobright.ai/jobs/info/67b8f3e390567a1457f66172?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Feb 21 |
-| **[Baltimore Country Club](http://bcc1898.com)** | **[Food & Beverage Internship (Summer 2025)](https://jobright.ai/jobs/info/67b8fda8458f231b3fb57ceb?utm_campaign=1053&utm_source=git)** | Mays Chapel, MD | On Site | Feb 21 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Photojournalism Internship - Summer 2025](https://jobright.ai/jobs/info/67b8d6114639fe6069e05086?utm_campaign=1053&utm_source=git)** | Boston | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
