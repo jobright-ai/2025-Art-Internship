@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Editorial Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67c3432b070d5424a1bd0a20?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 01 |
 | ↳ | **[Hulu and Walt Disney Alternative Studio Unscripted Production & Post Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67c3432b070d5424a1bd0a23?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 01 |
 | ↳ | **[Disney Branded Television Production & Post-Production Intern, Summer 2025](https://jobright.ai/jobs/info/67c3432b070d5424a1bd0a1f?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Mar 01 |
+| **[CELINE](https://www.celine.com)** | **[VIP INTERN - SUMMER 2025](https://jobright.ai/jobs/info/67a68265e637700e388e521e?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Mar 01 |
 | **[Wilderness Resort in Wisconsin Dells](https://www.wildernessresort.com)** | **[Wild Rock Golf Maintenance Internship Summer 2025](https://jobright.ai/jobs/info/67c2c95e16f16fd57120e57b?utm_campaign=1053&utm_source=git)** | Wisconsin Dells, WI | On Site | Feb 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Imagineering Show Writing & Story Development Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67c29884464252b390c0f055?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 28 |
 | **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[Video Production Internship](https://jobright.ai/jobs/info/67c28efe22ca75d52d2f079c?utm_campaign=1053&utm_source=git)** | Monterey, CA | On Site | Feb 28 |
@@ -74,7 +75,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Newsroom Intern - The Pulse](https://jobright.ai/jobs/info/67c2969efae6c7ddb9d38b9a?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
 | **[The Juilliard School](http://www.juilliard.edu/)** | **[Production Apprentice, Props](https://jobright.ai/jobs/info/67c28efe22ca75d52d2f08e4?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Feb 28 |
 | ↳ | **[Production Apprentice, Stage Management](https://jobright.ai/jobs/info/67c28efe22ca75d52d2f090e?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 28 |
+| **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762e84b376ef29750cc4d1e?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Feb 28 |
 | **[PBS](http://www.pbs.org)** | **[PBS KIDS Creative Production Intern](https://jobright.ai/jobs/info/67c26387f9278ff2fa7398b5?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Feb 28 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Intern - Cultural Resources](https://jobright.ai/jobs/info/677738d967af1d75ff0e03e0?utm_campaign=1053&utm_source=git)** | Pasadena, CA | On Site | Feb 28 |
 | **[SanMar](http://www.sanmar.com)** | **[Intern, Video Operations](https://jobright.ai/jobs/info/67c26387f9278ff2fa739a25?utm_campaign=1053&utm_source=git)** | Issaquah, WA | On Site | Feb 28 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Summer 2025 Intern - Artist Management (Los Angeles)](https://jobright.ai/jobs/info/67c2555dc4bb968d0353196e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Feb 28 |
 | **[SanMar](http://www.sanmar.com)** | **[Intern, Video Operations](https://jobright.ai/jobs/info/67c2511f8843b056d4f5914a?utm_campaign=1053&utm_source=git)** | Issaquah, WA | Hybrid | Feb 28 |
@@ -131,9 +134,9 @@ For a complete list, click the following sortable link below:
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Assistant/Associate Publisher Intern](https://jobright.ai/jobs/info/67c1c573bee590bc3a748918?utm_campaign=1053&utm_source=git)** | Massachusetts | On Site | Feb 28 |
 | ↳ | **[Assistant/Associate Publisher Intern](https://jobright.ai/jobs/info/67c1c573bee590bc3a7489a2?utm_campaign=1053&utm_source=git)** | New York | On Site | Feb 28 |
 | ↳ | **[Assistant/Associate Publisher Intern](https://jobright.ai/jobs/info/67c1c573bee590bc3a7489a3?utm_campaign=1053&utm_source=git)** | Pennsylvania | On Site | Feb 28 |
-| **[RELX](https://www.relx.com)** | **[Assistant/Associate Publisher Intern](https://jobright.ai/jobs/info/67c1c573bee590bc3a7489a8?utm_campaign=1053&utm_source=git)** | Pennsylvania | On Site | Feb 28 |
+| **[RELX](https://www.relx.com)** | **[Assistant/Associate Publisher Intern](https://jobright.ai/jobs/info/67c1c573bee590bc3a748931?utm_campaign=1053&utm_source=git)** | Massachusetts | On Site | Feb 28 |
+| ↳ | **[Assistant/Associate Publisher Intern](https://jobright.ai/jobs/info/67c1c573bee590bc3a7489a8?utm_campaign=1053&utm_source=git)** | Pennsylvania | On Site | Feb 28 |
 | ↳ | **[Assistant/Associate Publisher Intern](https://jobright.ai/jobs/info/67c1c573bee590bc3a7489a9?utm_campaign=1053&utm_source=git)** | New York | On Site | Feb 28 |
-| ↳ | **[Assistant/Associate Publisher Intern](https://jobright.ai/jobs/info/67c1c573bee590bc3a748931?utm_campaign=1053&utm_source=git)** | Massachusetts | On Site | Feb 28 |
 | **[Hindman Auctions](https://hindmanauctions.com)** | **[Auction House Summer Internship Program](https://jobright.ai/jobs/info/67c1dba21b65c5ee35a9aad7?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
 | **[Mars](https://www.mars.com)** | **[Summer 2025 Mars Museum Collections Management Internship – McLean, VA.](https://jobright.ai/jobs/info/67ab03997e6f2c4002920d35?utm_campaign=1053&utm_source=git)** | McLean, VA | On Site | Feb 28 |
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e76661417c381a0dfd7c8?utm_campaign=1053&utm_source=git)** | Northbrook, IL | On Site | Feb 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Great Hearts Academies](https://www.greatheartsamerica.org/)** | **[Salon Assistant/Apprentice](https://jobright.ai/jobs/info/67c15952bc64f59e8f0889e3?utm_campaign=1053&utm_source=git)** | Sparta, NJ | On Site | Feb 27 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Internship/ Pastry](https://jobright.ai/jobs/info/67c127637b2c41627cf26ec4?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Feb 27 |
 | ↳ | **[Omni Cares Internship / Culinary](https://jobright.ai/jobs/info/67c127637b2c41627cf26ee7?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Feb 27 |
-| **[Crazy Maple Studio](http://www.crazymaplestudios.com/)** | **[Bilingual VFX Runner - ReelShort LA (Intern)](https://jobright.ai/jobs/info/67c149afd2160f0ef304a638?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
-| **[PBS](http://www.pbs.org)** | **[PBS KIDS Distribution Intern](https://jobright.ai/jobs/info/67c127637b2c41627cf26fa7?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Feb 27 |
-| ↳ | **[Station Services Platform Intern](https://jobright.ai/jobs/info/67c127637b2c41627cf26f72?utm_campaign=1053&utm_source=git)** | United States | Remote | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
