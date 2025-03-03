@@ -57,10 +57,29 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[goop](https://goop.com)** | **[Fashion Intern - Summer 2025](https://jobright.ai/jobs/info/67c600e7a14469e52815298e?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 03 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[TV Development/Current Series Intern, DreamWorks, Summer 2025](https://jobright.ai/jobs/info/67c5fc30cab5324aa4b0fcb4?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Mar 03 |
+| ↳ | **[Animation Production Intern, DreamWorks, Summer 2025](https://jobright.ai/jobs/info/67c5fc30cab5324aa4b0fcb1?utm_campaign=1053&utm_source=git)** | Dreamworks SKG, 1000 Flower St, Glendale, CA 91201, USA | On Site | Mar 03 |
+| ↳ | **[Feature Development Intern, DreamWorks, Summer 2025](https://jobright.ai/jobs/info/67c5fc30cab5324aa4b0fc7d?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Mar 03 |
+| ↳ | **[Hair Global Development Intern, DreamWorks, Summer 2025](https://jobright.ai/jobs/info/67c5fc30cab5324aa4b0fc88?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Mar 03 |
+| ↳ | **[Lighting Intern, DreamWorks, Summer 2025](https://jobright.ai/jobs/info/67c5fc30cab5324aa4b0fc9c?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Mar 03 |
+| **[goop](https://goop.com)** | **[Fashion Intern - Summer 2025](https://jobright.ai/jobs/info/67c5f8b2337fe34cc6bdd67e?utm_campaign=1053&utm_source=git)** | Santa Monica, CA (Corp HQ) | On Site | Mar 03 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Accelerator Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67c5f49b904079f68329448e?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Mar 03 |
+| **[Warby Parker](http://www.warbyparker.com)** | **[Apprentice Optician, Part-Time - Promenade at Upper Dublin](https://jobright.ai/jobs/info/67c5f10f62a534f27eeb6d0a?utm_campaign=1053&utm_source=git)** | Dresher, PA | On Site | Mar 03 |
+| **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern - News, WKBW](https://jobright.ai/jobs/info/67c5e59c223ed61c608f003a?utm_campaign=1053&utm_source=git)** | Buffalo, NY - WKBW | On Site | Mar 03 |
+| **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[2025 Fall - 2026 Spring Internship Program: Bookmaking, Production Editorial](https://jobright.ai/jobs/info/67c5e1119614cd57024dd48f?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Mar 03 |
+| **[Macy's](http://www.macysjobs.com)** | **[Summer Video Production Assistant](https://jobright.ai/jobs/info/67c5dcee68d47d194c7b1911?utm_campaign=1053&utm_source=git)** | Queens, NY | On Site | Mar 03 |
+| **[Crash Champions](https://crashchampions.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/67c5dcee68d47d194c7b1944?utm_campaign=1053&utm_source=git)** | Richardson, TX | Hybrid | Mar 03 |
+| **[Macy's](http://www.macysjobs.com)** | **[Stylist Summer Internship](https://jobright.ai/jobs/info/67c5dcee68d47d194c7b1963?utm_campaign=1053&utm_source=git)** | Queens County, NY | On Site | Mar 03 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment Costumer Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67c5c99f04e109633f540114?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Mar 03 |
+| **[NEOGOV](http://www.neogov.com)** | **[Museum Intern](https://jobright.ai/jobs/info/67c5c2663faf638b2d38dcff?utm_campaign=1053&utm_source=git)** | 415 N. Dakota Ave Sioux Falls, SD | On Site | Mar 03 |
+| **[Detroit Lions](http://www.detroitlions.com)** | **[Game & Event Production Intern](https://jobright.ai/jobs/info/67c5bcf70855b43f13ba9620?utm_campaign=1053&utm_source=git)** | Detroit, MI 48226 | On Site | Mar 03 |
 | **[University of Utah](http://utah.edu)** | **[Theatrical Production Assistant](https://jobright.ai/jobs/info/67c5a5d007d48cbb61600eb7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 03 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - WFSB](https://jobright.ai/jobs/info/67c529561e84bbb7cb04c00c?utm_campaign=1053&utm_source=git)** | Rocky Hill, CT | On Site | Mar 02 |
 | **[The Transmitter](https://spectrumnews.org/)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/67908e4936493d01dddfdf55?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 02 |
-| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern (Fall 2025) - Salt Lake City](https://jobright.ai/jobs/info/67a7d2ca5d929864bad3e49d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 02 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Archive Intern](https://jobright.ai/jobs/info/672003cc171dfc782a1cb3cf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 02 |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern (Fall 2025) - Denver](https://jobright.ai/jobs/info/67a7d2ca5d929864bad3e4b9?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Mar 02 |
+| ↳ | **[Event Technology Intern (Fall 2025) - Salt Lake City](https://jobright.ai/jobs/info/67a7d2ca5d929864bad3e49d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 02 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Fellow, Prop Styling](https://jobright.ai/jobs/info/67c374ab4c328879ec4fb804?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Mar 01 |
 | ↳ | **[Fellow, Video](https://jobright.ai/jobs/info/67c374ab4c328879ec4fb806?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Mar 01 |
 | ↳ | **[Fellow, Test Kitchen](https://jobright.ai/jobs/info/67c374ab4c328879ec4fb807?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Mar 01 |
@@ -108,11 +127,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Telemundo Connecticut Digital Video Intern - Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f59505?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 28 |
 | ↳ | **[NBC Telemundo Connecticut News Producer Intern - Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f59506?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 28 |
 | ↳ | **[Telemundo62-Digital News Intern- Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f5950d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
-| ↳ | **[News Intern - Telemundo Utah](https://jobright.ai/jobs/info/67c2511f8843b056d4f5951a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 28 |
 | ↳ | **[NBC Telemundo Connecticut Investigative & Consumer Intern - Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f59500?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 28 |
-| ↳ | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f594fe?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 28 |
 | ↳ | **[NBC Telemundo Connecticut Assignment Desk/Digital Intern - Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f5951e?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 28 |
 | ↳ | **[NBC Telemundo Connecticut Weather/Meteorology Intern - Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f59512?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 28 |
+| ↳ | **[News Intern - Telemundo Utah](https://jobright.ai/jobs/info/67c2511f8843b056d4f5951a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 28 |
+| ↳ | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f594fe?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 28 |
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Content Creator Intern](https://jobright.ai/jobs/info/67c23671695f970b79747795?utm_campaign=1053&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Feb 28 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Athletics Broadcast / Game Presentation Intern](https://jobright.ai/jobs/info/67c2511f8843b056d4f5954b?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Feb 28 |
 | ↳ | **[Athletics Creative Video Intern](https://jobright.ai/jobs/info/67c2511f8843b056d4f59542?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Feb 28 |
@@ -121,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Saint-Gobain](http://www.saint-gobain.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/67c231b895d2c1397bdc59d1?utm_campaign=1053&utm_source=git)** | Pennsylvania, United States | Hybrid | Feb 28 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - WHNS](https://jobright.ai/jobs/info/67c228a4aeb22291b01f48e9?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Feb 28 |
 | **[GBH](http://www.wgbh.org/)** | **[Children’s Digital Production Internship - Summer 2025](https://jobright.ai/jobs/info/67c21047a5b79f6803a8387e?utm_campaign=1053&utm_source=git)** | Boston | On Site | Feb 28 |
-| ↳ | **[NOVA Digital Video Internship - Summer 2025](https://jobright.ai/jobs/info/67c21047a5b79f6803a83766?utm_campaign=1053&utm_source=git)** | Boston | On Site | Feb 28 |
 | **[PBS](http://www.pbs.org)** | **[PBS KIDS Creative Production Intern](https://jobright.ai/jobs/info/67c21047a5b79f6803a837dc?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Feb 28 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/67c25a5ad2661494a617d27c?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
 | ↳ | **[BFFs/ItGirl Intern](https://jobright.ai/jobs/info/67c25a5ad2661494a617d294?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Feb 28 |
@@ -139,22 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Culinary Intern - Summer 2025](https://jobright.ai/jobs/info/67c1f3b71b295cc66bb24fb4?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Feb 28 |
 | ↳ | **[Culinary Intern - Hershey Country Club (Summer 2025)](https://jobright.ai/jobs/info/67c1f3b71b295cc66bb24cc4?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Feb 28 |
 | ↳ | **[The Sweeterie Pastry Intern - Fall 2025](https://jobright.ai/jobs/info/67c1f3b71b295cc66bb24fb5?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Feb 28 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Performing Arts Ascend Intern/ Rupp Arena](https://jobright.ai/jobs/info/67c1e38896235597f9f17029?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Feb 28 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Assistant/Associate Publisher Intern](https://jobright.ai/jobs/info/67c1c573bee590bc3a7489a2?utm_campaign=1053&utm_source=git)** | New York | On Site | Feb 28 |
-| ↳ | **[Assistant/Associate Publisher Intern](https://jobright.ai/jobs/info/67c1c573bee590bc3a7489a3?utm_campaign=1053&utm_source=git)** | Pennsylvania | On Site | Feb 28 |
-| ↳ | **[Assistant/Associate Publisher Intern](https://jobright.ai/jobs/info/67c1c573bee590bc3a748918?utm_campaign=1053&utm_source=git)** | Massachusetts | On Site | Feb 28 |
-| **[RELX](https://www.relx.com)** | **[Assistant/Associate Publisher Intern](https://jobright.ai/jobs/info/67c1c573bee590bc3a748931?utm_campaign=1053&utm_source=git)** | Massachusetts | On Site | Feb 28 |
-| ↳ | **[Assistant/Associate Publisher Intern](https://jobright.ai/jobs/info/67c1c573bee590bc3a7489a9?utm_campaign=1053&utm_source=git)** | New York | On Site | Feb 28 |
-| ↳ | **[Assistant/Associate Publisher Intern](https://jobright.ai/jobs/info/67c1c573bee590bc3a7489a8?utm_campaign=1053&utm_source=git)** | Pennsylvania | On Site | Feb 28 |
-| **[Hindman Auctions](https://hindmanauctions.com)** | **[Auction House Summer Internship Program](https://jobright.ai/jobs/info/67c1dba21b65c5ee35a9aad7?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
-| **[Mars](https://www.mars.com)** | **[Summer 2025 Mars Museum Collections Management Internship – McLean, VA.](https://jobright.ai/jobs/info/67ab03997e6f2c4002920d35?utm_campaign=1053&utm_source=git)** | McLean, VA | On Site | Feb 28 |
-| **[Compass Health Center](https://compasshealthcenter.net)** | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e76661417c381a0dfd7c8?utm_campaign=1053&utm_source=git)** | Northbrook, IL | On Site | Feb 28 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/6789cacc482497791a3db457?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Feb 28 |
-| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/67a53ab163603bc4de43b2f1?utm_campaign=1053&utm_source=git)** | Chicopee, MA | On Site | Feb 28 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/678925feb1ed92949ce60195?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Feb 28 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Culinary, Bakery & Pastry (Fall 2025)](https://jobright.ai/jobs/info/67c1b315a5f2e350e9ef315e?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Feb 28 |
-| **[Carolina Creek](https://carolinacreek.org)** | **[Creative Services Production Intern](https://jobright.ai/jobs/info/67c2d1c083071f7a6829a0ab?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Feb 28 |
-| ↳ | **[Guest Experiences Culinary Internship](https://jobright.ai/jobs/info/67c2d1c083071f7a6829a07f?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Feb 28 |
-| ↳ | **[Guest Experiences Internship](https://jobright.ai/jobs/info/67c2d1c083071f7a6829a0aa?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Feb 28 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/67a3f82e6f2654843f7396e0?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
