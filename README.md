@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Fellow, Prop Styling](https://jobright.ai/jobs/info/67c374ab4c328879ec4fb804?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Mar 01 |
 | ↳ | **[Fellow, Video](https://jobright.ai/jobs/info/67c374ab4c328879ec4fb806?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Mar 01 |
 | ↳ | **[Fellow, Test Kitchen](https://jobright.ai/jobs/info/67c374ab4c328879ec4fb807?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Mar 01 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Newsroom Internship](https://jobright.ai/jobs/info/67bfd2434a102383729cbee0?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
 | **[Ideas United](http://ideasunited.com)** | **[Event Intern](https://jobright.ai/jobs/info/67c365ed8ab6543c74b1c833?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 01 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Video Production Internship](https://jobright.ai/jobs/info/67c3694a182dd7c31c90cd37?utm_campaign=1053&utm_source=git)** | Monterey, CA | On Site | Mar 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Series Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67c36025d32f5d3f58562e27?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 01 |
@@ -73,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Imagineering Show Writing & Story Development Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67c29884464252b390c0f055?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 28 |
 | **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[Video Production Internship](https://jobright.ai/jobs/info/67c28efe22ca75d52d2f079c?utm_campaign=1053&utm_source=git)** | Monterey, CA | On Site | Feb 28 |
 | **[WHYY](http://whyy.org/)** | **[Newsroom Intern](https://jobright.ai/jobs/info/67c29894fae6c7ddb9d39108?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
-| ↳ | **[TV Production Intern](https://jobright.ai/jobs/info/67c29894fae6c7ddb9d39109?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
 | ↳ | **[Newsroom Intern - The Pulse](https://jobright.ai/jobs/info/67c2969efae6c7ddb9d38b9a?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
+| ↳ | **[TV Production Intern](https://jobright.ai/jobs/info/67c29894fae6c7ddb9d39109?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
 | **[The Juilliard School](http://www.juilliard.edu/)** | **[Production Apprentice, Props](https://jobright.ai/jobs/info/67c28efe22ca75d52d2f08e4?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Feb 28 |
 | ↳ | **[Production Apprentice, Stage Management](https://jobright.ai/jobs/info/67c28efe22ca75d52d2f090e?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Feb 28 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/6762e84b376ef29750cc4d1e?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Feb 28 |
@@ -102,17 +103,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Telemundo Connecticut News Producer Intern - Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f59506?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 28 |
 | ↳ | **[Telemundo62-Digital News Intern- Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f5950d?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
 | ↳ | **[NBC Telemundo Connecticut Assignment Desk/Digital Intern - Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f5951e?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 28 |
-| ↳ | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f594fe?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 28 |
 | ↳ | **[NBC Telemundo Connecticut Investigative & Consumer Intern - Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f59500?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 28 |
+| ↳ | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f594fe?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 28 |
 | ↳ | **[News Intern - Telemundo Utah](https://jobright.ai/jobs/info/67c2511f8843b056d4f5951a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Feb 28 |
 | ↳ | **[NBC Telemundo Connecticut Weather/Meteorology Intern - Summer 2025](https://jobright.ai/jobs/info/67c2511f8843b056d4f59512?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Feb 28 |
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Content Creator Intern](https://jobright.ai/jobs/info/67c23671695f970b79747795?utm_campaign=1053&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Feb 28 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Athletics Broadcast / Game Presentation Intern](https://jobright.ai/jobs/info/67c2511f8843b056d4f5954b?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Feb 28 |
 | ↳ | **[Athletics Creative Video Intern](https://jobright.ai/jobs/info/67c2511f8843b056d4f59542?utm_campaign=1053&utm_source=git)** | Villanova, PA | On Site | Feb 28 |
 | **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Intern, Special Events Production](https://jobright.ai/jobs/info/67c23f4ae525c3192c86f7ab?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[Summer News Intern](https://jobright.ai/jobs/info/67a5c78e1d831629a3aceccc?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Feb 28 |
 | **[Saint-Gobain](http://www.saint-gobain.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/67c231b895d2c1397bdc59d1?utm_campaign=1053&utm_source=git)** | Pennsylvania, United States | Hybrid | Feb 28 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - WHNS](https://jobright.ai/jobs/info/67c228a4aeb22291b01f48e9?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Feb 28 |
-| **[GBH](http://www.wgbh.org/)** | **[Children’s Digital Production Internship - Summer 2025](https://jobright.ai/jobs/info/67c21047a5b79f6803a83794?utm_campaign=1053&utm_source=git)** | Boston | On Site | Feb 28 |
+| **[GBH](http://www.wgbh.org/)** | **[Children’s Digital Production Internship - Summer 2025](https://jobright.ai/jobs/info/67c21047a5b79f6803a8387e?utm_campaign=1053&utm_source=git)** | Boston | On Site | Feb 28 |
 | ↳ | **[NOVA Digital Video Internship - Summer 2025](https://jobright.ai/jobs/info/67c21047a5b79f6803a83766?utm_campaign=1053&utm_source=git)** | Boston | On Site | Feb 28 |
 | **[PBS](http://www.pbs.org)** | **[PBS KIDS Creative Production Intern](https://jobright.ai/jobs/info/67c21047a5b79f6803a837dc?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Feb 28 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/67c25a5ad2661494a617d27c?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Studio Operations Intern, Summer 2025](https://jobright.ai/jobs/info/67c175f9915175ecca189d4b?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Feb 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Editorial Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67c147fc01b80bcf52528d59?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 27 |
 | ↳ | **[20th Century Studios Literary Affairs Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67c147fc01b80bcf52528d53?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Feb 27 |
-| **[Great Hearts Academies](https://www.greatheartsamerica.org/)** | **[Salon Assistant/Apprentice](https://jobright.ai/jobs/info/67c15952bc64f59e8f0889e3?utm_campaign=1053&utm_source=git)** | Sparta, NJ | On Site | Feb 27 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Internship/ Pastry](https://jobright.ai/jobs/info/67c127637b2c41627cf26ec4?utm_campaign=1053&utm_source=git)** | Asheville, NC | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
