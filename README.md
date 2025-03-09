@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bishops Bay Country Club](http://www.bishopsbay.com)** | **[Golf Assistant Intern](https://jobright.ai/jobs/info/67cd0ae17e0edf3f93cffb3f?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Mar 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Television Animation Music Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ccbc2694d9393bcbdf7ca3?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Mar 08 |
 | **[Shepherd University](https://www.shepherd.edu/)** | **[Art Department Assistant](https://jobright.ai/jobs/info/67cc808d17d831a194681bf5?utm_campaign=1053&utm_source=git)** | Shepherdstown, WV | On Site | Mar 08 |
 | **[Cirque du Soleil Entertainment Group](http://www.cirquedusoleil.com)** | **[Internship – Stage Management](https://jobright.ai/jobs/info/67afe1cf93fa8460f5503c02?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Mar 08 |
@@ -139,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Mar 04 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - WEAU](https://jobright.ai/jobs/info/67c92cc4f55f5ba32a33655b?utm_campaign=1053&utm_source=git)** | Eau Claire, WI | On Site | Mar 04 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Animation Production Intern, DreamWorks, Summer 2025](https://jobright.ai/jobs/info/67c7f30182cef2fb7187a006?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Mar 04 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/67c7d655ed3262a29c98da33?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Mar 04 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/67c7d655ed3262a29c98da2f?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Mar 04 |
 | ↳ | **[News Intern, Unpaid](https://jobright.ai/jobs/info/67c7c680aa40e54ec1ba6b5c?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Mar 04 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Summer Intern, Madden Girl Production](https://jobright.ai/jobs/info/67ca6077d7e41ffa50827c7f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 04 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Literary Arts/Seasonal Employment](https://jobright.ai/jobs/info/67c7e096ef66bdaa2556bf9d?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Mar 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Operations & Production Intern, Game Shows - Summer 2025](https://jobright.ai/jobs/info/67c77d2185af1dc7353754b7?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Mar 04 |
 | **[Caesars Entertainment](https://www.caesars.com/corporate)** | **[Media Intern - Racing Season (Eldorado Scioto Downs, Columbus, OH)](https://jobright.ai/jobs/info/67c74d0b05b900757b691276?utm_campaign=1053&utm_source=git)** | Columbus, OH, United States | On Site | Mar 04 |
 | **[Clearlink](http://www.clearlink.com)** | **[Content Writer Intern](https://jobright.ai/jobs/info/67c0ef394443285898542675?utm_campaign=1053&utm_source=git)** | Draper, Utah, United States | On Site | Mar 04 |
-| **[FC Dallas](http://www.fcdallas.com)** | **[2025 Summer Video Production Internship](https://jobright.ai/jobs/info/67c74d0b05b900757b6914cd?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
