@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/675cc2367c1c7571b5607f70?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Mar 10 |
+| **[Penn State University](http://psu.edu)** | **[Marilyn and Ned Price Internship in Conservation](https://jobright.ai/jobs/info/67cec788488f5444a15540fa?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Mar 10 |
+| **[American Red Cross](http://redcross.org)** | **[Associate Editor Intern](https://jobright.ai/jobs/info/67ceb77b0a8f3cca33136e61?utm_campaign=1053&utm_source=git)** | New Jersey, United States | Hybrid | Mar 10 |
 | **[Concord](https://concord.com/)** | **[Concord Originals Intern](https://jobright.ai/jobs/info/67ce8bb0574a5f29be896c21?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
 | ↳ | **[Concord Theatricals’ Acquisitions and Artistic Development Intern](https://jobright.ai/jobs/info/67ce8bb0574a5f29be896c00?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 09 |
 | ↳ | **[Publishing A&R Intern](https://jobright.ai/jobs/info/67ce8bb0574a5f29be896cea?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 09 |
@@ -78,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Suncadia](http://www.suncadiaresort.com)** | **[PGA Golf Internship- Tumble Creek](https://jobright.ai/jobs/info/67cc1b61821e2393759d142e?utm_campaign=1053&utm_source=git)** | Cle Elum, WA | On Site | Mar 07 |
 | **[CoralTree Hospitality](https://www.coraltreehospitality.com/)** | **[PGA Golf Internship- Tumble Creek](https://jobright.ai/jobs/info/67cc1b61821e2393759d145e?utm_campaign=1053&utm_source=git)** | Cle Elum, WA | On Site | Mar 07 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Cook Intern](https://jobright.ai/jobs/info/67ccb41a929358f094b79114?utm_campaign=1053&utm_source=git)** | Santa Clara, CA | On Site | Mar 07 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, SPT, B17 Entertainment – Summer 2025](https://jobright.ai/jobs/info/67cb6cd344f1b2350ca0471e?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Mar 07 |
 | **[Dialpad](https://www.dialpad.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/67cb9eb5faa575407403f90a?utm_campaign=1053&utm_source=git)** | San Ramon, CA | On Site | Mar 07 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Curatorial Research Student Assistant](https://jobright.ai/jobs/info/67cc24ba139b4730caac6292?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Mar 07 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Intern, Film - Longleaf Studios](https://jobright.ai/jobs/info/67cb747b57e09f619c57d625?utm_campaign=1053&utm_source=git)** | Jacksonville, AL | On Site | Mar 07 |
@@ -131,8 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Intern - Digital Multimedia Studio (Hybrid)](https://jobright.ai/jobs/info/67c8b25f001c2301741be6a2?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 05 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - WBNG](https://jobright.ai/jobs/info/67c8be57d485293763e65a07?utm_campaign=1053&utm_source=git)** | Johnson City, NY | On Site | Mar 05 |
 | **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[Golf Operations Intern](https://jobright.ai/jobs/info/67c8af641e4b1b135188cc7b?utm_campaign=1053&utm_source=git)** | Dumfries, VA | On Site | Mar 05 |
-| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/67c8af641e4b1b135188cc62?utm_campaign=1053&utm_source=git)** | St Louis, MO | Hybrid | Mar 05 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/67c89d4cd8dfff2896184656?utm_campaign=1053&utm_source=git)** | St. Louis, MO | Hybrid | Mar 05 |
+| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/67c89d4cd8dfff2896184656?utm_campaign=1053&utm_source=git)** | St. Louis, MO | Hybrid | Mar 05 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/67c897c3a8273533a3afac5b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 05 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[News Summer 2025 Intern](https://jobright.ai/jobs/info/67c897c3a8273533a3afadb5?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 05 |
 | ↳ | **[Opinion & Ideas 2025 Summer Intern](https://jobright.ai/jobs/info/67c897c3a8273533a3afadf7?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 05 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Golf Operations Intern](https://jobright.ai/jobs/info/67c7f30182cef2fb71879eb8?utm_campaign=1053&utm_source=git)** | Lanai City, HI | On Site | Mar 04 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Mar 04 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - WEAU](https://jobright.ai/jobs/info/67c92cc4f55f5ba32a33655b?utm_campaign=1053&utm_source=git)** | Eau Claire, WI | On Site | Mar 04 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Animation Production Intern, DreamWorks, Summer 2025](https://jobright.ai/jobs/info/67c7f30182cef2fb7187a006?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Mar 04 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/67c7d655ed3262a29c98da33?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Mar 04 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/67c7d655ed3262a29c98da2f?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Mar 04 |
 | ↳ | **[News Intern, Unpaid](https://jobright.ai/jobs/info/67c7c680aa40e54ec1ba6b5c?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Mar 04 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Summer Intern, Madden Girl Production](https://jobright.ai/jobs/info/67ca6077d7e41ffa50827c7f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 04 |
-| **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Literary Arts/Seasonal Employment](https://jobright.ai/jobs/info/67c7e096ef66bdaa2556bf9d?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Mar 04 |
-| **[Reckitt](https://www.reckitt.com)** | **[Production Intern](https://jobright.ai/jobs/info/67c7b506bd81189aa6af19a2?utm_campaign=1053&utm_source=git)** | El Paso, TX | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
