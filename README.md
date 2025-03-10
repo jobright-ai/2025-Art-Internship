@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Live Events Intern](https://jobright.ai/jobs/info/67cdf4c4739981b70cb553b5?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Mar 09 |
 | **[Bishops Bay Country Club](http://www.bishopsbay.com)** | **[Golf Assistant Intern](https://jobright.ai/jobs/info/67cd0ae17e0edf3f93cffb3f?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Mar 08 |
+| **[dentsu](https://www.dentsu.com)** | **[Production Summer Internship (Paid) - Integrated & Experiential](https://jobright.ai/jobs/info/67af7d13c79d5c1605c7480a?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Mar 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Television Animation Music Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ccbc2694d9393bcbdf7ca3?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Mar 08 |
 | **[Shepherd University](https://www.shepherd.edu/)** | **[Art Department Assistant](https://jobright.ai/jobs/info/67cc808d17d831a194681bf5?utm_campaign=1053&utm_source=git)** | Shepherdstown, WV | On Site | Mar 08 |
 | **[Conservice ](https://www.conservice.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/67cd9c956dbc9c5e38746a97?utm_campaign=1053&utm_source=git)** | Logan, UT | On Site | Mar 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-SHSU Online-KSHU Student Staff Operator](https://jobright.ai/jobs/info/67c7984f0eef9c4103c773f3?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Mar 04 |
 | **[Desert Research Institute](http://www.dri.edu)** | **[Resilience Reporter Intern](https://jobright.ai/jobs/info/67c77ee56507b38b765e2f69?utm_campaign=1053&utm_source=git)** | DRI - Reno, NV | Remote | Mar 04 |
 | **[The University of Texas Rio Grande Valley](https://www.utrgv.edu/)** | **[Graduate Assistant - Special Collections & Archives](https://jobright.ai/jobs/info/67c7908b684906ab34c549fa?utm_campaign=1053&utm_source=git)** | Edinburg, TX | On Site | Mar 04 |
-| **[PotlatchDeltic Corporation](https://www.potlatchdeltic.com/)** | **[SUMMER HIRE- ST. MARIES, ID](https://jobright.ai/jobs/info/67c78ec5684906ab34c544e6?utm_campaign=1053&utm_source=git)** | St Maries, ID | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
