@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Editorial Intern (BFW High School Division)](https://jobright.ai/jobs/info/67d8c7b56a6b5ebeb2792908?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 17 |
 | **[Broward Center for the Performing Arts](https://www.browardcenter.org/)** | **[Intern- Programming](https://jobright.ai/jobs/info/67d8b77f90aa43c05af6119c?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 17 |
 | ↳ | **[Intern- Production](https://jobright.ai/jobs/info/67d8b77f90aa43c05af61133?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 17 |
 | **[Skydance](https://skydance.com)** | **[Internship - Animation Production Management (Summer 2025)](https://jobright.ai/jobs/info/67d8aa64bf4e466d7e844523?utm_campaign=1053&utm_source=git)** | Mid-City, Los Angeles | Hybrid | Mar 17 |
@@ -112,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/67d0d07b53c0cf0fcea68bb2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/677dd3089ea54e3c37b0f0a6?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Mar 13 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Summer 2025](https://jobright.ai/jobs/info/67b68a5218c4a1d83611f276?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Mar 13 |
+| **[Agency EA](http://agencyea.com)** | **[Event Production Internship, Agency EA](https://jobright.ai/jobs/info/67d8db0480d02fec0266241e?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 13 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Sony Pictures International Productions Intern – Summer 2025](https://jobright.ai/jobs/info/67d34486b91454480a0fe775?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Mar 13 |
 | **[The Bernard Group, Inc.](http://www.thebernardgroup.com)** | **[Intern, Videographer](https://jobright.ai/jobs/info/67d49df622f3083949054178?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/67b6476ed730db3fc0c28fc1?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Mar 13 |
@@ -139,8 +141,9 @@ For a complete list, click the following sortable link below:
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Multimedia Production Specialist Intern](https://jobright.ai/jobs/info/6798d8dff256be5da760dc54?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Mar 13 |
 | **[Duke University](http://www.duke.edu)** | **[Library Intern Duke Family Processing and Digitization](https://jobright.ai/jobs/info/67d2c75cf334df6ccc517e0a?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Mar 13 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[NYSBA Summer News Intern](https://jobright.ai/jobs/info/67d298766be7f1b32d6fbed2?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Mar 13 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/67d28d293f3b271a6a70fb88?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Mar 13 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/67d291ee9502114d556f7174?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Mar 13 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/67d28d293f3b271a6a70fb88?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Mar 13 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67d8e73d8199b34270a33948?utm_campaign=1053&utm_source=git)** | Redding, CA | On Site | Mar 12 |
 | **[American Medical Association](http://ama-assn.org)** | **[Intern (Hybrid)](https://jobright.ai/jobs/info/67d2577fc0fcfcc65663049b?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 12 |
 | **[National Journal](http://www.nationaljournal.com)** | **[National Journal & WPCF Editorial Intern](https://jobright.ai/jobs/info/67d2493d10d2f5f11d711361?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 12 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2025 College Internship - Waikiki-Oahu, HI (Culinary-Cook))](https://jobright.ai/jobs/info/67d23e886b8e3eaa84de102a?utm_campaign=1053&utm_source=git)** | Marriott Vacation Club, Waikiki | On Site | Mar 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[R&CPMK](https://www.rcpmk.com)** | **[Trainee, Film, TV & Content](https://jobright.ai/jobs/info/67d20b9b5bb230b0d8b7a81f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/67d20365ed8612ba28555c01?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | Mar 12 |
 | **[Hello Sunshine ](https://hello-sunshine.com/)** | **[Summer 2025 Intern - Reese's Book Club](https://jobright.ai/jobs/info/67d20b9b5bb230b0d8b7a980?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
-| ↳ | **[Summer 2025 Intern - Film & TV](https://jobright.ai/jobs/info/67d1ffb8ebb20297f55951ed?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
-| ↳ | **[Summer 2025 Intern - Experiential Events (DTC)](https://jobright.ai/jobs/info/67d1ffb8ebb20297f55951f1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
-| **[R&CPMK](https://www.rcpmk.com)** | **[Trainee, Film, TV & Content](https://jobright.ai/jobs/info/67d1f29464280308f6729e4d?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
