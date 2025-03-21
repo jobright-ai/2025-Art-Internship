@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/67ddbe7101fc115e0a3053bc?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | Mar 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/67dd61a48d7456bd7c9ac87f?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Mar 21 |
 | ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/67dd61a48d7456bd7c9ac871?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 21 |
 | ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/67dd61a48d7456bd7c9ac879?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 21 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2025 Managing Editorial Internship](https://jobright.ai/jobs/info/67dc0a730275c01bda54100a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 20 |
 | ↳ | **[Summer 2025 Editorial Intern, Artisan/Workman](https://jobright.ai/jobs/info/67dc0a730275c01bda541032?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Everyday Northwest Lifestyle Show Intern (unpaid)](https://jobright.ai/jobs/info/66cafef8423ff6807e053283?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Mar 20 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern 2025 - WFAN](https://jobright.ai/jobs/info/67dd142a6538bc079a8a4358?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC11 Troubleshooter & Consumer Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67db94c821da119d8d192bb9?utm_campaign=1053&utm_source=git)** | Durham, NC, USA | On Site | Mar 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital News Intern - KREX Grand Junction](https://jobright.ai/jobs/info/67db94570d00ac5fbc123269?utm_campaign=1053&utm_source=git)** | Grand Junction, CO | On Site | Mar 19 |
 | ↳ | **[Unpaid Weather Intern - KREX Grand Junction](https://jobright.ai/jobs/info/67db8573f8a5e03b24548f0f?utm_campaign=1053&utm_source=git)** | Grand Junction, CO | On Site | Mar 19 |
@@ -98,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern (Fall 2025) - Las Vegas](https://jobright.ai/jobs/info/67db4d420922024e73cc07f1?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Mar 19 |
 | **[Business Insider](http://www.businessinsider.com)** | **[Editorial Operations Fellow (Summer 2025)](https://jobright.ai/jobs/info/67db33aef1cdd2358f82abe2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Productions (Summer 2025)](https://jobright.ai/jobs/info/67db33aef1cdd2358f82ad0e?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 19 |
-| **[The Nature Conservancy](http://www.nature.org/)** | **[Video Intern](https://jobright.ai/jobs/info/67db293b3124148c37339779?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Mar 19 |
-| ↳ | **[Global Storytelling Intern, Protect Oceans, Lands and Waters](https://jobright.ai/jobs/info/67db293b3124148c373397a7?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Mar 19 |
+| **[The Nature Conservancy](http://www.nature.org/)** | **[Global Storytelling Intern, Protect Oceans, Lands and Waters](https://jobright.ai/jobs/info/67db293b3124148c373397a7?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Mar 19 |
+| ↳ | **[Video Intern](https://jobright.ai/jobs/info/67db293b3124148c37339779?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Mar 19 |
 | **[Baker Publishing Group](http://bakerpublishinggroup.com/)** | **[Editorial Intern- Summer](https://jobright.ai/jobs/info/67db21d6437f57132295b27e?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Mar 19 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/67dafdca77e36d16136e4b2f?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Mar 19 |
 | **[Hindman Auctions](https://hindmanauctions.com)** | **[Auction House Summer Internship Program](https://jobright.ai/jobs/info/67db54f3c39337369d12d5be?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
@@ -130,16 +130,16 @@ For a complete list, click the following sortable link below:
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Summer 2025 Internship - Production](https://jobright.ai/jobs/info/67d9db7e4c43931006cc03b6?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Mar 18 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern ](https://jobright.ai/jobs/info/67d9bbdfd9cf2ee4533bdc2a?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Mar 18 |
 | **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Editorial Internship, Summer 2025](https://jobright.ai/jobs/info/67a2d70def4c8dc4fc6cc869?utm_campaign=1053&utm_source=git)** | West Allis, WI | Hybrid | Mar 18 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2025 Summer Internship Program: Brand & Label Opportunities: (Onsite: CA)](https://jobright.ai/jobs/info/67d99dbed6f78ced09ca5e13?utm_campaign=1053&utm_source=git)** | Beverly Hills, California | On Site | Mar 18 |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2025 Summer Internship Program: Brand & Label Opportunities: (Onsite: CA)](https://jobright.ai/jobs/info/67d99dbed6f78ced09ca5cb8?utm_campaign=1053&utm_source=git)** | Woodland Hills, California | On Site | Mar 18 |
 | ↳ | **[Universal Music Group 2025 Summer Internship Program: Brand & Label Opportunities: (Onsite: CA)](https://jobright.ai/jobs/info/67d99dbed6f78ced09ca5e14?utm_campaign=1053&utm_source=git)** | Santa Monica, California | On Site | Mar 18 |
-| ↳ | **[Universal Music Group 2025 Summer Internship Program: Brand & Label Opportunities: (Onsite: CA)](https://jobright.ai/jobs/info/67d99dbed6f78ced09ca5cb8?utm_campaign=1053&utm_source=git)** | Woodland Hills, California | On Site | Mar 18 |
+| ↳ | **[Universal Music Group 2025 Summer Internship Program: Brand & Label Opportunities: (Onsite: CA)](https://jobright.ai/jobs/info/67d99dbed6f78ced09ca5e13?utm_campaign=1053&utm_source=git)** | Beverly Hills, California | On Site | Mar 18 |
 | **[BDG](http://bustle.com)** | **[Temp Fashion Closet Assistant, W](https://jobright.ai/jobs/info/67d99c19df37d450bcf0c072?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 18 |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[Proprietary Content Intern, Summer 2025](https://jobright.ai/jobs/info/675321e7b6bfe6b1759d5b6d?utm_campaign=1053&utm_source=git)** | Ipswich, MA | Remote | Mar 18 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2025 Summer Internship Program: UMLE/UMLA (Onsite: FL/CA)](https://jobright.ai/jobs/info/67d98b26def223a30b1fbaac?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | On Site | Mar 18 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Operations & Event Production (Peacock Theater)](https://jobright.ai/jobs/info/67d8f8c7e625e5d582d60419?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 17 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Eastern Progress Editor](https://jobright.ai/jobs/info/67d90162b9648f7bd32f99bd?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Mar 17 |
-| ↳ | **[Appalachian Shakespeare Center Spring 2025 Show Cast/Crew](https://jobright.ai/jobs/info/67d90162b9648f7bd32f99c5?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Mar 17 |
 | ↳ | **[Music Graduate Assistant](https://jobright.ai/jobs/info/67d90162b9648f7bd32f99ce?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Mar 17 |
+| ↳ | **[Appalachian Shakespeare Center Spring 2025 Show Cast/Crew](https://jobright.ai/jobs/info/67d90162b9648f7bd32f99c5?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Mar 17 |
 | **[Skydance Animation](https://skydance.com/animation/#-)** | **[Internship - Animation Production Management (Summer 2025)](https://jobright.ai/jobs/info/67d90162b9648f7bd32f9a55?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Hybrid | Mar 17 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Assistant Curator - EKY BEREA](https://jobright.ai/jobs/info/67d9187f5766b055b07ed959?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Mar 17 |
 | **[Skydance Animation](https://skydance.com/animation/#-)** | **[Internship - Animation Production Management (Summer 2025)](https://jobright.ai/jobs/info/67d8f0e6e3f8e4ab7580f11b?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 17 |
@@ -147,9 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Animation Production Management (Summer 2025)](https://jobright.ai/jobs/info/67d8f2e9e3f8e4ab7580fbfe?utm_campaign=1053&utm_source=git)** | New Jersey, United States | Hybrid | Mar 17 |
 | **[Broward Center for the Performing Arts](https://www.browardcenter.org/)** | **[Intern- Programming](https://jobright.ai/jobs/info/67d8b77f90aa43c05af6119c?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 17 |
 | ↳ | **[Intern- Production](https://jobright.ai/jobs/info/67d8b77f90aa43c05af61133?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 17 |
-| **[Skydance](https://skydance.com)** | **[Internship - Animation Production Management (Summer 2025)](https://jobright.ai/jobs/info/67d8aa64bf4e466d7e844531?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Mar 17 |
-| ↳ | **[Internship - Animation Production Management (Summer 2025)](https://jobright.ai/jobs/info/67d8aa64bf4e466d7e844523?utm_campaign=1053&utm_source=git)** | Mid-City, Los Angeles | Hybrid | Mar 17 |
-| **[Saks Fifth Avenue Stores (SFA)](https://www.careersatsfa.com)** | **[Fitter/Tailor/Sewer Intern](https://jobright.ai/jobs/info/67d8aa64bf4e466d7e844681?utm_campaign=1053&utm_source=git)** | Lower Merion, PA | On Site | Mar 17 |
+| **[Skydance](https://skydance.com)** | **[Internship - Animation Production Management (Summer 2025)](https://jobright.ai/jobs/info/67d8aa64bf4e466d7e844523?utm_campaign=1053&utm_source=git)** | Mid-City, Los Angeles | Hybrid | Mar 17 |
+| ↳ | **[Internship - Animation Production Management (Summer 2025)](https://jobright.ai/jobs/info/67d8aa64bf4e466d7e844531?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Mar 17 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/67d89479f1fc4b50d3c30136?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 17 |
 | **[Marriott International](http://travel-brilliantly.marriott.com)** | **[Culinary Intern ](https://jobright.ai/jobs/info/67d870282f33852699c4cb77?utm_campaign=1053&utm_source=git)** | Two Grasslawn Avenue, Hilton Head Island, SC, 29928, US | On Site | Mar 17 |
 | **[Sharecare](https://www.sharecare.com)** | **[Intern - Video](https://jobright.ai/jobs/info/67d86973a6d8eeb348acb04b?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Curatorial Research Student Assistant](https://jobright.ai/jobs/info/67d83cbf9bf0010763e91aa4?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Mar 17 |
 | **[Drake Cooper](https://drakecooper.com/)** | **[2025 Back Stage Pass Intern](https://jobright.ai/jobs/info/67d8322ac9ed88f25cb792b4?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 17 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, People - Editorial](https://jobright.ai/jobs/info/679d92d4ffced95ccd0a1211?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 16 |
+| **[The Crossing](http://www.thecrossing.church)** | **[Music Intern](https://jobright.ai/jobs/info/67d77e00313b11b7251a29a4?utm_campaign=1053&utm_source=git)** | Chesterfield, MO | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
