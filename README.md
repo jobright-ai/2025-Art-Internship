@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Culinary Internship](https://jobright.ai/jobs/info/67e0399ec65ede993368cf9a?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Mar 23 |
 | **[Terex Corporation](http://www.terex.com)** | **[Videographer Intern, Part time, Heil Environmental c343](https://jobright.ai/jobs/info/67df84b87acb768f585657a0?utm_campaign=1053&utm_source=git)** | Spanish Fort, AL | On Site | Mar 22 |
 | **[Encore](http://www.encore.com)** | **[Event Technology Intern (Fall 2025) - Las Vegas](https://jobright.ai/jobs/info/67df39df43194237d8ee8b70?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Mar 22 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/67c28efe22ca75d52d2f0e75?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Mar 22 |
 | **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[Video Production Internship](https://jobright.ai/jobs/info/67c28efe22ca75d52d2f079c?utm_campaign=1053&utm_source=git)** | Monterey, CA | On Site | Mar 22 |
 | **[Montage International](https://www.montageinternational.com)** | **[Culinary Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d61?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Mar 22 |
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e76661417c381a0dfd7c8?utm_campaign=1053&utm_source=git)** | Northbrook, IL | On Site | Mar 22 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67dd1b6b006639b16a214f3b?utm_campaign=1053&utm_source=git)** | Quincy, IL | On Site | Mar 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/67dcf820d7eea5fdacbc0c41?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/67dce6f974ce2fbfdd9620de?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Mar 20 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Stage Ouvrier - Ingénieur 1ère année (H/F)](https://jobright.ai/jobs/info/67df78e08d76b3d1c931373d?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Mar 20 |
 | **[Business Insider](http://www.businessinsider.com)** | **[Business Contributors Fellow (Summer 2025)](https://jobright.ai/jobs/info/67dce4349aaa95b5a1619b0d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[AAAS](http://www.aaas.org/)** | **[AAAS Kavli Science Journalism Awards Intern](https://jobright.ai/jobs/info/67dcce164eaa4355ce229859?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[Content Creator Student Assistant](https://jobright.ai/jobs/info/67dcad92a1e0609923641799?utm_campaign=1053&utm_source=git)** | Riverside, CA | On Site | Mar 20 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Stonecreek Crossing](https://jobright.ai/jobs/info/67da32fd43512c9afdb3e6d8?utm_campaign=1053&utm_source=git)** | San Marcos, TX | On Site | Mar 19 |
 | **[Business Insider](http://www.businessinsider.com)** | **[Editorial Operations Fellow (Summer 2025)](https://jobright.ai/jobs/info/67db33aef1cdd2358f82abe2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Productions (Summer 2025)](https://jobright.ai/jobs/info/67db33aef1cdd2358f82ad0e?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 19 |
-| **[The Nature Conservancy](http://www.nature.org/)** | **[Video Intern](https://jobright.ai/jobs/info/67db293b3124148c37339779?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Mar 19 |
-| ↳ | **[Global Storytelling Intern, Protect Oceans, Lands and Waters](https://jobright.ai/jobs/info/67db293b3124148c373397a7?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Mar 19 |
+| **[The Nature Conservancy](http://www.nature.org/)** | **[Global Storytelling Intern, Protect Oceans, Lands and Waters](https://jobright.ai/jobs/info/67db293b3124148c373397a7?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Mar 19 |
+| ↳ | **[Video Intern](https://jobright.ai/jobs/info/67db293b3124148c37339779?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Mar 19 |
 | **[Baker Publishing Group](http://bakerpublishinggroup.com/)** | **[Editorial Intern- Summer](https://jobright.ai/jobs/info/67db21d6437f57132295b27e?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Mar 19 |
 | **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Rogue Valley Mall](https://jobright.ai/jobs/info/67da32fd43512c9afdb3e761?utm_campaign=1053&utm_source=git)** | Medford, OR | On Site | Mar 19 |
 | ↳ | **[Designer In Training Salon - East Towne Mall](https://jobright.ai/jobs/info/67da32fd43512c9afdb3e78c?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Mar 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mel Trotter Ministries](https://www.meltrotter.org)** | **[Culinary Intern](https://jobright.ai/jobs/info/67da2d5d23e1b12777b48a69?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Mar 18 |
 | **[Our Daily Bread Ministries](https://odb.org/)** | **[Editorial Intern - Paid Full Time](https://jobright.ai/jobs/info/67c9286092abaeaf4ea23de6?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Mar 18 |
 | **[American Geophysical Union](https://www.agu.org)** | **[Intern, Science Writer (6 months) (49600)](https://jobright.ai/jobs/info/67da04be7df6b0eede9ba496?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 18 |
-| **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - 5th Avenue Mall-Sur](https://jobright.ai/jobs/info/67da3ad9dd5c6c3f66c31f99?utm_campaign=1053&utm_source=git)** | Anchorage, AK | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
