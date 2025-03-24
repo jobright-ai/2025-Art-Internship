@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Culinary Internship](https://jobright.ai/jobs/info/67e0399ec65ede993368cf9a?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Mar 23 |
+| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Fellow, Test Kitchen](https://jobright.ai/jobs/info/67c374ab4c328879ec4fb807?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Mar 23 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern (Part-time)](https://jobright.ai/jobs/info/675878545d1b2e080979056b?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Mar 23 |
 | **[Terex Corporation](http://www.terex.com)** | **[Videographer Intern, Part time, Heil Environmental c343](https://jobright.ai/jobs/info/67df84b87acb768f585657a0?utm_campaign=1053&utm_source=git)** | Spanish Fort, AL | On Site | Mar 22 |
 | **[Mars](https://www.mars.com)** | **[Summer 2025 Mars Museum Collections Management Internship – McLean, VA.](https://jobright.ai/jobs/info/67ab03997e6f2c4002920d35?utm_campaign=1053&utm_source=git)** | McLean, VA | On Site | Mar 22 |
@@ -122,6 +123,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Editorial Intern, Artisan/Workman](https://jobright.ai/jobs/info/67dc0a730275c01bda541032?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Everyday Northwest Lifestyle Show Intern (unpaid)](https://jobright.ai/jobs/info/66cafef8423ff6807e053283?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Mar 20 |
 | **[Everyday Health Group](https://www.everydayhealthgroup.com)** | **[Intern](https://jobright.ai/jobs/info/67de6e7423ebf42bfce54853?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Mar 19 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Summer Intern 2025 - WFAN](https://jobright.ai/jobs/info/67e0f620ce7c590922db3fe4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC11 Troubleshooter & Consumer Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67db94c821da119d8d192bb9?utm_campaign=1053&utm_source=git)** | Durham, NC, USA | On Site | Mar 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital News Intern - KREX Grand Junction](https://jobright.ai/jobs/info/67db94570d00ac5fbc123269?utm_campaign=1053&utm_source=git)** | Grand Junction, CO | On Site | Mar 19 |
 | ↳ | **[Unpaid Weather Intern - KREX Grand Junction](https://jobright.ai/jobs/info/67db8573f8a5e03b24548f0f?utm_campaign=1053&utm_source=git)** | Grand Junction, CO | On Site | Mar 19 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Stonecreek Crossing](https://jobright.ai/jobs/info/67da32fd43512c9afdb3e6d8?utm_campaign=1053&utm_source=git)** | San Marcos, TX | On Site | Mar 19 |
 | **[Business Insider](http://www.businessinsider.com)** | **[Editorial Operations Fellow (Summer 2025)](https://jobright.ai/jobs/info/67db33aef1cdd2358f82abe2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Productions (Summer 2025)](https://jobright.ai/jobs/info/67db33aef1cdd2358f82ad0e?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 19 |
-| **[The Nature Conservancy](http://www.nature.org/)** | **[Global Storytelling Intern, Protect Oceans, Lands and Waters](https://jobright.ai/jobs/info/67db293b3124148c373397a7?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Mar 19 |
-| ↳ | **[Video Intern](https://jobright.ai/jobs/info/67db293b3124148c37339779?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Mar 19 |
+| **[The Nature Conservancy](http://www.nature.org/)** | **[Video Intern](https://jobright.ai/jobs/info/67db293b3124148c37339779?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Mar 19 |
+| ↳ | **[Global Storytelling Intern, Protect Oceans, Lands and Waters](https://jobright.ai/jobs/info/67db293b3124148c373397a7?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Mar 19 |
 | **[Baker Publishing Group](http://bakerpublishinggroup.com/)** | **[Editorial Intern- Summer](https://jobright.ai/jobs/info/67db21d6437f57132295b27e?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Mar 19 |
 | **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Rogue Valley Mall](https://jobright.ai/jobs/info/67da32fd43512c9afdb3e761?utm_campaign=1053&utm_source=git)** | Medford, OR | On Site | Mar 19 |
 | ↳ | **[Designer In Training Salon - East Towne Mall](https://jobright.ai/jobs/info/67da32fd43512c9afdb3e78c?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Mar 19 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Town East Mall](https://jobright.ai/jobs/info/67da32fd43512c9afdb3e6f9?utm_campaign=1053&utm_source=git)** | Mesquite, TX | On Site | Mar 19 |
 | ↳ | **[Designer In Training Salon - Barton Creek Sq](https://jobright.ai/jobs/info/67da32fd43512c9afdb3e66d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 19 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/67bec6656fa30741e959bac7?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Mar 19 |
-| **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[College Student - Strategic Communications -Video Writer-Producer](https://jobright.ai/jobs/info/67da82cba2612d8fc6335a42?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Mar 18 |
-| **[The Little Nell](https://www.thelittlenell.com)** | **[Culinary/Pastry Extern - The Little Nell - Summer 2025](https://jobright.ai/jobs/info/67da67500d68d7e7f0957441?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Mar 18 |
-| **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Three Rivers Mall](https://jobright.ai/jobs/info/67da316d632622c624352b8e?utm_campaign=1053&utm_source=git)** | Kelso, WA | On Site | Mar 18 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Intern 2025 - Recreation Supervisor](https://jobright.ai/jobs/info/67da415b21a1a49a6017dc14?utm_campaign=1053&utm_source=git)** | Carlsbad, CA | On Site | Mar 18 |
-| **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Louis Joliet Mall](https://jobright.ai/jobs/info/67da32fd43512c9afdb3e76e?utm_campaign=1053&utm_source=git)** | Joliet, IL | On Site | Mar 18 |
-| **[Aspen Skiing Company](https://www.aspensnowmass.com)** | **[Culinary/Pastry Extern - The Little Nell - Summer 2025](https://jobright.ai/jobs/info/67da415b21a1a49a6017da24?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Mar 18 |
+| **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Southpark Center](https://jobright.ai/jobs/info/67da3ad9dd5c6c3f66c31f9b?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Mar 19 |
+| ↳ | **[Designer In Training Salon - Melbourne Square](https://jobright.ai/jobs/info/67da3ad9dd5c6c3f66c31f8c?utm_campaign=1053&utm_source=git)** | Melbourne, FL | On Site | Mar 19 |
+| ↳ | **[Designer In Training Salon - Westdale Mall](https://jobright.ai/jobs/info/67da360cbe08419c389ab75c?utm_campaign=1053&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 19 |
+| ↳ | **[Designer In Training Salon - Beaver Valley Mall](https://jobright.ai/jobs/info/67da360cbe08419c389ab775?utm_campaign=1053&utm_source=git)** | Monaca, PA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
