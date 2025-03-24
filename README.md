@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Culinary Internship](https://jobright.ai/jobs/info/67e0399ec65ede993368cf9a?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Mar 23 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Fellow, Test Kitchen](https://jobright.ai/jobs/info/67c374ab4c328879ec4fb807?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Mar 23 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern (Part-time)](https://jobright.ai/jobs/info/675878545d1b2e080979056b?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Mar 23 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/6791b1b458b770e262c80a86?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Mar 23 |
 | **[Terex Corporation](http://www.terex.com)** | **[Videographer Intern, Part time, Heil Environmental c343](https://jobright.ai/jobs/info/67df84b87acb768f585657a0?utm_campaign=1053&utm_source=git)** | Spanish Fort, AL | On Site | Mar 22 |
 | **[Mars](https://www.mars.com)** | **[Summer 2025 Mars Museum Collections Management Internship – McLean, VA.](https://jobright.ai/jobs/info/67ab03997e6f2c4002920d35?utm_campaign=1053&utm_source=git)** | McLean, VA | On Site | Mar 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/6789cacc482497791a3db457?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Mar 22 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Art Therapist Intern](https://jobright.ai/jobs/info/674e76661417c381a0dfd7be?utm_campaign=1053&utm_source=git)** | Oak Brook, IL | On Site | Mar 19 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Content Archive Intern: ATL - Summer 2025](https://jobright.ai/jobs/info/67db638ff2091c05391a4eac?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | **[Canon USA](https://www.usa.canon.com)** | **[2025 Canon Insights Summer Internship - Early Talent Intern](https://jobright.ai/jobs/info/67bdfe1dd21679bc2de18977?utm_campaign=1053&utm_source=git)** | Melville, NY | Hybrid | Mar 19 |
-| **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Town East Mall](https://jobright.ai/jobs/info/67da32fd43512c9afdb3e6f9?utm_campaign=1053&utm_source=git)** | Mesquite, TX | On Site | Mar 19 |
+| **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Towne East Square](https://jobright.ai/jobs/info/67da32fd43512c9afdb3e72f?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 19 |
+| ↳ | **[Designer In Training Salon - Town East Mall](https://jobright.ai/jobs/info/67da32fd43512c9afdb3e6f9?utm_campaign=1053&utm_source=git)** | Mesquite, TX | On Site | Mar 19 |
 | ↳ | **[Designer In Training Salon - Barton Creek Sq](https://jobright.ai/jobs/info/67da32fd43512c9afdb3e66d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 19 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/67bec6656fa30741e959bac7?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Mar 19 |
 | **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Southpark Center](https://jobright.ai/jobs/info/67da3ad9dd5c6c3f66c31f9b?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Mar 19 |
 | ↳ | **[Designer In Training Salon - Melbourne Square](https://jobright.ai/jobs/info/67da3ad9dd5c6c3f66c31f8c?utm_campaign=1053&utm_source=git)** | Melbourne, FL | On Site | Mar 19 |
-| ↳ | **[Designer In Training Salon - Westdale Mall](https://jobright.ai/jobs/info/67da360cbe08419c389ab75c?utm_campaign=1053&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 19 |
-| ↳ | **[Designer In Training Salon - Beaver Valley Mall](https://jobright.ai/jobs/info/67da360cbe08419c389ab775?utm_campaign=1053&utm_source=git)** | Monaca, PA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
