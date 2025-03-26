@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - News Internship – Summer 2025](https://jobright.ai/jobs/info/67e345126fd9edf4cdbf6146?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Mar 25 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Bay Area - News Internship – Summer 2025](https://jobright.ai/jobs/info/67e351d69f17d053c2a48847?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Mar 25 |
+| **[Conewago Enterprises Inc](http://conewago.com)** | **[Co-Op/Internship](https://jobright.ai/jobs/info/67e3512975ce78b6fe3acf63?utm_campaign=1053&utm_source=git)** | Hanover, PA | On Site | Mar 25 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - News Internship – Summer 2025](https://jobright.ai/jobs/info/67e347536fd9edf4cdbf672c?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Mar 25 |
 | **[National Journal](http://www.nationaljournal.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/67e33212129b8df174369759?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent and Casting Intern, SPT – Summer/Fall 2025](https://jobright.ai/jobs/info/67e311e39799481f5c2d299e?utm_campaign=1053&utm_source=git)** | Culver City, CA | Hybrid | Mar 25 |
 | **[International Spy Museum](https://spymuseum.org)** | **[Summer Collections Intern](https://jobright.ai/jobs/info/67e31847ba280feb116e44b7?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Mar 25 |
@@ -96,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[Investigative News Intern](https://jobright.ai/jobs/info/67e1bf83c6d746490e2d7a35?utm_campaign=1053&utm_source=git)** | 81 Northport Drive, Portland, ME, 04103, US | On Site | Mar 24 |
 | **[Hasbro](https://investor.hasbro.com/)** | **[Global Production Studio Intern](https://jobright.ai/jobs/info/67e1c0765a9de7faed3addbf?utm_campaign=1053&utm_source=git)** | Pawtucket, RI | On Site | Mar 24 |
 | **[USANA Health Sciences](http://www.usana.com)** | **[Event Intern](https://jobright.ai/jobs/info/67e1bcfcafd56c1a213a5196?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Mar 24 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News "All Things Considered" Internship - Summer 2025](https://jobright.ai/jobs/info/67e1ac658856a90471a04d44?utm_campaign=1053&utm_source=git)** | Boston | On Site | Mar 24 |
+| **[GBH](http://www.wgbh.org/)** | **[GBH News "All Things Considered" Internship - Summer 2025](https://jobright.ai/jobs/info/67e1ac658856a90471a04b2a?utm_campaign=1053&utm_source=git)** | Boston | On Site | Mar 24 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Talent Team Intern](https://jobright.ai/jobs/info/67e1a9434aaa70d10d3d6fca?utm_campaign=1053&utm_source=git)** | Columbia, SC, USA | On Site | Mar 24 |
 | **[USANA Health Sciences](http://www.usana.com)** | **[Event Intern](https://jobright.ai/jobs/info/67e1a9434aaa70d10d3d7078?utm_campaign=1053&utm_source=git)** | Salt Lake City, Utah | On Site | Mar 24 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Summer 2025](https://jobright.ai/jobs/info/67e188fc527f7b8c72a17c44?utm_campaign=1053&utm_source=git)** | Boston | On Site | Mar 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/67ddbe7101fc115e0a3053bc?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | Mar 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/67dd61a48d7456bd7c9ac87f?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Mar 21 |
 | ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/67dd61a48d7456bd7c9ac871?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Mar 21 |
-| ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/67dd61a48d7456bd7c9ac879?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/67a29043ced5da1845408699?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
