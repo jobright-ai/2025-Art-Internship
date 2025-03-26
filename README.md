@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reckitt](https://www.reckitt.com)** | **[Production Intern](https://jobright.ai/jobs/info/67e3e0bdf466bcf25afdf80e?utm_campaign=1053&utm_source=git)** | El Paso, TX | On Site | Mar 26 |
+| **[Sage](https://group.sagepub.com)** | **[Editorial Intern, US College](https://jobright.ai/jobs/info/67e3e5a9b5d9ee007993cadf?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Mar 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern (WJAR) - Summer 2025](https://jobright.ai/jobs/info/67e3b1334bb47e23f578b2c9?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Mar 26 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/67e3a414349de5898c973de9?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 25 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Bay Area - News Internship – Summer 2025](https://jobright.ai/jobs/info/67e351d69f17d053c2a489ac?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Mar 25 |
@@ -72,6 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Acquisitions Trainee, Sony Pictures Classics  - Summer 2025](https://jobright.ai/jobs/info/67e2e7b7a14b784a1368ff3c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[News Intern, KPAX](https://jobright.ai/jobs/info/67e2d9e183bcd4f4fcb95a1d?utm_campaign=1053&utm_source=git)** | Missoula, MT - KPAX/KAJJ | On Site | Mar 25 |
 | ↳ | **[News Intern, KTVQ](https://jobright.ai/jobs/info/67e2d9e183bcd4f4fcb95a2f?utm_campaign=1053&utm_source=git)** | Billings, 3rd Avenue N, KTVQ | On Site | Mar 25 |
+| **[Our Daily Bread Ministries](https://odb.org/)** | **[Visual Media Intern ( Marketing/Storytelling)- Paid PT](https://jobright.ai/jobs/info/67b667585157310e75b5e35a?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Mar 25 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Video Producer - COSAM Communications and Marketing](https://jobright.ai/jobs/info/67e2faf8af1cddd2785c3fd6?utm_campaign=1053&utm_source=git)** | Auburn, AL | Hybrid | Mar 25 |
 | **[Saatchi & Saatchi X](http://www.saatchix.net/)** | **[Intern, Producer](https://jobright.ai/jobs/info/67e2ca829de0425ab7aeb7de?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 25 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Credit Cards, Loans and Banking 2025 Summer Editorial Intern](https://jobright.ai/jobs/info/67aae934a27a6f67c81afa6f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 25 |
@@ -105,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[GBH News "All Things Considered" Internship - Summer 2025](https://jobright.ai/jobs/info/67e1ac658856a90471a04d44?utm_campaign=1053&utm_source=git)** | Boston | On Site | Mar 24 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Talent Team Intern](https://jobright.ai/jobs/info/67e1a9434aaa70d10d3d6fca?utm_campaign=1053&utm_source=git)** | Columbia, SC, USA | On Site | Mar 24 |
 | **[USANA Health Sciences](http://www.usana.com)** | **[Event Intern](https://jobright.ai/jobs/info/67e1a9434aaa70d10d3d7078?utm_campaign=1053&utm_source=git)** | Salt Lake City, Utah | On Site | Mar 24 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Summer 2025](https://jobright.ai/jobs/info/67e188fc527f7b8c72a17ea4?utm_campaign=1053&utm_source=git)** | Boston | On Site | Mar 24 |
+| **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Summer 2025](https://jobright.ai/jobs/info/67e188fc527f7b8c72a17c44?utm_campaign=1053&utm_source=git)** | Boston | On Site | Mar 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Experiences Digital Integration Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67e188fc527f7b8c72a17d25?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Mar 24 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Audubon Magazine Editorial Fellow](https://jobright.ai/jobs/info/67e1930599b0cdf1b6e1a724?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Summer 2025](https://jobright.ai/jobs/info/67e1866a0eb55287fdd8c9af?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Mar 24 |
@@ -144,8 +147,9 @@ For a complete list, click the following sortable link below:
 | **[Miami HEAT](http://HEAT.com)** | **[Broadcast Intern - Summer 2025](https://jobright.ai/jobs/info/67c6a201d6161fe042d61547?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Mar 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Intern](https://jobright.ai/jobs/info/664e2071b45b688e7b70fba9?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Mar 22 |
 | **[Fifth Third Bank](http://53.com)** | **[Fifth Third Museum - History Externship](https://jobright.ai/jobs/info/67c1f28c5f01baa6273d6d09?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Mar 22 |
+| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS (WEATHER) INTERN SUMMER '25 - WANF](https://jobright.ai/jobs/info/67dddf4baf540935e56ad1f5?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Mar 22 |
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Content Creator Intern](https://jobright.ai/jobs/info/67c23671695f970b79747795?utm_campaign=1053&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Mar 22 |
-| **[Our Daily Bread Ministries](https://odb.org/)** | **[Visual Media Intern ( Marketing/Storytelling)- Paid PT](https://jobright.ai/jobs/info/67b667585157310e75b5e35a?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Mar 21 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/67a3d4f518d284e8cf72d1cd?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Mar 22 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Fellow, Allrecipes Editorial](https://jobright.ai/jobs/info/67c088dbe9d6ef94baa973b7?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Mar 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/67de432455947891c181b03a?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 21 |
 | ↳ | **[LN Concerts, Talent Booking Intern](https://jobright.ai/jobs/info/67de432455947891c181b038?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Culinary Internship](https://jobright.ai/jobs/info/67de2c3089f0463a130c2e14?utm_campaign=1053&utm_source=git)** | Bedford, PA | On Site | Mar 21 |
 | **[Terex Corporation](http://www.terex.com)** | **[Videographer Intern, Part time, Heil Environmental c343](https://jobright.ai/jobs/info/67de12557b6615f2affcc880?utm_campaign=1053&utm_source=git)** | US-AL Fort Payne | On Site | Mar 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Talent Booking Intern](https://jobright.ai/jobs/info/67de0df2fdcabd4be458247c?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | On Site | Mar 21 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[KVDA Internship](https://jobright.ai/jobs/info/67de09af777b31f237b5cad3?utm_campaign=1053&utm_source=git)** | 6234 San Pedro Ave, San Antonio, TEXAS | On Site | Mar 21 |
-| **[Office of the County Engineer](http://www.eng.hctx.net)** | **[Summer Intern](https://jobright.ai/jobs/info/67b754f6f8354d683acdbb62?utm_campaign=1053&utm_source=git)** | Greater Houston | On Site | Mar 21 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Summer 2025](https://jobright.ai/jobs/info/67ddfd35985c29c5fe7bae14?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Mar 21 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KVDA Internship](https://jobright.ai/jobs/info/67ddf8f77ce2c24e4f46c3ef?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
