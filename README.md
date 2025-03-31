@@ -58,9 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Huntington](http://www.huntington.org/)** | **[Getty Marrow Registration and Digitization Intern](https://jobright.ai/jobs/info/67d4b9c40e2f8af3415a890a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
-| **[Chicago Public Media](http://www.wbez.org/)** | **[Arts & Culture Audio/Multimedia Reporting Intern](https://jobright.ai/jobs/info/67e85a1e2883c8bd6e1d132f?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 29 |
-| ↳ | **[News Desk Intern](https://jobright.ai/jobs/info/67e85a1e2883c8bd6e1d1368?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 29 |
+| **[Chicago Public Media](http://www.wbez.org/)** | **[News Desk Intern](https://jobright.ai/jobs/info/67e85a1e2883c8bd6e1d1368?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 29 |
+| ↳ | **[Arts & Culture Audio/Multimedia Reporting Intern](https://jobright.ai/jobs/info/67e85a1e2883c8bd6e1d132f?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 29 |
 | ↳ | **[Audio News Intern](https://jobright.ai/jobs/info/67e8510c31314721cd9160e6?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Mar 29 |
+| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Media Production Student Intern](https://jobright.ai/jobs/info/67cb764e57e09f619c57da4c?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Mar 29 |
 | **[Snowflake](https://www.snowflake.com)** | **[Content and Editorial Intern - Fall 2025](https://jobright.ai/jobs/info/67cb1ce1a708dbb279da2254?utm_campaign=1053&utm_source=git)** | Menlo Park, CA | On Site | Mar 29 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/67acf2f0c2dfea0eaa81d2fa?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Mar 29 |
 | **[Japan Society](http://www.japansociety.org)** | **[Gallery Exhibition Management Intern](https://jobright.ai/jobs/info/67e7be230bba3a31e68b7425?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Archival Processing Intern (Staff Wage)](https://jobright.ai/jobs/info/67e30371f57f05c523a4883a?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | On Site | Mar 25 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Acquisitions Trainee, Sony Pictures Classics  - Summer 2025](https://jobright.ai/jobs/info/67e2e7b7a14b784a1368ff3c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[News Intern, KPAX](https://jobright.ai/jobs/info/67e2d9e183bcd4f4fcb95a1d?utm_campaign=1053&utm_source=git)** | Missoula, MT - KPAX/KAJJ | On Site | Mar 25 |
-| ↳ | **[News Intern, KTVQ](https://jobright.ai/jobs/info/67e2d9e183bcd4f4fcb95a2f?utm_campaign=1053&utm_source=git)** | Billings, 3rd Avenue N, KTVQ | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
