@@ -57,9 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/67eb374de30582623d0f3b27?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Mar 31 |
+| **[Apollo Theater](https://www.apollotheater.org)** | **[The Apollo Theater Academy Theater Production Internship](https://jobright.ai/jobs/info/67eb374de30582623d0f3cb7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/67eb230772527191ea748944?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 31 |
+| **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Francis Scott Key Ml](https://jobright.ai/jobs/info/67eb59eb1d14468d1fb9f61b?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Mar 31 |
+| ↳ | **[Designer In Training Salon - Ross Park Mall](https://jobright.ai/jobs/info/67eb59eb1d14468d1fb9f5eb?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Mar 31 |
+| ↳ | **[Designer In Training Salon - Apache Mall](https://jobright.ai/jobs/info/67eb59eb1d14468d1fb9f600?utm_campaign=1053&utm_source=git)** | Rochester, MN | On Site | Mar 31 |
+| ↳ | **[Designer In Training Salon - Village Lakes](https://jobright.ai/jobs/info/67eb59eb1d14468d1fb9f616?utm_campaign=1053&utm_source=git)** | White Lake, MI | On Site | Mar 31 |
+| ↳ | **[Designer In Training Salon - Governors Sq](https://jobright.ai/jobs/info/67eb59eb1d14468d1fb9f5fc?utm_campaign=1053&utm_source=git)** | Clarksville, TN | On Site | Mar 31 |
+| ↳ | **[Designer In Training Salon - Westmoreland Mall](https://jobright.ai/jobs/info/67eb59eb1d14468d1fb9f5fb?utm_campaign=1053&utm_source=git)** | Greensburg, PA | On Site | Mar 31 |
+| ↳ | **[Designer In Training Salon - Fox River Mall](https://jobright.ai/jobs/info/67eb59eb1d14468d1fb9f610?utm_campaign=1053&utm_source=git)** | Appleton, WI | On Site | Mar 31 |
+| ↳ | **[Designer In Training Salon - Lehigh Valley Mall](https://jobright.ai/jobs/info/67eb59eb1d14468d1fb9f604?utm_campaign=1053&utm_source=git)** | Whitehall, PA | On Site | Mar 31 |
+| ↳ | **[Designer In Training Salon - Tucson Mall](https://jobright.ai/jobs/info/67eb59eb1d14468d1fb9f61e?utm_campaign=1053&utm_source=git)** | Tucson, AZ | On Site | Mar 31 |
+| ↳ | **[Designer In Training Salon - Oak Park Shopg Cntr](https://jobright.ai/jobs/info/67eb59eb1d14468d1fb9f676?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Mar 31 |
+| ↳ | **[Designer In Training Salon - First & Main Town Ct](https://jobright.ai/jobs/info/67eb59eb1d14468d1fb9f62c?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | Mar 31 |
+| ↳ | **[Designer In Training Salon - Nature Coast Commons](https://jobright.ai/jobs/info/67eb59eb1d14468d1fb9f62b?utm_campaign=1053&utm_source=git)** | Spring Hill, FL | On Site | Mar 31 |
 | **[GoodRx](https://www.goodrx.com)** | **[Editorial Internship: Copy-editing or Writing (6 Months)](https://jobright.ai/jobs/info/67eb1fd2b22920023c947656?utm_campaign=1053&utm_source=git)** | United States | Remote | Mar 31 |
 | **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Valley Mall](https://jobright.ai/jobs/info/67eb00dc039b2547f86e6327?utm_campaign=1053&utm_source=git)** | Hagerstown, MD | On Site | Mar 31 |
+| ↳ | **[Designer In Training Salon - Fairfield Commons](https://jobright.ai/jobs/info/67eb59eb1d14468d1fb9f678?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Mar 31 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67eaf469e2f1b1791707606b?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Mar 31 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios - Content Kitchen Production Intern](https://jobright.ai/jobs/info/67eaf23f21366bf3c1ced3de?utm_campaign=1053&utm_source=git)** | Atlanta Support Center | Hybrid | Mar 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KGO-TV (ABC7) Assignment Desk News Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67eae2a98a2277c2e30935e3?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA | On Site | Mar 31 |
@@ -67,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[GoodRx](https://www.goodrx.com)** | **[Editorial Internship: Copy-editing or Writing (6 Months)](https://jobright.ai/jobs/info/67eac23133939bb70c4aa218?utm_campaign=1053&utm_source=git)** | Remote USA | Remote | Mar 31 |
 | **[Library of Congress](http://www.loc.gov)** | **[2025 Archives, History and Heritage Advanced (AHHA) Internship Program (Onsite Internship)](https://jobright.ai/jobs/info/67eac113ff997dc39c533951?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Mar 31 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Pastry Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/67eac8426749efc23e698a2b?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Mar 31 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/673bb41e23a3d19e9a268b81?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Mar 31 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/67ea5285e65086e5d31ec9db?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Mar 30 |
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/67ea48c06ed632d17d859ea2?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Mar 30 |
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/67ea48c06ed632d17d859ebc?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Mar 30 |
@@ -87,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital News Intern- Summer, 2025](https://jobright.ai/jobs/info/67ca6d5139679154c9acee4f?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Mar 28 |
 | **[Archdiocese of Omaha](https://archomaha.org)** | **[Liturgical Music Intern](https://jobright.ai/jobs/info/67e79adae56b0bdd719b2cc4?utm_campaign=1053&utm_source=git)** | Omaha, NE | On Site | Mar 28 |
 | **[SoLa Impact](https://www.solaimpact.com)** | **["Art in Action" Creative Entrepreneurship Fellowship](https://jobright.ai/jobs/info/67e7289498ae388ac22ce97c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - News Internship – Summer 2025](https://jobright.ai/jobs/info/67e731c50b7de206a8a13e60?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - News Internship – Summer 2025](https://jobright.ai/jobs/info/67e731c50b7de206a8a13e61?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Summer News Production Intern](https://jobright.ai/jobs/info/67e70f4b76cead6be74bfbdb?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Mar 28 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - KAIT](https://jobright.ai/jobs/info/67e708c089194a6bb38e8f69?utm_campaign=1053&utm_source=git)** | Jonesboro, AR | On Site | Mar 28 |
 | **[Cars Commerce](http://cars.com)** | **[Editorial News Intern](https://jobright.ai/jobs/info/67acec7eaea7bba132e5552d?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Mar 28 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Encore](http://www.encore.com)** | **[Event Technology Intern (Fall 2025) - Denver](https://jobright.ai/jobs/info/67e495c01150bea9019e1c10?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Mar 26 |
 | **[Inc. Magazine](http://www.inc.com)** | **[Editorial Fellowship](https://jobright.ai/jobs/info/67e478827eb7981958978b76?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Mar 26 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - WDAM](https://jobright.ai/jobs/info/67e46a8e9bb4118105a4a57c?utm_campaign=1053&utm_source=git)** | Moselle, MS | On Site | Mar 26 |
-| **[Titmouse](https://www.titmouse.net)** | **[Titmouse Artistic Mentorship Program - Design & Paint [Summer 2025]](https://jobright.ai/jobs/info/67e45250bc4ba27bee56ecd3?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Mar 26 |
-| ↳ | **[Titmouse Artistic Mentorship Program - Storyboarding [Summer 2025]](https://jobright.ai/jobs/info/67e45250bc4ba27bee56ec81?utm_campaign=1053&utm_source=git)** | either New York or Los Angeles | On Site | Mar 26 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Video Editing Specialist - BYU-Pathway Worldwide (Part-Time, Student Employee)](https://jobright.ai/jobs/info/67e45250bc4ba27bee56ecc7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 26 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Broadcast Internship (NYSBA)](https://jobright.ai/jobs/info/67aac115fd3e617919141d48?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Mar 26 |
-| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/67c7d655ed3262a29c98da2f?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Mar 26 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b17?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Mar 26 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/67ab00235d34f12463b0055d?utm_campaign=1053&utm_source=git)** | Charleston, SC | On Site | Mar 26 |
-| **[Reckitt](https://www.reckitt.com)** | **[Production Intern](https://jobright.ai/jobs/info/67e3e0bdf466bcf25afdf80e?utm_campaign=1053&utm_source=git)** | El Paso, TX | On Site | Mar 26 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Summer News Intern](https://jobright.ai/jobs/info/67ab0b3212b9c87e96e9be43?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Mar 26 |
-| **[Sage](https://group.sagepub.com)** | **[Editorial Intern, US College](https://jobright.ai/jobs/info/67e3e5a9b5d9ee007993cadf?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Mar 26 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern (WJAR) - Summer 2025](https://jobright.ai/jobs/info/67e3b1334bb47e23f578b2c9?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Mar 26 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/67e3a414349de5898c973de9?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Mar 25 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Internship](https://jobright.ai/jobs/info/67c62cc48af0979b5861fbb6?utm_campaign=1053&utm_source=git)** | Green Bay, WI | On Site | Mar 25 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Summer Intern, Madden Girl Production](https://jobright.ai/jobs/info/67ca6077d7e41ffa50827c7f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Mar 25 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Bay Area - News Internship – Summer 2025](https://jobright.ai/jobs/info/67e351d69f17d053c2a489ac?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Mar 25 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - News Internship – Summer 2025](https://jobright.ai/jobs/info/67e345126fd9edf4cdbf6146?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
