@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/67f09a94bc5898b815594c94?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Apr 04 |
 | **[Fuel Cycle](https://www.fuelcycle.com/)** | **[Community Experience Intern](https://jobright.ai/jobs/info/67f0988abc5898b815594740?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 | ↳ | **[Community Experience Intern](https://jobright.ai/jobs/info/67f09a94bc5898b815594ea3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 04 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Summer 2025](https://jobright.ai/jobs/info/67b680dee838e4cc71595763?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | **[VML](https://www.vmlyr.com/)** | **[Intern - Integrated Production (Lincoln)](https://jobright.ai/jobs/info/67f08efa2965e48a70af8451?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 | **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Editorial Internship, Summer 2025](https://jobright.ai/jobs/info/67f06cf44bb4eee3b1a13b3e?utm_campaign=1053&utm_source=git)** | West Allis, WI | Hybrid | Apr 04 |
 | **[Bloomberg](http://www.bloomberg.com)** | **[2025 Fall News Internship](https://jobright.ai/jobs/info/67f084045ce27685bc86abe0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 04 |
@@ -87,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Production Assistant (Part-time)](https://jobright.ai/jobs/info/67ef9f769e5b691116655aba?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Apr 04 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[NYSBA Summer News Intern](https://jobright.ai/jobs/info/67d298766be7f1b32d6fbed2?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 03 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Summer 2025](https://jobright.ai/jobs/info/67b68a5218c4a1d83611f276?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
-| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Media Productions Non-Student Intern (Video)](https://jobright.ai/jobs/info/67ef42c01265e4f6efc93bcc?utm_campaign=1053&utm_source=git)** | BYU–Hawaii | On Site | Apr 03 |
+| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Media Productions Non-Student Intern (Video)](https://jobright.ai/jobs/info/67ef42c01265e4f6efc93af0?utm_campaign=1053&utm_source=git)** | BYU–Hawaii | On Site | Apr 03 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Production Cook 3 Banquets / J-1 Intern](https://jobright.ai/jobs/info/67ef5b0a615aaa2dfdf7ee6c?utm_campaign=1053&utm_source=git)** | Eagan, MN | On Site | Apr 03 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - WECT](https://jobright.ai/jobs/info/67ef46d836b7395a3b9cb498?utm_campaign=1053&utm_source=git)** | Wilmington, NC | On Site | Apr 03 |
 | **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study – Art Gallery Photographer/Videographer Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca282f?utm_campaign=1053&utm_source=git)** | Alachua, FL | On Site | Apr 03 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/67e4e7db97f4ebefa10a94e8?utm_campaign=1053&utm_source=git)** | Bend, OR | On Site | Apr 03 |
 | **[LA Phil](http://www.laphil.com)** | **[Artist Department Intern](https://jobright.ai/jobs/info/67eec162357dc4681d86442d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/67eea8d654e4932cd649ef05?utm_campaign=1053&utm_source=git)** | Wichita Falls, TX | On Site | Apr 03 |
-| **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern (News) PT-2](https://jobright.ai/jobs/info/67ee8cf2b81c2f08440096b4?utm_campaign=1053&utm_source=git)** | Richmond, VA - WTVR | On Site | Apr 03 |
-| ↳ | **[Intern (News) FT-1](https://jobright.ai/jobs/info/67ee8cf2b81c2f084400969f?utm_campaign=1053&utm_source=git)** | Richmond, VA - WTVR | On Site | Apr 03 |
+| **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern (News) FT-1](https://jobright.ai/jobs/info/67ee8cf2b81c2f084400969f?utm_campaign=1053&utm_source=git)** | Richmond, VA - WTVR | On Site | Apr 03 |
+| ↳ | **[Intern (News) PT-2](https://jobright.ai/jobs/info/67ee8cf2b81c2f08440096b4?utm_campaign=1053&utm_source=git)** | Richmond, VA - WTVR | On Site | Apr 03 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Copy Intern](https://jobright.ai/jobs/info/67b678983e92d395cfdbbbeb?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital Intern, Summer 2025](https://jobright.ai/jobs/info/67b68a5218c4a1d83611f275?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
 | ↳ | **[WAVY Unpaid Production Intern, Summer 2025](https://jobright.ai/jobs/info/67b68c1c18c4a1d83611f79b?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[News Intern (WACH) - Summer 2025](https://jobright.ai/jobs/info/67eceea7d2907d5cb9cadd73?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Apr 02 |
 | **[a360media](https://a360media.com/)** | **[Editorial Intern - Us Weekly](https://jobright.ai/jobs/info/67ecf2922e3ce4888b17d1b7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Apr 01 |
-| **[Dialpad](https://www.dialpad.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/67e66bcd3fa5f453b4e2dc5d?utm_campaign=1053&utm_source=git)** | San Ramon, CA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
