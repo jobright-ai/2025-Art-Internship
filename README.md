@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VML](https://www.vmlyr.com/)** | **[Intern - Integrated Production (Lincoln)](https://jobright.ai/jobs/info/67f2d6bfeb853ef4f8b9a328?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Apr 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KFSN-TV (ABC30) Newsroom Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67f2537c6452caa5b12849b3?utm_campaign=1053&utm_source=git)** | Fresno, CA | On Site | Apr 06 |
 | **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Rushmore Mall](https://jobright.ai/jobs/info/67f1eeeda62dd7a2ce69b865?utm_campaign=1053&utm_source=git)** | Rapid City, SD | On Site | Apr 05 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Community and Social Impact College Intern](https://jobright.ai/jobs/info/67f17fe3ab95e873e94bcab2?utm_campaign=1053&utm_source=git)** | Santa Rosa, CA | On Site | Apr 05 |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2025 Summer Internship Program: UMLE/UMLA (Onsite: FL/CA)](https://jobright.ai/jobs/info/67d98b26def223a30b1fbaac?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | On Site | Apr 05 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67d5355dce74a0203d84e5a6?utm_campaign=1053&utm_source=git)** | Springfield, IL | On Site | Apr 05 |
 | ↳ | **[News Internship](https://jobright.ai/jobs/info/67f0e102cef18b2f7dfc678c?utm_campaign=1053&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 05 |
 | ↳ | **[News Intern - Summer 2025 (The National Weather Desk)](https://jobright.ai/jobs/info/67f0dd8eb5a0a2dbb5e72627?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Apr 05 |
@@ -89,10 +91,10 @@ For a complete list, click the following sortable link below:
 | **[Buffalo Sabres](http://sabres.com)** | **[Video Intern - Buffalo Sabres & Buffalo Bandits](https://jobright.ai/jobs/info/67f03ed21ad4e104601a2edf?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Apr 04 |
 | **[DDB Health New York](http://www.ddbhealth.com/#a-force-for-good-health)** | **[Copy Intern](https://jobright.ai/jobs/info/67b6a4bd9ed2919bb0cdc5b5?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ Paid News Internship (Summer)](https://jobright.ai/jobs/info/67b66181858a8af6f369ef5c?utm_campaign=1053&utm_source=git)** | Altoona, PA | On Site | Apr 04 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Summer 2025](https://jobright.ai/jobs/info/67b68c1c18c4a1d83611f81e?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Production Assistant (Part-time)](https://jobright.ai/jobs/info/67ef9f769e5b691116655aba?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Apr 04 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[NYSBA Summer News Intern](https://jobright.ai/jobs/info/67d298766be7f1b32d6fbed2?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 03 |
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/67988c2f44085fedc25732ff?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | Apr 03 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Summer 2025](https://jobright.ai/jobs/info/67b68a5218c4a1d83611f276?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
 | **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Media Productions Non-Student Intern (Video)](https://jobright.ai/jobs/info/67ef42c01265e4f6efc93bcc?utm_campaign=1053&utm_source=git)** | BYU–Hawaii | On Site | Apr 03 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Production Cook 3 Banquets / J-1 Intern](https://jobright.ai/jobs/info/67ef5b0a615aaa2dfdf7ee6c?utm_campaign=1053&utm_source=git)** | Eagan, MN | On Site | Apr 03 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - WECT](https://jobright.ai/jobs/info/67ef46d836b7395a3b9cb498?utm_campaign=1053&utm_source=git)** | Wilmington, NC | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News Production & Operations Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ed13c2a02ccad8fc492944?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern - Summer 2025 (The National News Desk)](https://jobright.ai/jobs/info/67ecfb47d0217b93a04da57c?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Apr 02 |
 | ↳ | **[ARC News Intern (KSNV) - Summer 2025](https://jobright.ai/jobs/info/67ecfb47d0217b93a04da585?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Apr 02 |
-| ↳ | **[ARC News Intern (KATV) - Summer 2025](https://jobright.ai/jobs/info/67ecfb47d0217b93a04da572?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Apr 02 |
-| ↳ | **[News Intern (WSBT) - Summer 2025](https://jobright.ai/jobs/info/67ecfb47d0217b93a04da567?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
