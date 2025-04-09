@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Generation Love](https://generationloveclothing.com/)** | **[Fashion Production Intern](https://jobright.ai/jobs/info/67f58f06fc878e400ba1512d?utm_campaign=1053&utm_source=git)** | Queens, NY | On Site | Apr 08 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KVDA Internship](https://jobright.ai/jobs/info/67f5730b8f6733d0d8f2809c?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Apr 08 |
 | ↳ | **[NBC Bay Area - News Internship – Summer 2025](https://jobright.ai/jobs/info/67f5730b8f6733d0d8f280a3?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
 | ↳ | **[NBC Boston Technical Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67f5730b8f6733d0d8f280af?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Apr 08 |
@@ -64,11 +65,12 @@ For a complete list, click the following sortable link below:
 | **[Warby Parker](http://www.warbyparker.com)** | **[Apprentice Optician - Green Hills](https://jobright.ai/jobs/info/67f569c99b5c0ac019264d19?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Apr 08 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Boston Digital News Intern - Summer 2025](https://jobright.ai/jobs/info/67f5671d9adc0d0a1d3c4a93?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Apr 08 |
 | ↳ | **[NBC Boston Programming Intern - Summer 2025](https://jobright.ai/jobs/info/67f5671d9adc0d0a1d3c4a94?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Apr 08 |
+| **[Empyrean](http://www.goempyrean.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/67f57b80c12aa5dd489e433b?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2025 Summer News Internship](https://jobright.ai/jobs/info/67f55d1b74d1937bf1176675?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Apr 08 |
-| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo Area de la Bahia 48 - News Internship – Summer 2025](https://jobright.ai/jobs/info/67f5730b8f6733d0d8f2814e?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
-| ↳ | **[Telemundo Nueva Ingleterra News Internship - Summer 2025](https://jobright.ai/jobs/info/67f5730b8f6733d0d8f2814f?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Apr 08 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[San Diego Station (NBC 7 and T20) Production Internship - Summer 2025](https://jobright.ai/jobs/info/67f57d86c12aa5dd489e471b?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Apr 08 |
+| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo Nueva Ingleterra News Internship - Summer 2025](https://jobright.ai/jobs/info/67f5730b8f6733d0d8f2814f?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Apr 08 |
+| ↳ | **[Telemundo Area de la Bahia 48 - News Internship – Summer 2025](https://jobright.ai/jobs/info/67f5730b8f6733d0d8f2814e?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
 | ↳ | **[Summer News Intern - Telemundo Utah](https://jobright.ai/jobs/info/67f5730b8f6733d0d8f28150?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 08 |
-| **[Ethos Group](https://ethosgroup.io/)** | **[Intern](https://jobright.ai/jobs/info/67f54999302ed921c1a75085?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Apr 08 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Summer 2025](https://jobright.ai/jobs/info/67f538f94da7026b8cffb3e2?utm_campaign=1053&utm_source=git)** | Boston | On Site | Apr 08 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Editorial Intern, Little, Brown Books for Young Readers](https://jobright.ai/jobs/info/67f50a52157d38c3cb903baf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | ↳ | **[Summer 2025 Orbit Internship](https://jobright.ai/jobs/info/67f5085e157d38c3cb903409?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 08 |
@@ -92,9 +94,9 @@ For a complete list, click the following sortable link below:
 | **[A Jam](https://www.ajamrecords.com/methix)** | **[Summer 2025 Interns (remote): Music & Tech 🎶💻](https://jobright.ai/jobs/info/67f428c58334b3908a5221ea?utm_campaign=1053&utm_source=git)** | Houston, TX | Remote | Apr 07 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2025 Summer Internship Program: Virgin Music Group (Onsite: CA)](https://jobright.ai/jobs/info/67f428ada1bd78b94b3d4180?utm_campaign=1053&utm_source=git)** | Beverly Hills, California | On Site | Apr 07 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Latin America/Caribbean Archival Processing Intern - Church History (Part-time)](https://jobright.ai/jobs/info/67f44ad5819f83b372c60044?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 07 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - News Internship – Summer 2025](https://jobright.ai/jobs/info/67f40bee5615de3da1e1a71d?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 07 |
 | **[Brown & Brown](http://www.bbinsurance.com/)** | **[Fall 2025 Insurance Intern](https://jobright.ai/jobs/info/67f4025ebb26fd6667bf35b1?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Apr 07 |
-| ↳ | **[Fall 2025 Insurance Intern](https://jobright.ai/jobs/info/67f3f26dfd9bcf043ac7cbaf?utm_campaign=1053&utm_source=git)** | Syracuse, NY, USA | On Site | Apr 07 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - News Internship – Summer 2025](https://jobright.ai/jobs/info/67f42cd4a04ecc6dea1a6d82?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 07 |
+| **[Brown & Brown](http://www.bbinsurance.com/)** | **[Fall 2025 Insurance Intern](https://jobright.ai/jobs/info/67f3f26dfd9bcf043ac7cbaf?utm_campaign=1053&utm_source=git)** | Syracuse, NY, USA | On Site | Apr 07 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Summer Intern, Hair Care Category](https://jobright.ai/jobs/info/67f3d4cc8a140185447c777e?utm_campaign=1053&utm_source=git)** | HQ_Port Washington, NY | On Site | Apr 07 |
 | **[Vita Coco](https://www.thevitacococompany.com)** | **[Coconut Content Community Connoisseur](https://jobright.ai/jobs/info/67f3c6eb3d30e6d5a9167af2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136b46?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Apr 07 |
@@ -140,12 +142,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Intern - Buffalo Sabres & Buffalo Bandits](https://jobright.ai/jobs/info/67f03ed21ad4e104601a2edf?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Apr 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ Paid News Internship (Summer)](https://jobright.ai/jobs/info/67b66181858a8af6f369ef5c?utm_campaign=1053&utm_source=git)** | Altoona, PA | On Site | Apr 04 |
 | **[R&CPMK](https://www.rcpmk.com)** | **[Trainee, Film, TV & Content](https://jobright.ai/jobs/info/67d20b9b5bb230b0d8b7a81f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Summer 2025](https://jobright.ai/jobs/info/67b68c1c18c4a1d83611f81e?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 04 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Production Assistant (Part-time)](https://jobright.ai/jobs/info/67ef9f769e5b691116655aba?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Apr 04 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[NYSBA Summer News Intern](https://jobright.ai/jobs/info/67d298766be7f1b32d6fbed2?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Apr 03 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Production Assistant (Art-Intern)](https://jobright.ai/jobs/info/67afeb3c1c8f18142e9bd58d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67988c2f44085fedc25732ff?utm_campaign=1053&utm_source=git)** | Miamisburg, OH | On Site | Apr 03 |
-| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Media Productions Non-Student Intern (Video)](https://jobright.ai/jobs/info/67ef42c01265e4f6efc93af0?utm_campaign=1053&utm_source=git)** | BYU–Hawaii | On Site | Apr 03 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Summer 2025](https://jobright.ai/jobs/info/67b68a5218c4a1d83611f276?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
+| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Media Productions Non-Student Intern (Video)](https://jobright.ai/jobs/info/67ef42c01265e4f6efc93bcc?utm_campaign=1053&utm_source=git)** | BYU–Hawaii | On Site | Apr 03 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Summer 2025](https://jobright.ai/jobs/info/67b680dee838e4cc71595768?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Apr 03 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Production Cook 3 Banquets / J-1 Intern](https://jobright.ai/jobs/info/67ef5b0a615aaa2dfdf7ee6c?utm_campaign=1053&utm_source=git)** | Eagan, MN | On Site | Apr 03 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - WECT](https://jobright.ai/jobs/info/67ef46d836b7395a3b9cb498?utm_campaign=1053&utm_source=git)** | Wilmington, NC | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Videographer - Auburn Football](https://jobright.ai/jobs/info/67ef2fe4e0b9b5b9f804f6ed?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Apr 03 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Ideas & Opinions 2025 Summer Intern](https://jobright.ai/jobs/info/67ef25adc343c6e79581b636?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 03 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67d291ee9502114d556f7174?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Apr 03 |
-| **[Marriott International](http://travel-brilliantly.marriott.com)** | **[Intern Cook](https://jobright.ai/jobs/info/67ef098b4c4e25b2422326f5?utm_campaign=1053&utm_source=git)** | 44400 Indian Wells Lane, Indian Wells, CA, 92210, US | On Site | Apr 03 |
-| **[EBSCO Information Services](http://www.ebsco.de)** | **[Proprietary Content Intern, Summer 2025](https://jobright.ai/jobs/info/675321e7b6bfe6b1759d5b6d?utm_campaign=1053&utm_source=git)** | Ipswich, MA | Remote | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
