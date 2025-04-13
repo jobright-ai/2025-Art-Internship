@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Intern-The Olde Course/Cattail Creek-Seasonal](https://jobright.ai/jobs/info/67fb0f0a8b198e78942a0aed?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Apr 12 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/67dd61a48d7456bd7c9ac879?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Apr 12 |
 | ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/67dd61a48d7456bd7c9ac871?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Apr 12 |
 | **[United Supermarkets, LLC](http://www.unitedtexas.com/)** | **[Culinary Arts Intern](https://jobright.ai/jobs/info/67f9d93b58724f6e738ee37a?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Apr 11 |
@@ -113,8 +114,9 @@ For a complete list, click the following sortable link below:
 | **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[Culinary Intern](https://jobright.ai/jobs/info/67f8200e8f14befa8e492f0d?utm_campaign=1053&utm_source=git)** | Stowe, VT | On Site | Apr 10 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Streets at Southpoint](https://jobright.ai/jobs/info/67f8103d28f8acc0f84023df?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Apr 10 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2025](https://jobright.ai/jobs/info/67dafdca77e36d16136e4b2f?utm_campaign=1053&utm_source=git)** | Waukegan, IL | On Site | Apr 10 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Boston Digital News Intern - Summer 2025](https://jobright.ai/jobs/info/67f80380e57ed6c092d01b9d?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Apr 10 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - News Internship – Summer 2025](https://jobright.ai/jobs/info/67f80380e57ed6c092d01b9b?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
 | ↳ | **[San Diego Station (NBC 7 and T20) Production Internship - Summer 2025](https://jobright.ai/jobs/info/67f80380e57ed6c092d01b9e?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Apr 10 |
+| ↳ | **[NBC Boston Digital News Intern - Summer 2025](https://jobright.ai/jobs/info/67f80380e57ed6c092d01b9d?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Apr 10 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/67d0d07b53c0cf0fcea68bb2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Understood.org](https://www.understood.org)** | **[Content: Production](https://jobright.ai/jobs/info/67f7f92a2b3a422c1124defc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | ↳ | **[Content: Production](https://jobright.ai/jobs/info/67f8020fe57ed6c092d01325?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
@@ -123,7 +125,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer News Intern - Telemundo Utah](https://jobright.ai/jobs/info/67f80e339880e2e05912db2b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Autos 2025 Summer Intern](https://jobright.ai/jobs/info/67bf63bbbf38b04fbe01249c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Apr 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Boston Programming Intern - Summer 2025](https://jobright.ai/jobs/info/67f80e339880e2e05912dc62?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Apr 10 |
-| ↳ | **[NBC Bay Area - News Internship – Summer 2025](https://jobright.ai/jobs/info/67f80e339880e2e05912dc63?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
 | ↳ | **[NBC Boston Technical Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67f81932d88f8155040a78b5?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Apr 10 |
 | **[Education Week](http://www.edweek.org/)** | **[Newsroom Internship](https://jobright.ai/jobs/info/67e4a5dca62ee64010e2e06e?utm_campaign=1053&utm_source=git)** | Bethesda, MD | Hybrid | Apr 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KVDA Internship](https://jobright.ai/jobs/info/67f80380e57ed6c092d01c49?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News DC Bureau Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67f6f389112291636a8f8f7f?utm_campaign=1053&utm_source=git)** | Washington, DC, USA | On Site | Apr 09 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Culinary, Food & Beverage (Fall 2025)](https://jobright.ai/jobs/info/67f6f21ca578218e2d7930eb?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 09 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Breaking News Intern - Fall 2025](https://jobright.ai/jobs/info/66ff353b84a38684300850f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 09 |
-| **[BDG](http://bustle.com)** | **[Elite Daily Intern](https://jobright.ai/jobs/info/67f6d2054bd4c7bf487edb54?utm_campaign=1053&utm_source=git)** | United States | Remote | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
