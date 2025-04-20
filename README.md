@@ -78,7 +78,9 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING/SUMMER '25 - KBTX](https://jobright.ai/jobs/info/6801d04e27567cf8546ed0ec?utm_campaign=1053&utm_source=git)** | Bryan, TX | On Site | Apr 17 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow - Spectrum News 1](https://jobright.ai/jobs/info/6801c0bbf5fa19f83798eee1?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Apr 17 |
 | **[East View Information Services](http://eastview.com)** | **[Summer Intern / On-site](https://jobright.ai/jobs/info/6801b1e4a0a289f16822ea86?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Apr 17 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[2025 Spring News Internship](https://jobright.ai/jobs/info/6762b93b8727298217323abc?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Apr 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/6801aac476e33bffaffdfb48?utm_campaign=1053&utm_source=git)** | Youngstown, OH | On Site | Apr 17 |
+| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/67d0d07b53c0cf0fcea68bb2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Intern, Video Production / Part-Time / Arvest Convention Center](https://jobright.ai/jobs/info/6801a305f7ff9103aba8db98?utm_campaign=1053&utm_source=git)** | Tulsa, OK | On Site | Apr 17 |
 | **[Trout Unlimited](http://www.tu.org)** | **[Expeditions Media and Fly Fishing Intern](https://jobright.ai/jobs/info/680172e39efac5fcb482b4f0?utm_campaign=1053&utm_source=git)** | Klamath Falls, OR | Remote | Apr 17 |
 | ↳ | **[Expeditions Media and Fly Fishing Intern](https://jobright.ai/jobs/info/6801533bf2519e1b2b2b26a4?utm_campaign=1053&utm_source=git)** | Hybrid Remote | Remote | Apr 17 |
@@ -130,15 +132,15 @@ For a complete list, click the following sortable link below:
 | **[David Yurman](http://www.davidyurman.com)** | **[Archive Intern](https://jobright.ai/jobs/info/672003cc171dfc782a1cb3cf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[KQED](http://www.kqed.org)** | **[Newscast Intern](https://jobright.ai/jobs/info/67fe0f1dc6a7f1fb4f4cb273?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
 | ↳ | **[The California Report Magazine Intern](https://jobright.ai/jobs/info/67fe06ff11933cb0f6ee6523?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
+| **[KQED](http://www.kqed.org)** | **[Forum Intern](https://jobright.ai/jobs/info/67fe20bb3cd6d01285aa07ff?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 14 |
 | **[The University of New Mexico](http://unm.edu)** | **[Printmaking Lab Monitor](https://jobright.ai/jobs/info/67fde5d1e4b1d05d6e28f577?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Apr 14 |
 | **[The Juilliard School](http://www.juilliard.edu/)** | **[Production Apprentice, Stage Management](https://jobright.ai/jobs/info/67fddd4d4aafea5b554b37cf?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 14 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - SLO](https://jobright.ai/jobs/info/6802141be0a941f001e86e01?utm_campaign=1053&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 14 |
-| **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac4?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Apr 14 |
-| ↳ | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac5?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 14 |
-| ↳ | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6abd?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Apr 14 |
+| **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6abd?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Apr 14 |
 | ↳ | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ab0?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 14 |
 | ↳ | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac1?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 14 |
-| **[KQED](http://www.kqed.org)** | **[Forum Intern](https://jobright.ai/jobs/info/67fdd4219b8b29ade8f4ee07?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 14 |
+| ↳ | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac5?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 14 |
+| ↳ | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac4?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Apr 14 |
 | **[Space Telescope Science Institute](http://www.stsci.edu/portal)** | **[Library Internship](https://jobright.ai/jobs/info/67fdc9c087a293a1d956503e?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Hybrid | Apr 14 |
 | **[The Crossing](http://www.thecrossing.church)** | **[Production Summer Intern-Music](https://jobright.ai/jobs/info/67fdb692c47e2660d55d84f6?utm_campaign=1053&utm_source=git)** | Chesterfield, MO | On Site | Apr 14 |
 | **[Space Telescope Science Institute](http://www.stsci.edu/portal)** | **[Archives Internship](https://jobright.ai/jobs/info/67fdb692c47e2660d55d8444?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Hybrid | Apr 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Intern - Grizzlies On Air](https://jobright.ai/jobs/info/67fce0c70f98d488d68f4e53?utm_campaign=1053&utm_source=git)** | Lawrenceville, GA | On Site | Apr 14 |
 | **[MoneyLion](http://www.moneylion.com)** | **[AI Content Intern- Summer 2025](https://jobright.ai/jobs/info/67f8aa7636e9dd0e75146f80?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 13 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP SUMMER '25 - KVVU](https://jobright.ai/jobs/info/67fc78a3de053965165b14e1?utm_campaign=1053&utm_source=git)** | Henderson, NV | On Site | Apr 13 |
-| **[Allen County Public Library](https://acpl.lib.in.us)** | **[Teen Reader - Team Read 2025](https://jobright.ai/jobs/info/67fc73206104fe29555aa38c?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Apr 13 |
-| **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Brunswick Sq Mall](https://jobright.ai/jobs/info/67fc32408cb09148d76ff31a?utm_campaign=1053&utm_source=git)** | South Brunswick, NJ | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
