@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Museum Assistant](https://jobright.ai/jobs/info/6805d32079fb9d452e0f7b43?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Apr 20 |
 | **[BDG](http://bustle.com)** | **[Temp Fashion Closet Assistant, W](https://jobright.ai/jobs/info/6805c449ac0f8a561ffe158e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 20 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/6805db893131f66eeed8f620?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Apr 19 |
 | **[International Spy Museum](https://spymuseum.org)** | **[Summer Collections Intern](https://jobright.ai/jobs/info/6803f6ead503cc7980b785cb?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Apr 19 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.50/HR](https://jobright.ai/jobs/info/67ace5f2868690c0fbd3c77a?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Apr 19 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Sports News Intern](https://jobright.ai/jobs/info/67e7a453295cf19676a3883f?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Apr 19 |
@@ -138,16 +137,16 @@ For a complete list, click the following sortable link below:
 | **[Education Week](http://www.edweek.org/)** | **[Newsroom Internship](https://jobright.ai/jobs/info/67e4a5dca62ee64010e2e06e?utm_campaign=1053&utm_source=git)** | Bethesda, MD | Hybrid | Apr 15 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Archive Intern](https://jobright.ai/jobs/info/672003cc171dfc782a1cb3cf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[KQED](http://www.kqed.org)** | **[Newscast Intern](https://jobright.ai/jobs/info/67fe0f1dc6a7f1fb4f4cb273?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
-| ↳ | **[The California Report Magazine Intern](https://jobright.ai/jobs/info/67fe06ff11933cb0f6ee6523?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
-| **[KQED](http://www.kqed.org)** | **[Forum Intern](https://jobright.ai/jobs/info/67fe20bb3cd6d01285aa07ff?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 14 |
 | **[The University of New Mexico](http://unm.edu)** | **[Printmaking Lab Monitor](https://jobright.ai/jobs/info/67fde5d1e4b1d05d6e28f577?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Apr 14 |
 | **[The Juilliard School](http://www.juilliard.edu/)** | **[Production Apprentice, Stage Management](https://jobright.ai/jobs/info/67fddd4d4aafea5b554b37cf?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Apr 14 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - SLO](https://jobright.ai/jobs/info/6802141be0a941f001e86e01?utm_campaign=1053&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 14 |
-| **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac4?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Apr 14 |
-| ↳ | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac1?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 14 |
-| ↳ | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac5?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 14 |
+| **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac1?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Apr 14 |
 | ↳ | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6abd?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Apr 14 |
 | ↳ | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ab0?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Apr 14 |
+| ↳ | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac4?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Apr 14 |
+| ↳ | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac5?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Apr 14 |
+| **[KQED](http://www.kqed.org)** | **[Forum Intern](https://jobright.ai/jobs/info/67fdd4219b8b29ade8f4ee07?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 14 |
+| ↳ | **[The California Report Magazine Intern](https://jobright.ai/jobs/info/67fdd4219b8b29ade8f4edda?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Apr 14 |
 | **[Space Telescope Science Institute](http://www.stsci.edu/portal)** | **[Library Internship](https://jobright.ai/jobs/info/67fdc9c087a293a1d956503e?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Hybrid | Apr 14 |
 | **[The Crossing](http://www.thecrossing.church)** | **[Production Summer Intern-Music](https://jobright.ai/jobs/info/67fdb692c47e2660d55d84f6?utm_campaign=1053&utm_source=git)** | Chesterfield, MO | On Site | Apr 14 |
 | **[Space Telescope Science Institute](http://www.stsci.edu/portal)** | **[Archives Internship](https://jobright.ai/jobs/info/67fdb692c47e2660d55d8444?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Hybrid | Apr 14 |
