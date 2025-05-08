@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[Intern](https://jobright.ai/jobs/info/68085cea8d5f4949623cf6aa?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | May 07 |
+| **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Intern-The Olde Course/Cattail Creek-Seasonal](https://jobright.ai/jobs/info/681c17fa51162154c8dce0d6?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | May 07 |
 | **[HUM Nutrition](https://www.humnutrition.com/)** | **[Videographer Intern](https://jobright.ai/jobs/info/681bf2fafad13a2d968dcf2c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | May 07 |
 | ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/681bee8115dba86b2d45063f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | May 07 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Culinary Internship](https://jobright.ai/jobs/info/681bc798ea579fb5d377faa9?utm_campaign=1053&utm_source=git)** | Bedford, PA | On Site | May 07 |
@@ -95,14 +97,14 @@ For a complete list, click the following sortable link below:
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/681952673ad838db7a65094a?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | May 05 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Operations Intern](https://jobright.ai/jobs/info/681948f1bb3abe2ff67de213?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[News Intern, KTVH](https://jobright.ai/jobs/info/68193afe4f50db69c0ecda6f?utm_campaign=1053&utm_source=git)** | Helena, MT - KTVH/KXLH | On Site | May 05 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Operations Intern](https://jobright.ai/jobs/info/68192bbc0f56e957fd4026d3?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | May 05 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Operations Intern](https://jobright.ai/jobs/info/68192bbc0f56e957fd4026d4?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | May 05 |
 | **[Penn State University](http://psu.edu)** | **[Fall 25 Digital Production Internship - WPSU](https://jobright.ai/jobs/info/681920e0df6757399a0b3293?utm_campaign=1053&utm_source=git)** | Penn State University Park | On Site | May 05 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Archives Intern - Research Department](https://jobright.ai/jobs/info/681920e0df6757399a0b329d?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | May 05 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern I - TxGIO Event Planning (Hourly)](https://jobright.ai/jobs/info/681920e0df6757399a0b3386?utm_campaign=1053&utm_source=git)** | Austin Community College | On Site | May 05 |
 | **[FOX 47 (WSYM)](https://www.fox47news.com)** | **[Fall News Intern, WSYM](https://jobright.ai/jobs/info/681913c99343a4d6c344c487?utm_campaign=1053&utm_source=git)** | Greater Lansing | On Site | May 05 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo 44 Washington News Internship – Academic Year](https://jobright.ai/jobs/info/68190e4a533760bf86f8094a?utm_campaign=1053&utm_source=git)** | 4001 Nebraska Ave., NW, Washington, District of Columbia | On Site | May 05 |
-| ↳ | **[Telemundo 44 Washington Digital Internship – Academic Year](https://jobright.ai/jobs/info/68190e4a533760bf86f8090f?utm_campaign=1053&utm_source=git)** | 4001 Nebraska Ave., NW, Washington, District of Columbia | On Site | May 05 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo 44 Washington Digital Internship – Academic Year](https://jobright.ai/jobs/info/68190e4a533760bf86f8090f?utm_campaign=1053&utm_source=git)** | 4001 Nebraska Ave., NW, Washington, District of Columbia | On Site | May 05 |
 | ↳ | **[NBC4 Washington Digital Internship – Academic Year](https://jobright.ai/jobs/info/68190e4a533760bf86f80921?utm_campaign=1053&utm_source=git)** | 4001 Nebraska Ave., NW, Washington, District of Columbia | On Site | May 05 |
+| ↳ | **[Telemundo 44 Washington News Internship – Academic Year](https://jobright.ai/jobs/info/68190e4a533760bf86f8094a?utm_campaign=1053&utm_source=git)** | 4001 Nebraska Ave., NW, Washington, District of Columbia | On Site | May 05 |
 | ↳ | **[NBC4 Washington News Internship – Academic Year](https://jobright.ai/jobs/info/68190e4a533760bf86f808c2?utm_campaign=1053&utm_source=git)** | 4001 Nebraska Ave., NW, Washington, District of Columbia | On Site | May 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20/20 Production Intern, Fall 2025](https://jobright.ai/jobs/info/6818e99a21c7311b43419fdd?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | May 05 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo 44 Washington News Internship – Academic Year](https://jobright.ai/jobs/info/6818e5ac15f2a2fc81b8fbe6?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 05 |
@@ -134,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - WOWT](https://jobright.ai/jobs/info/681534712331b2ed68ebabdd?utm_campaign=1053&utm_source=git)** | Omaha, NE | On Site | May 02 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67f8eda356398d7e16cec1fb?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | May 02 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - WNEM](https://jobright.ai/jobs/info/6814ede9c492c92ff99eb1da?utm_campaign=1053&utm_source=git)** | Saginaw, MI | On Site | May 02 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6814d41accfdd0456e4f395b?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | May 02 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Writer/Content Creator Student Assistant - Media, Marketing, and Communications](https://jobright.ai/jobs/info/681ac4bf7225597beddaed28?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | May 02 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6814c00e96e063bab8d0d764?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | May 02 |
 | **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[Culinary Intern](https://jobright.ai/jobs/info/67f8200e8f14befa8e492f0d?utm_campaign=1053&utm_source=git)** | Stowe, VT | On Site | May 02 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Summer Operations Internship - Culinary](https://jobright.ai/jobs/info/67f820799b2ee0576d75ab5b?utm_campaign=1053&utm_source=git)** | Monterey, CA | On Site | May 02 |
 | **[St. Charles Community College](https://www.stchas.edu/)** | **[Student Assistant - Theatre - 71123](https://jobright.ai/jobs/info/681444b348c25c8679ace456?utm_campaign=1053&utm_source=git)** | St Peters, MO | On Site | May 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boyne Mountain Resort](http://boynemountain.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6813dd5c8c04b2cdb08e5ecf?utm_campaign=1053&utm_source=git)** | Boyne Falls, MI | On Site | May 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/67dae96d6a64816ee5ee561d?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | May 01 |
 | **[Fuel Cycle](https://www.fuelcycle.com/)** | **[Community Experience Intern](https://jobright.ai/jobs/info/6813c351762cbf27701b40f7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | May 01 |
-| **[LA Phil](http://www.laphil.com)** | **[Artist Department Intern](https://jobright.ai/jobs/info/6813ab34a7aa7f18387ac8af?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/67d0d07b53c0cf0fcea68bb2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
