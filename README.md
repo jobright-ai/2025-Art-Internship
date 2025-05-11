@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sul Ross State University](http://www.sulross.edu/)** | **[Archives Temp Intern](https://jobright.ai/jobs/info/681fc77495fc70dc908ac3ac?utm_campaign=1053&utm_source=git)** | Alpine, TX | On Site | May 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Producer Intern](https://jobright.ai/jobs/info/681fa480322c2b8e802a007f?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | May 10 |
 | **[Deschutes County](https://www.deschutes.org)** | **[Fair and Expo Summer Internship Opportunities](https://jobright.ai/jobs/info/681fa1c9fc919003b8cc3564?utm_campaign=1053&utm_source=git)** | Redmond, OR | On Site | May 10 |
 | **[Boyne Mountain Resort](http://boynemountain.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/681f75ef9e345613ee252311?utm_campaign=1053&utm_source=git)** | Boyne Falls, MI | On Site | May 10 |
@@ -66,23 +67,23 @@ For a complete list, click the following sortable link below:
 | **[Journey Health & Lifestyle](https://www.journeyhealthandlifestyle.com)** | **[MULTIMEDIA INTERN](https://jobright.ai/jobs/info/681f060fd38923d0098968fd?utm_campaign=1053&utm_source=git)** | Richmond, VA, VA | On Site | May 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News Live Production Intern, Fall 2025](https://jobright.ai/jobs/info/681ec52e662d4e3592158d65?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | May 09 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internships - VFX - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e156?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e14b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
 | ↳ | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e161?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
 | ↳ | **[2025 US Summer Internships - Lighting - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e15c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e14b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
 | **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Intern-The Olde Course/Cattail Creek-Seasonal](https://jobright.ai/jobs/info/681ebda10bd995bc3bc5a313?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | May 09 |
 | **[Insomniac Events](http://insomniac.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e9b7829b526e6a6556c9d?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | May 09 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e999e6db7f8d0179242dd?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | May 09 |
-| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd34df?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internships - VFX - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3501?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd34df?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
 | ↳ | **[2025 US Summer Internships - VFX - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd34dd?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - VFX - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3501?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
 | ↳ | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3514?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3298?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Lighting - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd34de?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
 | ↳ | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3513?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
 | ↳ | **[2025 US Summer Internships - Lighting - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd32b2?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3298?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - Lighting - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3517?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, California Fall 2025](https://jobright.ai/jobs/info/681e599c5f462331d33e428c?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | May 09 |
-| ↳ | **[Editorial Internship, HQ Fall 2025](https://jobright.ai/jobs/info/681e551ad4b37b3a8f2100ea?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | May 09 |
 | ↳ | **[Editorial Internship, New York Fall 2025](https://jobright.ai/jobs/info/681e551ad4b37b3a8f2100b2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 09 |
+| ↳ | **[Editorial Internship, HQ Fall 2025](https://jobright.ai/jobs/info/681e551ad4b37b3a8f2100ea?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | May 09 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e4b1c60906624f78f5106?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | May 09 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Visual Data Journalist Intern](https://jobright.ai/jobs/info/681e421d7d8091f15f441beb?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | May 09 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KPHO/KTVK](https://jobright.ai/jobs/info/681e3ea108cb7ec1abd649a0?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | May 09 |
@@ -128,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Green Bay Packers](http://www.packers.com/)** | **[Titletown Facilities Intern](https://jobright.ai/jobs/info/681b3598ea64bf3897bf4c7f?utm_campaign=1053&utm_source=git)** | Green Bay, WI | Hybrid | May 07 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Summer News Intern](https://jobright.ai/jobs/info/67fece4aa8c01cf1c0c6d50b?utm_campaign=1053&utm_source=git)** | Bristol, TN | On Site | May 07 |
 | **[American Psychiatric Association](http://www.psychiatry.org)** | **[Library and Archives Intern](https://jobright.ai/jobs/info/681ed812b5370d7b9defbbef?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 06 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Middle East/Africa North Tribal Lineages and Content Intern](https://jobright.ai/jobs/info/6818327a722da3b18f0d1783?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | May 06 |
 | **[Design And Customize](https://www.designandcustomize.com)** | **[Labeling & Content Production Intern/Contract Role](https://jobright.ai/jobs/info/681ac6496cbaea5e28f496f3?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | May 06 |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Court Reporter Internship Program - Superior Court of California (Extra Help)](https://jobright.ai/jobs/info/681ac0541fb9ec66b79921b5?utm_campaign=1053&utm_source=git)** | San Mateo County, CA | On Site | May 06 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/681ab76b4694f0360a3b516a?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | May 06 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Austin Community College](http://austincc.edu)** | **[Intern I - TxGIO Event Planning (Hourly)](https://jobright.ai/jobs/info/681963bd3ad37ca916537d9d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 05 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Archives Intern - Research Department](https://jobright.ai/jobs/info/681956d536894eb7218d3a18?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | May 05 |
 | **[Stevenson High School, Lincolnshire, IL](https://www.d125.org/)** | **[SHS TV Club Sponsor](https://jobright.ai/jobs/info/681952673ad838db7a650835?utm_campaign=1053&utm_source=git)** | Illinois, United States | On Site | May 05 |
-| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/681952673ad838db7a65094a?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | May 05 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[News Intern, KTVH](https://jobright.ai/jobs/info/68193afe4f50db69c0ecda6f?utm_campaign=1053&utm_source=git)** | Helena, MT - KTVH/KXLH | On Site | May 05 |
 | **[Penn State University](http://psu.edu)** | **[Fall 25 Digital Production Internship - WPSU](https://jobright.ai/jobs/info/681920e0df6757399a0b3293?utm_campaign=1053&utm_source=git)** | Penn State University Park | On Site | May 05 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Archives Intern - Research Department](https://jobright.ai/jobs/info/681920e0df6757399a0b329d?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
