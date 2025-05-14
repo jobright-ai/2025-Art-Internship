@@ -57,28 +57,31 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Kraft Group & Affiliates](http://www.thekraftgroup.com)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/6824ef447578de962640a326?utm_campaign=1053&utm_source=git)** | Foxborough (Foxboro), MA | On Site | May 14 |
+| **[FC Dallas](http://www.fcdallas.com)** | **[1st Team Video Analysis Intern / 2025 Season](https://jobright.ai/jobs/info/6824e50d524f4568d4775671?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | May 14 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/67eb6516cae7e592bfa546ff?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | May 14 |
+| **[STCU](https://stcu.org/)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/6824aa815d31762fbf8c59bd?utm_campaign=1053&utm_source=git)** | Liberty Lake, WA | On Site | May 14 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab4?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 14 |
-| **[The Juilliard School](http://www.juilliard.edu/)** | **[Administrative Apprentice, Drama Production & Special Events](https://jobright.ai/jobs/info/6824077d77ea05c987a1ae00?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | May 13 |
-| ↳ | **[Apprentice, Audio/Video Editor](https://jobright.ai/jobs/info/6824077d77ea05c987a1adfc?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 13 |
+| **[The Juilliard School](http://www.juilliard.edu/)** | **[Apprentice, Audio/Video Editor](https://jobright.ai/jobs/info/6824077d77ea05c987a1adfc?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 13 |
+| ↳ | **[Administrative Apprentice, Drama Production & Special Events](https://jobright.ai/jobs/info/6824077d77ea05c987a1ae00?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | May 13 |
 | **[American University](http://american.edu)** | **[Production Assistant (Student)](https://jobright.ai/jobs/info/6823e879775ffb6288a0f31a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 13 |
-| **[Columbus Blue Jackets](http://bluejackets.com)** | **[2025-26 Season Broadcasting Intern](https://jobright.ai/jobs/info/6823e4885477a27952f3b129?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | May 13 |
-| ↳ | **[2025-26 Season Journalism Internship](https://jobright.ai/jobs/info/6823e4885477a27952f3b166?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | May 13 |
+| **[Columbus Blue Jackets](http://bluejackets.com)** | **[2025-26 Season Journalism Internship](https://jobright.ai/jobs/info/6823e4885477a27952f3b166?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | May 13 |
+| ↳ | **[2025-26 Season Broadcasting Intern](https://jobright.ai/jobs/info/6823e4885477a27952f3b129?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | May 13 |
 | ↳ | **[2025-26 Season Game Operations Internship](https://jobright.ai/jobs/info/6823d4f3a8762c2f7361e7b4?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | May 13 |
 | **[The Juilliard School](http://www.juilliard.edu/)** | **[Apprentice, Audio/Video Editor](https://jobright.ai/jobs/info/6823c4b0c5e310771c417c16?utm_campaign=1053&utm_source=git)** | 60 Lincoln Center Plaza, New York, NY, 10023, US | On Site | May 13 |
 | ↳ | **[Administrative Apprentice, Drama Production & Special Events](https://jobright.ai/jobs/info/6823c4b0c5e310771c417c89?utm_campaign=1053&utm_source=git)** | 60 Lincoln Center Plaza, New York, NY, 10023, US | On Site | May 13 |
 | **[Jazz at Lincoln Center](http://www.jazz.org/)** | **[Summer Intern, Jazz at Lincoln Center](https://jobright.ai/jobs/info/6824030d341b6a709e87d7a4?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 13 |
-| **[Condé Nast](http://www.condenast.com)** | **[CIG Newmark Fellow](https://jobright.ai/jobs/info/6823a1782b1ddf8309ec8093?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | May 13 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Internship - Viewmodel Animation - Infinity Ward](https://jobright.ai/jobs/info/6823a1782b1ddf8309ec80c0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 13 |
-| **[Condé Nast](http://www.condenast.com)** | **[CIG Newmark Fellow](https://jobright.ai/jobs/info/68239c9c5b7c69bde80d53d6?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | May 13 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[INTERN (Los Angeles)](https://jobright.ai/jobs/info/68239c9c5b7c69bde80d5304?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - Unpaid](https://jobright.ai/jobs/info/68239b425e97dcebf6617db1?utm_campaign=1053&utm_source=git)** | Youngstown, OH | On Site | May 13 |
 | ↳ | **[Intern - Unpaid](https://jobright.ai/jobs/info/6823826df17cd8f629385f7e?utm_campaign=1053&utm_source=git)** | OH, Youngstown | On Site | May 13 |
-| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Internship - Viewmodel Animation - Infinity Ward](https://jobright.ai/jobs/info/6823826df17cd8f629385ecc?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 13 |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Internship - Viewmodel Animation - Infinity Ward](https://jobright.ai/jobs/info/6823826df17cd8f62938642a?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News NY Bureau Intern, Fall 2025](https://jobright.ai/jobs/info/68235c5f8267678db8ba6cfe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 13 |
-| **[GBH](http://www.wgbh.org/)** | **[NEPM News Intern - Summer 2025](https://jobright.ai/jobs/info/68235c3a92be49894e6ad87a?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | May 13 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/6787bd52bfcaad578c0a284c?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | May 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern (NE)](https://jobright.ai/jobs/info/67e762fa933fe3d3e789aae5?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/67c936137a399b3b67410cda?utm_campaign=1053&utm_source=git)** | Henderson, KY | On Site | May 13 |
 | ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/673bb41e23a3d19e9a268b81?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | May 13 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea64694?utm_campaign=1053&utm_source=git)** | Johnstown, PA | On Site | May 13 |
 | **[Legends](http://legends.net)** | **[Culinary Intern - Huntington Bank Pavilion at Northerly Island](https://jobright.ai/jobs/info/67c42a01b9609906b74017fa?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[2025 Summer News Internship](https://jobright.ai/jobs/info/680359a9b0f813893559f241?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | May 13 |
 | **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study - Art Gallery Photographer/Videographer Intern](https://jobright.ai/jobs/info/682305ce4ea809168a74a5c1?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | May 13 |
@@ -110,14 +113,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e14b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
 | **[Insomniac Events](http://insomniac.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e9b7829b526e6a6556c9d?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | May 09 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e999e6db7f8d0179242dd?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | May 09 |
-| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3511?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - VFX - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3501?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internships - VFX - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3502?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3298?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd34e0?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Lighting - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd32b2?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd34df?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
 | ↳ | **[2025 US Summer Internships - Lighting - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd34de?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3512?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd32aa?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - Lighting - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3515?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3514?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - VFX - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd34dd?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3513?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - VFX - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3501?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, California Fall 2025](https://jobright.ai/jobs/info/681e599c5f462331d33e428c?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | May 09 |
 | ↳ | **[Editorial Internship, New York Fall 2025](https://jobright.ai/jobs/info/681e551ad4b37b3a8f2100b2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 09 |
 | ↳ | **[Editorial Internship, HQ Fall 2025](https://jobright.ai/jobs/info/681e551ad4b37b3a8f2100ea?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | May 09 |
@@ -145,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[National Football League (NFL)](http://www.nfl.com)** | **[2025 NFL Films Fall Internship Program](https://jobright.ai/jobs/info/681cf621a8b287cc15ff13b5?utm_campaign=1053&utm_source=git)** | Mount Laurel, New Jersey, United States | On Site | May 08 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Event Operations Post Graduate Intern](https://jobright.ai/jobs/info/681cf4d1f3a55670c5e36119?utm_campaign=1053&utm_source=git)** | Manhattan, KS | On Site | May 08 |
 | **[University of New Hampshire](https://innovation.unh.edu/)** | **[Farm Worker Intern](https://jobright.ai/jobs/info/681cdb4502b58a32fec8982b?utm_campaign=1053&utm_source=git)** | University of New Hampshire – Main Campus | On Site | May 08 |
+| **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | May 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | May 08 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6800b7ae5bff52f714691749?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | May 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b17?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | May 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Town Hall, Events Production Co-op](https://jobright.ai/jobs/info/681c351e0e68ea0ad418f4ed?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 1800 Arch St | On Site | May 07 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[Intern](https://jobright.ai/jobs/info/6808660dc39e2744c6b6c88f?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | May 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68085cea8d5f4949623cf6ac?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | May 07 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68085cea8d5f4949623cf6aa?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | May 07 |
-| **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern- Morning Blend](https://jobright.ai/jobs/info/67ff14c9343f01e36102acb7?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | May 07 |
-| **[HUM Nutrition](https://www.humnutrition.com/)** | **[Videographer Intern](https://jobright.ai/jobs/info/681bf2fafad13a2d968dcf2c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | May 07 |
-| ↳ | **[Video Editor Intern](https://jobright.ai/jobs/info/681bee8115dba86b2d45063f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
