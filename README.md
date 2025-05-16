@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scholastic](http://www.scholastic.com)** | **[Summer Intern – Tangerine Press – Scholastic Book Fairs](https://jobright.ai/jobs/info/67eefe2d0f19392fa3d88225?utm_campaign=1053&utm_source=git)** | Miami-FTL Area | Remote | May 16 |
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Publications - Remote](https://jobright.ai/jobs/info/6826da4a5d451099c23f301d?utm_campaign=1053&utm_source=git)** | Schaumburg, IL | Remote | May 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN College Sports Feature Team Production Intern, Charlotte, Fall 2025](https://jobright.ai/jobs/info/68269f5c2ab9e1adad5771c1?utm_campaign=1053&utm_source=git)** | Charlotte, NC, USA | On Site | May 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/68269548cd9d8de939f6d934?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | May 15 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[SciPlay](https://www.sciplay.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6826809264eb34c44c5c8db2?utm_campaign=1053&utm_source=git)** | Cedar Falls, IA | On Site | May 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, News](https://jobright.ai/jobs/info/6826408a43ef5961d98b52d6?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | May 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Nightline Production Intern, Fall 2025](https://jobright.ai/jobs/info/6826063018ee8ff56b0e25d3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 15 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ Paid News Internship (Summer)](https://jobright.ai/jobs/info/67b66181858a8af6f369ef5b?utm_campaign=1053&utm_source=git)** | Altoona, PA | On Site | May 15 |
 | **[Macy's](http://www.macysjobs.com)** | **[Video + Event Production Intern](https://jobright.ai/jobs/info/6825e2d498e1fb1393aa344e?utm_campaign=1053&utm_source=git)** | 151 West 34th Street, New York, NY, 10001, US | On Site | May 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Production Internship](https://jobright.ai/jobs/info/68098b093225fb2815a9513c?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | May 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67ec09d32dcbed72e98d20ef?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | May 15 |
@@ -126,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[North Slope Borough](http://www.north-slope.org)** | **[Museum Intern](https://jobright.ai/jobs/info/6821e9f8a1e1ff35d24587c5?utm_campaign=1053&utm_source=git)** | Utqiagvik, AK | On Site | May 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News Live Production Intern, Fall 2025](https://jobright.ai/jobs/info/6820b2c3a35b6171252d7d57?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern (WOAI/KABB) - Summer 2025](https://jobright.ai/jobs/info/67e656a2830761d49d6f1f13?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | May 10 |
-| ↳ | **[News Intern (KFOX) - Summer 2025](https://jobright.ai/jobs/info/6826bcf0c8d464476c4d4b85?utm_campaign=1053&utm_source=git)** | El Paso, TX | On Site | May 10 |
 | **[Activision](https://www.activision.com/)** | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/6826b577294475eb313b16e2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 10 |
 | **[Sul Ross State University](http://www.sulross.edu/)** | **[Archives Temp Intern](https://jobright.ai/jobs/info/681fc77495fc70dc908ac3ac?utm_campaign=1053&utm_source=git)** | Alpine, TX | On Site | May 10 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern (KEYE) - Summer 2025](https://jobright.ai/jobs/info/67e656a2830761d49d6f1f0c?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 10 |
@@ -134,27 +135,23 @@ For a complete list, click the following sortable link below:
 | **[BDG](http://bustle.com)** | **[Temp Fashion Closet Assistant, W](https://jobright.ai/jobs/info/6805c449ac0f8a561ffe158e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 10 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Culinary Internship](https://jobright.ai/jobs/info/67ada7cbfdb6f67343041bc1?utm_campaign=1053&utm_source=git)** | Jackson, NJ | On Site | May 10 |
 | **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[Golf Operations Intern](https://jobright.ai/jobs/info/67c8af641e4b1b135188cc7b?utm_campaign=1053&utm_source=git)** | Dumfries, VA | On Site | May 10 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern (WCHS) - Summer 2025](https://jobright.ai/jobs/info/67e656a2830761d49d6f1f08?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | May 10 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136aab?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | May 10 |
 | **[Activision](https://www.activision.com/)** | **[2025 US Summer Internships - Lighting - Infinity Ward](https://jobright.ai/jobs/info/6826da845d451099c23f37e2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
 | ↳ | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/6826cea880ff05a9ec3d2f41?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News Live Production Intern, Fall 2025](https://jobright.ai/jobs/info/681ec52e662d4e3592158d65?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | May 09 |
-| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e14b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e161?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internships - VFX - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e156?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e14b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
 | ↳ | **[2025 US Summer Internships - Lighting - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e15c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - VFX - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e156?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e161?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC News Production Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/68270dffd1fe63384b1af6cc?utm_campaign=1053&utm_source=git)** | 30 Rockefeller Plaza, New York, NY 10111, USA | On Site | May 09 |
 | **[Insomniac Events](http://insomniac.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e9b7829b526e6a6556c9d?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | May 09 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e999e6db7f8d0179242dd?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | May 09 |
-| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internships - Lighting - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd34de?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3513?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3512?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3512?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd32aa?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Lighting - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3517?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
 | ↳ | **[2025 US Summer Internships - VFX - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd329a?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - Tech Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3514?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - VFX - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3502?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3511?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Narrative Animation - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd34df?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
 | ↳ | **[2025 US Summer Internships - Lighting - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd32b2?utm_campaign=1053&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
-| **[POLITICO](http://www.politico.com)** | **[Editorial Internship, California Fall 2025](https://jobright.ai/jobs/info/681e599c5f462331d33e428c?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | May 09 |
-| ↳ | **[Editorial Internship, HQ Fall 2025](https://jobright.ai/jobs/info/681e551ad4b37b3a8f2100ea?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | May 09 |
-| ↳ | **[Editorial Internship, New York Fall 2025](https://jobright.ai/jobs/info/681e551ad4b37b3a8f2100b2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 09 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e4b1c60906624f78f5106?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | May 09 |
-| **[CoStar Group](http://www.costargroup.com/)** | **[Visual Data Journalist Intern](https://jobright.ai/jobs/info/681e421d7d8091f15f441beb?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | May 09 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '26 - KPHO/KTVK](https://jobright.ai/jobs/info/681e3ea108cb7ec1abd649a0?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - VFX - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3502?utm_campaign=1053&utm_source=git)** | Woodland Hills | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
