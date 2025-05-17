@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Beginnings Creator Network](https://nbcn.live)** | **[Creator Curator/Manager Summer Residency Program](https://jobright.ai/jobs/info/6827d87e558ed52b2b9aec51?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | May 16 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - KFDA](https://jobright.ai/jobs/info/6827ce4c62b1b3a855927cf9?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | May 16 |
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WDAM](https://jobright.ai/jobs/info/6827ce4c62b1b3a855927cca?utm_campaign=1053&utm_source=git)** | Moselle, MS | On Site | May 16 |
 | **[Penn State University](http://psu.edu)** | **[Community Archives Project - Undergraduate Fellow - Libraries](https://jobright.ai/jobs/info/682796ddba9e73b7d0061754?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | May 16 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/68269548cd9d8de939f6d934?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | May 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Production Intern, Charlotte, Fall 2025](https://jobright.ai/jobs/info/68268cd1ebc3a5296b86dc1d?utm_campaign=1053&utm_source=git)** | Charlotte, NC, USA | On Site | May 15 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[IFPDA Summer Internship](https://jobright.ai/jobs/info/681a4d22417bb27a11270022?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 15 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern (WACH) - Summer 2025](https://jobright.ai/jobs/info/67eceea7d2907d5cb9cadd73?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | May 15 |
 | **[SciPlay](https://www.sciplay.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6826809264eb34c44c5c8db2?utm_campaign=1053&utm_source=git)** | Cedar Falls, IA | On Site | May 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, News](https://jobright.ai/jobs/info/6826408a43ef5961d98b52d6?utm_campaign=1053&utm_source=git)** | IL, Champaign | On Site | May 15 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[ARC News Intern (KATV) - Summer 2025](https://jobright.ai/jobs/info/67ecfb47d0217b93a04da572?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | May 15 |
@@ -98,12 +100,12 @@ For a complete list, click the following sortable link below:
 | **[STCU](https://stcu.org/)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/6824aa815d31762fbf8c59bd?utm_campaign=1053&utm_source=git)** | Liberty Lake, WA | On Site | May 14 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/67cfec9a829ebe45eecb8103?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | May 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab4?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 14 |
-| **[The Juilliard School](http://www.juilliard.edu/)** | **[Apprentice, Audio/Video Editor](https://jobright.ai/jobs/info/6824077d77ea05c987a1adfc?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 13 |
-| ↳ | **[Administrative Apprentice, Drama Production & Special Events](https://jobright.ai/jobs/info/6824077d77ea05c987a1ae00?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | May 13 |
+| **[The Juilliard School](http://www.juilliard.edu/)** | **[Administrative Apprentice, Drama Production & Special Events](https://jobright.ai/jobs/info/6824077d77ea05c987a1ae00?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | May 13 |
+| ↳ | **[Apprentice, Audio/Video Editor](https://jobright.ai/jobs/info/6824077d77ea05c987a1adfc?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, Unpaid](https://jobright.ai/jobs/info/67b2c0494a6e4bdfad6ff7fb?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | May 13 |
 | **[American University](http://american.edu)** | **[Production Assistant (Student)](https://jobright.ai/jobs/info/6823e879775ffb6288a0f31a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 13 |
-| **[Columbus Blue Jackets](http://bluejackets.com)** | **[2025-26 Season Journalism Internship](https://jobright.ai/jobs/info/6823e4885477a27952f3b166?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | May 13 |
-| ↳ | **[2025-26 Season Broadcasting Intern](https://jobright.ai/jobs/info/6823e4885477a27952f3b129?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | May 13 |
+| **[Columbus Blue Jackets](http://bluejackets.com)** | **[2025-26 Season Broadcasting Intern](https://jobright.ai/jobs/info/6823e4885477a27952f3b129?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | May 13 |
+| ↳ | **[2025-26 Season Journalism Internship](https://jobright.ai/jobs/info/6823e4885477a27952f3b166?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | May 13 |
 | **[Maharishi International University](https://www.miu.edu/)** | **[FWS Sports Videographer](https://jobright.ai/jobs/info/68253623d26b28492468d194?utm_campaign=1053&utm_source=git)** | Fairfield, IA | On Site | May 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern I, News](https://jobright.ai/jobs/info/6672e80cd742a3597e9aba0f?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | May 13 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[2025-26 Season Game Operations Internship](https://jobright.ai/jobs/info/6823d4f3a8762c2f7361e7b4?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | May 13 |
@@ -143,6 +145,4 @@ For a complete list, click the following sortable link below:
 | **[BDG](http://bustle.com)** | **[Temp Fashion Closet Assistant, W](https://jobright.ai/jobs/info/6805c449ac0f8a561ffe158e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 10 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Culinary Internship](https://jobright.ai/jobs/info/67ada7cbfdb6f67343041bc1?utm_campaign=1053&utm_source=git)** | Jackson, NJ | On Site | May 10 |
 | **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[Golf Operations Intern](https://jobright.ai/jobs/info/67c8af641e4b1b135188cc7b?utm_campaign=1053&utm_source=git)** | Dumfries, VA | On Site | May 10 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern (WCHS) - Summer 2025](https://jobright.ai/jobs/info/67e656a2830761d49d6f1f08?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | May 10 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136aab?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
