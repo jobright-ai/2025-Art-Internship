@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ESPN](http://espncareers.com)** | **[ESPN College Sports Feature Team Production Intern, Charlotte, Fall 2025](https://jobright.ai/jobs/info/6828a9e657c7f36fbb7c7215?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | May 17 |
 | ↳ | **[ESPN Production Intern, Charlotte, Fall 2025](https://jobright.ai/jobs/info/6828a9e657c7f36fbb7c71e5?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | May 17 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/680bf3c8c2f2c15e01f1436c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 17 |
 | **[Housecall Pro](http://www.housecallpro.com)** | **[Intern, Content Creation](https://jobright.ai/jobs/info/680bd0bf4fb4ef2a199045ae?utm_campaign=1053&utm_source=git)** | United States | Remote | May 17 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Internship](https://jobright.ai/jobs/info/67f0e102cef18b2f7dfc678c?utm_campaign=1053&utm_source=git)** | Cedar Rapids, IA | On Site | May 17 |
 | **[New Beginnings Creator Network](https://nbcn.live)** | **[Creator Curator/Manager Summer Residency Program](https://jobright.ai/jobs/info/6827d87e558ed52b2b9aec51?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | May 16 |
@@ -133,7 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[INTERN (Los Angeles)](https://jobright.ai/jobs/info/68239c9c5b7c69bde80d5304?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - Unpaid](https://jobright.ai/jobs/info/68239b425e97dcebf6617db1?utm_campaign=1053&utm_source=git)** | Youngstown, OH | On Site | May 13 |
 | ↳ | **[Intern - Unpaid](https://jobright.ai/jobs/info/6823826df17cd8f629385f7e?utm_campaign=1053&utm_source=git)** | OH, Youngstown | On Site | May 13 |
-| ↳ | **[NewsNation Creative Producer Internship Summer 2025, Chicago](https://jobright.ai/jobs/info/6806a0b921cdf3090ba0e116?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | May 13 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67ab00235d34f12463b0055d?utm_campaign=1053&utm_source=git)** | Charleston, SC | On Site | May 13 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation Creative Producer Internship Summer 2025, Chicago](https://jobright.ai/jobs/info/6806a0b921cdf3090ba0e116?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | ↳ | **[Creative/Promo/Production Intern](https://jobright.ai/jobs/info/67ca0fe192da3e635bd2a106?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News NY Bureau Intern, Fall 2025](https://jobright.ai/jobs/info/68235c5f8267678db8ba6cfe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/6787bd52bfcaad578c0a284c?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | May 13 |
