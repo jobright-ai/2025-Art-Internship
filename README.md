@@ -57,15 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ESPN](http://espncareers.com)** | **[ESPN Production Intern, Charlotte, Fall 2025](https://jobright.ai/jobs/info/6828a9e657c7f36fbb7c71e5?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | May 17 |
-| ↳ | **[ESPN College Sports Feature Team Production Intern, Charlotte, Fall 2025](https://jobright.ai/jobs/info/6828a9e657c7f36fbb7c7215?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | May 17 |
+| **[ESPN](http://espncareers.com)** | **[ESPN College Sports Feature Team Production Intern, Charlotte, Fall 2025](https://jobright.ai/jobs/info/6828a9e657c7f36fbb7c7215?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | May 17 |
+| ↳ | **[ESPN Production Intern, Charlotte, Fall 2025](https://jobright.ai/jobs/info/6828a9e657c7f36fbb7c71e5?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | May 17 |
 | **[Housecall Pro](http://www.housecallpro.com)** | **[Intern, Content Creation](https://jobright.ai/jobs/info/680bd0bf4fb4ef2a199045ae?utm_campaign=1053&utm_source=git)** | United States | Remote | May 17 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Internship](https://jobright.ai/jobs/info/67f0e102cef18b2f7dfc678c?utm_campaign=1053&utm_source=git)** | Cedar Rapids, IA | On Site | May 17 |
 | **[New Beginnings Creator Network](https://nbcn.live)** | **[Creator Curator/Manager Summer Residency Program](https://jobright.ai/jobs/info/6827d87e558ed52b2b9aec51?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | May 16 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - KFDA](https://jobright.ai/jobs/info/6827ce4c62b1b3a855927cf9?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | May 16 |
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WDAM](https://jobright.ai/jobs/info/6827ce4c62b1b3a855927cca?utm_campaign=1053&utm_source=git)** | Moselle, MS | On Site | May 16 |
 | **[Penn State University](http://psu.edu)** | **[Community Archives Project - Undergraduate Fellow - Libraries](https://jobright.ai/jobs/info/682796ddba9e73b7d0061754?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | May 16 |
-| **[Scrollmark](https://www.dropyacht.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68277b70cd791492f7e00e6a?utm_campaign=1053&utm_source=git)** | Milpitas, CA | On Site | May 16 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/6827d239bc6f0fad8b8f2085?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | May 16 |
 | **[Warby Parker](http://www.warbyparker.com)** | **[Apprentice Optician, Part-Time - Darien Commons](https://jobright.ai/jobs/info/682764c57011d69cf43f4fef?utm_campaign=1053&utm_source=git)** | Darien, CT | On Site | May 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Good Morning America Production Intern, Fall 2025](https://jobright.ai/jobs/info/6827595e39cbd330ae509c18?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 16 |
@@ -116,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/67cfec9a829ebe45eecb8103?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | May 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136ab4?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 14 |
 | **[Wizards of the Coast](http://company.wizards.com/)** | **[Intern - Game Editor (Summer 2025)](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79b46?utm_campaign=1053&utm_source=git)** | Renton, WA | On Site | May 13 |
-| **[The Juilliard School](http://www.juilliard.edu/)** | **[Administrative Apprentice, Drama Production & Special Events](https://jobright.ai/jobs/info/6824077d77ea05c987a1ae00?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | May 13 |
-| ↳ | **[Apprentice, Audio/Video Editor](https://jobright.ai/jobs/info/6824077d77ea05c987a1adfc?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 13 |
+| **[The Juilliard School](http://www.juilliard.edu/)** | **[Apprentice, Audio/Video Editor](https://jobright.ai/jobs/info/6824077d77ea05c987a1adfc?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | May 13 |
+| ↳ | **[Administrative Apprentice, Drama Production & Special Events](https://jobright.ai/jobs/info/6824077d77ea05c987a1ae00?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | May 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, Unpaid](https://jobright.ai/jobs/info/67b2c0494a6e4bdfad6ff7fb?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | May 13 |
 | **[American University](http://american.edu)** | **[Production Assistant (Student)](https://jobright.ai/jobs/info/6823e879775ffb6288a0f31a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 13 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[2025-26 Season Broadcasting Intern](https://jobright.ai/jobs/info/6823e4885477a27952f3b129?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | May 13 |
@@ -148,8 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Virginia Museum of History & Culture](https://virginiahistory.org)** | **[Archives Intern - Summer 2025](https://jobright.ai/jobs/info/6826c075d4b3f0b80946e0e3?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | May 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6822a141bd89060695b9d882?utm_campaign=1053&utm_source=git)** | Johnson City, TN | On Site | May 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News NY Bureau Intern, Fall 2025](https://jobright.ai/jobs/info/682279bac974a1120076df8d?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | May 12 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[CNBC Production & Editorial Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6828fd1af19074a2e002ab9a?utm_campaign=1053&utm_source=git)** | 30 Rockefeller Plaza, New York, NY 10111, USA | On Site | May 12 |
-| ↳ | **[CNBC Production & Editorial Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6828fd1af19074a2e002ab9b?utm_campaign=1053&utm_source=git)** | 904 Sylvan Ave, Englewood Cliffs, NJ 07632, USA | On Site | May 12 |
 | **[ St. Bonaventure University](http://www.sbu.edu)** | **[Temporary Summer Art position](https://jobright.ai/jobs/info/68221a215e13c928c3299919?utm_campaign=1053&utm_source=git)** | Allegany, NY | On Site | May 12 |
 | **[North Slope Borough](http://www.north-slope.org)** | **[Museum Intern](https://jobright.ai/jobs/info/68297e38a12bf87e534a674a?utm_campaign=1053&utm_source=git)** | Utqiagvik, AK | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
