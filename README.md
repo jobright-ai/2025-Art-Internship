@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid General Intern](https://jobright.ai/jobs/info/67dc39a8714f5fbe458a67e7?utm_campaign=1053&utm_source=git)** | Binghamton, NY | On Site | May 25 |
+| **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Writing Internship](https://jobright.ai/jobs/info/67e7741efb2bebb18e7f0819?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | May 25 |
 | **[Knights ](https://knights.gg)** | **[Video Production Associate (FT/Post Graduate Intern)](https://jobright.ai/jobs/info/68323dac9bcdbe0a6b376e5d?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | May 24 |
 | **[OUTRIGGER Hospitality Group](http://www.outrigger.com.au)** | **[Student Intern Cook IV](https://jobright.ai/jobs/info/68321ef858063e1c27ca7358?utm_campaign=1053&utm_source=git)** | Outrigger Kona Resort and Spa | On Site | May 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6814d41accfdd0456e4f395c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | May 24 |
@@ -109,18 +111,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Digital Media Intern, Charlotte, Fall 2025](https://jobright.ai/jobs/info/682da811fc2d4d410845e523?utm_campaign=1053&utm_source=git)** | Charlotte, NC, USA | On Site | May 20 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136b46?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | May 20 |
 | **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Tacoma Mall](https://jobright.ai/jobs/info/682c1dc03ba72501353a3751?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | May 19 |
-| **[Friends University](http://www.friends.edu/)** | **[FY26 FA/SP/SU - Graduate Intern Dance Team (4019)](https://jobright.ai/jobs/info/682d3adb80d4ae6ae41574f7?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 19 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News-Intern](https://jobright.ai/jobs/info/682be06b58db2130d015a352?utm_campaign=1053&utm_source=git)** | Wichita Falls, TX | On Site | May 19 |
-| ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/682bd719c388a6cfc9fffc31?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | May 19 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC4 Washington Digital Internship – Academic Year](https://jobright.ai/jobs/info/682bd2d86c9bae14de57bdcd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 19 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2025 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/682bcc05107266e4fa0b92df?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | May 19 |
-| ↳ | **[Fall 2025 FOX News Media Internship Program - Chicago, IL](https://jobright.ai/jobs/info/682bcc05107266e4fa0b91f1?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | May 19 |
-| ↳ | **[Fall 2025 FOX News Media Internship Program - Miami, FL](https://jobright.ai/jobs/info/682bcc05107266e4fa0b929a?utm_campaign=1053&utm_source=git)** | Florida, United States | On Site | May 19 |
-| ↳ | **[Fall 2025 FOX News Media Internship Program - Atlanta, GA](https://jobright.ai/jobs/info/682bcc05107266e4fa0b91f8?utm_campaign=1053&utm_source=git)** | Georgia, United States | On Site | May 19 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67d5355dce74a0203d84e5a6?utm_campaign=1053&utm_source=git)** | Springfield, IL | On Site | May 19 |
-| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo 44 Washington Digital Internship – Academic Year](https://jobright.ai/jobs/info/682bc9ec117fd005084b9e5a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 19 |
-| **[Suno](https://www.suno.com)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/682cab579d52ce3e7d7e7f44?utm_campaign=1053&utm_source=git)** | NYC | On Site | May 19 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KVDA Internship](https://jobright.ai/jobs/info/682bbc8a2bedf9902067c73c?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | May 19 |
-| **[Gray Media](http://www.gray.tv)** | **[NEWS FELLOWSHIP PROGRAM P/T (PAID) - KSWO](https://jobright.ai/jobs/info/682bb88e9e9f2c419a66534f?utm_campaign=1053&utm_source=git)** | Lawton, OK | On Site | May 19 |
-| **[County of San Mateo](https://www.smcgov.org)** | **[Memorial Park Naturalist Intern II](https://jobright.ai/jobs/info/682b9f59e8b1f2b6098028a7?utm_campaign=1053&utm_source=git)** | San Mateo County, CA | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
