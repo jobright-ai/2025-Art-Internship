@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Summer Intern](https://jobright.ai/jobs/info/6835698bb16b8d69afacb9c4?utm_campaign=1053&utm_source=git)** | Huntsville, AL | On Site | May 27 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Baking & Pastry / Fall 2025](https://jobright.ai/jobs/info/6835f7cbb12c65a709093786?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | May 27 |
+| **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac5?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 27 |
 | **[Wattpad](https://www.wattpad.com)** | **[[WEBTOON Productions] Entertainment Intern](https://jobright.ai/jobs/info/6834f400ed54844e64a6e675?utm_campaign=1053&utm_source=git)** | Los Angeles, California | Hybrid | May 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67f965625c2cf2888f6ee1b7?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | May 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid General Intern](https://jobright.ai/jobs/info/67dc39a8714f5fbe458a67e7?utm_campaign=1053&utm_source=git)** | Binghamton, NY | On Site | May 25 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Spring 2025 Archives Internship](https://jobright.ai/jobs/info/683074634e3dcb40aeb721fc?utm_campaign=1053&utm_source=git)** | Utica-Rome Area | On Site | May 23 |
 | **[The Huntington](http://www.huntington.org/)** | **[Registration Intern](https://jobright.ai/jobs/info/68313f5b09e3b953207cf2ec?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | May 23 |
 | **[Montage International](https://www.montageinternational.com)** | **[Culinary Internship - Montage Palmetto Bluff](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d82?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | May 23 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/67dae96d6a64816ee5ee561d?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | May 23 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Summer Operations Internship - Culinary](https://jobright.ai/jobs/info/67f820799b2ee0576d75ab5b?utm_campaign=1053&utm_source=git)** | Monterey, CA | On Site | May 23 |
 | **[Montage International](https://www.montageinternational.com)** | **[Culinary Internship & Externships / Montage Palmetto Bluff](https://jobright.ai/jobs/info/66c9bc446c1ffa1ddaf44c39?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | May 23 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Sports Intern](https://jobright.ai/jobs/info/6830351c39cfe8268d4c2f8a?utm_campaign=1053&utm_source=git)** | Fresno, CA | On Site | May 23 |
@@ -80,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[State University of New York at Plattsburgh](https://www.suny.edu/mascotmadness/round2/)** | **[Summer Museum Collections Assistant](https://jobright.ai/jobs/info/682fc30a2200b5417db459ab?utm_campaign=1053&utm_source=git)** | Plattsburgh, NY | On Site | May 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Artist Management Internship](https://jobright.ai/jobs/info/682fc25fadef0f249e4b0584?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | May 22 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Sports Intern](https://jobright.ai/jobs/info/682f8e37ae24e7b6518da174?utm_campaign=1053&utm_source=git)** | 5111 East McKinley Avenue, Fresno, CA, 93727, US | On Site | May 22 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/6812d445aa9ba6a284b8b5ce?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | May 22 |
 | **[Babbel](http://www.babbel.com)** | **[Video Intern, Organic Content](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d0b3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Artist Management Internship](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd643f9?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | On Site | May 22 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Summer 2025 Archives Internship](https://jobright.ai/jobs/info/682fc01f3d01055c85a970a6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 22 |
@@ -102,8 +103,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[World News Tonight Production Intern, Fall 2025](https://jobright.ai/jobs/info/682dd9498ff09f038b58b553?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/67c02be62e347714a3e4390a?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | May 21 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6811c0f1b1e64946161c202e?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | May 21 |
-| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo 44 Washington News Internship – Academic Year](https://jobright.ai/jobs/info/682d281d4389d9a2d9f981fb?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 20 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC4 Washington News Internship – Academic Year](https://jobright.ai/jobs/info/682d1d1c655ed94f8f627cf3?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | May 20 |
-| **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Video Production Associate (FT/Post Graduate Intern)](https://jobright.ai/jobs/info/682d13d657ff438d5a9d4410?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | May 20 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WCAX](https://jobright.ai/jobs/info/682d100ab85f09695af18be8?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
