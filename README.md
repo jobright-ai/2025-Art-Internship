@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Summer Intern](https://jobright.ai/jobs/info/6835698bb16b8d69afacb9c4?utm_campaign=1053&utm_source=git)** | Huntsville, AL | On Site | May 27 |
 | **[Wattpad](https://www.wattpad.com)** | **[[WEBTOON Productions] Entertainment Intern](https://jobright.ai/jobs/info/6834f400ed54844e64a6e675?utm_campaign=1053&utm_source=git)** | Los Angeles, California | Hybrid | May 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid General Intern](https://jobright.ai/jobs/info/67dc39a8714f5fbe458a67e7?utm_campaign=1053&utm_source=git)** | Binghamton, NY | On Site | May 25 |
 | **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Writing Internship](https://jobright.ai/jobs/info/67e7741efb2bebb18e7f0819?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | May 25 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern - Summer](https://jobright.ai/jobs/info/68131c92f440f24bf9efc868?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | May 22 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/67f625b88280b81c953b8d12?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | May 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Intern](https://jobright.ai/jobs/info/682e887630f4aa0e735fc276?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | May 21 |
-| **[ChildServe](https://www.childserve.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6835301396e2fd7bc73afe7c?utm_campaign=1053&utm_source=git)** | Johnston, IA | On Site | May 21 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 21 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Culinary Intern](https://jobright.ai/jobs/info/682e5548f482619b2d0a8184?utm_campaign=1053&utm_source=git)** | 2800 Opryland Drive, Nashville, TN, 37214, US | On Site | May 21 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Production](https://jobright.ai/jobs/info/682e368b63345804acef1b83?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | May 21 |
@@ -106,8 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Video Production Associate (FT/Post Graduate Intern)](https://jobright.ai/jobs/info/682d13d657ff438d5a9d4410?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | May 20 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WCAX](https://jobright.ai/jobs/info/682d100ab85f09695af18be8?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | May 20 |
 | **[Suno](https://www.suno.com)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/682cceecebdab74f4f100031?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 20 |
-| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Summer Videographer for Student Life](https://jobright.ai/jobs/info/67f464d1a9408c39670239e7?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | May 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[World News Tonight Production Intern, Fall 2025](https://jobright.ai/jobs/info/682db3640eb8107992361593?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | May 20 |
-| **[NOV](https://www.nov.com/)** | **[3D Animator - Summer Intern](https://jobright.ai/jobs/info/682c9cddd74a1426b222c3b4?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | May 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Digital Media Intern, Charlotte, Fall 2025](https://jobright.ai/jobs/info/682da811fc2d4d410845e523?utm_campaign=1053&utm_source=git)** | Charlotte, NC, USA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
