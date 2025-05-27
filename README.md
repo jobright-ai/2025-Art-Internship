@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wattpad](https://www.wattpad.com)** | **[[WEBTOON Productions] Entertainment Intern](https://jobright.ai/jobs/info/6834f400ed54844e64a6e675?utm_campaign=1053&utm_source=git)** | Los Angeles, California | Hybrid | May 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid General Intern](https://jobright.ai/jobs/info/67dc39a8714f5fbe458a67e7?utm_campaign=1053&utm_source=git)** | Binghamton, NY | On Site | May 25 |
 | **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Writing Internship](https://jobright.ai/jobs/info/67e7741efb2bebb18e7f0819?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | May 25 |
 | **[Knights ](https://knights.gg)** | **[Video Production Associate (FT/Post Graduate Intern)](https://jobright.ai/jobs/info/68323dac9bcdbe0a6b376e5d?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | May 24 |
@@ -110,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[NOV](https://www.nov.com/)** | **[3D Animator - Summer Intern](https://jobright.ai/jobs/info/682c9cddd74a1426b222c3b4?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | May 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Digital Media Intern, Charlotte, Fall 2025](https://jobright.ai/jobs/info/682da811fc2d4d410845e523?utm_campaign=1053&utm_source=git)** | Charlotte, NC, USA | On Site | May 20 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67587bf78caadf47e4136b46?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | May 20 |
-| **[JCPenney](http://jcp.com)** | **[Designer In Training Salon - Tacoma Mall](https://jobright.ai/jobs/info/682c1dc03ba72501353a3751?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
