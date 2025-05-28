@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Intern-The Olde Course/Cattail Creek-Seasonal](https://jobright.ai/jobs/info/68366f0ecd5feade1f6f5f46?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | May 27 |
 | **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Stadium Operations Intern - Guest Experience](https://jobright.ai/jobs/info/683656a4fb8f8576d3e31f10?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 27 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Vertical Video Intern](https://jobright.ai/jobs/info/683656a4fb8f8576d3e31e03?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/683620d98be8ae949856e381?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | May 27 |
@@ -64,6 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Baking & Pastry / Fall 2025](https://jobright.ai/jobs/info/6835f7cbb12c65a709093786?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | May 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Intern](https://jobright.ai/jobs/info/67a67bbdc7b2e2d2ddb47162?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | May 27 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac5?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 27 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6819b0f8b1bebe1e8eb03721?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | May 27 |
+| **[Alpha Media USA](https://alphanapkinmachines.com/)** | **[Agricultural Programming Internship on 105.2 WSGW](https://jobright.ai/jobs/info/683675f8b13369de1a896ce2?utm_campaign=1053&utm_source=git)** | Saginaw, MI | On Site | May 26 |
 | **[Wattpad](https://www.wattpad.com)** | **[[WEBTOON Productions] Entertainment Intern](https://jobright.ai/jobs/info/6834f400ed54844e64a6e675?utm_campaign=1053&utm_source=git)** | Los Angeles, California | Hybrid | May 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/678925feb1ed92949ce60195?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | May 26 |
 | ↳ | **[News Internship](https://jobright.ai/jobs/info/67f965625c2cf2888f6ee1b7?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | May 26 |
@@ -105,8 +108,7 @@ For a complete list, click the following sortable link below:
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6811c0f1b1e64946161c2200?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | May 21 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Production](https://jobright.ai/jobs/info/682de597195222f7c639f52f?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | May 21 |
 | **[Lely](https://www.lely.com/jp/)** | **[Stage bij Lely Center Bunschoten](https://jobright.ai/jobs/info/682de306c14ef2216f6c2509?utm_campaign=1053&utm_source=git)** | Nederland, TX | On Site | May 21 |
-| **[Teijin Automotive Technologies](http://www.cspplastics.com/)** | **[Production Intern](https://jobright.ai/jobs/info/682e17ae37d4fceb95e85b41?utm_campaign=1053&utm_source=git)** | Van Wert | On Site | May 21 |
+| **[Teijin Automotive Technologies](http://www.cspplastics.com/)** | **[Production Intern](https://jobright.ai/jobs/info/682e176e37d4fceb95e851a2?utm_campaign=1053&utm_source=git)** | Van Wert | On Site | May 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[World News Tonight Production Intern, Fall 2025](https://jobright.ai/jobs/info/682dd9498ff09f038b58b553?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/67c02be62e347714a3e4390a?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | May 21 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6811c0f1b1e64946161c202e?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
