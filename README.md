@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Intern-The Olde Course/Cattail Creek-Seasonal](https://jobright.ai/jobs/info/68366f0ecd5feade1f6f5f46?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | May 27 |
+| **[City of Costa Mesa](https://www.costamesaca.gov/)** | **[Intern](https://jobright.ai/jobs/info/6836e7ed78d57ccb687c4346?utm_campaign=1053&utm_source=git)** | Costa Mesa, CA | On Site | May 28 |
+| **[NOV](https://www.nov.com/)** | **[3D Animator - Summer Intern](https://jobright.ai/jobs/info/682c9cddd74a1426b222c3b4?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | May 27 |
 | **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Stadium Operations Intern - Guest Experience](https://jobright.ai/jobs/info/683656a4fb8f8576d3e31f10?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 27 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Vertical Video Intern](https://jobright.ai/jobs/info/683656a4fb8f8576d3e31e03?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/683620d98be8ae949856e381?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | May 27 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Seasonal Alterations & Tailor Shop - Apprentice - Oak Park Mall](https://jobright.ai/jobs/info/68363f175e35b458f2f31e78?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | May 27 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Baking & Pastry / Fall 2025](https://jobright.ai/jobs/info/6835f7cbb12c65a709093786?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | May 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Intern](https://jobright.ai/jobs/info/67a67bbdc7b2e2d2ddb47162?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | May 27 |
-| **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac5?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 27 |
+| **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/67c2511f8843b056d4f5917b?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 27 |
+| **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6abd?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | May 27 |
+| ↳ | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac5?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 27 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6819b0f8b1bebe1e8eb03721?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | May 27 |
 | **[Montage International](https://www.montageinternational.com)** | **[Culinary Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d61?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | May 26 |
 | **[Alpha Media USA](https://alphanapkinmachines.com/)** | **[Agricultural Programming Internship on 105.2 WSGW](https://jobright.ai/jobs/info/683675f8b13369de1a896ce2?utm_campaign=1053&utm_source=git)** | Saginaw, MI | On Site | May 26 |
@@ -99,8 +102,5 @@ For a complete list, click the following sortable link below:
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/67f625b88280b81c953b8d12?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | May 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Intern](https://jobright.ai/jobs/info/682e887630f4aa0e735fc276?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | May 21 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 21 |
-| **[Marriott International](https://w-hotels.marriott.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/682e5548f482619b2d0a8184?utm_campaign=1053&utm_source=git)** | 2800 Opryland Drive, Nashville, TN, 37214, US | On Site | May 21 |
-| **[HUSH](http://heyhush.com/)** | **[Intern: Production](https://jobright.ai/jobs/info/682e368b63345804acef1b83?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | May 21 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER'25 - KTTC](https://jobright.ai/jobs/info/682e1d4f335916836c5db590?utm_campaign=1053&utm_source=git)** | Rochester, MN | On Site | May 21 |
-| **[The Transmitter](https://spectrumnews.org/)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/682d65809f0a459da626735c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 21 |
+| **[Marriott International](http://travel-brilliantly.marriott.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/682e5548f482619b2d0a8184?utm_campaign=1053&utm_source=git)** | 2800 Opryland Drive, Nashville, TN, 37214, US | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
