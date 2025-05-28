@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NPR](http://www.npr.org)** | **[Reflect America Reporting Fellow](https://jobright.ai/jobs/info/68375ef67e434f9491b8e04d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 28 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/68371730f0633bb026b434a5?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | May 28 |
 | **[City of Costa Mesa](https://www.costamesaca.gov/)** | **[Intern](https://jobright.ai/jobs/info/6836e7ed78d57ccb687c4346?utm_campaign=1053&utm_source=git)** | Costa Mesa, CA | On Site | May 28 |
 | **[NOV](https://www.nov.com/)** | **[3D Animator - Summer Intern](https://jobright.ai/jobs/info/682c9cddd74a1426b222c3b4?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | May 27 |
 | **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Stadium Operations Intern - Guest Experience](https://jobright.ai/jobs/info/683656a4fb8f8576d3e31f10?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 27 |
@@ -100,7 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WKYT](https://jobright.ai/jobs/info/682f68fbe4a80f1ea817657c?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | May 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern - Summer](https://jobright.ai/jobs/info/68131c92f440f24bf9efc868?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | May 22 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/67f625b88280b81c953b8d12?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | May 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Intern](https://jobright.ai/jobs/info/682e887630f4aa0e735fc276?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | May 21 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | May 21 |
-| **[Marriott International](http://travel-brilliantly.marriott.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/682e5548f482619b2d0a8184?utm_campaign=1053&utm_source=git)** | 2800 Opryland Drive, Nashville, TN, 37214, US | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
