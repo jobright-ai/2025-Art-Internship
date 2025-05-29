@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Reporter MMJ Summer Internship](https://jobright.ai/jobs/info/6837916c64d654abc8e8cb3a?utm_campaign=1053&utm_source=git)** | TX, Odessa | On Site | May 28 |
+| **[The Jamestown Foundation](http://www.jamestown.org)** | **[Eurasia Editorial Internship, Summer–Fall 2025](https://jobright.ai/jobs/info/6837902ac8f52577360ad23d?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | On Site | May 28 |
 | **[NPR](http://www.npr.org)** | **[Reflect America Reporting Fellow](https://jobright.ai/jobs/info/68375ef67e434f9491b8e04d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | May 28 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/68371730f0633bb026b434a5?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | May 28 |
-| **[City of Costa Mesa](https://www.costamesaca.gov/)** | **[Intern](https://jobright.ai/jobs/info/6836e7ed78d57ccb687c4346?utm_campaign=1053&utm_source=git)** | Costa Mesa, CA | On Site | May 28 |
 | **[NOV](https://www.nov.com/)** | **[3D Animator - Summer Intern](https://jobright.ai/jobs/info/682c9cddd74a1426b222c3b4?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | May 27 |
 | **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Stadium Operations Intern - Guest Experience](https://jobright.ai/jobs/info/683656a4fb8f8576d3e31f10?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 27 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Vertical Video Intern](https://jobright.ai/jobs/info/683656a4fb8f8576d3e31e03?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/683620d98be8ae949856e381?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | May 27 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Seasonal Alterations & Tailor Shop - Apprentice - Oak Park Mall](https://jobright.ai/jobs/info/68363f175e35b458f2f31e78?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | May 27 |
+| **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac1?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | May 27 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Baking & Pastry / Fall 2025](https://jobright.ai/jobs/info/6835f7cbb12c65a709093786?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | May 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Intern](https://jobright.ai/jobs/info/67a67bbdc7b2e2d2ddb47162?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | May 27 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/67c2511f8843b056d4f5917b?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 27 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/678925feb1ed92949ce60195?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | May 26 |
 | ↳ | **[News Internship](https://jobright.ai/jobs/info/67f965625c2cf2888f6ee1b7?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | May 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid General Intern](https://jobright.ai/jobs/info/67dc39a8714f5fbe458a67e7?utm_campaign=1053&utm_source=git)** | Binghamton, NY | On Site | May 25 |
-| **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Writing Internship](https://jobright.ai/jobs/info/67e7741efb2bebb18e7f0819?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | May 25 |
 | **[Knights ](https://knights.gg)** | **[Video Production Associate (FT/Post Graduate Intern)](https://jobright.ai/jobs/info/68323dac9bcdbe0a6b376e5d?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | May 24 |
 | **[OUTRIGGER Hospitality Group](http://www.outrigger.com.au)** | **[Student Intern Cook IV](https://jobright.ai/jobs/info/68321ef858063e1c27ca7358?utm_campaign=1053&utm_source=git)** | Outrigger Kona Resort and Spa | On Site | May 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6814d41accfdd0456e4f395c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | May 24 |
@@ -101,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Summer 2025 Archives Internship](https://jobright.ai/jobs/info/682fc01f3d01055c85a970a6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 22 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WKYT](https://jobright.ai/jobs/info/682f68fbe4a80f1ea817657c?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | May 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern - Summer](https://jobright.ai/jobs/info/68131c92f440f24bf9efc868?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | May 22 |
-| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/67f625b88280b81c953b8d12?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
