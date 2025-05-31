@@ -57,26 +57,30 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NeoReach](http://neoreach.com)** | **[Copyediting Intern](https://jobright.ai/jobs/info/683a041ceca18f548b0e8a04?utm_campaign=1053&utm_source=git)** | United States | Remote | May 30 |
+| **[City of Costa Mesa](https://www.costamesaca.gov/)** | **[Intern](https://jobright.ai/jobs/info/683a2d8536358fd6bcdbcc18?utm_campaign=1053&utm_source=git)** | Costa Mesa, CA | On Site | May 30 |
+| **[R&CPMK](https://www.rcpmk.com)** | **[Trainee, Digital Entertainment and Gaming](https://jobright.ai/jobs/info/683a174493f88b606b5016ea?utm_campaign=1053&utm_source=git)** | Century City, California, United States | On Site | May 30 |
+| **[Crazy Maple Studio](http://www.crazymaplestudios.com/)** | **[ReelShort Summer Internship Program - 2025](https://jobright.ai/jobs/info/683a14cf8e8a422be2f9e983?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | May 30 |
 | **[University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[Assistant Technical Director - Krannert Center for the Performing Arts](https://jobright.ai/jobs/info/6839f6b8321ef8d44ce92346?utm_campaign=1053&utm_source=git)** | Urbana, IL | On Site | May 30 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6839e76b268fd00a1234551f?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
 | ↳ | **[Intern, Video Production & ThunderVision](https://jobright.ai/jobs/info/6839e76b268fd00a12345516?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
 | **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Intern-The Olde Course/Cattail Creek-Seasonal](https://jobright.ai/jobs/info/6839bdb6674e011216150622?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | May 30 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | May 30 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | May 30 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[2025 NFL Films Fall Internship Program](https://jobright.ai/jobs/info/681da00e553612ad52e875b5?utm_campaign=1053&utm_source=git)** | Mount Laurel, NJ | On Site | May 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/68395c56ed9877426dd7b3b7?utm_campaign=1053&utm_source=git)** | Farmersburg, IN | On Site | May 30 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68395c16abd2048042a34218?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | May 30 |
-| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/68395c16abd2048042a34200?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | May 30 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68395c16abd2048042a34200?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | May 30 |
+| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/68395c16abd2048042a34218?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | May 30 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/683956cb771a6a6ef25d5e2e?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | May 29 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6800b7ae5bff52f714691749?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | May 29 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b17?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | May 29 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/6800b7ae5bff52f714691749?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | May 29 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Archive Intern](https://jobright.ai/jobs/info/682949ec537cc4bc5d1ae97c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 29 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/67fff0eb44edfa68713109f8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | May 29 |
 | **[Trintech](https://www.trintech.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/681a42f014e486256c3358a6?utm_campaign=1053&utm_source=git)** | DFW Metroplex | On Site | May 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Reporter MMJ Summer Internship](https://jobright.ai/jobs/info/6837c80f8b6c411055334b12?utm_campaign=1053&utm_source=git)** | Odessa, TX | On Site | May 28 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBCU Local Bay Area - Studio Tech Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837b4285f785b23b9195b35?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 28 |
-| ↳ | **[NBCU Local Bay Area - Programming Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837b4285f785b23b9195ade?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 28 |
-| ↳ | **[NBCU Local Bay Area - Video Editor Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837b4285f785b23b9195af7?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 28 |
 | ↳ | **[NBCU Local Bay Area - Production Assistant Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837b4285f785b23b9195b20?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 28 |
+| ↳ | **[NBCU Local Bay Area - Video Editor Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837b4285f785b23b9195af7?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 28 |
+| ↳ | **[NBCU Local Bay Area - Programming Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837b4285f785b23b9195ade?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 28 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Programming Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837af58513394dcc9c56d5f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 28 |
 | ↳ | **[NBCU Local Bay Area - Video Editor Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837af58513394dcc9c56d63?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 28 |
 | ↳ | **[NBCU Local Bay Area - Production Assistant Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837af58513394dcc9c56d76?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 28 |
@@ -111,6 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Knights ](https://knights.gg)** | **[Video Production Associate (FT/Post Graduate Intern)](https://jobright.ai/jobs/info/68323dac9bcdbe0a6b376e5d?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | May 24 |
 | **[OUTRIGGER Hospitality Group](http://www.outrigger.com.au)** | **[Student Intern Cook IV](https://jobright.ai/jobs/info/68321ef858063e1c27ca7358?utm_campaign=1053&utm_source=git)** | Outrigger Kona Resort and Spa | On Site | May 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6814d41accfdd0456e4f395c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | May 24 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - KMOV](https://jobright.ai/jobs/info/6831651bf801b38eb9ff3f23?utm_campaign=1053&utm_source=git)** | Maryland Heights, MO | On Site | May 23 |
-| **[Four Hands](https://fourhands.com)** | **[Studio Production Intern](https://jobright.ai/jobs/info/6836894827f5e8ef4235147d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
