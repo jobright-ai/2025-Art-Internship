@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pacagen](http://pacagen.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/683e1f71dbc0537bbe99150b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 02 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Winter 2026 Golf Ball Fitting Internship / Titleist](https://jobright.ai/jobs/info/683e123538b2415aa6442cb1?utm_campaign=1053&utm_source=git)** | 333 Bridge Street, Fairhaven, MA, 02719, US | On Site | Jun 02 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SUMMER '25 - KOLN](https://jobright.ai/jobs/info/683dec72e359073f24aa1645?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Jun 02 |
 | **[Octagon](http://www.octagon.com/)** | **[Trainee, Event Assistant (Events)](https://jobright.ai/jobs/info/683dea4291b992203c77afbf?utm_campaign=1053&utm_source=git)** | Cary, North Carolina, United States | On Site | Jun 02 |
@@ -103,13 +102,13 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/67fff0eb44edfa68713109f8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | May 29 |
 | **[Trintech](https://www.trintech.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/681a42f014e486256c3358a6?utm_campaign=1053&utm_source=git)** | DFW Metroplex | On Site | May 28 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBCU Local Bay Area - Production Assistant Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837b4285f785b23b9195b20?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 28 |
-| ↳ | **[NBCU Local Bay Area - Studio Tech Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837b4285f785b23b9195b35?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 28 |
 | ↳ | **[NBCU Local Bay Area - Programming Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837b4285f785b23b9195ade?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 28 |
 | ↳ | **[NBCU Local Bay Area - Video Editor Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837b4285f785b23b9195af7?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 28 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Production Assistant Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837af58513394dcc9c56d76?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 28 |
-| ↳ | **[NBCU Local Bay Area - Programming Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837af58513394dcc9c56d5f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 28 |
-| ↳ | **[NBCU Local Bay Area - Video Editor Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837af58513394dcc9c56d63?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 28 |
+| ↳ | **[NBCU Local Bay Area - Studio Tech Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837b4285f785b23b9195b35?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | May 28 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Programming Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837af58513394dcc9c56d5f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 28 |
 | ↳ | **[NBCU Local Bay Area - Studio Tech Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837af58513394dcc9c56d9f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 28 |
+| ↳ | **[NBCU Local Bay Area - Production Assistant Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837af58513394dcc9c56d76?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 28 |
+| ↳ | **[NBCU Local Bay Area - Video Editor Internship - Academic Year (2025-2026)](https://jobright.ai/jobs/info/6837af58513394dcc9c56d63?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | May 28 |
 | **[EA SPORTS](http://www.EASports.com)** | **[Media Content Producer](https://jobright.ai/jobs/info/6837af58513394dcc9c56d1d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 28 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Seasonal Alterations & Tailor Shop - Apprentice - Scottsdale Fashion Square](https://jobright.ai/jobs/info/6837aee2f1f46955b9b3ce1a?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | May 28 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Summer News Intern](https://jobright.ai/jobs/info/67fece4aa8c01cf1c0c6d50b?utm_campaign=1053&utm_source=git)** | Bristol, TN | On Site | May 28 |
@@ -128,6 +127,4 @@ For a complete list, click the following sortable link below:
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/67c2511f8843b056d4f5917b?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | May 27 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6abd?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | May 27 |
 | **[FOX 47 (WSYM)](https://www.fox47news.com)** | **[Fall News Intern, WSYM](https://jobright.ai/jobs/info/681913c99343a4d6c344c487?utm_campaign=1053&utm_source=git)** | Greater Lansing | On Site | May 27 |
-| **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac5?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | May 27 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6819b0f8b1bebe1e8eb03721?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
