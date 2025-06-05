@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Time Out Group plc](http://www.timeout.com)** | **[Time Out New York – Editoral Internship](https://jobright.ai/jobs/info/6841d9026addf7cbc5516fa3?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jun 05 |
+| ↳ | **[Time Out New York – Summer Internship](https://jobright.ai/jobs/info/6841eb6a0493c240250fa8a8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 05 |
+| **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Intern-The Olde Course/Cattail Creek-Seasonal](https://jobright.ai/jobs/info/6841ab343ad9b71c90f958c1?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Jun 05 |
 | **[Northside Hospital](http://www.northside.com)** | **[Deparment Intern](https://jobright.ai/jobs/info/6841858f7218cba3233d88a9?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Jun 05 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Video Production](https://jobright.ai/jobs/info/684134524871972eb4701e86?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 04 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Culinary Intern - Spring 2026](https://jobright.ai/jobs/info/6841204bf9b8a756dfd616bf?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jun 04 |
@@ -75,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[ISlide Fall 2025 Internships](https://jobright.ai/jobs/info/6840a06da90c37324214f03a?utm_campaign=1053&utm_source=git)** | Hyde Park, MA | On Site | Jun 04 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Research Resources - Archives Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f6a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | ↳ | **[[Fall 2025] Curatorial - Prewar Art Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f67?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[Summer News Production Intern](https://jobright.ai/jobs/info/67e70f4b76cead6be74bfbdb?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jun 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, Unpaid](https://jobright.ai/jobs/info/67b2c0494a6e4bdfad6ff7fb?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Jun 04 |
 | **[Legends](http://legends.net)** | **[Culinary Intern - Huntington Bank Pavilion at Northerly Island](https://jobright.ai/jobs/info/67c42a01b9609906b74017fa?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jun 04 |
 | **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Projects Intern](https://jobright.ai/jobs/info/681d6de2bf9100148a142a25?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 04 |
@@ -112,16 +116,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Up To Date Intern, KCUR - Internship Program, 84314](https://jobright.ai/jobs/info/683a4f10018e850cfc42a89e?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 30 |
 | **[R&CPMK](https://www.rcpmk.com)** | **[Trainee, Digital Entertainment and Gaming](https://jobright.ai/jobs/info/683a174493f88b606b5016ea?utm_campaign=1053&utm_source=git)** | Century City, California, United States | On Site | May 30 |
 | **[University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[Assistant Technical Director - Krannert Center for the Performing Arts](https://jobright.ai/jobs/info/6839f6b8321ef8d44ce92346?utm_campaign=1053&utm_source=git)** | Urbana, IL | On Site | May 30 |
-| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6839e76b268fd00a1234551f?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
-| ↳ | **[Intern, Video Production & ThunderVision](https://jobright.ai/jobs/info/6839e76b268fd00a12345516?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Video Production & ThunderVision](https://jobright.ai/jobs/info/6839e76b268fd00a12345516?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
+| ↳ | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6839e76b268fd00a1234551f?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | May 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | May 30 |
 | **[Oncology Nursing Society](https://www.ons.org/)** | **[Connie Henke Yarbro Oncology Nursing History Center Intern](https://jobright.ai/jobs/info/683ae5281481525ad4473f8b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/68395c56ed9877426dd7b3b7?utm_campaign=1053&utm_source=git)** | Farmersburg, IN | On Site | May 30 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68395c16abd2048042a34218?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | May 30 |
-| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/68395c16abd2048042a34200?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | May 30 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68395c16abd2048042a34200?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | May 30 |
+| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/68395c16abd2048042a34218?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | May 30 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/683956cb771a6a6ef25d5e2e?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | May 29 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Audubon Magazine Editorial Fellow](https://jobright.ai/jobs/info/67e1930599b0cdf1b6e1a724?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 29 |
 | **[Legacy Ventures Hospitality](https://lvmgt.com)** | **[Resort Activities Coordinator](https://jobright.ai/jobs/info/683bd5bcc370946112129561?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX | On Site | May 29 |
-| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[INTERNS](https://jobright.ai/jobs/info/681bba39fe607676a8dc2324?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Remote | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
