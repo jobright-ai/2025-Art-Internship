@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6840e2c36cf487fc61a1f93a?utm_campaign=1053&utm_source=git)** | Chicago, IL | Remote | Jun 04 |
+| **[ISlide, Inc.](https://www.islideusa.com/)** | **[ISlide Fall 2025 Internships](https://jobright.ai/jobs/info/6840d3e4afe20e899a582729?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jun 04 |
+| **[City of Costa Mesa](https://www.costamesaca.gov/)** | **[Intern](https://jobright.ai/jobs/info/6840cd1b64a56a0da4e97a65?utm_campaign=1053&utm_source=git)** | Costa Mesa, CA | On Site | Jun 04 |
+| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6840bddd3b434eb82f74c2d5?utm_campaign=1053&utm_source=git)** | Chicago (Green St), IL | On Site | Jun 04 |
+| **[Post University](http://www.post.edu/)** | **[Studio Art Assistant](https://jobright.ai/jobs/info/6840a55d76145f29765bee8f?utm_campaign=1053&utm_source=git)** | Waterbury, CT | On Site | Jun 04 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[ISlide Fall 2025 Internships](https://jobright.ai/jobs/info/6840a06da90c37324214f03a?utm_campaign=1053&utm_source=git)** | Hyde Park, MA | On Site | Jun 04 |
-| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Research Resources - Archives Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f6a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Curatorial - Prewar Art Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f67?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
+| ↳ | **[[Fall 2025] Research Resources - Archives Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f6a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | ↳ | **[[Fall 2025] Digital Content Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f64?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
-| ↳ | **[[Fall 2025] Curatorial - Prewar Art Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f67?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Archdiocese of Milwaukee](https://www.archmil.org/archdiocese-milwaukee/home.htm)** | **[Archives Intern](https://jobright.ai/jobs/info/68405798d5d52640c6f23ba3?utm_campaign=1053&utm_source=git)** | St Francis, WI | On Site | Jun 04 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, Unpaid](https://jobright.ai/jobs/info/67b2c0494a6e4bdfad6ff7fb?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Jun 04 |
 | **[Legends](http://legends.net)** | **[Culinary Intern - Huntington Bank Pavilion at Northerly Island](https://jobright.ai/jobs/info/67c42a01b9609906b74017fa?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jun 04 |
 | **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Projects Intern](https://jobright.ai/jobs/info/681d6de2bf9100148a142a25?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 04 |
 | **[Penske Motor Group](http://penskemotorgroup.com)** | **[Lexus of Stevens Creek Summer Internship](https://jobright.ai/jobs/info/683ff0c83ebb1d72b1b14c93?utm_campaign=1053&utm_source=git)** | San Jose, CA | On Site | Jun 03 |
@@ -93,13 +99,13 @@ For a complete list, click the following sortable link below:
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Entertainment Groups Seasonal Assistant](https://jobright.ai/jobs/info/683a9dc55cf7d2c1db866950?utm_campaign=1053&utm_source=git)** | Jacksonville, FL | On Site | May 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Collections Management (Curator) Intern, Fall 2025](https://jobright.ai/jobs/info/683a87493f14e718301ed368?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | May 30 |
 | **[R&CPMK](https://www.rcpmk.com)** | **[Trainee, Digital Entertainment and Gaming](https://jobright.ai/jobs/info/683a6b008f1dc4958bd0bfc3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | May 30 |
-| **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[Up To Date Intern, KCUR - Internship Program, 84314](https://jobright.ai/jobs/info/683a4f10018e850cfc42a89e?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 30 |
+| **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[News Intern, KCUR - Internship Program, 72564](https://jobright.ai/jobs/info/683a4f10018e850cfc42a88d?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 30 |
+| ↳ | **[Up To Date Intern, KCUR - Internship Program, 84314](https://jobright.ai/jobs/info/683a4f10018e850cfc42a89e?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 30 |
 | ↳ | **[KCUR Studios Intern - Summer Internship Program, 72562](https://jobright.ai/jobs/info/683a4f10018e850cfc42a882?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 30 |
-| ↳ | **[News Intern, KCUR - Internship Program, 72564](https://jobright.ai/jobs/info/683a4f10018e850cfc42a88d?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 30 |
 | **[R&CPMK](https://www.rcpmk.com)** | **[Trainee, Digital Entertainment and Gaming](https://jobright.ai/jobs/info/683a174493f88b606b5016ea?utm_campaign=1053&utm_source=git)** | Century City, California, United States | On Site | May 30 |
 | **[University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[Assistant Technical Director - Krannert Center for the Performing Arts](https://jobright.ai/jobs/info/6839f6b8321ef8d44ce92346?utm_campaign=1053&utm_source=git)** | Urbana, IL | On Site | May 30 |
-| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Video Production & ThunderVision](https://jobright.ai/jobs/info/6839e76b268fd00a12345516?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
-| ↳ | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6839e76b268fd00a1234551f?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6839e76b268fd00a1234551f?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
+| ↳ | **[Intern, Video Production & ThunderVision](https://jobright.ai/jobs/info/6839e76b268fd00a12345516?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | May 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | May 30 |
 | **[Oncology Nursing Society](https://www.ons.org/)** | **[Connie Henke Yarbro Oncology Nursing History Center Intern](https://jobright.ai/jobs/info/683ae5281481525ad4473f8b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 30 |
@@ -114,5 +120,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[News Intern](https://jobright.ai/jobs/info/6800b7ae5bff52f714691749?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | May 29 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Archive Intern](https://jobright.ai/jobs/info/682949ec537cc4bc5d1ae97c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | May 29 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Books Program Intern](https://jobright.ai/jobs/info/67fff0eb44edfa68713109f8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | May 29 |
-| **[Trintech](https://www.trintech.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/681a42f014e486256c3358a6?utm_campaign=1053&utm_source=git)** | DFW Metroplex | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
