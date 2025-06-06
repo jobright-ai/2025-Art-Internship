@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Austin Community College](http://austincc.edu)** | **[Intern, Instructional Media Production (Hourly)](https://jobright.ai/jobs/info/6842425d4a3bbb813047143f?utm_campaign=1053&utm_source=git)** | Kyle, TX | On Site | Jun 05 |
+| **[BJU Press](https://www.bjupress.com/page/Home)** | **[Editorial Intern (Fall Semester 2025)](https://jobright.ai/jobs/info/68423105f21a7b1d97f963e9?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Jun 05 |
+| **[Straight Shot Post](http://www.straightshotpost.com)** | **[Producing Internship](https://jobright.ai/jobs/info/68425d6564744a734c1d35d2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 05 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern, Instructional Media Production (Hourly)](https://jobright.ai/jobs/info/68421d63ea5e5f6013eb1455?utm_campaign=1053&utm_source=git)** | Hays Campus | On Site | Jun 05 |
 | **[Time Out Group plc](http://www.timeout.com)** | **[Time Out New York – Editoral Internship](https://jobright.ai/jobs/info/6841d9026addf7cbc5516fa3?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jun 05 |
 | ↳ | **[Time Out New York – Summer Internship](https://jobright.ai/jobs/info/6841eb6a0493c240250fa8a8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 05 |
@@ -73,11 +76,11 @@ For a complete list, click the following sortable link below:
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6840e2c36cf487fc61a1f93a?utm_campaign=1053&utm_source=git)** | Chicago, IL | Remote | Jun 04 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[ISlide Fall 2025 Internships](https://jobright.ai/jobs/info/6840d3e4afe20e899a582729?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jun 04 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Research Resources - Archives Internship](https://jobright.ai/jobs/info/6840eca5821f651a15422c9f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
-| ↳ | **[[Fall 2025] Digital Content Internship](https://jobright.ai/jobs/info/6840eca5821f651a15422cad?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6840bddd3b434eb82f74c2d5?utm_campaign=1053&utm_source=git)** | Chicago (Green St), IL | On Site | Jun 04 |
 | **[Post University](http://www.post.edu/)** | **[Studio Art Assistant](https://jobright.ai/jobs/info/6840a55d76145f29765bee8f?utm_campaign=1053&utm_source=git)** | Waterbury, CT | On Site | Jun 04 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[ISlide Fall 2025 Internships](https://jobright.ai/jobs/info/6840a06da90c37324214f03a?utm_campaign=1053&utm_source=git)** | Hyde Park, MA | On Site | Jun 04 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Curatorial - Prewar Art Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f67?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
+| ↳ | **[[Fall 2025] Digital Content Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f64?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | ↳ | **[[Fall 2025] Research Resources - Archives Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f6a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67ab00235d34f12463b0055d?utm_campaign=1053&utm_source=git)** | Charleston, SC | On Site | Jun 04 |
 | ↳ | **[Summer News Production Intern](https://jobright.ai/jobs/info/67e70f4b76cead6be74bfbdb?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jun 04 |
@@ -113,14 +116,13 @@ For a complete list, click the following sortable link below:
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Entertainment Groups Seasonal Assistant](https://jobright.ai/jobs/info/683a9dc55cf7d2c1db866950?utm_campaign=1053&utm_source=git)** | Jacksonville, FL | On Site | May 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Collections Management (Curator) Intern, Fall 2025](https://jobright.ai/jobs/info/683a87493f14e718301ed368?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | May 30 |
 | **[R&CPMK](https://www.rcpmk.com)** | **[Trainee, Digital Entertainment and Gaming](https://jobright.ai/jobs/info/683a6b008f1dc4958bd0bfc3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | May 30 |
-| **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[Up To Date Intern, KCUR - Internship Program, 84314](https://jobright.ai/jobs/info/683a4f10018e850cfc42a89e?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 30 |
+| **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[KCUR Studios Intern - Summer Internship Program, 72562](https://jobright.ai/jobs/info/683a4f10018e850cfc42a882?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 30 |
 | ↳ | **[News Intern, KCUR - Internship Program, 72564](https://jobright.ai/jobs/info/683a4f10018e850cfc42a88d?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 30 |
-| ↳ | **[KCUR Studios Intern - Summer Internship Program, 72562](https://jobright.ai/jobs/info/683a4f10018e850cfc42a882?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 30 |
+| ↳ | **[Up To Date Intern, KCUR - Internship Program, 84314](https://jobright.ai/jobs/info/683a4f10018e850cfc42a89e?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | May 30 |
 | **[R&CPMK](https://www.rcpmk.com)** | **[Trainee, Digital Entertainment and Gaming](https://jobright.ai/jobs/info/683a174493f88b606b5016ea?utm_campaign=1053&utm_source=git)** | Century City, California, United States | On Site | May 30 |
 | **[University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[Assistant Technical Director - Krannert Center for the Performing Arts](https://jobright.ai/jobs/info/6839f6b8321ef8d44ce92346?utm_campaign=1053&utm_source=git)** | Urbana, IL | On Site | May 30 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/6839e76b268fd00a1234551f?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
 | ↳ | **[Intern, Video Production & ThunderVision](https://jobright.ai/jobs/info/6839e76b268fd00a12345516?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | May 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | May 30 |
-| **[Oncology Nursing Society](https://www.ons.org/)** | **[Connie Henke Yarbro Oncology Nursing History Center Intern](https://jobright.ai/jobs/info/683ae5281481525ad4473f8b?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | May 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
