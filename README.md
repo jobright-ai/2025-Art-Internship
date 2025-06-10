@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WSFL-TV](https://www.wsfltv.com)** | **[Intern, Inside South Florida, WSFL](https://jobright.ai/jobs/info/684796a4bdfa7e461906e62e?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jun 09 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/684796a4bdfa7e461906e811?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 09 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6847860593c22192fb631c3d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 09 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WIBW](https://jobright.ai/jobs/info/684775a6940985bf6e739212?utm_campaign=1053&utm_source=git)** | Topeka, KS | On Site | Jun 09 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern, Inside South Florida, WSFL](https://jobright.ai/jobs/info/6847632436418adea6955ef8?utm_campaign=1053&utm_source=git)** | Miami, FL - WSFL | On Site | Jun 09 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern - For the Strength of Youth Writer/Editor](https://jobright.ai/jobs/info/68473c2b38f28f5b481b78a1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 09 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/68473c2b38f28f5b481b78e4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 09 |
+| ↳ | **[Full Time Paid Intern - For the Strength of Youth Writer/Editor](https://jobright.ai/jobs/info/68473c2b38f28f5b481b78a1?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 09 |
 | ↳ | **[Full Time Paid Intern – Liahona Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/68473c2b38f28f5b481b7845?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 09 |
-| ↳ | **[Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/68473c2b38f28f5b481b78e4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/6847361f79d64e83c0ac5e62?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Jun 09 |
 | ↳ | **[Commercial Production Internship](https://jobright.ai/jobs/info/684734b03b4bb73bd22c078c?utm_campaign=1053&utm_source=git)** | OH, Dayton | On Site | Jun 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern - The Friend Digital Messaging (Church Magazines)](https://jobright.ai/jobs/info/68472d664a105957395d6afc?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 09 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[FOX Sports](http://foxsports.com)** | **[Fall 2025 FOX Internship Program - Sports Production, New York](https://jobright.ai/jobs/info/682ad2a2f6953592b0a9b124?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 09 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2025 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/682ad2a2f6953592b0a9b13f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 09 |
 | **[FOX Weather](https://foxweather.com)** | **[Fall 2025 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/682ad2a2f6953592b0a9b167?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 09 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Summer 2025](https://jobright.ai/jobs/info/67b68a5218c4a1d83611f276?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 08 |
 | **[Ohio University](https://www.ohio.edu)** | **[Ohio Chillicothe - Student Multimedia Production Assistant](https://jobright.ai/jobs/info/684555d63aa5e08ce9a39bd5?utm_campaign=1053&utm_source=git)** | Athens, OH | On Site | Jun 08 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/675878545d1b2e080979053a?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Jun 07 |
 | **[Housecall Pro](http://www.housecallpro.com)** | **[Intern, Content Creation](https://jobright.ai/jobs/info/680bd0bf4fb4ef2a199045ae?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 07 |
@@ -90,10 +92,10 @@ For a complete list, click the following sortable link below:
 | **[Montage International](https://www.montageinternational.com)** | **[Rooms Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d60?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Jun 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/683d3d4a813731a7dfd64d60?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jun 06 |
 | ↳ | **[Intern - News](https://jobright.ai/jobs/info/67ebffef9c8529b6e11541ba?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jun 06 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Culinary, Food & Beverage (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d0fed?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
-| ↳ | **[Internship – Editorial Writing, Discover Universal Blog (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d106d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Discover Universal Video Content Strategy (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d0fe1?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
+| ↳ | **[Internship – Culinary, Food & Beverage (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d0fed?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
 | ↳ | **[Internship – Culinary, Bakery & Pastry (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d107b?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
-| ↳ | **[Internship – Discover Universal Video Content Strategy (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d0fe1?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
+| ↳ | **[Internship – Editorial Writing, Discover Universal Blog (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d106d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6842903c3bad3e85088d1204?utm_campaign=1053&utm_source=git)** | Brea, CA | On Site | Jun 05 |
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6842903c3bad3e85088d11d8?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | Jun 05 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Discover Universal Podcast Content Strategy (Spring 2026)](https://jobright.ai/jobs/info/6842ae93c96c441a3bf78fa5?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
@@ -122,10 +124,10 @@ For a complete list, click the following sortable link below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Curatorial - Prewar Art Internship](https://jobright.ai/jobs/info/6840e4600ae2704e22dea8bd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[ISlide Fall 2025 Internships](https://jobright.ai/jobs/info/6840d3e4afe20e899a582729?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jun 04 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Research Resources - Archives Internship](https://jobright.ai/jobs/info/6840eca5821f651a15422c9f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
-| ↳ | **[[Fall 2025] Digital Content Internship](https://jobright.ai/jobs/info/6840eca5821f651a15422cad?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Post University](http://www.post.edu/)** | **[Studio Art Assistant](https://jobright.ai/jobs/info/6840a55d76145f29765bee8f?utm_campaign=1053&utm_source=git)** | Waterbury, CT | On Site | Jun 04 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[ISlide Fall 2025 Internships](https://jobright.ai/jobs/info/6840a06da90c37324214f03a?utm_campaign=1053&utm_source=git)** | Hyde Park, MA | On Site | Jun 04 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Research Resources - Archives Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f6a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
+| ↳ | **[[Fall 2025] Digital Content Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f64?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | ↳ | **[[Fall 2025] Curatorial - Prewar Art Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f67?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67ab00235d34f12463b0055d?utm_campaign=1053&utm_source=git)** | Charleston, SC | On Site | Jun 04 |
 | ↳ | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/6787bd52bfcaad578c0a284c?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Jun 04 |
