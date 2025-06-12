@@ -57,32 +57,34 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Costa Mesa](https://www.costamesaca.gov/)** | **[Intern](https://jobright.ai/jobs/info/6849f1fd16556683a2978179?utm_campaign=1053&utm_source=git)** | Costa Mesa, CA | On Site | Jun 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern, News](https://jobright.ai/jobs/info/6849dbd0247d5275c232efdb?utm_campaign=1053&utm_source=git)** | OH, Dayton | On Site | Jun 11 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Intern, Assistant Video Editor](https://jobright.ai/jobs/info/6849d96ebcd35706ca64b2b2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern, News](https://jobright.ai/jobs/info/6849d96ebcd35706ca64b29b?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Jun 11 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Intern- Fall 2025](https://jobright.ai/jobs/info/6849d50748e2a6bf9ed78216?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jun 11 |
+| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/6849f1fd16556683a29780cb?utm_campaign=1053&utm_source=git)** | Portland, ME | On Site | Jun 11 |
 | **[NPR](http://www.npr.org)** | **[Planet Money & Indicator Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68499104f920ac7bef10444a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 11 |
 | ↳ | **[Science Desk & Short Wave Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68499104f920ac7bef104421?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | Hybrid | Jun 11 |
 | **[The Transmitter](https://spectrumnews.org/)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/682d65809f0a459da626735c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 11 |
 | **[Prime Capital Financial](https://pciawealth.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68491001b4f292dbfce4840a?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Jun 10 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/6848d90f6a6fdb0f9e5a7d5b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jun 10 |
+| **[Fox Entertainment](http://www.fox.com/)** | **[Fall 2025 FOX Entertainment Internship Program - Los Angeles](https://jobright.ai/jobs/info/682b815aa73e9ca2b385f7c7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 10 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/6848bb7951a3e48d88799fbd?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jun 10 |
 | **[NPR](http://www.npr.org)** | **[Science Desk & Short Wave Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/6848b667b376cb5c7e9e1ae6?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Jun 10 |
-| ↳ | **[Washington Desk & National Desk Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68489a2812afe2185e644a6d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
 | ↳ | **[It’s Been a Minute & Life Kit Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68489a2812afe2185e644a5d?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jun 10 |
-| **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/68489a0f20a4fc64765083b9?utm_campaign=1053&utm_source=git)** | San Diego, California | On Site | Jun 10 |
-| **[NPR](http://www.npr.org)** | **[Podcast Engagement & Digital Platforms and Curation Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/684892b64383b04aa192c92d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
-| ↳ | **[Morning Edition & Weekend Edition Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/684892b64383b04aa192c92c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
+| ↳ | **[Washington Desk & National Desk Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68489a2812afe2185e644a6d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
 | ↳ | **[All Things Considered & General Assignment Desk Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/684892b64383b04aa192c920?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
+| ↳ | **[Podcast Engagement & Digital Platforms and Curation Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/684892b64383b04aa192c92d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
+| ↳ | **[Morning Edition & Weekend Edition Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/684892b64383b04aa192c92c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
 | ↳ | **[NPR Music & Culture Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/684888437fcfd40c9cbcffed?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Hotel Culinary Internship](https://jobright.ai/jobs/info/6848837829262efa8e1281cd?utm_campaign=1053&utm_source=git)** | Orange County, CA | On Site | Jun 10 |
-| **[NPR](http://www.npr.org)** | **[NPR Music & Culture Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68485bc2d11080ce51217ed5?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 10 |
+| **[NPR](http://www.npr.org)** | **[Planet Money & Indicator Internship - Fall/Winter 2025 ](https://jobright.ai/jobs/info/68485bc2d11080ce51217ee7?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Jun 10 |
 | ↳ | **[Morning Edition & Weekend Edition Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/68485bc2d11080ce51217e8a?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 10 |
-| ↳ | **[It’s Been a Minute & Life Kit Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68485bc2d11080ce51217edf?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Jun 10 |
-| ↳ | **[Planet Money & Indicator Internship - Fall/Winter 2025 ](https://jobright.ai/jobs/info/68485bc2d11080ce51217ee7?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Jun 10 |
 | ↳ | **[Podcast Engagement & Digital Platforms and Curation Internship  - Fall/Winter 2025](https://jobright.ai/jobs/info/68485bc2d11080ce51217eef?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Jun 10 |
 | ↳ | **[All Things Considered & General Assignment Desk Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68485bc2d11080ce51217ea3?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 10 |
+| ↳ | **[It’s Been a Minute & Life Kit Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68485bc2d11080ce51217edf?utm_campaign=1053&utm_source=git)** | New York, New York, United States | Hybrid | Jun 10 |
 | ↳ | **[Washington Desk & National Desk Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68485bc2d11080ce51217ee6?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 10 |
+| ↳ | **[NPR Music & Culture Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68485bc2d11080ce51217ed5?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 10 |
 | **[Guilford County Schools](http://www.gcsnc.com)** | **[TCHR-DRAMA/THEATRE ARTS](https://jobright.ai/jobs/info/6849a150d11738177018f238?utm_campaign=1053&utm_source=git)** | High Point, NC | On Site | Jun 10 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Temporary World Music Archives Intern](https://jobright.ai/jobs/info/684844e066c4dd2ca77a7f52?utm_campaign=1053&utm_source=git)** | Middletown, CT (Main Campus) | Hybrid | Jun 10 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - The Friend Digital Messaging (Church Magazines)](https://jobright.ai/jobs/info/68472d664a105957395d6afc?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jun 10 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/683d3d4a813731a7dfd64d60?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jun 06 |
 | ↳ | **[Intern - News](https://jobright.ai/jobs/info/67ebffef9c8529b6e11541ba?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jun 06 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Culinary, Food & Beverage (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d0fed?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
-| ↳ | **[Internship – Culinary, Bakery & Pastry (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d107b?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
 | ↳ | **[Internship – Discover Universal Video Content Strategy (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d0fe1?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
+| ↳ | **[Internship – Culinary, Bakery & Pastry (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d107b?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
 | ↳ | **[Internship – Editorial Writing, Discover Universal Blog (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d106d?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6842903c3bad3e85088d11d8?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | Jun 05 |
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6842903c3bad3e85088d1204?utm_campaign=1053&utm_source=git)** | Brea, CA | On Site | Jun 05 |
@@ -144,12 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Montage International](https://www.montageinternational.com)** | **[Culinary Internship - Montage Healdsburg](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d6c?utm_campaign=1053&utm_source=git)** | Healdsburg, CA | On Site | Jun 05 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[ARC News Intern (KATV) - Summer 2025](https://jobright.ai/jobs/info/67ecfb47d0217b93a04da572?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jun 05 |
 | ↳ | **[Summer News Intern](https://jobright.ai/jobs/info/67cfe9aa1edb1d27450fea3d?utm_campaign=1053&utm_source=git)** | New Bern, NC | On Site | Jun 05 |
-| **[Northside Hospital](http://www.northside.com)** | **[Deparment Intern](https://jobright.ai/jobs/info/6841858f7218cba3233d88a9?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Jun 05 |
 | **[The Kraft Group & Affiliates](http://www.thekraftgroup.com)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/6824ef447578de962640a326?utm_campaign=1053&utm_source=git)** | Foxborough (Foxboro), MA | On Site | Jun 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern I, News](https://jobright.ai/jobs/info/6672e80cd742a3597e9aba0f?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Jun 05 |
-| **[Archdiocese of Milwaukee](https://www.archmil.org/archdiocese-milwaukee/home.htm)** | **[Archives Intern](https://jobright.ai/jobs/info/6842977129732509155bedda?utm_campaign=1053&utm_source=git)** | St Francis, WI | On Site | Jun 04 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[2025 Summer News Internship](https://jobright.ai/jobs/info/680359a9b0f813893559f241?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Jun 04 |
-| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Culinary Intern - Spring 2026](https://jobright.ai/jobs/info/6841204bf9b8a756dfd616bf?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jun 04 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/683d27a9e3502e937bcb1103?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Jun 04 |
-| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Culinary Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/684112f779179c5555f0ae4b?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
