@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[South Carolina Department of Employment and Workforce](http://dew.sc.gov)** | **[Production Intern- Columbia](https://jobright.ai/jobs/info/685217bcb31e6462f7c86386?utm_campaign=1053&utm_source=git)** | Richland County, SC | On Site | Jun 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, Harlingen, TX](https://jobright.ai/jobs/info/685213ffb601b8126382fd18?utm_campaign=1053&utm_source=git)** | Harlingen, TX | On Site | Jun 17 |
+| **[Calvary Chapel Fort Lauderdale](https://calvaryftl.org)** | **[Calvary Kids Creative Intern](https://jobright.ai/jobs/info/685268c0251c2028caf0696e?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 17 |
+| ↳ | **[Calvary Kids Worship Internship](https://jobright.ai/jobs/info/685268c0251c2028caf0696b?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 17 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Animation Production Intern, DreamWorks, Fall 2025](https://jobright.ai/jobs/info/6852080396a63c79dcded432?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Jun 17 |
 | ↳ | **[TV Development & Current Series Intern, DreamWorks, Fall 2025](https://jobright.ai/jobs/info/6852080396a63c79dcded46d?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Jun 17 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Current Programming Intern, Game Show Network, SPT – Summer 2025](https://jobright.ai/jobs/info/685200879d228cceca15fd79?utm_campaign=1053&utm_source=git)** | Remote, USA | Remote | Jun 17 |
@@ -86,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Big Bend Community College](http://www.bigbend.edu/)** | **[Internships WY Arts Council 2025-00471](https://jobright.ai/jobs/info/6850db2bdfc8581f2d6c1d10?utm_campaign=1053&utm_source=git)** | Fremont County, WY | On Site | Jun 16 |
 | **[Penn State University](http://psu.edu)** | **[Intern- Videographer/Editor](https://jobright.ai/jobs/info/68508470eb0367e9e3719e34?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Jun 16 |
 | **[Palm Beach State College](http://www.palmbeachstate.edu/)** | **[Intern, Theatre Production](https://jobright.ai/jobs/info/6850744c5a40e8d1dc47951d?utm_campaign=1053&utm_source=git)** | Lake Worth Campus | On Site | Jun 16 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[KCSO News Intern - Summer 2025](https://jobright.ai/jobs/info/6850744c5a40e8d1dc479551?utm_campaign=1053&utm_source=git)** | 500 Media PL, Sacramento, CALIFORNIA | On Site | Jun 16 |
-| ↳ | **[KBLR News Intern - Summer 2025](https://jobright.ai/jobs/info/6850744c5a40e8d1dc4795d8?utm_campaign=1053&utm_source=git)** | 6380 Polaris Ave, Las Vegas, Nevada | On Site | Jun 16 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[KBLR News Intern - Summer 2025](https://jobright.ai/jobs/info/6850744c5a40e8d1dc4795d8?utm_campaign=1053&utm_source=git)** | 6380 Polaris Ave, Las Vegas, Nevada | On Site | Jun 16 |
+| ↳ | **[KCSO News Intern - Summer 2025](https://jobright.ai/jobs/info/6850744c5a40e8d1dc479551?utm_campaign=1053&utm_source=git)** | 500 Media PL, Sacramento, CALIFORNIA | On Site | Jun 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/68507426f720d669ee068f47?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | Jun 16 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KBLR News Intern - Summer 2025](https://jobright.ai/jobs/info/68506e0e2206726396237d32?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jun 16 |
 | ↳ | **[KCSO News Intern - Summer 2025](https://jobright.ai/jobs/info/68506e0e2206726396237cb7?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jun 16 |
@@ -123,7 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Mercatus Center at George Mason University](http://mercatus.org)** | **[Publications Intern](https://jobright.ai/jobs/info/68525a58958ad43329b26fe4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jun 11 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684d0a44ef735fe085bd08da?utm_campaign=1053&utm_source=git)** | Portland, ME | On Site | Jun 11 |
 | **[Friends University](http://www.friends.edu/)** | **[FY26 Graduate Assistant Sports Information Department (4240)](https://jobright.ai/jobs/info/684e3fa5412459ea49ebb410?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Jun 11 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern, News](https://jobright.ai/jobs/info/6849dbd0247d5275c232efdb?utm_campaign=1053&utm_source=git)** | OH, Dayton | On Site | Jun 11 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Intern, Assistant Video Editor](https://jobright.ai/jobs/info/6849d96ebcd35706ca64b2b2?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 11 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern, News](https://jobright.ai/jobs/info/6849d96ebcd35706ca64b29b?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
