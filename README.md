@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Creative Services - Videographer Co-Op](https://jobright.ai/jobs/info/6854779e0a5cef7ad97be3a6?utm_campaign=1053&utm_source=git)** | Cleveland, OH, United States | On Site | Jun 19 |
 | **[CONFLUX SYSTEMS](https://www.confluxsystems.com)** | **[Working Student](https://jobright.ai/jobs/info/68545149edfdbc4a7466cc8e?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jun 19 |
 | **[Centific](https://www.centific.com)** | **[Video Collection - Project Nighthawk](https://jobright.ai/jobs/info/685422b5b2c628d970be6d15?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jun 19 |
 | **[NPR](http://www.npr.org)** | **[Reflect America Reporting Fellow](https://jobright.ai/jobs/info/68375ef67e434f9491b8e04d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[INTERNS](https://jobright.ai/jobs/info/681bba39fe607676a8dc2324?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Remote | Jun 19 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Speaker Experience Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bf10?utm_campaign=1053&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Audubon Magazine Editorial Fellow](https://jobright.ai/jobs/info/67e1930599b0cdf1b6e1a724?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 19 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5b4?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jun 19 |
-| ↳ | **[News Production Assistant (Part-Time)](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5bb?utm_campaign=1053&utm_source=git)** | Macon, GA | On Site | Jun 19 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Production Assistant (Part-Time)](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5bb?utm_campaign=1053&utm_source=git)** | Macon, GA | On Site | Jun 19 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5b4?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jun 19 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Reporter (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/6853d96cdfedcc9328312614?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Jun 18 |
 | **[Sage](https://group.sagepub.com)** | **[Editorial Intern, US College](https://jobright.ai/jobs/info/685365622894593b762e83cc?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Jun 18 |
 | **[Design And Customize](https://www.designandcustomize.com)** | **[Labeling & Content Production Intern/Contract Role](https://jobright.ai/jobs/info/685331d5a372cfa7941ab18f?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Jun 18 |
@@ -137,6 +139,4 @@ For a complete list, click the following sortable link below:
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Summer 2025 Archives Internship](https://jobright.ai/jobs/info/682fc01f3d01055c85a970a6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern - Summer](https://jobright.ai/jobs/info/68131c92f440f24bf9efc868?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | Jun 13 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Summer Operations Internship - Culinary](https://jobright.ai/jobs/info/67f820799b2ee0576d75ab5b?utm_campaign=1053&utm_source=git)** | Monterey, CA | On Site | Jun 13 |
-| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hershey Country Club Culinary Intern - Fall 2025](https://jobright.ai/jobs/info/684baeae4fe1cd0f27e1ad8b?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jun 12 |
-| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684cfcf57627b60de9924cdf?utm_campaign=1053&utm_source=git)** | South Burlington, VT | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
