@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Culinary, Food & Beverage (Spring 2026)](https://jobright.ai/jobs/info/6856a46dae0608f715a8a448?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 21 |
 | **[Penn State University](http://psu.edu)** | **[Professional Headshot Intern](https://jobright.ai/jobs/info/68561f2ddb9b2a749af54265?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Jun 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/681d04d97a08adf0143c746a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jun 20 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/68395c56ed9877426dd7b3b7?utm_campaign=1053&utm_source=git)** | Farmersburg, IN | On Site | Jun 20 |
