@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/6858c17cb0556ba5f8d32f9e?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Jun 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e999e6db7f8d0179242dd?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Jun 21 |
 | **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[KCUR Studios Intern - Internship Program, 72562](https://jobright.ai/jobs/info/683a4f10018e850cfc42a882?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Jun 21 |
 | **[Penn State University](http://psu.edu)** | **[Professional Headshot Intern](https://jobright.ai/jobs/info/68561f2ddb9b2a749af54265?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Jun 20 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68395c16abd2048042a34200?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Jun 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/681d04d97a08adf0143c746a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jun 20 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/68395c56ed9877426dd7b3b7?utm_campaign=1053&utm_source=git)** | Farmersburg, IN | On Site | Jun 20 |
 | **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Gen Z Fashion Board Internship Opportunity](https://jobright.ai/jobs/info/68557c03896a799dd59561ac?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Jun 20 |
@@ -90,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[University of Northern Iowa](http://www.uni.edu/)** | **[Temporary - Stagehand/Technical Stagecraft Intern, Gallagher Bluedorn Performing Arts Center](https://jobright.ai/jobs/info/68534b455c0dc4a3719f8e30?utm_campaign=1053&utm_source=git)** | Cedar Falls, IA | On Site | Jun 18 |
 | **[Shorter University](https://www.shorter.edu)** | **[Graduate Assistant - Sports Information](https://jobright.ai/jobs/info/6853053b586d1b8ea70243f7?utm_campaign=1053&utm_source=git)** | Rome, GA | On Site | Jun 18 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[2025-26 Academic Year Intern - Telemundo Colorado](https://jobright.ai/jobs/info/6852fddb8afd7f3b98422499?utm_campaign=1053&utm_source=git)** | Centennial, CO | On Site | Jun 18 |
-| **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Fall](https://jobright.ai/jobs/info/6852961a97272d20c07f3abf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 18 |
-| ↳ | **[Fashion Intern - Fall](https://jobright.ai/jobs/info/6852961a97272d20c07f3af8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
+| **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Fall](https://jobright.ai/jobs/info/6852961a97272d20c07f3af8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
+| ↳ | **[Fashion Intern - Fall](https://jobright.ai/jobs/info/6852961a97272d20c07f3abf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 18 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac4?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jun 18 |
 | ↳ | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac5?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jun 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Summer News Intern](https://jobright.ai/jobs/info/67fece4aa8c01cf1c0c6d50b?utm_campaign=1053&utm_source=git)** | Bristol, TN | On Site | Jun 18 |
@@ -131,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KCSO News Intern - Summer 2025](https://jobright.ai/jobs/info/68506e0e2206726396237cb7?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jun 16 |
 | ↳ | **[KBLR News Intern - Summer 2025](https://jobright.ai/jobs/info/68506e0e2206726396237d32?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jun 16 |
 | **[Flik Hospitality Group ](https://www.flik-usa.com/)** | **[Culinary Intern, FLIK / Baltimore Ravens / Owings Mills, MD](https://jobright.ai/jobs/info/685058852f6c5f878a4ea4ae?utm_campaign=1053&utm_source=git)** | Owings Mills, MD | On Site | Jun 16 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67f965625c2cf2888f6ee1b7?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
