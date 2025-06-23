@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e999e6db7f8d0179242dd?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Jun 21 |
 | **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[KCUR Studios Intern - Internship Program, 72562](https://jobright.ai/jobs/info/683a4f10018e850cfc42a882?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Jun 21 |
 | **[Penn State University](http://psu.edu)** | **[Professional Headshot Intern](https://jobright.ai/jobs/info/68561f2ddb9b2a749af54265?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Jun 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/681d04d97a08adf0143c746a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jun 20 |
@@ -71,10 +72,12 @@ For a complete list, click the following sortable link below:
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[INTERNS](https://jobright.ai/jobs/info/681bba39fe607676a8dc2324?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Remote | Jun 19 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Speaker Experience Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bf10?utm_campaign=1053&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Audubon Magazine Editorial Fellow](https://jobright.ai/jobs/info/67e1930599b0cdf1b6e1a724?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 19 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Production Assistant (Part-Time)](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5bb?utm_campaign=1053&utm_source=git)** | Macon, GA | On Site | Jun 19 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5b4?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jun 19 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5b4?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jun 19 |
+| ↳ | **[News Production Assistant (Part-Time)](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5bb?utm_campaign=1053&utm_source=git)** | Macon, GA | On Site | Jun 19 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Reporter (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/6853d96cdfedcc9328312614?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Jun 18 |
 | **[Sage](https://group.sagepub.com)** | **[Editorial Intern, US College](https://jobright.ai/jobs/info/685365622894593b762e83cc?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Jun 18 |
+| **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/67c2511f8843b056d4f5917b?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jun 18 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/681ab43d2cfcf461826a4a7d?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Jun 18 |
 | **[Design And Customize](https://www.designandcustomize.com)** | **[Labeling & Content Production Intern/Contract Role](https://jobright.ai/jobs/info/685331d5a372cfa7941ab18f?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Jun 18 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Publishing A&R Intern](https://jobright.ai/jobs/info/685331d5a372cfa7941ab27d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
 | **[Bowling Green State University](http://www.bgsu.edu/)** | **[Life Drawing Model - Nude](https://jobright.ai/jobs/info/685331d5a372cfa7941ab3e1?utm_campaign=1053&utm_source=git)** | Bowling Green, OH | On Site | Jun 18 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[South Carolina Department of Employment and Workforce](http://dew.sc.gov)** | **[Production Intern- Columbia](https://jobright.ai/jobs/info/685217bcb31e6462f7c86386?utm_campaign=1053&utm_source=git)** | Richland County, SC | On Site | Jun 17 |
 | **[Calvary Chapel Fort Lauderdale](https://calvaryftl.org)** | **[Calvary Kids Creative Intern](https://jobright.ai/jobs/info/685268c0251c2028caf0696e?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 17 |
 | ↳ | **[Calvary Kids Worship Internship](https://jobright.ai/jobs/info/685268c0251c2028caf0696b?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 17 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[TV Development & Current Series Intern, DreamWorks, Fall 2025](https://jobright.ai/jobs/info/6852080396a63c79dcded46d?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Jun 17 |
-| ↳ | **[Animation Production Intern, DreamWorks, Fall 2025](https://jobright.ai/jobs/info/6852080396a63c79dcded432?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Jun 17 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Animation Production Intern, DreamWorks, Fall 2025](https://jobright.ai/jobs/info/6852080396a63c79dcded432?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Jun 17 |
+| ↳ | **[TV Development & Current Series Intern, DreamWorks, Fall 2025](https://jobright.ai/jobs/info/6852080396a63c79dcded46d?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Jun 17 |
 | **[Calvary Chapel Fort Lauderdale](https://calvaryftl.org)** | **[Worship Internship](https://jobright.ai/jobs/info/6852716243cace422c5c9132?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 17 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Custom Animation Intern, DreamWorks, Fall 2025](https://jobright.ai/jobs/info/6851fb95ca7b0c1d88033fa7?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Jun 17 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[Sports Intern - The State](https://jobright.ai/jobs/info/6851f74e4ec886bae2403870?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 17 |
