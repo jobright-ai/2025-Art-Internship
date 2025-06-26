@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[M&E Intern](https://jobright.ai/jobs/info/685cf615c82e147d26dfa0a8?utm_campaign=1053&utm_source=git)** | United States | Remote | Jun 26 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern - Fall Semester](https://jobright.ai/jobs/info/685d696d177baca7d145d855?utm_campaign=1053&utm_source=git)** | LA, Baton Rouge | On Site | Jun 26 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Culinary Intern - Spring 2026](https://jobright.ai/jobs/info/685cca7a85b8bb36976bc475?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jun 25 |
 | **[Terex Corporation](http://www.terex.com)** | **[Videographer Intern, Part time](https://jobright.ai/jobs/info/685cba078aaf2289400b3375?utm_campaign=1053&utm_source=git)** | Fort Payne, AL | On Site | Jun 25 |
 | **[PENNYMAC](https://www.pennymac.com)** | **[Intern](https://jobright.ai/jobs/info/685cb63f854b270ab6b68a15?utm_campaign=1053&utm_source=git)** | Westlake Village, CA | On Site | Jun 25 |
@@ -94,16 +94,16 @@ For a complete list, click the following sortable link below:
 | **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Intern-The Olde Course/Cattail Creek-Seasonal](https://jobright.ai/jobs/info/685a4b15a0b2587615a90cef?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Jun 23 |
 | **[NEON](https://neonrated.com)** | **[NEON Theatrical Distribution Intern, Fall 2025](https://jobright.ai/jobs/info/685a16f526818caaa6a10aa0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 23 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Technical News Internship](https://jobright.ai/jobs/info/6859c641f9454895c408b6b5?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Jun 23 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed8?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
 | ↳ | **[WAVY Unpaid Digital Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755cde?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
 | ↳ | **[WAVY Unpaid Sports Intern, Fall Semester 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755cf1?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
-| ↳ | **[WAVY Unpaid Production Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908035?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
 | ↳ | **[WAVY Unpaid Newsroom Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908051?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Fall Semester 2025](https://jobright.ai/jobs/info/6859a81a4241677d91526671?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
-| ↳ | **[WAVY Unpaid Digital Intern, Fall 2025](https://jobright.ai/jobs/info/6859a81a4241677d91526688?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
-| ↳ | **[WAVY Unpaid Production Intern, Fall 2025](https://jobright.ai/jobs/info/6859a81a4241677d91526674?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859a81a4241677d9152666f?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
+| ↳ | **[WAVY Unpaid Production Intern, Fall 2025](https://jobright.ai/jobs/info/6859a81a4241677d915266bc?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859a81a4241677d91526695?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
 | ↳ | **[WAVY Unpaid Newsroom Intern, Fall 2025](https://jobright.ai/jobs/info/6859a81a4241677d91526675?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
+| ↳ | **[WAVY Unpaid Digital Intern, Fall 2025](https://jobright.ai/jobs/info/6859a81a4241677d91526688?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2025 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/68599ff61e0ccd0524a78a49?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 23 |
 | **[American Planning Association](https://www.planning.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/6859885ee0575773d35ecd0f?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jun 23 |
 | **[NEON](https://neonrated.com)** | **[NEON General Internship, Fall 2025](https://jobright.ai/jobs/info/685985c057f3babc49d0170e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 23 |
@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/681d04d97a08adf0143c746a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jun 20 |
 | **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Gen Z Fashion Board Internship Opportunity](https://jobright.ai/jobs/info/68557c03896a799dd59561ac?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Jun 20 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68395c16abd2048042a34218?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jun 20 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Creative Services - Videographer Co-Op](https://jobright.ai/jobs/info/6854cbf923f3099b24150724?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jun 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
