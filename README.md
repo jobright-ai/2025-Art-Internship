@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Pastry Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/686126dff811369e78f9e2cc?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jun 28 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Events Internship – Fall 2025](https://jobright.ai/jobs/info/68609c1fb31dbf1fd70ae9a9?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Jun 28 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Pastry Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/686007b5ab108723b16b1d55?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jun 28 |
-| **[University of Central Oklahoma](http://www.uco.edu/)** | **[Student Rehearsal Facilitator (Technical) - Dept. of Dance](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5e3?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Student Technical - Athletics, Football](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a1a1?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[Student Accompanist - Dance](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a1ac?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
-| ↳ | **[FWSP Student Technical - Athletics, Football](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a1a1?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| ↳ | **[Student Rehearsal Facilitator (Technical) - Dept. of Dance](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5e3?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[Multimedia Journalist (Clerical) - UCentral](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f2aa?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
-| ↳ | **[FWSP Melton Gallery Assistant (Technical) - CFAD](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f2c7?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[Student Accompanist (Technical) - Dance](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f4d3?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| ↳ | **[FWSP Melton Gallery Assistant (Technical) - CFAD](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f2c7?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[ARC News Intern (KSNV) - Summer 2025](https://jobright.ai/jobs/info/67ecfb47d0217b93a04da585?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jun 28 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Collection & Archivist Intern (Student Intern Level II), Quality & Safety *Grant Funded*](https://jobright.ai/jobs/info/685f91a2d55a995b8e5e073f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 27 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Culinary Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/685f6ca6b93da6f915f3ac32?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jun 27 |
@@ -104,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[Sports Intern - The State](https://jobright.ai/jobs/info/685be81af4fae62770a32326?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Jun 25 |
 | **[Legends](http://legends.net)** | **[Culinary Intern - Huntington Bank Pavilion at Northerly Island](https://jobright.ai/jobs/info/67c42a01b9609906b74017fa?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jun 25 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[2025 Summer News Internship](https://jobright.ai/jobs/info/680359a9b0f813893559f241?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Jun 25 |
+| **[RoboForce](https://www.roboforce.ai)** | **[Video Producer (Freelancer / Intern) - AI Robot](https://jobright.ai/jobs/info/685a62b9efd4a78f569320a8?utm_campaign=1053&utm_source=git)** | Milpitas, CA | On Site | Jun 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern Unpaid -News](https://jobright.ai/jobs/info/685b5da317aaa2444406949c?utm_campaign=1053&utm_source=git)** | Waco, TX | On Site | Jun 24 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '25 - KTUU](https://jobright.ai/jobs/info/685b47e64f1c05373e228864?utm_campaign=1053&utm_source=git)** | Anchorage, AK | On Site | Jun 24 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/685b43debc23eac2e2129e3d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jun 24 |
@@ -121,16 +123,16 @@ For a complete list, click the following sortable link below:
 | **[City of Loveland](https://www.lovgov.org)** | **[Golf Pro Shop Intern-The Olde Course/Cattail Creek-Seasonal](https://jobright.ai/jobs/info/685a4b15a0b2587615a90cef?utm_campaign=1053&utm_source=git)** | Loveland, CO | On Site | Jun 23 |
 | **[NEON](https://neonrated.com)** | **[NEON Theatrical Distribution Intern, Fall 2025](https://jobright.ai/jobs/info/685a16f526818caaa6a10aa0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 23 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Technical News Internship](https://jobright.ai/jobs/info/6859c641f9454895c408b6b5?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Jun 23 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
-| ↳ | **[WAVY Unpaid Production Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed8?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Fall Semester 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755cf1?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
 | ↳ | **[WAVY Unpaid Digital Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755cde?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
-| ↳ | **[WAVY Unpaid Sports Intern, Fall Semester 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755cf1?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908062?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
+| ↳ | **[WAVY Unpaid Production Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908035?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
 | ↳ | **[WAVY Unpaid Newsroom Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908051?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jun 23 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Production Intern, Fall 2025](https://jobright.ai/jobs/info/6859a81a4241677d915266bc?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859a81a4241677d91526695?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
-| ↳ | **[WAVY Unpaid Digital Intern, Fall 2025](https://jobright.ai/jobs/info/6859a81a4241677d91526688?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Fall 2025](https://jobright.ai/jobs/info/6859a81a4241677d91526688?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859a81a4241677d9152666f?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
 | ↳ | **[WAVY Unpaid Newsroom Intern, Fall 2025](https://jobright.ai/jobs/info/6859a81a4241677d91526675?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
 | ↳ | **[WAVY Unpaid Sports Intern, Fall Semester 2025](https://jobright.ai/jobs/info/6859a81a4241677d91526671?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
+| ↳ | **[WAVY Unpaid Production Intern, Fall 2025](https://jobright.ai/jobs/info/6859a81a4241677d91526674?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Jun 23 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2025 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/68599ff61e0ccd0524a78a49?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 23 |
 | **[American Planning Association](https://www.planning.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/6859885ee0575773d35ecd0f?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Jun 23 |
 | **[NEON](https://neonrated.com)** | **[NEON General Internship, Fall 2025](https://jobright.ai/jobs/info/685985c057f3babc49d0170e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jun 23 |
@@ -138,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[The Sporting News](http://www.sportingnews.com)** | **[Editorial Intern, Fantasy Sports - Fall 2025](https://jobright.ai/jobs/info/683ca62d50fde8a0c5de77d7?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Jun 23 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2025 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/68595678c3157f297b6031c5?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Jun 23 |
 | **[Troon](http://www.troon.com/)** | **[Golf Operations Intern](https://jobright.ai/jobs/info/67c8af641e4b1b135188cc7b?utm_campaign=1053&utm_source=git)** | Dumfries, VA | On Site | Jun 22 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/6858c17cb0556ba5f8d32f9e?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
