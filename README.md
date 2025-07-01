@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WALB](https://jobright.ai/jobs/info/686329566e45f962c7f2327b?utm_campaign=1053&utm_source=git)** | Albany, GA | On Site | Jun 30 |
+| **[Balance Now](https://www.balance.ca)** | **[Writing/Journalist Internship](https://jobright.ai/jobs/info/6862fa2ae4591759d560bba3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jun 30 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Culinary Internship](https://jobright.ai/jobs/info/6862dc786850f8d808bdd1e0?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jun 30 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Pastry Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/6862b017ad1b4b9e83e50c45?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jun 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern Unpaid -News](https://jobright.ai/jobs/info/68629030434521902e7b038e?utm_campaign=1053&utm_source=git)** | Waco, TX | On Site | Jun 30 |
@@ -66,13 +68,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6862031fe72af5bdfa0ef402?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jun 28 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Pastry Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/686126dff811369e78f9e2cc?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jun 28 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Events Internship – Fall 2025](https://jobright.ai/jobs/info/68609c1fb31dbf1fd70ae9a9?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Jun 28 |
-| **[University of Central Oklahoma](http://www.uco.edu/)** | **[Student Accompanist - Dance](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a1ac?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
-| ↳ | **[FWSP Student Technical - Athletics, Football](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a1a1?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Student Technical - Athletics, Football](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a1a1?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| ↳ | **[Student Accompanist - Dance](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a1ac?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[Student Rehearsal Facilitator (Technical) - Dept. of Dance](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5e3?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | **[Legends](http://legends.net)** | **[Culinary Intern - Credit Union 1 Amp. - Tinley Park](https://jobright.ai/jobs/info/68092f750caf80151a3ffc01?utm_campaign=1053&utm_source=git)** | Tinley Park, IL | On Site | Jun 28 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Multimedia Journalist (Clerical) - UCentral](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f2aa?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
-| ↳ | **[Student Accompanist (Technical) - Dance](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f4d3?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[FWSP Melton Gallery Assistant (Technical) - CFAD](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f2c7?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| ↳ | **[Student Accompanist (Technical) - Dance](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f4d3?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[ARC News Intern (KSNV) - Summer 2025](https://jobright.ai/jobs/info/67ecfb47d0217b93a04da585?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jun 28 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Collection & Archivist Intern (Student Intern Level II), Quality & Safety *Grant Funded*](https://jobright.ai/jobs/info/685f91a2d55a995b8e5e073f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 27 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67d09040b14899d0fd695ef4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jun 27 |
@@ -124,5 +126,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WWBT](https://jobright.ai/jobs/info/685b4e2072838b30f0f00b92?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jun 24 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Conservation Intern - Church History Museum](https://jobright.ai/jobs/info/685ad3520e626b3037435cba?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jun 24 |
 | **[ADEC](https://www.adecinc.com)** | **[Music Therapist Intern](https://jobright.ai/jobs/info/685ab22a813029b84ea85c8f?utm_campaign=1053&utm_source=git)** | Elkhart County, IN | Hybrid | Jun 24 |
-| **[The Kraft Group & Affiliates](http://www.thekraftgroup.com)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/6824ef447578de962640a326?utm_campaign=1053&utm_source=git)** | Foxborough (Foxboro), MA | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
