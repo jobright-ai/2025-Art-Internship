@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68697a1435584b65429e0b19?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | Jul 05 |
+| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6869713f35584b654275f0ae?utm_campaign=1053&utm_source=git)** | Brea, CA | On Site | Jul 05 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Artist Management Internship](https://jobright.ai/jobs/info/682fc25fadef0f249e4b0584?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Jul 04 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 04 |
 | **[The Union League of Philadelphia](http://www.unionleague.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/686743e20a7d81431615ae6f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 03 |
@@ -91,20 +93,20 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6847860593c22192fb631c3d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 01 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/686434ab3b01d176faa6ff71?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Jul 01 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WDBJ](https://jobright.ai/jobs/info/6864286b9bd24d978e2c6ea5?utm_campaign=1053&utm_source=git)** | Roanoke, VA | On Site | Jul 01 |
-| **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f958f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 01 |
-| ↳ | **[Fall Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9587?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
-| ↳ | **[Fall Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/686427b1dce9e834393f956a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 01 |
-| ↳ | **[Fall Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f958a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
-| ↳ | **[Fall Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9627?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
-| ↳ | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9586?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
+| **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f958a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
+| ↳ | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f958f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9585?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Jul 01 |
-| ↳ | **[Fall Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/686423be7e219f3eff523dca?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
+| ↳ | **[Fall Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/686427b1dce9e834393f956a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 01 |
+| ↳ | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9586?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
+| ↳ | **[Fall Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9627?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
+| ↳ | **[Fall Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9587?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/686423be7e219f3eff523dce?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
+| ↳ | **[Fall Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/686423be7e219f3eff523dca?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa5e5?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | Hybrid | Jul 01 |
-| ↳ | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa5f6?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, HBCU Sports Programming - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa5ef?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
-| ↳ | **[Fall Intern, Music Production - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa626?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
+| ↳ | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa5f6?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa6ae?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
+| ↳ | **[Fall Intern, Music Production - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa626?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/6864441df1db023575eaa6af?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Podcast Producer - HBCU - Part Time](https://jobright.ai/jobs/info/6864441df1db023575eaa605?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Jul 01 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Fall 2025: Massachusetts Film Office Internship](https://jobright.ai/jobs/info/686415e858e255bd22b3b2cb?utm_campaign=1053&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Jul 01 |
@@ -126,5 +128,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6862031fe72af5bdfa0ef3ba?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jun 28 |
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6862031fe72af5bdfa0ef402?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jun 28 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Fred Young Fellowship](https://jobright.ai/jobs/info/6693b635a955ace455aa3bbf?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Jun 28 |
-| **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Events Internship – Fall 2025](https://jobright.ai/jobs/info/68609c1fb31dbf1fd70ae9a9?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Jun 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
