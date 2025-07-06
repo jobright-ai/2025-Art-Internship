@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](http://www.gray.tv)** | **[ASSOCIATE NEWS PRODUCER (P/T) - GPP (REMOTE - FALL 2025-SPRING 2026) - NATIONAL INVESTIGATIVE TEAM](https://jobright.ai/jobs/info/68658f19c148a032a01cad30?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Jul 02 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Pastry Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/686568df4a305d4a9e943aec?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jul 02 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[News Intern](https://jobright.ai/jobs/info/68654136e4110b3fec572a0a?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Jul 02 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2025 FOX News Media Internship Program - Chicago, IL](https://jobright.ai/jobs/info/682bcc05107266e4fa0b91f1?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 02 |
 | **[FOX Sports](http://foxsports.com)** | **[Fall 2025 FOX Internship Program - Sports Production, New York](https://jobright.ai/jobs/info/682ad2a2f6953592b0a9b124?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern - Unpaid](https://jobright.ai/jobs/info/681da408e1268f618b7ec9f3?utm_campaign=1053&utm_source=git)** | Tyler, TX | On Site | Jul 02 |
 | **[Seven Hills Foundation](http://www.sevenhills.org)** | **[Intern](https://jobright.ai/jobs/info/6868bba535584b654232a328?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Jul 01 |
@@ -97,20 +96,20 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/6847860593c22192fb631c3d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 01 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/686434ab3b01d176faa6ff71?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Jul 01 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WDBJ](https://jobright.ai/jobs/info/6864286b9bd24d978e2c6ea5?utm_campaign=1053&utm_source=git)** | Roanoke, VA | On Site | Jul 01 |
-| **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9627?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
-| ↳ | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9586?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
+| **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9586?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/686427b1dce9e834393f956a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 01 |
+| ↳ | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9585?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Jul 01 |
+| ↳ | **[Fall Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9627?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
+| ↳ | **[Fall Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f958a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9587?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f958f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 01 |
-| ↳ | **[Fall Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f958a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
-| ↳ | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9585?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/686423be7e219f3eff523dce?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/686423be7e219f3eff523dca?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa5e5?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, HBCU Sports Programming - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa5ef?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa5f6?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
-| ↳ | **[Fall Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa6ae?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Music Production - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa626?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
+| ↳ | **[Fall Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa6ae?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/6864441df1db023575eaa6af?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Jul 01 |
 | ↳ | **[Fall Intern, Podcast Producer - HBCU - Part Time](https://jobright.ai/jobs/info/6864441df1db023575eaa605?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Jul 01 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Fall 2025: Massachusetts Film Office Internship](https://jobright.ai/jobs/info/686415e858e255bd22b3b2cb?utm_campaign=1053&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Jul 01 |
@@ -123,7 +122,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Part Time Paid Intern – Multicultural Writer for Youth](https://jobright.ai/jobs/info/6863330695ac3b1c682ba753?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jun 30 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WALB](https://jobright.ai/jobs/info/686329566e45f962c7f2327b?utm_campaign=1053&utm_source=git)** | Albany, GA | On Site | Jun 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern Unpaid -News](https://jobright.ai/jobs/info/68629030434521902e7b038e?utm_campaign=1053&utm_source=git)** | Waco, TX | On Site | Jun 30 |
-| **[FOX Weather](https://foxweather.com)** | **[Fall 2025 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/682ad2a2f6953592b0a9b167?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jun 30 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2025 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/682ad2a2f6953592b0a9b129?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jun 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/683d3d4a813731a7dfd64d60?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
