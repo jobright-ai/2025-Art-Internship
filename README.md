@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/686dd72a32bbcfc1c106c4ca?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jul 08 |
+| **[Tennessee Technological University](https://www.tntech.edu/)** | **[Student football videographer](https://jobright.ai/jobs/info/686dd099dadb90395aab9923?utm_campaign=1053&utm_source=git)** | Rickman, TN | On Site | Jul 08 |
 | **[Haute Living](http://www.hauteliving.com)** | **[Haute Living Intern](https://jobright.ai/jobs/info/686da99a847857cfc7633181?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Jul 08 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WBNG](https://jobright.ai/jobs/info/686da76f055482568f8ef896?utm_campaign=1053&utm_source=git)** | Johnson City, NY | On Site | Jul 08 |
 | **[International Spy Museum](https://spymuseum.org)** | **[Collections Intern](https://jobright.ai/jobs/info/686d82cf35d173f099672140?utm_campaign=1053&utm_source=git)** | Indiana, United States | On Site | Jul 08 |
 | **[Virtu Financial](https://www.virtu.com/)** | **[Women's Winternship](https://jobright.ai/jobs/info/686d802834a56aba8f812e70?utm_campaign=1053&utm_source=git)** | New York | On Site | Jul 08 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Stadium and Event Operations Intern - Fall 2025](https://jobright.ai/jobs/info/686d7197e46684f583ca8cbb?utm_campaign=1053&utm_source=git)** | Kansas City, KS | On Site | Jul 08 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WSMV](https://jobright.ai/jobs/info/686d5fa05b25ec5f1a3ea1ce?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jul 08 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Investigative Unit Internship - Fall 2025](https://jobright.ai/jobs/info/686d5c3082cf7edcbdc3e68f?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 08 |
-| ↳ | **[NEPM News Intern - Fall 2025](https://jobright.ai/jobs/info/686d5c3082cf7edcbdc3e6b3?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Jul 08 |
+| **[GBH](http://www.wgbh.org/)** | **[NEPM News Intern - Fall 2025](https://jobright.ai/jobs/info/686d5c3082cf7edcbdc3e6b3?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Jul 08 |
+| ↳ | **[GBH News Investigative Unit Internship - Fall 2025](https://jobright.ai/jobs/info/686d5c3082cf7edcbdc3e68f?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 08 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6abd?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Jul 08 |
 | **[University of Utah](http://utah.edu)** | **[KUER Fall News Intern](https://jobright.ai/jobs/info/686cbe6635584b65425dd0bc?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 07 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Fall 2025](https://jobright.ai/jobs/info/686c774835584b6542dcc26c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 07 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Artist Management Internship](https://jobright.ai/jobs/info/682fc25fadef0f249e4b0584?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Jul 04 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 04 |
 | **[The Union League of Philadelphia](http://www.unionleague.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/686743e20a7d81431615ae6f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 03 |
-| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Sculpture Intern - Art - College of Fine Arts](https://jobright.ai/jobs/info/68671c9760cea6c41d2b338d?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Jul 03 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Summer Videographer for Student Life](https://jobright.ai/jobs/info/67f464d1a9408c39670239e7?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Jul 03 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Sculpture Intern - Art - College of Fine Arts](https://jobright.ai/jobs/info/6866ec22db4586f6367327d8?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Jul 03 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[KTLM News Intern](https://jobright.ai/jobs/info/6866db2f85d3cd4cacacebe0?utm_campaign=1053&utm_source=git)** | 2nd Floor,200 S. 10th Street, McAllen, TEXAS | On Site | Jul 03 |
@@ -114,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](http://www.gray.tv)** | **[ASSOCIATE NEWS PRODUCER (P/T) - GPP (REMOTE - FALL 2025-SPRING 2026) - NATIONAL INVESTIGATIVE TEAM](https://jobright.ai/jobs/info/68658f19c148a032a01cad30?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Jul 02 |
 | **[The Sporting News](http://www.sportingnews.com)** | **[Editorial Intern, Fantasy Sports - Fall 2025](https://jobright.ai/jobs/info/686bdf2335584b654233d5a5?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jul 02 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[News Intern](https://jobright.ai/jobs/info/68654136e4110b3fec572a0a?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Jul 02 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern - Unpaid](https://jobright.ai/jobs/info/681da408e1268f618b7ec9f3?utm_campaign=1053&utm_source=git)** | Tyler, TX | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
