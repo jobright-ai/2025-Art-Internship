@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A24](http://a24films.com/)** | **[Post Production / Delivery Intern](https://jobright.ai/jobs/info/686fc0c8a5ae807a59cf32dd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 10 |
 | **[BSE Global](https://www.bseglobal.net)** | **[Brooklyn Media Video Production Seasonal Internship 25-26](https://jobright.ai/jobs/info/686f1e28cd4d4665c60401e9?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Jul 09 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Boston Digital Internship - Academic Year 25-26](https://jobright.ai/jobs/info/686f1d8c305827013091379d?utm_campaign=1053&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jul 09 |
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Broadcast Research Internship - Fall 2025](https://jobright.ai/jobs/info/686f15240429bef62726c1f1?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 09 |
@@ -69,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Agilent Technologies](http://www.agilent.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/686e704984d8325ad17db9e1?utm_campaign=1053&utm_source=git)** | US-DE-Wilmington | Hybrid | Jul 09 |
 | **[Axis Communications](http://www.axis.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6851710c690f43c58db67b1e?utm_campaign=1053&utm_source=git)** | Chelmsford, MA | On Site | Jul 09 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac1?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Jul 09 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/686e2a3e95e5ed7966dab099?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 09 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/686e2a3e95e5ed7966dab098?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 09 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/686e2a3e95e5ed7966dab098?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 09 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/686e2a3e95e5ed7966dab099?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 09 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Academic Year Intern - Telemundo Utah](https://jobright.ai/jobs/info/686e1bdd63d7886e91a36bc0?utm_campaign=1053&utm_source=git)** | 314 S. Redwood Rd, Salt Lake City, Utah | On Site | Jul 09 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Academic Year Intern - Telemundo Utah](https://jobright.ai/jobs/info/686e2da52a385a9f5448b45b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/686dd72a32bbcfc1c106c4ca?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jul 08 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Hostelling International USA (HI USA)](https://www.hiusa.org/)** | **[Volunteer: Seeking a Volunteer Content Creator for HI San Francisco Hostels](https://jobright.ai/jobs/info/686c8ee935584b65425ecd4a?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jul 07 |
 | **[Virtu Financial](https://www.virtu.com/)** | **[Women's Winternship](https://jobright.ai/jobs/info/686dafbfdf0f605f2a704bb8?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jul 07 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Photojournalism Internship - Fall 2025](https://jobright.ai/jobs/info/686c60e735584b654261e2a3?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 07 |
-| **[NCAA](https://www.ncaa.org)** | **[Creative Video Graduate Assistant](https://jobright.ai/jobs/info/686c4f5035584b6542ffe2f2?utm_campaign=1053&utm_source=git)** | Murray, KY | On Site | Jul 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Internship](https://jobright.ai/jobs/info/686c304f35584b65423c5619?utm_campaign=1053&utm_source=git)** | Green Bay, WI | On Site | Jul 07 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/686c23f135584b6542dfd82e?utm_campaign=1053&utm_source=git)** | WI, Green Bay | On Site | Jul 07 |
 | **[Belhaven University](http://www.belhaven.edu)** | **[Graduate Assistant for Athletics Communications](https://jobright.ai/jobs/info/686c1b3335584b6542a7adda?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Jul 07 |
@@ -114,12 +114,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Esports Intern](https://jobright.ai/jobs/info/6869992035584b6542376bb7?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jul 05 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68697a1435584b65429e0b19?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | Jul 05 |
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6869713f35584b654275f0ae?utm_campaign=1053&utm_source=git)** | Brea, CA | On Site | Jul 05 |
+| **[Lely](https://www.lely.com/jp/)** | **[Stage bij Lely Center Bunschoten](https://jobright.ai/jobs/info/682de306c14ef2216f6c2509?utm_campaign=1053&utm_source=git)** | Nederland, TX | On Site | Jul 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Friday Night Touchdown Sports Intern #1](https://jobright.ai/jobs/info/684b3eefc556f7d812f5f43e?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jul 04 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Artist Management Internship](https://jobright.ai/jobs/info/682fc25fadef0f249e4b0584?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Jul 04 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 04 |
 | **[The Union League of Philadelphia](https://www.unionleague.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/686743e20a7d81431615ae6f?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/67c02be62e347714a3e4390a?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Jul 03 |
-| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Summer Videographer for Student Life](https://jobright.ai/jobs/info/67f464d1a9408c39670239e7?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Jul 03 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[KTLM News Intern](https://jobright.ai/jobs/info/6866db2f85d3cd4cacacebe0?utm_campaign=1053&utm_source=git)** | 2nd Floor,200 S. 10th Street, McAllen, TEXAS | On Site | Jul 03 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[KTLM News Intern](https://jobright.ai/jobs/info/6866d856c6a71dd7f4544c4e?utm_campaign=1053&utm_source=git)** | McAllen, TX | Hybrid | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
