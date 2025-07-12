@@ -137,5 +137,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Esports Intern](https://jobright.ai/jobs/info/6869992035584b6542376bb7?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jul 05 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Friday Night Touchdown Sports Intern #2](https://jobright.ai/jobs/info/684c87003ac53b10aeeec67b?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Jul 05 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68697a1435584b65429e0b19?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | Jul 05 |
-| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6869713f35584b654275f0ae?utm_campaign=1053&utm_source=git)** | Brea, CA | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
