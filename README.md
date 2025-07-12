@@ -70,8 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern I, News](https://jobright.ai/jobs/info/687089e406ad7073463be89c?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 10 |
 | ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/68707ff001cc0956e7e82515?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Jul 10 |
 | **[The Breakers Palm Beach](https://www.thebreakers.com)** | **[Culinary Externship](https://jobright.ai/jobs/info/68711f5aa5ae807a59cfdf71?utm_campaign=1053&utm_source=git)** | Palm Beach, FL | On Site | Jul 10 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6870409e32c1658013d2e17a?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Jul 10 |
-| ↳ | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6870409e32c1658013d2e1f6?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Jul 10 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6870409e32c1658013d2e1f6?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Jul 10 |
+| ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6870409e32c1658013d2e17a?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Jul 10 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | ↳ | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[2025-26 Academic Year Intern - Telemundo Utah](https://jobright.ai/jobs/info/687011594a49c2ad447b5da8?utm_campaign=1053&utm_source=git)** | 314 S. Redwood Rd, Salt Lake City, Utah | On Site | Jul 10 |
@@ -131,8 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/6827d239bc6f0fad8b8f2085?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 06 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Summer 2025 Archives Internship](https://jobright.ai/jobs/info/682fc01f3d01055c85a970a6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 05 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Summer Operations Internship - Culinary](https://jobright.ai/jobs/info/67f820799b2ee0576d75ab5b?utm_campaign=1053&utm_source=git)** | Monterey, CA | On Site | Jul 05 |
-| **[Albuquerque Public Schools](https://www.aps.edu/)** | **[Film Prize Junior](https://jobright.ai/jobs/info/6869993635584b654237d24c?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jul 05 |
-| ↳ | **[Volcano Vista Film Intern](https://jobright.ai/jobs/info/6869992c35584b654237aca1?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jul 05 |
-| ↳ | **[Cosmetology Internship](https://jobright.ai/jobs/info/6869992935584b6542379c2f?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jul 05 |
-| ↳ | **[Esports Intern](https://jobright.ai/jobs/info/6869992035584b6542376bb7?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
