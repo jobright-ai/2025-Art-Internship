@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Music Publishing](https://jobright.ai/jobs/info/6875760e5cebcd1dd51c0ff8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Jul 14 |
+| **[Kiawah Island Golf Resort](http://www.kiawahresort.com/)** | **[Recreation Activities Internship](https://jobright.ai/jobs/info/68755f0e5cebcd1dd51bffb0?utm_campaign=1053&utm_source=git)** | Kiawah Island, SC, USA | On Site | Jul 14 |
+| **[Orlando Health](https://www.orlandohealth.com/)** | **[Video Production Intern – Internal Communications](https://jobright.ai/jobs/info/68755ec8299cbc74b87542f1?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jul 14 |
+| **[Kiawah Island Golf Resort](http://www.kiawahresort.com/)** | **[Recreation Activities Internship](https://jobright.ai/jobs/info/68755e705cebcd1dd51bff33?utm_campaign=1053&utm_source=git)** | Johns Island, SC, USA | On Site | Jul 14 |
+| ↳ | **[Recreation Activities Internship](https://jobright.ai/jobs/info/68755e57ae2f413e4a5a63c8?utm_campaign=1053&utm_source=git)** | Charleston, SC, USA | On Site | Jul 14 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News - The Culture Show Internship - Fall 2025](https://jobright.ai/jobs/info/687555da5cebcd1dd51bfaa9?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 14 |
 | ↳ | **[GBH News Photojournalism Internship - Fall 2025](https://jobright.ai/jobs/info/686c60e735584b654261e2a3?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Artist Management (Los Angeles)](https://jobright.ai/jobs/info/687551bc299cbc74b8753b34?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Jul 14 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Video Production Intern – Internal Communications](https://jobright.ai/jobs/info/68754eb3ae2f413e4a5a58d2?utm_campaign=1053&utm_source=git)** | Orlando, Florida | On Site | Jul 14 |
 | **[PrimeTime Media](www.primetimemediala.com)** | **[Journalist Intern](https://jobright.ai/jobs/info/687547de299cbc74b8753602?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA - PALMETTO SPORTS NETWORK DIGITAL INTERN - WHNS](https://jobright.ai/jobs/info/687543575cebcd1dd51bf075?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Jul 14 |
+| **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Fall 2025](https://jobright.ai/jobs/info/686c774835584b6542dcc26c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 14 |
 | **[Premier Brands Group Holdings](https://www.linkedin.com/company/80318658)** | **[Textile Intern, Wholesale Apparel](https://jobright.ai/jobs/info/68753e8d5cebcd1dd51bee22?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Latin Artist Relations (Distribution)](https://jobright.ai/jobs/info/68753c4bae2f413e4a5a50f4?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
 | **[Lisson Gallery](http://www.lissongallery.com)** | **[Gallery Intern](https://jobright.ai/jobs/info/687538f7299cbc74b8753017?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 14 |
@@ -81,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68708c8006ad7073463bea4d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Jul 10 |
 | ↳ | **[Intern I, News](https://jobright.ai/jobs/info/687089e406ad7073463be89c?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 10 |
 | ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/68707ff001cc0956e7e82515?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Jul 10 |
-| ↳ | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6870409e32c1658013d2e1f6?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Jul 10 |
 | ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6870409e32c1658013d2e17a?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Jul 10 |
+| ↳ | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6870409e32c1658013d2e1f6?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Jul 10 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | ↳ | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[2025-26 Academic Year Intern - Telemundo Utah](https://jobright.ai/jobs/info/687011594a49c2ad447b5da8?utm_campaign=1053&utm_source=git)** | 314 S. Redwood Rd, Salt Lake City, Utah | On Site | Jul 10 |
@@ -124,10 +130,9 @@ For a complete list, click the following sortable link below:
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Stadium and Event Operations Intern - Fall 2025](https://jobright.ai/jobs/info/686d7197e46684f583ca8cbb?utm_campaign=1053&utm_source=git)** | Kansas City, KS | On Site | Jul 08 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WSMV](https://jobright.ai/jobs/info/686d5fa05b25ec5f1a3ea1ce?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jul 08 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Fall NYSBA News Intern](https://jobright.ai/jobs/info/686fea739d5f25f875555e62?utm_campaign=1053&utm_source=git)** | 4225 West Henrietta Road, Rochester, NY, 14623, US | On Site | Jul 08 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Investigative Unit Internship - Fall 2025](https://jobright.ai/jobs/info/686d5c3082cf7edcbdc3e68f?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 08 |
-| ↳ | **[NEPM News Intern - Fall 2025](https://jobright.ai/jobs/info/686d5c3082cf7edcbdc3e6b3?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Jul 08 |
+| **[GBH](http://www.wgbh.org/)** | **[NEPM News Intern - Fall 2025](https://jobright.ai/jobs/info/686d5c3082cf7edcbdc3e6b3?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Jul 08 |
+| ↳ | **[GBH News Investigative Unit Internship - Fall 2025](https://jobright.ai/jobs/info/686d5c3082cf7edcbdc3e68f?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/68507426f720d669ee068f47?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | Jul 08 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '25 - WXIX](https://jobright.ai/jobs/info/686c0bc635584b65424228f1?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 08 |
 | **[University of Utah](http://utah.edu)** | **[KUER Fall News Intern](https://jobright.ai/jobs/info/686cbe6635584b65425dd0bc?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 07 |
-| **[Gateway Hotel & Conference Center](http://www.gatewayames.com)** | **[Event Operations Intern](https://jobright.ai/jobs/info/686e03b5a64d005d86c0f9ed?utm_campaign=1053&utm_source=git)** | Ames, IA | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
