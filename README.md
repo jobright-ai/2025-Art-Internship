@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Film Development- Fall 2025](https://jobright.ai/jobs/info/68767dcd299cbc74b875d94f?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Fall 2025](https://jobright.ai/jobs/info/687698f8299cbc74b875e80e?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
+| **[WiT Group](https://witgroupagency.com)** | **[Videographer Internship](https://jobright.ai/jobs/info/687695a1ae2f413e4a5b11e8?utm_campaign=1053&utm_source=git)** | Columbia, SC | Hybrid | Jul 15 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Film Physical Production - Fall 2025](https://jobright.ai/jobs/info/6876936fae2f413e4a5b109a?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
+| ↳ | **[Intern, Film Development- Fall 2025](https://jobright.ai/jobs/info/68767dcd299cbc74b875d94f?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Game Presentation Intern- Buffalo Sabres](https://jobright.ai/jobs/info/68764d3a299cbc74b875c27e?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Jul 15 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Film Post Production - Fall 2025](https://jobright.ai/jobs/info/6875f5d7ae2f413e4a5ab7d9?utm_campaign=1053&utm_source=git)** | Burbank CHQ | On Site | Jul 14 |
 | ↳ | **[Intern, Nerdist Editorial - Fall 2025](https://jobright.ai/jobs/info/6875f59b5cebcd1dd51c50b3?utm_campaign=1053&utm_source=git)** | Burbank CHQ | On Site | Jul 14 |
@@ -132,6 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac1?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Jul 09 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/686e2a3e95e5ed7966dab099?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 09 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Academic Year Intern - Telemundo Utah](https://jobright.ai/jobs/info/686e1bdd63d7886e91a36bc0?utm_campaign=1053&utm_source=git)** | 314 S. Redwood Rd, Salt Lake City, Utah | On Site | Jul 09 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/686dd72a32bbcfc1c106c4ca?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Jul 08 |
-| **[Tennessee Technological University](https://www.tntech.edu/)** | **[Student football videographer](https://jobright.ai/jobs/info/686dd099dadb90395aab9923?utm_campaign=1053&utm_source=git)** | Rickman, TN | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
