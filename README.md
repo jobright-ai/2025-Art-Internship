@@ -58,8 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Culinary Intern](https://jobright.ai/jobs/info/6876bcf65cebcd1dd51cbe81?utm_campaign=1053&utm_source=git)** | 2800 Opryland Drive, Nashville, TN, 37214, US | On Site | Jul 15 |
+| **[Q Prime Artist Management](http://qprime.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6876d6825cebcd1dd51ccee4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[Sequence Events](https://sequence-events.com/)** | **[Creative Events Intern](https://jobright.ai/jobs/info/6876b3d2ae2f413e4a5b2a84?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
-| **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - MileSplit/FloTrack](https://jobright.ai/jobs/info/6876c07a5cebcd1dd51cc099?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 15 |
+| **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - Content Video Production](https://jobright.ai/jobs/info/6876cfd9ae2f413e4a5b3eeb?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 15 |
+| ↳ | **[Fall Internship - MileSplit/FloTrack](https://jobright.ai/jobs/info/6876c07a5cebcd1dd51cc099?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 15 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Fall 2025](https://jobright.ai/jobs/info/687698f8299cbc74b875e80e?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 | ↳ | **[Intern, Film Post Production - Fall 2025](https://jobright.ai/jobs/info/6876af1fae2f413e4a5b2568?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 | **[WiT Group](https://witgroupagency.com)** | **[Videographer Internship](https://jobright.ai/jobs/info/687695a1ae2f413e4a5b11e8?utm_campaign=1053&utm_source=git)** | Columbia, SC | Hybrid | Jul 15 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Buffalo Sabres](http://sabres.com)** | **[Game Presentation Intern- Buffalo Sabres](https://jobright.ai/jobs/info/68764d3a299cbc74b875c27e?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Jul 15 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Film Post Production - Fall 2025](https://jobright.ai/jobs/info/6875f5d7ae2f413e4a5ab7d9?utm_campaign=1053&utm_source=git)** | Burbank CHQ | On Site | Jul 14 |
 | ↳ | **[Intern, Nerdist Editorial - Fall 2025](https://jobright.ai/jobs/info/6875f59b5cebcd1dd51c50b3?utm_campaign=1053&utm_source=git)** | Burbank CHQ | On Site | Jul 14 |
-| **[Balance Now](https://www.balance.ca)** | **[Writing/Journalism Team Member](https://jobright.ai/jobs/info/6875e5eeae2f413e4a5aaec0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern (In-Person) Fall 2025](https://jobright.ai/jobs/info/6875b171299cbc74b8756ffe?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Jul 14 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Film Development- Fall 2025](https://jobright.ai/jobs/info/6875a8535cebcd1dd51c27fe?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 14 |
 | ↳ | **[Intern, Film Physical Production - Fall 2025](https://jobright.ai/jobs/info/6875a6ad299cbc74b87569b7?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 14 |
