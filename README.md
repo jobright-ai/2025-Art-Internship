@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Intramural and Recreation Sports Intern](https://jobright.ai/jobs/info/6877d710ae2f413e4a5bd967?utm_campaign=1053&utm_source=git)** | 601 ICI Center & Fieldhouse | On Site | Jul 16 |
 | **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Film Creative Development](https://jobright.ai/jobs/info/6877464b5cebcd1dd51d1e15?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 15 |
 | ↳ | **[Intern, Scripted TV](https://jobright.ai/jobs/info/687744845cebcd1dd51d1d32?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 15 |
 | **[Balance Now](https://www.balance.ca)** | **[Writing/Journalism Team Member](https://jobright.ai/jobs/info/687728b95cebcd1dd51d0573?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 15 |
@@ -133,7 +134,4 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Boston Digital Internship - Academic Year 25-26](https://jobright.ai/jobs/info/686f1d8c305827013091379d?utm_campaign=1053&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jul 09 |
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Broadcast Research Internship - Fall 2025](https://jobright.ai/jobs/info/686f15240429bef62726c1f1?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Boston Digital Internship - Academic Year 25-26](https://jobright.ai/jobs/info/686f1213ad0c5e82db739e93?utm_campaign=1053&utm_source=git)** | Needham, MA | Hybrid | Jul 09 |
-| **[Montage International](https://www.montageinternational.com)** | **[Culinary Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d61?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Jul 09 |
-| **[GBH](http://www.wgbh.org/)** | **[Antiques Roadshow Digital – Fall Internship 2025](https://jobright.ai/jobs/info/686c314535584b6542407e3a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 09 |
-| ↳ | **[Antiques Roadshow Internship - Fall 2025](https://jobright.ai/jobs/info/686c0a9b35584b654239167a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
