@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Film Creative Development](https://jobright.ai/jobs/info/6877464b5cebcd1dd51d1e15?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 15 |
 | ↳ | **[Intern, Scripted TV](https://jobright.ai/jobs/info/687744845cebcd1dd51d1d32?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 15 |
 | **[Balance Now](https://www.balance.ca)** | **[Writing/Journalism Team Member](https://jobright.ai/jobs/info/687728b95cebcd1dd51d0573?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6877b076866a435525ab33fe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 15 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Writer - Communications & Marketing](https://jobright.ai/jobs/info/68770061299cbc74b8762906?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Jul 15 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Intern](https://jobright.ai/jobs/info/6876f855ae2f413e4a5b5845?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 15 |
 | **[Reynolds Lake Oconee](http://reynoldslakeoconee.com)** | **[Intern - Turf/Golf Course Maintenance](https://jobright.ai/jobs/info/6876ec37299cbc74b8761cf4?utm_campaign=1053&utm_source=git)** | Greensboro, GA | On Site | Jul 15 |
@@ -135,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Montage International](https://www.montageinternational.com)** | **[Culinary Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d61?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Jul 09 |
 | **[GBH](http://www.wgbh.org/)** | **[Antiques Roadshow Digital – Fall Internship 2025](https://jobright.ai/jobs/info/686c314535584b6542407e3a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 09 |
 | ↳ | **[Antiques Roadshow Internship - Fall 2025](https://jobright.ai/jobs/info/686c0a9b35584b654239167a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 09 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern (In-Person) Fall 2025](https://jobright.ai/jobs/info/686ee002938fa366112a6c20?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
