@@ -95,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Premier Brands Group Holdings](https://www.linkedin.com/company/80318658)** | **[Textile Intern, Wholesale Apparel](https://jobright.ai/jobs/info/68753e8d5cebcd1dd51bee22?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Latin Artist Relations (Distribution)](https://jobright.ai/jobs/info/68753c4bae2f413e4a5a50f4?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Pastry Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/68752d235cebcd1dd51be576?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jul 14 |
+| **[Deseret Digital Media](http://www.deseretdigital.com)** | **[News Intern, KSL.com (Hybrid, Fall 2025, Sep-Dec)](https://jobright.ai/jobs/info/68778d4d866a435525ab279a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 14 |
 | **[Concord](https://concord.com/)** | **[Publishing A&R Intern](https://jobright.ai/jobs/info/68765abaae2f413e4a5af1c6?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 13 |
 | ↳ | **[Publishing A&R Intern](https://jobright.ai/jobs/info/68760d16299cbc74b875a640?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jul 13 |
 | ↳ | **[Concord Originals Intern](https://jobright.ai/jobs/info/68767141ae2f413e4a5afb09?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 13 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Control Room Fall 2025 Internship, TD Garden](https://jobright.ai/jobs/info/687065a901cc0956e7e81a3c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68708c8006ad7073463bea4d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Jul 10 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5b4?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jul 10 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6870409e32c1658013d2e17a?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Jul 10 |
-| ↳ | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6870409e32c1658013d2e1f6?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Jul 10 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6870409e32c1658013d2e1f6?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Jul 10 |
+| ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6870409e32c1658013d2e17a?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Jul 10 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | ↳ | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[2025-26 Academic Year Intern - Telemundo Utah](https://jobright.ai/jobs/info/687011594a49c2ad447b5da8?utm_campaign=1053&utm_source=git)** | 314 S. Redwood Rd, Salt Lake City, Utah | On Site | Jul 10 |
@@ -138,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[BSE Global](https://www.bseglobal.net)** | **[Brooklyn Media Video Production Seasonal Internship 25-26](https://jobright.ai/jobs/info/686ed4df293cdf80c953e4c3?utm_campaign=1053&utm_source=git)** | Brooklyn, NY 11232 | On Site | Jul 09 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Fall 2025](https://jobright.ai/jobs/info/686ec4019ac195524dc1d776?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 09 |
 | ↳ | **[NOVA Digital Video Internship - Fall 2025](https://jobright.ai/jobs/info/686c092935584b654231c60f?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 09 |
-| ↳ | **[GBH News Rooted Internship-Fall 2025](https://jobright.ai/jobs/info/686eb022ac843c9a776d23f3?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
