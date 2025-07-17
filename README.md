@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/68795ef6ed63844c9449b198?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 17 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/68796a43a7fc8904e3962951?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Jul 17 |
 | **[NoGood](https://nogood.io)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68791e04a7fc8904e395fef5?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jul 17 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/6879159ea7fc8904e395f941?utm_campaign=1053&utm_source=git)** | Lecroy Center Campus | On Site | Jul 17 |
 | **[Legends](http://legends.net)** | **[Culinary Intern - Huntington Bank Pavilion at Northerly Island](https://jobright.ai/jobs/info/67c42a01b9609906b74017fa?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 17 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[TH Experiential](https://thexperiential.com)** | **[Fall 2025 Production Internship](https://jobright.ai/jobs/info/687872cdae2f413e4a5c2ca8?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jul 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025: Community Fridge Intern (Unpaid)](https://jobright.ai/jobs/info/68786c95866a435525ab9427?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Jul 16 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo Arizona News Intern](https://jobright.ai/jobs/info/68784b38ae2f413e4a5c136a?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 16 |
+| **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Art Specialist, Visual Arts (10022, Grade 22)](https://jobright.ai/jobs/info/68795692ed63844c9449acb2?utm_campaign=1053&utm_source=git)** | Greenbelt, MD | On Site | Jul 16 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[Ecommerce Photoshoot Intern](https://jobright.ai/jobs/info/687851b4ae2f413e4a5c17d3?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Jul 16 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Intramural & Recreation Sports Intern](https://jobright.ai/jobs/info/68782e8d866a435525ab75a9?utm_campaign=1053&utm_source=git)** | Daytona Beach, FL | On Site | Jul 16 |
 | **[Library Systems & Services, LLC](http://lsslibraries.com)** | **[Librarian Intern](https://jobright.ai/jobs/info/687858325cebcd1dd51d9943?utm_campaign=1053&utm_source=git)** | Upland, CA | On Site | Jul 16 |
@@ -81,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Writer - Communications & Marketing](https://jobright.ai/jobs/info/68770061299cbc74b8762906?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Jul 15 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Intern](https://jobright.ai/jobs/info/6876f855ae2f413e4a5b5845?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 15 |
 | **[Reynolds Lake Oconee](http://reynoldslakeoconee.com)** | **[Intern - Turf/Golf Course Maintenance](https://jobright.ai/jobs/info/6876ec37299cbc74b8761cf4?utm_campaign=1053&utm_source=git)** | Greensboro, GA | On Site | Jul 15 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908062?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Culinary Intern](https://jobright.ai/jobs/info/6876bcf65cebcd1dd51cbe81?utm_campaign=1053&utm_source=git)** | 2800 Opryland Drive, Nashville, TN, 37214, US | On Site | Jul 15 |
 | **[Sequence Events](https://sequence-events.com/)** | **[Creative Events Intern](https://jobright.ai/jobs/info/6876b3d2ae2f413e4a5b2a84?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed8?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
@@ -89,8 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Fall 2025](https://jobright.ai/jobs/info/687698f8299cbc74b875e80e?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 | ↳ | **[Intern, Film Post Production - Fall 2025](https://jobright.ai/jobs/info/6876af1fae2f413e4a5b2568?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 | **[WiT Group](https://witgroupagency.com)** | **[Videographer Internship](https://jobright.ai/jobs/info/687695a1ae2f413e4a5b11e8?utm_campaign=1053&utm_source=git)** | Columbia, SC | Hybrid | Jul 15 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
-| ↳ | **[WAVY Unpaid Newsroom Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908051?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908051?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6822a141bd89060695b9d882?utm_campaign=1053&utm_source=git)** | Johnson City, TN | On Site | Jul 15 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Film Physical Production - Fall 2025](https://jobright.ai/jobs/info/6876936fae2f413e4a5b109a?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 | ↳ | **[Intern, Film Development- Fall 2025](https://jobright.ai/jobs/info/68767dcd299cbc74b875d94f?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
