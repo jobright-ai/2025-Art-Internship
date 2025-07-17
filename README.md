@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo Arizona News Intern](https://jobright.ai/jobs/info/68784b38ae2f413e4a5c136a?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 16 |
+| **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[Ecommerce Photoshoot Intern](https://jobright.ai/jobs/info/687851b4ae2f413e4a5c17d3?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Jul 16 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Intramural & Recreation Sports Intern](https://jobright.ai/jobs/info/68782e8d866a435525ab75a9?utm_campaign=1053&utm_source=git)** | Daytona Beach, FL | On Site | Jul 16 |
+| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '25 - WNDU](https://jobright.ai/jobs/info/687847865cebcd1dd51d8de0?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Jul 16 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Arizona News Intern](https://jobright.ai/jobs/info/6877fa12866a435525ab5a4f?utm_campaign=1053&utm_source=git)** | 4625 S 33rd Place, Phoenix, Arizona | On Site | Jul 16 |
 | **[Honeywell](http://www.honeywell.com)** | **[FAME Intern](https://jobright.ai/jobs/info/6877f920ae2f413e4a5beb61?utm_campaign=1053&utm_source=git)** | Mobile, AL, United States | On Site | Jul 16 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Ball State Athletics) - Fall 2025](https://jobright.ai/jobs/info/6877f1a9866a435525ab5313?utm_campaign=1053&utm_source=git)** | Muncie, IN | On Site | Jul 16 |
