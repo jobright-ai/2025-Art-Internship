@@ -118,7 +118,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Publishing A&R Intern](https://jobright.ai/jobs/info/68760d16299cbc74b875a640?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jul 13 |
 | ↳ | **[Concord Originals Intern](https://jobright.ai/jobs/info/68767141ae2f413e4a5afb09?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 13 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e999e6db7f8d0179242dd?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Jul 13 |
-| **[University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[Assistant Technical Director - Krannert Center for the Performing Arts](https://jobright.ai/jobs/info/6839f6b8321ef8d44ce92346?utm_campaign=1053&utm_source=git)** | Urbana, IL | On Site | Jul 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6872b41ca5ae807a59d07022?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Jul 12 |
 | ↳ | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6875fe0cae2f413e4a5abefe?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Jul 12 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/681d04d97a08adf0143c746a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jul 12 |
@@ -133,13 +132,10 @@ For a complete list, click the following sortable link below:
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Control Room Fall 2025 Internship, TD Garden](https://jobright.ai/jobs/info/687065a901cc0956e7e81a3c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68708c8006ad7073463bea4d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Jul 10 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5b4?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jul 10 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6870409e32c1658013d2e17a?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Jul 10 |
-| ↳ | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6870409e32c1658013d2e1f6?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Jul 10 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6870409e32c1658013d2e1f6?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Jul 10 |
+| ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6870409e32c1658013d2e17a?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Jul 10 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | ↳ | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[2025-26 Academic Year Intern - Telemundo Utah](https://jobright.ai/jobs/info/687011594a49c2ad447b5da8?utm_campaign=1053&utm_source=git)** | 314 S. Redwood Rd, Salt Lake City, Utah | On Site | Jul 10 |
 | **[Purdue Federal Credit Union](https://www.purduefed.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68700f569a77984d3d150cf9?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Jul 10 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News "All Things Considered" Internship - Fall 2025](https://jobright.ai/jobs/info/68701e01a5ae807a59cf5d99?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 10 |
-| ↳ | **[NEPM Sports Reporter Internship Fall 2025 Semester](https://jobright.ai/jobs/info/68701eef06ad7073463bb38a?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Jul 10 |
-| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[2025-26 Academic Year Intern - Telemundo Utah](https://jobright.ai/jobs/info/68701ef706ad7073463bb38e?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
