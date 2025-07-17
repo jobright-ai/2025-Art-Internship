@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Intramural & Recreation Sports Intern](https://jobright.ai/jobs/info/68782e8d866a435525ab75a9?utm_campaign=1053&utm_source=git)** | Daytona Beach, FL | On Site | Jul 16 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Arizona News Intern](https://jobright.ai/jobs/info/6877fa12866a435525ab5a4f?utm_campaign=1053&utm_source=git)** | 4625 S 33rd Place, Phoenix, Arizona | On Site | Jul 16 |
-| **[Honeywell](http://www.honeywell.com)** | **[FAME Intern](https://jobright.ai/jobs/info/6877f4385cebcd1dd51d6572?utm_campaign=1053&utm_source=git)** | Mobile, AL, United States | On Site | Jul 16 |
+| **[Honeywell](http://www.honeywell.com)** | **[FAME Intern](https://jobright.ai/jobs/info/6877f920ae2f413e4a5beb61?utm_campaign=1053&utm_source=git)** | Mobile, AL, United States | On Site | Jul 16 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Ball State Athletics) - Fall 2025](https://jobright.ai/jobs/info/6877f1a9866a435525ab5313?utm_campaign=1053&utm_source=git)** | Muncie, IN | On Site | Jul 16 |
 | **[Honeywell](http://www.honeywell.com)** | **[FAME Intern](https://jobright.ai/jobs/info/6877f0e85cebcd1dd51d6322?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Jul 16 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WANF](https://jobright.ai/jobs/info/6877e4ee5cebcd1dd51d5ee7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jul 16 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Reynolds Lake Oconee](http://reynoldslakeoconee.com)** | **[Intern - Turf/Golf Course Maintenance](https://jobright.ai/jobs/info/6876ec37299cbc74b8761cf4?utm_campaign=1053&utm_source=git)** | Greensboro, GA | On Site | Jul 15 |
 | **[Marriott International](https://w-hotels.marriott.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6876bcf65cebcd1dd51cbe81?utm_campaign=1053&utm_source=git)** | 2800 Opryland Drive, Nashville, TN, 37214, US | On Site | Jul 15 |
 | **[Sequence Events](https://sequence-events.com/)** | **[Creative Events Intern](https://jobright.ai/jobs/info/6876b3d2ae2f413e4a5b2a84?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed8?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
 | **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - Content Video Production](https://jobright.ai/jobs/info/6876cfd9ae2f413e4a5b3eeb?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 15 |
 | ↳ | **[Fall Internship - MileSplit/FloTrack](https://jobright.ai/jobs/info/6876c07a5cebcd1dd51cc099?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 15 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Fall 2025](https://jobright.ai/jobs/info/687698f8299cbc74b875e80e?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Control Room Fall 2025 Internship, TD Garden](https://jobright.ai/jobs/info/687065a901cc0956e7e81a3c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68708c8006ad7073463bea4d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Jul 10 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5b4?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jul 10 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6870409e32c1658013d2e17a?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Jul 10 |
-| ↳ | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6870409e32c1658013d2e1f6?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Jul 10 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6870409e32c1658013d2e1f6?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Jul 10 |
+| ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6870409e32c1658013d2e17a?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Jul 10 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | ↳ | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[2025-26 Academic Year Intern - Telemundo Utah](https://jobright.ai/jobs/info/687011594a49c2ad447b5da8?utm_campaign=1053&utm_source=git)** | 314 S. Redwood Rd, Salt Lake City, Utah | On Site | Jul 10 |
@@ -132,6 +134,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[2025-26 Academic Year Intern - Telemundo Utah](https://jobright.ai/jobs/info/68701ef706ad7073463bb38e?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/681ab43d2cfcf461826a4a7d?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Jul 10 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Summer News Intern](https://jobright.ai/jobs/info/67fece4aa8c01cf1c0c6d50b?utm_campaign=1053&utm_source=git)** | Bristol, TN | On Site | Jul 10 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/678925feb1ed92949ce60195?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Jul 09 |
-| **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac4?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
