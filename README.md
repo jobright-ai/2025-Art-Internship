@@ -65,7 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Library Systems & Services, LLC](http://lsslibraries.com)** | **[Librarian Intern](https://jobright.ai/jobs/info/687858325cebcd1dd51d9943?utm_campaign=1053&utm_source=git)** | Upland, CA | On Site | Jul 16 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '25 - WNDU](https://jobright.ai/jobs/info/687847865cebcd1dd51d8de0?utm_campaign=1053&utm_source=git)** | South Bend, IN | On Site | Jul 16 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Arizona News Intern](https://jobright.ai/jobs/info/6877fa12866a435525ab5a4f?utm_campaign=1053&utm_source=git)** | 4625 S 33rd Place, Phoenix, Arizona | On Site | Jul 16 |
-| **[Honeywell](http://www.honeywell.com)** | **[FAME Intern](https://jobright.ai/jobs/info/6877f920ae2f413e4a5beb61?utm_campaign=1053&utm_source=git)** | Mobile, AL, United States | On Site | Jul 16 |
+| **[Honeywell](http://www.honeywell.com)** | **[FAME Intern](https://jobright.ai/jobs/info/6877f4385cebcd1dd51d6572?utm_campaign=1053&utm_source=git)** | Mobile, AL, United States | On Site | Jul 16 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Ball State Athletics) - Fall 2025](https://jobright.ai/jobs/info/6877f1a9866a435525ab5313?utm_campaign=1053&utm_source=git)** | Muncie, IN | On Site | Jul 16 |
 | **[Honeywell](http://www.honeywell.com)** | **[FAME Intern](https://jobright.ai/jobs/info/6877f0e85cebcd1dd51d6322?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Jul 16 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WANF](https://jobright.ai/jobs/info/6877e4ee5cebcd1dd51d5ee7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jul 16 |
@@ -78,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Writer - Communications & Marketing](https://jobright.ai/jobs/info/68770061299cbc74b8762906?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Jul 15 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Intern](https://jobright.ai/jobs/info/6876f855ae2f413e4a5b5845?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 15 |
 | **[Reynolds Lake Oconee](http://reynoldslakeoconee.com)** | **[Intern - Turf/Golf Course Maintenance](https://jobright.ai/jobs/info/6876ec37299cbc74b8761cf4?utm_campaign=1053&utm_source=git)** | Greensboro, GA | On Site | Jul 15 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908062?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
 | **[Marriott International](https://w-hotels.marriott.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6876bcf65cebcd1dd51cbe81?utm_campaign=1053&utm_source=git)** | 2800 Opryland Drive, Nashville, TN, 37214, US | On Site | Jul 15 |
 | **[Sequence Events](https://sequence-events.com/)** | **[Creative Events Intern](https://jobright.ai/jobs/info/6876b3d2ae2f413e4a5b2a84?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed8?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
@@ -86,8 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Fall 2025](https://jobright.ai/jobs/info/687698f8299cbc74b875e80e?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 | ↳ | **[Intern, Film Post Production - Fall 2025](https://jobright.ai/jobs/info/6876af1fae2f413e4a5b2568?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 | **[WiT Group](https://witgroupagency.com)** | **[Videographer Internship](https://jobright.ai/jobs/info/687695a1ae2f413e4a5b11e8?utm_campaign=1053&utm_source=git)** | Columbia, SC | Hybrid | Jul 15 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
-| ↳ | **[WAVY Unpaid Newsroom Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908051?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908051?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Film Physical Production - Fall 2025](https://jobright.ai/jobs/info/6876936fae2f413e4a5b109a?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 | ↳ | **[Intern, Film Development- Fall 2025](https://jobright.ai/jobs/info/68767dcd299cbc74b875d94f?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Game Presentation Intern- Buffalo Sabres](https://jobright.ai/jobs/info/68764d3a299cbc74b875c27e?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Jul 15 |
@@ -131,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Control Room Fall 2025 Internship, TD Garden](https://jobright.ai/jobs/info/687065a901cc0956e7e81a3c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68708c8006ad7073463bea4d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Jul 10 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5b4?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jul 10 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6870409e32c1658013d2e17a?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Jul 10 |
-| ↳ | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6870409e32c1658013d2e1f6?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Jul 10 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6870409e32c1658013d2e1f6?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Jul 10 |
+| ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6870409e32c1658013d2e17a?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Jul 10 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | ↳ | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[2025-26 Academic Year Intern - Telemundo Utah](https://jobright.ai/jobs/info/687011594a49c2ad447b5da8?utm_campaign=1053&utm_source=git)** | 314 S. Redwood Rd, Salt Lake City, Utah | On Site | Jul 10 |
