@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dallas College](https://www.dcccd.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/6879159ea7fc8904e395f941?utm_campaign=1053&utm_source=git)** | Lecroy Center Campus | On Site | Jul 17 |
 | **[Legends](http://legends.net)** | **[Culinary Intern - Huntington Bank Pavilion at Northerly Island](https://jobright.ai/jobs/info/67c42a01b9609906b74017fa?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 17 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6878b59dd444e1727b2def15?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Jul 17 |
 | **[TH Experiential](https://thexperiential.com)** | **[Fall 2025 Production Internship](https://jobright.ai/jobs/info/687872cdae2f413e4a5c2ca8?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jul 16 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Arizona News Intern](https://jobright.ai/jobs/info/6877fa12866a435525ab5a4f?utm_campaign=1053&utm_source=git)** | 4625 S 33rd Place, Phoenix, Arizona | On Site | Jul 16 |
 | **[Honeywell](http://www.honeywell.com)** | **[FAME Intern](https://jobright.ai/jobs/info/6877f4385cebcd1dd51d6572?utm_campaign=1053&utm_source=git)** | Mobile, AL, United States | On Site | Jul 16 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Ball State Athletics) - Fall 2025](https://jobright.ai/jobs/info/6877f1a9866a435525ab5313?utm_campaign=1053&utm_source=git)** | Muncie, IN | On Site | Jul 16 |
-| **[Honeywell](http://www.honeywell.com)** | **[FAME Intern](https://jobright.ai/jobs/info/6877f0e85cebcd1dd51d6322?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Jul 16 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WANF](https://jobright.ai/jobs/info/6877e4ee5cebcd1dd51d5ee7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jul 16 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Intramural and Recreation Sports Intern](https://jobright.ai/jobs/info/6877d710ae2f413e4a5bd967?utm_campaign=1053&utm_source=git)** | 601 ICI Center & Fieldhouse | On Site | Jul 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern Fall Semester, Harlingen, TX](https://jobright.ai/jobs/info/685afeea40f786444442368c?utm_campaign=1053&utm_source=git)** | Brownsville, TX | On Site | Jul 16 |
@@ -134,6 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Control Room Fall 2025 Internship, TD Garden](https://jobright.ai/jobs/info/687065a901cc0956e7e81a3c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68708c8006ad7073463bea4d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Jul 10 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5b4?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jul 10 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6870409e32c1658013d2e1f6?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Jul 10 |
-| ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6870409e32c1658013d2e17a?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
