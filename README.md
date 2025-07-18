@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/6879aba4ed63844c9449d4d4?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | Jul 17 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Academic Year 2025-2026](https://jobright.ai/jobs/info/6879a301a7fc8904e396442a?utm_campaign=1053&utm_source=git)** | Hartford, CT | Hybrid | Jul 17 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Academic Year 2025-2026](https://jobright.ai/jobs/info/6879a20ca7fc8904e39643a8?utm_campaign=1053&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | Jul 17 |
 | ↳ | **[NBC Telemundo Connecticut Newsroom Intern - Academic Year 2025-2026](https://jobright.ai/jobs/info/6879a13eed63844c9449d053?utm_campaign=1053&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | Jul 17 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/68796a43a7fc8904e3962951?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Jul 17 |
 | **[NoGood](https://nogood.io)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68791e04a7fc8904e395fef5?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jul 17 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/6879159ea7fc8904e395f941?utm_campaign=1053&utm_source=git)** | Lecroy Center Campus | On Site | Jul 17 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Internship](https://jobright.ai/jobs/info/685c4b028146ebc0b1c3809d?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jul 17 |
 | **[Legends](http://legends.net)** | **[Culinary Intern - Huntington Bank Pavilion at Northerly Island](https://jobright.ai/jobs/info/67c42a01b9609906b74017fa?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 17 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6878b59dd444e1727b2def15?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Jul 17 |
 | **[TH Experiential](https://thexperiential.com)** | **[Fall 2025 Production Internship](https://jobright.ai/jobs/info/687872cdae2f413e4a5c2ca8?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jul 16 |
