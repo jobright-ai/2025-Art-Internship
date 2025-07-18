@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687aa2e1764c3d7411c2eb7c?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 18 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687aa301ed63844c944a4a0f?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 18 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/687a9602ed63844c944a3f4e?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Jul 18 |
 | **[BJU Press](https://www.bjupress.com/page/Home)** | **[Editorial Intern (Fall Semester 2025)](https://jobright.ai/jobs/info/687a4453764c3d7411c2c462?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Jul 18 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[AV Intern](https://jobright.ai/jobs/info/687a1c0d2097a271a897d49a?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Jul 18 |
@@ -70,7 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '25- KYTV/KSPR](https://jobright.ai/jobs/info/68799623a7fc8904e3963c75?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | Jul 17 |
 | ↳ | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '25- KBTX](https://jobright.ai/jobs/info/687993e1ed63844c9449c931?utm_campaign=1053&utm_source=git)** | Bryan, TX | On Site | Jul 17 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/68795ef6ed63844c9449b198?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 17 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/68796a43a7fc8904e3962951?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Jul 17 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/683d27a9e3502e937bcb1103?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Jul 17 |
+| ↳ | **[News Intern](https://jobright.ai/jobs/info/68796a43a7fc8904e3962951?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Jul 17 |
 | **[NoGood](https://nogood.io)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68791e04a7fc8904e395fef5?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jul 17 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/6879159ea7fc8904e395f941?utm_campaign=1053&utm_source=git)** | Lecroy Center Campus | On Site | Jul 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Internship](https://jobright.ai/jobs/info/685c4b028146ebc0b1c3809d?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jul 17 |
