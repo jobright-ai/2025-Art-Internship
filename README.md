@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[NoGood](https://nogood.io)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68791e04a7fc8904e395fef5?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jul 17 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/6879159ea7fc8904e395f941?utm_campaign=1053&utm_source=git)** | Lecroy Center Campus | On Site | Jul 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Internship](https://jobright.ai/jobs/info/685c4b028146ebc0b1c3809d?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jul 17 |
+| **[PENNYMAC](https://www.pennymac.com)** | **[Intern](https://jobright.ai/jobs/info/685cb63f854b270ab6b68a15?utm_campaign=1053&utm_source=git)** | Westlake Village, CA | On Site | Jul 17 |
 | **[Legends](http://legends.net)** | **[Culinary Intern - Huntington Bank Pavilion at Northerly Island](https://jobright.ai/jobs/info/67c42a01b9609906b74017fa?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 17 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6878b59dd444e1727b2def15?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Jul 17 |
 | **[TH Experiential](https://thexperiential.com)** | **[Fall 2025 Production Internship](https://jobright.ai/jobs/info/687872cdae2f413e4a5c2ca8?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jul 16 |
@@ -133,7 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Concord Originals Intern](https://jobright.ai/jobs/info/68767141ae2f413e4a5afb09?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 13 |
 | **[University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[Assistant Technical Director - Krannert Center for the Performing Arts](https://jobright.ai/jobs/info/6879c23ced63844c9449df93?utm_campaign=1053&utm_source=git)** | Urbana, IL | On Site | Jul 13 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e999e6db7f8d0179242dd?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Jul 13 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6872b41ca5ae807a59d07022?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Jul 12 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Jul 12 |
+| ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6872b41ca5ae807a59d07022?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Jul 12 |
 | ↳ | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6875fe0cae2f413e4a5abefe?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Jul 12 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/681d04d97a08adf0143c746a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jul 12 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b17?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Jul 12 |
