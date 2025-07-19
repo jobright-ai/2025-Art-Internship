@@ -59,11 +59,12 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Culinary Edge](http://theculinaryedge.com/)** | **[The Culinary Edge Fall Strategy Internship](https://jobright.ai/jobs/info/687af84fed63844c944a6225?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Jul 18 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[GCU Athletics Media Production - Student Creative Videographer  (FWS/NFWS)](https://jobright.ai/jobs/info/687af703ed63844c944a61c9?utm_campaign=1053&utm_source=git)** | AZ Phoenix | On Site | Jul 18 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[Part-Time Production Assistant](https://jobright.ai/jobs/info/687b3cc72097a271a8982c71?utm_campaign=1053&utm_source=git)** | Yakima, WA | On Site | Jul 18 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687aa2e1764c3d7411c2eb7c?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 18 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/687a9602ed63844c944a3f4e?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Jul 18 |
 | **[BJU Press](https://www.bjupress.com/page/Home)** | **[Editorial Intern (Fall Semester 2025)](https://jobright.ai/jobs/info/687a4453764c3d7411c2c462?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Jul 18 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[AV Intern](https://jobright.ai/jobs/info/687a1c0d2097a271a897d49a?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Jul 18 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/687a0c0d2097a271a897d0d4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 17 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/687a08b2ed63844c944a11e8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 17 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[2025 Summer News Internship](https://jobright.ai/jobs/info/680359a9b0f813893559f241?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Jul 17 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/6879aba4ed63844c9449d4d4?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | Jul 17 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Academic Year 2025-2026](https://jobright.ai/jobs/info/6879a301a7fc8904e396442a?utm_campaign=1053&utm_source=git)** | Hartford, CT | Hybrid | Jul 17 |
@@ -144,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Jul 12 |
 | ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6872b41ca5ae807a59d07022?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Jul 12 |
 | ↳ | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6875fe0cae2f413e4a5abefe?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Jul 12 |
-| ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/681d04d97a08adf0143c746a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
