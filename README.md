@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/687a9602ed63844c944a3f4e?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Jul 18 |
 | **[BJU Press](https://www.bjupress.com/page/Home)** | **[Editorial Intern (Fall Semester 2025)](https://jobright.ai/jobs/info/687a4453764c3d7411c2c462?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Jul 18 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[AV Intern](https://jobright.ai/jobs/info/687a1c0d2097a271a897d49a?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Jul 18 |
+| **[Dallas College](https://www.dcccd.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/687b6f5f764c3d7411c32aef?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/687a0c0d2097a271a897d0d4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 17 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[2025 Summer News Internship](https://jobright.ai/jobs/info/680359a9b0f813893559f241?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Jul 17 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/6879aba4ed63844c9449d4d4?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | Jul 17 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908035?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 16 |
 | **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Film Creative Development](https://jobright.ai/jobs/info/6877464b5cebcd1dd51d1e15?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 15 |
 | ↳ | **[Intern, Scripted TV](https://jobright.ai/jobs/info/687744845cebcd1dd51d1d32?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687b83c0764c3d7411c334de?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 15 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Writer - Communications & Marketing](https://jobright.ai/jobs/info/68770061299cbc74b8762906?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Jul 15 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Intern](https://jobright.ai/jobs/info/6876f855ae2f413e4a5b5845?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 15 |
 | **[Reynolds Lake Oconee](http://reynoldslakeoconee.com)** | **[Intern - Turf/Golf Course Maintenance](https://jobright.ai/jobs/info/6876ec37299cbc74b8761cf4?utm_campaign=1053&utm_source=git)** | Greensboro, GA | On Site | Jul 15 |
@@ -144,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e999e6db7f8d0179242dd?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Jul 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Jul 12 |
 | ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6872b41ca5ae807a59d07022?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Jul 12 |
-| ↳ | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6875fe0cae2f413e4a5abefe?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
