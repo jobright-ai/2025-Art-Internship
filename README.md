@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Culinary Edge](http://theculinaryedge.com/)** | **[The Culinary Edge Fall Strategy Internship](https://jobright.ai/jobs/info/687af84fed63844c944a6225?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Jul 18 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[GCU Athletics Media Production - Student Creative Videographer  (FWS/NFWS)](https://jobright.ai/jobs/info/687af703ed63844c944a61c9?utm_campaign=1053&utm_source=git)** | AZ Phoenix | On Site | Jul 18 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687aa301ed63844c944a4a0f?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 18 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/687a9602ed63844c944a3f4e?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Jul 18 |
@@ -143,5 +144,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6872b41ca5ae807a59d07022?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Jul 12 |
 | ↳ | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6875fe0cae2f413e4a5abefe?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Jul 12 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/681d04d97a08adf0143c746a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Jul 12 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b17?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
