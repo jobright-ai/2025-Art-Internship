@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Jul 20 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687bd8422097a271a8987951?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jul 19 |
 | **[Austin Community College](http://austincc.edu)** | **[ACCTV Intern (Hourly)](https://jobright.ai/jobs/info/687b9066764c3d7411c33bb3?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 19 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Collection & Archivist Intern (Student Intern Level II), Quality & Safety *Grant Funded*](https://jobright.ai/jobs/info/685f91a2d55a995b8e5e073f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 19 |
@@ -70,10 +71,10 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Morning Edition Internship – Fall 2025](https://jobright.ai/jobs/info/687c92aa764c3d7411c396ae?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 18 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '25 - WSFA](https://jobright.ai/jobs/info/687b85baed63844c944a8189?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Jul 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Part-Time Production Assistant](https://jobright.ai/jobs/info/687b3cc72097a271a8982c71?utm_campaign=1053&utm_source=git)** | Yakima, WA | On Site | Jul 18 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687aa301ed63844c944a4a0f?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 18 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687aa2e1764c3d7411c2eb7c?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 18 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/687a9602ed63844c944a3f4e?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Jul 18 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[AV Intern](https://jobright.ai/jobs/info/687a1c0d2097a271a897d49a?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Jul 18 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/687a08b2ed63844c944a11e8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 17 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/687a0c0d2097a271a897d0d4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 17 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[2025 Summer News Internship](https://jobright.ai/jobs/info/680359a9b0f813893559f241?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Jul 17 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/6879aba4ed63844c9449d4d4?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | Jul 17 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Academic Year 2025-2026](https://jobright.ai/jobs/info/6879a301a7fc8904e396442a?utm_campaign=1053&utm_source=git)** | Hartford, CT | Hybrid | Jul 17 |
@@ -155,5 +156,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Concord Originals Intern](https://jobright.ai/jobs/info/68767141ae2f413e4a5afb09?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 13 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Jul 13 |
 | **[University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[Assistant Technical Director - Krannert Center for the Performing Arts](https://jobright.ai/jobs/info/6879c23ced63844c9449df93?utm_campaign=1053&utm_source=git)** | Urbana, IL | On Site | Jul 13 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e999e6db7f8d0179242dd?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
