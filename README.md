@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Jul 20 |
+| **[Montage International](https://www.montageinternational.com)** | **[Rooms Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d60?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Jul 20 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6862031fe72af5bdfa0ef36f?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Jul 20 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687bd8422097a271a8987951?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jul 19 |
 | **[Austin Community College](http://austincc.edu)** | **[ACCTV Intern (Hourly)](https://jobright.ai/jobs/info/687b9066764c3d7411c33bb3?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 19 |
@@ -76,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/687a9602ed63844c944a3f4e?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Jul 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea64694?utm_campaign=1053&utm_source=git)** | Johnstown, PA | On Site | Jul 18 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[AV Intern](https://jobright.ai/jobs/info/687a1c0d2097a271a897d49a?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Jul 18 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/687a0c0d2097a271a897d0d4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 17 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/687a08b2ed63844c944a11e8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 17 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[2025 Summer News Internship](https://jobright.ai/jobs/info/680359a9b0f813893559f241?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Jul 17 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/6879aba4ed63844c9449d4d4?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | Jul 17 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Academic Year 2025-2026](https://jobright.ai/jobs/info/6879a301a7fc8904e396442a?utm_campaign=1053&utm_source=git)** | Hartford, CT | Hybrid | Jul 17 |
@@ -152,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Premier Brands Group Holdings](https://www.linkedin.com/company/80318658)** | **[Textile Intern, Wholesale Apparel](https://jobright.ai/jobs/info/68753e8d5cebcd1dd51bee22?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Latin Artist Relations (Distribution)](https://jobright.ai/jobs/info/68753c4bae2f413e4a5a50f4?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Pastry Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/68752d235cebcd1dd51be576?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jul 14 |
-| **[Deseret Digital Media](http://www.deseretdigital.com)** | **[News Intern, KSL.com (Hybrid, Fall 2025, Sep-Dec)](https://jobright.ai/jobs/info/68778d4d866a435525ab279a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
