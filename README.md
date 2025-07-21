@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2025 Multimedia Producer Internship (Graduate or Undergraduate)](https://jobright.ai/jobs/info/6850dec4b74c6cfc5008801f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Newsgathering Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687def31764c3d7411c3fcd1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jul 21 |
 | ↳ | **[CNNi Business Show Teams Internships: NYC - Fall 2025](https://jobright.ai/jobs/info/687deb32764c3d7411c3fc4b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | ↳ | **[CNN Image and Audio Internships: NYC- Fall 2025](https://jobright.ai/jobs/info/687deab8764c3d7411c3fc26?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CNN Digital Editorial: NYC - Fall 2025](https://jobright.ai/jobs/info/687de3d6ed63844c944b54fd?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 20 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Jul 20 |
 | **[Montage International](https://www.montageinternational.com)** | **[Rooms Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d60?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Jul 20 |
+| ↳ | **[Culinary Internship - Montage Healdsburg](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d6c?utm_campaign=1053&utm_source=git)** | Healdsburg, CA | On Site | Jul 20 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6862031fe72af5bdfa0ef36f?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Jul 20 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687bd8422097a271a8987951?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jul 19 |
 | **[Austin Community College](http://austincc.edu)** | **[ACCTV Intern (Hourly)](https://jobright.ai/jobs/info/687b9066764c3d7411c33bb3?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 19 |
@@ -88,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687aa301ed63844c944a4a0f?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 18 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/687a9602ed63844c944a3f4e?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Jul 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea64694?utm_campaign=1053&utm_source=git)** | Johnstown, PA | On Site | Jul 18 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/687a08b2ed63844c944a11e8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 17 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/687a0c0d2097a271a897d0d4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 17 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[2025 Summer News Internship](https://jobright.ai/jobs/info/680359a9b0f813893559f241?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Jul 17 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/6879aba4ed63844c9449d4d4?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | Jul 17 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Academic Year 2025-2026](https://jobright.ai/jobs/info/6879a301a7fc8904e396442a?utm_campaign=1053&utm_source=git)** | Hartford, CT | Hybrid | Jul 17 |
@@ -152,9 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Jul 14 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/6833fe85f67ea6a1eedfdb87?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Music Publishing](https://jobright.ai/jobs/info/6875760e5cebcd1dd51c0ff8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, USA | On Site | Jul 14 |
-| **[Kiawah Island Golf Resort](http://www.kiawahresort.com/)** | **[Recreation Activities Internship](https://jobright.ai/jobs/info/68755f0e5cebcd1dd51bffb0?utm_campaign=1053&utm_source=git)** | Kiawah Island, SC, USA | On Site | Jul 14 |
-| **[Orlando Health](https://www.orlandohealth.com/)** | **[Video Production Intern – Internal Communications](https://jobright.ai/jobs/info/68755ec8299cbc74b87542f1?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Jul 14 |
-| **[Kiawah Island Golf Resort](http://www.kiawahresort.com/)** | **[Recreation Activities Internship](https://jobright.ai/jobs/info/68755e705cebcd1dd51bff33?utm_campaign=1053&utm_source=git)** | Johns Island, SC, USA | On Site | Jul 14 |
-| ↳ | **[Recreation Activities Internship](https://jobright.ai/jobs/info/68755e57ae2f413e4a5a63c8?utm_campaign=1053&utm_source=git)** | Charleston, SC, USA | On Site | Jul 14 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News - The Culture Show Internship - Fall 2025](https://jobright.ai/jobs/info/687555da5cebcd1dd51bfaa9?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
