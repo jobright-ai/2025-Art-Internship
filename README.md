@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNNi Business Show Teams Internships: NYC - Fall 2025](https://jobright.ai/jobs/info/687deb32764c3d7411c3fc4b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 21 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Newsgathering Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687def31764c3d7411c3fcd1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jul 21 |
+| ↳ | **[CNNi Business Show Teams Internships: NYC - Fall 2025](https://jobright.ai/jobs/info/687deb32764c3d7411c3fc4b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | ↳ | **[CNN Image and Audio Internships: NYC- Fall 2025](https://jobright.ai/jobs/info/687deab8764c3d7411c3fc26?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
 | ↳ | **[Documentary Production Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687dea9ded63844c944b5686?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jul 21 |
 | ↳ | **[CNN FactCheck Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687de74c764c3d7411c3fbfe?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jul 21 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687aa2e1764c3d7411c2eb7c?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 18 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/687a9602ed63844c944a3f4e?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Jul 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea64694?utm_campaign=1053&utm_source=git)** | Johnstown, PA | On Site | Jul 18 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[AV Intern](https://jobright.ai/jobs/info/687a1c0d2097a271a897d49a?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Jul 18 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/687a0c0d2097a271a897d0d4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 17 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[2025 Summer News Internship](https://jobright.ai/jobs/info/680359a9b0f813893559f241?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Jul 17 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Falcon Force Content Creator](https://jobright.ai/jobs/info/6879aba4ed63844c9449d4d4?utm_campaign=1053&utm_source=git)** | Cypress, TX | On Site | Jul 17 |
@@ -104,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Dallas College](https://www.dcccd.edu)** | **[Video Production Intern](https://jobright.ai/jobs/info/6879159ea7fc8904e395f941?utm_campaign=1053&utm_source=git)** | Lecroy Center Campus | On Site | Jul 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern I, News](https://jobright.ai/jobs/info/6672e80cd742a3597e9aba0f?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Jul 17 |
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[News Intern](https://jobright.ai/jobs/info/685ca597f335184ef725dcac?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Jul 17 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - A&R Research (Distribution)](https://jobright.ai/jobs/info/687dff10ed63844c944b6102?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Jul 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Internship](https://jobright.ai/jobs/info/685c4b028146ebc0b1c3809d?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jul 17 |
 | **[PENNYMAC](https://www.pennymac.com)** | **[Intern](https://jobright.ai/jobs/info/685cb63f854b270ab6b68a15?utm_campaign=1053&utm_source=git)** | Westlake Village, CA | On Site | Jul 17 |
 | **[Legends](http://legends.net)** | **[Culinary Intern - Huntington Bank Pavilion at Northerly Island](https://jobright.ai/jobs/info/67c42a01b9609906b74017fa?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiawah Island Golf Resort](http://www.kiawahresort.com/)** | **[Recreation Activities Internship](https://jobright.ai/jobs/info/68755e705cebcd1dd51bff33?utm_campaign=1053&utm_source=git)** | Johns Island, SC, USA | On Site | Jul 14 |
 | ↳ | **[Recreation Activities Internship](https://jobright.ai/jobs/info/68755e57ae2f413e4a5a63c8?utm_campaign=1053&utm_source=git)** | Charleston, SC, USA | On Site | Jul 14 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News - The Culture Show Internship - Fall 2025](https://jobright.ai/jobs/info/687555da5cebcd1dd51bfaa9?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 14 |
-| ↳ | **[GBH News Photojournalism Internship - Fall 2025](https://jobright.ai/jobs/info/686c60e735584b654261e2a3?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
