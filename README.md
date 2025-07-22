@@ -110,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Morning Edition Internship – Fall 2025](https://jobright.ai/jobs/info/687c92aa764c3d7411c396ae?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 18 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '25 - WSFA](https://jobright.ai/jobs/info/687b85baed63844c944a8189?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Jul 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Part-Time Production Assistant](https://jobright.ai/jobs/info/687b3cc72097a271a8982c71?utm_campaign=1053&utm_source=git)** | Yakima, WA | On Site | Jul 18 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687aa301ed63844c944a4a0f?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 18 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687aa2e1764c3d7411c2eb7c?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 18 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/687a9602ed63844c944a3f4e?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Jul 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea64694?utm_campaign=1053&utm_source=git)** | Johnstown, PA | On Site | Jul 18 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/687a08b2ed63844c944a11e8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 17 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Writer - Communications & Marketing](https://jobright.ai/jobs/info/68770061299cbc74b8762906?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Jul 15 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Intern](https://jobright.ai/jobs/info/6876f855ae2f413e4a5b5845?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 15 |
 | **[Reynolds Lake Oconee](http://reynoldslakeoconee.com)** | **[Intern - Turf/Golf Course Maintenance](https://jobright.ai/jobs/info/6876ec37299cbc74b8761cf4?utm_campaign=1053&utm_source=git)** | Greensboro, GA | On Site | Jul 15 |
-| **[Marriott International](http://travel-brilliantly.marriott.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6876bcf65cebcd1dd51cbe81?utm_campaign=1053&utm_source=git)** | 2800 Opryland Drive, Nashville, TN, 37214, US | On Site | Jul 15 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908062?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
