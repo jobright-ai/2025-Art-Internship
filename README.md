@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Presentation (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687efb10db19f31cf0d6e899?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
+| ↳ | **[Internship: Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f0a9d764c3d7411c48647?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
+| ↳ | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f10a4764c3d7411c4892f?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Curatorial Intern](https://jobright.ai/jobs/info/687eebbedb19f31cf0d6e28a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ecaea2097a271a8997ec8?utm_campaign=1053&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 21 |
 | ↳ | **[Internship: Game Presentation (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ec0532097a271a89978d2?utm_campaign=1053&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 21 |
@@ -88,6 +90,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sports Editorial Internships: ATL- Fall 2025](https://jobright.ai/jobs/info/687de4fa2097a271a89915cd?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jul 20 |
 | ↳ | **[CNN Research & Analytics Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687de4cb764c3d7411c3fb11?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jul 20 |
 | ↳ | **[CNN Digital Editorial: NYC - Fall 2025](https://jobright.ai/jobs/info/687de3d6ed63844c944b54fd?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 20 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6862031fe72af5bdfa0ef3ba?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/683d3d4a813731a7dfd64d60?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jul 20 |
 | **[Bright Horizons](http://www.brighthorizons.com)** | **[Content Publisher Co-Op](https://jobright.ai/jobs/info/687eadda2097a271a8996f44?utm_campaign=1053&utm_source=git)** | Newton Centre, MA | Hybrid | Jul 20 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Jul 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marriott International](https://w-hotels.marriott.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6876bcf65cebcd1dd51cbe81?utm_campaign=1053&utm_source=git)** | 2800 Opryland Drive, Nashville, TN, 37214, US | On Site | Jul 15 |
 | **[Sequence Events](https://sequence-events.com/)** | **[Creative Events Intern](https://jobright.ai/jobs/info/6876b3d2ae2f413e4a5b2a84?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed8?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
-| **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - Content Video Production](https://jobright.ai/jobs/info/6876cfd9ae2f413e4a5b3eeb?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 15 |
-| ↳ | **[Fall Internship - MileSplit/FloTrack](https://jobright.ai/jobs/info/6876c07a5cebcd1dd51cc099?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 15 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Fall 2025](https://jobright.ai/jobs/info/687698f8299cbc74b875e80e?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
