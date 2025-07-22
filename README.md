@@ -94,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687bd8422097a271a8987951?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jul 19 |
 | **[Austin Community College](http://austincc.edu)** | **[ACCTV Intern (Hourly)](https://jobright.ai/jobs/info/687b9066764c3d7411c33bb3?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 19 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67d09040b14899d0fd695ef4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 19 |
-| **[Pittsburgh Public Schools](https://www.pghschools.org)** | **[ADJUNCT VISUAL ARTS CERAMICS](https://jobright.ai/jobs/info/687c9b4d764c3d7411c39e32?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Jul 18 |
 | **[CORE Foodservice](https://coregroupsales.com)** | **[The Culinary Edge Fall Strategy Internship](https://jobright.ai/jobs/info/687c8378ed63844c944aead1?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Jul 18 |
 | **[The Culinary Edge](http://theculinaryedge.com/)** | **[The Culinary Edge Fall Strategy Internship](https://jobright.ai/jobs/info/687af84fed63844c944a6225?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | On Site | Jul 18 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[GCU Athletics Media Production - Student Creative Videographer  (FWS/NFWS)](https://jobright.ai/jobs/info/687af703ed63844c944a61c9?utm_campaign=1053&utm_source=git)** | AZ Phoenix | On Site | Jul 18 |
@@ -103,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Morning Edition Internship – Fall 2025](https://jobright.ai/jobs/info/687c92aa764c3d7411c396ae?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 18 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '25 - WSFA](https://jobright.ai/jobs/info/687b85baed63844c944a8189?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Jul 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Part-Time Production Assistant](https://jobright.ai/jobs/info/687b3cc72097a271a8982c71?utm_campaign=1053&utm_source=git)** | Yakima, WA | On Site | Jul 18 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687aa2e1764c3d7411c2eb7c?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 18 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, Sony Pictures Television – Fall 2025](https://jobright.ai/jobs/info/687aa301ed63844c944a4a0f?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 18 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/687a9602ed63844c944a3f4e?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Jul 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern- Spring 2025](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea64694?utm_campaign=1053&utm_source=git)** | Johnstown, PA | On Site | Jul 18 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/687a08b2ed63844c944a11e8?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Fall 2025](https://jobright.ai/jobs/info/687698f8299cbc74b875e80e?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 | ↳ | **[Intern, Film Post Production - Fall 2025](https://jobright.ai/jobs/info/6876af1fae2f413e4a5b2568?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 | **[WiT Group](https://witgroupagency.com)** | **[Videographer Internship](https://jobright.ai/jobs/info/687695a1ae2f413e4a5b11e8?utm_campaign=1053&utm_source=git)** | Columbia, SC | Hybrid | Jul 15 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908051?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
