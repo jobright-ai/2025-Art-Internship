@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Emerging Arts Leader Internship: Exhibitions & Publications](https://jobright.ai/jobs/info/68804d712097a271a89a29cb?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Jul 22 |
+| ↳ | **[Emerging Arts Leader Internship: Individual Giving](https://jobright.ai/jobs/info/6880526f764c3d7411c51696?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Jul 22 |
+| ↳ | **[Emerging Arts Leader Internship: Institutional Giving](https://jobright.ai/jobs/info/688054a69f728042457097e2?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Jul 22 |
+| ↳ | **[Emerging Arts Leader Internship: Public Engagement](https://jobright.ai/jobs/info/6880503d764c3d7411c51481?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Jul 22 |
+| **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/6880522d2097a271a89a2e1c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 22 |
+| **[The Ohio State University](http://www.osu.edu/)** | **[Student Assistant, Athletics LED Content](https://jobright.ai/jobs/info/688058e39f72804245709bb4?utm_campaign=1053&utm_source=git)** | Columbus Campus | On Site | Jul 22 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68802e3b764c3d7411c4fffa?utm_campaign=1053&utm_source=git)** | US - Remote, OH | Remote | Jul 22 |
 | **[Hoop Brothers](https://hoopbrothers.com/)** | **[Videography and Video Editing Internship](https://jobright.ai/jobs/info/688004892097a271a89a030e?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Jul 22 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Wasserman Music Internship](https://jobright.ai/jobs/info/687fff88764c3d7411c4e255?utm_campaign=1053&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Jul 22 |
@@ -77,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Curatorial Intern](https://jobright.ai/jobs/info/687eebbedb19f31cf0d6e28a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 21 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/687ee4342097a271a89989ac?utm_campaign=1053&utm_source=git)** | Delta Center | On Site | Jul 21 |
 | ↳ | **[Game Presentation Intern](https://jobright.ai/jobs/info/687edab1764c3d7411c46b75?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 21 |
+| **[Granite School District](http://www.graniteschools.org)** | **[Stage Crew - Student](https://jobright.ai/jobs/info/68804709764c3d7411c50c06?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 21 |
 | **[Massanutten Resort](http://massresort.com)** | **[Internship - Activities](https://jobright.ai/jobs/info/687ed440764c3d7411c46877?utm_campaign=1053&utm_source=git)** | McGaheysville, VA | On Site | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ecaea2097a271a8997ec8?utm_campaign=1053&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 21 |
 | **[Grind By Faith Music Group](GrindByFaith.org)** | **[A&R Intern](https://jobright.ai/jobs/info/687f605c764c3d7411c4b335?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 21 |
@@ -89,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Deca Defense](https://www.decadefense.com/)** | **[Internship / Unreal Engine Cinematic / UE5 / Houdini VFX /](https://jobright.ai/jobs/info/687ec70e2097a271a8997d0a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 21 |
 | **[City of St. Louis Park](http://www.stlouispark.org)** | **[Recreation Intern](https://jobright.ai/jobs/info/687e97d12097a271a89964b3?utm_campaign=1053&utm_source=git)** | St Louis Park, MN | On Site | Jul 21 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Intern, Baseball Video and Analytics](https://jobright.ai/jobs/info/687e9541764c3d7411c44958?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 21 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Nonfiction - Fall 2025](https://jobright.ai/jobs/info/687e92ffdb19f31cf0d6b483?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 21 |
 | **[TEGNA](http://www.tegna.com)** | **[Production Assistant](https://jobright.ai/jobs/info/687e92f0764c3d7411c447ea?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Jul 21 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Nonfiction - Fall 2025](https://jobright.ai/jobs/info/687e91ae2097a271a8996116?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 21 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Murray State Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e8895764c3d7411c44206?utm_campaign=1053&utm_source=git)** | Murray, KY | On Site | Jul 21 |
 | **[University of South Florida](http://www.usf.edu)** | **[Athletics Assistant- Olympic Sports Equipment Intern](https://jobright.ai/jobs/info/687e8337764c3d7411c44004?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jul 21 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Central Arkansas Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e927d2097a271a89961e2?utm_campaign=1053&utm_source=git)** | Conway, AR | On Site | Jul 21 |
@@ -123,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6862031fe72af5bdfa0ef402?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jul 20 |
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6862031fe72af5bdfa0ef3ba?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 20 |
 | **[Making It With Terry Wollman](terrywollman.com/podcast/)** | **[Podcast Team Intern](https://jobright.ai/jobs/info/687da314ed63844c944b2e64?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 20 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[ARC News Intern (KSNV) - Summer 2025](https://jobright.ai/jobs/info/67ecfb47d0217b93a04da585?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jul 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/683d3d4a813731a7dfd64d60?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jul 20 |
 | **[Savannah Ghost Pirates](http://ghostpirateshockey.com)** | **[Community Event Intern](https://jobright.ai/jobs/info/687eb9722097a271a899762f?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jul 20 |
 | ↳ | **[Game Day Operations Intern](https://jobright.ai/jobs/info/687eb1f62097a271a899716b?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Jul 20 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[GBH News "Under the Radar" Internship - Fall 2025](https://jobright.ai/jobs/info/686c76bc35584b6542d9c4b1?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, Unpaid](https://jobright.ai/jobs/info/67b2c0494a6e4bdfad6ff7fb?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Jul 18 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Event Production Intern](https://jobright.ai/jobs/info/687ca3d62097a271a898c3a5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 18 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Television Video Producer Intern](https://jobright.ai/jobs/info/687ca5bb764c3d7411c3a8ad?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 18 |
-| **[Dallas Wings](http://dallaswingsbasketball.com)** | **[Game Entertainment Internship - Fall - College Credit ONLY](https://jobright.ai/jobs/info/687ca5f2764c3d7411c3a8d7?utm_campaign=1053&utm_source=git)** | Arlington, TX | On Site | Jul 18 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Morning Edition Internship – Fall 2025](https://jobright.ai/jobs/info/687c92aa764c3d7411c396ae?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 18 |
-| **[Austin PBS](http://www.austinpbs.org)** | **[Internship / Weekly News Intern](https://jobright.ai/jobs/info/687ca56a2097a271a898c563?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 18 |
-| ↳ | **[Internship / Special Project Archive Intern](https://jobright.ai/jobs/info/687ca531764c3d7411c3a852?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 18 |
-| ↳ | **[Internship / Archives Intern](https://jobright.ai/jobs/info/687ca0f02097a271a898c1c7?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 18 |
-| ↳ | **[Internship / Production Intern](https://jobright.ai/jobs/info/687b5bfd764c3d7411c32220?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 18 |
-| **[The Ambony](http://www.manofthehourmag.com/)** | **[International Editor (Internship)](https://jobright.ai/jobs/info/687ca73c764c3d7411c3a9bc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
