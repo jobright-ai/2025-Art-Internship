@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Programming Admin & Artist Services Intern](https://jobright.ai/jobs/info/68813809f4f06100f3a25389?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 23 |
+| **[D.C. United](http://dcunited.com)** | **[Internship: Video Production Intern - Fall 2025](https://jobright.ai/jobs/info/688130dd29ad6b2744ae0141?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 23 |
+| **[Puff Media](https://www.puffmedia.co/)** | **[Content Intern](https://jobright.ai/jobs/info/68812524f4f06100f3a247b7?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Jul 23 |
 | **[Defense of Democracy](https://defenseofdemocracy.org/)** | **[Podcast Editor (Volunteer Position)](https://jobright.ai/jobs/info/6880f8abf4f06100f3a228ac?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Jul 23 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Event Operations Intern - THE PLAYERS](https://jobright.ai/jobs/info/6880f30ef4f06100f3a22530?utm_campaign=1053&utm_source=git)** | PGA TOUR Global Home - Ponte Vedra Beach, FL | On Site | Jul 23 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Internship  Unreal Engine Cinematic / UE5 / Houdini VFX /](https://jobright.ai/jobs/info/68810dadf4f06100f3a236aa?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 23 |
@@ -123,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Good Morning Music](https://goodmornmusic.com)** | **[Music Publishing - Internship](https://jobright.ai/jobs/info/687eacc22097a271a8996ed2?utm_campaign=1053&utm_source=git)** | Boise, ID | Hybrid | Jul 21 |
 | **[City of St. Louis Park](http://www.stlouispark.org)** | **[Recreation Intern](https://jobright.ai/jobs/info/687e97d12097a271a89964b3?utm_campaign=1053&utm_source=git)** | St Louis Park, MN | On Site | Jul 21 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Intern, Baseball Video and Analytics](https://jobright.ai/jobs/info/687e9541764c3d7411c44958?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 21 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Nonfiction - Fall 2025](https://jobright.ai/jobs/info/687e92ffdb19f31cf0d6b483?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 21 |
 | **[TEGNA](http://www.tegna.com)** | **[Production Assistant](https://jobright.ai/jobs/info/687e92f0764c3d7411c447ea?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Jul 21 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Nonfiction - Fall 2025](https://jobright.ai/jobs/info/687e91ae2097a271a8996116?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 21 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Murray State Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e8895764c3d7411c44206?utm_campaign=1053&utm_source=git)** | Murray, KY | On Site | Jul 21 |
 | **[University of South Florida](http://www.usf.edu)** | **[Athletics Assistant- Olympic Sports Equipment Intern](https://jobright.ai/jobs/info/687e8337764c3d7411c44004?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Jul 21 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Central Arkansas Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e927d2097a271a89961e2?utm_campaign=1053&utm_source=git)** | Conway, AR | On Site | Jul 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CNN Research & Analytics Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687de4cb764c3d7411c3fb11?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jul 20 |
 | ↳ | **[CNN Digital Editorial: NYC - Fall 2025](https://jobright.ai/jobs/info/687de3d6ed63844c944b54fd?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 20 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6862031fe72af5bdfa0ef402?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jul 20 |
-| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6862031fe72af5bdfa0ef3ba?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 20 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[ARC News Intern (KSNV) - Summer 2025](https://jobright.ai/jobs/info/67ecfb47d0217b93a04da585?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jul 20 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/683d3d4a813731a7dfd64d60?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
