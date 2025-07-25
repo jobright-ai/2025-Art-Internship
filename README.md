@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[AI Tech Explained Writer, Internship, (Remote)](https://jobright.ai/jobs/info/6883f5a46fcd973d15ae4d28?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
+| **[Art Works For Change](http://www.artworksforchange.org)** | **[Volunteer: Arts and environmental activism: environmental leadership program](https://jobright.ai/jobs/info/6883e562b54cac0f1e73ab66?utm_campaign=1053&utm_source=git)** | Oakland, CA | Remote | Jul 25 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Weather Producer Intern](https://jobright.ai/jobs/info/6883d53a835a903aa07f81a1?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jul 25 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[F&B Front of House Intern/Trainee (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/6883d1bb6fcd973d15ae36e4?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Jul 25 |
 | **[YourBookTeam](https://yourbookteam.com)** | **[AI-Assisted Writing Intern](https://jobright.ai/jobs/info/6883c7206fcd973d15ae3133?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
@@ -64,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/6883db1b6fcd973d15ae3df0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[upfeat](http://upfeat.com)** | **[Content Journalism Contributor](https://jobright.ai/jobs/info/6883ba66b54cac0f1e739190?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[World Monuments Fund](http://www.wmf.org/)** | **[Archives Intern](https://jobright.ai/jobs/info/6883b6066fcd973d15ae2854?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 25 |
-| **[Deca Defense](https://www.decadefense.com/)** | **[Internship 3D Cinematics, Visual VX, (Unreal Engine (UE), Blender, Houdini)](https://jobright.ai/jobs/info/6883ade9835a903aa07f6c13?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator for TikTok](https://jobright.ai/jobs/info/68837c05835a903aa07f5e51?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
+| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Scriptwriter](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36b5?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Jobgether](https://jobgether.com/)** | **[Stock Market Reporter Contract Writer](https://jobright.ai/jobs/info/688348506fcd973d15ae0e0a?utm_campaign=1053&utm_source=git)** | Michigan, United States | Hybrid | Jul 25 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hershey Country Club Culinary Intern - Fall 2025](https://jobright.ai/jobs/info/688321f56fcd973d15adfa68?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jul 24 |
 | ↳ | **[The Hotel Hershey Culinary Intern - Spring 2026](https://jobright.ai/jobs/info/68832185835a903aa07f3e50?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jul 24 |
@@ -99,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Neon Coast](https://www.neon-coast.com)** | **[2025 Fall Internships - Artist Management & Digital / Fan Engagement](https://jobright.ai/jobs/info/6882fc9ab54cac0f1e734374?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jul 24 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network – Fall 2025](https://jobright.ai/jobs/info/68826c6e6fcd973d15ad900a?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jul 24 |
 | **[Marketing Choices](https://marketingchoices.com)** | **[Content Editor](https://jobright.ai/jobs/info/688267a5835a903aa07ed475?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Jul 24 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ News Internship – Fall 2025](https://jobright.ai/jobs/info/688265c2b54cac0f1e72f30f?utm_campaign=1053&utm_source=git)** | PA, Altoona | On Site | Jul 24 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ News Internship – Fall 2025](https://jobright.ai/jobs/info/688265feb54cac0f1e72f357?utm_campaign=1053&utm_source=git)** | PA, Altoona | On Site | Jul 24 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Caf Show Engineer (Federal Work-Study)](https://jobright.ai/jobs/info/6882659b835a903aa07ed291?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Jul 24 |
 | ↳ | **[Caf Show Engineer](https://jobright.ai/jobs/info/6882650a835a903aa07ed1e3?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Jul 24 |
 | **[Clutch Content Partners](http://www.likesuperclutch.com)** | **[Production Intern](https://jobright.ai/jobs/info/6882f8ec835a903aa07f210e?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 24 |
@@ -128,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Paul Smith](https://www.paulsmith.co.uk)** | **[Press & VIP, Intern North America](https://jobright.ai/jobs/info/6881a12816ea5743a373a95e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | ↳ | **[Press & VIP, Intern - Los Angeles](https://jobright.ai/jobs/info/6881a8c129ad6b2744ae3f5a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Children's Editorial Intern Fall 2025](https://jobright.ai/jobs/info/68816ae0f4f06100f3a26d43?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network – Fall 2025](https://jobright.ai/jobs/info/6881643816ea5743a3738bf0?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 23 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network – Fall 2025](https://jobright.ai/jobs/info/6881643716ea5743a3738beb?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 23 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Abrams Comic Arts Editorial Intern Fall 2025](https://jobright.ai/jobs/info/6881619e16ea5743a3738ab7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Concord](https://concord.com/)** | **[Publishing A&R Intern](https://jobright.ai/jobs/info/6881a17516ea5743a373a99b?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jul 23 |
 | ↳ | **[Concord Originals Intern](https://jobright.ai/jobs/info/6881a50016ea5743a373ac6a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](http://www.trimble.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6881f8d3ee15177ae9719516?utm_campaign=1053&utm_source=git)** | Ohio, United States | On Site | Jul 23 |
 | **[SideCar Studios](http://www.WeAreSideCar.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6881d93741fbda106ee6dc50?utm_campaign=1053&utm_source=git)** | Grand Rapids Metro | On Site | Jul 23 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2025 FOX News Media Internship Program - Dallas, TX](https://jobright.ai/jobs/info/682bcc05107266e4fa0b92df?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Jul 23 |
-| **[The Ohio State University](http://www.osu.edu/)** | **[Student Assistant, Athletics LED Content](https://jobright.ai/jobs/info/6880f33216ea5743a37344ff?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Jul 23 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Hardy Equine Sports Management Intern Pool - Auburn Equestrian](https://jobright.ai/jobs/info/6880db82f4f06100f3a21767?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
