@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hershey Country Club Culinary Intern - Fall 2025](https://jobright.ai/jobs/info/688321f56fcd973d15adfa68?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jul 24 |
+| ↳ | **[The Hotel Hershey Culinary Intern - Spring 2026](https://jobright.ai/jobs/info/68832185835a903aa07f3e50?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jul 24 |
 | **[Balance Now](https://www.balance.ca)** | **[Writing/Journalism Team Member](https://jobright.ai/jobs/info/68830e5ab54cac0f1e7352f5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 24 |
 | **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Golf and Grounds Intern, 2025 Fall/Winter Season](https://jobright.ai/jobs/info/688306f0835a903aa07f2cb7?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Content & Podcasts](https://jobright.ai/jobs/info/68830645835a903aa07f2c2b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 24 |
@@ -82,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Neon Coast](https://www.neon-coast.com)** | **[2025 Fall Internships - Artist Management & Digital / Fan Engagement](https://jobright.ai/jobs/info/6882fc9ab54cac0f1e734374?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jul 24 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network – Fall 2025](https://jobright.ai/jobs/info/68826c6e6fcd973d15ad900a?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jul 24 |
 | **[Marketing Choices](https://marketingchoices.com)** | **[Content Editor](https://jobright.ai/jobs/info/688267a5835a903aa07ed475?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Jul 24 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ News Internship – Fall 2025](https://jobright.ai/jobs/info/688265c2b54cac0f1e72f30f?utm_campaign=1053&utm_source=git)** | PA, Altoona | On Site | Jul 24 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ News Internship – Fall 2025](https://jobright.ai/jobs/info/688265feb54cac0f1e72f357?utm_campaign=1053&utm_source=git)** | PA, Altoona | On Site | Jul 24 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Caf Show Engineer (Federal Work-Study)](https://jobright.ai/jobs/info/6882659b835a903aa07ed291?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Jul 24 |
 | ↳ | **[Caf Show Engineer](https://jobright.ai/jobs/info/6882650a835a903aa07ed1e3?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Jul 24 |
 | **[Clutch Content Partners](http://www.likesuperclutch.com)** | **[Production Intern](https://jobright.ai/jobs/info/6882f8ec835a903aa07f210e?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 24 |
@@ -108,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Paul Smith](https://www.paulsmith.co.uk)** | **[Press & VIP, Intern North America](https://jobright.ai/jobs/info/6881a12816ea5743a373a95e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | ↳ | **[Press & VIP, Intern - Los Angeles](https://jobright.ai/jobs/info/6881a8c129ad6b2744ae3f5a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Children's Editorial Intern Fall 2025](https://jobright.ai/jobs/info/68816ae0f4f06100f3a26d43?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network – Fall 2025](https://jobright.ai/jobs/info/6881643716ea5743a3738beb?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 23 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network – Fall 2025](https://jobright.ai/jobs/info/6881643816ea5743a3738bf0?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 23 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Cinematic VFX Internship (Unreal Engine 5 + Houdini)](https://jobright.ai/jobs/info/688161c9f4f06100f3a26893?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 23 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Abrams Comic Arts Editorial Intern Fall 2025](https://jobright.ai/jobs/info/6881619e16ea5743a3738ab7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Concord](https://concord.com/)** | **[Publishing A&R Intern](https://jobright.ai/jobs/info/6881a17516ea5743a373a99b?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jul 23 |
@@ -137,17 +139,16 @@ For a complete list, click the following sortable link below:
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2025 FOX News Media Internship Program - Dallas, TX](https://jobright.ai/jobs/info/682bcc05107266e4fa0b92df?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Jul 23 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Student Assistant, Athletics LED Content](https://jobright.ai/jobs/info/6880f33216ea5743a37344ff?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Jul 23 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Hardy Equine Sports Management Intern Pool - Auburn Equestrian](https://jobright.ai/jobs/info/6880db82f4f06100f3a21767?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Jul 23 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6880ddfcf4f06100f3a218e1?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Jul 23 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WFSB](https://jobright.ai/jobs/info/6880ff2af4f06100f3a22c8f?utm_campaign=1053&utm_source=git)** | Rocky Hill, CT | On Site | Jul 23 |
 | **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/6880aeed16ea5743a373204b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 22 |
 | **[Norfolk Admirals ](https://www.norfolkadmirals.com/)** | **[Entertainment/Production Internship](https://jobright.ai/jobs/info/6881be4541fbda106ee6c91a?utm_campaign=1053&utm_source=git)** | Norfolk, VA | On Site | Jul 22 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Music Graduate Assistant](https://jobright.ai/jobs/info/6880952d764c3d7411c54db1?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Jul 22 |
 | **[SXSW](https://www.sxsw.com/pitch)** | **[(I) Film & TV Submissions Intern](https://jobright.ai/jobs/info/6881a2ae29ad6b2744ae3b05?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 22 |
 | **[Indy Fuel Hockey Club](https://www.indyfuelhockey.com)** | **[Videography Intern](https://jobright.ai/jobs/info/688158d516ea5743a37386f2?utm_campaign=1053&utm_source=git)** | Fishers, IN | On Site | Jul 22 |
-| **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Emerging Arts Leader Internship: Institutional Giving](https://jobright.ai/jobs/info/688054a69f728042457097e2?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Jul 22 |
-| ↳ | **[Emerging Arts Leader Internship: Exhibitions & Publications](https://jobright.ai/jobs/info/68804d712097a271a89a29cb?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Jul 22 |
+| **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Emerging Arts Leader Internship: Individual Giving](https://jobright.ai/jobs/info/6880526f764c3d7411c51696?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Jul 22 |
 | ↳ | **[Emerging Arts Leader Internship: Public Engagement](https://jobright.ai/jobs/info/6880503d764c3d7411c51481?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Jul 22 |
-| ↳ | **[Emerging Arts Leader Internship: Individual Giving](https://jobright.ai/jobs/info/6880526f764c3d7411c51696?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Jul 22 |
+| ↳ | **[Emerging Arts Leader Internship: Institutional Giving](https://jobright.ai/jobs/info/688054a69f728042457097e2?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Jul 22 |
+| ↳ | **[Emerging Arts Leader Internship: Exhibitions & Publications](https://jobright.ai/jobs/info/68804d712097a271a89a29cb?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Jul 22 |
 | **[Open Road Integrated Media Inc.](http://www.openroadmedia.com)** | **[Content Writing Intern (FT/Paid)](https://jobright.ai/jobs/info/6880522d2097a271a89a2e1c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 22 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Boston Programming Intern - Academic Year 25/26](https://jobright.ai/jobs/info/6880a7e229ad6b2744adacaa?utm_campaign=1053&utm_source=git)** | Needham, MA | Hybrid | Jul 22 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Student Assistant, Athletics LED Content](https://jobright.ai/jobs/info/688058e39f72804245709bb4?utm_campaign=1053&utm_source=git)** | Columbus Campus | On Site | Jul 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SideCar Studios](http://www.WeAreSideCar.com/)** | **[Commercial Video Editing Intern](https://jobright.ai/jobs/info/6881d93741fbda106ee6dc50?utm_campaign=1053&utm_source=git)** | Grand Rapids Metro | On Site | Jul 22 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Fight Pass Intern](https://jobright.ai/jobs/info/6880dcfcf4f06100f3a21842?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jul 22 |
 | **[Portray'd Productions, LLC](http://www.portraydproductions.com)** | **[Intern](https://jobright.ai/jobs/info/68810ddbf4f06100f3a236bd?utm_campaign=1053&utm_source=git)** | Wilmington, NC | On Site | Jul 22 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c561eb60544c52d762dcf2?utm_campaign=1053&utm_source=git)** | Princeton, NJ | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
