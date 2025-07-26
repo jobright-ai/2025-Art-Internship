@@ -77,6 +77,7 @@ Job ID : 260319](https://jobright.ai/jobs/info/6884982c4174df41e0f94cd1?utm_camp
 | **[Triangle Media Partners](https://chapelhillmagazine.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6883c430835a903aa07f77f0?utm_campaign=1053&utm_source=git)** | Chapel Hill, NC | Hybrid | Jul 25 |
 | **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/6883db1b6fcd973d15ae3df0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[upfeat](http://upfeat.com)** | **[Content Journalism Contributor](https://jobright.ai/jobs/info/6883ba66b54cac0f1e739190?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
+| **[Arson Theory](https://www.arsontheory.com/)** | **[A&R Intern](https://jobright.ai/jobs/info/6884d5c0b651c92cb78aa75b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[World Monuments Fund](http://www.wmf.org/)** | **[Archives Intern](https://jobright.ai/jobs/info/6883b6066fcd973d15ae2854?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/6867e3fd35584b654202eb83?utm_campaign=1053&utm_source=git)** | Pasadena, CA | On Site | Jul 25 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator for TikTok](https://jobright.ai/jobs/info/68837c05835a903aa07f5e51?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
@@ -157,5 +158,4 @@ Job ID : 260319](https://jobright.ai/jobs/info/6884982c4174df41e0f94cd1?utm_camp
 | **[Beia](https://beiabeauty.com/)** | **[TikTok Content Creator and Model](https://jobright.ai/jobs/info/6881b04416ea5743a373b642?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Programming Admin & Artist Services Intern](https://jobright.ai/jobs/info/68813809f4f06100f3a25389?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[D.C. United](http://dcunited.com)** | **[Internship: Video Production Intern - Fall 2025](https://jobright.ai/jobs/info/688130dd29ad6b2744ae0141?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 23 |
-| **[PGA TOUR](http://www.pgatour.com)** | **[Event Operations Intern - THE PLAYERS](https://jobright.ai/jobs/info/68814aa116ea5743a3737e09?utm_campaign=1053&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
