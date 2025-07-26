@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LameRo](https://www.linkedin.com/company/107191997)** | **[Video Editor Short-Form Content](https://jobright.ai/jobs/info/68843bf9fbbf032d00066313?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Festival Orchestra & Artist Services Intern](https://jobright.ai/jobs/info/68842b076fcd973d15ae6088?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | ↳ | **[Fine Arts Intern](https://jobright.ai/jobs/info/68842829b54cac0f1e73c717?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Willie O'Ree Internship, Boston Bruins](https://jobright.ai/jobs/info/6884223f835a903aa07fa371?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Creator Operations Intern – Botfluencer Support, Internship, (Remote)](https://jobright.ai/jobs/info/68840c9f835a903aa07f9d9c?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Production Student Assistant](https://jobright.ai/jobs/info/6884089e6fcd973d15ae5344?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Jul 25 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Internship 3D Cinematics, 3D Generalist, Visual VX, (Unreal Engine (UE), Blender, Houdini)](https://jobright.ai/jobs/info/688407c7835a903aa07f9baf?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
+| **[National Center on Sexual Exploitation](https://endsexualexploitation.org/)** | **[Internship: Media Production](https://jobright.ai/jobs/info/688438d24174df41e0f9025a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[AI Tech Explained Writer, Internship, (Remote)](https://jobright.ai/jobs/info/6883f5a46fcd973d15ae4d28?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Art Works For Change](http://www.artworksforchange.org)** | **[Volunteer: Arts and environmental activism: environmental leadership program](https://jobright.ai/jobs/info/6883e562b54cac0f1e73ab66?utm_campaign=1053&utm_source=git)** | Oakland, CA | Remote | Jul 25 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Weather Producer Intern](https://jobright.ai/jobs/info/6883d53a835a903aa07f81a1?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jul 25 |
@@ -73,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[upfeat](http://upfeat.com)** | **[Content Journalism Contributor](https://jobright.ai/jobs/info/6883ba66b54cac0f1e739190?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[World Monuments Fund](http://www.wmf.org/)** | **[Archives Intern](https://jobright.ai/jobs/info/6883b6066fcd973d15ae2854?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator for TikTok](https://jobright.ai/jobs/info/68837c05835a903aa07f5e51?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
+| **[Lely](https://www.lely.com/jp/)** | **[Stage bij Lely Center Bunschoten](https://jobright.ai/jobs/info/682de306c14ef2216f6c2509?utm_campaign=1053&utm_source=git)** | Nederland, TX | On Site | Jul 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 25 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Scriptwriter](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36b5?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Jobgether](https://jobgether.com/)** | **[Stock Market Reporter Contract Writer](https://jobright.ai/jobs/info/688348506fcd973d15ae0e0a?utm_campaign=1053&utm_source=git)** | Michigan, United States | Hybrid | Jul 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f958f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 23 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Event Operations Intern - THE PLAYERS](https://jobright.ai/jobs/info/6880f30ef4f06100f3a22530?utm_campaign=1053&utm_source=git)** | PGA TOUR Global Home - Ponte Vedra Beach, FL | On Site | Jul 23 |
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, HBCU Sports Programming - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa5ef?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
-| ↳ | **[Fall Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/686423be7e219f3eff523dca?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c561eb60544c52d762dcdc?utm_campaign=1053&utm_source=git)** | Pasadena, CA | On Site | Jul 23 |
-| **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Podcast Producer - HBCU - Part Time](https://jobright.ai/jobs/info/6864441df1db023575eaa605?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
