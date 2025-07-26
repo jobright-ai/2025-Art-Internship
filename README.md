@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kalo](www.joinkalo.com)** | **[Social Media Videographer/Editor Internship](https://jobright.ai/jobs/info/68852f71fbbf032d0006c30f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 26 |
+| **[Deca Defense](https://www.decadefense.com/)** | **[Internship 3D Cinematics, 3D Generalist, Visual VX, /Unreal Engine (UE), Blender, Houdini/](https://jobright.ai/jobs/info/68852c2afbbf032d0006c2c0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
 | **[28th&Park](www.28thpark.com)** | **[Podcast & Production Intern](https://jobright.ai/jobs/info/6884fcc6fbbf032d0006b969?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 26 |
 | **[Jpixx LLC](https://epixx.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6884d26f4174df41e0f95562?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Jul 26 |
-| **[Deca Defense](https://www.decadefense.com/)** | **[Internship 3D Cinematics, 3D Generalist, Visual VX, /Unreal Engine (UE), Blender, Houdini)](https://jobright.ai/jobs/info/6884c7ffb651c92cb78aa4cf?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Singer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36d8?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[News Writing / Reporting - Public Information Intern - News and Content - Spanish
 Job ID : 260319](https://jobright.ai/jobs/info/6884982c4174df41e0f94cd1?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jul 26 |
@@ -78,6 +79,7 @@ Job ID : 260319](https://jobright.ai/jobs/info/6884982c4174df41e0f94cd1?utm_camp
 | **[AccuWeather](http://www.accuweather.com)** | **[Weather Producer Intern](https://jobright.ai/jobs/info/6883d53a835a903aa07f81a1?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jul 25 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[F&B Front of House Intern/Trainee (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/6883d1bb6fcd973d15ae36e4?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Jul 25 |
 | **[Triangle Media Partners](https://chapelhillmagazine.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6883c430835a903aa07f77f0?utm_campaign=1053&utm_source=git)** | Chapel Hill, NC | Hybrid | Jul 25 |
+| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Jul 25 |
 | **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/6883db1b6fcd973d15ae3df0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[upfeat](http://upfeat.com)** | **[Content Journalism Contributor](https://jobright.ai/jobs/info/6883ba66b54cac0f1e739190?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Arson Theory](https://www.arsontheory.com/)** | **[A&R Intern](https://jobright.ai/jobs/info/6884d5c0b651c92cb78aa75b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
@@ -156,6 +158,4 @@ Job ID : 260319](https://jobright.ai/jobs/info/6884982c4174df41e0f94cd1?utm_camp
 | **[Concord](https://concord.com/)** | **[Publishing A&R Intern](https://jobright.ai/jobs/info/6881a17516ea5743a373a99b?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jul 23 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Calendar Editorial Intern Fall 2025](https://jobright.ai/jobs/info/68815ff116ea5743a37389e7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[K12 Zone Content & Event Intern, Part-Time](https://jobright.ai/jobs/info/68815cc629ad6b2744ae19c0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 23 |
-| **[ABRAMS](http://www.abramsbooks.com)** | **[Managing Editorial Intern Fall 2025](https://jobright.ai/jobs/info/6881ab6a16ea5743a373b353?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[KATV 2025 Fall Intern](https://jobright.ai/jobs/info/6881476916ea5743a3737beb?utm_campaign=1053&utm_source=git)** | 10 Turtle Creek Lane, Little Rock, AR, 72202, US | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
