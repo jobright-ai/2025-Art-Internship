@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MHG Events](https://www.maschospitalitygroup.com/)** | **[Content Creator](https://jobright.ai/jobs/info/688646194174df41e0f99fdd?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jul 27 |
-| **[Pulchritude Fashion](pulchritudefashion.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/68862fc8fbbf032d0006fbb0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Internship 3D Cinematics, 3D Generalist, Visual VX, /Unreal Engine (UE), Blender, Houdini/](https://jobright.ai/jobs/info/68861124fbbf032d0006f83a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Screenwriter](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36c4?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[News Writing / Reporting - Public Information Intern - News and Content - Kiswahili
@@ -147,6 +146,7 @@ Job ID : 260319](https://jobright.ai/jobs/info/6884982c4174df41e0f94cd1?utm_camp
 | ↳ | **[Film Feature Journalist (Internship)](https://jobright.ai/jobs/info/688252e3835a903aa07ecadb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 24 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684d0a44ef735fe085bd08da?utm_campaign=1053&utm_source=git)** | Portland, ME | On Site | Jul 24 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[KATV 2025 Fall Intern](https://jobright.ai/jobs/info/6881f7ffee15177ae97194a8?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jul 24 |
+| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[6-MONTH TRAINING PROGRAM (NY)](https://jobright.ai/jobs/info/68648a7584153b63ff401d80?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa6ae?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 24 |
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9586?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Film Feature Journalist (Internship)](https://jobright.ai/jobs/info/6881e7baee15177ae9718d2d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 23 |
