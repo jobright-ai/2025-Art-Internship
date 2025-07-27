@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[News Writing / Reporting - Public Information Intern - News and Content - Kiswahili
+Job ID : 260251](https://jobright.ai/jobs/info/6885e7a2fbbf032d0006f69b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jul 27 |
 | **[Keysha](https://keysha.ai/)** | **[Digital Content Creator](https://jobright.ai/jobs/info/6885c259fbbf032d0006ebec?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Expoline Consulting](https://www.linkedin.com/company/107689774)** | **[Short-Form Video Content Intern (Reels, TikTok, Shorts)](https://jobright.ai/jobs/info/6885c216fbbf032d0006ebd3?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Kalo](www.joinkalo.com)** | **[Social Media Videographer/Editor Internship](https://jobright.ai/jobs/info/68852f71fbbf032d0006c30f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 26 |
@@ -157,5 +159,4 @@ Job ID : 260319](https://jobright.ai/jobs/info/6884982c4174df41e0f94cd1?utm_camp
 | ↳ | **[Press & VIP, Intern - Los Angeles](https://jobright.ai/jobs/info/6881a8c129ad6b2744ae3f5a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Children's Editorial Intern Fall 2025](https://jobright.ai/jobs/info/68816ae0f4f06100f3a26d43?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network – Fall 2025](https://jobright.ai/jobs/info/6881643716ea5743a3738beb?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 23 |
-| **[ABRAMS](http://www.abramsbooks.com)** | **[Abrams Comic Arts Editorial Intern Fall 2025](https://jobright.ai/jobs/info/6881619e16ea5743a3738ab7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
