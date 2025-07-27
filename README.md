@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deca Defense](https://www.decadefense.com/)** | **[Internship 3D Cinematics, 3D Generalist, Visual VX, /Unreal Engine (UE), Blender, Houdini/](https://jobright.ai/jobs/info/68861124fbbf032d0006f83a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[News Writing / Reporting - Public Information Intern - News and Content - Kiswahili
 Job ID : 260251](https://jobright.ai/jobs/info/6885e7a2fbbf032d0006f69b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jul 27 |
 | **[Keysha](https://keysha.ai/)** | **[Digital Content Creator](https://jobright.ai/jobs/info/6885c259fbbf032d0006ebec?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
@@ -94,6 +95,7 @@ Job ID : 260319](https://jobright.ai/jobs/info/6884982c4174df41e0f94cd1?utm_camp
 | **[Lely](https://www.lely.com/jp/)** | **[Stage bij Lely Center Bunschoten](https://jobright.ai/jobs/info/682de306c14ef2216f6c2509?utm_campaign=1053&utm_source=git)** | Nederland, TX | On Site | Jul 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 25 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Scriptwriter](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36b5?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
+| **[Ultimate Fighting Championship](http://UFC.com)** | **[Spanish Production Intern - Fall 2025](https://jobright.ai/jobs/info/6865cd92f28b0573006e7af3?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Jul 25 |
 | **[Jobgether](https://jobgether.com/)** | **[Stock Market Reporter Contract Writer](https://jobright.ai/jobs/info/688348506fcd973d15ae0e0a?utm_campaign=1053&utm_source=git)** | Michigan, United States | Hybrid | Jul 25 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hershey Country Club Culinary Intern - Fall 2025](https://jobright.ai/jobs/info/688321f56fcd973d15adfa68?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jul 24 |
 | ↳ | **[The Hotel Hershey Culinary Intern - Spring 2026](https://jobright.ai/jobs/info/68832185835a903aa07f3e50?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Jul 24 |
@@ -157,6 +159,4 @@ Job ID : 260319](https://jobright.ai/jobs/info/6884982c4174df41e0f94cd1?utm_camp
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9585?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Jul 23 |
 | **[Paul Smith](https://www.paulsmith.co.uk)** | **[Press & VIP, Intern North America](https://jobright.ai/jobs/info/6881a12816ea5743a373a95e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | ↳ | **[Press & VIP, Intern - Los Angeles](https://jobright.ai/jobs/info/6881a8c129ad6b2744ae3f5a?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
-| **[ABRAMS](http://www.abramsbooks.com)** | **[Children's Editorial Intern Fall 2025](https://jobright.ai/jobs/info/68816ae0f4f06100f3a26d43?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network – Fall 2025](https://jobright.ai/jobs/info/6881643716ea5743a3738beb?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
