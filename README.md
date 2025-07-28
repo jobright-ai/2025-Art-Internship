@@ -57,16 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Children's Creative Writing & Storytelling Internship](https://jobright.ai/jobs/info/6886ea36fbbf032d00071086?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Jul 27 |
 | **[LV Collective](https://lvcollective.com)** | **[Video Production Intern Fall 2025](https://jobright.ai/jobs/info/6886ad72fbbf032d00070577?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 27 |
-| **[Deca Defense](https://www.decadefense.com/)** | **[Internship 3D Cinematics, 3D Generalist, Visual VX, /Unreal Engine (UE), Blender, Houdini/](https://jobright.ai/jobs/info/68868d2eb651c92cb78af6e0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
-| **[MHG Events](https://www.maschospitalitygroup.com/)** | **[Content Creator](https://jobright.ai/jobs/info/688646194174df41e0f99fdd?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jul 27 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Summer 2025 Archives Internship](https://jobright.ai/jobs/info/682fc01f3d01055c85a970a6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 27 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/6885b466b651c92cb78ad7b3?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 27 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Screenwriter](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36c4?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
+| ↳ | **[Volunteer: Set Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36bb?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[News Writing / Reporting - Public Information Intern - News and Content - Kiswahili
 Job ID : 260251](https://jobright.ai/jobs/info/6885e7a2fbbf032d0006f69b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jul 27 |
 | **[Expoline Consulting](https://www.linkedin.com/company/107689774)** | **[Short-Form Video Content Intern (Reels, TikTok, Shorts)](https://jobright.ai/jobs/info/6885c216fbbf032d0006ebd3?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67f62ea9706f3560f5a1089c?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Jul 26 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d8?utm_campaign=1053&utm_source=git)** | Berkeley, CA | On Site | Jul 26 |
 | **[Kalo](www.joinkalo.com)** | **[Social Media Videographer/Editor Internship](https://jobright.ai/jobs/info/68852f71fbbf032d0006c30f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 26 |
 | **[28th&Park](www.28thpark.com)** | **[Podcast & Production Intern](https://jobright.ai/jobs/info/6884fcc6fbbf032d0006b969?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 26 |
@@ -87,9 +86,7 @@ Job ID : 261075](https://jobright.ai/jobs/info/688702ebb651c92cb78b129f?utm_camp
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Festival Orchestra & Artist Services Intern](https://jobright.ai/jobs/info/68842b076fcd973d15ae6088?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | ↳ | **[Fine Arts Intern](https://jobright.ai/jobs/info/68842829b54cac0f1e73c717?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Willie O'Ree Internship, Boston Bruins](https://jobright.ai/jobs/info/6884223f835a903aa07fa371?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 25 |
-| **[Jobright.ai](https://jobright.ai)** | **[Creator Operations Intern – Botfluencer Support, Internship, (Remote)](https://jobright.ai/jobs/info/68840c9f835a903aa07f9d9c?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Production Student Assistant](https://jobright.ai/jobs/info/6884089e6fcd973d15ae5344?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Jul 25 |
-| **[Jobright.ai](https://jobright.ai)** | **[AI Tech Explained Writer, Internship, (Remote)](https://jobright.ai/jobs/info/6883f5a46fcd973d15ae4d28?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern, News](https://jobright.ai/jobs/info/6849d96ebcd35706ca64b29b?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Jul 25 |
 | **[Chellie Carlson Style](http://www.chelliecarlson.com)** | **[LA Based FALL Fashion Intern](https://jobright.ai/jobs/info/68850a034174df41e0f95d7c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[Art Works For Change](http://www.artworksforchange.org)** | **[Volunteer: Arts and environmental activism: environmental leadership program](https://jobright.ai/jobs/info/6883e562b54cac0f1e73ab66?utm_campaign=1053&utm_source=git)** | Oakland, CA | Remote | Jul 25 |
@@ -142,7 +139,7 @@ Job ID : 261075](https://jobright.ai/jobs/info/688702ebb651c92cb78b129f?utm_camp
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Morning News Fall Intern](https://jobright.ai/jobs/info/68826fc96fcd973d15ad922c?utm_campaign=1053&utm_source=git)** | PA-Philadelphia;5001 Wynnefield Avenue (Tribune-WPHL) | On Site | Jul 24 |
 | **[Neon Coast](https://www.neon-coast.com)** | **[2025 Fall Internships - Artist Management & Digital / Fan Engagement](https://jobright.ai/jobs/info/6882fc9ab54cac0f1e734374?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jul 24 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network – Fall 2025](https://jobright.ai/jobs/info/68826c6e6fcd973d15ad900a?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jul 24 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ News Internship – Fall 2025](https://jobright.ai/jobs/info/688265c2b54cac0f1e72f30f?utm_campaign=1053&utm_source=git)** | PA, Altoona | On Site | Jul 24 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ News Internship – Fall 2025](https://jobright.ai/jobs/info/688265feb54cac0f1e72f357?utm_campaign=1053&utm_source=git)** | PA, Altoona | On Site | Jul 24 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Caf Show Engineer (Federal Work-Study)](https://jobright.ai/jobs/info/6882659b835a903aa07ed291?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Jul 24 |
 | ↳ | **[Caf Show Engineer](https://jobright.ai/jobs/info/6882650a835a903aa07ed1e3?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Jul 24 |
 | **[Clutch Content Partners](http://www.likesuperclutch.com)** | **[Production Intern](https://jobright.ai/jobs/info/6882f8ec835a903aa07f210e?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 24 |
@@ -155,9 +152,12 @@ Job ID : 261075](https://jobright.ai/jobs/info/688702ebb651c92cb78b129f?utm_camp
 | ↳ | **[Film Feature Journalist (Internship)](https://jobright.ai/jobs/info/688252e3835a903aa07ecadb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 24 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684d0a44ef735fe085bd08da?utm_campaign=1053&utm_source=git)** | Portland, ME | On Site | Jul 24 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[KATV 2025 Fall Intern](https://jobright.ai/jobs/info/6881f7ffee15177ae97194a8?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jul 24 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[6-MONTH TRAINING PROGRAM (NY)](https://jobright.ai/jobs/info/68648a7584153b63ff401d80?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa6ae?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 24 |
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9586?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Film Feature Journalist (Internship)](https://jobright.ai/jobs/info/6881e7baee15177ae9718d2d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 23 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6885b9fcfbbf032d0006e623?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Jul 23 |
+| **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Fall – 2025)](https://jobright.ai/jobs/info/6881e086ee15177ae9718589?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 23 |
+| **[Shepherd University](https://www.shepherd.edu/)** | **[Gallery Guard Assistant](https://jobright.ai/jobs/info/6881b58a29ad6b2744ae4a55?utm_campaign=1053&utm_source=git)** | Shepherdstown, WV | On Site | Jul 23 |
+| **[Worcester Railers HC](https://www.railershc.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68846829b651c92cb78a8042?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Jul 23 |
+| **[Felidae Conservation Fund](http://www.felidaefund.org)** | **[Volunteer: Catalogue Wildlife Images for research as a Volunteer for Conservation Non-Profit](https://jobright.ai/jobs/info/68819f08f4f06100f3a283c5?utm_campaign=1053&utm_source=git)** | Mill Valley, CA | Remote | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
