@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Area de la Bahia 48 - News Internship  – Academic Year '25-'26](https://jobright.ai/jobs/info/6887cc5c4174df41e0fa0b7a?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
+| ↳ | **[Telemundo Area de la Bahia 48 - Production Internship – Academic Year '25-'26](https://jobright.ai/jobs/info/6887cc2673e3e13cbd94030d?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
+| **[Purdue Federal Credit Union](https://www.purduefed.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6887c8524174df41e0fa088c?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Jul 28 |
+| **[Detail Connect](https://www.detailconnect.app/)** | **[Video Production & Editing Intern (Fall 2025)](https://jobright.ai/jobs/info/6887c3b673e3e13cbd93fcca?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Weather Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/6887b6a44174df41e0f9ff70?utm_campaign=1053&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Jul 28 |
 | **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB Fall 2025 News Intern](https://jobright.ai/jobs/info/6887b4524174df41e0f9fe45?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jul 28 |
 | **[Motto Pictures](https://www.mottopictures.com)** | **[Documentary Film Internship (Fall 2025)](https://jobright.ai/jobs/info/6887b20a73e3e13cbd93f585?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Jul 28 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6887a1d073e3e13cbd93ed5d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Magus Entertainment](https://magusentertainment.com)** | **[Artist Management Intern (Fall 2025)](https://jobright.ai/jobs/info/688798a0fbbf032d00075081?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 28 |
 | **[Condé Nast](http://www.condenast.com)** | **[Research Fellow](https://jobright.ai/jobs/info/6887981b4174df41e0f9f1ac?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Jul 28 |
-| **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Fall 2025](https://jobright.ai/jobs/info/6887964073e3e13cbd93e853?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Jul 28 |
 | **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Children's Creative Writing & Storytelling Internship](https://jobright.ai/jobs/info/6887808afbbf032d000746fd?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Jul 28 |
 | **[Symbiosis AI](https://www.linkedin.com/company/103740713)** | **[3D Animator Intern](https://jobright.ai/jobs/info/6887738e73e3e13cbd93db7d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[TikTok Content Creator](https://jobright.ai/jobs/info/68876b9c4174df41e0f9e231?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 28 |
@@ -157,7 +160,4 @@ Job ID : 261075](https://jobright.ai/jobs/info/688702ebb651c92cb78b129f?utm_camp
 | **[GBH](http://www.wgbh.org/)** | **[GBH News "Under the Radar" Internship - Fall 2025](https://jobright.ai/jobs/info/686c76bc35584b6542d9c4b1?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Morning News Fall Intern](https://jobright.ai/jobs/info/68826fc96fcd973d15ad922c?utm_campaign=1053&utm_source=git)** | PA-Philadelphia;5001 Wynnefield Avenue (Tribune-WPHL) | On Site | Jul 24 |
 | **[Neon Coast](https://www.neon-coast.com)** | **[2025 Fall Internships - Artist Management & Digital / Fan Engagement](https://jobright.ai/jobs/info/6882fc9ab54cac0f1e734374?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Jul 24 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network – Fall 2025](https://jobright.ai/jobs/info/68826c6e6fcd973d15ad900a?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jul 24 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ News Internship – Fall 2025](https://jobright.ai/jobs/info/688265c2b54cac0f1e72f30f?utm_campaign=1053&utm_source=git)** | PA, Altoona | On Site | Jul 24 |
-| **[Berklee College of Music](http://berklee.edu)** | **[Caf Show Engineer (Federal Work-Study)](https://jobright.ai/jobs/info/6882659b835a903aa07ed291?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
