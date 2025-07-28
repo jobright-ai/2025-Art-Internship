@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Children's Creative Writing & Storytelling Internship](https://jobright.ai/jobs/info/6887808afbbf032d000746fd?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Jul 28 |
+| **[Symbiosis AI](https://www.linkedin.com/company/103740713)** | **[3D Animator Intern](https://jobright.ai/jobs/info/6887738e73e3e13cbd93db7d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 28 |
+| **[Plutus Media](https://growwithplutus.com/)** | **[TikTok Content Creator](https://jobright.ai/jobs/info/688769b2fbbf032d00074016?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Internship 3D Cinematics, 3D Generalist / Visual VX, /Unreal Engine (UE), Blender, Houdini/](https://jobright.ai/jobs/info/6887595e4174df41e0f9dc00?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 28 |
 | **[star](https://apps.apple.com/us/app/star-outfit-copy-paste/id6739550653)** | **[Fashion Intern](https://jobright.ai/jobs/info/68874b8e4174df41e0f9d8bf?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Jul 28 |
 | **[LV Collective](https://lvcollective.com)** | **[Video Production Intern Fall 2025](https://jobright.ai/jobs/info/6886ad72fbbf032d00070577?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 27 |
@@ -147,7 +150,6 @@ Job ID : 261075](https://jobright.ai/jobs/info/688702ebb651c92cb78b129f?utm_camp
 | **[Berklee College of Music](http://berklee.edu)** | **[Caf Show Engineer (Federal Work-Study)](https://jobright.ai/jobs/info/6882659b835a903aa07ed291?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Jul 24 |
 | ↳ | **[Caf Show Engineer](https://jobright.ai/jobs/info/6882650a835a903aa07ed1e3?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Jul 24 |
 | **[Clutch Content Partners](http://www.likesuperclutch.com)** | **[Production Intern](https://jobright.ai/jobs/info/6882f8ec835a903aa07f210e?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 24 |
-| **[Sandridge Crafted Foods](http://sandridge.com)** | **[Post Graduate Culinary Science Trainee](https://jobright.ai/jobs/info/68827292b54cac0f1e72f991?utm_campaign=1053&utm_source=git)** | Medina, OH | On Site | Jul 24 |
 | **[NCAA](https://www.ncaa.org)** | **[Media Coordination and Statistics Intern - NCAA Seasonal internship](https://jobright.ai/jobs/info/6882526e6fcd973d15ad845b?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Jul 24 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WCVB Fall 2025 Chronicle Intern](https://jobright.ai/jobs/info/688245dd6fcd973d15ad7d26?utm_campaign=1053&utm_source=git)** | 5 TV Place, Needham, MA, 02494, US | On Site | Jul 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 24 |
@@ -156,8 +158,6 @@ Job ID : 261075](https://jobright.ai/jobs/info/688702ebb651c92cb78b129f?utm_camp
 | ↳ | **[Film Feature Journalist (Internship)](https://jobright.ai/jobs/info/688252e3835a903aa07ecadb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 24 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684d0a44ef735fe085bd08da?utm_campaign=1053&utm_source=git)** | Portland, ME | On Site | Jul 24 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[KATV 2025 Fall Intern](https://jobright.ai/jobs/info/6881f7ffee15177ae97194a8?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jul 24 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[6-MONTH TRAINING PROGRAM (NY)](https://jobright.ai/jobs/info/68648a7584153b63ff401d80?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa6ae?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 24 |
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9586?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
-| **[The Ambony](http://www.manofthehourmag.com/)** | **[Film Feature Journalist (Internship)](https://jobright.ai/jobs/info/6881e7baee15177ae9718d2d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
