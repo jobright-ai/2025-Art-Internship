@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deca Defense](https://www.decadefense.com/)** | **[Internship 3D Cinematics, 3D Generalist / Visual VX, /Unreal Engine (UE), Blender, Houdini/](https://jobright.ai/jobs/info/6887595e4174df41e0f9dc00?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 28 |
+| **[star](https://apps.apple.com/us/app/star-outfit-copy-paste/id6739550653)** | **[Fashion Intern](https://jobright.ai/jobs/info/68874b8e4174df41e0f9d8bf?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Jul 28 |
 | **[LV Collective](https://lvcollective.com)** | **[Video Production Intern Fall 2025](https://jobright.ai/jobs/info/6886ad72fbbf032d00070577?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 27 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Summer 2025 Archives Internship](https://jobright.ai/jobs/info/682fc01f3d01055c85a970a6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 27 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/6885b466b651c92cb78ad7b3?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 27 |
@@ -158,6 +160,4 @@ Job ID : 261075](https://jobright.ai/jobs/info/688702ebb651c92cb78b129f?utm_camp
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa6ae?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 24 |
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9586?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Film Feature Journalist (Internship)](https://jobright.ai/jobs/info/6881e7baee15177ae9718d2d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 23 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6885b9fcfbbf032d0006e623?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Jul 23 |
-| **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Fall – 2025)](https://jobright.ai/jobs/info/6881e086ee15177ae9718589?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
