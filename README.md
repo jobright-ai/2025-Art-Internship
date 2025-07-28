@@ -61,7 +61,9 @@ For a complete list, click the following sortable link below:
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Summer 2025 Archives Internship](https://jobright.ai/jobs/info/682fc01f3d01055c85a970a6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 27 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/6885b466b651c92cb78ad7b3?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 27 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Screenwriter](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36c4?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
+| ↳ | **[Volunteer: Photojournalist](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36c1?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
 | ↳ | **[Volunteer: Set Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36bb?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
+| ↳ | **[Volunteer: Museum Curator](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36bd?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[News Writing / Reporting - Public Information Intern - News and Content - Kiswahili
 Job ID : 260251](https://jobright.ai/jobs/info/6885e7a2fbbf032d0006f69b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jul 27 |
 | **[Expoline Consulting](https://www.linkedin.com/company/107689774)** | **[Short-Form Video Content Intern (Reels, TikTok, Shorts)](https://jobright.ai/jobs/info/6885c216fbbf032d0006ebd3?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
@@ -152,12 +154,10 @@ Job ID : 261075](https://jobright.ai/jobs/info/688702ebb651c92cb78b129f?utm_camp
 | ↳ | **[Film Feature Journalist (Internship)](https://jobright.ai/jobs/info/688252e3835a903aa07ecadb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 24 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684d0a44ef735fe085bd08da?utm_campaign=1053&utm_source=git)** | Portland, ME | On Site | Jul 24 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[KATV 2025 Fall Intern](https://jobright.ai/jobs/info/6881f7ffee15177ae97194a8?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Jul 24 |
+| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[6-MONTH TRAINING PROGRAM (NY)](https://jobright.ai/jobs/info/68648a7584153b63ff401d80?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/6864441df1db023575eaa6ae?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 24 |
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Music Programming Operations - Part-Time](https://jobright.ai/jobs/info/686427b1dce9e834393f9586?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Film Feature Journalist (Internship)](https://jobright.ai/jobs/info/6881e7baee15177ae9718d2d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Jul 23 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6885b9fcfbbf032d0006e623?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Jul 23 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Fall – 2025)](https://jobright.ai/jobs/info/6881e086ee15177ae9718589?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 23 |
-| **[Shepherd University](https://www.shepherd.edu/)** | **[Gallery Guard Assistant](https://jobright.ai/jobs/info/6881b58a29ad6b2744ae4a55?utm_campaign=1053&utm_source=git)** | Shepherdstown, WV | On Site | Jul 23 |
-| **[Worcester Railers HC](https://www.railershc.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68846829b651c92cb78a8042?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Jul 23 |
-| **[Felidae Conservation Fund](http://www.felidaefund.org)** | **[Volunteer: Catalogue Wildlife Images for research as a Volunteer for Conservation Non-Profit](https://jobright.ai/jobs/info/68819f08f4f06100f3a283c5?utm_campaign=1053&utm_source=git)** | Mill Valley, CA | Remote | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
