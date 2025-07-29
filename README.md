@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southampton Studios](http://www.southamptonstudios.com)** | **[College Program Intern](https://jobright.ai/jobs/info/6888e5ea09808a6103e43515?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 29 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Internship 3D Cinematics, 3D Generalist / Visual VX, \Unreal Engine (UE), Blender, Houdini/](https://jobright.ai/jobs/info/6888bdeaaab47a17f66fcbea?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 29 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Gallery / Management Assistant at Arts District Los Angeles](https://jobright.ai/jobs/info/6888b79daab47a17f66fcae9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68889667aab47a17f66fc550?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Jul 29 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Drama – Fall 2025](https://jobright.ai/jobs/info/6888289b4174df41e0fa3261?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 28 |
 | **[Newfields a Place for Nature & The Arts](https://discovernewfields.org/)** | **[Registration Permanent Collection Intern](https://jobright.ai/jobs/info/68882896fbbf032d00079101?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Bay Area - Community Engagement Internship - Academic Year '25-'26](https://jobright.ai/jobs/info/6888228afbbf032d00078f48?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
 | **[The KINN](www.thekinn.co)** | **[KINN Events Intern](https://jobright.ai/jobs/info/68881e974174df41e0fa2faf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 28 |
 | **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com/)** | **[2025 Internship, Fall - Event Operations](https://jobright.ai/jobs/info/68881e7273e3e13cbd9427b1?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jul 28 |
 | **[The Kraft Group & Affiliates](http://www.thekraftgroup.com)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/6870a700a5ae807a59cfa4a2?utm_campaign=1053&utm_source=git)** | Foxborough (Foxboro), MA | On Site | Jul 28 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Drama – Fall 2025](https://jobright.ai/jobs/info/68881791fbbf032d00078a90?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 28 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo Area de la Bahia 48 - News Internship – Academic Year '25-'26](https://jobright.ai/jobs/info/6888174673e3e13cbd9423bc?utm_campaign=1053&utm_source=git)** | San Jose, CA | Hybrid | Jul 28 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS NEWS INTERN FALL '25 - WWNY](https://jobright.ai/jobs/info/688816334174df41e0fa2abd?utm_campaign=1053&utm_source=git)** | Watertown, NY | On Site | Jul 28 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Bay Area - Community Engagement Internship - Academic Year '25-'26](https://jobright.ai/jobs/info/688813124174df41e0fa29a4?utm_campaign=1053&utm_source=git)** | San Jose, CA | Hybrid | Jul 28 |
@@ -158,5 +159,4 @@ Job ID : 261075](https://jobright.ai/jobs/info/688702ebb651c92cb78b129f?utm_camp
 | **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Content & Podcasts](https://jobright.ai/jobs/info/6882b6e46fcd973d15adbe69?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Jul 24 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Event Production Season Associate](https://jobright.ai/jobs/info/6883d5296fcd973d15ae3a2d?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[Make Room Gallery](www.makeroom.la)** | **[Gallery Internship - Fall 2025 / Spring 2026](https://jobright.ai/jobs/info/6882b57c6fcd973d15adbd0c?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Jul 24 |
-| **[Showcase the World Travel](https://www.showcasetheworld.com/)** | **[Digital Media Fall Intern – Video & Content Creation](https://jobright.ai/jobs/info/6882b041b54cac0f1e7320cf?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
