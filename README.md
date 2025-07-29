@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deca Defense](https://www.decadefense.com/)** | **[Internship 3D Cinematics, 3D Generalist / Visual VX, \Unreal Engine (UE), Blender, Houdini/](https://jobright.ai/jobs/info/6888bdeaaab47a17f66fcbea?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 29 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Gallery / Management Assistant at Arts District Los Angeles](https://jobright.ai/jobs/info/6888b79daab47a17f66fcae9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68889667aab47a17f66fc550?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Jul 29 |
 | **[Newfields a Place for Nature & The Arts](https://discovernewfields.org/)** | **[Registration Permanent Collection Intern](https://jobright.ai/jobs/info/68882896fbbf032d00079101?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Bay Area - Community Engagement Internship - Academic Year '25-'26](https://jobright.ai/jobs/info/6888228afbbf032d00078f48?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
@@ -89,14 +91,15 @@ For a complete list, click the following sortable link below:
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6887a1d073e3e13cbd93ed5d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Condé Nast](http://www.condenast.com)** | **[Research Fellow](https://jobright.ai/jobs/info/6887981b4174df41e0f9f1ac?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Jul 28 |
 | **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Children's Creative Writing & Storytelling Internship](https://jobright.ai/jobs/info/6887808afbbf032d000746fd?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Jul 28 |
-| **[Plutus Media](https://growwithplutus.com/)** | **[TikTok Content Creator](https://jobright.ai/jobs/info/688769b2fbbf032d00074016?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 28 |
+| **[Plutus Media](https://growwithplutus.com/)** | **[TikTok Content Creator](https://jobright.ai/jobs/info/68876b9c4174df41e0f9e231?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 28 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Film Editor](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36c8?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/68125ac8a6e41049a106c543?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 27 |
 | **[University of Florida](https://www.ufl.edu)** | **[FWS Student Assistant – 4-H Podcast Coordinator](https://jobright.ai/jobs/info/6887e90173e3e13cbd94110e?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Jul 27 |
 | **[LV Collective](https://lvcollective.com)** | **[Video Production Intern Fall 2025](https://jobright.ai/jobs/info/6886ad72fbbf032d00070577?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 27 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Summer 2025 Archives Internship](https://jobright.ai/jobs/info/682fc01f3d01055c85a970a6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 27 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/6885b466b651c92cb78ad7b3?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 27 |
-| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Screenwriter](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36c4?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
+| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Songwriter](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36d1?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
+| ↳ | **[Volunteer: Screenwriter](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36c4?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
 | ↳ | **[Volunteer: Photojournalist](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36c1?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
 | ↳ | **[Volunteer: Set Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36bb?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
 | ↳ | **[Volunteer: Museum Curator](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36bd?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
@@ -156,7 +159,4 @@ Job ID : 261075](https://jobright.ai/jobs/info/688702ebb651c92cb78b129f?utm_camp
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Event Production Season Associate](https://jobright.ai/jobs/info/6883d5296fcd973d15ae3a2d?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[Make Room Gallery](www.makeroom.la)** | **[Gallery Internship - Fall 2025 / Spring 2026](https://jobright.ai/jobs/info/6882b57c6fcd973d15adbd0c?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Jul 24 |
 | **[Showcase the World Travel](https://www.showcasetheworld.com/)** | **[Digital Media Fall Intern – Video & Content Creation](https://jobright.ai/jobs/info/6882b041b54cac0f1e7320cf?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 24 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern - Investigative News Fall Internship](https://jobright.ai/jobs/info/6882abda835a903aa07efed6?utm_campaign=1053&utm_source=git)** | MO-St. Louis;2250 Ball Drive (Tribune-KTVI/KPLR) | On Site | Jul 24 |
-| ↳ | **[Unpaid Intern - Digital News St. Louis Unpaid Internship - Fall](https://jobright.ai/jobs/info/6882ab80b54cac0f1e731d7e?utm_campaign=1053&utm_source=git)** | MO-St. Louis;2250 Ball Drive (Tribune-KTVI/KPLR) | On Site | Jul 24 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Onsite Content Creator](https://jobright.ai/jobs/info/6883df71835a903aa07f8785?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
