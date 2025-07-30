@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LV Collective](https://lvcollective.com)** | **[Video Production Intern Fall 2025](https://jobright.ai/jobs/info/6889a0ffaab47a17f6703a8f?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 29 |
 | **[Venture Starters](https://venturestarters.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6889851b09808a6103e481e6?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 29 |
 | **[TMZ](http://www.tmz.com/)** | **[TMZ News Desk Intern - Fall 2025](https://jobright.ai/jobs/info/688980e79f961617fe214d2f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | ↳ | **[TMZ Podcasts Intern - Fall 2025](https://jobright.ai/jobs/info/688980b909808a6103e48089?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
+| **[Museum of Science](http://www.mos.org)** | **[Adult Programs Collegiate Internship](https://jobright.ai/jobs/info/6889b1ceaab47a17f67049f7?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 29 |
 | **[Headline Sports Group](http://headlinesportsgroup.com)** | **[Video Intern](https://jobright.ai/jobs/info/68897531aab47a17f6701c2d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 29 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Editorial Intern, Jeopardy! – Fall 2025](https://jobright.ai/jobs/info/688971bf09808a6103e4794c?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 29 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent & Casting Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/6889722d09808a6103e479e2?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 29 |
+| ↳ | **[Editorial Intern, Jeopardy! – Fall 2025](https://jobright.ai/jobs/info/688971bf09808a6103e4794c?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 29 |
 | **[TMZ](http://www.tmz.com/)** | **[TMZ Sports Desk Intern - Fall 2025](https://jobright.ai/jobs/info/688994a9aab47a17f6702d45?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | ↳ | **[Toofab Intern - Fall 2025](https://jobright.ai/jobs/info/6889944609808a6103e48bef?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent & Casting Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/68896fa39f961617fe214386?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 29 |
 | **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[University Event Production Intern](https://jobright.ai/jobs/info/68896f2b9f961617fe2142e5?utm_campaign=1053&utm_source=git)** | BYU–Hawaii | On Site | Jul 29 |
 | **[Japan Society](http://www.japansociety.org)** | **[Performing Arts Intern](https://jobright.ai/jobs/info/68896179aab47a17f67012da?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Retail Intern - Fall 2025](https://jobright.ai/jobs/info/688961209f961617fe213e95?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 29 |
@@ -82,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Resources for the Future](http://www.rff.org/)** | **[Fall 2025 Editorial Intern](https://jobright.ai/jobs/info/688921cb09808a6103e453de?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 29 |
 | **[Warby Parker](http://www.warbyparker.com)** | **[Apprentice Optician - Ridgewood](https://jobright.ai/jobs/info/68892102aab47a17f66ff3b8?utm_campaign=1053&utm_source=git)** | Ridgewood, NJ | On Site | Jul 29 |
 | ↳ | **[Apprentice Optician - Freehold Raceway](https://jobright.ai/jobs/info/6889207daab47a17f66ff36e?utm_campaign=1053&utm_source=git)** | Freehold, NJ | On Site | Jul 29 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Theatre Scene Shop/Technical Assistant - POOL](https://jobright.ai/jobs/info/68899860aab47a17f6702f73?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 29 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68891e25aab47a17f66ff24d?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Jul 29 |
 | ↳ | **[Spring 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6889123daab47a17f66fe94c?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Jul 29 |
 | **[Gray Media](http://www.gray.tv)** | **[NEWS OU FELLOWSHIP INTERN PROGRAM - KSWO](https://jobright.ai/jobs/info/68890becaab47a17f66fe756?utm_campaign=1053&utm_source=git)** | Lawton, OK | On Site | Jul 29 |
@@ -91,8 +94,11 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6889194d09808a6103e44b72?utm_campaign=1053&utm_source=git)** | Bordentown, NJ | On Site | Jul 29 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING 03/07/2025](https://jobright.ai/jobs/info/68891a2009808a6103e44c29?utm_campaign=1053&utm_source=git)** | Springfield, IL | On Site | Jul 29 |
 | ↳ | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68891808aab47a17f66febad?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jul 29 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Gallery / Management Assistant at Arts District Los Angeles](https://jobright.ai/jobs/info/6888b79daab47a17f66fcae9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
+| **[NoGood](https://nogood.io)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6889a63a9f961617fe216a00?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68889667aab47a17f66fc550?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Jul 29 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6889adc309808a6103e4a672?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 28 |
+| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6889b16d9f961617fe2174ed?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Jul 28 |
+| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6889b2659f961617fe21756a?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jul 28 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Fall 2025](https://jobright.ai/jobs/info/688988229f961617fe215161?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Jul 28 |
 | **[Newfields a Place for Nature & The Arts](https://discovernewfields.org/)** | **[Registration Permanent Collection Intern](https://jobright.ai/jobs/info/68882896fbbf032d00079101?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Bay Area - Community Engagement Internship - Academic Year '25-'26](https://jobright.ai/jobs/info/6888228afbbf032d00078f48?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
@@ -112,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Texas Oral History Association](https://toha.web.baylor.edu/about)** | **[Student Productions Intern - BC](https://jobright.ai/jobs/info/6887dfa1fbbf032d0007718b?utm_campaign=1053&utm_source=git)** | Waco, TX, United States | Hybrid | Jul 28 |
 | **[Condé Nast](http://www.condenast.com)** | **[Research Fellow](https://jobright.ai/jobs/info/6887ddcb4174df41e0fa1258?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jul 28 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Weather Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/6888487b73e3e13cbd943ba6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jul 28 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Area de la Bahia 48 - News Internship  – Academic Year '25-'26](https://jobright.ai/jobs/info/6887cc5c4174df41e0fa0b7a?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Area de la Bahia 48 - News Internship  – Academic Year '25-'26](https://jobright.ai/jobs/info/6887cc624174df41e0fa0b7d?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
 | ↳ | **[Telemundo Area de la Bahia 48 - Production Internship – Academic Year '25-'26](https://jobright.ai/jobs/info/6887cc2673e3e13cbd94030d?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
 | **[Purdue Federal Credit Union](https://www.purduefed.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6887c8524174df41e0fa088c?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Jul 28 |
 | **[Dôen](https://shopdoen.com)** | **[Part Time Production Intern](https://jobright.ai/jobs/info/686efe5cd08bf5ea46efb187?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 28 |
@@ -139,7 +145,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: Photojournalist](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36c1?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
 | ↳ | **[Volunteer: Set Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36bb?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
 | ↳ | **[Volunteer: Museum Curator](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36bd?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 27 |
-| **[Expoline Consulting](https://www.linkedin.com/company/107689774)** | **[Short-Form Video Content Intern (Reels, TikTok, Shorts)](https://jobright.ai/jobs/info/6885c216fbbf032d0006ebd3?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67f62ea9706f3560f5a1089c?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Jul 26 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d8?utm_campaign=1053&utm_source=git)** | Berkeley, CA | On Site | Jul 26 |
 | **[Kalo](www.joinkalo.com)** | **[Social Media Videographer/Editor Internship](https://jobright.ai/jobs/info/68852f71fbbf032d0006c30f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 26 |
@@ -153,10 +158,4 @@ For a complete list, click the following sortable link below:
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Singer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36d8?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[News Writing / Reporting - Public Information Intern - News and Content - Spanish
 Job ID : 260319](https://jobright.ai/jobs/info/6884982c4174df41e0f94cd1?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jul 26 |
-| **[Minnesota Children's Museum](http://www.mcm.org)** | **[Costume Design & Props Intern](https://jobright.ai/jobs/info/68847828fbbf032d00069a9c?utm_campaign=1053&utm_source=git)** | Minnesota Children's Museum | On Site | Jul 25 |
-| **[Tombras](http://tombras.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/68846f54b651c92cb78a864a?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jul 25 |
-| ↳ | **[Post - Production Intern](https://jobright.ai/jobs/info/68845cf2fbbf032d00068175?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jul 25 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[News Writing / Reporting - Public Information Intern - News and Content - Chinese
-Job ID : 261075](https://jobright.ai/jobs/info/688702ebb651c92cb78b129f?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jul 25 |
-| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Pop Culture Journalist Intern](https://jobright.ai/jobs/info/6884740c4174df41e0f939c0?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
