@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Headline Sports Group](http://headlinesportsgroup.com)** | **[Video Intern](https://jobright.ai/jobs/info/68897531aab47a17f6701c2d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 29 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent & Casting Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/6889722d09808a6103e479e2?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 29 |
+| ↳ | **[Editorial Intern, Jeopardy! – Fall 2025](https://jobright.ai/jobs/info/688971bf09808a6103e4794c?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 29 |
+| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[University Event Production Intern](https://jobright.ai/jobs/info/68896f2b9f961617fe2142e5?utm_campaign=1053&utm_source=git)** | BYU–Hawaii | On Site | Jul 29 |
+| **[Japan Society](http://www.japansociety.org)** | **[Performing Arts Intern](https://jobright.ai/jobs/info/68896179aab47a17f67012da?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 29 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Retail Intern - Fall 2025](https://jobright.ai/jobs/info/688961209f961617fe213e95?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[TMZ Sports Desk Intern - Fall 2025](https://jobright.ai/jobs/info/68895af7aab47a17f67010c9?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Jul 29 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Retail Intern - Fall 2025](https://jobright.ai/jobs/info/68895ae509808a6103e46f75?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[TMZ Podcasts Intern - Fall 2025](https://jobright.ai/jobs/info/68895aaeaab47a17f6701068?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Jul 29 |
@@ -99,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Texas Oral History Association](https://toha.web.baylor.edu/about)** | **[Student Productions Intern - BC](https://jobright.ai/jobs/info/6887dfa1fbbf032d0007718b?utm_campaign=1053&utm_source=git)** | Waco, TX, United States | Hybrid | Jul 28 |
 | **[Condé Nast](http://www.condenast.com)** | **[Research Fellow](https://jobright.ai/jobs/info/6887ddcb4174df41e0fa1258?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jul 28 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Weather Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/6888487b73e3e13cbd943ba6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jul 28 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Area de la Bahia 48 - News Internship  – Academic Year '25-'26](https://jobright.ai/jobs/info/6887cc624174df41e0fa0b7d?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Area de la Bahia 48 - News Internship  – Academic Year '25-'26](https://jobright.ai/jobs/info/6887cc5c4174df41e0fa0b7a?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
 | ↳ | **[Telemundo Area de la Bahia 48 - Production Internship – Academic Year '25-'26](https://jobright.ai/jobs/info/6887cc2673e3e13cbd94030d?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
 | **[Purdue Federal Credit Union](https://www.purduefed.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6887c8524174df41e0fa088c?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Jul 28 |
 | **[Dôen](https://shopdoen.com)** | **[Part Time Production Intern](https://jobright.ai/jobs/info/686efe5cd08bf5ea46efb187?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 28 |
@@ -153,10 +159,4 @@ Job ID : 261075](https://jobright.ai/jobs/info/688702ebb651c92cb78b129f?utm_camp
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern, News](https://jobright.ai/jobs/info/6849d96ebcd35706ca64b29b?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Jul 25 |
 | **[Chellie Carlson Style](http://www.chelliecarlson.com)** | **[LA Based FALL Fashion Intern](https://jobright.ai/jobs/info/68850a034174df41e0f95d7c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Weather Producer Intern](https://jobright.ai/jobs/info/6883d53a835a903aa07f81a1?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jul 25 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[F&B Front of House Intern/Trainee (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/6883d1bb6fcd973d15ae36e4?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Jul 25 |
-| **[Be the Change Foundation](https://www.bethechange.foundation/)** | **[Paid Summer Intern: Documentary Producer](https://jobright.ai/jobs/info/6885b735b651c92cb78ad881?utm_campaign=1053&utm_source=git)** | Milpitas, CA | On Site | Jul 25 |
-| **[Triangle Media Partners](https://chapelhillmagazine.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6883c430835a903aa07f77f0?utm_campaign=1053&utm_source=git)** | Chapel Hill, NC | Hybrid | Jul 25 |
-| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Jul 25 |
-| **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/6883db1b6fcd973d15ae3df0?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
-| **[upfeat](http://upfeat.com)** | **[Content Journalism Contributor](https://jobright.ai/jobs/info/6883ba66b54cac0f1e739190?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
