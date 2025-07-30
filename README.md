@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Headline Sports Group](http://headlinesportsgroup.com)** | **[Video editor intern](https://jobright.ai/jobs/info/6889c77aaab47a17f67058f4?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Sol Media](Solmedianyc.com)** | **[Cinematography Intern](https://jobright.ai/jobs/info/6889c1e69f961617fe2182a3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 29 |
+| **[Museum of Science](http://www.mos.org)** | **[Archives Management Intern](https://jobright.ai/jobs/info/6889b4b109808a6103e4aa95?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 29 |
 | **[LV Collective](https://lvcollective.com)** | **[Video Production Intern Fall 2025](https://jobright.ai/jobs/info/6889a0ffaab47a17f6703a8f?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 29 |
 | **[Venture Starters](https://venturestarters.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6889851b09808a6103e481e6?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 29 |
 | **[TMZ](http://www.tmz.com/)** | **[TMZ News Desk Intern - Fall 2025](https://jobright.ai/jobs/info/688980e79f961617fe214d2f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | ↳ | **[TMZ Podcasts Intern - Fall 2025](https://jobright.ai/jobs/info/688980b909808a6103e48089?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | **[Museum of Science](http://www.mos.org)** | **[Adult Programs Collegiate Internship](https://jobright.ai/jobs/info/6889b1ceaab47a17f67049f7?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 29 |
-| **[Headline Sports Group](http://headlinesportsgroup.com)** | **[Video Intern](https://jobright.ai/jobs/info/68897531aab47a17f6701c2d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent & Casting Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/6889722d09808a6103e479e2?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 29 |
-| ↳ | **[Editorial Intern, Jeopardy! – Fall 2025](https://jobright.ai/jobs/info/688971bf09808a6103e4794c?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 29 |
+| ↳ | **[Editorial Intern, Jeopardy! – Fall 2025](https://jobright.ai/jobs/info/688971949f961617fe21462d?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 29 |
 | **[TMZ](http://www.tmz.com/)** | **[TMZ Sports Desk Intern - Fall 2025](https://jobright.ai/jobs/info/688994a9aab47a17f6702d45?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | ↳ | **[Toofab Intern - Fall 2025](https://jobright.ai/jobs/info/6889944609808a6103e48bef?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[University Event Production Intern](https://jobright.ai/jobs/info/68896f2b9f961617fe2142e5?utm_campaign=1053&utm_source=git)** | BYU–Hawaii | On Site | Jul 29 |
@@ -99,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6889adc309808a6103e4a672?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 28 |
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6889b16d9f961617fe2174ed?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Jul 28 |
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6889b2659f961617fe21756a?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jul 28 |
+| **[TitleFrame](https://www.titleframe.com/)** | **[Production Assistant](https://jobright.ai/jobs/info/6889c23e9f961617fe2182e0?utm_campaign=1053&utm_source=git)** | Chamblee, GA | On Site | Jul 28 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Fall 2025](https://jobright.ai/jobs/info/688988229f961617fe215161?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Jul 28 |
 | **[Newfields a Place for Nature & The Arts](https://discovernewfields.org/)** | **[Registration Permanent Collection Intern](https://jobright.ai/jobs/info/68882896fbbf032d00079101?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Bay Area - Community Engagement Internship - Academic Year '25-'26](https://jobright.ai/jobs/info/6888228afbbf032d00078f48?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
@@ -150,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Kalo](www.joinkalo.com)** | **[Social Media Videographer/Editor Internship](https://jobright.ai/jobs/info/68852f71fbbf032d0006c30f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 26 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/6812661b270f9f79c74803a2?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Jul 26 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Costume Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36dd?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
-| ↳ | **[Volunteer: Sound Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36da?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Jpixx LLC](https://epixx.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6884d26f4174df41e0f95562?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Jul 26 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Artist Management Internship](https://jobright.ai/jobs/info/682fc25fadef0f249e4b0584?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Jul 26 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d3?utm_campaign=1053&utm_source=git)** | Stanford, CA | On Site | Jul 26 |
 | **[Jpixx LLC](https://epixx.com)** | **[Account Producer Intern](https://jobright.ai/jobs/info/68859909b651c92cb78ac594?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Jul 26 |
-| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Singer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36d8?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 26 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[News Writing / Reporting - Public Information Intern - News and Content - Spanish
-Job ID : 260319](https://jobright.ai/jobs/info/6884982c4174df41e0f94cd1?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
