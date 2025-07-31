@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Inc.](http://sbgi.net)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/688b3c8c1808534a89cb1bc8?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 31 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Fall 2025](https://jobright.ai/jobs/info/688b35ac3a30793eb9639119?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[WCVB Fall 2025 News Intern](https://jobright.ai/jobs/info/688b2cbd906ac06e1d1c9ce1?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jul 31 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Documentary Production: NYC - Fall 2025](https://jobright.ai/jobs/info/688b261d9f961617fe222198?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
@@ -119,9 +120,9 @@ For a complete list, click the following sortable link below:
 | **[TMZ](http://www.tmz.com/)** | **[TMZ News Desk Intern - Fall 2025](https://jobright.ai/jobs/info/688980e79f961617fe214d2f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | ↳ | **[TMZ Podcasts Intern - Fall 2025](https://jobright.ai/jobs/info/688980b909808a6103e48089?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | **[Museum of Science](http://www.mos.org)** | **[Adult Programs Collegiate Internship](https://jobright.ai/jobs/info/6889b1ceaab47a17f67049f7?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 29 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent & Casting Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/6889722d09808a6103e479e2?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 29 |
 | **[TMZ](http://www.tmz.com/)** | **[TMZ Sports Desk Intern - Fall 2025](https://jobright.ai/jobs/info/688994a9aab47a17f6702d45?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | ↳ | **[Toofab Intern - Fall 2025](https://jobright.ai/jobs/info/6889944609808a6103e48bef?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent & Casting Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/68896fa39f961617fe214386?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 29 |
 | **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[University Event Production Intern](https://jobright.ai/jobs/info/68896f2b9f961617fe2142e5?utm_campaign=1053&utm_source=git)** | BYU–Hawaii | On Site | Jul 29 |
 | **[Calvary Chapel Fort Lauderdale](https://calvaryftl.org)** | **[Calvary Music Production Assistant](https://jobright.ai/jobs/info/688a8e5d9f961617fe21c944?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 29 |
 | **[Japan Society](http://www.japansociety.org)** | **[Performing Arts Intern](https://jobright.ai/jobs/info/68896179aab47a17f67012da?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 29 |
@@ -133,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Fall 2025 Subrights Internship](https://jobright.ai/jobs/info/688934f909808a6103e45cc7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 29 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Fall - Creative Video](https://jobright.ai/jobs/info/68892e0e09808a6103e4591c?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jul 29 |
 | **[U.S. House of Representatives](http://www.house.gov/)** | **[District Office Press Intern](https://jobright.ai/jobs/info/68892b9faab47a17f66ff95a?utm_campaign=1053&utm_source=git)** | Eagan, MN | On Site | Jul 29 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Live Broadcast Intern](https://jobright.ai/jobs/info/6889244f09808a6103e4565c?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jul 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[TMZ News Desk Intern - Fall 2025](https://jobright.ai/jobs/info/688922b1aab47a17f66ff61e?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Jul 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN NEXT Social Production Intern, Remote, Fall 2025](https://jobright.ai/jobs/info/688922a9aab47a17f66ff611?utm_campaign=1053&utm_source=git)** | Bristol, CT, USA | Remote | Jul 29 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Fall 2025 Editorial Intern](https://jobright.ai/jobs/info/688921cb09808a6103e453de?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 29 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6889b2659f961617fe21756a?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jul 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67f965625c2cf2888f6ee1b7?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Jul 28 |
 | **[TitleFrame](https://www.titleframe.com/)** | **[Production Assistant](https://jobright.ai/jobs/info/6889c23e9f961617fe2182e0?utm_campaign=1053&utm_source=git)** | Chamblee, GA | On Site | Jul 28 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Live Broadcast Intern](https://jobright.ai/jobs/info/688b088e09808a6103e53d7c?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jul 28 |
+| **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Fall 2025](https://jobright.ai/jobs/info/688988229f961617fe215161?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
