@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ElectraCast Media](http://www.electracast.com)** | **[Crowdsourced Comedy Podcast Producer/Editor Internship](https://jobright.ai/jobs/info/688bc53d3a30793eb963d8bc?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
+| **[Advisor.](www.advisormag.co)** | **[Trend, Style & Shopping Writing Intern](https://jobright.ai/jobs/info/688bc18f1808534a89cb5d45?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
+| **[No Ceilings](https://www.noceilingsnba.com/)** | **[Site Editor Internship (Fall 2025) – Remote](https://jobright.ai/jobs/info/688bbece906ac06e1d1ce0c7?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
+| **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Writer / Editor](https://jobright.ai/jobs/info/688bbd91906ac06e1d1cdf54?utm_campaign=1053&utm_source=git)** | Tempe, AZ | Hybrid | Jul 31 |
+| **[Pulchritude Fashion Studio](pulchritudefashion.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/688bb8951808534a89cb55cd?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
+| **[TV Guide Magazine](http://www.tvguidemagsales.com)** | **[TV GUIDE MAGAZINE EDITORIAL INTERNSHIP](https://jobright.ai/jobs/info/688bb6de3a30793eb963cd2f?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 31 |
+| **[Plutus Media](https://growwithplutus.com/)** | **[Hiring Content Creator](https://jobright.ai/jobs/info/688bc7811808534a89cb613f?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Universal News Group Intern, Fall 2025](https://jobright.ai/jobs/info/688ba091906ac06e1d1ccda5?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Jul 31 |
 | ↳ | **[ESPN Digital Video Intern, Fall 2025](https://jobright.ai/jobs/info/688b9ec43a30793eb963bff5?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Jul 31 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Fall 2025](https://jobright.ai/jobs/info/686ec4019ac195524dc1d776?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 31 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Culinary Internship](https://jobright.ai/jobs/info/688903849f961617fe210f6f?utm_campaign=1053&utm_source=git)** | Ozark, MO (Ozark Mill) | On Site | Jul 29 |
 | **[NPR](http://www.npr.org)** | **[Petra Mayer Memorial Fellowship, Arts and Culture Hub](https://jobright.ai/jobs/info/6889033309808a6103e441b8?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING 03/07/2025](https://jobright.ai/jobs/info/68891a2009808a6103e44c29?utm_campaign=1053&utm_source=git)** | Springfield, IL | On Site | Jul 29 |
-| ↳ | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6889194d09808a6103e44b72?utm_campaign=1053&utm_source=git)** | Bordentown, NJ | On Site | Jul 29 |
-| ↳ | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68891808aab47a17f66febad?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Jul 29 |
-| **[NoGood](https://nogood.io)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6889a63a9f961617fe216a00?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 29 |
-| **[Newfields a Place for Nature & The Arts](https://discovernewfields.org/)** | **[Registration Permanent Collection Assistant](https://jobright.ai/jobs/info/68882896fbbf032d00079101?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 29 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68889667aab47a17f66fc550?utm_campaign=1053&utm_source=git)** | Reno, NV | On Site | Jul 29 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6889adc309808a6103e4a672?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 28 |
-| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6889b16d9f961617fe2174ed?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
