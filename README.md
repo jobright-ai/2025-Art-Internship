@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Fall 2025](https://jobright.ai/jobs/info/688b35ac3a30793eb9639119?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
+| **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[WCVB Fall 2025 News Intern](https://jobright.ai/jobs/info/688b2cbd906ac06e1d1c9ce1?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jul 31 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Documentary Production: NYC - Fall 2025](https://jobright.ai/jobs/info/688b261d9f961617fe222198?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
+| ↳ | **[WAY Intern - CNN Newsgathering: DC - Fall 2025](https://jobright.ai/jobs/info/688b25eb09808a6103e55425?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
+| ↳ | **[WAY Intern - CNN The Lead with Jake Tapper: DC - Fall 2025](https://jobright.ai/jobs/info/688b24e4aab47a17f670f3f7?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
+| ↳ | **[WAY Intern - CNN Political Unit: DC - Fall 2025](https://jobright.ai/jobs/info/688b22c7aab47a17f670f2eb?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
+| ↳ | **[WAY Intern - CNN Documentary Production: ATL - Fall 2025](https://jobright.ai/jobs/info/688b220f9f961617fe221fe0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jul 31 |
+| ↳ | **[WAY Intern - CNN The Source with Kaitlan Collins: NYC - Fall 2025](https://jobright.ai/jobs/info/688b217a09808a6103e55201?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Newsgathering: DC - Fall 2025](https://jobright.ai/jobs/info/688b120eaab47a17f670e672?utm_campaign=1053&utm_source=git)** | DC Washington 820 1st Street NE | Hybrid | Jul 30 |
-| **[Headline Sports Group](http://headlinesportsgroup.com)** | **[Writing Intern](https://jobright.ai/jobs/info/688b118609808a6103e545b7?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 30 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Political Unit: DC - Fall 2025](https://jobright.ai/jobs/info/688b0fef09808a6103e5433d?utm_campaign=1053&utm_source=git)** | DC Washington 820 1st Street NE | Hybrid | Jul 30 |
+| ↳ | **[WAY Intern - CNN Political Unit: DC - Fall 2025](https://jobright.ai/jobs/info/688b0fef09808a6103e5433d?utm_campaign=1053&utm_source=git)** | DC Washington 820 1st Street NE | Hybrid | Jul 30 |
 | ↳ | **[WAY Intern - CNN Documentary Production: NYC - Fall 2025](https://jobright.ai/jobs/info/688b0fab09808a6103e542c2?utm_campaign=1053&utm_source=git)** | NY New York 30 Hudson Yards | Hybrid | Jul 30 |
 | ↳ | **[WAY Intern - CNN Documentary Production: ATL - Fall 2025](https://jobright.ai/jobs/info/688b008caab47a17f670d810?utm_campaign=1053&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Jul 30 |
 | ↳ | **[WAY Intern - CNN The Source with Kaitlan Collins: NYC - Fall 2025](https://jobright.ai/jobs/info/688b0040aab47a17f670d79e?utm_campaign=1053&utm_source=git)** | NY New York 30 Hudson Yards | Hybrid | Jul 30 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6889adc309808a6103e4a672?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 28 |
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6889b16d9f961617fe2174ed?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Jul 28 |
 | ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/6889b2659f961617fe21756a?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Jul 28 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67f965625c2cf2888f6ee1b7?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Jul 28 |
 | **[TitleFrame](https://www.titleframe.com/)** | **[Production Assistant](https://jobright.ai/jobs/info/6889c23e9f961617fe2182e0?utm_campaign=1053&utm_source=git)** | Chamblee, GA | On Site | Jul 28 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Live Broadcast Intern](https://jobright.ai/jobs/info/688b088e09808a6103e53d7c?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Jul 28 |
-| **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Fall 2025](https://jobright.ai/jobs/info/688988229f961617fe215161?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Jul 28 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Bay Area - Community Engagement Internship - Academic Year '25-'26](https://jobright.ai/jobs/info/6888228afbbf032d00078f48?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
-| **[The KINN](www.thekinn.co)** | **[KINN Events Intern](https://jobright.ai/jobs/info/68881e974174df41e0fa2faf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 28 |
-| **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com/)** | **[2025 Internship, Fall - Event Operations](https://jobright.ai/jobs/info/68881e7273e3e13cbd9427b1?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Jul 28 |
-| **[The Kraft Group & Affiliates](http://www.thekraftgroup.com)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/6870a700a5ae807a59cfa4a2?utm_campaign=1053&utm_source=git)** | Foxborough (Foxboro), MA | On Site | Jul 28 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Drama – Fall 2025](https://jobright.ai/jobs/info/68881791fbbf032d00078a90?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 28 |
-| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo Area de la Bahia 48 - News Internship – Academic Year '25-'26](https://jobright.ai/jobs/info/6888174673e3e13cbd9423bc?utm_campaign=1053&utm_source=git)** | San Jose, CA | Hybrid | Jul 28 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS NEWS INTERN FALL '25 - WWNY](https://jobright.ai/jobs/info/688816334174df41e0fa2abd?utm_campaign=1053&utm_source=git)** | Watertown, NY | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
