@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Journal](http://www.nationaljournal.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/688aacf49f961617fe21d5f2?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 30 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship FALL 2025 (Washington, DC)](https://jobright.ai/jobs/info/688aa0d09f961617fe21d150?utm_campaign=1053&utm_source=git)** | DC, Washington | On Site | Jul 30 |
+| ↳ | **[NewsNation News Internship FALL 2025 (Chicago &  New York)](https://jobright.ai/jobs/info/688aa08f09808a6103e50390?utm_campaign=1053&utm_source=git)** | IL, Chicago | On Site | Jul 30 |
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Content Creator Internship](https://jobright.ai/jobs/info/688a8ab99f961617fe21c740?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Jul 30 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Fareed Zakaria GPS Intern: NYC - Fall 2025](https://jobright.ai/jobs/info/688a88549f961617fe21c6aa?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[PFF](https://www.pff.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/688a86339f961617fe21c5a5?utm_campaign=1053&utm_source=git)** | Remote (United States) | Remote | Jul 30 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[ESPN](http://espncareers.com)** | **[ESPN NEXT Social Production Intern, Remote, Fall 2025](https://jobright.ai/jobs/info/688a428c09808a6103e4d65e?utm_campaign=1053&utm_source=git)** | Bristol, CT | Remote | Jul 30 |
 | **[NPR](http://www.npr.org)** | **[Petra Mayer Memorial Fellowship, Arts and Culture Hub](https://jobright.ai/jobs/info/688a3dfa9f961617fe21a349?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Jul 30 |
 | **[Adore Me](http://www.adoreme.com/)** | **[Creative Production Intern](https://jobright.ai/jobs/info/688a3c9309808a6103e4d449?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 30 |
-| **[RAW APP](https://www.raw.app)** | **[Content Creator Intern](https://jobright.ai/jobs/info/688a30f9aab47a17f6707051?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 30 |
 | **[GBH](http://www.wgbh.org/)** | **[NEPM News Intern - Fall 2025](https://jobright.ai/jobs/info/686d5c3082cf7edcbdc3e6b3?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Jul 30 |
 | **[New England Public Media](https://www.nepm.org/)** | **[NEPM News Intern - Fall 2025](https://jobright.ai/jobs/info/686d56bcf647ce171897fca9?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Jul 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - External Relations (Summer 2025)](https://jobright.ai/jobs/info/6889fbb79f961617fe21910b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 30 |
@@ -145,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Texas Oral History Association](https://toha.web.baylor.edu/about)** | **[Student Productions Intern - BC](https://jobright.ai/jobs/info/6887dfa1fbbf032d0007718b?utm_campaign=1053&utm_source=git)** | Waco, TX, United States | Hybrid | Jul 28 |
 | **[Condé Nast](http://www.condenast.com)** | **[Research Fellow](https://jobright.ai/jobs/info/6887ddcb4174df41e0fa1258?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Jul 28 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Weather Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/6888487b73e3e13cbd943ba6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Jul 28 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Area de la Bahia 48 - News Internship  – Academic Year '25-'26](https://jobright.ai/jobs/info/6887cc624174df41e0fa0b7d?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Area de la Bahia 48 - News Internship  – Academic Year '25-'26](https://jobright.ai/jobs/info/6887cc5c4174df41e0fa0b7a?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
 | ↳ | **[Telemundo Area de la Bahia 48 - Production Internship – Academic Year '25-'26](https://jobright.ai/jobs/info/6887cc2673e3e13cbd94030d?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Jul 28 |
 | **[Purdue Federal Credit Union](https://www.purduefed.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6887c8524174df41e0fa088c?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Jul 28 |
 | **[Dôen](https://shopdoen.com)** | **[Part Time Production Intern](https://jobright.ai/jobs/info/686efe5cd08bf5ea46efb187?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chic Soul ](https://chicsoul.com/)** | **[Production/Content Creation Internship](https://jobright.ai/jobs/info/6887ac424174df41e0f9fb6a?utm_campaign=1053&utm_source=git)** | Opelika, AL | On Site | Jul 28 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WCVB Fall 2025 News Intern](https://jobright.ai/jobs/info/6887ab8cfbbf032d000757ba?utm_campaign=1053&utm_source=git)** | 5 TV Place, Needham, MA, 02494, US | On Site | Jul 28 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/6887a1d073e3e13cbd93ed5d?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Condé Nast](http://www.condenast.com)** | **[Research Fellow](https://jobright.ai/jobs/info/6887981b4174df41e0f9f1ac?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Jul 28 |
-| **[Plutus Media](https://growwithplutus.com/)** | **[TikTok Content Creator](https://jobright.ai/jobs/info/68876b9c4174df41e0f9e231?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
