@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Branding Iron Sports Writer, Student Media](https://jobright.ai/jobs/info/688d2be327f9022553c09b48?utm_campaign=1053&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Aug 01 |
+| **[Gradient Experience](https://www.wearegradient.com/)** | **[Production Internship](https://jobright.ai/jobs/info/688d2ae527f9022553c09993?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Aug 01 |
+| **[Full Squad](http://nrg.gg)** | **[Editing Intern](https://jobright.ai/jobs/info/688d29ed27f9022553c097db?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
 | **[The Information](https://www.theinformation.com)** | **[2026 Summer Editorial Intern](https://jobright.ai/jobs/info/688d139a3a30793eb96485ce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[A For The People Insurance Agency, Inc.](https://www.aforthepeople.com)** | **[Podcast Intern](https://jobright.ai/jobs/info/688d062027f9022553c08709?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Aug 01 |
 | **[YourBookTeam](https://yourbookteam.com)** | **[AI-Assisted Writing Intern](https://jobright.ai/jobs/info/688cfae927f9022553c083e2?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adore Me](http://www.adoreme.com/)** | **[Creative Production Intern](https://jobright.ai/jobs/info/688a3c9309808a6103e4d449?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 30 |
 | **[Chirpr App](https://chirprapp.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/688c4efd906ac06e1d1d3025?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/678925feb1ed92949ce60195?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Jul 30 |
-| **[GBH](http://www.wgbh.org/)** | **[NEPM News Intern - Fall 2025](https://jobright.ai/jobs/info/686d5c3082cf7edcbdc3e6b3?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Jul 30 |
-| **[New England Public Media](https://www.nepm.org/)** | **[NEPM News Intern - Fall 2025](https://jobright.ai/jobs/info/686d56bcf647ce171897fca9?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Jul 30 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - External Relations (Summer 2025)](https://jobright.ai/jobs/info/6889fbb79f961617fe21910b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
