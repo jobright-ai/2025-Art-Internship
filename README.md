@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern (News), PT-1, WTVR](https://jobright.ai/jobs/info/688bf1c3906ac06e1d1cfa44?utm_campaign=1053&utm_source=git)** | Richmond, VA - WTVR | On Site | Jul 31 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern, at Dallas FIG](https://jobright.ai/jobs/info/688bea011808534a89cb724e?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Jul 31 |
 | **[ASU Enterprise Partners](http://asuenterprisepartners.org/)** | **[Student Writer / Editor](https://jobright.ai/jobs/info/688be418906ac06e1d1cf484?utm_campaign=1053&utm_source=git)** | Tempe, AZ | Hybrid | Jul 31 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/688be40e1808534a89cb7018?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[Ivy Tech Community College Indianapolis](www.ivytech.edu/indianapolis)** | **[Museum Collections Intern-Work Study](https://jobright.ai/jobs/info/688be3a73a30793eb963e88b?utm_campaign=1053&utm_source=git)** | Richmond, IN | On Site | Jul 31 |
 | **[Ohio University](https://www.ohio.edu)** | **[Student Writer & Content Creator](https://jobright.ai/jobs/info/688bf98f1808534a89cb78a0?utm_campaign=1053&utm_source=git)** | Athens, OH | On Site | Jul 31 |
 | **[Warby Parker](http://www.warbyparker.com)** | **[Apprentice Optician - The Shops at SunVet](https://jobright.ai/jobs/info/688bda691808534a89cb6b21?utm_campaign=1053&utm_source=git)** | Holbrook, NY | On Site | Jul 31 |
@@ -84,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Advisor.](www.advisormag.co)** | **[Trend, Style & Shopping Writing Intern](https://jobright.ai/jobs/info/688bc18f1808534a89cb5d45?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[No Ceilings](https://www.noceilingsnba.com/)** | **[Site Editor Internship (Fall 2025) – Remote](https://jobright.ai/jobs/info/688bbece906ac06e1d1ce0c7?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Writer / Editor](https://jobright.ai/jobs/info/688bbd91906ac06e1d1cdf54?utm_campaign=1053&utm_source=git)** | Tempe, AZ | Hybrid | Jul 31 |
+| **[No Ceilings](https://www.noceilingsnba.com/)** | **[Video Editor Internship (Fall 2025)](https://jobright.ai/jobs/info/688ca7a527f9022553c062a7?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[TV Guide Magazine](http://www.tvguidemagsales.com)** | **[TV GUIDE MAGAZINE EDITORIAL INTERNSHIP](https://jobright.ai/jobs/info/688bb6de3a30793eb963cd2f?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 31 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[Hiring Content Creator](https://jobright.ai/jobs/info/688bc7811808534a89cb613f?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Fall Fashion Internship in Paris](https://jobright.ai/jobs/info/688c3621906ac06e1d1d1c4c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 31 |
@@ -107,7 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WAY Intern - CNN The Lead with Jake Tapper: DC - Fall 2025](https://jobright.ai/jobs/info/688aff6d9f961617fe2203c3?utm_campaign=1053&utm_source=git)** | DC Washington 820 1st Street NE | Hybrid | Jul 30 |
 | **[Bee's Houzz Music Festival & Events Co.](https://www.beeshouzz.com)** | **[Festival Operations Intern](https://jobright.ai/jobs/info/688af1cd9f961617fe21fa2e?utm_campaign=1053&utm_source=git)** | Huntington Beach, CA | On Site | Jul 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship FALL 2025 (Washington, DC)](https://jobright.ai/jobs/info/688adbf009808a6103e51c22?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 30 |
-| ↳ | **[NewsNation News Internship FALL 2025 (Chicago & New York)](https://jobright.ai/jobs/info/688ad81d09808a6103e51a8a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 30 |
+| **[The Dispatch](https://thedispatch.com/)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/688adbd99f961617fe21eafc?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 30 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship FALL 2025 (Chicago & New York)](https://jobright.ai/jobs/info/688ad81d09808a6103e51a8a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 30 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Videographer](https://jobright.ai/jobs/info/688ad7a89f961617fe21e77d?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Intern](https://jobright.ai/jobs/info/683d316cf04ea8ddaf7891c5?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 30 |
 | **[MEmusic.](http://www.memusic.group)** | **[MEmusic.internships summer/fall 2025](https://jobright.ai/jobs/info/688ab44609808a6103e50b2a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Toofab Intern - Fall 2025](https://jobright.ai/jobs/info/6889944609808a6103e48bef?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[University Event Production Intern](https://jobright.ai/jobs/info/68896f2b9f961617fe2142e5?utm_campaign=1053&utm_source=git)** | BYU–Hawaii | On Site | Jul 29 |
 | **[Calvary Chapel Fort Lauderdale](https://calvaryftl.org)** | **[Calvary Music Production Assistant](https://jobright.ai/jobs/info/688a8e5d9f961617fe21c944?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 29 |
-| **[Japan Society](http://www.japansociety.org)** | **[Performing Arts Intern](https://jobright.ai/jobs/info/68896179aab47a17f67012da?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
