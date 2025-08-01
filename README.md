@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[YourBookTeam](https://yourbookteam.com)** | **[AI-Assisted Writing Intern](https://jobright.ai/jobs/info/688cfae927f9022553c083e2?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
+| **[American Institute of Physics](http://aip.org/)** | **[Internship – Science Writer](https://jobright.ai/jobs/info/688cf75b1808534a89cbff25?utm_campaign=1053&utm_source=git)** | College Park, MD | Hybrid | Aug 01 |
+| ↳ | **[Archives Intern](https://jobright.ai/jobs/info/688cf2103a30793eb96475fa?utm_campaign=1053&utm_source=git)** | College Park, MD | Hybrid | Aug 01 |
+| **[RLo Salon](www.rlosalon.com)** | **[Salon Assistant](https://jobright.ai/jobs/info/688ceb473a30793eb9647287?utm_campaign=1053&utm_source=git)** | Wyckoff, NJ | On Site | Aug 01 |
+| **[Plutus Media](https://growwithplutus.com/)** | **[Hiring Content Creator for TikTok](https://jobright.ai/jobs/info/688cea631808534a89cbf9d8?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
 | ↳ | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/688ccaaa27f9022553c06e00?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Aug 01 |
@@ -73,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Student Writer](https://jobright.ai/jobs/info/688c1aa43a30793eb963feb2?utm_campaign=1053&utm_source=git)** | Ogden, UT | On Site | Jul 31 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Curatorial Intern: History](https://jobright.ai/jobs/info/688c127a3a30793eb963fac4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 31 |
 | **[Venture Starters](https://venturestarters.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/688c0fd11808534a89cb7fd7?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
+| **[Griffin Media](http://griffincommunications.net/)** | **[News 9 Fall Newsroom Intern](https://jobright.ai/jobs/info/688ce7ca3a30793eb9646ffa?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jul 31 |
 | **[The Little Nell](https://www.thelittlenell.com)** | **[Culinary/Pastry Externship - The Little Nell - Winter](https://jobright.ai/jobs/info/688c25121808534a89cb8bb6?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Jul 31 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WBAY](https://jobright.ai/jobs/info/688bfd8f1808534a89cb7a43?utm_campaign=1053&utm_source=git)** | Green Bay, WI | On Site | Jul 31 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Quilly Writing Internship [ (Unpaid) Fall 2025 ]](https://jobright.ai/jobs/info/688bf9ed3a30793eb963f185?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Remote | Jul 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New England Public Media](https://www.nepm.org/)** | **[NEPM News Intern - Fall 2025](https://jobright.ai/jobs/info/686d56bcf647ce171897fca9?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Jul 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - External Relations (Summer 2025)](https://jobright.ai/jobs/info/6889fbb79f961617fe21910b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/686e2a3e95e5ed7966dab099?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Jul 30 |
-| **[Museum of Science](http://www.mos.org)** | **[Archives Management Intern](https://jobright.ai/jobs/info/6889b4b109808a6103e4aa95?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 29 |
-| ↳ | **[Archives Management Intern](https://jobright.ai/jobs/info/688b10e1aab47a17f670e490?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 29 |
-| **[LV Collective](https://lvcollective.com)** | **[Video Production Intern Fall 2025](https://jobright.ai/jobs/info/6889a0ffaab47a17f6703a8f?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Jul 29 |
-| **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/688b025309808a6103e53a30?utm_campaign=1053&utm_source=git)** | Cashiers, NC | On Site | Jul 29 |
-| **[TMZ](http://www.tmz.com/)** | **[TMZ News Desk Intern - Fall 2025](https://jobright.ai/jobs/info/688980e79f961617fe214d2f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
-| ↳ | **[TMZ Podcasts Intern - Fall 2025](https://jobright.ai/jobs/info/688980b909808a6103e48089?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
