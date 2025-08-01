@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Holiday Channel®](http://www.holidaychannel.net)** | **[Web Content Writer Internship (UNPAID)](https://jobright.ai/jobs/info/688c60041808534a89cbb4cb?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Curatorial Intern: History](https://jobright.ai/jobs/info/688c45c91808534a89cba30b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 31 |
 | **[WTVR-TV](http://wtvr.com/)** | **[Intern (News), PT-1, WTVR](https://jobright.ai/jobs/info/688c52893a30793eb96421fa?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jul 31 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Museum Collections Intern-Work Study](https://jobright.ai/jobs/info/688c2107906ac06e1d1d0f7e?utm_campaign=1053&utm_source=git)** | Richmond, IN | On Site | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Calvary Chapel Fort Lauderdale](https://calvaryftl.org)** | **[Calvary Music Production Assistant](https://jobright.ai/jobs/info/688a8e5d9f961617fe21c944?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 29 |
 | **[Japan Society](http://www.japansociety.org)** | **[Performing Arts Intern](https://jobright.ai/jobs/info/68896179aab47a17f67012da?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Retail Intern - Fall 2025](https://jobright.ai/jobs/info/688961209f961617fe213e95?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Jul 29 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[TMZ Sports Desk Intern - Fall 2025](https://jobright.ai/jobs/info/68895af7aab47a17f67010c9?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
