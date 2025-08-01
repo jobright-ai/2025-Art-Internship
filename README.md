@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
+| ↳ | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
+| **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/688ccaaa27f9022553c06e00?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Aug 01 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News "All Things Considered" Internship - Fall 2025](https://jobright.ai/jobs/info/68701e01a5ae807a59cf5d99?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
 | ↳ | **[NEPM Sports Reporter Internship Fall 2025 Semester](https://jobright.ai/jobs/info/68701eef06ad7073463bb38a?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Aug 01 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/688caad33a30793eb9645c2a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/688b025309808a6103e53a30?utm_campaign=1053&utm_source=git)** | Cashiers, NC | On Site | Jul 29 |
 | **[TMZ](http://www.tmz.com/)** | **[TMZ News Desk Intern - Fall 2025](https://jobright.ai/jobs/info/688980e79f961617fe214d2f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | ↳ | **[TMZ Podcasts Intern - Fall 2025](https://jobright.ai/jobs/info/688980b909808a6103e48089?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
-| **[Museum of Science](http://www.mos.org)** | **[Adult Programs Collegiate Internship](https://jobright.ai/jobs/info/6889b1ceaab47a17f67049f7?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Jul 29 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent & Casting Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/6889722d09808a6103e479e2?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Jul 29 |
-| **[TMZ](http://www.tmz.com/)** | **[TMZ Sports Desk Intern - Fall 2025](https://jobright.ai/jobs/info/688994a9aab47a17f6702d45?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
