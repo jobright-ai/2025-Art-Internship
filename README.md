@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minnesota Children's Museum](http://www.mcm.org)** | **[Traveling Exhibits Props and Costumes Intern](https://jobright.ai/jobs/info/688d63261808534a89cc2e88?utm_campaign=1053&utm_source=git)** | Minnesota Children's Museum | On Site | Aug 01 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Radio Production & Social Media Intern](https://jobright.ai/jobs/info/688d61f91808534a89cc2dc3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
+| **[Venture Starters](https://venturestarters.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/688d5a1127f9022553c0ae44?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
+| **[Utah Jazz](http://www.nba.com/jazz)** | **[Part-Time Broadcast Assistant, Utah Jazz & Utah Mammoth](https://jobright.ai/jobs/info/688d58b83a30793eb964a566?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 01 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WBTV](https://jobright.ai/jobs/info/688d48a01808534a89cc25fe?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[KLFY Fall News Internship (Unpaid)](https://jobright.ai/jobs/info/688d416427f9022553c0a502?utm_campaign=1053&utm_source=git)** | LA, Lafayette | On Site | Aug 01 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Branding Iron Sports Writer, Student Media](https://jobright.ai/jobs/info/688d2be327f9022553c09b48?utm_campaign=1053&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Aug 01 |
@@ -84,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Curatorial Intern: History](https://jobright.ai/jobs/info/688c1d613a30793eb9640176?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 31 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Student Writer](https://jobright.ai/jobs/info/688c1aa43a30793eb963feb2?utm_campaign=1053&utm_source=git)** | Ogden, UT | On Site | Jul 31 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Curatorial Intern: History](https://jobright.ai/jobs/info/688c127a3a30793eb963fac4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 31 |
-| **[Venture Starters](https://venturestarters.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/688c0fd11808534a89cb7fd7?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[News 9 Fall Newsroom Intern](https://jobright.ai/jobs/info/688ce7ca3a30793eb9646ffa?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jul 31 |
 | **[The Little Nell](https://www.thelittlenell.com)** | **[Culinary/Pastry Externship - The Little Nell - Winter](https://jobright.ai/jobs/info/688c25121808534a89cb8bb6?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Jul 31 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WBAY](https://jobright.ai/jobs/info/688bfd8f1808534a89cb7a43?utm_campaign=1053&utm_source=git)** | Green Bay, WI | On Site | Jul 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/688a53389f961617fe21ab38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | On Site | Jul 30 |
 | **[ESPN](http://espncareers.com)** | **[ESPN NEXT Social Production Intern, Remote, Fall 2025](https://jobright.ai/jobs/info/688a428c09808a6103e4d65e?utm_campaign=1053&utm_source=git)** | Bristol, CT | Remote | Jul 30 |
 | **[NPR](http://www.npr.org)** | **[Petra Mayer Memorial Fellowship, Arts and Culture Hub](https://jobright.ai/jobs/info/688a3dfa9f961617fe21a349?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Jul 30 |
-| **[Adore Me](http://www.adoreme.com/)** | **[Creative Production Intern](https://jobright.ai/jobs/info/688a3c9309808a6103e4d449?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 30 |
-| **[Chirpr App](https://chirprapp.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/688c4efd906ac06e1d1d3025?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/678925feb1ed92949ce60195?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
