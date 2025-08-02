@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WBTV](https://jobright.ai/jobs/info/688d48a01808534a89cc25fe?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[KLFY Fall News Internship (Unpaid)](https://jobright.ai/jobs/info/688d416427f9022553c0a502?utm_campaign=1053&utm_source=git)** | LA, Lafayette | On Site | Aug 01 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Branding Iron Sports Writer, Student Media](https://jobright.ai/jobs/info/688d2be327f9022553c09b48?utm_campaign=1053&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Aug 01 |
 | **[Gradient Experience](https://www.wearegradient.com/)** | **[Production Internship](https://jobright.ai/jobs/info/688d2ae527f9022553c09993?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Aug 01 |
 | **[Full Squad](http://nrg.gg)** | **[Editing Intern](https://jobright.ai/jobs/info/688d29ed27f9022553c097db?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[No Ceilings](https://www.noceilingsnba.com/)** | **[Site Editor Internship (Fall 2025) – Remote](https://jobright.ai/jobs/info/688bbece906ac06e1d1ce0c7?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Writer / Editor](https://jobright.ai/jobs/info/688bbd91906ac06e1d1cdf54?utm_campaign=1053&utm_source=git)** | Tempe, AZ | Hybrid | Jul 31 |
 | **[TV Guide Magazine](http://www.tvguidemagsales.com)** | **[TV GUIDE MAGAZINE EDITORIAL INTERNSHIP](https://jobright.ai/jobs/info/688bb6de3a30793eb963cd2f?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 31 |
-| **[Plutus Media](https://growwithplutus.com/)** | **[Hiring Content Creator](https://jobright.ai/jobs/info/688bc7811808534a89cb613f?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Fall Fashion Internship in Paris](https://jobright.ai/jobs/info/688c3621906ac06e1d1d1c4c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 31 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Universal News Group Intern, Fall 2025](https://jobright.ai/jobs/info/688ba091906ac06e1d1ccda5?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Jul 31 |
 | ↳ | **[ESPN Digital Video Intern, Fall 2025](https://jobright.ai/jobs/info/688b9ec43a30793eb963bff5?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Jul 31 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[High Point University](http://www.highpoint.edu/)** | **[The Office of Undergraduate Research and Creative Works (URCW) - Newsletter editor](https://jobright.ai/jobs/info/688a6c62aab47a17f67089b5?utm_campaign=1053&utm_source=git)** | High Point University | On Site | Jul 30 |
 | **[Jpixx LLC](https://epixx.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/688a60bd09808a6103e4e2ba?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Jul 30 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent & Casting Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/688a5fb109808a6103e4e252?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Jul 30 |
-| **[TGR](http://www.thegarnettereport.com)** | **[Fall Internship](https://jobright.ai/jobs/info/688a5c109f961617fe21af95?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Jul 30 |
 | **[IAH Studio](www.iahstudio.com)** | **[Music Festival Volunteer](https://jobright.ai/jobs/info/688a58699f961617fe21ad93?utm_campaign=1053&utm_source=git)** | Bronx, NY | Hybrid | Jul 30 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/688a53389f961617fe21ab38?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | On Site | Jul 30 |
 | **[ESPN](http://espncareers.com)** | **[ESPN NEXT Social Production Intern, Remote, Fall 2025](https://jobright.ai/jobs/info/688a428c09808a6103e4d65e?utm_campaign=1053&utm_source=git)** | Bristol, CT | Remote | Jul 30 |
