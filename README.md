@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dcd056a4aac5783cd78b4?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 02 |
+| **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dc4276a4aac5783cd72d2?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Hall of Music Event Tech 1 - Student Service](https://jobright.ai/jobs/info/688d995fe5cead4afd457e5e?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Multiplatform Programming Intern, Fall 2025](https://jobright.ai/jobs/info/688d9566cdbd821a3663c513?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Aug 01 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Fine Arts Intern](https://jobright.ai/jobs/info/68842829b54cac0f1e73c717?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 01 |
@@ -85,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[GBH News "All Things Considered" Internship - Fall 2025](https://jobright.ai/jobs/info/68701e01a5ae807a59cf5d99?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
 | ↳ | **[NEPM Sports Reporter Internship Fall 2025 Semester](https://jobright.ai/jobs/info/68701eef06ad7073463bb38a?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Aug 01 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/688caad33a30793eb9645c2a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 01 |
+| **[PGA TOUR](http://www.pgatour.com)** | **[Event Operations Intern - THE PLAYERS](https://jobright.ai/jobs/info/68814aa116ea5743a3737e09?utm_campaign=1053&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Aug 01 |
 | **[Pennsylvania Horticultural Society (PHS)](http://www.phsonline.org/)** | **[Volunteers Intern, Shows](https://jobright.ai/jobs/info/688dc7a96a4aac5783cd7621?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
 | ↳ | **[Operations Intern, Shows](https://jobright.ai/jobs/info/688dc3cd6a4aac5783cd7294?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
 | ↳ | **[Competitive Classes Intern, Shows](https://jobright.ai/jobs/info/688dc3c46a4aac5783cd7290?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/688a8612aab47a17f670980e?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 30 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Special Content Production Intern: NYC - Fall 2025](https://jobright.ai/jobs/info/688a82cfaab47a17f6709673?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Digital Video Intern, Fall 2025](https://jobright.ai/jobs/info/688a814d09808a6103e4f456?utm_campaign=1053&utm_source=git)** | Bristol, CT, USA | Hybrid | Jul 30 |
-| ↳ | **[ESPN Universal News Group Intern, Fall 2025](https://jobright.ai/jobs/info/688a770caab47a17f670905b?utm_campaign=1053&utm_source=git)** | Bristol, CT, USA | Hybrid | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
