@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Pulchritude Fashion Studio](pulchritudefashion.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/688f55d3e5cead4afd4609f6?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Aug 03 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b17?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Aug 03 |
 | **[Arwaky Studio](https://www.instagram.com/arwaky.std/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/688f110ae5cead4afd460543?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Optimum Media](https://a4alticeadvertising.com/)** | **[Intern](https://jobright.ai/jobs/info/688ef3746a4aac5783cdb913?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 02 |
@@ -119,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern (News), PT-1, WTVR](https://jobright.ai/jobs/info/688bf1c3906ac06e1d1cfa44?utm_campaign=1053&utm_source=git)** | Richmond, VA - WTVR | On Site | Jul 31 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern, at Dallas FIG](https://jobright.ai/jobs/info/688bea011808534a89cb724e?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Jul 31 |
 | **[ASU Enterprise Partners](http://asuenterprisepartners.org/)** | **[Student Writer / Editor](https://jobright.ai/jobs/info/688be418906ac06e1d1cf484?utm_campaign=1053&utm_source=git)** | Tempe, AZ | Hybrid | Jul 31 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/688be40e1808534a89cb7018?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[Ivy Tech Community College Indianapolis](www.ivytech.edu/indianapolis)** | **[Museum Collections Intern-Work Study](https://jobright.ai/jobs/info/688be3a73a30793eb963e88b?utm_campaign=1053&utm_source=git)** | Richmond, IN | On Site | Jul 31 |
 | **[Ampereon](http://www.ampereonenergy.com)** | **[Film Production Intern](https://jobright.ai/jobs/info/688db11acdbd821a3663e02f?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Jul 31 |
 | **[Ohio University](https://www.ohio.edu)** | **[Student Writer & Content Creator](https://jobright.ai/jobs/info/688bf98f1808534a89cb78a0?utm_campaign=1053&utm_source=git)** | Athens, OH | On Site | Jul 31 |
@@ -128,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Culinary Internship](https://jobright.ai/jobs/info/688bd1c81808534a89cb6620?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jul 31 |
 | **[HYBE America](https://hybecorp.com/eng/company/info)** | **[Intern](https://jobright.ai/jobs/info/688bd0a3906ac06e1d1ce9ff?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Hybrid | Jul 31 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/688bf8403a30793eb963f0d3?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Jul 31 |
-| **[ElectraCast Media](http://www.electracast.com)** | **[Crowdsourced Comedy Podcast Producer/Editor Internship](https://jobright.ai/jobs/info/688bc53d3a30793eb963d8bc?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[No Ceilings](https://www.noceilingsnba.com/)** | **[Site Editor Internship (Fall 2025) – Remote](https://jobright.ai/jobs/info/688bbece906ac06e1d1ce0c7?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Writer / Editor](https://jobright.ai/jobs/info/688bbd91906ac06e1d1cdf54?utm_campaign=1053&utm_source=git)** | Tempe, AZ | Hybrid | Jul 31 |
 | **[TV Guide Magazine](http://www.tvguidemagsales.com)** | **[TV GUIDE MAGAZINE EDITORIAL INTERNSHIP](https://jobright.ai/jobs/info/688bb6de3a30793eb963cd2f?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 31 |
@@ -153,8 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Bee's Houzz Music Festival & Events Co.](https://www.beeshouzz.com)** | **[Festival Operations Intern](https://jobright.ai/jobs/info/688af1cd9f961617fe21fa2e?utm_campaign=1053&utm_source=git)** | Huntington Beach, CA | On Site | Jul 30 |
 | **[New York Islanders](http://newyorkislanders.com)** | **[Production Associate - Intern](https://jobright.ai/jobs/info/688da231e5cead4afd4586fc?utm_campaign=1053&utm_source=git)** | Floral Park, NY | On Site | Jul 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship FALL 2025 (Washington, DC)](https://jobright.ai/jobs/info/688adbf009808a6103e51c22?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 30 |
-| ↳ | **[NewsNation News Internship FALL 2025 (Chicago & New York)](https://jobright.ai/jobs/info/688ad81d09808a6103e51a8a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 30 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Videographer](https://jobright.ai/jobs/info/688ad7a89f961617fe21e77d?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Jul 30 |
+| **[The Dispatch](https://thedispatch.com/)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/688adbd99f961617fe21eafc?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 30 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship FALL 2025 (Chicago & New York)](https://jobright.ai/jobs/info/688ad81d09808a6103e51a8a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 30 |
 | **[Montage International](https://www.montageinternational.com)** | **[Culinary Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d61?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Jul 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Intern](https://jobright.ai/jobs/info/683d316cf04ea8ddaf7891c5?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 30 |
+| **[MEmusic.](http://www.memusic.group)** | **[MEmusic.internships summer/fall 2025](https://jobright.ai/jobs/info/688ab44609808a6103e50b2a?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
