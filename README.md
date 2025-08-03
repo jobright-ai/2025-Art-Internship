@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Psycle Health](https://psyclehealth.com)** | **[Video Editor](https://jobright.ai/jobs/info/688e4209cdbd821a36641097?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Aug 02 |
+| **[Psycle Health](https://psyclehealth.com)** | **[Video Editor & Social Media Intern](https://jobright.ai/jobs/info/688e4209cdbd821a36641097?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Aug 02 |
 | **[Miami HEAT](http://HEAT.com)** | **[Content Studio Intern](https://jobright.ai/jobs/info/68716c9206ad7073463c503a?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Aug 02 |
 | **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dc4276a4aac5783cd72d2?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Hall of Music Event Tech 1 - Student Service](https://jobright.ai/jobs/info/688d995fe5cead4afd457e5e?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 01 |
@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Fine Arts Intern](https://jobright.ai/jobs/info/68842829b54cac0f1e73c717?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Minnesota Children's Museum](http://www.mcm.org)** | **[Traveling Exhibits Props and Costumes Intern](https://jobright.ai/jobs/info/688d63261808534a89cc2e88?utm_campaign=1053&utm_source=git)** | Minnesota Children's Museum | On Site | Aug 01 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Radio Production & Social Media Intern](https://jobright.ai/jobs/info/688d61f91808534a89cc2dc3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
-| **[Venture Starters](https://venturestarters.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/688d5a1127f9022553c0ae44?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Part-Time Broadcast Assistant, Utah Jazz & Utah Mammoth](https://jobright.ai/jobs/info/688d58b83a30793eb964a566?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 01 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WBTV](https://jobright.ai/jobs/info/688d48a01808534a89cc25fe?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[KLFY Fall News Internship (Unpaid)](https://jobright.ai/jobs/info/688d416427f9022553c0a502?utm_campaign=1053&utm_source=git)** | LA, Lafayette | On Site | Aug 01 |
@@ -73,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Gradient Experience](https://www.wearegradient.com/)** | **[Production Internship](https://jobright.ai/jobs/info/688d2ae527f9022553c09993?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Aug 01 |
 | **[Full Squad](https://fullsquadgaming.com)** | **[Editing Intern](https://jobright.ai/jobs/info/688d29ed27f9022553c097db?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 01 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Production Assistant (Part Time)](https://jobright.ai/jobs/info/6870d25206ad7073463c1a71?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 01 |
 | **[Ian Charms](http://www.iancharms.com)** | **[Intern](https://jobright.ai/jobs/info/688e1086cdbd821a36640709?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
 | **[The Information](https://www.theinformation.com)** | **[2026 Summer Editorial Intern](https://jobright.ai/jobs/info/688d139a3a30793eb96485ce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[A For The People Insurance Agency, Inc.](https://www.aforthepeople.com)** | **[Podcast Intern](https://jobright.ai/jobs/info/688d062027f9022553c08709?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Aug 01 |
