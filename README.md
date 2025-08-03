@@ -62,7 +62,7 @@ For a complete list, click the following sortable link below:
 | **[HalloweenEveryNight](https://halloweeneverynight.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/688eb153cdbd821a36641eba?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Psycle Health](https://psyclehealth.com)** | **[Video Editor](https://jobright.ai/jobs/info/688e4209cdbd821a36641097?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Aug 02 |
 | **[Miami HEAT](http://HEAT.com)** | **[Content Studio Intern](https://jobright.ai/jobs/info/68716c9206ad7073463c503a?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Aug 02 |
-| **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dcd056a4aac5783cd78b4?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 02 |
+| **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dc4276a4aac5783cd72d2?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Hall of Music Event Tech 1 - Student Service](https://jobright.ai/jobs/info/688d995fe5cead4afd457e5e?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Multiplatform Programming Intern, Fall 2025](https://jobright.ai/jobs/info/688d9566cdbd821a3663c513?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Aug 01 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Production Assistant (Part-Time)](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5bb?utm_campaign=1053&utm_source=git)** | Macon, GA | On Site | Aug 01 |
@@ -97,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/688caad33a30793eb9645c2a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 01 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/67c2511f8843b056d4f5917b?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Aug 01 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Event Operations Intern - THE PLAYERS](https://jobright.ai/jobs/info/68814aa116ea5743a3737e09?utm_campaign=1053&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Aug 01 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5b4?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jul 31 |
 | **[Pennsylvania Horticultural Society (PHS)](http://www.phsonline.org/)** | **[Volunteers Intern, Shows](https://jobright.ai/jobs/info/688dc7a96a4aac5783cd7621?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
 | ↳ | **[Operations Intern, Shows](https://jobright.ai/jobs/info/688dc3cd6a4aac5783cd7294?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
 | ↳ | **[Competitive Classes Intern, Shows](https://jobright.ai/jobs/info/688dc3c46a4aac5783cd7290?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
@@ -130,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[No Ceilings](https://www.noceilingsnba.com/)** | **[Site Editor Internship (Fall 2025) – Remote](https://jobright.ai/jobs/info/688bbece906ac06e1d1ce0c7?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Writer / Editor](https://jobright.ai/jobs/info/688bbd91906ac06e1d1cdf54?utm_campaign=1053&utm_source=git)** | Tempe, AZ | Hybrid | Jul 31 |
 | **[TV Guide Magazine](http://www.tvguidemagsales.com)** | **[TV GUIDE MAGAZINE EDITORIAL INTERNSHIP](https://jobright.ai/jobs/info/688bb6de3a30793eb963cd2f?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 31 |
-| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Fall Fashion Internship in Paris](https://jobright.ai/jobs/info/688c3621906ac06e1d1d1c4c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 31 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Universal News Group Intern, Fall 2025](https://jobright.ai/jobs/info/688ba091906ac06e1d1ccda5?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Jul 31 |
 | ↳ | **[ESPN Digital Video Intern, Fall 2025](https://jobright.ai/jobs/info/688b9ec43a30793eb963bff5?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Jul 31 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Fall 2025](https://jobright.ai/jobs/info/686ec4019ac195524dc1d776?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 31 |
