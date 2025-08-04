@@ -57,20 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern - Fall](https://jobright.ai/jobs/info/6890b783f47efe211394fb14?utm_campaign=1053&utm_source=git)** | SC, Spartanburg | On Site | Aug 04 |
+| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Fall 2025 Manchester Lane Player Research Intern](https://jobright.ai/jobs/info/6890b773f47efe211394fb06?utm_campaign=1053&utm_source=git)** | Acushnet, Massachusetts, United States of America | On Site | Aug 04 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[TikTok (Content Creator)](https://jobright.ai/jobs/info/68907b5cf5ee707a15db6d15?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[KLFY Fall News Internship (Unpaid)](https://jobright.ai/jobs/info/68906e3df5ee707a15db6b5d?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Aug 04 |
 | ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/68906e16f5ee707a15db6b53?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Aug 04 |
 | **[Florida Panthers](http://floridapanthers.com)** | **[Game Presentation Entertainment Intern](https://jobright.ai/jobs/info/6890367ff47efe211394b3ec?utm_campaign=1053&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | Aug 03 |
 | **[Saleseraian](https://salesera.net/)** | **[Content Writing Intern](https://jobright.ai/jobs/info/688fdef3cdbd821a36646294?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 03 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/688fdbcd6a4aac5783cdddd9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 03 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Aug 03 |
+| **[Psycle Health](https://psyclehealth.com)** | **[Video Editor & Social Media Intern](https://jobright.ai/jobs/info/688e4209cdbd821a36641097?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Aug 03 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/681d04d97a08adf0143c746a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 03 |
+| ↳ | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Aug 03 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b17?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Aug 03 |
 | **[Optimum Media](https://a4alticeadvertising.com/)** | **[Intern](https://jobright.ai/jobs/info/688ef3746a4aac5783cdb913?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[ILC Writing Internship](https://jobright.ai/jobs/info/68719ccaa5ae807a59d00bff?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Aug 02 |
 | **[Archer's Stage Entertainment](https://archerstage.my.canva.site/archerstage-website?fbclid=PAZXh0bgNhZW0CMTEAAaeXv0n8xMNY4T6LjUg1x7Lf0WZqqY5WF3aKOTxR6R38g00vOgQksRuyZW16vw_aem_qYNl3nOBEkmkNaYEZNqOuA)** | **[We’re Hiring: Lighting & Technical Director for Boutique Live Showcase](https://jobright.ai/jobs/info/68904534f5ee707a15db5874?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 02 |
-| **[Psycle Health](https://psyclehealth.com)** | **[Video Editor](https://jobright.ai/jobs/info/688e4209cdbd821a36641097?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Aug 02 |
 | **[Miami HEAT](http://HEAT.com)** | **[Content Studio Intern](https://jobright.ai/jobs/info/68716c9206ad7073463c503a?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Aug 02 |
-| **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dcd056a4aac5783cd78b4?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 02 |
+| **[Sauce Music](saucemusic.co)** | **[Creative/Business Internship Program – Fall 2025](https://jobright.ai/jobs/info/688cec451808534a89cbfa6e?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 02 |
+| **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dc4276a4aac5783cd72d2?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Hall of Music Event Tech 1 - Student Service](https://jobright.ai/jobs/info/688d995fe5cead4afd457e5e?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Multiplatform Programming Intern, Fall 2025](https://jobright.ai/jobs/info/688d9566cdbd821a3663c513?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Aug 01 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Production Assistant (Part-Time)](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5bb?utm_campaign=1053&utm_source=git)** | Macon, GA | On Site | Aug 01 |
@@ -92,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Fall 2025](https://jobright.ai/jobs/info/686c774835584b6542dcc26c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
 | **[American Institute of Physics](http://aip.org/)** | **[Internship – Science Writer](https://jobright.ai/jobs/info/688cf75b1808534a89cbff25?utm_campaign=1053&utm_source=git)** | College Park, MD | Hybrid | Aug 01 |
 | ↳ | **[Archives Intern](https://jobright.ai/jobs/info/688cf2103a30793eb96475fa?utm_campaign=1053&utm_source=git)** | College Park, MD | Hybrid | Aug 01 |
-| **[Sauce Music](saucemusic.co)** | **[Video Production Intern](https://jobright.ai/jobs/info/688cec451808534a89cbfa6e?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Aug 01 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
 | ↳ | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Temporary Service - Model](https://jobright.ai/jobs/info/688dcd85e5cead4afd45adc4?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WAY Intern - CNN The Lead with Jake Tapper: DC - Fall 2025](https://jobright.ai/jobs/info/688aff6d9f961617fe2203c3?utm_campaign=1053&utm_source=git)** | DC Washington 820 1st Street NE | Hybrid | Jul 30 |
 | **[Bee's Houzz Music Festival & Events Co.](https://www.beeshouzz.com)** | **[Festival Operations Intern](https://jobright.ai/jobs/info/688af1cd9f961617fe21fa2e?utm_campaign=1053&utm_source=git)** | Huntington Beach, CA | On Site | Jul 30 |
 | **[New York Islanders](http://newyorkislanders.com)** | **[Production Associate - Intern](https://jobright.ai/jobs/info/688da231e5cead4afd4586fc?utm_campaign=1053&utm_source=git)** | Floral Park, NY | On Site | Jul 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship FALL 2025 (Washington, DC)](https://jobright.ai/jobs/info/688adbf009808a6103e51c22?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 30 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/688adbd99f961617fe21eafc?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship FALL 2025 (Chicago & New York)](https://jobright.ai/jobs/info/688ad81d09808a6103e51a8a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
