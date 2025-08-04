@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Florida Panthers](http://floridapanthers.com)** | **[Game Presentation Entertainment Intern](https://jobright.ai/jobs/info/6890367ff47efe211394b3ec?utm_campaign=1053&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | Aug 03 |
 | **[Saleseraian](https://salesera.net/)** | **[Content Writing Intern](https://jobright.ai/jobs/info/688fdef3cdbd821a36646294?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 03 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/688fdbcd6a4aac5783cdddd9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 03 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Fall 2025](https://jobright.ai/jobs/info/688fd21c6a4aac5783cddd41?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Aug 03 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b17?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Aug 03 |
 | **[Optimum Media](https://a4alticeadvertising.com/)** | **[Intern](https://jobright.ai/jobs/info/688ef3746a4aac5783cdb913?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 02 |
@@ -90,8 +89,7 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Fall 2025](https://jobright.ai/jobs/info/686c774835584b6542dcc26c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
 | **[American Institute of Physics](http://aip.org/)** | **[Internship – Science Writer](https://jobright.ai/jobs/info/688cf75b1808534a89cbff25?utm_campaign=1053&utm_source=git)** | College Park, MD | Hybrid | Aug 01 |
 | ↳ | **[Archives Intern](https://jobright.ai/jobs/info/688cf2103a30793eb96475fa?utm_campaign=1053&utm_source=git)** | College Park, MD | Hybrid | Aug 01 |
-| **[Plutus Media](https://growwithplutus.com/)** | **[Hiring Content Creator for TikTok](https://jobright.ai/jobs/info/688cea631808534a89cbf9d8?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
-| ↳ | **[Content Creator (TikTok)](https://jobright.ai/jobs/info/688dcc686a4aac5783cd784b?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
+| **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator (TikTok)](https://jobright.ai/jobs/info/688dcc686a4aac5783cd784b?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Sauce Music](saucemusic.co)** | **[Video Production Intern](https://jobright.ai/jobs/info/688cec451808534a89cbfa6e?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Aug 01 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
 | ↳ | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
@@ -107,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Pennsylvania Horticultural Society (PHS)](http://www.phsonline.org/)** | **[Volunteers Intern, Shows](https://jobright.ai/jobs/info/688dc7a96a4aac5783cd7621?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
 | ↳ | **[Operations Intern, Shows](https://jobright.ai/jobs/info/688dc3cd6a4aac5783cd7294?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
 | ↳ | **[Competitive Classes Intern, Shows](https://jobright.ai/jobs/info/688dc3c46a4aac5783cd7290?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
-| **[Holiday Channel®  |  Holiday World](https://www.myholidayworld.com)** | **[Web Content Writer Internship (UNPAID)](https://jobright.ai/jobs/info/688c60041808534a89cbb4cb?utm_campaign=1053&utm_source=git)** | United States | Remote | Jul 31 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Curatorial Intern: History](https://jobright.ai/jobs/info/688c45c91808534a89cba30b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 31 |
 | **[Lilienthal Gallery](lilienthalgallery.com)** | **[Art Gallery Intern](https://jobright.ai/jobs/info/688da010cdbd821a3663d09b?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jul 31 |
 | **[WTVR-TV](http://wtvr.com/)** | **[Intern (News), PT-1, WTVR](https://jobright.ai/jobs/info/688c52893a30793eb96421fa?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jul 31 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Bee's Houzz Music Festival & Events Co.](https://www.beeshouzz.com)** | **[Festival Operations Intern](https://jobright.ai/jobs/info/688af1cd9f961617fe21fa2e?utm_campaign=1053&utm_source=git)** | Huntington Beach, CA | On Site | Jul 30 |
 | **[New York Islanders](http://newyorkislanders.com)** | **[Production Associate - Intern](https://jobright.ai/jobs/info/688da231e5cead4afd4586fc?utm_campaign=1053&utm_source=git)** | Floral Park, NY | On Site | Jul 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship FALL 2025 (Washington, DC)](https://jobright.ai/jobs/info/688adbf009808a6103e51c22?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 30 |
+| ↳ | **[NewsNation News Internship FALL 2025 (Chicago & New York)](https://jobright.ai/jobs/info/688ad81d09808a6103e51a8a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Jul 30 |
+| **[Montage International](https://www.montageinternational.com)** | **[Culinary Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d61?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Jul 30 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Intern](https://jobright.ai/jobs/info/683d316cf04ea8ddaf7891c5?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
