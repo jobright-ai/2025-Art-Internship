@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plutus Media](https://growwithplutus.com/)** | **[Hiring Content Creator (TikTok)](https://jobright.ai/jobs/info/6891287bf47efe2113953341?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 04 |
+| **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[Managing Editor](https://jobright.ai/jobs/info/68911f8e4c7e851b90acc479?utm_campaign=1053&utm_source=git)** | New Haven, CT | Remote | Aug 04 |
+| **[Creative Collective Studio](https://www.youtube.com/@TheCreativeCollectiveStudio)** | **[Animation Intern](https://jobright.ai/jobs/info/68911c884c7e851b90acc2ce?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 04 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Original Series & Films Program Development Intern NYC - Fall 2025](https://jobright.ai/jobs/info/689113c04c7e851b90acbe1a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 04 |
+| **[NickNicMedia](nicknicmedia.com)** | **[INTERNSHIP: Video Editing Rockstar](https://jobright.ai/jobs/info/6891122f4c7e851b90acbd70?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68910e26f5ee707a15dbbb40?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 04 |
-| **[Tulsa Community College](http://www.tulsacc.edu/)** | **[Editor (PT)](https://jobright.ai/jobs/info/68910bebf47efe2113952316?utm_campaign=1053&utm_source=git)** | Tulsa, OK | On Site | Aug 04 |
 | **[ANOTHER A STORY](https://anotherastory.com)** | **[STUDIO ASSISTANT INTERN NY](https://jobright.ai/jobs/info/6890f3c64c7e851b90acad24?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 04 |
 | **[Minnesota Children's Museum](http://www.mcm.org)** | **[Traveling Exhibits Props and Costumes Intern](https://jobright.ai/jobs/info/6890ec1af5ee707a15dbab03?utm_campaign=1053&utm_source=git)** | St Paul, MN | On Site | Aug 04 |
-| **[YourBookTeam](https://yourbookteam.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6890e5aaf5ee707a15dba8ee?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Original Series & Films Program Development Intern NYC - Fall 2025](https://jobright.ai/jobs/info/6890e237f47efe2113951135?utm_campaign=1053&utm_source=git)** | NY New York 30 Hudson Yards | Hybrid | Aug 04 |
 | **[MY ENTERTAINMENT LLC](http://myentertainment.tv)** | **[Fall NonFiction Development Intern 2025](https://jobright.ai/jobs/info/6890e1d3f47efe21139510d6?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 04 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Fall 2025 Manchester Lane Player Research Intern](https://jobright.ai/jobs/info/6890dcc5f47efe2113950f4b?utm_campaign=1053&utm_source=git)** | Acushnet, MA | On Site | Aug 04 |
@@ -81,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Archer's Stage Entertainment](https://archerstage.my.canva.site/archerstage-website?fbclid=PAZXh0bgNhZW0CMTEAAaeXv0n8xMNY4T6LjUg1x7Lf0WZqqY5WF3aKOTxR6R38g00vOgQksRuyZW16vw_aem_qYNl3nOBEkmkNaYEZNqOuA)** | **[We’re Hiring: Lighting & Technical Director for Boutique Live Showcase](https://jobright.ai/jobs/info/68904534f5ee707a15db5874?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 02 |
 | **[Miami HEAT](http://HEAT.com)** | **[Content Studio Intern](https://jobright.ai/jobs/info/68716c9206ad7073463c503a?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Aug 02 |
 | **[Sauce Music](saucemusic.co)** | **[Creative/Business Internship Program – Fall 2025](https://jobright.ai/jobs/info/688cec451808534a89cbfa6e?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 02 |
-| **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dc4276a4aac5783cd72d2?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 02 |
+| **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dcd056a4aac5783cd78b4?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Hall of Music Event Tech 1 - Student Service](https://jobright.ai/jobs/info/688d995fe5cead4afd457e5e?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Multiplatform Programming Intern, Fall 2025](https://jobright.ai/jobs/info/688d9566cdbd821a3663c513?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Aug 01 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Production Assistant (Part-Time)](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5bb?utm_campaign=1053&utm_source=git)** | Macon, GA | On Site | Aug 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WAY Intern - CNN Documentary Production: ATL - Fall 2025](https://jobright.ai/jobs/info/688b220f9f961617fe221fe0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Jul 31 |
 | ↳ | **[WAY Intern - CNN The Source with Kaitlan Collins: NYC - Fall 2025](https://jobright.ai/jobs/info/688b217a09808a6103e55201?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Newsgathering: DC - Fall 2025](https://jobright.ai/jobs/info/688b120eaab47a17f670e672?utm_campaign=1053&utm_source=git)** | DC Washington 820 1st Street NE | Hybrid | Jul 30 |
-| ↳ | **[WAY Intern - CNN Political Unit: DC - Fall 2025](https://jobright.ai/jobs/info/688b0fef09808a6103e5433d?utm_campaign=1053&utm_source=git)** | DC Washington 820 1st Street NE | Hybrid | Jul 30 |
-| ↳ | **[WAY Intern - CNN Documentary Production: NYC - Fall 2025](https://jobright.ai/jobs/info/688b0fab09808a6103e542c2?utm_campaign=1053&utm_source=git)** | NY New York 30 Hudson Yards | Hybrid | Jul 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Intern](https://jobright.ai/jobs/info/67a67bbdc7b2e2d2ddb47162?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
