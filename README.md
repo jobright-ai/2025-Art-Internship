@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wild 7 Studios ](http://wild7studios.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/689276aaf5ee707a15dc5ddb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 05 |
+| **[County Sports Zone](http://www.countysportszone.com)** | **[Sports Newsletter Editor Intern](https://jobright.ai/jobs/info/68926f764c7e851b90ad5c3d?utm_campaign=1053&utm_source=git)** | Pennsylvania, United States | Remote | Aug 05 |
+| **[Gradxiety](https://gradxiety.com)** | **[Writing Intern](https://jobright.ai/jobs/info/68926f5af47efe211395c57c?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 05 |
+| **[Ethos Group](https://ethosgroup.io/)** | **[Intern](https://jobright.ai/jobs/info/68926f494c7e851b90ad5c22?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Aug 05 |
+| **[Middle East Institute](http://www.mei.edu)** | **[Intern, Arts & Culture (Fall Semester, Unpaid)](https://jobright.ai/jobs/info/68926b92f47efe211395c348?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Aug 05 |
+| **[Asia Society](http://asiasociety.org)** | **[Intern, Digital & Communications](https://jobright.ai/jobs/info/689260394c7e851b90ad5345?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 05 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68925e5d4c7e851b90ad5133?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 05 |
 | ↳ | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68925e504c7e851b90ad512a?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Aug 05 |
 | ↳ | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68925c55f47efe211395bba0?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 05 |
@@ -64,6 +70,13 @@ For a complete list, click the following sortable link below:
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Social Editor Intern](https://jobright.ai/jobs/info/68925968f5ee707a15dc4e5e?utm_campaign=1053&utm_source=git)** | The Shops at South Town | On Site | Aug 05 |
 | **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/689255624c7e851b90ad4a59?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Aug 05 |
 | **[Warby Parker](http://www.warbyparker.com)** | **[Apprentice Optician, Part-Time - Capitol Hill](https://jobright.ai/jobs/info/689244d84c7e851b90ad4502?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/6892604ef47efe211395be71?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
+| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689261764c7e851b90ad5402?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 05 |
+| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689260ecf5ee707a15dc5387?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 05 |
+| ↳ | **[Spring 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6892663f4c7e851b90ad5657?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Aug 05 |
+| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/6892642ef5ee707a15dc5547?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 05 |
+| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING 03/07/2025](https://jobright.ai/jobs/info/689262bd4c7e851b90ad5494?utm_campaign=1053&utm_source=git)** | Springfield, IL | On Site | Aug 05 |
+| **[Utah Mammoth](www.utahhockeyclub.com)** | **[Social Editor Intern](https://jobright.ai/jobs/info/689260dcf5ee707a15dc5380?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Aug 05 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68925875f47efe211395b8d6?utm_campaign=1053&utm_source=git)** | Bordentown, NJ | On Site | Aug 05 |
 | ↳ | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689256434c7e851b90ad4ab2?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Aug 05 |
 | **[Sara Minkara, LLC](https://www.linkedin.com/company/56402578)** | **[Internship Opportunity – Videography & Video Editing](https://jobright.ai/jobs/info/689237234c7e851b90ad3eda?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 05 |
@@ -73,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Breaking News Intern - Winter 2025](https://jobright.ai/jobs/info/66ff353b84a38684300850f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Thizzler On The Roof](https://www.thizzler.com)** | **[General Internship Application](https://jobright.ai/jobs/info/68920ead4c7e851b90ad2f4c?utm_campaign=1053&utm_source=git)** | Oakland, CA | Hybrid | Aug 05 |
 | **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dc4276a4aac5783cd72d2?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 05 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6822a141bd89060695b9d882?utm_campaign=1053&utm_source=git)** | Johnson City, TN | On Site | Aug 05 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - External Relations (Summer 2025)](https://jobright.ai/jobs/info/6891ea20f47efe211395925f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Latin Artist Relations (Distribution)](https://jobright.ai/jobs/info/68756cfd299cbc74b8754b5b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Hair Stylist and Makeup Artist Intern/Volunteer](https://jobright.ai/jobs/info/6891e13ff47efe21139590a7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 05 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A For The People Insurance Agency, Inc.](https://www.aforthepeople.com)** | **[Podcast Intern](https://jobright.ai/jobs/info/688d062027f9022553c08709?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Aug 01 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Fall 2025](https://jobright.ai/jobs/info/686c774835584b6542dcc26c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
 | **[American Institute of Physics](http://aip.org/)** | **[Internship – Science Writer](https://jobright.ai/jobs/info/688cf75b1808534a89cbff25?utm_campaign=1053&utm_source=git)** | College Park, MD | Hybrid | Aug 01 |
-| ↳ | **[Archives Intern](https://jobright.ai/jobs/info/688cf2103a30793eb96475fa?utm_campaign=1053&utm_source=git)** | College Park, MD | Hybrid | Aug 01 |
-| **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL Intern](https://jobright.ai/jobs/info/67c67809e74ffc598dae63da?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Aug 01 |
-| **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
-| ↳ | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
-| **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Temporary Service - Model](https://jobright.ai/jobs/info/688dcd85e5cead4afd45adc4?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 01 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87ba?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 01 |
-| **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/688ccaaa27f9022553c06e00?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Aug 01 |
-| **[GBH](http://www.wgbh.org/)** | **[NEPM Sports Reporter Internship Fall 2025 Semester](https://jobright.ai/jobs/info/68701eef06ad7073463bb38a?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Aug 01 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/688caad33a30793eb9645c2a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 01 |
-| **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/67c2511f8843b056d4f5917b?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Aug 01 |
-| **[PGA TOUR](http://www.pgatour.com)** | **[Event Operations Intern - THE PLAYERS](https://jobright.ai/jobs/info/68814aa116ea5743a3737e09?utm_campaign=1053&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Aug 01 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5b4?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jul 31 |
-| **[Pennsylvania Horticultural Society (PHS)](http://www.phsonline.org/)** | **[Volunteers Intern, Shows](https://jobright.ai/jobs/info/688dc7a96a4aac5783cd7621?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
-| ↳ | **[Operations Intern, Shows](https://jobright.ai/jobs/info/688dc3cd6a4aac5783cd7294?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
