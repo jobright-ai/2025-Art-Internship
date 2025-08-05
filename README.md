@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ronald McDonald House Charities of Central Texas (RMHC CTX)](https://linktr.ee/RMHCCTX)** | **[Creative Content Video Editor Internship](https://jobright.ai/jobs/info/6891b8f4f5ee707a15dc1cf9?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 05 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6891b8ddf47efe2113958780?utm_campaign=1053&utm_source=git)** | Brea, CA | On Site | Aug 05 |
+| **[VOX ATL](https://voxatl.org)** | **[Atlanta Teen Voices Journalism Fellowship Teen Intern](https://jobright.ai/jobs/info/6891b8a9f5ee707a15dc1cd2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 05 |
+| ↳ | **[VOX Studios Teen Intern - Fall Semester 2025](https://jobright.ai/jobs/info/6891b8a6f47efe2113958769?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 05 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6891b2174c7e851b90ad18f1?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | Aug 05 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Student Service - Model](https://jobright.ai/jobs/info/689182ec4c7e851b90acf622?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 04 |
 | **[Intersect Magazine](http://IntersectMagazine.com)** | **[Fall Editorial Intern - Society & Culture](https://jobright.ai/jobs/info/68917c54f47efe2113955b53?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68915b7cf47efe21139548bf?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Aug 04 |
@@ -67,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WOIO/WUAB](https://jobright.ai/jobs/info/689176f14c7e851b90acedac?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 04 |
 | **[University of Colorado Boulder - Leeds School of Business](https://www.colorado.edu/business/)** | **[First-Year Experience Event Intern](https://jobright.ai/jobs/info/68912b51f5ee707a15dbcafd?utm_campaign=1053&utm_source=git)** | Boulder, CO | Hybrid | Aug 04 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[Hiring Content Creator (TikTok)](https://jobright.ai/jobs/info/6891287bf47efe2113953341?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 04 |
-| **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[Managing Editor](https://jobright.ai/jobs/info/68911f8e4c7e851b90acc479?utm_campaign=1053&utm_source=git)** | New Haven, CT | Remote | Aug 04 |
 | **[Creative Collective Studio](https://www.youtube.com/@TheCreativeCollectiveStudio)** | **[Animation Intern](https://jobright.ai/jobs/info/68911c884c7e851b90acc2ce?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68918ca7f47efe21139568cd?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Aug 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Original Series & Films Program Development Intern NYC - Fall 2025](https://jobright.ai/jobs/info/689113c04c7e851b90acbe1a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 04 |
@@ -94,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Archer's Stage Entertainment](https://archerstage.my.canva.site/archerstage-website?fbclid=PAZXh0bgNhZW0CMTEAAaeXv0n8xMNY4T6LjUg1x7Lf0WZqqY5WF3aKOTxR6R38g00vOgQksRuyZW16vw_aem_qYNl3nOBEkmkNaYEZNqOuA)** | **[We’re Hiring: Lighting & Technical Director for Boutique Live Showcase](https://jobright.ai/jobs/info/68904534f5ee707a15db5874?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 02 |
 | **[Psycle Health](https://psyclehealth.com)** | **[Video Editor](https://jobright.ai/jobs/info/688e4209cdbd821a36641097?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Aug 02 |
 | **[Miami HEAT](http://HEAT.com)** | **[Content Studio Intern](https://jobright.ai/jobs/info/68716c9206ad7073463c503a?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Aug 02 |
-| **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dc4276a4aac5783cd72d2?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 02 |
+| **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dcd056a4aac5783cd78b4?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Hall of Music Event Tech 1 - Student Service](https://jobright.ai/jobs/info/688d995fe5cead4afd457e5e?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Multiplatform Programming Intern, Fall 2025](https://jobright.ai/jobs/info/688d9566cdbd821a3663c513?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Aug 01 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Production Assistant (Part-Time)](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5bb?utm_campaign=1053&utm_source=git)** | Macon, GA | On Site | Aug 01 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Ohio University](https://www.ohio.edu)** | **[Student Writer & Content Creator](https://jobright.ai/jobs/info/688bf98f1808534a89cb78a0?utm_campaign=1053&utm_source=git)** | Athens, OH | On Site | Jul 31 |
 | **[Warby Parker](http://www.warbyparker.com)** | **[Apprentice Optician - The Shops at SunVet](https://jobright.ai/jobs/info/688bda691808534a89cb6b21?utm_campaign=1053&utm_source=git)** | Holbrook, NY | On Site | Jul 31 |
 | **[Sunset Rewind](https://www.sunsetrewind.com)** | **[Street Team](https://jobright.ai/jobs/info/688e12316a4aac5783cd8499?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | On Site | Jul 31 |
-| **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Culinary Internship](https://jobright.ai/jobs/info/688bd1c81808534a89cb6620?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Jul 31 |
 | **[HYBE America](https://hybecorp.com/eng/company/info)** | **[Intern](https://jobright.ai/jobs/info/688bd0a3906ac06e1d1ce9ff?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | Hybrid | Jul 31 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/688bf8403a30793eb963f0d3?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Jul 31 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac1?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Jul 31 |
-| **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Writer / Editor](https://jobright.ai/jobs/info/688bbd91906ac06e1d1cdf54?utm_campaign=1053&utm_source=git)** | Tempe, AZ | Hybrid | Jul 31 |
-| **[TV Guide Magazine](http://www.tvguidemagsales.com)** | **[TV GUIDE MAGAZINE EDITORIAL INTERNSHIP](https://jobright.ai/jobs/info/688bb6de3a30793eb963cd2f?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 31 |
-| **[ESPN](http://espncareers.com)** | **[ESPN Universal News Group Intern, Fall 2025](https://jobright.ai/jobs/info/688ba091906ac06e1d1ccda5?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
