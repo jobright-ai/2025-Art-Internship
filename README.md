@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Student Service - Model](https://jobright.ai/jobs/info/689182ec4c7e851b90acf622?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 04 |
 | **[Intersect Magazine](http://IntersectMagazine.com)** | **[Fall Editorial Intern - Society & Culture](https://jobright.ai/jobs/info/68917c54f47efe2113955b53?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68915b7cf47efe21139548bf?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Aug 04 |
 | **[Craft Culinary Concepts](http://craftculinary.com)** | **[Tolleson High 2025 - Culinary Intern](https://jobright.ai/jobs/info/68915864f5ee707a15dbdc20?utm_campaign=1053&utm_source=git)** | Glendale, AZ | On Site | Aug 04 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Plutus Media](https://growwithplutus.com/)** | **[Hiring Content Creator (TikTok)](https://jobright.ai/jobs/info/6891287bf47efe2113953341?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[Managing Editor](https://jobright.ai/jobs/info/68911f8e4c7e851b90acc479?utm_campaign=1053&utm_source=git)** | New Haven, CT | Remote | Aug 04 |
 | **[Creative Collective Studio](https://www.youtube.com/@TheCreativeCollectiveStudio)** | **[Animation Intern](https://jobright.ai/jobs/info/68911c884c7e851b90acc2ce?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 04 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68918ca7f47efe21139568cd?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Aug 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Original Series & Films Program Development Intern NYC - Fall 2025](https://jobright.ai/jobs/info/689113c04c7e851b90acbe1a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 04 |
 | **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68910e26f5ee707a15dbbb40?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 04 |
 | **[ANOTHER A STORY](https://anotherastory.com)** | **[STUDIO ASSISTANT INTERN NY](https://jobright.ai/jobs/info/6890f3c64c7e851b90acad24?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 04 |
@@ -83,12 +85,12 @@ For a complete list, click the following sortable link below:
 | **[Florida Panthers](http://floridapanthers.com)** | **[Game Presentation Entertainment Intern](https://jobright.ai/jobs/info/6890367ff47efe211394b3ec?utm_campaign=1053&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | Aug 03 |
 | **[City of Glendale, CA](https://www.glendaleca.gov/government/departments/glendale-water-and-power)** | **[Hourly City Worker - Public Arts Intern](https://jobright.ai/jobs/info/6890baae4c7e851b90ac92a9?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Aug 03 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/688fdbcd6a4aac5783cdddd9?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 03 |
-| **[Psycle Health](https://psyclehealth.com)** | **[Video Editor & Social Media Intern](https://jobright.ai/jobs/info/688e4209cdbd821a36641097?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Aug 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/681d04d97a08adf0143c746a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 03 |
 | ↳ | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Aug 03 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b17?utm_campaign=1053&utm_source=git)** | Winston-Salem, NC | On Site | Aug 03 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[ILC Writing Internship](https://jobright.ai/jobs/info/68719ccaa5ae807a59d00bff?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Aug 02 |
 | **[Archer's Stage Entertainment](https://archerstage.my.canva.site/archerstage-website?fbclid=PAZXh0bgNhZW0CMTEAAaeXv0n8xMNY4T6LjUg1x7Lf0WZqqY5WF3aKOTxR6R38g00vOgQksRuyZW16vw_aem_qYNl3nOBEkmkNaYEZNqOuA)** | **[We’re Hiring: Lighting & Technical Director for Boutique Live Showcase](https://jobright.ai/jobs/info/68904534f5ee707a15db5874?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 02 |
+| **[Psycle Health](https://psyclehealth.com)** | **[Video Editor](https://jobright.ai/jobs/info/688e4209cdbd821a36641097?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Aug 02 |
 | **[Miami HEAT](http://HEAT.com)** | **[Content Studio Intern](https://jobright.ai/jobs/info/68716c9206ad7073463c503a?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Aug 02 |
 | **[Sauce Music](saucemusic.co)** | **[Creative/Business Internship Program – Fall 2025](https://jobright.ai/jobs/info/688cec451808534a89cbfa6e?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 02 |
 | **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dcd056a4aac5783cd78b4?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TV Guide Magazine](http://www.tvguidemagsales.com)** | **[TV GUIDE MAGAZINE EDITORIAL INTERNSHIP](https://jobright.ai/jobs/info/688bb6de3a30793eb963cd2f?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Jul 31 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Universal News Group Intern, Fall 2025](https://jobright.ai/jobs/info/688ba091906ac06e1d1ccda5?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Jul 31 |
 | ↳ | **[ESPN Digital Video Intern, Fall 2025](https://jobright.ai/jobs/info/688b9ec43a30793eb963bff5?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Jul 31 |
-| **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Fall 2025](https://jobright.ai/jobs/info/686ec4019ac195524dc1d776?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 31 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/688b3c8c1808534a89cb1bc8?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
