@@ -57,9 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68925e5d4c7e851b90ad5133?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 05 |
+| ↳ | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68925e504c7e851b90ad512a?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Aug 05 |
+| ↳ | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68925c55f47efe211395bba0?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 05 |
+| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68925b96f47efe211395bb41?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 05 |
+| **[Utah Mammoth](www.utahhockeyclub.com)** | **[Social Editor Intern](https://jobright.ai/jobs/info/68925968f5ee707a15dc4e5e?utm_campaign=1053&utm_source=git)** | The Shops at South Town | On Site | Aug 05 |
+| **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/689255624c7e851b90ad4a59?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Aug 05 |
+| **[Warby Parker](http://www.warbyparker.com)** | **[Apprentice Optician, Part-Time - Capitol Hill](https://jobright.ai/jobs/info/689244d84c7e851b90ad4502?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68925875f47efe211395b8d6?utm_campaign=1053&utm_source=git)** | Bordentown, NJ | On Site | Aug 05 |
+| ↳ | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689256434c7e851b90ad4ab2?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Aug 05 |
 | **[Sara Minkara, LLC](https://www.linkedin.com/company/56402578)** | **[Internship Opportunity – Videography & Video Editing](https://jobright.ai/jobs/info/689237234c7e851b90ad3eda?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 05 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Pooled Position Limited Tempor-Event Technology Intern](https://jobright.ai/jobs/info/68923628f5ee707a15dc3d65?utm_campaign=1053&utm_source=git)** | University of Wyoming, Laramie, WY, 82071, US | On Site | Aug 05 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Berklee Presents Production & Digital Media Assistant](https://jobright.ai/jobs/info/689233974c7e851b90ad3ccc?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Aug 05 |
+| **[Solar Energy Industries Association](http://www.seia.org)** | **[Video Production Fall Intern 2025](https://jobright.ai/jobs/info/68924e67f47efe211395b33b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Breaking News Intern - Winter 2025](https://jobright.ai/jobs/info/66ff353b84a38684300850f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Thizzler On The Roof](https://www.thizzler.com)** | **[General Internship Application](https://jobright.ai/jobs/info/68920ead4c7e851b90ad2f4c?utm_campaign=1053&utm_source=git)** | Oakland, CA | Hybrid | Aug 05 |
 | **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dc4276a4aac5783cd72d2?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 05 |
@@ -134,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Fall 2025](https://jobright.ai/jobs/info/686c774835584b6542dcc26c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
 | **[American Institute of Physics](http://aip.org/)** | **[Internship – Science Writer](https://jobright.ai/jobs/info/688cf75b1808534a89cbff25?utm_campaign=1053&utm_source=git)** | College Park, MD | Hybrid | Aug 01 |
 | ↳ | **[Archives Intern](https://jobright.ai/jobs/info/688cf2103a30793eb96475fa?utm_campaign=1053&utm_source=git)** | College Park, MD | Hybrid | Aug 01 |
+| **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL Intern](https://jobright.ai/jobs/info/67c67809e74ffc598dae63da?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Aug 01 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
 | ↳ | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Temporary Service - Model](https://jobright.ai/jobs/info/688dcd85e5cead4afd45adc4?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 01 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5b4?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Jul 31 |
 | **[Pennsylvania Horticultural Society (PHS)](http://www.phsonline.org/)** | **[Volunteers Intern, Shows](https://jobright.ai/jobs/info/688dc7a96a4aac5783cd7621?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
 | ↳ | **[Operations Intern, Shows](https://jobright.ai/jobs/info/688dc3cd6a4aac5783cd7294?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
-| ↳ | **[Competitive Classes Intern, Shows](https://jobright.ai/jobs/info/688dc3c46a4aac5783cd7290?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Curatorial Intern: History](https://jobright.ai/jobs/info/688c45c91808534a89cba30b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 31 |
-| **[Lilienthal Gallery](lilienthalgallery.com)** | **[Art Gallery Intern](https://jobright.ai/jobs/info/688da010cdbd821a3663d09b?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Jul 31 |
-| **[WTVR-TV](http://wtvr.com/)** | **[Intern (News), PT-1, WTVR](https://jobright.ai/jobs/info/688c52893a30793eb96421fa?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Jul 31 |
-| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Museum Collections Intern-Work Study](https://jobright.ai/jobs/info/688c2107906ac06e1d1d0f7e?utm_campaign=1053&utm_source=git)** | Richmond, IN | On Site | Jul 31 |
-| **[Aspen Skiing Company](https://www.aspensnowmass.com)** | **[Culinary/Pastry Externship - The Little Nell - Winter](https://jobright.ai/jobs/info/688c20003a30793eb96402a3?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Jul 31 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Curatorial Intern: History](https://jobright.ai/jobs/info/688c1d613a30793eb9640176?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Jul 31 |
-| **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Student Writer](https://jobright.ai/jobs/info/688c1aa43a30793eb963feb2?utm_campaign=1053&utm_source=git)** | Ogden, UT | On Site | Jul 31 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Curatorial Intern: History](https://jobright.ai/jobs/info/688c127a3a30793eb963fac4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 31 |
-| **[Griffin Media](http://griffincommunications.net/)** | **[News 9 Fall Newsroom Intern](https://jobright.ai/jobs/info/688ce7ca3a30793eb9646ffa?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Jul 31 |
-| **[The Little Nell](https://www.thelittlenell.com)** | **[Culinary/Pastry Externship - The Little Nell - Winter](https://jobright.ai/jobs/info/688c25121808534a89cb8bb6?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
