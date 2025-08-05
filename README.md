@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intersect Magazine](http://IntersectMagazine.com)** | **[Fall Editorial Intern - Society & Culture](https://jobright.ai/jobs/info/68917c54f47efe2113955b53?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68915b7cf47efe21139548bf?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Aug 04 |
 | **[Craft Culinary Concepts](http://craftculinary.com)** | **[Tolleson High 2025 - Culinary Intern](https://jobright.ai/jobs/info/68915864f5ee707a15dbdc20?utm_campaign=1053&utm_source=git)** | Glendale, AZ | On Site | Aug 04 |
 | **[Balance Now](https://www.balance.ca)** | **[Writing/Journalism Team Member](https://jobright.ai/jobs/info/689158144c7e851b90acdb75?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Aug 04 |
 | **[Doing Things](https://www.doingthingsmedia.com/)** | **[Video Production Intern (Fall 2025)](https://jobright.ai/jobs/info/68915246f5ee707a15dbda43?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 04 |
 | **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/689145daf5ee707a15dbd6ab?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 04 |
+| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WOIO/WUAB](https://jobright.ai/jobs/info/689176f14c7e851b90acedac?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 04 |
 | **[University of Colorado Boulder - Leeds School of Business](https://www.colorado.edu/business/)** | **[First-Year Experience Event Intern](https://jobright.ai/jobs/info/68912b51f5ee707a15dbcafd?utm_campaign=1053&utm_source=git)** | Boulder, CO | Hybrid | Aug 04 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[Hiring Content Creator (TikTok)](https://jobright.ai/jobs/info/6891287bf47efe2113953341?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[Managing Editor](https://jobright.ai/jobs/info/68911f8e4c7e851b90acc479?utm_campaign=1053&utm_source=git)** | New Haven, CT | Remote | Aug 04 |
@@ -139,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[The E.W. Scripps Company](http://www.scripps.com)** | **[Intern (News), PT-1, WTVR](https://jobright.ai/jobs/info/688bf1c3906ac06e1d1cfa44?utm_campaign=1053&utm_source=git)** | Richmond, VA - WTVR | On Site | Jul 31 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern, at Dallas FIG](https://jobright.ai/jobs/info/688bea011808534a89cb724e?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Jul 31 |
 | **[ASU Enterprise Partners](http://asuenterprisepartners.org/)** | **[Student Writer / Editor](https://jobright.ai/jobs/info/688be418906ac06e1d1cf484?utm_campaign=1053&utm_source=git)** | Tempe, AZ | Hybrid | Jul 31 |
+| **[The Dispatch](https://thedispatch.com/)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/688be40e1808534a89cb7018?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[Ivy Tech Community College Indianapolis](www.ivytech.edu/indianapolis)** | **[Museum Collections Intern-Work Study](https://jobright.ai/jobs/info/688be3a73a30793eb963e88b?utm_campaign=1053&utm_source=git)** | Richmond, IN | On Site | Jul 31 |
 | **[Ampereon](http://www.ampereonenergy.com)** | **[Film Production Intern](https://jobright.ai/jobs/info/688db11acdbd821a3663e02f?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Jul 31 |
 | **[Ohio University](https://www.ohio.edu)** | **[Student Writer & Content Creator](https://jobright.ai/jobs/info/688bf98f1808534a89cb78a0?utm_campaign=1053&utm_source=git)** | Athens, OH | On Site | Jul 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ESPN Digital Video Intern, Fall 2025](https://jobright.ai/jobs/info/688b9ec43a30793eb963bff5?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Jul 31 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Digital Team Internship - Fall 2025](https://jobright.ai/jobs/info/686ec4019ac195524dc1d776?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Jul 31 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/688b3c8c1808534a89cb1bc8?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Jul 31 |
-| **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[WCVB Fall 2025 News Intern](https://jobright.ai/jobs/info/688b2cbd906ac06e1d1c9ce1?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Jul 31 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Documentary Production: NYC - Fall 2025](https://jobright.ai/jobs/info/688b261d9f961617fe222198?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
-| ↳ | **[WAY Intern - CNN Newsgathering: DC - Fall 2025](https://jobright.ai/jobs/info/688b25eb09808a6103e55425?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
