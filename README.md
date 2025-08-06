@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Screen Gems – Fall 2025](https://jobright.ai/jobs/info/68938f65a9199876488de3f3?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 06 |
+| **[ALIENANT](https://www.alienantofficial.com)** | **[Content & Video Editing Intern - Social Media](https://jobright.ai/jobs/info/68938a70a9199876488de176?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 06 |
+| **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/6893878ff47efe2113964c36?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
+| **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Fan Experience](https://jobright.ai/jobs/info/6893859a4c7e851b90ade0bb?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 06 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Return Corporate Archives Summer Intern - 2026 (Kings Mountain, NC)](https://jobright.ai/jobs/info/689384e14c7e851b90addfe2?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 06 |
+| **[The Cool Down](https://www.thecooldown.com/)** | **[Quality Control Editor](https://jobright.ai/jobs/info/689381b7f47efe21139648e3?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/68937180f47efe21139642a7?utm_campaign=1053&utm_source=git)** | Chicago | On Site | Aug 06 |
 | ↳ | **[Internship Event Producer](https://jobright.ai/jobs/info/689370ad4c7e851b90add94c?utm_campaign=1053&utm_source=git)** | New York | On Site | Aug 06 |
 | **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Video Production](https://jobright.ai/jobs/info/68936b0df47efe211396404e?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 06 |
@@ -92,9 +98,9 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/6892604ef47efe211395be71?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689261764c7e851b90ad5402?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 05 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689260ecf5ee707a15dc5387?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 05 |
-| ↳ | **[Spring 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6892663f4c7e851b90ad5657?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Aug 05 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/6892642ef5ee707a15dc5547?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 05 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING 03/07/2025](https://jobright.ai/jobs/info/689262bd4c7e851b90ad5494?utm_campaign=1053&utm_source=git)** | Springfield, IL | On Site | Aug 05 |
+| ↳ | **[Spring 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6892663f4c7e851b90ad5657?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Aug 05 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Social Editor Intern](https://jobright.ai/jobs/info/689260dcf5ee707a15dc5380?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Aug 05 |
 | **[Secret Road Music Services](https://www.secretroad.com)** | **[Intern](https://jobright.ai/jobs/info/6892dd944c7e851b90ad9957?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 05 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689256434c7e851b90ad4ab2?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Aug 05 |
@@ -135,11 +141,9 @@ For a complete list, click the following sortable link below:
 | **[MADE Foundation](www.madeforconcept.org)** | **[Project Intern](https://jobright.ai/jobs/info/689207eef47efe211395986a?utm_campaign=1053&utm_source=git)** | Nashville Metro | On Site | Aug 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Original Series & Films Program Development Intern NYC - Fall 2025](https://jobright.ai/jobs/info/6890e237f47efe2113951135?utm_campaign=1053&utm_source=git)** | NY New York 30 Hudson Yards | Hybrid | Aug 04 |
 | **[MY ENTERTAINMENT LLC](http://myentertainment.tv)** | **[Fall NonFiction Development Intern 2025](https://jobright.ai/jobs/info/6890e1d3f47efe21139510d6?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 04 |
-| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Fall 2025 Manchester Lane Player Research Intern](https://jobright.ai/jobs/info/6890dcc5f47efe2113950f4b?utm_campaign=1053&utm_source=git)** | Acushnet, MA | On Site | Aug 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Lifestyle Show Intern - Fall](https://jobright.ai/jobs/info/6891a9fdf47efe21139580d3?utm_campaign=1053&utm_source=git)** | Spartanburg, SC | On Site | Aug 04 |
 | ↳ | **[Unpaid Lifestyle Show Intern - Fall](https://jobright.ai/jobs/info/6890b783f47efe211394fb14?utm_campaign=1053&utm_source=git)** | SC, Spartanburg | On Site | Aug 04 |
-| **[Plutus Media](https://growwithplutus.com/)** | **[TikTok (Content Creator)](https://jobright.ai/jobs/info/68907b5cf5ee707a15db6d15?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 04 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6875fe0cae2f413e4a5abefe?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Aug 04 |
+| ↳ | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6875fe0cae2f413e4a5abefe?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Aug 04 |
 | ↳ | **[KLFY Fall News Internship (Unpaid)](https://jobright.ai/jobs/info/68906e3df5ee707a15db6b5d?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Aug 04 |
 | ↳ | **[Unpaid Intern](https://jobright.ai/jobs/info/68906e16f5ee707a15db6b53?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Aug 04 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Game Presentation Intern](https://jobright.ai/jobs/info/68930aeff5ee707a15dcbd64?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Aug 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GovExec](https://about.govexec.com/)** | **[Editorial Intern, City & State New York](https://jobright.ai/jobs/info/68716a9706ad7073463c4f72?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 03 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[ILC Writing Internship](https://jobright.ai/jobs/info/68719ccaa5ae807a59d00bff?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | On Site | Aug 02 |
 | **[Archer's Stage Entertainment](https://archerstage.my.canva.site/archerstage-website?fbclid=PAZXh0bgNhZW0CMTEAAaeXv0n8xMNY4T6LjUg1x7Lf0WZqqY5WF3aKOTxR6R38g00vOgQksRuyZW16vw_aem_qYNl3nOBEkmkNaYEZNqOuA)** | **[We’re Hiring: Lighting & Technical Director for Boutique Live Showcase](https://jobright.ai/jobs/info/68904534f5ee707a15db5874?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 02 |
-| **[Miami HEAT](http://HEAT.com)** | **[Content Studio Intern](https://jobright.ai/jobs/info/68716c9206ad7073463c503a?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Aug 02 |
-| **[Sauce Music](saucemusic.co)** | **[Creative/Business Internship Program – Fall 2025](https://jobright.ai/jobs/info/688cec451808534a89cbfa6e?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 02 |
-| **[ABB](https://global.abb/group/en)** | **[Production Internship](https://jobright.ai/jobs/info/688dcd056a4aac5783cd78b4?utm_campaign=1053&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Hall of Music Event Tech 1 - Student Service](https://jobright.ai/jobs/info/688d995fe5cead4afd457e5e?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
