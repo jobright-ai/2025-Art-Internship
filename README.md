@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaleidoscope®](https://www.thinkkaleidoscope.com/)** | **[Print Center Apprentice](https://jobright.ai/jobs/info/6892a25ef5ee707a15dc71f6?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
+| **[Motto Pictures](https://www.mottopictures.com)** | **[Documentary Film Internship - Fall 2025](https://jobright.ai/jobs/info/6892a177f5ee707a15dc719c?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 05 |
 | **[TriCoast Worldwide ](http://www.tricoastworldwide.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/689290884c7e851b90ad6c32?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 05 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Media Intern - Fall 2025](https://jobright.ai/jobs/info/689286b1f5ee707a15dc66a5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 05 |
-| **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68927b5af47efe211395ccb6?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Aug 05 |
 | **[Wild 7 Studios ](http://wild7studios.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/689276aaf5ee707a15dc5ddb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 05 |
 | **[County Sports Zone](http://www.countysportszone.com)** | **[Sports Newsletter Editor Intern](https://jobright.ai/jobs/info/68926f764c7e851b90ad5c3d?utm_campaign=1053&utm_source=git)** | Pennsylvania, United States | Remote | Aug 05 |
-| **[Gradxiety](https://gradxiety.com)** | **[Writing Intern](https://jobright.ai/jobs/info/68926f5af47efe211395c57c?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Ethos Group](https://ethosgroup.io/)** | **[Intern](https://jobright.ai/jobs/info/68926f494c7e851b90ad5c22?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Aug 05 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Intern, Arts & Culture (Fall Semester, Unpaid)](https://jobright.ai/jobs/info/68926b92f47efe211395c348?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Aug 05 |
 | **[Asia Society](http://asiasociety.org)** | **[Intern, Digital & Communications](https://jobright.ai/jobs/info/689260394c7e851b90ad5345?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 05 |
@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68925c55f47efe211395bba0?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 05 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68925b96f47efe211395bb41?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 05 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Social Editor Intern](https://jobright.ai/jobs/info/68925968f5ee707a15dc4e5e?utm_campaign=1053&utm_source=git)** | The Shops at South Town | On Site | Aug 05 |
+| **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/689255624c7e851b90ad4a59?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Aug 05 |
 | **[Warby Parker](http://www.warbyparker.com)** | **[Apprentice Optician, Part-Time - Capitol Hill](https://jobright.ai/jobs/info/689244d84c7e851b90ad4502?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/6892604ef47efe211395be71?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689261764c7e851b90ad5402?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 05 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6892663f4c7e851b90ad5657?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Aug 05 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING 03/07/2025](https://jobright.ai/jobs/info/689262bd4c7e851b90ad5494?utm_campaign=1053&utm_source=git)** | Springfield, IL | On Site | Aug 05 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Social Editor Intern](https://jobright.ai/jobs/info/689260dcf5ee707a15dc5380?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Aug 05 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689256434c7e851b90ad4ab2?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Aug 05 |
-| ↳ | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68925875f47efe211395b8d6?utm_campaign=1053&utm_source=git)** | Bordentown, NJ | On Site | Aug 05 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68925875f47efe211395b8d6?utm_campaign=1053&utm_source=git)** | Bordentown, NJ | On Site | Aug 05 |
+| ↳ | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689256434c7e851b90ad4ab2?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Aug 05 |
 | **[Sara Minkara, LLC](https://www.linkedin.com/company/56402578)** | **[Internship Opportunity – Videography & Video Editing](https://jobright.ai/jobs/info/689237234c7e851b90ad3eda?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 05 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Pooled Position Limited Tempor-Event Technology Intern](https://jobright.ai/jobs/info/68923628f5ee707a15dc3d65?utm_campaign=1053&utm_source=git)** | University of Wyoming, Laramie, WY, 82071, US | On Site | Aug 05 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Berklee Presents Production & Digital Media Assistant](https://jobright.ai/jobs/info/689233974c7e851b90ad3ccc?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Aug 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Information](https://www.theinformation.com)** | **[2026 Summer Editorial Intern](https://jobright.ai/jobs/info/688d139a3a30793eb96485ce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[A For The People Insurance Agency, Inc.](https://www.aforthepeople.com)** | **[Podcast Intern](https://jobright.ai/jobs/info/688d062027f9022553c08709?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Aug 01 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Boston Public Radio Internship - Fall 2025](https://jobright.ai/jobs/info/686c774835584b6542dcc26c?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
-| **[American Institute of Physics](http://aip.org/)** | **[Internship – Science Writer](https://jobright.ai/jobs/info/688cf75b1808534a89cbff25?utm_campaign=1053&utm_source=git)** | College Park, MD | Hybrid | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
