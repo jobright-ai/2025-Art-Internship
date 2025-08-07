@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBCU Chicago News Intern – Academic Year 2025-2026](https://jobright.ai/jobs/info/6895018e73b3a600fe884389?utm_campaign=1053&utm_source=git)** | 454 N.Columbus Dr., Chicago, ILLINOIS | On Site | Aug 07 |
+| **[Texas Sports Network](https://www.linkedin.com/company/89804747)** | **[HS Special Contributor Intern](https://jobright.ai/jobs/info/6894f98273b3a600fe883c53?utm_campaign=1053&utm_source=git)** | Austin, TX | Remote | Aug 07 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Screen Gems – Fall 2025](https://jobright.ai/jobs/info/6894e04773b3a600fe882f1d?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 07 |
 | ↳ | **[TriStar Pictures Intern – Fall 2025](https://jobright.ai/jobs/info/6894e0314ed2ea559ca514b3?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 07 |
 | **[WYTV7 Community Broadcasters Network Inc (Educational Videos/Resource/Charity)](https://www.wytv7.org/)** | **[Video Editor-Volunteer](https://jobright.ai/jobs/info/6894db5e4ed2ea559ca510be?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 07 |
@@ -65,8 +67,10 @@ For a complete list, click the following sortable link below:
 | **[Improve the News Foundation](https://www.linkedin.com/company/80314818)** | **[Journalism Volunteer](https://jobright.ai/jobs/info/6894d41973b3a600fe8826ee?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 07 |
 | **[The Lawfare Institute](https://www.lawfaremedia.org)** | **[Fall Intern](https://jobright.ai/jobs/info/6894d2888c6d6b4426774b91?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 07 |
 | **[Granite Ridge Builders](https://graniteridgebuilders.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/6894d24b4ed2ea559ca50c0d?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | Aug 07 |
+| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/688a738b09808a6103e4ec92?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
 | **[D'Addario & Company, Inc.](http://daddario.com)** | **[Production Intern](https://jobright.ai/jobs/info/6894cff34ed2ea559ca50b1d?utm_campaign=1053&utm_source=git)** | US-NY-Farmingdale | On Site | Aug 07 |
 | **[ForestlyGames](https://www.forestlygames.com)** | **[Video Editor](https://jobright.ai/jobs/info/6894ccf84ed2ea559ca509ad?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 07 |
+| **[Sam](wearesam.co)** | **[Sam Content & Programming Intern](https://jobright.ai/jobs/info/6894e7018c6d6b44267757fe?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Flaire](https://flaire.me)** | **[TikTok Intern (Remote)](https://jobright.ai/jobs/info/68944266a9199876488e4086?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | ↳ | **[Travel Content Creator Intern (Remote)](https://jobright.ai/jobs/info/689431294c7e851b90ae3968?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Campbellsville University](http://online.campbellsville.edu)** | **[Music Graduate Assistant](https://jobright.ai/jobs/info/68941dacf47efe21139698eb?utm_campaign=1053&utm_source=git)** | Campbellsville, KY | On Site | Aug 06 |
@@ -93,9 +97,9 @@ For a complete list, click the following sortable link below:
 | **[Saleseraian](https://salesera.net/)** | **[Content Specialist](https://jobright.ai/jobs/info/6893b80ba9199876488df95f?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Costume Shop Intern](https://jobright.ai/jobs/info/6893ad104c7e851b90adf6a1?utm_campaign=1053&utm_source=git)** | Boston Conservatory at Berklee | On Site | Aug 06 |
 | **[Cosm](https://www.cosm.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6893a7544c7e851b90adf337?utm_campaign=1053&utm_source=git)** | Playa Vista, Los Angeles, CA, USA | On Site | Aug 06 |
-| ↳ | **[Crewing Intern](https://jobright.ai/jobs/info/6893a5f1f47efe2113965a54?utm_campaign=1053&utm_source=git)** | Playa Vista, Los Angeles, CA, USA | On Site | Aug 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[TriStar Pictures Intern – Fall 2025](https://jobright.ai/jobs/info/6893a560a9199876488dedac?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 06 |
-| **[Cosm](https://www.cosm.com)** | **[Broadcast Operations Intern](https://jobright.ai/jobs/info/6893a4fcf47efe2113965967?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, USA | On Site | Aug 06 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[TriStar Pictures Intern – Fall 2025](https://jobright.ai/jobs/info/6893a62ca9199876488deeb2?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 06 |
+| **[Cosm](https://www.cosm.com)** | **[Crewing Intern](https://jobright.ai/jobs/info/6893a5f1f47efe2113965a54?utm_campaign=1053&utm_source=git)** | Playa Vista, Los Angeles, CA, USA | On Site | Aug 06 |
+| ↳ | **[Broadcast Operations Intern](https://jobright.ai/jobs/info/6893a4fcf47efe2113965967?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, USA | On Site | Aug 06 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant - Advancement and Alumni Engagement](https://jobright.ai/jobs/info/6893a14df47efe2113965752?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 06 |
 | **[Sense of Agency](https://sense-of-agency.com)** | **[Content & Social Video Intern (For Credit Only)](https://jobright.ai/jobs/info/68939c90a9199876488de958?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/68939c7fa9199876488de94b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 06 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Quadrant International Art Association](https://quadrantarts.org/)** | **[Fall Digital Media Production Internship](https://jobright.ai/jobs/info/6892df574c7e851b90ad9a48?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 05 |
 | **[Grind City Hoops](https://grindcityhoops.com/)** | **[Video Editor](https://jobright.ai/jobs/info/6893519cf47efe21139638a9?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Aug 05 |
 | **[Warby Parker](http://www.warbyparker.com)** | **[Apprentice Optician, Part-Time - Capitol Hill](https://jobright.ai/jobs/info/689244d84c7e851b90ad4502?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/6892604ef47efe211395be71?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689261764c7e851b90ad5402?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 05 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689260ecf5ee707a15dc5387?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 05 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING 03/07/2025](https://jobright.ai/jobs/info/689262bd4c7e851b90ad5494?utm_campaign=1053&utm_source=git)** | Springfield, IL | On Site | Aug 05 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/6892642ef5ee707a15dc5547?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 05 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689261764c7e851b90ad5402?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
