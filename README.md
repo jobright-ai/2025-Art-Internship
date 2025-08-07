@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Editorial Intern, Jeopardy! – Fall 2025](https://jobright.ai/jobs/info/6893e6204c7e851b90ae127a?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 06 |
+| **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Philadelphia Wings Intern, Video Production](https://jobright.ai/jobs/info/6893e380a9199876488e0d37?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 06 |
+| ↳ | **[Philadelphia Wings Intern, Fan Experience](https://jobright.ai/jobs/info/6893e333f47efe2113967a49?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 06 |
+| **[Grand Canyon University](http://www.gcu.edu/)** | **[Esports – Broadcast Student Talent (FWS/NFWS) ](https://jobright.ai/jobs/info/6893da41f47efe211396767c?utm_campaign=1053&utm_source=git)** | AZ Phoenix | Hybrid | Aug 06 |
+| **[ANOTHER A STORY](https://anotherastory.com)** | **[STUDIO ASSISTANT INTERN NY](https://jobright.ai/jobs/info/6893d8aa4c7e851b90ae0bfb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[PFF](https://www.pff.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6893cdbaa9199876488e0522?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 06 |
 | **[Cosm](https://www.cosm.com)** | **[Broadcast Operations Intern](https://jobright.ai/jobs/info/6893c598f47efe2113966dcd?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 06 |
 | ↳ | **[Crewing Intern](https://jobright.ai/jobs/info/6893c307f47efe2113966cb2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 06 |
@@ -64,9 +69,9 @@ For a complete list, click the following sortable link below:
 | **[Saleseraian](https://salesera.net/)** | **[Content Specialist](https://jobright.ai/jobs/info/6893b80ba9199876488df95f?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Costume Shop Intern](https://jobright.ai/jobs/info/6893ad104c7e851b90adf6a1?utm_campaign=1053&utm_source=git)** | Boston Conservatory at Berklee | On Site | Aug 06 |
 | **[Cosm](https://www.cosm.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6893a7544c7e851b90adf337?utm_campaign=1053&utm_source=git)** | Playa Vista, Los Angeles, CA, USA | On Site | Aug 06 |
-| ↳ | **[Crewing Intern](https://jobright.ai/jobs/info/6893a5f1f47efe2113965a54?utm_campaign=1053&utm_source=git)** | Playa Vista, Los Angeles, CA, USA | On Site | Aug 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[TriStar Pictures Intern – Fall 2025](https://jobright.ai/jobs/info/6893a560a9199876488dedac?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 06 |
-| **[Cosm](https://www.cosm.com)** | **[Broadcast Operations Intern](https://jobright.ai/jobs/info/6893a4fcf47efe2113965967?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, USA | On Site | Aug 06 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[TriStar Pictures Intern – Fall 2025](https://jobright.ai/jobs/info/6893a62ca9199876488deeb2?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 06 |
+| **[Cosm](https://www.cosm.com)** | **[Crewing Intern](https://jobright.ai/jobs/info/6893a5f1f47efe2113965a54?utm_campaign=1053&utm_source=git)** | Playa Vista, Los Angeles, CA, USA | On Site | Aug 06 |
+| ↳ | **[Broadcast Operations Intern](https://jobright.ai/jobs/info/6893a4fcf47efe2113965967?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, USA | On Site | Aug 06 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant - Advancement and Alumni Engagement](https://jobright.ai/jobs/info/6893a14df47efe2113965752?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 06 |
 | **[Sense of Agency](https://sense-of-agency.com)** | **[Content & Social Video Intern (For Credit Only)](https://jobright.ai/jobs/info/68939c90a9199876488de958?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/68939c7fa9199876488de94b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 06 |
@@ -115,9 +120,9 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689261764c7e851b90ad5402?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 05 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689260ecf5ee707a15dc5387?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 05 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/6892604ef47efe211395be71?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
+| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING 03/07/2025](https://jobright.ai/jobs/info/689262bd4c7e851b90ad5494?utm_campaign=1053&utm_source=git)** | Springfield, IL | On Site | Aug 05 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/6892642ef5ee707a15dc5547?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 05 |
 | ↳ | **[Spring 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6892663f4c7e851b90ad5657?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Aug 05 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING 03/07/2025](https://jobright.ai/jobs/info/689262bd4c7e851b90ad5494?utm_campaign=1053&utm_source=git)** | Springfield, IL | On Site | Aug 05 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Social Editor Intern](https://jobright.ai/jobs/info/689260dcf5ee707a15dc5380?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Aug 05 |
 | **[Secret Road Music Services](https://www.secretroad.com)** | **[Intern](https://jobright.ai/jobs/info/6892dd944c7e851b90ad9957?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 05 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68925875f47efe211395b8d6?utm_campaign=1053&utm_source=git)** | Bordentown, NJ | On Site | Aug 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Colorado Boulder - Leeds School of Business](https://www.colorado.edu/business/)** | **[First-Year Experience Event Intern](https://jobright.ai/jobs/info/68912b51f5ee707a15dbcafd?utm_campaign=1053&utm_source=git)** | Boulder, CO | Hybrid | Aug 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68918ca7f47efe21139568cd?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Aug 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Original Series & Films Program Development Intern NYC - Fall 2025](https://jobright.ai/jobs/info/689113c04c7e851b90acbe1a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 04 |
-| **[Comcast](https://corporate.comcast.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68910e26f5ee707a15dbbb40?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 04 |
-| **[Minnesota Children's Museum](http://www.mcm.org)** | **[Traveling Exhibits Props and Costumes Intern](https://jobright.ai/jobs/info/6890ec1af5ee707a15dbab03?utm_campaign=1053&utm_source=git)** | St Paul, MN | On Site | Aug 04 |
-| **[MADE Foundation](www.madeforconcept.org)** | **[Project Intern](https://jobright.ai/jobs/info/689207eef47efe211395986a?utm_campaign=1053&utm_source=git)** | Nashville Metro | On Site | Aug 04 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Original Series & Films Program Development Intern NYC - Fall 2025](https://jobright.ai/jobs/info/6890e237f47efe2113951135?utm_campaign=1053&utm_source=git)** | NY New York 30 Hudson Yards | Hybrid | Aug 04 |
-| **[MY ENTERTAINMENT LLC](http://myentertainment.tv)** | **[Fall NonFiction Development Intern 2025](https://jobright.ai/jobs/info/6890e1d3f47efe21139510d6?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
