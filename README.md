@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNNI Planning: ATL - Fall 2025](https://jobright.ai/jobs/info/689636f073b3a600fe88d6dd?utm_campaign=1053&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Aug 08 |
 | **[Cellino](https://www.cellinobio.com)** | **[Creative & AI Content Intern](https://jobright.ai/jobs/info/689614881b9e81727f18df92?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Aug 08 |
 | **[CR Fashion Book](https://crfashionbook.com)** | **[CR Fashion Book Fall 2025 Editorial and Social Media Internship](https://jobright.ai/jobs/info/68960f0a1b9e81727f18dcaa?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 08 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6896022773b3a600fe88be37?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Aug 08 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Three Rivers Behavioral Health](https://threeriversbehavioral.org/)** | **[Music Therapy Intern](https://jobright.ai/jobs/info/6895577573b3a600fe886c23?utm_campaign=1053&utm_source=git)** | West Columbia, SC | On Site | Aug 07 |
 | **[The Bristol Hawk](https://bristolthehawk.com/)** | **[Podcaster](https://jobright.ai/jobs/info/6895fb108c6d6b442677e041?utm_campaign=1053&utm_source=git)** | Fall River, MA | On Site | Aug 07 |
 | **[Sacramento Kings](http://www.Kings.com)** | **[Community/Event Presentation Intern, Stockton Kings](https://jobright.ai/jobs/info/68954ba373b3a600fe886659?utm_campaign=1053&utm_source=git)** | Stockton Business Office | Hybrid | Aug 07 |
+| **[Mapleton Public Schools](https://www.mapleton.us)** | **[Pit Orchestra Conductor (Internal Applicants Only)](https://jobright.ai/jobs/info/689636691b9e81727f18ede1?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Post Production](https://jobright.ai/jobs/info/689543044ed2ea559ca5478b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
 | **[The College of St. Scholastica](https://www.css.edu)** | **[Content Creator for College Communications](https://jobright.ai/jobs/info/689542ae8c6d6b4426778664?utm_campaign=1053&utm_source=git)** | Duluth, MN | On Site | Aug 07 |
 | **[Frederick County Government, Maryland](https://www.frederickcountymd.gov)** | **[Intern-Aging and Independence](https://jobright.ai/jobs/info/68956f928c6d6b4426779cd4?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Aug 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Fall Semester 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755cf1?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 06 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Research & Analytics Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687de4cb764c3d7411c3fb11?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687b83c0764c3d7411c334de?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Production Assistant Intern - Student Employment](https://jobright.ai/jobs/info/6895a58c8c6d6b442677c180?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
-| **[Middle East Institute](http://www.mei.edu)** | **[Intern, Arts & Culture (Fall Semester, Unpaid)](https://jobright.ai/jobs/info/68931a16f47efe2113962e59?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
