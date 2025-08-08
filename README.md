@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cellino](https://www.cellinobio.com)** | **[Creative & AI Content Intern](https://jobright.ai/jobs/info/689614881b9e81727f18df92?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Aug 08 |
+| **[CR Fashion Book](https://crfashionbook.com)** | **[CR Fashion Book Fall 2025 Editorial and Social Media Internship](https://jobright.ai/jobs/info/68960f0a1b9e81727f18dcaa?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 08 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/6896022773b3a600fe88be37?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Aug 08 |
 | **[Kilroy's Sports Bar](https://www.kilroysindy.com/)** | **[Atrium Concert Internship](https://jobright.ai/jobs/info/6895f5d48c6d6b442677dee2?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 08 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - A&R (Distribution)](https://jobright.ai/jobs/info/687960deed63844c9449b2a0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/6895e8318c6d6b442677da60?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
@@ -70,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[UHS](https://uhs.com)** | **[Music Therapy Intern](https://jobright.ai/jobs/info/689575124ed2ea559ca56019?utm_campaign=1053&utm_source=git)** | WEST COLUMBIA, South Carolina | On Site | Aug 07 |
 | **[Association of African-American Financial Advisors](https://www.aaafainc.com/)** | **[Quad A Intern (Part time)](https://jobright.ai/jobs/info/689593c18c6d6b442677b1ce?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Three Rivers Behavioral Health](https://threeriversbehavioral.org/)** | **[Music Therapy Intern](https://jobright.ai/jobs/info/6895577573b3a600fe886c23?utm_campaign=1053&utm_source=git)** | West Columbia, SC | On Site | Aug 07 |
+| **[The Bristol Hawk](https://bristolthehawk.com/)** | **[Podcaster](https://jobright.ai/jobs/info/6895fb108c6d6b442677e041?utm_campaign=1053&utm_source=git)** | Fall River, MA | On Site | Aug 07 |
 | **[Sacramento Kings](http://www.Kings.com)** | **[Community/Event Presentation Intern, Stockton Kings](https://jobright.ai/jobs/info/68954ba373b3a600fe886659?utm_campaign=1053&utm_source=git)** | Stockton Business Office | Hybrid | Aug 07 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Post Production](https://jobright.ai/jobs/info/689543044ed2ea559ca5478b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
 | **[The College of St. Scholastica](https://www.css.edu)** | **[Content Creator for College Communications](https://jobright.ai/jobs/info/689542ae8c6d6b4426778664?utm_campaign=1053&utm_source=git)** | Duluth, MN | On Site | Aug 07 |
@@ -85,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBCU Chicago News Intern – Academic Year 2025-2026](https://jobright.ai/jobs/info/6895018e73b3a600fe884389?utm_campaign=1053&utm_source=git)** | 454 N.Columbus Dr., Chicago, ILLINOIS | On Site | Aug 07 |
 | **[Eco-Justice Center](http://www.ecojusticecenter.org)** | **[Live-In Intern](https://jobright.ai/jobs/info/6895a0c78c6d6b442677bd01?utm_campaign=1053&utm_source=git)** | Racine, WI | On Site | Aug 07 |
 | **[Texas Sports Network](https://www.linkedin.com/company/89804747)** | **[HS Special Contributor Intern](https://jobright.ai/jobs/info/6894f98273b3a600fe883c53?utm_campaign=1053&utm_source=git)** | Austin, TX | Remote | Aug 07 |
+| **[UTC Records](https://www.utcrecords.com/)** | **[Intern](https://jobright.ai/jobs/info/6895fd2673b3a600fe88bc3e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 07 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Chicago News Intern – Academic Year 2025-2026](https://jobright.ai/jobs/info/6895e91d8c6d6b442677dacb?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 07 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Screen Gems – Fall 2025](https://jobright.ai/jobs/info/6894e04773b3a600fe882f1d?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 07 |
 | ↳ | **[TriStar Pictures Intern – Fall 2025](https://jobright.ai/jobs/info/6894e0314ed2ea559ca514b3?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 07 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Photojournalism Internship - Fall 2025](https://jobright.ai/jobs/info/686c60e735584b654261e2a3?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Aug 06 |
 | **[WESH 2 CW18](http://wesh.com)** | **[WESH Intern](https://jobright.ai/jobs/info/68467c30757d449490e9be5b?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Aug 06 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Fall Semester 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755cf1?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 06 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Intern at Done + Dusted](https://jobright.ai/jobs/info/6893405d4c7e851b90adcbbb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Research & Analytics Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687de4cb764c3d7411c3fb11?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687b83c0764c3d7411c334de?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Production Assistant Intern - Student Employment](https://jobright.ai/jobs/info/6895a58c8c6d6b442677c180?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Intern, Arts & Culture (Fall Semester, Unpaid)](https://jobright.ai/jobs/info/68931a16f47efe2113962e59?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 05 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[Culinary Internship](https://jobright.ai/jobs/info/6892e0bf4c7e851b90ad9b6e?utm_campaign=1053&utm_source=git)** | Ozark, MO | On Site | Aug 05 |
-| **[Formlabs](http://www.formlabs.com)** | **[Video Content Creator Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/6892cb97f5ee707a15dc8741?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Aug 05 |
-| **[Gardner-Webb University](http://gardner-webb.edu)** | **[Digital Content Contributor](https://jobright.ai/jobs/info/689428a3f47efe2113969f94?utm_campaign=1053&utm_source=git)** | Boiling Springs, NC | On Site | Aug 05 |
-| **[PICTURESTART](http://www.picturestart.com/)** | **[Film & TV Development Intern](https://jobright.ai/jobs/info/689425e04c7e851b90ae35ce?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
