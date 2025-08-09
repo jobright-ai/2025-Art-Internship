@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/6896855d73b3a600fe88fe72?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 08 |
+| **[Clear Lake & Fever Recording Studios](https://www.clearlakerecordingstudios.com)** | **[Recording Studio Intern](https://jobright.ai/jobs/info/689680411b9e81727f1912fb?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Aug 08 |
+| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern for Chicago Collective](https://jobright.ai/jobs/info/689676338c6d6b4426781e1f?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Aug 08 |
+| **[Split Expenses](https://www.splitexpenses.app/)** | **[Summer Intern](https://jobright.ai/jobs/info/689676021b9e81727f190fb3?utm_campaign=1053&utm_source=git)** | Maryland, United States | Remote | Aug 08 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Podcasts Editorial Intern: NYC - Fall 2025](https://jobright.ai/jobs/info/68964c368c6d6b442678067a?utm_campaign=1053&utm_source=git)** | NY New York 30 Hudson Yards | Hybrid | Aug 08 |
 | ↳ | **[WAY Intern - CNNI Planning: ATL - Fall 2025](https://jobright.ai/jobs/info/68964b751b9e81727f18f7ab?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Aug 08 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WECT](https://jobright.ai/jobs/info/689639048c6d6b442677fc71?utm_campaign=1053&utm_source=git)** | Wilmington, NC | On Site | Aug 08 |
@@ -99,14 +103,12 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Chicago News Intern – Academic Year 2025-2026](https://jobright.ai/jobs/info/6895e91d8c6d6b442677dacb?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 07 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Screen Gems – Fall 2025](https://jobright.ai/jobs/info/6894e04773b3a600fe882f1d?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 07 |
 | ↳ | **[TriStar Pictures Intern – Fall 2025](https://jobright.ai/jobs/info/6894e0314ed2ea559ca514b3?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 07 |
-| **[WYTV7 Community Broadcasters Network Inc (Educational Videos/Resource/Charity)](https://www.wytv7.org/)** | **[Video Editor-Volunteer](https://jobright.ai/jobs/info/6894db5e4ed2ea559ca510be?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 07 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Match Production Intern](https://jobright.ai/jobs/info/6894d6aa73b3a600fe8827cf?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 07 |
 | **[Improve the News Foundation](https://www.linkedin.com/company/80314818)** | **[Journalism Volunteer](https://jobright.ai/jobs/info/6894d41973b3a600fe8826ee?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 07 |
 | **[The Lawfare Institute](https://www.lawfaremedia.org)** | **[Fall Intern](https://jobright.ai/jobs/info/6894d2888c6d6b4426774b91?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 07 |
 | **[Granite Ridge Builders](https://graniteridgebuilders.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/6894d24b4ed2ea559ca50c0d?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | Aug 07 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/688a738b09808a6103e4ec92?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
 | **[D'Addario & Company, Inc.](http://daddario.com)** | **[Production Intern](https://jobright.ai/jobs/info/6894cff34ed2ea559ca50b1d?utm_campaign=1053&utm_source=git)** | US-NY-Farmingdale | On Site | Aug 07 |
-| **[Sam](wearesam.co)** | **[Sam Content & Programming Intern](https://jobright.ai/jobs/info/6894e7018c6d6b44267757fe?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 07 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Recreation](https://jobright.ai/jobs/info/68957ff273b3a600fe888144?utm_campaign=1053&utm_source=git)** | Altamonte Springs, FL | On Site | Aug 07 |
 | **[Flaire](https://flaire.me)** | **[TikTok Intern (Remote)](https://jobright.ai/jobs/info/68944266a9199876488e4086?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | ↳ | **[Travel Content Creator Intern (Remote)](https://jobright.ai/jobs/info/689431294c7e851b90ae3968?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
@@ -135,9 +137,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Editing Intern](https://jobright.ai/jobs/info/6893c1b9a9199876488dff26?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 06 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Costume Shop Intern](https://jobright.ai/jobs/info/6893ad104c7e851b90adf6a1?utm_campaign=1053&utm_source=git)** | Boston Conservatory at Berklee | On Site | Aug 06 |
 | **[Cosm](https://www.cosm.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6893a7544c7e851b90adf337?utm_campaign=1053&utm_source=git)** | Playa Vista, Los Angeles, CA, USA | On Site | Aug 06 |
-| ↳ | **[Crewing Intern](https://jobright.ai/jobs/info/6893a5f1f47efe2113965a54?utm_campaign=1053&utm_source=git)** | Playa Vista, Los Angeles, CA, USA | On Site | Aug 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[TriStar Pictures Intern – Fall 2025](https://jobright.ai/jobs/info/6893a560a9199876488dedac?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 06 |
-| **[Cosm](https://www.cosm.com)** | **[Broadcast Operations Intern](https://jobright.ai/jobs/info/6893a4fcf47efe2113965967?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, USA | On Site | Aug 06 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[TriStar Pictures Intern – Fall 2025](https://jobright.ai/jobs/info/6893a62ca9199876488deeb2?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 06 |
+| **[Cosm](https://www.cosm.com)** | **[Crewing Intern](https://jobright.ai/jobs/info/6893a5f1f47efe2113965a54?utm_campaign=1053&utm_source=git)** | Playa Vista, Los Angeles, CA, USA | On Site | Aug 06 |
+| ↳ | **[Broadcast Operations Intern](https://jobright.ai/jobs/info/6893a4fcf47efe2113965967?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA, USA | On Site | Aug 06 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant - Advancement and Alumni Engagement](https://jobright.ai/jobs/info/6893a14df47efe2113965752?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 06 |
 | **[Sense of Agency](https://sense-of-agency.com)** | **[Content & Social Video Intern (For Credit Only)](https://jobright.ai/jobs/info/68939c90a9199876488de958?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/68939c7fa9199876488de94b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 06 |
@@ -145,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Kensho Studio](https://www.linkedin.com/company/108048921)** | **[Production Assistant](https://jobright.ai/jobs/info/6894a2028c6d6b44267731be?utm_campaign=1053&utm_source=git)** | Belleville, NJ | On Site | Aug 06 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/68939723f47efe2113965364?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 06 |
 | **[The Information](https://www.theinformation.com)** | **[2026 Summer Editorial Intern](https://jobright.ai/jobs/info/688d139a3a30793eb96485ce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Screen Gems – Fall 2025](https://jobright.ai/jobs/info/68938f65a9199876488de3f3?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 06 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Screen Gems – Fall 2025](https://jobright.ai/jobs/info/68938e61f47efe2113964f00?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 06 |
 | **[ALIENANT](https://www.alienantofficial.com)** | **[Content & Video Editing Intern - Social Media](https://jobright.ai/jobs/info/68938a70a9199876488de176?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/6893878ff47efe2113964c36?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Fan Experience](https://jobright.ai/jobs/info/6893859a4c7e851b90ade0bb?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Video Production](https://jobright.ai/jobs/info/68936b0df47efe211396404e?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 06 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Photojournalism Internship - Fall 2025](https://jobright.ai/jobs/info/686c60e735584b654261e2a3?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Aug 06 |
 | **[WESH 2 CW18](http://wesh.com)** | **[WESH Intern](https://jobright.ai/jobs/info/68467c30757d449490e9be5b?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Aug 06 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Fall Semester 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755cf1?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 06 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Research & Analytics Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687de4cb764c3d7411c3fb11?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
