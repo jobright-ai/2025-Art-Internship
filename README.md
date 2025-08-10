@@ -114,8 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Videographer for Student Involvement & Leadership](https://jobright.ai/jobs/info/689556fa4ed2ea559ca551a4?utm_campaign=1053&utm_source=git)** | Ogden, UT | On Site | Aug 07 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - External Relations (Summer 2025)](https://jobright.ai/jobs/info/689531d573b3a600fe885ac7?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 07 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WEAU](https://jobright.ai/jobs/info/689530cd8c6d6b4426777f44?utm_campaign=1053&utm_source=git)** | Eau Claire, WI | On Site | Aug 07 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[News Writing / Reporting - Public Information Intern - News and Content - Kiswahili
-Job ID : 260251](https://jobright.ai/jobs/info/68951b1973b3a600fe885235?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 07 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Post Production](https://jobright.ai/jobs/info/689513fd8c6d6b442677739f?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern Fall 2025 (Unpaid)](https://jobright.ai/jobs/info/6895102e4ed2ea559ca531c1?utm_campaign=1053&utm_source=git)** | 2320 Langhorne Road, Lynchburg, VA, 24501, US | On Site | Aug 07 |
 | **[The Jamestown Foundation](http://www.jamestown.org)** | **[China Editorial Internship, Fall 2025](https://jobright.ai/jobs/info/689575954ed2ea559ca560be?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | On Site | Aug 07 |
@@ -158,4 +156,5 @@ Job ID : 260251](https://jobright.ai/jobs/info/68951b1973b3a600fe885235?utm_camp
 | **[ANOTHER A STORY](https://anotherastory.com)** | **[STUDIO ASSISTANT INTERN NY](https://jobright.ai/jobs/info/6893d8aa4c7e851b90ae0bfb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[PFF](https://www.pff.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6893cdbaa9199876488e0522?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 06 |
 | **[Cosm](https://www.cosm.com)** | **[Broadcast Operations Intern](https://jobright.ai/jobs/info/6893c598f47efe2113966dcd?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 06 |
+| ↳ | **[Crewing Intern](https://jobright.ai/jobs/info/6893c307f47efe2113966cb2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
