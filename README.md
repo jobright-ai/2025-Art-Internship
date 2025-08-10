@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Blog Writer (Carrie Bradshaw Style) Fall Intern Startup Berkeley Unpaid](https://jobright.ai/jobs/info/689912d6faa4e875e825109f?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Remote | Aug 10 |
+| **[Montage International](https://www.montageinternational.com)** | **[Rooms Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d60?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Aug 10 |
 | **[Talks Brand Group](https://www.talksbrandgroup.com/)** | **[Film Editor Intern](https://jobright.ai/jobs/info/689846b2faa4e875e824cc1a?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Aug 10 |
 | **[Tuedd](https://www.tuedd.com/)** | **[Video Editor](https://jobright.ai/jobs/info/68982a4d5574fd6bc0c74d4c?utm_campaign=1053&utm_source=git)** | Manhattan Beach, CA | On Site | Aug 09 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Production Assistant Intern - Student Employment](https://jobright.ai/jobs/info/6897f1161b9e81727f1a344a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 09 |
@@ -74,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Athletic Club](http://www.atlantaathleticclub.org)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/68984e1f5574fd6bc0c77ac2?utm_campaign=1053&utm_source=git)** | Duluth, GA | On Site | Aug 09 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Content Creator](https://jobright.ai/jobs/info/6898311a83d13d1f5b68b5f4?utm_campaign=1053&utm_source=git)** | Shelby, NC | On Site | Aug 09 |
 | **[Ronald McDonald House Charities of Central Texas (RMHC CTX)](https://linktr.ee/RMHCCTX)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6897a77273b3a600fe89d1c2?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 08 |
-| **[hello82](http://www.kaimediagroup.com)** | **[Production Intern](https://jobright.ai/jobs/info/68984e6efaa4e875e824dd19?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
+| **[hello82](http://www.kaimediagroup.com)** | **[Production Intern](https://jobright.ai/jobs/info/6897a8bf73b3a600fe89d365?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
 | **[LifeSpheres AI](www.lifespheresai.com)** | **[Audiovisual Content Editor Intern](https://jobright.ai/jobs/info/6898212783d13d1f5b68adae?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Aug 08 |
 | **[Cox Media Group](http://ajc.com/)** | **[Intern (Part-Time) - Long Island Radio](https://jobright.ai/jobs/info/689754278c6d6b4426789790?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Podcasts Editorial Intern: NYC - Fall 2025](https://jobright.ai/jobs/info/68985fa55574fd6bc0c795b7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Esports – Broadcast Student Talent (FWS/NFWS) ](https://jobright.ai/jobs/info/6893da41f47efe211396767c?utm_campaign=1053&utm_source=git)** | AZ Phoenix | Hybrid | Aug 06 |
 | **[ANOTHER A STORY](https://anotherastory.com)** | **[STUDIO ASSISTANT INTERN NY](https://jobright.ai/jobs/info/6893d8aa4c7e851b90ae0bfb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[PFF](https://www.pff.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6893cdbaa9199876488e0522?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 06 |
-| **[Cosm](https://www.cosm.com)** | **[Broadcast Operations Intern](https://jobright.ai/jobs/info/6893c598f47efe2113966dcd?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 06 |
-| ↳ | **[Crewing Intern](https://jobright.ai/jobs/info/6893c307f47efe2113966cb2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
