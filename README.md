@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[Production Assistant Intern - Student Employment](https://jobright.ai/jobs/info/6897f1161b9e81727f1a344a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 09 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Fashion Week Intern at The Tailory New York](https://jobright.ai/jobs/info/6897ee5573b3a600fe8a19ef?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 09 |
 | **[C-SPAN](http://www.c-span.org)** | **[Internship - Spring 2026 (January-April)](https://jobright.ai/jobs/info/6897dadc73b3a600fe8a052c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 09 |
 | **[CORE Foodservice](https://coregroupsales.com)** | **[The Culinary Edge Fall Strategy Internship](https://jobright.ai/jobs/info/687c8378ed63844c944aead1?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, Unpaid](https://jobright.ai/jobs/info/68870b414174df41e0f9c897?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Aug 09 |
@@ -144,7 +146,7 @@ Job ID : 260251](https://jobright.ai/jobs/info/68951b1973b3a600fe885235?utm_camp
 | **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Fashion Internship](https://jobright.ai/jobs/info/68943ad1f47efe211396abd9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/68939723f47efe2113965364?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 06 |
 | **[The Information](https://www.theinformation.com)** | **[2026 Summer Editorial Intern](https://jobright.ai/jobs/info/688d139a3a30793eb96485ce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Screen Gems – Fall 2025](https://jobright.ai/jobs/info/68938e61f47efe2113964f00?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 06 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Screen Gems – Fall 2025](https://jobright.ai/jobs/info/68938f65a9199876488de3f3?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 06 |
 | **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Fan Experience](https://jobright.ai/jobs/info/6893859a4c7e851b90ade0bb?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 06 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Return Corporate Archives Summer Intern - 2026 (Kings Mountain, NC)](https://jobright.ai/jobs/info/689384e14c7e851b90addfe2?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 06 |
 | **[The Cool Down](https://www.thecooldown.com/)** | **[Quality Control Editor](https://jobright.ai/jobs/info/689381b7f47efe21139648e3?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
@@ -156,6 +158,4 @@ Job ID : 260251](https://jobright.ai/jobs/info/68951b1973b3a600fe885235?utm_camp
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Intern at Done + Dusted](https://jobright.ai/jobs/info/6893405d4c7e851b90adcbbb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Research & Analytics Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687de4cb764c3d7411c3fb11?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687b83c0764c3d7411c334de?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
-| **[Middle East Institute](http://www.mei.edu)** | **[Intern, Arts & Culture (Fall Semester, Unpaid)](https://jobright.ai/jobs/info/68931a16f47efe2113962e59?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 05 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Production Assistant Intern - Student Employment](https://jobright.ai/jobs/info/689730e38c6d6b4426786c34?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
