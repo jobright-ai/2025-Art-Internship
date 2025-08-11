@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator for TikTok](https://jobright.ai/jobs/info/6899c62dfaa4e875e8254104?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
 | **[WorkAsPro](https://www.workaspro.com/)** | **[Crypto UGC Content Creator](https://jobright.ai/jobs/info/6899b94183d13d1f5b694349?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 11 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[TikTok Content Creator](https://jobright.ai/jobs/info/6899adad5574fd6bc0c7dc6f?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
 | **[We Are The Art District](https://www.wearetheartdistrict.com)** | **[Painting Party Event Host](https://jobright.ai/jobs/info/68995a8c83d13d1f5b691c71?utm_campaign=1053&utm_source=git)** | Palm Beach, FL | Hybrid | Aug 10 |
@@ -79,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Athletic Club](http://www.atlantaathleticclub.org)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/68984e1f5574fd6bc0c77ac2?utm_campaign=1053&utm_source=git)** | Duluth, GA | On Site | Aug 09 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Content Creator](https://jobright.ai/jobs/info/6898311a83d13d1f5b68b5f4?utm_campaign=1053&utm_source=git)** | Shelby, NC | On Site | Aug 09 |
 | **[Ronald McDonald House Charities of Central Texas (RMHC CTX)](https://linktr.ee/RMHCCTX)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6897a77273b3a600fe89d1c2?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 08 |
-| **[hello82](http://www.kaimediagroup.com)** | **[Production Intern](https://jobright.ai/jobs/info/6897a8bf73b3a600fe89d365?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
+| **[hello82](http://www.kaimediagroup.com)** | **[Production Intern](https://jobright.ai/jobs/info/68984e6efaa4e875e824dd19?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 08 |
 | **[LifeSpheres AI](www.lifespheresai.com)** | **[Audiovisual Content Editor Intern](https://jobright.ai/jobs/info/6898212783d13d1f5b68adae?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Aug 08 |
 | **[Cox Media Group](http://ajc.com/)** | **[Intern (Part-Time) - Long Island Radio](https://jobright.ai/jobs/info/689754278c6d6b4426789790?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Directive](http://directiveconsulting.com)** | **[Content Creator Intern (Remote US)](https://jobright.ai/jobs/info/6894193da9199876488e25ef?utm_campaign=1053&utm_source=git)** | Detroit, MI | Remote | Aug 06 |
 | ↳ | **[Content Creator Intern (Remote US)](https://jobright.ai/jobs/info/689414d3a9199876488e2588?utm_campaign=1053&utm_source=git)** | Austin, TX | Remote | Aug 06 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Corporate Communications, Video & Social Media Editor 1](https://jobright.ai/jobs/info/68940e144c7e851b90ae2586?utm_campaign=1053&utm_source=git)** | Omaha, NE | Hybrid | Aug 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Editorial Intern, Jeopardy! – Fall 2025](https://jobright.ai/jobs/info/6893e6204c7e851b90ae127a?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
