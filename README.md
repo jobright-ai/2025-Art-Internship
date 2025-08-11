@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Multimedia Writer/Reporter](https://jobright.ai/jobs/info/689a0e4f83d13d1f5b695a99?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 11 |
+| **[Starr Insurance](https://starrcompanies.com/)** | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fe3efaa4e875e82550b4?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
+| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fe8bfaa4e875e825511c?utm_campaign=1053&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Aug 11 |
+| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fd4983d13d1f5b695388?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
+| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fdf083d13d1f5b695478?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 11 |
+| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fdd45574fd6bc0c7eea8?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
+| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fd4a5574fd6bc0c7edfb?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 11 |
+| **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Multi-Media Podcast Editing Intern](https://jobright.ai/jobs/info/689a0b675574fd6bc0c7f49d?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
+| **[TapSphere](https://www.tapsphere.io)** | **[Proof-Base Influencer Intern](https://jobright.ai/jobs/info/6899fdd05574fd6bc0c7ee9e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNNi Business Show Teams Internships: NYC - Fall 2025](https://jobright.ai/jobs/info/687deb32764c3d7411c3fc4b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Events & Talent Support Intern at The SheRise Enterprise](https://jobright.ai/jobs/info/6899dc4383d13d1f5b6948de?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Fred Young Fellowship](https://jobright.ai/jobs/info/6693b635a955ace455aa3bbf?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Aug 11 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator for TikTok](https://jobright.ai/jobs/info/6899c62dfaa4e875e8254104?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
@@ -82,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Athletic Club](http://www.atlantaathleticclub.org)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/68984e1f5574fd6bc0c77ac2?utm_campaign=1053&utm_source=git)** | Duluth, GA | On Site | Aug 09 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Content Creator](https://jobright.ai/jobs/info/6898311a83d13d1f5b68b5f4?utm_campaign=1053&utm_source=git)** | Shelby, NC | On Site | Aug 09 |
 | **[Ronald McDonald House Charities of Central Texas (RMHC CTX)](https://linktr.ee/RMHCCTX)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6897a77273b3a600fe89d1c2?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 08 |
-| **[hello82](http://www.kaimediagroup.com)** | **[Production Intern](https://jobright.ai/jobs/info/68984e6efaa4e875e824dd19?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
+| **[hello82](http://www.kaimediagroup.com)** | **[Production Intern](https://jobright.ai/jobs/info/6897a8bf73b3a600fe89d365?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 08 |
 | **[LifeSpheres AI](www.lifespheresai.com)** | **[Audiovisual Content Editor Intern](https://jobright.ai/jobs/info/6898212783d13d1f5b68adae?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Aug 08 |
 | **[Cox Media Group](http://ajc.com/)** | **[Intern (Part-Time) - Long Island Radio](https://jobright.ai/jobs/info/689754278c6d6b4426789790?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 08 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Conservatory at Berklee](https://bostonconservatory.berklee.edu)** | **[Costume Shop Intern](https://jobright.ai/jobs/info/68941c0b4c7e851b90ae2f07?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 06 |
 | **[Directive](http://directiveconsulting.com)** | **[Content Creator Intern (Remote US)](https://jobright.ai/jobs/info/6894156cf47efe211396929e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 06 |
 | ↳ | **[Content Creator Intern (Remote US)](https://jobright.ai/jobs/info/689411cd4c7e851b90ae27f7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Aug 06 |
-| **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Graduate Assistant- Writer/Editor](https://jobright.ai/jobs/info/689410f2a9199876488e23df?utm_campaign=1053&utm_source=git)** | Little Rock | On Site | Aug 06 |
-| **[Directive](http://directiveconsulting.com)** | **[Content Creator Intern (Remote US)](https://jobright.ai/jobs/info/68940d6ef47efe2113968f3f?utm_campaign=1053&utm_source=git)** | Dallas, TX | Remote | Aug 06 |
-| **[NESN](http://nesn.com)** | **[Dining Playbook/Meet Boston Intern - Fall Semester](https://jobright.ai/jobs/info/689570e773b3a600fe8878d7?utm_campaign=1053&utm_source=git)** | Watertown, MA | On Site | Aug 06 |
-| **[Directive](http://directiveconsulting.com)** | **[Content Creator Intern (Remote US)](https://jobright.ai/jobs/info/68940bd6f47efe2113968e8e?utm_campaign=1053&utm_source=git)** | Columbus, OH | Remote | Aug 06 |
-| **[City of Corinth](http://www.cityofcorinth.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6893fc36f47efe2113968543?utm_campaign=1053&utm_source=git)** | Corinth, TX | On Site | Aug 06 |
-| **[Directive](http://directiveconsulting.com)** | **[Content Creator Intern (Remote US)](https://jobright.ai/jobs/info/6893f9bba9199876488e15f7?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Remote | Aug 06 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c55a2f06c9231327cd815a?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Aug 06 |
-| **[Directive](http://directiveconsulting.com)** | **[Content Creator Intern (Remote US)](https://jobright.ai/jobs/info/6894193da9199876488e25ef?utm_campaign=1053&utm_source=git)** | Detroit, MI | Remote | Aug 06 |
-| ↳ | **[Content Creator Intern (Remote US)](https://jobright.ai/jobs/info/689414d3a9199876488e2588?utm_campaign=1053&utm_source=git)** | Austin, TX | Remote | Aug 06 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Corporate Communications, Video & Social Media Editor 1](https://jobright.ai/jobs/info/68940e144c7e851b90ae2586?utm_campaign=1053&utm_source=git)** | Omaha, NE | Hybrid | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
