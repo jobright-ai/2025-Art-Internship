@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WorkAsPro](https://www.workaspro.com/)** | **[Crypto UGC Content Creator](https://jobright.ai/jobs/info/6899b94183d13d1f5b694349?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 11 |
+| **[Plutus Media](https://growwithplutus.com/)** | **[TikTok Content Creator](https://jobright.ai/jobs/info/6899adad5574fd6bc0c7dc6f?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
 | **[We Are The Art District](https://www.wearetheartdistrict.com)** | **[Painting Party Event Host](https://jobright.ai/jobs/info/68995a8c83d13d1f5b691c71?utm_campaign=1053&utm_source=git)** | Palm Beach, FL | Hybrid | Aug 10 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Content Writer](https://jobright.ai/jobs/info/6899353d5574fd6bc0c7b1fd?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Aug 10 |
 | **[Montage International](https://www.montageinternational.com)** | **[Rooms Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d60?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Aug 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Creator Intern (Remote US)](https://jobright.ai/jobs/info/689414d3a9199876488e2588?utm_campaign=1053&utm_source=git)** | Austin, TX | Remote | Aug 06 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Corporate Communications, Video & Social Media Editor 1](https://jobright.ai/jobs/info/68940e144c7e851b90ae2586?utm_campaign=1053&utm_source=git)** | Omaha, NE | Hybrid | Aug 06 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Editorial Intern, Jeopardy! – Fall 2025](https://jobright.ai/jobs/info/6893e6204c7e851b90ae127a?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 06 |
-| **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Philadelphia Wings Intern, Video Production](https://jobright.ai/jobs/info/6893e380a9199876488e0d37?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 06 |
-| ↳ | **[Philadelphia Wings Intern, Fan Experience](https://jobright.ai/jobs/info/6893e333f47efe2113967a49?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
