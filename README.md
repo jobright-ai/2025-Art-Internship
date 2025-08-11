@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Content Writer](https://jobright.ai/jobs/info/6899353d5574fd6bc0c7b1fd?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Aug 10 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Blog Writer (Carrie Bradshaw Style) Fall Intern Startup Berkeley Unpaid](https://jobright.ai/jobs/info/689912d6faa4e875e825109f?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Remote | Aug 10 |
 | **[Montage International](https://www.montageinternational.com)** | **[Rooms Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d60?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Aug 10 |
 | **[Talks Brand Group](https://www.talksbrandgroup.com/)** | **[Film Editor Intern](https://jobright.ai/jobs/info/689846b2faa4e875e824cc1a?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Aug 10 |
 | **[Tuedd](https://www.tuedd.com/)** | **[Video Editor](https://jobright.ai/jobs/info/68982a4d5574fd6bc0c74d4c?utm_campaign=1053&utm_source=git)** | Manhattan Beach, CA | On Site | Aug 09 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Production Assistant Intern - Student Employment](https://jobright.ai/jobs/info/6897f1161b9e81727f1a344a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 09 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Fashion Week Intern at The Tailory New York](https://jobright.ai/jobs/info/6897ee5573b3a600fe8a19ef?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 09 |
 | **[C-SPAN](http://www.c-span.org)** | **[Internship - Spring 2026 (January-April)](https://jobright.ai/jobs/info/6897dadc73b3a600fe8a052c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 09 |
 | **[Sparks Village Academy](sparksvillage.com)** | **[Content Creator (Unpaid Intern)](https://jobright.ai/jobs/info/68984a8efaa4e875e824d311?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 09 |
