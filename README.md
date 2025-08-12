@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yumlish](https://yumlish.com/)** | **[Podcast Producer Intern (Remote)](https://jobright.ai/jobs/info/689b7b70faa4e875e82607c5?utm_campaign=1053&utm_source=git)** | Dallas, TX | Remote | Aug 12 |
+| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/689b6f3483d13d1f5b6a04af?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | On Site | Aug 12 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch RootsTech Event Interns](https://jobright.ai/jobs/info/689b6d1d79a9f96662530675?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 12 |
+| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/689b6ab279a9f966625304f0?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 12 |
+| **[The Vertical](https://thevertical.la/)** | **[Journalist Intern](https://jobright.ai/jobs/info/689b6481faa4e875e825feab?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 12 |
 | **[MY ENTERTAINMENT LLC](http://myentertainment.tv)** | **[Fall NonFiction Development Intern 2025](https://jobright.ai/jobs/info/689b594379a9f9666252fc85?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Intern, Creative – Fall 2025 at AGBO Films](https://jobright.ai/jobs/info/689b4e1179a9f9666252f988?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 12 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/689370ad4c7e851b90add94c?utm_campaign=1053&utm_source=git)** | New York | On Site | Aug 12 |
@@ -88,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tailor](https://jobright.ai/jobs/info/689a376f83d13d1f5b696e9d?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Aug 11 |
 | **[Flik Hospitality Group ](https://www.flik-usa.com/)** | **[Culinary Intern, FLIK / New York Jets / Florham Park, NJ](https://jobright.ai/jobs/info/689a2ec7faa4e875e825681b?utm_campaign=1053&utm_source=git)** | Florham Park, NJ | On Site | Aug 11 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/689a2e5f5574fd6bc0c80683?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 11 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/689a292e83d13d1f5b696800?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 11 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/689a2b045574fd6bc0c80388?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 11 |
 | **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/689ae0d7faa4e875e825d3f1?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Starr Insurance](https://starrcompanies.com/)** | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fe3efaa4e875e82550b4?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
 | ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fe8bfaa4e875e825511c?utm_campaign=1053&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Aug 11 |
@@ -129,7 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Athletic Club](http://www.atlantaathleticclub.org)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/68984e1f5574fd6bc0c77ac2?utm_campaign=1053&utm_source=git)** | Duluth, GA | On Site | Aug 09 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Content Creator](https://jobright.ai/jobs/info/6898311a83d13d1f5b68b5f4?utm_campaign=1053&utm_source=git)** | Shelby, NC | On Site | Aug 09 |
 | **[Ronald McDonald House Charities of Central Texas (RMHC CTX)](https://linktr.ee/RMHCCTX)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6897a77273b3a600fe89d1c2?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 08 |
-| **[hello82](http://www.kaimediagroup.com)** | **[Production Intern](https://jobright.ai/jobs/info/68984e6efaa4e875e824dd19?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
+| **[hello82](http://www.kaimediagroup.com)** | **[Production Intern](https://jobright.ai/jobs/info/6897a8bf73b3a600fe89d365?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 08 |
 | **[LifeSpheres AI](www.lifespheresai.com)** | **[Audiovisual Content Editor Intern](https://jobright.ai/jobs/info/6898212783d13d1f5b68adae?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Aug 08 |
 | **[Cox Media Group](http://ajc.com/)** | **[Intern (Part-Time) - Long Island Radio](https://jobright.ai/jobs/info/689754278c6d6b4426789790?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - A&R (Distribution)](https://jobright.ai/jobs/info/687960deed63844c9449b2a0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/6898375e83d13d1f5b68bfd0?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
 | ↳ | **[Internship Event Producer](https://jobright.ai/jobs/info/6897464b73b3a600fe895fb4?utm_campaign=1053&utm_source=git)** | Chicago | On Site | Aug 08 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[2025 Summer News Internship](https://jobright.ai/jobs/info/680359a9b0f813893559f241?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 08 |
-| ↳ | **[News Intern](https://jobright.ai/jobs/info/689839adfaa4e875e824c337?utm_campaign=1053&utm_source=git)** | Charleston, SC | On Site | Aug 08 |
-| **[University of Wyoming](https://www.uwyo.edu/)** | **[Pooled Position Limited Tempor-Event Technology Intern](https://jobright.ai/jobs/info/689859e35574fd6bc0c78b55?utm_campaign=1053&utm_source=git)** | Laramie, WY | On Site | Aug 08 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern Fall 2025 (Unpaid)](https://jobright.ai/jobs/info/689851c883d13d1f5b68e575?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 08 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6878b59dd444e1727b2def15?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
