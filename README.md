@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crescent Hotels & Resorts](http://www.chrco.com)** | **[Intern - Tailor](https://jobright.ai/jobs/info/689afea483d13d1f5b69e91c?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Aug 12 |
+| **[Nutri Yemi](www.nutriyemi.org)** | **[Journalist Intern](https://jobright.ai/jobs/info/689afd3b79a9f9666252ec45?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Aug 12 |
 | **[PROJXON](www.projxon.com)** | **[Editorial and Publishing Intern](https://jobright.ai/jobs/info/689ad386faa4e875e825cae8?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Remote | Aug 11 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Student Service - Golf Course Maint](https://jobright.ai/jobs/info/689ada8683d13d1f5b69d24a?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 11 |
 | **[New College of Florida](http://www.ncf.edu/)** | **[Student Assistant, Livestream/Stats/Gameday Broadcast](https://jobright.ai/jobs/info/689abef6faa4e875e825bd8e?utm_campaign=1053&utm_source=git)** | Bay Shore Acres, FL | On Site | Aug 11 |
@@ -84,22 +86,21 @@ For a complete list, click the following sortable link below:
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tailor](https://jobright.ai/jobs/info/689a376f83d13d1f5b696e9d?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Aug 11 |
 | **[Flik Hospitality Group ](https://www.flik-usa.com/)** | **[Culinary Intern, FLIK / New York Jets / Florham Park, NJ](https://jobright.ai/jobs/info/689a2ec7faa4e875e825681b?utm_campaign=1053&utm_source=git)** | Florham Park, NJ | On Site | Aug 11 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/689a2e5f5574fd6bc0c80683?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 11 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/689a292e83d13d1f5b696800?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 11 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/689a2b045574fd6bc0c80388?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 11 |
 | **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/689ae0d7faa4e875e825d3f1?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Starr Insurance](https://starrcompanies.com/)** | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fe8bfaa4e875e825511c?utm_campaign=1053&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Aug 11 |
 | ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fe3efaa4e875e82550b4?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
-| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fdf083d13d1f5b695478?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 11 |
 | ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fd4983d13d1f5b695388?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
-| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fdd45574fd6bc0c7eea8?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
+| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fdf083d13d1f5b695478?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 11 |
 | ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fd4a5574fd6bc0c7edfb?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 11 |
+| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fdd45574fd6bc0c7eea8?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
 | **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Multi-Media Podcast Editing Intern](https://jobright.ai/jobs/info/689a0b675574fd6bc0c7f49d?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Multimedia Writer & Reporter](https://jobright.ai/jobs/info/689a0e4f83d13d1f5b695a99?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 11 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Fall Internship](https://jobright.ai/jobs/info/689ad08a5574fd6bc0c86426?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 11 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Aug 11 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN News Show Team Internships: DC - Fall 2025](https://jobright.ai/jobs/info/687de710ed63844c944b564a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 11 |
 | ↳ | **[CNN Research & Analytics Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687de4cb764c3d7411c3fb11?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Aug 11 |
-| **[TapSphere](https://www.tapsphere.io)** | **[Proof-Base Influencer Intern](https://jobright.ai/jobs/info/6899fdd05574fd6bc0c7ee9e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Newsgathering Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687def31764c3d7411c3fcd1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Aug 11 |
+| ↳ | **[CNN Newsgathering Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687def31764c3d7411c3fcd1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Aug 11 |
 | ↳ | **[CNNi Business Show Teams Internships: NYC - Fall 2025](https://jobright.ai/jobs/info/687deb32764c3d7411c3fc4b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
 | **[CNN](https://www.cnn.com)** | **[CNN International Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687de53d2097a271a89915fa?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Aug 11 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN FactCheck Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687de74c764c3d7411c3fbfe?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Aug 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UHS](https://uhs.com)** | **[Music Therapy Intern](https://jobright.ai/jobs/info/689575124ed2ea559ca56019?utm_campaign=1053&utm_source=git)** | WEST COLUMBIA, South Carolina | On Site | Aug 07 |
 | **[Three Rivers Behavioral Health](https://threeriversbehavioral.org/)** | **[Music Therapy Intern](https://jobright.ai/jobs/info/6895577573b3a600fe886c23?utm_campaign=1053&utm_source=git)** | West Columbia, SC | On Site | Aug 07 |
 | **[The Bristol Hawk](https://bristolthehawk.com/)** | **[Podcaster](https://jobright.ai/jobs/info/6897c3438c6d6b4426791d51?utm_campaign=1053&utm_source=git)** | Fall River, MA | On Site | Aug 07 |
-| **[Sacramento Kings](http://www.Kings.com)** | **[Community/Event Presentation Intern, Stockton Kings](https://jobright.ai/jobs/info/68955b104ed2ea559ca553a6?utm_campaign=1053&utm_source=git)** | Stockton, CA | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
