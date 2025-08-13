@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer - Influencer - Podcasting Intern](https://jobright.ai/jobs/info/689bd42379a9f966625340d1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 12 |
+| **[Toma](https://www.toma.com)** | **[Founding Storyteller Intern](https://jobright.ai/jobs/info/689bd102faa4e875e8263baa?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 12 |
+| **[Port of San Diego](https://www.portofsandiego.org/)** | **[Intern - Parks and Recreation](https://jobright.ai/jobs/info/689bcd41faa4e875e82639ae?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Aug 12 |
+| **[La Sierra University](http://www.lasierra.edu/)** | **[Podcast Producer & Host](https://jobright.ai/jobs/info/689bc90afaa4e875e826377d?utm_campaign=1053&utm_source=git)** | Riverside, CA | On Site | Aug 12 |
+| ↳ | **[Video Editor](https://jobright.ai/jobs/info/689bc85679a9f96662533b2d?utm_campaign=1053&utm_source=git)** | Riverside, CA | On Site | Aug 12 |
+| **[ElectraCast Media](http://www.electracast.com)** | **[Intern Podcast Editor](https://jobright.ai/jobs/info/689bc0c7faa4e875e82633d6?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 12 |
+| **[Museum of Science](http://www.mos.org)** | **[Archives Management Intern](https://jobright.ai/jobs/info/689bbfca79a9f966625336de?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 12 |
+| **[AAMBC Inc. ](http://www.aambc.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/689bbc38faa4e875e826323a?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 12 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/689bba8579a9f966625334d3?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Aug 12 |
 | **[The Patel Comics](https://www.linkedin.com/company/90388952)** | **[Video Editor Intern](https://jobright.ai/jobs/info/689bb22683d13d1f5b6a283b?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Bishop Fox](https://bishopfox.com)** | **[Video Content Intern](https://jobright.ai/jobs/info/689bb14b79a9f96662532c13?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 12 |
 | ↳ | **[Video Content Intern](https://jobright.ai/jobs/info/689ba489faa4e875e826204b?utm_campaign=1053&utm_source=git)** | Tempe, AZ or San Francisco, CA Hybrid | On Site | Aug 12 |
@@ -91,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Social & Digital Content Production](https://jobright.ai/jobs/info/689a88defaa4e875e8259793?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Guerilla-Style Campus Reporter Intern at Frontrunner Magazine](https://jobright.ai/jobs/info/689a87765574fd6bc0c8346c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
 | **[3311 Productions, Inc](http://www.3311productions.com)** | **[Film/TV Intern - Fall 2025 Semester](https://jobright.ai/jobs/info/689ac4395574fd6bc0c85c1e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
-| **[Toma](https://www.toma.com)** | **[Founding Storyteller Intern](https://jobright.ai/jobs/info/689ba3fc83d13d1f5b6a201f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 11 |
 | **[Grinnell College](http://www.grinnell.edu)** | **[S&B Social Media Editor](https://jobright.ai/jobs/info/689a9d7d5574fd6bc0c841a6?utm_campaign=1053&utm_source=git)** | Grinnell, IA | On Site | Aug 11 |
 | **[Gray Media](http://www.gray.tv)** | **[TUPELO HONEY INTERNSHIP (REMOTE) - TUPELO HONEY](https://jobright.ai/jobs/info/689a76ca5574fd6bc0c82c30?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Intern- Fall, 2025](https://jobright.ai/jobs/info/689a6f9cfaa4e875e8258b56?utm_campaign=1053&utm_source=git)** | LA-Metairie;One Galleria Blvd (Tribune-WGNO/WNOL) | Hybrid | Aug 11 |
@@ -113,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Digital Editorial: NYC - Fall 2025](https://jobright.ai/jobs/info/687de3d6ed63844c944b54fd?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/689a292e83d13d1f5b696800?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 11 |
 | **[The Sporting News](http://www.sportingnews.com)** | **[Editorial Intern, News (Fall 2025)](https://jobright.ai/jobs/info/686ca98735584b6542e674ba?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 11 |
-| **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/689ae0d7faa4e875e825d3f1?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Starr Insurance](https://starrcompanies.com/)** | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fe8bfaa4e875e825511c?utm_campaign=1053&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Aug 11 |
 | ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fe3efaa4e875e82550b4?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
 | ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fdf083d13d1f5b695478?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Television Video Producer Intern](https://jobright.ai/jobs/info/687ca5bb764c3d7411c3a8ad?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 09 |
 | **[Atlanta Athletic Club](http://www.atlantaathleticclub.org)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/68984e1f5574fd6bc0c77ac2?utm_campaign=1053&utm_source=git)** | Duluth, GA | On Site | Aug 09 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Content Creator](https://jobright.ai/jobs/info/6898311a83d13d1f5b68b5f4?utm_campaign=1053&utm_source=git)** | Shelby, NC | On Site | Aug 09 |
-| **[Ronald McDonald House Charities of Central Texas (RMHC CTX)](https://linktr.ee/RMHCCTX)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6897a77273b3a600fe89d1c2?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 08 |
-| **[hello82](http://www.kaimediagroup.com)** | **[Production Intern](https://jobright.ai/jobs/info/6897a8bf73b3a600fe89d365?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
-| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 08 |
-| **[LifeSpheres AI](www.lifespheresai.com)** | **[Audiovisual Content Editor Intern](https://jobright.ai/jobs/info/6898212783d13d1f5b68adae?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Aug 08 |
-| **[Cox Media Group](http://ajc.com/)** | **[Intern (Part-Time) - Long Island Radio](https://jobright.ai/jobs/info/689754278c6d6b4426789790?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 08 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Podcasts Editorial Intern: NYC - Fall 2025](https://jobright.ai/jobs/info/68985fa55574fd6bc0c795b7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
-| **[Merrill Manufacturing Company](https://www.merrillmfg.com/)** | **[Digital Content Creator Intern](https://jobright.ai/jobs/info/68977bac1b9e81727f19b7e9?utm_campaign=1053&utm_source=git)** | Merrill Main Office | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
