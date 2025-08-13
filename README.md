@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[East Tennessee State University](http://www.etsu.edu/)** | **[Cast Member, Mascot Program (Temporary)](https://jobright.ai/jobs/info/689c5a7879a9f966625388c8?utm_campaign=1053&utm_source=git)** | Johnson City, TN | On Site | Aug 13 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/689c15a1faa4e875e8265e51?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Aug 12 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Creative Production Intern](https://jobright.ai/jobs/info/689c14ef83d13d1f5b6a5e15?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Aug 12 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Interns – Digital Productions and Social Media](https://jobright.ai/jobs/info/689be468faa4e875e826460e?utm_campaign=1053&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Aug 12 |
@@ -135,12 +136,12 @@ For a complete list, click the following sortable link below:
 | **[Flik Hospitality Group ](https://www.flik-usa.com/)** | **[Culinary Intern, FLIK / New York Jets / Florham Park, NJ](https://jobright.ai/jobs/info/689a2ec7faa4e875e825681b?utm_campaign=1053&utm_source=git)** | Florham Park, NJ | On Site | Aug 11 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/689a2e5f5574fd6bc0c80683?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 11 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Digital Editorial: NYC - Fall 2025](https://jobright.ai/jobs/info/687de3d6ed63844c944b54fd?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/689a292e83d13d1f5b696800?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 11 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/689a2b045574fd6bc0c80388?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Aug 11 |
 | **[The Sporting News](http://www.sportingnews.com)** | **[Editorial Intern, News (Fall 2025)](https://jobright.ai/jobs/info/686ca98735584b6542e674ba?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 11 |
-| **[Starr Insurance](https://starrcompanies.com/)** | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fe3efaa4e875e82550b4?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
-| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fe8bfaa4e875e825511c?utm_campaign=1053&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Aug 11 |
-| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fd4983d13d1f5b695388?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
+| **[Starr Insurance](https://starrcompanies.com/)** | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fe8bfaa4e875e825511c?utm_campaign=1053&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Aug 11 |
+| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fe3efaa4e875e82550b4?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
 | ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fdf083d13d1f5b695478?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 11 |
+| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fd4983d13d1f5b695388?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
 | ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fdd45574fd6bc0c7eea8?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
 | ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fd4a5574fd6bc0c7edfb?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 11 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Multimedia Writer & Reporter](https://jobright.ai/jobs/info/689a0e4f83d13d1f5b695a99?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN FactCheck Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687de74c764c3d7411c3fbfe?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Aug 11 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Fred Young Fellowship](https://jobright.ai/jobs/info/6693b635a955ace455aa3bbf?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Aug 11 |
 | **[Legends](http://legends.net)** | **[Culinary Intern - Credit Union 1 Amp. - Tinley Park](https://jobright.ai/jobs/info/68092f750caf80151a3ffc01?utm_campaign=1053&utm_source=git)** | Tinley Park, IL | On Site | Aug 11 |
-| **[We Are The Art District](https://www.wearetheartdistrict.com)** | **[Painting Party Event Host](https://jobright.ai/jobs/info/68995a8c83d13d1f5b691c71?utm_campaign=1053&utm_source=git)** | Palm Beach, FL | Hybrid | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
