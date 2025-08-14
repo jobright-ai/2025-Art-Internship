@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Post](http://nypost.com/)** | **[Intern, Youtube](https://jobright.ai/jobs/info/689e3c4f79a9f9666254887c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Video](https://jobright.ai/jobs/info/689e3ab479a9f966625485a5?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 14 |
+| ↳ | **[Intern, Youtube](https://jobright.ai/jobs/info/689e3a1783d13d1f5b6b8156?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 14 |
+| **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Southeastern Louisiana Athletics) - Fall 2025](https://jobright.ai/jobs/info/689e25bcfaa4e875e82771eb?utm_campaign=1053&utm_source=git)** | Hammond, LA | On Site | Aug 14 |
 | **[Jetvoy.com](https://www.jetvoy.com/)** | **[Volunteer Writer Intern](https://jobright.ai/jobs/info/689e1ff779a9f96662547284?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 14 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Club Sports Event Operations International Student Worker](https://jobright.ai/jobs/info/689e1b7efaa4e875e8276be5?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 14 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Temporary Reporter/Writer Intern](https://jobright.ai/jobs/info/689e13c879a9f96662546c79?utm_campaign=1053&utm_source=git)** | Boulder, CO | On Site | Aug 14 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/689a90a85574fd6bc0c8399f?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
 | ↳ | **[Intern, Social & Digital Content Production](https://jobright.ai/jobs/info/689a88defaa4e875e8259793?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
 | **[Toma](https://www.toma.com)** | **[Founding Storyteller Intern](https://jobright.ai/jobs/info/689ba3fc83d13d1f5b6a201f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 11 |
-| **[Grinnell College](http://www.grinnell.edu)** | **[S&B Social Media Editor](https://jobright.ai/jobs/info/689a9d7d5574fd6bc0c841a6?utm_campaign=1053&utm_source=git)** | Grinnell, IA | On Site | Aug 11 |
 | **[Gray Media](http://www.gray.tv)** | **[TUPELO HONEY INTERNSHIP (REMOTE) - TUPELO HONEY](https://jobright.ai/jobs/info/689a76ca5574fd6bc0c82c30?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 11 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Intern- Fall, 2025](https://jobright.ai/jobs/info/689a6f9cfaa4e875e8258b56?utm_campaign=1053&utm_source=git)** | LA-Metairie;One Galleria Blvd (Tribune-WGNO/WNOL) | Hybrid | Aug 11 |
 | **[University of La Verne](http://laverne.edu)** | **[FWS -Theatre Technical Student Assistant (25/26)](https://jobright.ai/jobs/info/689a5a82faa4e875e82584a5?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | Aug 11 |
 | ↳ | **[Department of Theatre Arts - Publicity Student Assistant 25/26](https://jobright.ai/jobs/info/689a565883d13d1f5b6983ca?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | Aug 11 |
-| **[City of Burlington, Vermont](http://www.burlingtonvt.gov)** | **[Art from the Heart Intern](https://jobright.ai/jobs/info/689a4cfafaa4e875e8257b2a?utm_campaign=1053&utm_source=git)** | Burlington, VT | On Site | Aug 11 |
-| **[ASU Enterprise Partners](http://asuenterprisepartners.org/)** | **[Student Writer/Editor – Outreach Hub](https://jobright.ai/jobs/info/689a4b785574fd6bc0c81909?utm_campaign=1053&utm_source=git)** | Tempe, AZ | Hybrid | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
