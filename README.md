@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Red Velvet Studios](redvelvetstudio.com)** | **[Video Podcast Editor Internship](https://jobright.ai/jobs/info/689d5aff83d13d1f5b6af0d5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
 | **[Delirium Entertainment](https://www.delirium-ent.com/)** | **[Internship – Support Women DJs](https://jobright.ai/jobs/info/689d554779a9f9666253f1c6?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Remote | Aug 13 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/689d5315faa4e875e826ec6e?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | Remote | Aug 13 |
 | **[Vinfen](http://www.vinfen.org)** | **[Unpaid Intern - DS](https://jobright.ai/jobs/info/689d5305faa4e875e826ec22?utm_campaign=1053&utm_source=git)** | Brookline, MA | On Site | Aug 13 |
 | **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Emerging Arts Leader Internship: Conservation](https://jobright.ai/jobs/info/689d42acfaa4e875e826e652?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 13 |
 | **[Toma](https://www.toma.com)** | **[Founding Storyteller Intern](https://jobright.ai/jobs/info/689d3c8683d13d1f5b6ae4d4?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 13 |
@@ -129,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING 03/07/2025](https://jobright.ai/jobs/info/689b8ce279a9f96662531059?utm_campaign=1053&utm_source=git)** | Springfield, IL | On Site | Aug 12 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/689b882783d13d1f5b6a0ae7?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 12 |
 | **[Yamaha Corporation](https://www.yamaha.com)** | **[Drums and Percussion Intern](https://jobright.ai/jobs/info/689b8431faa4e875e8260a59?utm_campaign=1053&utm_source=git)** | Buena Park, CA | Hybrid | Aug 12 |
-| **[Yumlish](https://yumlish.com/)** | **[Podcast Producer Intern (Remote)](https://jobright.ai/jobs/info/689b7b70faa4e875e82607c5?utm_campaign=1053&utm_source=git)** | Dallas, TX | Remote | Aug 12 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/689b6f3483d13d1f5b6a04af?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | On Site | Aug 12 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch RootsTech Event Interns](https://jobright.ai/jobs/info/689b6d1d79a9f96662530675?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 12 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/689b6ab279a9f966625304f0?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 12 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Times News Media Group](https://www.tnonline.com)** | **[Creative News Fall Internship](https://jobright.ai/jobs/info/689a4122faa4e875e82570a9?utm_campaign=1053&utm_source=git)** | Lehighton, Pennsylvania, United States | On Site | Aug 11 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Writer/Editor – Outreach Hub](https://jobright.ai/jobs/info/689a3f3c83d13d1f5b697220?utm_campaign=1053&utm_source=git)** | Tempe, AZ | Hybrid | Aug 11 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tailor](https://jobright.ai/jobs/info/689a376f83d13d1f5b696e9d?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Aug 11 |
+| **[Flik Hospitality Group ](https://www.flik-usa.com/)** | **[Culinary Intern, FLIK / New York Jets / Florham Park, NJ](https://jobright.ai/jobs/info/689a2ec7faa4e875e825681b?utm_campaign=1053&utm_source=git)** | Florham Park, NJ | On Site | Aug 11 |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/689a2e5f5574fd6bc0c80683?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
