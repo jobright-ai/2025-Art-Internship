@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jetvoy.com](https://www.jetvoy.com/)** | **[Volunteer Writer Intern](https://jobright.ai/jobs/info/689e1ff779a9f96662547284?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 14 |
+| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Club Sports Event Operations International Student Worker](https://jobright.ai/jobs/info/689e1b7efaa4e875e8276be5?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 14 |
+| **[University of Colorado Boulder](https://www.colorado.edu)** | **[Temporary Reporter/Writer Intern](https://jobright.ai/jobs/info/689e13c879a9f96662546c79?utm_campaign=1053&utm_source=git)** | Boulder, CO | On Site | Aug 14 |
 | **[MarkMedia LLC](https://www.marktny.com/)** | **[Video Editor Intern – New York City](https://jobright.ai/jobs/info/689de90879a9f9666254578e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 14 |
 | **[BenchView Sports](https://www.linkedin.com/company/107661896)** | **[Sports Curator/Content Creator Intern](https://jobright.ai/jobs/info/689d776a79a9f96662540a31?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
 | **[Red Velvet Studios](redvelvetstudio.com)** | **[Video Podcast Editor Internship](https://jobright.ai/jobs/info/689d5aff83d13d1f5b6af0d5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Department of Theatre Arts - Publicity Student Assistant 25/26](https://jobright.ai/jobs/info/689a565883d13d1f5b6983ca?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | Aug 11 |
 | **[City of Burlington, Vermont](http://www.burlingtonvt.gov)** | **[Art from the Heart Intern](https://jobright.ai/jobs/info/689a4cfafaa4e875e8257b2a?utm_campaign=1053&utm_source=git)** | Burlington, VT | On Site | Aug 11 |
 | **[ASU Enterprise Partners](http://asuenterprisepartners.org/)** | **[Student Writer/Editor – Outreach Hub](https://jobright.ai/jobs/info/689a4b785574fd6bc0c81909?utm_campaign=1053&utm_source=git)** | Tempe, AZ | Hybrid | Aug 11 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant - Advancement and Alumni Engagement (Student Employee)](https://jobright.ai/jobs/info/689a458cfaa4e875e82575a0?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 11 |
-| ↳ | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/689a448483d13d1f5b697812?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 11 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Digital Collection Services Intern](https://jobright.ai/jobs/info/689a42c75574fd6bc0c8118c?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
