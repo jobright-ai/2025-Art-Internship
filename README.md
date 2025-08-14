@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[New York Post](http://nypost.com/)** | **[Intern, Youtube](https://jobright.ai/jobs/info/689e3c4f79a9f9666254887c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e548483d13d1f5b6bae4b?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
+| **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/689e516b79a9f9666254ada6?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Aug 14 |
+| **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Fall Internship](https://jobright.ai/jobs/info/689e4a9a79a9f96662549f48?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Aug 14 |
+| **[Page Six](https://pagesix.com/)** | **[Intern, Page Six Video](https://jobright.ai/jobs/info/689e4420faa4e875e827931c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
+| **[New York Post](http://nypost.com/)** | **[Intern, Sports](https://jobright.ai/jobs/info/689e3e92faa4e875e8278d2e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 14 |
+| ↳ | **[Intern, Youtube](https://jobright.ai/jobs/info/689e3c4f79a9f9666254887c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Video](https://jobright.ai/jobs/info/689e3ab479a9f966625485a5?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 14 |
 | ↳ | **[Intern, Youtube](https://jobright.ai/jobs/info/689e3a1783d13d1f5b6b8156?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 14 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Southeastern Louisiana Athletics) - Fall 2025](https://jobright.ai/jobs/info/689e25bcfaa4e875e82771eb?utm_campaign=1053&utm_source=git)** | Hammond, LA | On Site | Aug 14 |
@@ -71,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Vinfen](http://www.vinfen.org)** | **[Unpaid Intern - DS](https://jobright.ai/jobs/info/689d5305faa4e875e826ec22?utm_campaign=1053&utm_source=git)** | Brookline, MA | On Site | Aug 13 |
 | **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Emerging Arts Leader Internship: Conservation](https://jobright.ai/jobs/info/689d42acfaa4e875e826e652?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 13 |
 | **[Toma](https://www.toma.com)** | **[Founding Storyteller Intern](https://jobright.ai/jobs/info/689d3c8683d13d1f5b6ae4d4?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 13 |
+| **[Oklahoma State University Alumni Association](http://orangeconnection.org)** | **[Opportunity Orange Events Intern](https://jobright.ai/jobs/info/689e52d4faa4e875e827acf4?utm_campaign=1053&utm_source=git)** | Stillwater, OK | On Site | Aug 13 |
 | **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[Body Shop Intern](https://jobright.ai/jobs/info/689d28e083d13d1f5b6ad974?utm_campaign=1053&utm_source=git)** | Omaha, NE | On Site | Aug 13 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[ESPN Production Crew](https://jobright.ai/jobs/info/689d82cdfaa4e875e8270ea8?utm_campaign=1053&utm_source=git)** | Newport, KY | On Site | Aug 13 |
 | **[King's Hawaiian](http://www.kingshawaiian.com/)** | **[Away From Home Culinary Intern](https://jobright.ai/jobs/info/689d206a79a9f9666253d8dc?utm_campaign=1053&utm_source=git)** | Texas, United States | On Site | Aug 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Intern- Fall, 2025](https://jobright.ai/jobs/info/689a94695574fd6bc0c83b03?utm_campaign=1053&utm_source=git)** | Metairie, LA | Hybrid | Aug 11 |
 | **[VOX ATL](https://voxatl.org)** | **[VOX Studios Near-Peer Production Intern - Fall Semester 2025](https://jobright.ai/jobs/info/689a92edfaa4e875e8259d0a?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
 | **[Lipscomb University](http://www.lipscomb.edu/)** | **[Podcast and Video Production Student Worker- Career Development](https://jobright.ai/jobs/info/689bb25483d13d1f5b6a2870?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 11 |
-| **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/689a90a85574fd6bc0c8399f?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
-| ↳ | **[Intern, Social & Digital Content Production](https://jobright.ai/jobs/info/689a88defaa4e875e8259793?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
-| **[Toma](https://www.toma.com)** | **[Founding Storyteller Intern](https://jobright.ai/jobs/info/689ba3fc83d13d1f5b6a201f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 11 |
-| **[Gray Media](http://www.gray.tv)** | **[TUPELO HONEY INTERNSHIP (REMOTE) - TUPELO HONEY](https://jobright.ai/jobs/info/689a76ca5574fd6bc0c82c30?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 11 |
-| **[University of La Verne](http://laverne.edu)** | **[FWS -Theatre Technical Student Assistant (25/26)](https://jobright.ai/jobs/info/689a5a82faa4e875e82584a5?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | Aug 11 |
-| ↳ | **[Department of Theatre Arts - Publicity Student Assistant 25/26](https://jobright.ai/jobs/info/689a565883d13d1f5b6983ca?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
