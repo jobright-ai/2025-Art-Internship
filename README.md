@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toma](https://www.toma.com)** | **[Founding Storyteller Intern](https://jobright.ai/jobs/info/689d3c8683d13d1f5b6ae4d4?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 13 |
+| **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[Body Shop Intern](https://jobright.ai/jobs/info/689d28e083d13d1f5b6ad974?utm_campaign=1053&utm_source=git)** | Omaha, NE | On Site | Aug 13 |
 | **[King's Hawaiian](http://www.kingshawaiian.com/)** | **[Away From Home Culinary Intern](https://jobright.ai/jobs/info/689d206a79a9f9666253d8dc?utm_campaign=1053&utm_source=git)** | Texas, United States | On Site | Aug 13 |
-| **[Gradxiety](https://gradxiety.com)** | **[Writing Intern](https://jobright.ai/jobs/info/689d03a2faa4e875e826ca40?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
 | **[R&CPMK](https://www.rcpmk.com)** | **[Trainee, Digital Entertainment and Gaming](https://jobright.ai/jobs/info/689cec9f83d13d1f5b6ac105?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 13 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Sports](https://jobright.ai/jobs/info/689ce9df79a9f9666253c357?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Aug 13 |
 | **[Irresistible Foods Group](https://irresistiblefoods.com)** | **[Away From Home Culinary Intern](https://jobright.ai/jobs/info/689ce97ffaa4e875e826bdbc?utm_campaign=1053&utm_source=git)** | Remote TX | Remote | Aug 13 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/689ca13f79a9f966625396d0?utm_campaign=1053&utm_source=git)** | New York, NY OR Remote | Remote | Aug 13 |
 | ↳ | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/689ca10e79a9f9666253967b?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
 | **[Diocese of Austin](http://www.austindiocese.org)** | **[Music Ministry Intern](https://jobright.ai/jobs/info/689c96a883d13d1f5b6a8fd2?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 13 |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2025 FOX News Media Internship Program - Dallas, TX](https://jobright.ai/jobs/info/682bcc05107266e4fa0b92df?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Aug 13 |
 | **[East Tennessee State University](http://www.etsu.edu/)** | **[Cast Member, Mascot Program (Temporary)](https://jobright.ai/jobs/info/689c5a7879a9f966625388c8?utm_campaign=1053&utm_source=git)** | Johnson City, TN | On Site | Aug 13 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/689c15a1faa4e875e8265e51?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Aug 12 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Interns – Digital Productions and Social Media](https://jobright.ai/jobs/info/689be468faa4e875e826460e?utm_campaign=1053&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Aug 12 |
@@ -82,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[artnet](http://www.artnet.com)** | **[Production Internship, Artnet Price Database](https://jobright.ai/jobs/info/689be34679a9f966625347a7?utm_campaign=1053&utm_source=git)** | Fully Remote | Hybrid | Aug 12 |
 | **[BlueScope Buildings North America, Inc.](https://www.bluescopebuildings.com)** | **[Detailing Intern](https://jobright.ai/jobs/info/689be32bfaa4e875e8264382?utm_campaign=1053&utm_source=git)** | Evansville, WI | On Site | Aug 12 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/689cb4da83d13d1f5b6aa09c?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Aug 12 |
+| **[Maharishi International University](https://www.miu.edu/)** | **[FWS Department Assistant- Fall 2025](https://jobright.ai/jobs/info/689d2fb683d13d1f5b6adc37?utm_campaign=1053&utm_source=git)** | Fairfield, IA | On Site | Aug 12 |
 | **[The Broadmoor](http://www.broadmoor.com)** | **[PRM Intern/Assistant Golf Professional](https://jobright.ai/jobs/info/689bfd6283d13d1f5b6a4d2e?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | Aug 12 |
 | **[Port of San Diego](https://www.portofsandiego.org/)** | **[Intern - Parks and Recreation](https://jobright.ai/jobs/info/689bcd41faa4e875e82639ae?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Aug 12 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Interns – Digital Productions and Social Media](https://jobright.ai/jobs/info/689bfdea83d13d1f5b6a4e2f?utm_campaign=1053&utm_source=git)** | Arlington, TX | On Site | Aug 12 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[The Sporting News](http://www.sportingnews.com)** | **[Editorial Intern, News (Fall 2025)](https://jobright.ai/jobs/info/686ca98735584b6542e674ba?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 11 |
 | **[Starr Insurance](https://starrcompanies.com/)** | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fe8bfaa4e875e825511c?utm_campaign=1053&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Aug 11 |
 | ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fe3efaa4e875e82550b4?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
-| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fd4983d13d1f5b695388?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
 | ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fdf083d13d1f5b695478?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 11 |
-| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fdd45574fd6bc0c7eea8?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
+| ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fd4983d13d1f5b695388?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
 | ↳ | **[Former Starr Interns ONLY - 2026 Starr Summer Intern -  All Locations](https://jobright.ai/jobs/info/6899fd4a5574fd6bc0c7edfb?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 11 |
-| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Multimedia Writer & Reporter](https://jobright.ai/jobs/info/689a0e4f83d13d1f5b695a99?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 11 |
-| **[TGR](http://www.thegarnettereport.com)** | **[Fall Internship](https://jobright.ai/jobs/info/689ad08a5574fd6bc0c86426?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
