@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MarkMedia LLC](https://www.marktny.com/)** | **[Video Editor Intern – New York City](https://jobright.ai/jobs/info/689de90879a9f9666254578e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 14 |
+| **[BenchView Sports](https://www.linkedin.com/company/107661896)** | **[Sports Curator/Content Creator Intern](https://jobright.ai/jobs/info/689d776a79a9f96662540a31?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
 | **[Red Velvet Studios](redvelvetstudio.com)** | **[Video Podcast Editor Internship](https://jobright.ai/jobs/info/689d5aff83d13d1f5b6af0d5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
 | **[Delirium Entertainment](https://www.delirium-ent.com/)** | **[Internship – Support Women DJs](https://jobright.ai/jobs/info/689d554779a9f9666253f1c6?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Remote | Aug 13 |
 | **[Vinfen](http://www.vinfen.org)** | **[Unpaid Intern - DS](https://jobright.ai/jobs/info/689d5305faa4e875e826ec22?utm_campaign=1053&utm_source=git)** | Brookline, MA | On Site | Aug 13 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[King's Hawaiian](http://www.kingshawaiian.com/)** | **[Away From Home Culinary Intern](https://jobright.ai/jobs/info/689d206a79a9f9666253d8dc?utm_campaign=1053&utm_source=git)** | Texas, United States | On Site | Aug 13 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[Criterion Web Master](https://jobright.ai/jobs/info/689d8d3779a9f96662541aac?utm_campaign=1053&utm_source=git)** | Riverside, CA | On Site | Aug 13 |
 | ↳ | **[Criterion Writer](https://jobright.ai/jobs/info/689d8d20faa4e875e82715c7?utm_campaign=1053&utm_source=git)** | Riverside, CA | On Site | Aug 13 |
+| **[YSC ACADEMY](http://yscacademy.com)** | **[Content Creator](https://jobright.ai/jobs/info/689de185faa4e875e8275141?utm_campaign=1053&utm_source=git)** | Wayne, PA | Hybrid | Aug 13 |
 | **[PICXM](www.picxm.com)** | **[Content Creator / Video Intern](https://jobright.ai/jobs/info/689da41b83d13d1f5b6b22ff?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 13 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Sports](https://jobright.ai/jobs/info/689ce9df79a9f9666253c357?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Aug 13 |
 | **[Irresistible Foods Group](https://irresistiblefoods.com)** | **[Away From Home Culinary Intern](https://jobright.ai/jobs/info/689ce97ffaa4e875e826bdbc?utm_campaign=1053&utm_source=git)** | Remote TX | Remote | Aug 13 |
@@ -79,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[BAI Capital](https://baicapital.com)** | **[Job Description / Content Creator Videographer Intern](https://jobright.ai/jobs/info/689cd97d79a9f9666253b538?utm_campaign=1053&utm_source=git)** | Aventura, FL | On Site | Aug 13 |
 | **[Montage International](https://www.montageinternational.com)** | **[Culinary Internship & Externship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/689ccf9b79a9f9666253af66?utm_campaign=1053&utm_source=git)** | USA – SC – Bluffton | On Site | Aug 13 |
 | **[MarkMedia LLC](https://www.marktny.com/)** | **[Videography Intern – New York City](https://jobright.ai/jobs/info/689cce7d79a9f9666253af3d?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 13 |
+| **[Zagga Digital](https://www.zagga.digital/)** | **[Sports Sideline Videographer](https://jobright.ai/jobs/info/689ddbed83d13d1f5b6b4b40?utm_campaign=1053&utm_source=git)** | Towson, MD | On Site | Aug 13 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Curatorial Photography Intern](https://jobright.ai/jobs/info/689cb318faa4e875e8269f6a?utm_campaign=1053&utm_source=git)** | Salem, MA | On Site | Aug 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Broadcast Internship (NYSBA)](https://jobright.ai/jobs/info/689cae8efaa4e875e8269ba0?utm_campaign=1053&utm_source=git)** | VT, Colchester | On Site | Aug 13 |
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/689ca13f79a9f966625396d0?utm_campaign=1053&utm_source=git)** | New York, NY OR Remote | Remote | Aug 13 |
@@ -92,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/689d5b56faa4e875e826f014?utm_campaign=1053&utm_source=git)** | Cashiers, NC | On Site | Aug 12 |
 | **[Ro2 Art](http://www.ro2art.com)** | **[Gallery Intern](https://jobright.ai/jobs/info/689d74b779a9f966625409ca?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
 | **[We Launch](https://www.linkedin.com/company/96038454)** | **[Content Creator Intern](https://jobright.ai/jobs/info/689d747483d13d1f5b6b0463?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 12 |
+| **[Data Made Fun for Kids](https://devshreegolecha.com/)** | **[Kids STEM & AI Content Creator – Remote (Volunteer or Paid Internship)](https://jobright.ai/jobs/info/689d74c6faa4e875e82704eb?utm_campaign=1053&utm_source=git)** | Katy, TX | Remote | Aug 12 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Interns – Digital Productions and Social Media](https://jobright.ai/jobs/info/689be468faa4e875e826460e?utm_campaign=1053&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Aug 12 |
 | **[Diocese of Austin](http://www.austindiocese.org)** | **[Music Ministry Intern](https://jobright.ai/jobs/info/689be436faa4e875e826458d?utm_campaign=1053&utm_source=git)** | St. Austin Catholic Parish | On Site | Aug 12 |
 | **[artnet](http://www.artnet.com)** | **[Production Internship, Artnet Price Database](https://jobright.ai/jobs/info/689be34679a9f966625347a7?utm_campaign=1053&utm_source=git)** | Fully Remote | Hybrid | Aug 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant - Advancement and Alumni Engagement (Student Employee)](https://jobright.ai/jobs/info/689a458cfaa4e875e82575a0?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 11 |
 | ↳ | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/689a448483d13d1f5b697812?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Aug 11 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Digital Collection Services Intern](https://jobright.ai/jobs/info/689a42c75574fd6bc0c8118c?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 11 |
-| **[Times News Media Group](https://www.tnonline.com)** | **[Creative News Fall Internship](https://jobright.ai/jobs/info/689a4122faa4e875e82570a9?utm_campaign=1053&utm_source=git)** | Lehighton, Pennsylvania, United States | On Site | Aug 11 |
-| **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Writer/Editor – Outreach Hub](https://jobright.ai/jobs/info/689a3f3c83d13d1f5b697220?utm_campaign=1053&utm_source=git)** | Tempe, AZ | Hybrid | Aug 11 |
-| **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tailor](https://jobright.ai/jobs/info/689a376f83d13d1f5b696e9d?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Aug 11 |
-| **[Flik Hospitality Group ](https://www.flik-usa.com/)** | **[Culinary Intern, FLIK / New York Jets / Florham Park, NJ](https://jobright.ai/jobs/info/689a2ec7faa4e875e825681b?utm_campaign=1053&utm_source=git)** | Florham Park, NJ | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
