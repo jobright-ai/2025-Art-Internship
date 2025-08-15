@@ -57,14 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Intern - Grizzlies On Air](https://jobright.ai/jobs/info/689efc4e79a9f9666255436c?utm_campaign=1053&utm_source=git)** | Lawrenceville, GA | On Site | Aug 15 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Fall 2025](https://jobright.ai/jobs/info/689edc7f83d13d1f5b6c2d54?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 15 |
 | **[The Archetype Strategy](archetypestrategy.com)** | **[Content Creator and videographer](https://jobright.ai/jobs/info/689ec4f283d13d1f5b6c12db?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 14 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Blog Writer Fall Intern (Carrie Bradshaw Vibes) Berkeley Startup (Unpaid)](https://jobright.ai/jobs/info/689eb01683d13d1f5b6bee8a?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Remote | Aug 14 |
-| **[Silkx Co](silkx.co)** | **[Video Editor/ Content Creator](https://jobright.ai/jobs/info/689e9cd479a9f9666254e423?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 14 |
 | **[Flathead Valley Community College](http://www.fvcc.edu)** | **[Poster Installation Specialist (Fall 2025)](https://jobright.ai/jobs/info/689e99b2faa4e875e827e045?utm_campaign=1053&utm_source=git)** | Kalispell, MT | On Site | Aug 14 |
 | **[Lee-Fendall House Museum & Garden](http://www.leefendallhouse.org)** | **[Volunteer: Collections Management Intern](https://jobright.ai/jobs/info/689e997dfaa4e875e827df7b?utm_campaign=1053&utm_source=git)** | Alexandria, VA | On Site | Aug 14 |
 | **[Podcast Movement](http://www.podcastmovement.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/689ea6c883d13d1f5b6be9c1?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
-| **[CU Online](https://online.cu.edu/)** | **[Temporary Reporter/Writer Intern](https://jobright.ai/jobs/info/689ebb9279a9f9666255036c?utm_campaign=1053&utm_source=git)** | Boulder, CO | On Site | Aug 14 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/689e5adf79a9f9666254b698?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Material Culture Intern](https://jobright.ai/jobs/info/689e59c083d13d1f5b6bb2ac?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 14 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e554c79a9f9666254b473?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/689370ad4c7e851b90add94c?utm_campaign=1053&utm_source=git)** | New York | On Site | Aug 12 |
 | **[Crescent Hotels & Resorts](http://www.chrco.com)** | **[Intern - Tailor](https://jobright.ai/jobs/info/689afea483d13d1f5b69e91c?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Aug 12 |
 | **[Spokane Hoopfest Association](http://www.spokanehoopfest.net)** | **[Fall Internship with Hooptown Youth League](https://jobright.ai/jobs/info/689ebdc683d13d1f5b6c0b44?utm_campaign=1053&utm_source=git)** | Spokane-CdA Area | On Site | Aug 11 |
+| **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Student Service - Golf Course Maint](https://jobright.ai/jobs/info/689ada8683d13d1f5b69d24a?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
