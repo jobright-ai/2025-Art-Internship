@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Returning Multimedia Summer Intern 2026 (Charlotte, NC)](https://jobright.ai/jobs/info/689f8bb0b3e889632cf08997?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Aug 15 |
+| **[L'AGENCE](https://lagence.com)** | **[L'AGENCE SS26 / NYFW Internship (One day)](https://jobright.ai/jobs/info/689f7f0dfaa4e875e8288ae2?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 15 |
+| **[Harvey Media](https://www.linkedin.com/company/76379408)** | **[Content Creator](https://jobright.ai/jobs/info/689f75f0faa4e875e8288407?utm_campaign=1053&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Aug 15 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern for Chicago Collective](https://jobright.ai/jobs/info/689f6b8379a9f96662556c41?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Aug 15 |
 | **[One Knoxville SC](https://oneknoxsc.com/)** | **[Matchday & Fan Experience Intern](https://jobright.ai/jobs/info/689f6b2c79a9f96662556b99?utm_campaign=1053&utm_source=git)** | Knoxville, TN | Hybrid | Aug 15 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689f6593faa4e875e82867e6?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Aug 15 |
@@ -65,10 +68,8 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - External Relations (Summer 2025)](https://jobright.ai/jobs/info/689f1fc6faa4e875e82846bb?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 15 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Intern - Grizzlies On Air](https://jobright.ai/jobs/info/689efc4e79a9f9666255436c?utm_campaign=1053&utm_source=git)** | Lawrenceville, GA | On Site | Aug 15 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Fall 2025](https://jobright.ai/jobs/info/689edc7f83d13d1f5b6c2d54?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 15 |
 | **[The Archetype Strategy](archetypestrategy.com)** | **[Content Creator and videographer](https://jobright.ai/jobs/info/689ec4f283d13d1f5b6c12db?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 14 |
 | **[COLLECTIVE](http://www.collectiveagencyla.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/689ee7c3faa4e875e82837d4?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Aug 14 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Blog Writer Fall Intern (Carrie Bradshaw Vibes) Berkeley Startup (Unpaid)](https://jobright.ai/jobs/info/689eb01683d13d1f5b6bee8a?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Remote | Aug 14 |
 | **[Flathead Valley Community College](http://www.fvcc.edu)** | **[Poster Installation Specialist (Fall 2025)](https://jobright.ai/jobs/info/689e99b2faa4e875e827e045?utm_campaign=1053&utm_source=git)** | Kalispell, MT | On Site | Aug 14 |
 | **[Lee-Fendall House Museum & Garden](http://www.leefendallhouse.org)** | **[Volunteer: Collections Management Intern](https://jobright.ai/jobs/info/689e997dfaa4e875e827df7b?utm_campaign=1053&utm_source=git)** | Alexandria, VA | On Site | Aug 14 |
 | **[SKIP IT.](https://skipit.tech/)** | **[MA-Based Content Creation Intern](https://jobright.ai/jobs/info/689f2f6d83d13d1f5b6c4919?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Athletics - Trending Video Content Creator (FWS/NFWS)](https://jobright.ai/jobs/info/689b8e07faa4e875e8260d49?utm_campaign=1053&utm_source=git)** | AZ Phoenix | On Site | Aug 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/689b8df679a9f9666253117d?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 12 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689b8d0079a9f96662531076?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 12 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING 03/07/2025](https://jobright.ai/jobs/info/689b8ce279a9f96662531059?utm_campaign=1053&utm_source=git)** | Springfield, IL | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
