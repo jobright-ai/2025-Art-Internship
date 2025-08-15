@@ -57,17 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Archetype Strategy](archetypestrategy.com)** | **[Content Creator and videographer](https://jobright.ai/jobs/info/689ec4f283d13d1f5b6c12db?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 14 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Blog Writer Fall Intern (Carrie Bradshaw Vibes) Berkeley Startup (Unpaid)](https://jobright.ai/jobs/info/689eb01683d13d1f5b6bee8a?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Remote | Aug 14 |
 | **[Silkx Co](silkx.co)** | **[Video Editor/ Content Creator](https://jobright.ai/jobs/info/689e9cd479a9f9666254e423?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 14 |
 | **[Flathead Valley Community College](http://www.fvcc.edu)** | **[Poster Installation Specialist (Fall 2025)](https://jobright.ai/jobs/info/689e99b2faa4e875e827e045?utm_campaign=1053&utm_source=git)** | Kalispell, MT | On Site | Aug 14 |
 | **[Lee-Fendall House Museum & Garden](http://www.leefendallhouse.org)** | **[Volunteer: Collections Management Intern](https://jobright.ai/jobs/info/689e997dfaa4e875e827df7b?utm_campaign=1053&utm_source=git)** | Alexandria, VA | On Site | Aug 14 |
 | **[Podcast Movement](http://www.podcastmovement.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/689ea6c883d13d1f5b6be9c1?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
+| **[CU Online](https://online.cu.edu/)** | **[Temporary Reporter/Writer Intern](https://jobright.ai/jobs/info/689ebb9279a9f9666255036c?utm_campaign=1053&utm_source=git)** | Boulder, CO | On Site | Aug 14 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/689e5adf79a9f9666254b698?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Material Culture Intern](https://jobright.ai/jobs/info/689e59c083d13d1f5b6bb2ac?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 14 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e554c79a9f9666254b473?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e548483d13d1f5b6bae4b?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
 | **[Hustle Magazine](www.hustlemagazine.co)** | **[Editorial Intern](https://jobright.ai/jobs/info/689e821779a9f9666254d357?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 14 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/689e516b79a9f9666254ada6?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Aug 14 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Fall Internship](https://jobright.ai/jobs/info/689e4a9a79a9f96662549f48?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Aug 14 |
 | **[Page Six](https://pagesix.com/)** | **[Intern, Page Six Video](https://jobright.ai/jobs/info/689e4420faa4e875e827931c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
+| **[ASPIRE Research Center](https://aspire.usu.edu/)** | **[Science Communications & Technical News Writer](https://jobright.ai/jobs/info/689eca4e83d13d1f5b6c13b7?utm_campaign=1053&utm_source=git)** | Logan, UT | On Site | Aug 14 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Sports](https://jobright.ai/jobs/info/689e3e92faa4e875e8278d2e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 14 |
 | ↳ | **[Intern, Youtube](https://jobright.ai/jobs/info/689e3c4f79a9f9666254887c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Video](https://jobright.ai/jobs/info/689e3ab479a9f966625485a5?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 14 |
@@ -77,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Temporary Reporter/Writer Intern](https://jobright.ai/jobs/info/689e13c879a9f96662546c79?utm_campaign=1053&utm_source=git)** | Boulder, CO | On Site | Aug 14 |
 | **[MarkMedia LLC](https://www.marktny.com/)** | **[Video Editor Intern – New York City](https://jobright.ai/jobs/info/689de90879a9f9666254578e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 14 |
 | **[Red Velvet Studios](redvelvetstudio.com)** | **[Video Podcast Editor Internship](https://jobright.ai/jobs/info/689d5aff83d13d1f5b6af0d5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c561eb60544c52d762dcdc?utm_campaign=1053&utm_source=git)** | Pasadena, CA | On Site | Aug 13 |
 | **[Delirium Entertainment](https://www.delirium-ent.com/)** | **[Internship – Support Women DJs](https://jobright.ai/jobs/info/689d554779a9f9666253f1c6?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Remote | Aug 13 |
 | **[Vinfen](http://www.vinfen.org)** | **[Unpaid Intern - DS](https://jobright.ai/jobs/info/689d5305faa4e875e826ec22?utm_campaign=1053&utm_source=git)** | Brookline, MA | On Site | Aug 13 |
 | **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Emerging Arts Leader Internship: Conservation](https://jobright.ai/jobs/info/689d42acfaa4e875e826e652?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/689b6f3483d13d1f5b6a04af?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | On Site | Aug 12 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch RootsTech Event Interns](https://jobright.ai/jobs/info/689b6d1d79a9f96662530675?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 12 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/689b6ab279a9f966625304f0?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 12 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f10a4764c3d7411c4892f?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Aug 12 |
-| **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/689370ad4c7e851b90add94c?utm_campaign=1053&utm_source=git)** | New York | On Site | Aug 12 |
-| **[Crescent Hotels & Resorts](http://www.chrco.com)** | **[Intern - Tailor](https://jobright.ai/jobs/info/689afea483d13d1f5b69e91c?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Aug 12 |
-| **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Student Service - Golf Course Maint](https://jobright.ai/jobs/info/689ada8683d13d1f5b69d24a?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 11 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Intern- Fall, 2025](https://jobright.ai/jobs/info/689a94695574fd6bc0c83b03?utm_campaign=1053&utm_source=git)** | Metairie, LA | Hybrid | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
