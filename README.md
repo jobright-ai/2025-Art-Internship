@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Silkx Co](silkx.co)** | **[Video Editor/ Content Creator](https://jobright.ai/jobs/info/689e9cd479a9f9666254e423?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 14 |
+| **[Flathead Valley Community College](http://www.fvcc.edu)** | **[Poster Installation Specialist (Fall 2025)](https://jobright.ai/jobs/info/689e99b2faa4e875e827e045?utm_campaign=1053&utm_source=git)** | Kalispell, MT | On Site | Aug 14 |
+| **[Lee-Fendall House Museum & Garden](http://www.leefendallhouse.org)** | **[Volunteer: Collections Management Intern](https://jobright.ai/jobs/info/689e997dfaa4e875e827df7b?utm_campaign=1053&utm_source=git)** | Alexandria, VA | On Site | Aug 14 |
+| **[Podcast Movement](http://www.podcastmovement.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/689ea6c883d13d1f5b6be9c1?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/689e5adf79a9f9666254b698?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Material Culture Intern](https://jobright.ai/jobs/info/689e59c083d13d1f5b6bb2ac?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 14 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e548483d13d1f5b6bae4b?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e554c79a9f9666254b473?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
 | **[Hustle Magazine](www.hustlemagazine.co)** | **[Editorial Intern](https://jobright.ai/jobs/info/689e821779a9f9666254d357?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 14 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/689e516b79a9f9666254ada6?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Aug 14 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Fall Internship](https://jobright.ai/jobs/info/689e4a9a79a9f96662549f48?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Aug 14 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/689370ad4c7e851b90add94c?utm_campaign=1053&utm_source=git)** | New York | On Site | Aug 12 |
 | **[Crescent Hotels & Resorts](http://www.chrco.com)** | **[Intern - Tailor](https://jobright.ai/jobs/info/689afea483d13d1f5b69e91c?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Aug 12 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Student Service - Golf Course Maint](https://jobright.ai/jobs/info/689ada8683d13d1f5b69d24a?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 11 |
-| **[New College of Florida](http://www.ncf.edu/)** | **[Student Assistant, Livestream/Stats/Gameday Broadcast](https://jobright.ai/jobs/info/689abef6faa4e875e825bd8e?utm_campaign=1053&utm_source=git)** | Bay Shore Acres, FL | On Site | Aug 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Intern- Fall, 2025](https://jobright.ai/jobs/info/689a94695574fd6bc0c83b03?utm_campaign=1053&utm_source=git)** | Metairie, LA | Hybrid | Aug 11 |
-| **[VOX ATL](https://voxatl.org)** | **[VOX Studios Near-Peer Production Intern - Fall Semester 2025](https://jobright.ai/jobs/info/689a92edfaa4e875e8259d0a?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
-| **[Lipscomb University](http://www.lipscomb.edu/)** | **[Podcast and Video Production Student Worker- Career Development](https://jobright.ai/jobs/info/689bb25483d13d1f5b6a2870?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Aug 11 |
-| **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/689a90a85574fd6bc0c8399f?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
