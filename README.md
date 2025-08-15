@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/689e5adf79a9f9666254b698?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Material Culture Intern](https://jobright.ai/jobs/info/689e59c083d13d1f5b6bb2ac?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 14 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e548483d13d1f5b6bae4b?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/689e516b79a9f9666254ada6?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Aug 14 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Fall Internship](https://jobright.ai/jobs/info/689e4a9a79a9f96662549f48?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Aug 14 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Club Sports Event Operations International Student Worker](https://jobright.ai/jobs/info/689e1b7efaa4e875e8276be5?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 14 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Temporary Reporter/Writer Intern](https://jobright.ai/jobs/info/689e13c879a9f96662546c79?utm_campaign=1053&utm_source=git)** | Boulder, CO | On Site | Aug 14 |
 | **[MarkMedia LLC](https://www.marktny.com/)** | **[Video Editor Intern – New York City](https://jobright.ai/jobs/info/689de90879a9f9666254578e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 14 |
-| **[BenchView Sports](https://www.linkedin.com/company/107661896)** | **[Sports Curator/Content Creator Intern](https://jobright.ai/jobs/info/689d776a79a9f96662540a31?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
 | **[Red Velvet Studios](redvelvetstudio.com)** | **[Video Podcast Editor Internship](https://jobright.ai/jobs/info/689d5aff83d13d1f5b6af0d5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
 | **[Delirium Entertainment](https://www.delirium-ent.com/)** | **[Internship – Support Women DJs](https://jobright.ai/jobs/info/689d554779a9f9666253f1c6?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Remote | Aug 13 |
 | **[Vinfen](http://www.vinfen.org)** | **[Unpaid Intern - DS](https://jobright.ai/jobs/info/689d5305faa4e875e826ec22?utm_campaign=1053&utm_source=git)** | Brookline, MA | On Site | Aug 13 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Irresistible Foods Group](https://irresistiblefoods.com)** | **[Away From Home Culinary Intern](https://jobright.ai/jobs/info/689ce97ffaa4e875e826bdbc?utm_campaign=1053&utm_source=git)** | Remote TX | Remote | Aug 13 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Fall/Winter 25-26)5)](https://jobright.ai/jobs/info/689ce977faa4e875e826bd9d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Aug 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Broadcast Internship (NYSBA)](https://jobright.ai/jobs/info/689ce2bc83d13d1f5b6aba22?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Aug 13 |
-| **[WhyHunger](https://whyhunger.org)** | **[Artists Against Hunger & Poverty Intern](https://jobright.ai/jobs/info/689ce2ac79a9f9666253bda5?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Aug 13 |
 | **[Montage International](https://www.montageinternational.com)** | **[Culinary Internship & Externship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/689cdf8083d13d1f5b6ab822?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Aug 13 |
 | **[GreenLatinos](https://www.greenlatinos.org)** | **[Regional Climate Justice Intern](https://jobright.ai/jobs/info/689cdeb479a9f9666253b7c6?utm_campaign=1053&utm_source=git)** | Arlington, Texas, United States | On Site | Aug 13 |
 | **[BAI Capital](https://baicapital.com)** | **[Job Description / Content Creator Videographer Intern](https://jobright.ai/jobs/info/689cd97d79a9f9666253b538?utm_campaign=1053&utm_source=git)** | Aventura, FL | On Site | Aug 13 |
