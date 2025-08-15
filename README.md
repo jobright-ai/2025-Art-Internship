@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern for Chicago Collective](https://jobright.ai/jobs/info/689f6b8379a9f96662556c41?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Aug 15 |
+| **[One Knoxville SC](https://oneknoxsc.com/)** | **[Matchday & Fan Experience Intern](https://jobright.ai/jobs/info/689f6b2c79a9f96662556b99?utm_campaign=1053&utm_source=git)** | Knoxville, TN | Hybrid | Aug 15 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689f6593faa4e875e82867e6?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Aug 15 |
 | **[Vinfen](http://www.vinfen.org)** | **[Unpaid Intern](https://jobright.ai/jobs/info/689f489d83d13d1f5b6c556f?utm_campaign=1053&utm_source=git)** | Lowell, MA | On Site | Aug 15 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Video Fellowship](https://jobright.ai/jobs/info/6866928fb4671a57667e7c2a?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 15 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - External Relations (Summer 2025)](https://jobright.ai/jobs/info/689f1fc6faa4e875e82846bb?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 15 |
@@ -72,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Podcast Movement](http://www.podcastmovement.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/689ea6c883d13d1f5b6be9c1?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/689e5adf79a9f9666254b698?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Material Culture Intern](https://jobright.ai/jobs/info/689e59c083d13d1f5b6bb2ac?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 14 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e548483d13d1f5b6bae4b?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e554c79a9f9666254b473?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/689e516b79a9f9666254ada6?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Aug 14 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Fall Internship](https://jobright.ai/jobs/info/689e4a9a79a9f96662549f48?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Aug 14 |
 | **[Page Six](https://pagesix.com/)** | **[Intern, Page Six Video](https://jobright.ai/jobs/info/689e4420faa4e875e827931c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Club Sports Event Operations International Student Worker](https://jobright.ai/jobs/info/689e1b7efaa4e875e8276be5?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 14 |
 | ↳ | **[Summer Videographer for Student Life](https://jobright.ai/jobs/info/67f464d1a9408c39670239e7?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 14 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684d0a44ef735fe085bd08da?utm_campaign=1053&utm_source=git)** | Portland, ME | On Site | Aug 14 |
-| **[MarkMedia LLC](https://www.marktny.com/)** | **[Video Editor Intern – New York City](https://jobright.ai/jobs/info/689de90879a9f9666254578e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 14 |
 | **[Mills Memories](www.millsmemories.com)** | **[Wedding Planner Intern](https://jobright.ai/jobs/info/689f2f5e83d13d1f5b6c48eb?utm_campaign=1053&utm_source=git)** | Poughkeepsie, NY | Hybrid | Aug 14 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Multimedia Producer](https://jobright.ai/jobs/info/689f03b983d13d1f5b6c4120?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 14 |
 | **[Red Velvet Studios](redvelvetstudio.com)** | **[Video Podcast Editor Internship](https://jobright.ai/jobs/info/689d5aff83d13d1f5b6af0d5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/689b8df679a9f9666253117d?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 12 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689b8d0079a9f96662531076?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 12 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING 03/07/2025](https://jobright.ai/jobs/info/689b8ce279a9f96662531059?utm_campaign=1053&utm_source=git)** | Springfield, IL | On Site | Aug 12 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/689b882783d13d1f5b6a0ae7?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 12 |
-| **[Yamaha Corporation](https://www.yamaha.com)** | **[Drums and Percussion Intern](https://jobright.ai/jobs/info/689b8431faa4e875e8260a59?utm_campaign=1053&utm_source=git)** | Buena Park, CA | Hybrid | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
