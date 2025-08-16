@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2026 Traveling Operations Intern at American Junior Golf Association](https://jobright.ai/jobs/info/689fc7cd83d13d1f5b6cafd3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 15 |
+| **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante de Diseño Gráfico](https://jobright.ai/jobs/info/689fbc1efaa4e875e828ac9d?utm_campaign=1053&utm_source=git)** | Santa Cruz, CA | On Site | Aug 15 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Videographer](https://jobright.ai/jobs/info/689fad26b3e889632cf0963d?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Aug 15 |
 | **[CLD PR](https://cldstylehouse.com)** | **[NYFW 2025 Kickoff Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/689fa3f883d13d1f5b6ca395?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[Christmas Air Conditioning & Heating](www.christmasair.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/689f969483d13d1f5b6c9d42?utm_campaign=1053&utm_source=git)** | Flower Mound, TX | On Site | Aug 15 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Returning Multimedia Summer Intern 2026 (Charlotte, NC)](https://jobright.ai/jobs/info/689f8bb0b3e889632cf08997?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Aug 15 |
-| **[L'AGENCE](https://lagence.com)** | **[L'AGENCE SS26 / NYFW Internship (One day)](https://jobright.ai/jobs/info/689f7f0dfaa4e875e8288ae2?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 15 |
 | **[Harvey Media](https://www.linkedin.com/company/76379408)** | **[Content Creator](https://jobright.ai/jobs/info/689f75f0faa4e875e8288407?utm_campaign=1053&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Aug 15 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern for Chicago Collective](https://jobright.ai/jobs/info/689f6b8379a9f96662556c41?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Aug 15 |
 | **[One Knoxville SC](https://oneknoxsc.com/)** | **[Matchday & Fan Experience Intern](https://jobright.ai/jobs/info/689f6b2c79a9f96662556b99?utm_campaign=1053&utm_source=git)** | Knoxville, TN | Hybrid | Aug 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Jacksonville State Athletics) - Fall 2025](https://jobright.ai/jobs/info/689b8ee0faa4e875e8260f3d?utm_campaign=1053&utm_source=git)** | Jacksonville, AL | On Site | Aug 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/689b8ebc83d13d1f5b6a0f7b?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Aug 12 |
 | ↳ | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/689b8e3ffaa4e875e8260dc3?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 12 |
-| **[Grand Canyon University](http://www.gcu.edu/)** | **[Athletics - Trending Video Content Creator (FWS/NFWS)](https://jobright.ai/jobs/info/689b8e07faa4e875e8260d49?utm_campaign=1053&utm_source=git)** | AZ Phoenix | On Site | Aug 12 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/689b8df679a9f9666253117d?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
