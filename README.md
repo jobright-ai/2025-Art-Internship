@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Fall 2025](https://jobright.ai/jobs/info/68a0a91dfaa4e875e82912ed?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 16 |
 | **[Kilroy's Sports Bar](https://www.kilroysindy.com/)** | **[Atrium Concert Internship](https://jobright.ai/jobs/info/689fd6c983d13d1f5b6cb710?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 15 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2026 Traveling Operations Intern at American Junior Golf Association](https://jobright.ai/jobs/info/689fc7cd83d13d1f5b6cafd3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 15 |
 | **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante de Diseño Gráfico](https://jobright.ai/jobs/info/689fbc1efaa4e875e828ac9d?utm_campaign=1053&utm_source=git)** | Santa Cruz, CA | On Site | Aug 15 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Videographer](https://jobright.ai/jobs/info/689fad26b3e889632cf0963d?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Aug 15 |
 | **[CLD PR](https://cldstylehouse.com)** | **[NYFW 2025 Kickoff Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/689fa3f883d13d1f5b6ca395?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 15 |
@@ -70,7 +70,8 @@ For a complete list, click the following sortable link below:
 | **[One Knoxville SC](https://oneknoxsc.com/)** | **[Matchday & Fan Experience Intern](https://jobright.ai/jobs/info/689f6b2c79a9f96662556b99?utm_campaign=1053&utm_source=git)** | Knoxville, TN | Hybrid | Aug 15 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689f6593faa4e875e82867e6?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Aug 15 |
 | **[Vinfen](http://www.vinfen.org)** | **[Unpaid Intern](https://jobright.ai/jobs/info/689f489d83d13d1f5b6c556f?utm_campaign=1053&utm_source=git)** | Lowell, MA | On Site | Aug 15 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 15 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d3?utm_campaign=1053&utm_source=git)** | Stanford, CA | On Site | Aug 15 |
+| ↳ | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Video Fellowship](https://jobright.ai/jobs/info/6866928fb4671a57667e7c2a?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Aug 15 |
 | **[MJHS](http://www.mjhs.org)** | **[Creative Arts Therapist Intern](https://jobright.ai/jobs/info/686dd099dadb90395aab9e5c?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Aug 15 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - External Relations (Summer 2025)](https://jobright.ai/jobs/info/689f1fc6faa4e875e82846bb?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/689c22a879a9f9666253683e?utm_campaign=1053&utm_source=git)** | Bordentown, NJ | On Site | Aug 12 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (North Carolina Central Athletics) - Fall 2025](https://jobright.ai/jobs/info/689c219983d13d1f5b6a63b2?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Aug 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/689c219983d13d1f5b6a63af?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Aug 12 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689b8fe7faa4e875e826118e?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
