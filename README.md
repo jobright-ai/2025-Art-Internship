@@ -59,7 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68a151cafaa4e875e82930b9?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Aug 16 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Youtube](https://jobright.ai/jobs/info/68a150dd83d13d1f5b6d3054?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 16 |
-| **[Oakridge](oakridge.ltd)** | **[Film Development Intern](https://jobright.ai/jobs/info/68a105cecc9ee94dc9120dd4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Aug 16 |
+| **[Oakridge](https://oakridge.ltd)** | **[Film Development Intern](https://jobright.ai/jobs/info/68a105cecc9ee94dc9120dd4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Aug 16 |
 | **[CAPS Fieldhouse](https://www.capsfieldhouse.com/)** | **[Sports Intern](https://jobright.ai/jobs/info/68a0b9a2faa4e875e8291563?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 16 |
 | **[Texoma FC](texomafc.com)** | **[Storyteller](https://jobright.ai/jobs/info/68a16476faa4e875e829381d?utm_campaign=1053&utm_source=git)** | Frisco, TX | Hybrid | Aug 15 |
 | **[Kilroy's Sports Bar](https://www.kilroysindy.com/)** | **[Atrium Concert Internship](https://jobright.ai/jobs/info/689fd6c983d13d1f5b6cb710?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 15 |
@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c561eb60544c52d762dcdc?utm_campaign=1053&utm_source=git)** | Pasadena, CA | On Site | Aug 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/6847361f79d64e83c0ac5e62?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Aug 13 |
 | **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Emerging Arts Leader Internship: Conservation](https://jobright.ai/jobs/info/689d42acfaa4e875e826e652?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 13 |
-| **[Toma](https://www.toma.com)** | **[Founding Storyteller Intern](https://jobright.ai/jobs/info/689d3c8683d13d1f5b6ae4d4?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 13 |
 | **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[Body Shop Intern](https://jobright.ai/jobs/info/689d28e083d13d1f5b6ad974?utm_campaign=1053&utm_source=git)** | Omaha, NE | On Site | Aug 13 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[ESPN Production Crew](https://jobright.ai/jobs/info/689d82cdfaa4e875e8270ea8?utm_campaign=1053&utm_source=git)** | Newport, KY | On Site | Aug 13 |
 | **[King's Hawaiian](http://www.kingshawaiian.com/)** | **[Away From Home Culinary Intern](https://jobright.ai/jobs/info/689d206a79a9f9666253d8dc?utm_campaign=1053&utm_source=git)** | Texas, United States | On Site | Aug 13 |
@@ -135,6 +134,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/689ca10e79a9f9666253967b?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
 | **[Frameshifts](https://frameshifts.org)** | **[Videographer and Editor Intern](https://jobright.ai/jobs/info/689daf4283d13d1f5b6b34ac?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Aug 13 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2025 FOX News Media Internship Program - Dallas, TX](https://jobright.ai/jobs/info/682bcc05107266e4fa0b92df?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Aug 13 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/672cd41c4d29fc2e9f25abec?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[East Tennessee State University](http://www.etsu.edu/)** | **[Cast Member, Mascot Program (Temporary)](https://jobright.ai/jobs/info/689c5a7879a9f966625388c8?utm_campaign=1053&utm_source=git)** | Johnson City, TN | On Site | Aug 13 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/689c15a1faa4e875e8265e51?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Aug 12 |
 | **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/689d5b56faa4e875e826f014?utm_campaign=1053&utm_source=git)** | Cashiers, NC | On Site | Aug 12 |
