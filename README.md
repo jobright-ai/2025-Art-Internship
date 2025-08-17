@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[News Writing / Reporting - Public Information Intern - News and Content - Chinese
+Job ID : 261075](https://jobright.ai/jobs/info/68a23d30faa4e875e8295ab0?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 17 |
 | **[Healthcare Insights](healthcarein.org)** | **[Biotech Student Journalist/Contributor](https://jobright.ai/jobs/info/68a21b0ffaa4e875e8295843?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 17 |
 | **[Licensed to Glow](https://www.licensedtoglow.com/)** | **[UGC Intern](https://jobright.ai/jobs/info/68a2189c83d13d1f5b6d577f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 17 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Set Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36bb?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 17 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Christmas Air Conditioning & Heating](www.christmasair.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/689f969483d13d1f5b6c9d42?utm_campaign=1053&utm_source=git)** | Flower Mound, TX | On Site | Aug 15 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Returning Multimedia Summer Intern 2026 (Charlotte, NC)](https://jobright.ai/jobs/info/689f8bb0b3e889632cf08997?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Aug 15 |
 | **[University Center for Academic Excellence at UNC Charlotte](https://ucae.uncc.edu/)** | **[Oral Historian](https://jobright.ai/jobs/info/689ffee4cc9ee94dc911b417?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 15 |
+| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 15 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern for Chicago Collective](https://jobright.ai/jobs/info/689f6b8379a9f96662556c41?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Aug 15 |
 | **[One Knoxville SC](https://oneknoxsc.com/)** | **[Matchday & Fan Experience Intern](https://jobright.ai/jobs/info/689f6b2c79a9f96662556b99?utm_campaign=1053&utm_source=git)** | Knoxville, TN | Hybrid | Aug 15 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689f6593faa4e875e82867e6?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Aug 15 |
@@ -94,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[SKIP IT.](https://skipit.tech/)** | **[MA-Based Content Creation Intern](https://jobright.ai/jobs/info/689f2f6d83d13d1f5b6c4919?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 14 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/689e5adf79a9f9666254b698?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Material Culture Intern](https://jobright.ai/jobs/info/689e59c083d13d1f5b6bb2ac?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 14 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e548483d13d1f5b6bae4b?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e554c79a9f9666254b473?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/689e516b79a9f9666254ada6?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Aug 14 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Fall Internship](https://jobright.ai/jobs/info/689e4a9a79a9f96662549f48?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Aug 14 |
 | **[Page Six](https://pagesix.com/)** | **[Intern, Page Six Video](https://jobright.ai/jobs/info/689e4420faa4e875e827931c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
@@ -155,6 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Deseret Digital Media](http://www.deseretdigital.com)** | **[News Intern, KSL.com (Hybrid, Fall 2025, Sep-Dec)](https://jobright.ai/jobs/info/689b9ca283d13d1f5b6a1b53?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689c219783d13d1f5b6a63ac?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689c22c7faa4e875e8266580?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 12 |
-| ↳ | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689c21af83d13d1f5b6a6401?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Aug 12 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689c21af83d13d1f5b6a6402?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
