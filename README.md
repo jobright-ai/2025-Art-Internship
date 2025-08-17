@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68a151cafaa4e875e82930b9?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Aug 16 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Youtube](https://jobright.ai/jobs/info/68a150dd83d13d1f5b6d3054?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 16 |
 | **[Oakridge](oakridge.ltd)** | **[Film Development Intern](https://jobright.ai/jobs/info/68a105cecc9ee94dc9120dd4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Aug 16 |
 | **[CAPS Fieldhouse](https://www.capsfieldhouse.com/)** | **[Sports Intern](https://jobright.ai/jobs/info/68a0b9a2faa4e875e8291563?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 16 |
+| **[Texoma FC](texomafc.com)** | **[Storyteller](https://jobright.ai/jobs/info/68a16476faa4e875e829381d?utm_campaign=1053&utm_source=git)** | Frisco, TX | Hybrid | Aug 15 |
 | **[Kilroy's Sports Bar](https://www.kilroysindy.com/)** | **[Atrium Concert Internship](https://jobright.ai/jobs/info/689fd6c983d13d1f5b6cb710?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 15 |
-| **[Kansas City Mavericks](http://www.kcmavericks.com)** | **[Internship - Broadcast](https://jobright.ai/jobs/info/68a0e185faa4e875e8291d48?utm_campaign=1053&utm_source=git)** | Independence, MO | On Site | Aug 15 |
-| ↳ | **[Internship - In-Game Operations](https://jobright.ai/jobs/info/68a0e18a83d13d1f5b6d1d63?utm_campaign=1053&utm_source=git)** | Independence, MO | On Site | Aug 15 |
+| **[Kansas City Mavericks](http://www.kcmavericks.com)** | **[Internship - In-Game Operations](https://jobright.ai/jobs/info/68a0e18a83d13d1f5b6d1d63?utm_campaign=1053&utm_source=git)** | Independence, MO | On Site | Aug 15 |
+| ↳ | **[Internship - Broadcast](https://jobright.ai/jobs/info/68a0e185faa4e875e8291d48?utm_campaign=1053&utm_source=git)** | Independence, MO | On Site | Aug 15 |
 | **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante de Diseño Gráfico](https://jobright.ai/jobs/info/689fbc1efaa4e875e828ac9d?utm_campaign=1053&utm_source=git)** | Santa Cruz, CA | On Site | Aug 15 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Videographer](https://jobright.ai/jobs/info/689fad26b3e889632cf0963d?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Aug 15 |
 | **[CLD PR](https://cldstylehouse.com)** | **[NYFW 2025 Kickoff Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/689fa3f883d13d1f5b6ca395?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 15 |
+| **[AlgoSports23](www.AlgoSports23.com)** | **[Sports Journalist/Content Creator/ Podcast Editor Intern](https://jobright.ai/jobs/info/68a1639983d13d1f5b6d37ac?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Video Editing Intern (Paid)](https://jobright.ai/jobs/info/68a021c1cc9ee94dc911d37d?utm_campaign=1053&utm_source=git)** | Akron, OH | On Site | Aug 15 |
 | **[Christmas Air Conditioning & Heating](www.christmasair.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/689f969483d13d1f5b6c9d42?utm_campaign=1053&utm_source=git)** | Flower Mound, TX | On Site | Aug 15 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Returning Multimedia Summer Intern 2026 (Charlotte, NC)](https://jobright.ai/jobs/info/689f8bb0b3e889632cf08997?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Aug 15 |
@@ -110,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c561eb60544c52d762dcdc?utm_campaign=1053&utm_source=git)** | Pasadena, CA | On Site | Aug 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/6847361f79d64e83c0ac5e62?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Aug 13 |
 | **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Emerging Arts Leader Internship: Conservation](https://jobright.ai/jobs/info/689d42acfaa4e875e826e652?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 13 |
+| **[Toma](https://www.toma.com)** | **[Founding Storyteller Intern](https://jobright.ai/jobs/info/689d3c8683d13d1f5b6ae4d4?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 13 |
 | **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[Body Shop Intern](https://jobright.ai/jobs/info/689d28e083d13d1f5b6ad974?utm_campaign=1053&utm_source=git)** | Omaha, NE | On Site | Aug 13 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[ESPN Production Crew](https://jobright.ai/jobs/info/689d82cdfaa4e875e8270ea8?utm_campaign=1053&utm_source=git)** | Newport, KY | On Site | Aug 13 |
 | **[King's Hawaiian](http://www.kingshawaiian.com/)** | **[Away From Home Culinary Intern](https://jobright.ai/jobs/info/689d206a79a9f9666253d8dc?utm_campaign=1053&utm_source=git)** | Texas, United States | On Site | Aug 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689c219783d13d1f5b6a63ac?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689c22c7faa4e875e8266580?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 12 |
 | ↳ | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689c21af83d13d1f5b6a6401?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Aug 12 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689c21af83d13d1f5b6a6402?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 12 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/689c228f79a9f966625367db?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 12 |
-| ↳ | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/689c22a879a9f9666253683e?utm_campaign=1053&utm_source=git)** | Bordentown, NJ | On Site | Aug 12 |
-| **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (North Carolina Central Athletics) - Fall 2025](https://jobright.ai/jobs/info/689c219983d13d1f5b6a63b2?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
