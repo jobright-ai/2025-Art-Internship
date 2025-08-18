@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68a38d8f1ab5f8579e8a6b41?utm_campaign=1053&utm_source=git)** | Washington, DC 20004 | Hybrid | Aug 18 |
+| ↳ | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68a387c137d3cc6b0d577f3c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Aug 18 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/68a382b0403ad4363b1c2008?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Aug 18 |
 | **[Hustle Magazine](www.hustlemagazine.co)** | **[Journalist Intern](https://jobright.ai/jobs/info/68a38123403ad4363b1c1d34?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 18 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Wes Brown Intern](https://jobright.ai/jobs/info/68a37fe537d3cc6b0d5778ea?utm_campaign=1053&utm_source=git)** | Downtown Denver | On Site | Aug 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68a37e7037d3cc6b0d577877?utm_campaign=1053&utm_source=git)** | Johnson City, TN | On Site | Aug 18 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Creative Internship (Fall 2025)](https://jobright.ai/jobs/info/68a3799037d3cc6b0d577365?utm_campaign=1053&utm_source=git)** | NYC Office | On Site | Aug 18 |
 | **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[KPR Development Intern](https://jobright.ai/jobs/info/68a3724a1ab5f8579e8a58df?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Aug 18 |
@@ -70,14 +71,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Newsroom Internship Program: Summer 2026](https://jobright.ai/jobs/info/68a36462403ad4363b1c0965?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Aug 18 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WAFB](https://jobright.ai/jobs/info/68a35dfc403ad4363b1c0730?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | On Site | Aug 18 |
 | **[AAMBC Inc. ](http://www.aambc.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/68a35c7c1ab5f8579e8a4eee?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | Aug 18 |
+| **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Gen Z Fashion Board Internship Opportunity](https://jobright.ai/jobs/info/687e62dcdb19f31cf0d69e3f?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Aug 18 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/68a347c3403ad4363b1bfc7d?utm_campaign=1053&utm_source=git)** | Somerville-MA | Remote | Aug 18 |
 | **[Schoolconomy Inc.](https://schoolconomy.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68a28c1283d13d1f5b6d62f0?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | Aug 17 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - External Relations (Summer 2025)](https://jobright.ai/jobs/info/68a2650dfaa4e875e8295f08?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 17 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68a25a58faa4e875e8295cc0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 17 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[News Writing / Reporting - Public Information Intern - News and Content - Kiswahili
 Job ID : 260251](https://jobright.ai/jobs/info/68a28f4783d13d1f5b6d6380?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 17 |
-| ↳ | **[News Writing / Reporting - Public Information Intern - News and Content - Spanish
-Job ID : 260319](https://jobright.ai/jobs/info/68a28f8683d13d1f5b6d647f?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 17 |
+| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Screenwriter](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36c4?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 17 |
 | **[Healthcare Insights](healthcarein.org)** | **[Biotech Student Journalist/Contributor](https://jobright.ai/jobs/info/68a21b0ffaa4e875e8295843?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 17 |
 | **[Licensed to Glow](https://www.licensedtoglow.com/)** | **[UGC Intern](https://jobright.ai/jobs/info/68a2189c83d13d1f5b6d577f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 17 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/6812661b270f9f79c74803a2?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Aug 17 |
@@ -119,7 +120,7 @@ Job ID : 260319](https://jobright.ai/jobs/info/68a28f8683d13d1f5b6d647f?utm_camp
 | **[SKIP IT.](https://skipit.tech/)** | **[MA-Based Content Creation Intern](https://jobright.ai/jobs/info/689f2f6d83d13d1f5b6c4919?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 14 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/689e5adf79a9f9666254b698?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Material Culture Intern](https://jobright.ai/jobs/info/689e59c083d13d1f5b6bb2ac?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 14 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e554c79a9f9666254b473?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e548483d13d1f5b6bae4b?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/689e516b79a9f9666254ada6?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Aug 14 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Fall Internship](https://jobright.ai/jobs/info/689e4a9a79a9f96662549f48?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Aug 14 |
 | **[Page Six](https://pagesix.com/)** | **[Intern, Page Six Video](https://jobright.ai/jobs/info/689e4420faa4e875e827931c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
@@ -157,6 +158,4 @@ Job ID : 260319](https://jobright.ai/jobs/info/68a28f8683d13d1f5b6d647f?utm_camp
 | **[Zagga Digital](https://www.zagga.digital/)** | **[Sports Sideline Videographer](https://jobright.ai/jobs/info/689ddbed83d13d1f5b6b4b40?utm_campaign=1053&utm_source=git)** | Towson, MD | On Site | Aug 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Broadcast Internship (NYSBA)](https://jobright.ai/jobs/info/689cae8efaa4e875e8269ba0?utm_campaign=1053&utm_source=git)** | VT, Colchester | On Site | Aug 13 |
 | **[Apartment Therapy Media](http://www.apartmenttherapy.com/)** | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/689ca13f79a9f966625396d0?utm_campaign=1053&utm_source=git)** | New York, NY OR Remote | Remote | Aug 13 |
-| ↳ | **[Dorm Therapy Editorial Intern](https://jobright.ai/jobs/info/689ca10e79a9f9666253967b?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 13 |
-| **[Frameshifts](https://frameshifts.org)** | **[Videographer and Editor Intern](https://jobright.ai/jobs/info/689daf4283d13d1f5b6b34ac?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
