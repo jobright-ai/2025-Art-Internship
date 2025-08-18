@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Internship Program: Summer 2026](https://jobright.ai/jobs/info/68a36462403ad4363b1c0965?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Aug 18 |
+| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WAFB](https://jobright.ai/jobs/info/68a35dfc403ad4363b1c0730?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | On Site | Aug 18 |
+| **[AAMBC Inc. ](http://www.aambc.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/68a35c7c1ab5f8579e8a4eee?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | Aug 18 |
+| **[The American Scholar](https://theamericanscholar.org/)** | **[Editorial Assistant (Internship)](https://jobright.ai/jobs/info/68a352ff1ab5f8579e8a4985?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 18 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/68a347c3403ad4363b1bfc7d?utm_campaign=1053&utm_source=git)** | Somerville-MA | Remote | Aug 18 |
 | **[Schoolconomy Inc.](https://schoolconomy.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68a28c1283d13d1f5b6d62f0?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | Aug 17 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - External Relations (Summer 2025)](https://jobright.ai/jobs/info/68a2650dfaa4e875e8295f08?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 17 |
@@ -76,8 +80,8 @@ Job ID : 260319](https://jobright.ai/jobs/info/68a28f8683d13d1f5b6d647f?utm_camp
 | **[LeafyLink](leafylink.squarespace.com)** | **[Video Capture Intern](https://jobright.ai/jobs/info/68a2bb30468ac21d6faba72f?utm_campaign=1053&utm_source=git)** | DFW Metroplex | On Site | Aug 16 |
 | **[CAPS Fieldhouse](https://www.capsfieldhouse.com/)** | **[Sports Intern](https://jobright.ai/jobs/info/68a0b9a2faa4e875e8291563?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 16 |
 | **[Kilroy's Sports Bar](https://www.kilroysindy.com/)** | **[Atrium Concert Internship](https://jobright.ai/jobs/info/689fd6c983d13d1f5b6cb710?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 15 |
-| **[Kansas City Mavericks](http://www.kcmavericks.com)** | **[Internship - In-Game Operations](https://jobright.ai/jobs/info/68a0e18a83d13d1f5b6d1d63?utm_campaign=1053&utm_source=git)** | Independence, MO | On Site | Aug 15 |
-| ↳ | **[Internship - Broadcast](https://jobright.ai/jobs/info/68a0e185faa4e875e8291d48?utm_campaign=1053&utm_source=git)** | Independence, MO | On Site | Aug 15 |
+| **[Kansas City Mavericks](http://www.kcmavericks.com)** | **[Internship - Broadcast](https://jobright.ai/jobs/info/68a0e185faa4e875e8291d48?utm_campaign=1053&utm_source=git)** | Independence, MO | On Site | Aug 15 |
+| ↳ | **[Internship - In-Game Operations](https://jobright.ai/jobs/info/68a0e18a83d13d1f5b6d1d63?utm_campaign=1053&utm_source=git)** | Independence, MO | On Site | Aug 15 |
 | **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante de Diseño Gráfico](https://jobright.ai/jobs/info/689fbc1efaa4e875e828ac9d?utm_campaign=1053&utm_source=git)** | Santa Cruz, CA | On Site | Aug 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ News Internship – Fall 2025](https://jobright.ai/jobs/info/68828b9db54cac0f1e730abf?utm_campaign=1053&utm_source=git)** | Altoona, PA | On Site | Aug 15 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Videographer](https://jobright.ai/jobs/info/689fad26b3e889632cf0963d?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Aug 15 |
@@ -107,7 +111,7 @@ Job ID : 260319](https://jobright.ai/jobs/info/68a28f8683d13d1f5b6d647f?utm_camp
 | **[SKIP IT.](https://skipit.tech/)** | **[MA-Based Content Creation Intern](https://jobright.ai/jobs/info/689f2f6d83d13d1f5b6c4919?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 14 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/689e5adf79a9f9666254b698?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Material Culture Intern](https://jobright.ai/jobs/info/689e59c083d13d1f5b6bb2ac?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 14 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e554c79a9f9666254b473?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e548483d13d1f5b6bae4b?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/689e516b79a9f9666254ada6?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Aug 14 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Fall Internship](https://jobright.ai/jobs/info/689e4a9a79a9f96662549f48?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Aug 14 |
 | **[Page Six](https://pagesix.com/)** | **[Intern, Page Six Video](https://jobright.ai/jobs/info/689e4420faa4e875e827931c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
@@ -118,6 +122,7 @@ Job ID : 260319](https://jobright.ai/jobs/info/68a28f8683d13d1f5b6d647f?utm_camp
 | ↳ | **[Intern, Youtube](https://jobright.ai/jobs/info/689e3a1783d13d1f5b6b8156?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 14 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Southeastern Louisiana Athletics) - Fall 2025](https://jobright.ai/jobs/info/689e25bcfaa4e875e82771eb?utm_campaign=1053&utm_source=git)** | Hammond, LA | On Site | Aug 14 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 14 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[KATV 2025 Fall Intern](https://jobright.ai/jobs/info/6881f7ffee15177ae97194a8?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Aug 14 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Summer Videographer for Student Life](https://jobright.ai/jobs/info/67f464d1a9408c39670239e7?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 14 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684d0a44ef735fe085bd08da?utm_campaign=1053&utm_source=git)** | Portland, ME | On Site | Aug 14 |
 | **[Mills Memories](www.millsmemories.com)** | **[Wedding Planner Intern](https://jobright.ai/jobs/info/689f2f5e83d13d1f5b6c48eb?utm_campaign=1053&utm_source=git)** | Poughkeepsie, NY | Hybrid | Aug 14 |
@@ -154,9 +159,4 @@ Job ID : 260319](https://jobright.ai/jobs/info/68a28f8683d13d1f5b6d647f?utm_camp
 | **[Data Made Fun for Kids](https://devshreegolecha.com/)** | **[Kids STEM & AI Content Creator – Remote (Volunteer or Paid Internship)](https://jobright.ai/jobs/info/689d74c6faa4e875e82704eb?utm_campaign=1053&utm_source=git)** | Katy, TX | Remote | Aug 12 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Interns – Digital Productions and Social Media](https://jobright.ai/jobs/info/689be468faa4e875e826460e?utm_campaign=1053&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Aug 12 |
 | **[artnet](http://www.artnet.com)** | **[Production Internship, Artnet Price Database](https://jobright.ai/jobs/info/689be34679a9f966625347a7?utm_campaign=1053&utm_source=git)** | Fully Remote | Hybrid | Aug 12 |
-| **[BlueScope Buildings North America, Inc.](https://www.bluescopebuildings.com)** | **[Detailing Intern](https://jobright.ai/jobs/info/689be32bfaa4e875e8264382?utm_campaign=1053&utm_source=git)** | Evansville, WI | On Site | Aug 12 |
-| **[Maharishi International University](https://www.miu.edu/)** | **[FWS Department Assistant- Fall 2025](https://jobright.ai/jobs/info/689d2fb683d13d1f5b6adc37?utm_campaign=1053&utm_source=git)** | Fairfield, IA | On Site | Aug 12 |
-| **[Port of San Diego](https://www.portofsandiego.org/)** | **[Intern - Parks and Recreation](https://jobright.ai/jobs/info/689bcd41faa4e875e82639ae?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Aug 12 |
-| **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Interns – Digital Productions and Social Media](https://jobright.ai/jobs/info/689bfdea83d13d1f5b6a4e2f?utm_campaign=1053&utm_source=git)** | Arlington, TX | On Site | Aug 12 |
-| **[La Sierra University](http://www.lasierra.edu/)** | **[Podcast Producer & Host](https://jobright.ai/jobs/info/689bc90afaa4e875e826377d?utm_campaign=1053&utm_source=git)** | Riverside, CA | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
