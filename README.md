@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/68a347c3403ad4363b1bfc7d?utm_campaign=1053&utm_source=git)** | Somerville-MA | Remote | Aug 18 |
 | **[Schoolconomy Inc.](https://schoolconomy.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68a28c1283d13d1f5b6d62f0?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | Aug 17 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - External Relations (Summer 2025)](https://jobright.ai/jobs/info/68a2650dfaa4e875e8295f08?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 17 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68a25a58faa4e875e8295cc0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 17 |
@@ -64,11 +65,10 @@ For a complete list, click the following sortable link below:
 Job ID : 260251](https://jobright.ai/jobs/info/68a28f4783d13d1f5b6d6380?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 17 |
 | ↳ | **[News Writing / Reporting - Public Information Intern - News and Content - Spanish
 Job ID : 260319](https://jobright.ai/jobs/info/68a28f8683d13d1f5b6d647f?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 17 |
-| ↳ | **[News Writing / Reporting - Public Information Intern - News and Content - Chinese
-Job ID : 261075](https://jobright.ai/jobs/info/68a23d30faa4e875e8295ab0?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 17 |
 | **[Healthcare Insights](healthcarein.org)** | **[Biotech Student Journalist/Contributor](https://jobright.ai/jobs/info/68a21b0ffaa4e875e8295843?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 17 |
 | **[Licensed to Glow](https://www.licensedtoglow.com/)** | **[UGC Intern](https://jobright.ai/jobs/info/68a2189c83d13d1f5b6d577f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 17 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/6812661b270f9f79c74803a2?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Aug 17 |
+| **[Sports Sorority](www.rushsportsorority.com)** | **[Campus Correspondent](https://jobright.ai/jobs/info/68a3204a37d3cc6b0d5748d6?utm_campaign=1053&utm_source=git)** | Birmingham, MI | On Site | Aug 17 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Set Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36bb?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 17 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Novelist](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36db?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 16 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Youtube](https://jobright.ai/jobs/info/68a150dd83d13d1f5b6d3054?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 16 |
@@ -76,8 +76,8 @@ Job ID : 261075](https://jobright.ai/jobs/info/68a23d30faa4e875e8295ab0?utm_camp
 | **[LeafyLink](leafylink.squarespace.com)** | **[Video Capture Intern](https://jobright.ai/jobs/info/68a2bb30468ac21d6faba72f?utm_campaign=1053&utm_source=git)** | DFW Metroplex | On Site | Aug 16 |
 | **[CAPS Fieldhouse](https://www.capsfieldhouse.com/)** | **[Sports Intern](https://jobright.ai/jobs/info/68a0b9a2faa4e875e8291563?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 16 |
 | **[Kilroy's Sports Bar](https://www.kilroysindy.com/)** | **[Atrium Concert Internship](https://jobright.ai/jobs/info/689fd6c983d13d1f5b6cb710?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 15 |
-| **[Kansas City Mavericks](http://www.kcmavericks.com)** | **[Internship - Broadcast](https://jobright.ai/jobs/info/68a0e185faa4e875e8291d48?utm_campaign=1053&utm_source=git)** | Independence, MO | On Site | Aug 15 |
-| ↳ | **[Internship - In-Game Operations](https://jobright.ai/jobs/info/68a0e18a83d13d1f5b6d1d63?utm_campaign=1053&utm_source=git)** | Independence, MO | On Site | Aug 15 |
+| **[Kansas City Mavericks](http://www.kcmavericks.com)** | **[Internship - In-Game Operations](https://jobright.ai/jobs/info/68a0e18a83d13d1f5b6d1d63?utm_campaign=1053&utm_source=git)** | Independence, MO | On Site | Aug 15 |
+| ↳ | **[Internship - Broadcast](https://jobright.ai/jobs/info/68a0e185faa4e875e8291d48?utm_campaign=1053&utm_source=git)** | Independence, MO | On Site | Aug 15 |
 | **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante de Diseño Gráfico](https://jobright.ai/jobs/info/689fbc1efaa4e875e828ac9d?utm_campaign=1053&utm_source=git)** | Santa Cruz, CA | On Site | Aug 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ News Internship – Fall 2025](https://jobright.ai/jobs/info/68828b9db54cac0f1e730abf?utm_campaign=1053&utm_source=git)** | Altoona, PA | On Site | Aug 15 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Videographer](https://jobright.ai/jobs/info/689fad26b3e889632cf0963d?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Aug 15 |
@@ -107,7 +107,7 @@ Job ID : 261075](https://jobright.ai/jobs/info/68a23d30faa4e875e8295ab0?utm_camp
 | **[SKIP IT.](https://skipit.tech/)** | **[MA-Based Content Creation Intern](https://jobright.ai/jobs/info/689f2f6d83d13d1f5b6c4919?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 14 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/689e5adf79a9f9666254b698?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Material Culture Intern](https://jobright.ai/jobs/info/689e59c083d13d1f5b6bb2ac?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 14 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e548483d13d1f5b6bae4b?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Multiplatform Content Intern – Fall 2025](https://jobright.ai/jobs/info/689e554c79a9f9666254b473?utm_campaign=1053&utm_source=git)** | Miami, Florida | Hybrid | Aug 14 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Artist Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/689e516b79a9f9666254ada6?utm_campaign=1053&utm_source=git)** | Austin, Texas | On Site | Aug 14 |
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Creative News Fall Internship](https://jobright.ai/jobs/info/689e4a9a79a9f96662549f48?utm_campaign=1053&utm_source=git)** | Lehighton, PA | On Site | Aug 14 |
 | **[Page Six](https://pagesix.com/)** | **[Intern, Page Six Video](https://jobright.ai/jobs/info/689e4420faa4e875e827931c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
@@ -117,7 +117,6 @@ Job ID : 261075](https://jobright.ai/jobs/info/68a23d30faa4e875e8295ab0?utm_camp
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Video](https://jobright.ai/jobs/info/689e3ab479a9f966625485a5?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 14 |
 | ↳ | **[Intern, Youtube](https://jobright.ai/jobs/info/689e3a1783d13d1f5b6b8156?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 14 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Southeastern Louisiana Athletics) - Fall 2025](https://jobright.ai/jobs/info/689e25bcfaa4e875e82771eb?utm_campaign=1053&utm_source=git)** | Hammond, LA | On Site | Aug 14 |
-| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Club Sports Event Operations International Student Worker](https://jobright.ai/jobs/info/689e1b7efaa4e875e8276be5?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 14 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 14 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Summer Videographer for Student Life](https://jobright.ai/jobs/info/67f464d1a9408c39670239e7?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 14 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684d0a44ef735fe085bd08da?utm_campaign=1053&utm_source=git)** | Portland, ME | On Site | Aug 14 |
