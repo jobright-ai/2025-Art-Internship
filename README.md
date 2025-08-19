@@ -57,18 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pitch Labs](https://www.pitchlabs.org/)** | **[TikTok Content Creator (High School)](https://jobright.ai/jobs/info/68a4e2e3758f2e4ac3fdabd4?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 19 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Internship, Newsroom/Production](https://jobright.ai/jobs/info/68a4ddede9f1c744da12509e?utm_campaign=1053&utm_source=git)** | GA, Augusta | On Site | Aug 19 |
 | **[PatBO](https://patbo.com/)** | **[Fashion Wholesale Intern](https://jobright.ai/jobs/info/68a4cec3e9f1c744da124877?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | **[Empower Aesthetics](https://www.empower.spa)** | **[Aesthetic Nurse Intern](https://jobright.ai/jobs/info/68a4c990541cc3479840e086?utm_campaign=1053&utm_source=git)** | SLK Nashville | On Site | Aug 19 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Intern, Film & TV](https://jobright.ai/jobs/info/68a4c920541cc3479840df0f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern, Film & TV](https://jobright.ai/jobs/info/68a4a901541cc3479840ce31?utm_campaign=1053&utm_source=git)** | NA / Hollywood N Orange Dr 37.5 | On Site | Aug 19 |
 | **[Xcelerate management](Xcelerateagency.com)** | **[Short-form Editor](https://jobright.ai/jobs/info/68a47dd0e9f1c744da122161?utm_campaign=1053&utm_source=git)** | Tucson, Arizona, United States | Remote | Aug 19 |
 | ↳ | **[Short-form Editor](https://jobright.ai/jobs/info/68a47d81e9f1c744da1220cd?utm_campaign=1053&utm_source=git)** | Louisville, Kentucky, United States | Remote | Aug 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687b83c0764c3d7411c334de?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[Austin Community College](http://austincc.edu)** | **[ACCTV Intern (Hourly)](https://jobright.ai/jobs/info/68a461e02d2a252445cd6a6d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 19 |
 | **[Xcelerate management](Xcelerateagency.com)** | **[Editor](https://jobright.ai/jobs/info/68a4377a2d2a252445cd664f?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Remote | Aug 18 |
 | **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Video & Production Intern](https://jobright.ai/jobs/info/68a3e371e9f1c744da11ec0c?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/68a3d31b1ab5f8579e8a8be8?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 18 |
 | **[Toro Marketing](https://toro-marketing.com/)** | **[Video Editor](https://jobright.ai/jobs/info/68a474662d2a252445cd6faf?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | Remote | Aug 18 |
-| **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Videography & Editing Internship - Tell Somebody](https://jobright.ai/jobs/info/68a40ec02d2a252445cd55f1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Fall 2025 Editorial Intern, Little, Brown Books for Young Readers](https://jobright.ai/jobs/info/68a3caa937d3cc6b0d5798d5?utm_campaign=1053&utm_source=git)** | New York, New York | Hybrid | Aug 18 |
 | **[Frameshifts](https://frameshifts.org)** | **[Short-Form Content Intern](https://jobright.ai/jobs/info/68a41159541cc3479840a2df?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 18 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Creative Internship (Fall 2025)](https://jobright.ai/jobs/info/68a3b03337d3cc6b0d578c7a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Video](https://jobright.ai/jobs/info/689e3ab479a9f966625485a5?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 14 |
 | ↳ | **[Intern, Youtube](https://jobright.ai/jobs/info/689e3a1783d13d1f5b6b8156?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 14 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Southeastern Louisiana Athletics) - Fall 2025](https://jobright.ai/jobs/info/689e25bcfaa4e875e82771eb?utm_campaign=1053&utm_source=git)** | Hammond, LA | On Site | Aug 14 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 14 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[KATV 2025 Fall Intern](https://jobright.ai/jobs/info/6881f7ffee15177ae97194a8?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
