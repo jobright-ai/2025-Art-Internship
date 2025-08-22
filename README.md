@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aspire Fine Homes](https://aspirefinehomes.com)** | **[Videographer intern](https://jobright.ai/jobs/info/68a88879758f2e4ac3ff30a4?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Aug 22 |
+| **[The San Francisco Standard](https://sfstandard.com)** | **[Data and Innovation Intern](https://jobright.ai/jobs/info/68a88c35d627244576e3366d?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac1?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 22 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[RecWell Gaming Broadcast Specialist - Student Service](https://jobright.ai/jobs/info/68a7e509d627244576e2f555?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, - Sports (Unpaid)](https://jobright.ai/jobs/info/68a7c774758f2e4ac3fee822?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Aug 21 |
@@ -83,11 +85,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WAY Intern - CNN Political Unit: DC - Fall 2025](https://jobright.ai/jobs/info/688b22c7aab47a17f670f2eb?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 21 |
 | ↳ | **[WAY Intern - CNN Documentary Production Research: NYC - Fall 2025](https://jobright.ai/jobs/info/688b261d9f961617fe222198?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | ↳ | **[CNN Special Content Production Intern: NYC - Fall 2025](https://jobright.ai/jobs/info/688a82cfaab47a17f6709673?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| ↳ | **[WAY Intern - CNN The Lead with Jake Tapper: DC - Fall 2025](https://jobright.ai/jobs/info/688b24e4aab47a17f670f3f7?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687b83c0764c3d7411c334de?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN The Lead with Jake Tapper: DC - Fall 2025](https://jobright.ai/jobs/info/688b24e4aab47a17f670f3f7?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 21 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/68a382b0403ad4363b1c2008?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Aug 21 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN The Source with Kaitlan Collins: NYC - Fall 2025](https://jobright.ai/jobs/info/688b217a09808a6103e55201?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | ↳ | **[WAY Intern - CNN Newsgathering: DC - Fall 2025](https://jobright.ai/jobs/info/688b25eb09808a6103e55425?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Aug 21 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/688b3c8c1808534a89cb1bc8?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 21 |
+| **[Radar Entertainment Group, Inc.](http://radarentertainmentgroup.com)** | **[Internship Opportunity: Video Editing + Live Production](https://jobright.ai/jobs/info/68a86e3a6acf96396f71fcc2?utm_campaign=1053&utm_source=git)** | Mebane, NC | Hybrid | Aug 20 |
 | **[Amazing Lash Studio](https://www.amazinglashstudio.com/)** | **[Model for Eyelash Extensions](https://jobright.ai/jobs/info/68a696e8b6a3617d7fa786c9?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Aug 20 |
 | **[Penn State University](http://psu.edu)** | **[Professional Headshot Intern](https://jobright.ai/jobs/info/68a68fc7b6a3617d7fa7830e?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Aug 20 |
 | ↳ | **[Part-Time Content Creation and Social Media Correspondent Intern](https://jobright.ai/jobs/info/68a68defb6a3617d7fa78134?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Aug 20 |
@@ -142,19 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Intern, Film & TV](https://jobright.ai/jobs/info/68a4c920541cc3479840df0f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[Jamie's List](http://www.withjamie.com/)** | **[Newsletter & Podcast Internship](https://jobright.ai/jobs/info/68a5693fb6a3617d7fa71888?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 19 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern, Film & TV](https://jobright.ai/jobs/info/68a4a901541cc3479840ce31?utm_campaign=1053&utm_source=git)** | NA / Hollywood N Orange Dr 37.5 | On Site | Aug 19 |
+| **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com/)** | **[2025 Internship, Fall - Event Operations](https://jobright.ai/jobs/info/68881e7273e3e13cbd9427b1?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Aug 19 |
 | **[Xcelerate management](Xcelerateagency.com)** | **[Short-form Editor](https://jobright.ai/jobs/info/68a47dd0e9f1c744da122161?utm_campaign=1053&utm_source=git)** | Tucson, Arizona, United States | Remote | Aug 19 |
 | ↳ | **[Short-form Editor](https://jobright.ai/jobs/info/68a47d81e9f1c744da1220cd?utm_campaign=1053&utm_source=git)** | Louisville, Kentucky, United States | Remote | Aug 19 |
 | ↳ | **[Reels Editor](https://jobright.ai/jobs/info/68a530feb6a3617d7fa6f4bc?utm_campaign=1053&utm_source=git)** | Nashville, Tennessee, United States | Remote | Aug 19 |
 | ↳ | **[Reels Editor](https://jobright.ai/jobs/info/68a530e8b6a3617d7fa6f49f?utm_campaign=1053&utm_source=git)** | Colorado, Colorado, United States | Remote | Aug 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687b83c0764c3d7411c334de?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[Austin Community College](http://austincc.edu)** | **[ACCTV Intern (Hourly)](https://jobright.ai/jobs/info/68a461e02d2a252445cd6a6d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 19 |
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/6868bdd635584b65423b4ca3?utm_campaign=1053&utm_source=git)** | Avery Island, LA | On Site | Aug 19 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Film Editor](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36c8?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 19 |
 | **[Xcelerate management](Xcelerateagency.com)** | **[Reels Editor](https://jobright.ai/jobs/info/68a56b6b758f2e4ac3fdf003?utm_campaign=1053&utm_source=git)** | Colorado, United States | On Site | Aug 18 |
 | ↳ | **[Editor](https://jobright.ai/jobs/info/68a4377a2d2a252445cd664f?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Remote | Aug 18 |
 | **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Video & Production Intern](https://jobright.ai/jobs/info/68a3e371e9f1c744da11ec0c?utm_campaign=1053&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 18 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/68a3d31b1ab5f8579e8a8be8?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 18 |
-| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Fall 2025 Editorial Intern, Little, Brown Books for Young Readers](https://jobright.ai/jobs/info/68a3caa937d3cc6b0d5798d5?utm_campaign=1053&utm_source=git)** | New York, New York | Hybrid | Aug 18 |
-| **[Frameshifts](https://frameshifts.org)** | **[Short-Form Content Intern](https://jobright.ai/jobs/info/68a41159541cc3479840a2df?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 18 |
-| **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Creative Internship (Fall 2025)](https://jobright.ai/jobs/info/68a3b03337d3cc6b0d578c7a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
