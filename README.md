@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, - Sports (Unpaid)](https://jobright.ai/jobs/info/68a7c774758f2e4ac3fee822?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Aug 21 |
+| **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Advancement Films](https://jobright.ai/jobs/info/68a7c582d627244576e2ebe8?utm_campaign=1053&utm_source=git)** | Loma Linda, CA | On Site | Aug 21 |
+| **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/68a7c21e758f2e4ac3fee4b3?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Aug 21 |
+| **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Advancement Films](https://jobright.ai/jobs/info/68a7c174758f2e4ac3fee2bf?utm_campaign=1053&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Aug 21 |
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2025](https://jobright.ai/jobs/info/68a7b03e33dd7158bbca8cdf?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 21 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Vertical Video Intern](https://jobright.ai/jobs/info/68a7a3c4758f2e4ac3fed697?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Aug 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, - Sports (Unpaid)](https://jobright.ai/jobs/info/68a7854c33dd7158bbca7dd0?utm_campaign=1053&utm_source=git)** | LA, Lafayette | On Site | Aug 21 |
@@ -139,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern, Film & TV](https://jobright.ai/jobs/info/68a4a901541cc3479840ce31?utm_campaign=1053&utm_source=git)** | NA / Hollywood N Orange Dr 37.5 | On Site | Aug 19 |
 | **[Xcelerate management](Xcelerateagency.com)** | **[Short-form Editor](https://jobright.ai/jobs/info/68a47dd0e9f1c744da122161?utm_campaign=1053&utm_source=git)** | Tucson, Arizona, United States | Remote | Aug 19 |
 | ↳ | **[Short-form Editor](https://jobright.ai/jobs/info/68a47d81e9f1c744da1220cd?utm_campaign=1053&utm_source=git)** | Louisville, Kentucky, United States | Remote | Aug 19 |
-| ↳ | **[Reels Editor](https://jobright.ai/jobs/info/68a530feb6a3617d7fa6f4bc?utm_campaign=1053&utm_source=git)** | Nashville, Tennessee, United States | Remote | Aug 19 |
 | ↳ | **[Reels Editor](https://jobright.ai/jobs/info/68a530e8b6a3617d7fa6f49f?utm_campaign=1053&utm_source=git)** | Colorado, Colorado, United States | Remote | Aug 19 |
+| ↳ | **[Reels Editor](https://jobright.ai/jobs/info/68a530feb6a3617d7fa6f4bc?utm_campaign=1053&utm_source=git)** | Nashville, Tennessee, United States | Remote | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687b83c0764c3d7411c334de?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[Austin Community College](http://austincc.edu)** | **[ACCTV Intern (Hourly)](https://jobright.ai/jobs/info/68a461e02d2a252445cd6a6d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 19 |
 | **[McIlhenny Company](http://www.tabasco.com/)** | **[Archives Intern](https://jobright.ai/jobs/info/6868bdd635584b65423b4ca3?utm_campaign=1053&utm_source=git)** | Avery Island, LA | On Site | Aug 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Frameshifts](https://frameshifts.org)** | **[Short-Form Content Intern](https://jobright.ai/jobs/info/68a41159541cc3479840a2df?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 18 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Creative Internship (Fall 2025)](https://jobright.ai/jobs/info/68a3b03337d3cc6b0d578c7a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 18 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - KBJR](https://jobright.ai/jobs/info/68a3afbb403ad4363b1c2eff?utm_campaign=1053&utm_source=git)** | Duluth, MN | On Site | Aug 18 |
-| **[Warby Parker](http://www.warbyparker.com)** | **[Apprentice Optician, Part-Time - The District at Green Valley Ranch](https://jobright.ai/jobs/info/68a3af8a1ab5f8579e8a781f?utm_campaign=1053&utm_source=git)** | Henderson, NV | On Site | Aug 18 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WNEM](https://jobright.ai/jobs/info/68a3af0a403ad4363b1c2ea7?utm_campaign=1053&utm_source=git)** | Saginaw, MI | On Site | Aug 18 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/68a3abde403ad4363b1c2d26?utm_campaign=1053&utm_source=git)** | KS, Wichita | On Site | Aug 18 |
-| **[Nido Ventures](https://www.nido.ventures/)** | **[VC Editorial Contributor - ConteNIDO Newsletter](https://jobright.ai/jobs/info/68a3e6b82d2a252445cd3ff8?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
