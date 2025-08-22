@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Video Studio](https://jobright.ai/jobs/info/68a8e50e758f2e4ac3ff618a?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 22 |
+| **[GAHSP ](https://www.gahspmedia.com)** | **[Creative Content Editor Intern](https://jobright.ai/jobs/info/68a8ddea6acf96396f72370a?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Aug 22 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Videographer](https://jobright.ai/jobs/info/68a8bfda6acf96396f72276f?utm_campaign=1053&utm_source=git)** | Greater Cincinnati | On Site | Aug 22 |
 | **[narb](https://narb.cc/)** | **[Research And Development Intern](https://jobright.ai/jobs/info/68a8bf56758f2e4ac3ff4f09?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a8b2436acf96396f721e03?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68a4fde4758f2e4ac3fdb225?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 19 |
 | **[Suno](https://www.suno.com)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/68a5419633dd7158bbc985da?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 19 |
 | **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Emerging Arts Leader Internship: Institutional Giving](https://jobright.ai/jobs/info/68a541e833dd7158bbc98649?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
-| **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB Fall 2025 News Intern](https://jobright.ai/jobs/info/6887b4524174df41e0f9fe45?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Aug 19 |
-| **[PatBO](https://patbo.com/)** | **[Fashion Wholesale Intern](https://jobright.ai/jobs/info/68a4cec3e9f1c744da124877?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
