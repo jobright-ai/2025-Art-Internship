@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Video Studio](https://jobright.ai/jobs/info/68a8e50e758f2e4ac3ff618a?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 22 |
 | **[The MF Gallery](https://www.themfgallery.com)** | **[Intern](https://jobright.ai/jobs/info/68a93dbad627244576e387bd?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 22 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Videographer](https://jobright.ai/jobs/info/68a8bfda6acf96396f72276f?utm_campaign=1053&utm_source=git)** | Greater Cincinnati | On Site | Aug 22 |
-| **[narb](https://narb.cc/)** | **[Research And Development Intern](https://jobright.ai/jobs/info/68a8bf56758f2e4ac3ff4f09?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a8b2436acf96396f721e03?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 22 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a8b1c9758f2e4ac3ff4614?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 22 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a8b177758f2e4ac3ff45d5?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Theatre Assistant](https://jobright.ai/jobs/info/68a553af758f2e4ac3fde0be?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 19 |
 | **[Ape AI](https://askape.com/)** | **[UGC Intern](https://jobright.ai/jobs/info/68a6af12b6a3617d7fa79425?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 19 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Writing and Special Projects Intern, IU Corps](https://jobright.ai/jobs/info/68a53022b6a3617d7fa6f446?utm_campaign=1053&utm_source=git)** | Bloomington, IN | Hybrid | Aug 19 |
+| **[Futures Training Center](https://www.futurestrainingcenter.com)** | **[Pitching Intern](https://jobright.ai/jobs/info/68a52b74b6a3617d7fa6f228?utm_campaign=1053&utm_source=git)** | Corona, CA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
