@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stephens College](http://www.stephens.edu/)** | **[Creative Hub Lab Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9b19e758f2e4ac3ffb0ef?utm_campaign=1053&utm_source=git)** | Columbia, MO | Hybrid | Aug 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - External Relations (Summer 2025)](https://jobright.ai/jobs/info/68a99af06acf96396f7287a8?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 23 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68a99a8b6acf96396f72877d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 23 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a9643e758f2e4ac3ff9524?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a914886acf96396f724a2f?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Aug 22 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Video Editor/Producer Intern](https://jobright.ai/jobs/info/68a90e076acf96396f7244fa?utm_campaign=1053&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
-| **[Real Art Daily (RAD) Productions](http://radprod.com/)** | **[3D Animation Intern](https://jobright.ai/jobs/info/68a9599f758f2e4ac3ff8ffc?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Aug 22 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[CISE Feature Writer - IE](https://jobright.ai/jobs/info/68a920f16acf96396f724f5b?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Aug 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68a8f98ed627244576e36ae0?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Aug 22 |
 | **[Rowan](http://forrowan.com)** | **[Cinematography & Media Intern](https://jobright.ai/jobs/info/68a919db758f2e4ac3ff74e4?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Aug 22 |
@@ -89,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 22 |
 | **[Aspire Fine Homes](https://aspirefinehomes.com)** | **[Videographer intern](https://jobright.ai/jobs/info/68a88879758f2e4ac3ff30a4?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Aug 22 |
 | **[The San Francisco Standard](https://sfstandard.com)** | **[Data and Innovation Intern](https://jobright.ai/jobs/info/68a88c35d627244576e3366d?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/681ab43d2cfcf461826a4a7d?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Aug 22 |
 | **[GitPart](gitpart.com)** | **[Fall Intern](https://jobright.ai/jobs/info/68a89ba6758f2e4ac3ff3a59?utm_campaign=1053&utm_source=git)** | Fond du Lac, WI | On Site | Aug 22 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow](https://jobright.ai/jobs/info/67fdd44456e2d450696b6ac1?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 22 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[RecWell Gaming Broadcast Specialist - Student Service](https://jobright.ai/jobs/info/68a7e509d627244576e2f555?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Game Presentation Video & Production Intern](https://jobright.ai/jobs/info/68a55c38758f2e4ac3fde50c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 19 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Theatre Assistant](https://jobright.ai/jobs/info/68a553af758f2e4ac3fde0be?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 19 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Writing and Special Projects Intern, IU Corps](https://jobright.ai/jobs/info/68a53022b6a3617d7fa6f446?utm_campaign=1053&utm_source=git)** | Bloomington, IN | Hybrid | Aug 19 |
-| **[Futures Training Center](https://www.futurestrainingcenter.com)** | **[Pitching Intern](https://jobright.ai/jobs/info/68a52b74b6a3617d7fa6f228?utm_campaign=1053&utm_source=git)** | Corona, CA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
