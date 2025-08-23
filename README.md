@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68a8f98ed627244576e36ae0?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Aug 22 |
+| ↳ | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68a8f7d1d627244576e369d9?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 22 |
+| **[Gray Media](http://www.gray.tv)** | **[SPORTS INTERN - WILX](https://jobright.ai/jobs/info/68a8f5c8758f2e4ac3ff65d9?utm_campaign=1053&utm_source=git)** | Lansing, MI | On Site | Aug 22 |
+| **[Page Six](https://pagesix.com/)** | **[Intern, Page Six Video Studio](https://jobright.ai/jobs/info/68a8e659d627244576e365f5?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 22 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Video Studio](https://jobright.ai/jobs/info/68a8e50e758f2e4ac3ff618a?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 22 |
 | **[GAHSP ](https://www.gahspmedia.com)** | **[Creative Content Editor Intern](https://jobright.ai/jobs/info/68a8ddea6acf96396f72370a?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Aug 22 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Videographer](https://jobright.ai/jobs/info/68a8bfda6acf96396f72276f?utm_campaign=1053&utm_source=git)** | Greater Cincinnati | On Site | Aug 22 |
@@ -124,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Cambridge International Systems, Inc.](https://cbridgeinc.com/)** | **[Business Writing Intern](https://jobright.ai/jobs/info/68a66703b6a3617d7fa7752f?utm_campaign=1053&utm_source=git)** | Virginia Beach, VA | Hybrid | Aug 20 |
 | **[Penn State Department of Materials Science and Engineering](https://www.matse.psu.edu/)** | **[Part-Time Content Creation and Social Media Correspondent Intern](https://jobright.ai/jobs/info/68a6321f33dd7158bbc9eac8?utm_campaign=1053&utm_source=git)** | Penn State University Park | On Site | Aug 20 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEO EDITING INTERNSHIP](https://jobright.ai/jobs/info/68a62bb9758f2e4ac3fe3521?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 20 |
-| ↳ | **[BROADCAST INTERNSHIP](https://jobright.ai/jobs/info/68a62aff758f2e4ac3fe346c?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 20 |
 | **[Candace Marie ](https://www.candacemarie.co/)** | **[Fashion Week Intern](https://jobright.ai/jobs/info/68a62674758f2e4ac3fe320b?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern I, News](https://jobright.ai/jobs/info/68a62276758f2e4ac3fe2f6a?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Aug 20 |
 | **[Montgomery Community Media](https://www.mymcmedia.org)** | **[Multimedia Journalism Internship](https://jobright.ai/jobs/info/68a6225f33dd7158bbc9e1bf?utm_campaign=1053&utm_source=git)** | Rockville, MD | Hybrid | Aug 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Emerging Arts Leader Internship: Public Engagement](https://jobright.ai/jobs/info/68a501c2b6a3617d7fa6ddf7?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Aug 19 |
 | **[Golden State Memorabilia](https://gsmemorabilia.com/)** | **[Audio-Visual Intern – Podcast Production](https://jobright.ai/jobs/info/68a4f3fbb6a3617d7fa6d98f?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Aug 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Internship, Newsroom/Production](https://jobright.ai/jobs/info/68a4ddede9f1c744da12509e?utm_campaign=1053&utm_source=git)** | GA, Augusta | On Site | Aug 19 |
-| **[Northstar Travel Group](http://www.NorthstarTravelGroup.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68a4fde4758f2e4ac3fdb225?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 19 |
-| **[Suno](https://www.suno.com)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/68a5419633dd7158bbc985da?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 19 |
-| **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Emerging Arts Leader Internship: Institutional Giving](https://jobright.ai/jobs/info/68a541e833dd7158bbc98649?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
