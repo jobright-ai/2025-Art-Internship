@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a955b7758f2e4ac3ff8e9f?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a914886acf96396f724a2f?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Aug 22 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Video Editor/Producer Intern](https://jobright.ai/jobs/info/68a90e076acf96396f7244fa?utm_campaign=1053&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[CISE Feature Writer - IE](https://jobright.ai/jobs/info/68a920f16acf96396f724f5b?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Aug 22 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68a914f46acf96396f724a6c?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Aug 22 |
 | **[Page Six](https://pagesix.com/)** | **[Intern, Page Six Video Studio](https://jobright.ai/jobs/info/68a8e659d627244576e365f5?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 22 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Video Studio](https://jobright.ai/jobs/info/68a8e50e758f2e4ac3ff618a?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 22 |
-| **[GAHSP ](https://www.gahspmedia.com)** | **[Creative Content Editor Intern](https://jobright.ai/jobs/info/68a8ddea6acf96396f72370a?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Aug 22 |
+| **[The MF Gallery](https://www.themfgallery.com)** | **[Intern](https://jobright.ai/jobs/info/68a93dbad627244576e387bd?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 22 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Videographer](https://jobright.ai/jobs/info/68a8bfda6acf96396f72276f?utm_campaign=1053&utm_source=git)** | Greater Cincinnati | On Site | Aug 22 |
 | **[narb](https://narb.cc/)** | **[Research And Development Intern](https://jobright.ai/jobs/info/68a8bf56758f2e4ac3ff4f09?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a8b2436acf96396f721e03?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 22 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/678925feb1ed92949ce60195?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Aug 20 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer - Influencer - Podcasting Intern](https://jobright.ai/jobs/info/68a6069333dd7158bbc9d2d0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 20 |
 | **[Surratt House Museum](https://www.pgparks.com/facilities/surratt-house-museum)** | **[Fall 2025 Archives Together Fellowship](https://jobright.ai/jobs/info/68a6d733b6a3617d7fa7af3b?utm_campaign=1053&utm_source=git)** | Clinton, MD | On Site | Aug 20 |
-| **[Healthcare Insights](healthcarein.org)** | **[Pharma/Biotech Policy Student Journalist & Contributor](https://jobright.ai/jobs/info/68a5e3deb6a3617d7fa73dcb?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 20 |
 | **[Petra Aroma](www.petraaroma.com)** | **[UGC Content Creator Internship (Volunteer / Remote-Flexible)](https://jobright.ai/jobs/info/68a69b70b6a3617d7fa788d9?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Economic Development Partnership of North Carolina (EDPNC)](https://edpnc.com/)** | **[Intern - NC Film Office](https://jobright.ai/jobs/info/68a5bc6733dd7158bbc9b86d?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 20 |
 | **[REWE](https://karriere.rewe.de)** | **[Trainee zum/zur selbstständigen REWE-Kaufmann/-frau (m/w/d)](https://jobright.ai/jobs/info/68a69e5133dd7158bbca11a8?utm_campaign=1053&utm_source=git)** | St Georges, DE | On Site | Aug 20 |
