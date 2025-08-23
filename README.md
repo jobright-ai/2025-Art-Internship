@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - External Relations (Summer 2025)](https://jobright.ai/jobs/info/68a99af06acf96396f7287a8?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 23 |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68a99a8b6acf96396f72877d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 23 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a9643e758f2e4ac3ff9524?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a914886acf96396f724a2f?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Aug 22 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Video Editor/Producer Intern](https://jobright.ai/jobs/info/68a90e076acf96396f7244fa?utm_campaign=1053&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEO EDITING INTERNSHIP](https://jobright.ai/jobs/info/68a62bb9758f2e4ac3fe3521?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 20 |
 | **[Candace Marie ](https://www.candacemarie.co/)** | **[Fashion Week Intern](https://jobright.ai/jobs/info/68a62674758f2e4ac3fe320b?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern I, News](https://jobright.ai/jobs/info/68a62276758f2e4ac3fe2f6a?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Aug 20 |
-| **[Montgomery Community Media](https://www.mymcmedia.org)** | **[Multimedia Journalism Internship](https://jobright.ai/jobs/info/68a6225f33dd7158bbc9e1bf?utm_campaign=1053&utm_source=git)** | Rockville, MD | Hybrid | Aug 20 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Sports Producer Intern - Fieldhouse](https://jobright.ai/jobs/info/68a6211b758f2e4ac3fe2e53?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Fall 2025 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/68a61ef733dd7158bbc9e13a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEO PRODUCTION INTERNSHIP](https://jobright.ai/jobs/info/68a61ec233dd7158bbc9e0e7?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 20 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/66c561eb60544c52d762dd10?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
 | **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Game Presentation Video & Production Intern](https://jobright.ai/jobs/info/68a55c38758f2e4ac3fde50c?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 19 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Theatre Assistant](https://jobright.ai/jobs/info/68a553af758f2e4ac3fde0be?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 19 |
-| **[Ape AI](https://askape.com/)** | **[UGC Intern](https://jobright.ai/jobs/info/68a6af12b6a3617d7fa79425?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 19 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Writing and Special Projects Intern, IU Corps](https://jobright.ai/jobs/info/68a53022b6a3617d7fa6f446?utm_campaign=1053&utm_source=git)** | Bloomington, IN | Hybrid | Aug 19 |
 | **[Futures Training Center](https://www.futurestrainingcenter.com)** | **[Pitching Intern](https://jobright.ai/jobs/info/68a52b74b6a3617d7fa6f228?utm_campaign=1053&utm_source=git)** | Corona, CA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
