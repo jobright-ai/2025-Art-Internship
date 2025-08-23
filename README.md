@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a914886acf96396f724a2f?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Aug 22 |
+| **[Hunter Engineering Company](http://www.hunter.com)** | **[Video Editor/Producer Intern](https://jobright.ai/jobs/info/68a90e076acf96396f7244fa?utm_campaign=1053&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68a8f98ed627244576e36ae0?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Aug 22 |
-| ↳ | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68a8f7d1d627244576e369d9?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 22 |
+| **[Rowan](http://forrowan.com)** | **[Cinematography & Media Intern](https://jobright.ai/jobs/info/68a919db758f2e4ac3ff74e4?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Aug 22 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68a8f7d1d627244576e369d9?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 22 |
 | **[Gray Media](http://www.gray.tv)** | **[SPORTS INTERN - WILX](https://jobright.ai/jobs/info/68a8f5c8758f2e4ac3ff65d9?utm_campaign=1053&utm_source=git)** | Lansing, MI | On Site | Aug 22 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68a914f46acf96396f724a6c?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Aug 22 |
 | **[Page Six](https://pagesix.com/)** | **[Intern, Page Six Video Studio](https://jobright.ai/jobs/info/68a8e659d627244576e365f5?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 22 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Video Studio](https://jobright.ai/jobs/info/68a8e50e758f2e4ac3ff618a?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 22 |
 | **[GAHSP ](https://www.gahspmedia.com)** | **[Creative Content Editor Intern](https://jobright.ai/jobs/info/68a8ddea6acf96396f72370a?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Aug 22 |
@@ -91,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[LLYC](https://llyc.global)** | **[Multimedia Intern](https://jobright.ai/jobs/info/68a7b275758f2e4ac3fedc34?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 21 |
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2025](https://jobright.ai/jobs/info/68a7b03e33dd7158bbca8cdf?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 21 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Game Presentation](https://jobright.ai/jobs/info/68a891dc758f2e4ac3ff360f?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Aug 21 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/686e2a3e95e5ed7966dab099?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Vertical Video Intern](https://jobright.ai/jobs/info/68a7a3c4758f2e4ac3fed697?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Aug 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, - Sports (Unpaid)](https://jobright.ai/jobs/info/68a7854c33dd7158bbca7dd0?utm_campaign=1053&utm_source=git)** | LA, Lafayette | On Site | Aug 21 |
 | **[Greater Public](https://www.greaterpublic.org)** | **[WUNC Newsroom Interns](https://jobright.ai/jobs/info/68a77ebed627244576e2ce24?utm_campaign=1053&utm_source=git)** | Chapel Hill, NC | Hybrid | Aug 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ape AI](https://askape.com/)** | **[UGC Intern](https://jobright.ai/jobs/info/68a6af12b6a3617d7fa79425?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Aug 19 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Writing and Special Projects Intern, IU Corps](https://jobright.ai/jobs/info/68a53022b6a3617d7fa6f446?utm_campaign=1053&utm_source=git)** | Bloomington, IN | Hybrid | Aug 19 |
 | **[Futures Training Center](https://www.futurestrainingcenter.com)** | **[Pitching Intern](https://jobright.ai/jobs/info/68a52b74b6a3617d7fa6f228?utm_campaign=1053&utm_source=git)** | Corona, CA | On Site | Aug 19 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Internship, Newsroom/Production](https://jobright.ai/jobs/info/68a526b6b6a3617d7fa6f0b9?utm_campaign=1053&utm_source=git)** | Augusta, GA | On Site | Aug 19 |
-| **[American University](http://american.edu)** | **[AU Research Storyteller-1 (Student)](https://jobright.ai/jobs/info/68a5143933dd7158bbc96e33?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 19 |
-| **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Emerging Arts Leader Internship: Public Engagement](https://jobright.ai/jobs/info/68a501c2b6a3617d7fa6ddf7?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Aug 19 |
-| **[Golden State Memorabilia](https://gsmemorabilia.com/)** | **[Audio-Visual Intern – Podcast Production](https://jobright.ai/jobs/info/68a4f3fbb6a3617d7fa6d98f?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Aug 19 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Internship, Newsroom/Production](https://jobright.ai/jobs/info/68a4ddede9f1c744da12509e?utm_campaign=1053&utm_source=git)** | GA, Augusta | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
