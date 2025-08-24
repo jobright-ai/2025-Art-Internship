@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for Coterie show](https://jobright.ai/jobs/info/68ab883ad627244576e3fbd9?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 24 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Fall 2025](https://jobright.ai/jobs/info/68ab66a6daf1431824c8edd7?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6875fe0cae2f413e4a5abefe?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Aug 24 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Sheraton Overland Park](https://jobright.ai/jobs/info/68aa180f758f2e4ac3ffc09d?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Aug 23 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68a8a23b6acf96396f721699?utm_campaign=1053&utm_source=git)** | Colts Neck, NJ | On Site | Aug 22 |
 | **[St. John's University](https://www.stjohns.edu)** | **[Athletic Events and Programming Intern - College Credit/Experience Building](https://jobright.ai/jobs/info/68a89c49d627244576e33eba?utm_campaign=1053&utm_source=git)** | Queens, NY | On Site | Aug 22 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 22 |
-| **[Black Label Marine Group](http://www.blacklabelmarinegroup.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/68a8970c758f2e4ac3ff37ff?utm_campaign=1053&utm_source=git)** | Pinellas Park, FL | Hybrid | Aug 22 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 22 |
 | **[Aspire Fine Homes](https://aspirefinehomes.com)** | **[Videographer intern](https://jobright.ai/jobs/info/68a88879758f2e4ac3ff30a4?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Aug 22 |
 | **[The San Francisco Standard](https://sfstandard.com)** | **[Data and Innovation Intern](https://jobright.ai/jobs/info/68a88c35d627244576e3366d?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
@@ -114,6 +114,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Golf Course Construction Internship](https://jobright.ai/jobs/info/68a76cf1d627244576e2c20f?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Aug 21 |
 | **[Lambert](https://lambert.com/)** | **[Thanks for visiting our career listings page.Multimedia Intern](https://jobright.ai/jobs/info/68a76cc9d627244576e2c1a5?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 21 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Entertainment](https://jobright.ai/jobs/info/68a76a90758f2e4ac3febc3a?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Aug 21 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[Fall NYSBA News Intern](https://jobright.ai/jobs/info/686e2a3e95e5ed7966dab098?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Aug 21 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Gameday Operations Internship (Jacksonville State Athletics) - Fall 2025](https://jobright.ai/jobs/info/68a75deed627244576e2bc9e?utm_campaign=1053&utm_source=git)** | Jacksonville, AL | On Site | Aug 21 |
 | **[Hubbard Broadcasting, Inc.](https://hubbardbroadcasting.com)** | **[Sports Department Internship](https://jobright.ai/jobs/info/68a7569733dd7158bbca64f9?utm_campaign=1053&utm_source=git)** | St Paul, MN | On Site | Aug 21 |
 | **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/68a750c4758f2e4ac3feb04a?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American University](http://american.edu)** | **[AU Research Storyteller (Student)](https://jobright.ai/jobs/info/68a5143933dd7158bbc96e33?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | **[Economic Development Partnership of North Carolina (EDPNC)](https://edpnc.com/)** | **[Intern - NC Film Office](https://jobright.ai/jobs/info/68a5bc6733dd7158bbc9b86d?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 20 |
 | **[REWE](https://karriere.rewe.de)** | **[Trainee zum/zur selbstständigen REWE-Kaufmann/-frau (m/w/d)](https://jobright.ai/jobs/info/68a69e5133dd7158bbca11a8?utm_campaign=1053&utm_source=git)** | St Georges, DE | On Site | Aug 20 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Weather Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/6888487b73e3e13cbd943ba6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
