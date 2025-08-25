@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inspiring Women Pod](https://www.inspiringwomen.show)** | **[Associate Producer](https://jobright.ai/jobs/info/68abdb5cd627244576e41428?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 24 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for Coterie show](https://jobright.ai/jobs/info/68ab883ad627244576e3fbd9?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 24 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Fall 2025](https://jobright.ai/jobs/info/68ab66a6daf1431824c8edd7?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/681d04d97a08adf0143c746a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 24 |
@@ -66,14 +67,14 @@ For a complete list, click the following sortable link below:
 | **[Stephens College](http://www.stephens.edu/)** | **[Creative Hub Lab Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9b19e758f2e4ac3ffb0ef?utm_campaign=1053&utm_source=git)** | Columbia, MO | Hybrid | Aug 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Multimedia Production Intern - External Relations (Summer 2025)](https://jobright.ai/jobs/info/68a99af06acf96396f7287a8?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 23 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68a99a8b6acf96396f72877d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 23 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a9643e758f2e4ac3ff9524?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 22 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a955b7758f2e4ac3ff8e9f?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a914886acf96396f724a2f?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Aug 22 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Video Editor/Producer Intern](https://jobright.ai/jobs/info/68a90e076acf96396f7244fa?utm_campaign=1053&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87ba?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 22 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[CISE Feature Writer - IE](https://jobright.ai/jobs/info/68a920f16acf96396f724f5b?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Aug 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68a8f98ed627244576e36ae0?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Aug 22 |
-| **[Rowan](http://forrowan.com)** | **[Cinematography & Media Intern](https://jobright.ai/jobs/info/68a919db758f2e4ac3ff74e4?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Aug 22 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68a8f7d1d627244576e369d9?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 22 |
+| ↳ | **[Fall 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68a8f7d1d627244576e369d9?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 22 |
 | **[Gray Media](http://www.gray.tv)** | **[SPORTS INTERN - WILX](https://jobright.ai/jobs/info/68a8f5c8758f2e4ac3ff65d9?utm_campaign=1053&utm_source=git)** | Lansing, MI | On Site | Aug 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68a914f46acf96396f724a6c?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Aug 22 |
 | **[Page Six](https://pagesix.com/)** | **[Intern, Page Six Video Studio](https://jobright.ai/jobs/info/68a8e659d627244576e365f5?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer - Influencer - Podcasting Intern](https://jobright.ai/jobs/info/68a6069333dd7158bbc9d2d0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 20 |
 | **[Surratt House Museum](https://www.pgparks.com/facilities/surratt-house-museum)** | **[Fall 2025 Archives Together Fellowship](https://jobright.ai/jobs/info/68a6d733b6a3617d7fa7af3b?utm_campaign=1053&utm_source=git)** | Clinton, MD | On Site | Aug 20 |
 | **[American University](http://american.edu)** | **[AU Research Storyteller (Student)](https://jobright.ai/jobs/info/68a5143933dd7158bbc96e33?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 20 |
-| **[Economic Development Partnership of North Carolina (EDPNC)](https://edpnc.com/)** | **[Intern - NC Film Office](https://jobright.ai/jobs/info/68a5bc6733dd7158bbc9b86d?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
