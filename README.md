@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Radar Entertainment Group, Inc.](http://radarentertainmentgroup.com)** | **[Internship Opportunity: Video Editing + Live Production](https://jobright.ai/jobs/info/68ac8a86daf1431824c95e06?utm_campaign=1053&utm_source=git)** | Mebane, NC | Hybrid | Aug 25 |
+| **[RAW APP](https://www.raw.app)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68ac7589758f2e4ac3005aac?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Production Student Assistant](https://jobright.ai/jobs/info/68ac3e75d627244576e44de3?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Aug 25 |
-| **[Plutus Media](https://growwithplutus.com/)** | **[TikTok Content Creator](https://jobright.ai/jobs/info/68ac3b4edaf1431824c9415e?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Editorial Fellow - Spectrum News 1](https://jobright.ai/jobs/info/6801c0bbf5fa19f83798eee1?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 25 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Intern for Coterie show](https://jobright.ai/jobs/info/68ab883ad627244576e3fbd9?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/681d04d97a08adf0143c746a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 24 |
@@ -129,8 +130,7 @@ For a complete list, click the following sortable link below:
 | **[National Journal](http://www.nationaljournal.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/688aacf49f961617fe21d5f2?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Aug 21 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c561eb60544c52d762dcf3?utm_campaign=1053&utm_source=git)** | Stanford, CA | On Site | Aug 21 |
 | **[Red Velvet Studios](redvelvetstudio.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/68a72809d627244576e2a11c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Documentary Production Research: ATL - Fall 2025](https://jobright.ai/jobs/info/688b220f9f961617fe221fe0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
-| ↳ | **[WAY Intern - CNN Documentary Production Research: NYC - Fall 2025](https://jobright.ai/jobs/info/688b261d9f961617fe222198?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 21 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Documentary Production Research: NYC - Fall 2025](https://jobright.ai/jobs/info/688b261d9f961617fe222198?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | ↳ | **[CNN Special Content Production Intern: NYC - Fall 2025](https://jobright.ai/jobs/info/688a82cfaab47a17f6709673?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687b83c0764c3d7411c334de?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/68a382b0403ad4363b1c2008?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Aug 21 |
