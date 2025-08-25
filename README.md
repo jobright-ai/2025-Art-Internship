@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68acd3ecd627244576e496fe?utm_campaign=1053&utm_source=git)** | Colts Neck, NJ | On Site | Aug 25 |
+| **[The Classic Center](http://classiccenter.com)** | **[Theater Event Planning & Front of House Internship](https://jobright.ai/jobs/info/68acccd7d627244576e493b1?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Aug 25 |
+| **[Kum & Go](https://www.kumandgo.com/)** | **[Marketing Video Production Intern](https://jobright.ai/jobs/info/68acc5e4d627244576e48ecf?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 25 |
+| **[Art Works For Change](http://www.artworksforchange.org)** | **[Volunteer: Arts and environmental activism: environmental leadership program](https://jobright.ai/jobs/info/68acc141daf1431824c97f0b?utm_campaign=1053&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
 | **[Layton City](https://www.laytoncity.org/LC/)** | **[Part-Time Museum Collections Intern](https://jobright.ai/jobs/info/68acb5a3d627244576e485ce?utm_campaign=1053&utm_source=git)** | Layton,UT,US | On Site | Aug 25 |
 | **[Duininck](https://www.duininck.com/)** | **[2026 Golf Course Construction Internship](https://jobright.ai/jobs/info/68aca5d4d627244576e47a25?utm_campaign=1053&utm_source=git)** | Delano, MN | On Site | Aug 25 |
 | **[Radar Entertainment Group, Inc.](http://radarentertainmentgroup.com)** | **[Internship Opportunity: Video Editing + Live Production](https://jobright.ai/jobs/info/68ac8a86daf1431824c95e06?utm_campaign=1053&utm_source=git)** | Mebane, NC | Hybrid | Aug 25 |
@@ -72,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[The Bit Gazette](www.thebitgazette.com)** | **[Crypto Journalist (unpaid internship)](https://jobright.ai/jobs/info/68abf19a758f2e4ac3002ad6?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Aug 23 |
 | **[Stephens College](http://www.stephens.edu/)** | **[Creative Hub Lab Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9b19e758f2e4ac3ffb0ef?utm_campaign=1053&utm_source=git)** | Columbia, MO | Hybrid | Aug 23 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/67c2511f8843b056d4f5917b?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Aug 23 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a9643e758f2e4ac3ff9524?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 22 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a955b7758f2e4ac3ff8e9f?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2025 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a914886acf96396f724a2f?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Aug 22 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Video Editor/Producer Intern](https://jobright.ai/jobs/info/68a90e076acf96396f7244fa?utm_campaign=1053&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87ba?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Fall 2025 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/68a61ef733dd7158bbc9e13a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEO PRODUCTION INTERNSHIP](https://jobright.ai/jobs/info/68a61ec233dd7158bbc9e0e7?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 20 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/68a61ca133dd7158bbc9de7f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 20 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Fall 2025 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/68a61c8e33dd7158bbc9de5f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 20 |
-| **[Resources for the Future](http://www.rff.org/)** | **[Fall 2025 Editorial Intern](https://jobright.ai/jobs/info/688921cb09808a6103e453de?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 20 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/678925feb1ed92949ce60195?utm_campaign=1053&utm_source=git)** | Lubbock, TX | On Site | Aug 20 |
-| **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Fall - Creative Video](https://jobright.ai/jobs/info/68892e0e09808a6103e4591c?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
