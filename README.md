@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Fall 2025)](https://jobright.ai/jobs/info/68adf252daf1431824c9f253?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Video Editing Intern (Unpaid Internship)](https://jobright.ai/jobs/info/68adf1e0758f2e4ac300fb5d?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Paul Smith](https://www.paulsmith.co.uk)** | **[Press & VIP, Intern - Los Angeles](https://jobright.ai/jobs/info/68add0b1758f2e4ac300ecaf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
 | **[BetterMind Labs](www.bettermindlabs.org)** | **[Content Creator](https://jobright.ai/jobs/info/68adcff5daf1431824c9e308?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 26 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/6833fe85f67ea6a1eedfdb87?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 26 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[University Daily Kansan Content Staff - Student Hourly](https://jobright.ai/jobs/info/68ad8c2f758f2e4ac300db5e?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 26 |
 | ↳ | **[University Daily Kansan Editor - Student Hourly](https://jobright.ai/jobs/info/68ad5fa7d627244576e4d28f?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 26 |
 | **[Marbles Kids Museum](https://www.marbleskidsmuseum.org/)** | **[Studio Art Intern](https://jobright.ai/jobs/info/68ad5549758f2e4ac300cb6f?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red Velvet Studios](redvelvetstudio.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/68a72809d627244576e2a11c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Documentary Production Research: NYC - Fall 2025](https://jobright.ai/jobs/info/688b261d9f961617fe222198?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687b83c0764c3d7411c334de?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/68a382b0403ad4363b1c2008?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Aug 21 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/688b3c8c1808534a89cb1bc8?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 21 |
-| **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Baking and Pastry Intern](https://jobright.ai/jobs/info/68ad319d758f2e4ac300ba1f?utm_campaign=1053&utm_source=git)** | Walland, TN | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
