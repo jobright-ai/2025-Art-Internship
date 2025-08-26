@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[University Daily Kansan Editor - Student Hourly](https://jobright.ai/jobs/info/68ad5fa7d627244576e4d28f?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 26 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[University Daily Kansan Content Staff - Student Hourly](https://jobright.ai/jobs/info/68ad8c2f758f2e4ac300db5e?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 26 |
+| ↳ | **[University Daily Kansan Editor - Student Hourly](https://jobright.ai/jobs/info/68ad5fa7d627244576e4d28f?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 26 |
 | **[Marbles Kids Museum](https://www.marbleskidsmuseum.org/)** | **[Studio Art Intern](https://jobright.ai/jobs/info/68ad5549758f2e4ac300cb6f?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 25 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Libertarian Political Commentator Intern](https://jobright.ai/jobs/info/68ad5165d627244576e4cda3?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 25 |
 | ↳ | **[Liberal Political Journalist Intern](https://jobright.ai/jobs/info/68ad5119758f2e4ac300caee?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 25 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68acd3ecd627244576e496fe?utm_campaign=1053&utm_source=git)** | Colts Neck, NJ | On Site | Aug 25 |
 | **[The Classic Center](http://classiccenter.com)** | **[Theater Event Planning & Front of House Internship](https://jobright.ai/jobs/info/68acccd7d627244576e493b1?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Aug 25 |
 | **[Kum & Go](https://www.kumandgo.com/)** | **[Marketing Video Production Intern](https://jobright.ai/jobs/info/68acc5e4d627244576e48ecf?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 25 |
-| **[Art Works For Change](http://www.artworksforchange.org)** | **[Volunteer: Arts and environmental activism: environmental leadership program](https://jobright.ai/jobs/info/68acc141daf1431824c97f0b?utm_campaign=1053&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
 | **[Layton City](https://www.laytoncity.org/LC/)** | **[Part-Time Museum Collections Intern](https://jobright.ai/jobs/info/68acb5a3d627244576e485ce?utm_campaign=1053&utm_source=git)** | Layton,UT,US | On Site | Aug 25 |
 | **[Duininck](https://www.duininck.com/)** | **[2026 Golf Course Construction Internship](https://jobright.ai/jobs/info/68aca5d4d627244576e47a25?utm_campaign=1053&utm_source=git)** | Delano, MN | On Site | Aug 25 |
 | **[Radar Entertainment Group, Inc.](http://radarentertainmentgroup.com)** | **[Internship Opportunity: Video Editing + Live Production](https://jobright.ai/jobs/info/68ac8a86daf1431824c95e06?utm_campaign=1053&utm_source=git)** | Mebane, NC | Hybrid | Aug 25 |
@@ -91,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[The Bit Gazette](www.thebitgazette.com)** | **[Crypto Journalist (unpaid internship)](https://jobright.ai/jobs/info/68abf19a758f2e4ac3002ad6?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Aug 23 |
 | **[Stephens College](http://www.stephens.edu/)** | **[Creative Hub Lab Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9b19e758f2e4ac3ffb0ef?utm_campaign=1053&utm_source=git)** | Columbia, MO | Hybrid | Aug 23 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/67c2511f8843b056d4f5917b?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Aug 23 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a9643e758f2e4ac3ff9524?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 22 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a955b7758f2e4ac3ff8e9f?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Video Editor/Producer Intern](https://jobright.ai/jobs/info/68a90e076acf96396f7244fa?utm_campaign=1053&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87ba?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 22 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[CISE Feature Writer - IE](https://jobright.ai/jobs/info/68a920f16acf96396f724f5b?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Aug 22 |
