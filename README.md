@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paul Smith](https://www.paulsmith.co.uk)** | **[Press & VIP, Intern - Los Angeles](https://jobright.ai/jobs/info/68add0b1758f2e4ac300ecaf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
+| **[BetterMind Labs](www.bettermindlabs.org)** | **[Content Creator](https://jobright.ai/jobs/info/68adcff5daf1431824c9e308?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[University Daily Kansan Content Staff - Student Hourly](https://jobright.ai/jobs/info/68ad8c2f758f2e4ac300db5e?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 26 |
 | ↳ | **[University Daily Kansan Editor - Student Hourly](https://jobright.ai/jobs/info/68ad5fa7d627244576e4d28f?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 26 |
 | **[Marbles Kids Museum](https://www.marbleskidsmuseum.org/)** | **[Studio Art Intern](https://jobright.ai/jobs/info/68ad5549758f2e4ac300cb6f?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 25 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Culinary Intern, Chartwells Higher Ed / University of Chicago](https://jobright.ai/jobs/info/68ad081ad627244576e4ac76?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/68ad069ad627244576e4aa91?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Aug 25 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Spiritual Life - Content Creator (FWS/NFWS)](https://jobright.ai/jobs/info/68ad04a0daf1431824c99bb1?utm_campaign=1053&utm_source=git)** | AZ Phoenix | On Site | Aug 25 |
+| **[Media Integrity Challenge](https://www.mediachallenge.org)** | **[Journalism Intern](https://jobright.ai/jobs/info/68adae8f758f2e4ac300df1b?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Aug 25 |
 | **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Media Productions Student Intern](https://jobright.ai/jobs/info/68acf4cad627244576e4a1a4?utm_campaign=1053&utm_source=git)** | BYU–Hawaii | On Site | Aug 25 |
 | **[Frameshifts](https://frameshifts.org)** | **[Videographer and Editor](https://jobright.ai/jobs/info/68ace8ef758f2e4ac3009836?utm_campaign=1053&utm_source=git)** | Cambridge, MA | Hybrid | Aug 25 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68acdf16daf1431824c98d4d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 25 |
@@ -91,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Stephens College](http://www.stephens.edu/)** | **[Creative Hub Lab Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9b19e758f2e4ac3ffb0ef?utm_campaign=1053&utm_source=git)** | Columbia, MO | Hybrid | Aug 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68708c8006ad7073463bea4d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Aug 23 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/67c2511f8843b056d4f5917b?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Aug 23 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a9643e758f2e4ac3ff9524?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 22 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a955b7758f2e4ac3ff8e9f?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Video Editor/Producer Intern](https://jobright.ai/jobs/info/68a90e076acf96396f7244fa?utm_campaign=1053&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87ba?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 22 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[CISE Feature Writer - IE](https://jobright.ai/jobs/info/68a920f16acf96396f724f5b?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Aug 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/68a382b0403ad4363b1c2008?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Aug 21 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/688b3c8c1808534a89cb1bc8?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 21 |
 | **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Baking and Pastry Intern](https://jobright.ai/jobs/info/68ad319d758f2e4ac300ba1f?utm_campaign=1053&utm_source=git)** | Walland, TN | On Site | Aug 20 |
-| **[Amazing Lash Studio](https://www.amazinglashstudio.com/)** | **[Model for Eyelash Extensions](https://jobright.ai/jobs/info/68a696e8b6a3617d7fa786c9?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Aug 20 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Content Creation and Social Media Correspondent Intern](https://jobright.ai/jobs/info/68a68defb6a3617d7fa78134?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Aug 20 |
-| **[Montage International](https://www.montageinternational.com)** | **[Culinary Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d61?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
