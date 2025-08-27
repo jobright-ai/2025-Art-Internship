@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[CLD PR](https://cldstylehouse.com)** | **[Allies of Skin NYC Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/68ae6c00d627244576e53b98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[The Broadmoor](http://www.broadmoor.com)** | **[PRM Intern/Assistant Golf Professional](https://jobright.ai/jobs/info/68ae683dd627244576e53aa5?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | Aug 26 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Digital News](https://jobright.ai/jobs/info/68ae64a2758f2e4ac30133de?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 26 |
-| **[The Voice of College Football Network](https://www.linkedin.com/company/105024297)** | **[Video Editing Intern – College Football Talk Shows & Commentary](https://jobright.ai/jobs/info/68ae5f1a758f2e4ac30131e6?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Aug 26 |
 | **[My Rental Spot](https://myrentalspot.com)** | **[Video Content Intern – TikTok & YouTube Shorts](https://jobright.ai/jobs/info/68ae7951758f2e4ac3013dd4?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Aug 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Digital News](https://jobright.ai/jobs/info/68ae5617d627244576e53337?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Aug 26 |
 | **[American University](http://american.edu)** | **[Video Production Assistant (Student)](https://jobright.ai/jobs/info/68ae68f7758f2e4ac3013528?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 26 |
@@ -117,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Stephens College](http://www.stephens.edu/)** | **[Creative Hub Lab Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9b19e758f2e4ac3ffb0ef?utm_campaign=1053&utm_source=git)** | Columbia, MO | Hybrid | Aug 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68708c8006ad7073463bea4d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Aug 23 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Summer - Creative Video](https://jobright.ai/jobs/info/67c2511f8843b056d4f5917b?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Aug 23 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a9643e758f2e4ac3ff9524?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 22 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a955b7758f2e4ac3ff8e9f?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/66c561eb60544c52d762dd0e?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Aug 22 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Video Editor/Producer Intern](https://jobright.ai/jobs/info/68a90e076acf96396f7244fa?utm_campaign=1053&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87ba?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Aug 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[LLYC](https://llyc.global)** | **[Multimedia Intern](https://jobright.ai/jobs/info/68a7b275758f2e4ac3fedc34?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 21 |
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2025](https://jobright.ai/jobs/info/68a7b03e33dd7158bbca8cdf?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 21 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Game Presentation](https://jobright.ai/jobs/info/68a891dc758f2e4ac3ff360f?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Aug 21 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/686e2a3e95e5ed7966dab099?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
