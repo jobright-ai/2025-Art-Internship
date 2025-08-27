@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Central Michigan College](http://www.ncmich.edu/)** | **[Athletics Multimedia Intern - North Central Michigan College](https://jobright.ai/jobs/info/68aed9fa1f0a2a568a05e0ab?utm_campaign=1053&utm_source=git)** | Petoskey, MI | On Site | Aug 27 |
 | **[Kane Realty Corporation](http://kanerealtycorp.com)** | **[Special Events Internship](https://jobright.ai/jobs/info/68aec81f2daaba398441a38e?utm_campaign=1053&utm_source=git)** | Pittsboro, NC | On Site | Aug 26 |
 | **[99 Yards](https://99yards.app)** | **[Content Creator Intern (Unpaid, 3-Month Internship)](https://jobright.ai/jobs/info/68ae85d9d627244576e549f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Video Editing & Studio Assistant Internship](https://jobright.ai/jobs/info/68ae81d1d627244576e548b8?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Aug 26 |
@@ -83,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[BetterMind Labs](www.bettermindlabs.org)** | **[Content Creator](https://jobright.ai/jobs/info/68adcff5daf1431824c9e308?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Aug 26 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/6833fe85f67ea6a1eedfdb87?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 26 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68aeeb8a2daaba398441ace8?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | Aug 26 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[University Daily Kansan Content Staff - Student Hourly](https://jobright.ai/jobs/info/68ad8c2f758f2e4ac300db5e?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 26 |
 | ↳ | **[University Daily Kansan Editor - Student Hourly](https://jobright.ai/jobs/info/68ad5fa7d627244576e4d28f?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 26 |
 | **[Marbles Kids Museum](https://www.marbleskidsmuseum.org/)** | **[Studio Art Intern](https://jobright.ai/jobs/info/68ad5549758f2e4ac300cb6f?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LLYC](https://llyc.global)** | **[Multimedia Intern](https://jobright.ai/jobs/info/68a7b275758f2e4ac3fedc34?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 21 |
 | **[GBH](http://www.wgbh.org/)** | **[NOVA Digital Video Internship - Fall 2025](https://jobright.ai/jobs/info/68a7b03e33dd7158bbca8cdf?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Aug 21 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Game Presentation](https://jobright.ai/jobs/info/68a891dc758f2e4ac3ff360f?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Aug 21 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/686e2a3e95e5ed7966dab099?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship FALL 2025 (Chicago & New York)](https://jobright.ai/jobs/info/688ad81d09808a6103e51a8a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
