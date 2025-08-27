@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[Art Studio Assistant (Student/Work Study)](https://jobright.ai/jobs/info/68af430a7bcb7608b3d2c026?utm_campaign=1053&utm_source=git)** | Flint, MI | On Site | Aug 27 |
+| **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/68af39477bcb7608b3d2baaa?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Progressive Political Commentator Intern](https://jobright.ai/jobs/info/68af222f7bcb7608b3d2b064?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 27 |
 | ↳ | **[Libertarian Political Commentator Intern](https://jobright.ai/jobs/info/68af21f77bcb7608b3d2b047?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 27 |
 | ↳ | **[Center-Right Conservative Political Journalist Intern](https://jobright.ai/jobs/info/68af1a021f0a2a568a05f09f?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 27 |
 | ↳ | **[International Reporter Intern](https://jobright.ai/jobs/info/68af194a2daaba398441b976?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 27 |
 | **[PGA of America](http://www.pga.com)** | **[Intern, Member and Amateur Championships](https://jobright.ai/jobs/info/68af13337bcb7608b3d2ab8e?utm_campaign=1053&utm_source=git)** | Remote Jobs | Remote | Aug 27 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 27 |
 | **[North Central Michigan College](http://www.ncmich.edu/)** | **[Athletics Multimedia Intern - North Central Michigan College](https://jobright.ai/jobs/info/68aed9fa1f0a2a568a05e0ab?utm_campaign=1053&utm_source=git)** | Petoskey, MI | On Site | Aug 27 |
 | **[Kane Realty Corporation](http://kanerealtycorp.com)** | **[Special Events Internship](https://jobright.ai/jobs/info/68aec81f2daaba398441a38e?utm_campaign=1053&utm_source=git)** | Pittsboro, NC | On Site | Aug 26 |
 | **[99 Yards](https://99yards.app)** | **[Content Creator Intern (Unpaid, 3-Month Internship)](https://jobright.ai/jobs/info/68ae85d9d627244576e549f0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 26 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[CLD PR](https://cldstylehouse.com)** | **[Allies of Skin NYC Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/68ae6c00d627244576e53b98?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[The Broadmoor](http://www.broadmoor.com)** | **[PRM Intern/Assistant Golf Professional](https://jobright.ai/jobs/info/68ae683dd627244576e53aa5?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | Aug 26 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Digital News](https://jobright.ai/jobs/info/68ae64a2758f2e4ac30133de?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 26 |
-| **[My Rental Spot](https://myrentalspot.com)** | **[Video Content Intern – TikTok & YouTube Shorts](https://jobright.ai/jobs/info/68ae7951758f2e4ac3013dd4?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Aug 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Digital News](https://jobright.ai/jobs/info/68ae5617d627244576e53337?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Aug 26 |
 | **[American University](http://american.edu)** | **[Video Production Assistant (Student)](https://jobright.ai/jobs/info/68ae68f7758f2e4ac3013528?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 26 |
 | **[Cars Commerce](http://cars.com)** | **[Editorial News Intern - Part-time](https://jobright.ai/jobs/info/68ae421ad627244576e52ad1?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[RecWell Gaming Broadcast Specialist - Student Service](https://jobright.ai/jobs/info/68a7e509d627244576e2f555?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Aug 21 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Documentary Production Research: ATL - Fall 2025](https://jobright.ai/jobs/info/68ae805fd627244576e546aa?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, - Sports (Unpaid)](https://jobright.ai/jobs/info/68a7c774758f2e4ac3fee822?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Aug 21 |
-| **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Advancement Films](https://jobright.ai/jobs/info/68a7c582d627244576e2ebe8?utm_campaign=1053&utm_source=git)** | Loma Linda, CA | On Site | Aug 21 |
-| **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/68a7c21e758f2e4ac3fee4b3?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
