@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Post](http://nypost.com/)** | **[Intern, Digital News](https://jobright.ai/jobs/info/68ae64a2758f2e4ac30133de?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 26 |
+| **[The Voice of College Football Network](https://www.linkedin.com/company/105024297)** | **[Video Editing Intern – College Football Talk Shows & Commentary](https://jobright.ai/jobs/info/68ae5f1a758f2e4ac30131e6?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Aug 26 |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Digital News](https://jobright.ai/jobs/info/68ae5617d627244576e53337?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Aug 26 |
 | **[Cars Commerce](http://cars.com)** | **[Editorial News Intern - Part-time](https://jobright.ai/jobs/info/68ae421ad627244576e52ad1?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 26 |
 | ↳ | **[Editorial News Intern - Part-time](https://jobright.ai/jobs/info/68ae3fcad627244576e52a69?utm_campaign=1053&utm_source=git)** | United States, Remote | Remote | Aug 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Video Production – BYU-Pathway Worldwide Full-Time Intern](https://jobright.ai/jobs/info/68ae36d8d627244576e526c2?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Video Prodution](https://jobright.ai/jobs/info/68ae1d1d758f2e4ac30116e9?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 26 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Archives Intern](https://jobright.ai/jobs/info/68ae1ba2758f2e4ac3011545?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Aug 26 |
-| **[Gazette Gal](www.gazettegal.com)** | **[Lifestyle Content Writer](https://jobright.ai/jobs/info/68ae1b13758f2e4ac30114d3?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Aug 26 |
 | **[koodos labs (the creators of Shelf)](http://www.koodos.com)** | **[social content production intern (5hr/week)](https://jobright.ai/jobs/info/68ae12e1d627244576e516d1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 26 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Video Production](https://jobright.ai/jobs/info/68ae10cddaf1431824ca0724?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 26 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/68adfd59daf1431824c9f7ce?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Aug 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Golf Course Construction Internship](https://jobright.ai/jobs/info/68a76d68758f2e4ac3febe84?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
 | ↳ | **[2026 Golf Course Construction Internship](https://jobright.ai/jobs/info/68a76cf1d627244576e2c20f?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Aug 21 |
 | **[Lambert](https://lambert.com/)** | **[Thanks for visiting our career listings page.Multimedia Intern](https://jobright.ai/jobs/info/68a76cc9d627244576e2c1a5?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 21 |
-| **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Entertainment](https://jobright.ai/jobs/info/68a76a90758f2e4ac3febc3a?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Aug 21 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Fall NYSBA News Intern](https://jobright.ai/jobs/info/686e2a3e95e5ed7966dab098?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
