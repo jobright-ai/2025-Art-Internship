@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flustra LLC](https://www.linkedin.com/company/98628733)** | **[Event Coordinator Intern](https://jobright.ai/jobs/info/68afcfc9e723db6c9b7b3d8d?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Aug 27 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[Tennis and Racquet Sport Intern](https://jobright.ai/jobs/info/68afaf0ba15ec449cbb1c3e5?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Aug 27 |
 | **[American University](http://american.edu)** | **[Investigative Reporting Workshop: Student Reporter (Student)](https://jobright.ai/jobs/info/68afa4111f0a2a568a062f1a?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | **[Global Cyber Security Advisory Group](https://www.globalcyberadvisory.com)** | **[🌐 Volunteer Content Creator – Cybersecurity Impact & Innovation](https://jobright.ai/jobs/info/68af9886962903596357dd10?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
 | **[Anomali](http://www.anomali.com)** | **[Digital Content Intern (Redwood City, CA) 2025](https://jobright.ai/jobs/info/68af8d11962903596357d896?utm_campaign=1053&utm_source=git)** | Redwood City, CA | On Site | Aug 27 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Copyeditor](https://jobright.ai/jobs/info/68af6bf12daaba398441e145?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 27 |
-| **[Sara Minkara, LLC](https://www.linkedin.com/company/56402578)** | **[Internship Opportunity – Videography & Video Editing](https://jobright.ai/jobs/info/68af6366962903596357c577?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
 | **[Pace University](http://www.pace.edu)** | **[Social Media Video Creator](https://jobright.ai/jobs/info/68af77c72daaba398441e7fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Layton City](https://www.laytoncity.org/LC/)** | **[Part-Time Museum Collections Intern](https://jobright.ai/jobs/info/68af5d3c1f0a2a568a060ee6?utm_campaign=1053&utm_source=git)** | Layton, UT | On Site | Aug 27 |
 | **[Connelly Partners](http://www.connellypartners.com)** | **[Maker Studio Intern](https://jobright.ai/jobs/info/68af53e32daaba398441d42a?utm_campaign=1053&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 27 |
@@ -75,7 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Center-Right Conservative Political Journalist Intern](https://jobright.ai/jobs/info/68af1a021f0a2a568a05f09f?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 27 |
 | ↳ | **[International Reporter Intern](https://jobright.ai/jobs/info/68af194a2daaba398441b976?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 27 |
 | **[PGA of America](http://www.pga.com)** | **[Intern, Member and Amateur Championships](https://jobright.ai/jobs/info/68af13337bcb7608b3d2ab8e?utm_campaign=1053&utm_source=git)** | Remote Jobs | Remote | Aug 27 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908062?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 27 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 27 |
 | **[North Central Michigan College](http://www.ncmich.edu/)** | **[Athletics Multimedia Intern - North Central Michigan College](https://jobright.ai/jobs/info/68aed9fa1f0a2a568a05e0ab?utm_campaign=1053&utm_source=git)** | Petoskey, MI | On Site | Aug 27 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a9643e758f2e4ac3ff9524?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 26 |
 | **[Kane Realty Corporation](http://kanerealtycorp.com)** | **[Special Events Internship](https://jobright.ai/jobs/info/68aec81f2daaba398441a38e?utm_campaign=1053&utm_source=git)** | Pittsboro, NC | On Site | Aug 26 |
@@ -110,6 +110,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Liberal Political Journalist Intern](https://jobright.ai/jobs/info/68ad5119758f2e4ac300caee?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 25 |
 | ↳ | **[Progressive Political Commentator Intern](https://jobright.ai/jobs/info/68ad5de0758f2e4ac300ce33?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 25 |
 | ↳ | **[Center-Right Conservative Political Journalist Intern](https://jobright.ai/jobs/info/68ad65a8d627244576e4da21?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 25 |
+| **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Neighborhoods](https://jobright.ai/jobs/info/68afcf94e723db6c9b7b3d2c?utm_campaign=1053&utm_source=git)** | Hamilton, OH | Hybrid | Aug 25 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Marketing Video Production Intern](https://jobright.ai/jobs/info/68ad0ca2daf1431824c9a285?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 25 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Culinary Intern, Chartwells Higher Ed / University of Chicago](https://jobright.ai/jobs/info/68ad081ad627244576e4ac76?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Spiritual Life - Content Creator (FWS/NFWS)](https://jobright.ai/jobs/info/68ad04a0daf1431824c99bb1?utm_campaign=1053&utm_source=git)** | AZ Phoenix | On Site | Aug 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a8a791758f2e4ac3ff4150?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 22 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a8a6e6758f2e4ac3ff40ee?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 22 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/688a738b09808a6103e4ec92?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 22 |
-| **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
