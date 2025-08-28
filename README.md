@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[High Hampton](https://www.highhampton.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68b0afab2d46f6396cae7b04?utm_campaign=1053&utm_source=git)** | Cashiers, NC, USA | On Site | Aug 28 |
+| **[Environmental Assessment Institute](https://www.linkedin.com/company/81619)** | **[Event Production Intern](https://jobright.ai/jobs/info/68b0aa9e13563e782a9f8513?utm_campaign=1053&utm_source=git)** | Remote Worker - N/A | Remote | Aug 28 |
+| **[Anomali](http://www.anomali.com)** | **[Digital Content Intern (Redwood City, CA) 2025](https://jobright.ai/jobs/info/68b0a9b113563e782a9f842b?utm_campaign=1053&utm_source=git)** | Redwood City, CA | On Site | Aug 28 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b098082d46f6396cae6dbf?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b0970a2d46f6396cae6cf4?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 28 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b0964413563e782a9f797a?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 28 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Flustra LLC](https://www.linkedin.com/company/98628733)** | **[Event Coordinator Intern](https://jobright.ai/jobs/info/68afcfc9e723db6c9b7b3d8d?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Aug 27 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[Tennis and Racquet Sport Intern](https://jobright.ai/jobs/info/68afaf0ba15ec449cbb1c3e5?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Aug 27 |
 | **[Global Cyber Security Advisory Group](https://www.globalcyberadvisory.com)** | **[🌐 Volunteer Content Creator – Cybersecurity Impact & Innovation](https://jobright.ai/jobs/info/68af9886962903596357dd10?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
-| **[American University](http://american.edu)** | **[Investigative Reporting Workshop: Student Reporter (Student)](https://jobright.ai/jobs/info/68b04919da3e4470d3e56c44?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | **[Anomali](http://www.anomali.com)** | **[Digital Content Intern (Redwood City, CA) 2025](https://jobright.ai/jobs/info/68af8d11962903596357d896?utm_campaign=1053&utm_source=git)** | Redwood City, CA | On Site | Aug 27 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Copyeditor](https://jobright.ai/jobs/info/68af6bf12daaba398441e145?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 27 |
 | **[Pace University](http://www.pace.edu)** | **[Social Media Video Creator](https://jobright.ai/jobs/info/68af77c72daaba398441e7fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68708c8006ad7073463bea4d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Aug 23 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 22 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a955b7758f2e4ac3ff8e9f?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/66c561eb60544c52d762dd0e?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Aug 22 |
-| **[Hunter Engineering Company](http://www.hunter.com)** | **[Video Editor/Producer Intern](https://jobright.ai/jobs/info/68a90e076acf96396f7244fa?utm_campaign=1053&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
