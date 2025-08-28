@@ -58,8 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[High Hampton](https://www.highhampton.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68b0afab2d46f6396cae7b04?utm_campaign=1053&utm_source=git)** | Cashiers, NC, USA | On Site | Aug 28 |
+| **[Public Media Network](http://www.publicmedianet.org)** | **[Public Media Network Internship Program](https://jobright.ai/jobs/info/68b0cb45b47fb001d689576b?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Aug 28 |
 | **[Environmental Assessment Institute](https://www.linkedin.com/company/81619)** | **[Event Production Intern](https://jobright.ai/jobs/info/68b0aa9e13563e782a9f8513?utm_campaign=1053&utm_source=git)** | Remote Worker - N/A | Remote | Aug 28 |
 | **[Anomali](http://www.anomali.com)** | **[Digital Content Intern (Redwood City, CA) 2025](https://jobright.ai/jobs/info/68b0a9b113563e782a9f842b?utm_campaign=1053&utm_source=git)** | Redwood City, CA | On Site | Aug 28 |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Hilton Cleveland Downtown](https://jobright.ai/jobs/info/68b0caf02d46f6396cae8988?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 28 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b098082d46f6396cae6dbf?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b0970a2d46f6396cae6cf4?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 28 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b0964413563e782a9f797a?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 28 |
@@ -113,10 +115,7 @@ For a complete list, click the following sortable link below:
 | **[New York Post](http://nypost.com/)** | **[Intern, Video Production](https://jobright.ai/jobs/info/68ae10cddaf1431824ca0724?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 26 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/68adfd59daf1431824c9f7ce?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Aug 26 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Fall 2025)](https://jobright.ai/jobs/info/68adf252daf1431824c9f253?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68b0804813563e782a9f6c9a?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | Aug 26 |
-| **[Paul Smith](https://www.paulsmith.co.uk)** | **[Press & VIP, Intern - Los Angeles](https://jobright.ai/jobs/info/68add0b1758f2e4ac300ecaf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
 | **[BetterMind Labs](www.bettermindlabs.org)** | **[Content Creator](https://jobright.ai/jobs/info/68adcff5daf1431824c9e308?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 26 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68b05f2b2d46f6396cae4d76?utm_campaign=1053&utm_source=git)** | Brea, CA | On Site | Aug 26 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Aug 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68918ca7f47efe21139568cd?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Aug 26 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/688ccaaa27f9022553c06e00?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Aug 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68708c8006ad7073463bea4d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Aug 23 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 22 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a955b7758f2e4ac3ff8e9f?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/66c561eb60544c52d762dd0e?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
