@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WESH 2 CW18](http://wesh.com)** | **[WESH Intern](https://jobright.ai/jobs/info/68467c30757d449490e9be5b?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Aug 28 |
 | **[Klinn](https://klinn.works)** | **[UGC Intern](https://jobright.ai/jobs/info/68afe00c13563e782a9f20dd?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Progressive Political Commentator Intern](https://jobright.ai/jobs/info/68afdaceb47fb001d688df05?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Aug 27 |
 | **[Flustra LLC](https://www.linkedin.com/company/98628733)** | **[Event Coordinator Intern](https://jobright.ai/jobs/info/68afcfc9e723db6c9b7b3d8d?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Aug 27 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[Tennis and Racquet Sport Intern](https://jobright.ai/jobs/info/68afaf0ba15ec449cbb1c3e5?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Aug 27 |
 | **[Global Cyber Security Advisory Group](https://www.globalcyberadvisory.com)** | **[🌐 Volunteer Content Creator – Cybersecurity Impact & Innovation](https://jobright.ai/jobs/info/68af9886962903596357dd10?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
+| **[American University](http://american.edu)** | **[Investigative Reporting Workshop: Student Reporter (Student)](https://jobright.ai/jobs/info/68b04919da3e4470d3e56c44?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | **[Anomali](http://www.anomali.com)** | **[Digital Content Intern (Redwood City, CA) 2025](https://jobright.ai/jobs/info/68af8d11962903596357d896?utm_campaign=1053&utm_source=git)** | Redwood City, CA | On Site | Aug 27 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Copyeditor](https://jobright.ai/jobs/info/68af6bf12daaba398441e145?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 27 |
 | **[Pace University](http://www.pace.edu)** | **[Social Media Video Creator](https://jobright.ai/jobs/info/68af77c72daaba398441e7fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 27 |
@@ -77,7 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[International Reporter Intern](https://jobright.ai/jobs/info/68af194a2daaba398441b976?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 27 |
 | **[PGA of America](http://www.pga.com)** | **[Intern, Member and Amateur Championships](https://jobright.ai/jobs/info/68af13337bcb7608b3d2ab8e?utm_campaign=1053&utm_source=git)** | Remote Jobs | Remote | Aug 27 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c55a2f06c9231327cd815a?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Aug 27 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755ed7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 27 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908062?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern (In-Person) Fall 2025](https://jobright.ai/jobs/info/6875b171299cbc74b8756ffe?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Aug 27 |
 | **[North Central Michigan College](http://www.ncmich.edu/)** | **[Athletics Multimedia Intern - North Central Michigan College](https://jobright.ai/jobs/info/68aed9fa1f0a2a568a05e0ab?utm_campaign=1053&utm_source=git)** | Petoskey, MI | On Site | Aug 27 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e999e6db7f8d0179242dd?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Aug 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a8b1c9758f2e4ac3ff4614?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Aug 22 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a8b177758f2e4ac3ff45d5?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 22 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a8aff2d627244576e34a47?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 22 |
-| ↳ | **[Spring 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68a8ae3ad627244576e34910?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Aug 22 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING 03/07/2025](https://jobright.ai/jobs/info/68a8a7f1758f2e4ac3ff418f?utm_campaign=1053&utm_source=git)** | Springfield, IL | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
