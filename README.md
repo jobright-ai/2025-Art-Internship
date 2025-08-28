@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Cyber Security Advisory Group](https://www.globalcyberadvisory.com)** | **[🌐 Volunteer Content Creator – Cybersecurity Impact & Innovation](https://jobright.ai/jobs/info/68af9886962903596357dd10?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
+| **[Anomali](http://www.anomali.com)** | **[Digital Content Intern (Redwood City, CA) 2025](https://jobright.ai/jobs/info/68af8d11962903596357d896?utm_campaign=1053&utm_source=git)** | Redwood City, CA | On Site | Aug 27 |
 | **[Pace University](http://www.pace.edu)** | **[Social Media Video Creator](https://jobright.ai/jobs/info/68af77c72daaba398441e7fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Copyeditor](https://jobright.ai/jobs/info/68af6bf12daaba398441e145?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 27 |
 | **[Sara Minkara, LLC](https://www.linkedin.com/company/56402578)** | **[Internship Opportunity – Videography & Video Editing](https://jobright.ai/jobs/info/68af6366962903596357c577?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Social Video Intern](https://jobright.ai/jobs/info/68af4a7e1f0a2a568a060502?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Aug 27 |
 | **[University of Michigan](https://www.umich.edu)** | **[Art Studio Assistant (Student/Work Study)](https://jobright.ai/jobs/info/68af430a7bcb7608b3d2c026?utm_campaign=1053&utm_source=git)** | Flint, MI | On Site | Aug 27 |
 | **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/68af39477bcb7608b3d2baaa?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
+| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 27 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Progressive Political Commentator Intern](https://jobright.ai/jobs/info/68af222f7bcb7608b3d2b064?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 27 |
 | ↳ | **[Libertarian Political Commentator Intern](https://jobright.ai/jobs/info/68af21f77bcb7608b3d2b047?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 27 |
 | ↳ | **[Center-Right Conservative Political Journalist Intern](https://jobright.ai/jobs/info/68af1a021f0a2a568a05f09f?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 27 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a8a791758f2e4ac3ff4150?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 22 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68a8a6e6758f2e4ac3ff40ee?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 22 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/688a738b09808a6103e4ec92?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 22 |
-| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 22 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Spring 2026](https://jobright.ai/jobs/info/68701b7506ad7073463bb1b4?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 22 |
 | **[Aspire Fine Homes](https://aspirefinehomes.com)** | **[Videographer intern](https://jobright.ai/jobs/info/68a88879758f2e4ac3ff30a4?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Aug 22 |
-| **[The San Francisco Standard](https://sfstandard.com)** | **[Data and Innovation Intern](https://jobright.ai/jobs/info/68a88c35d627244576e3366d?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/681ab43d2cfcf461826a4a7d?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
