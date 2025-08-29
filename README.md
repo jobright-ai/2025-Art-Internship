@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b1e77cf4e41a61efd809c5?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
+| ↳ | **[Summer 2026 Internship – Barron’s Reporter Intern](https://jobright.ai/jobs/info/68b1e6bbbc187f64e1bd79f5?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
+| **[GAWNE](https://open.spotify.com/artist/7matqk3epcmZaikm34GB3T)** | **[Creative Videographer Intern](https://jobright.ai/jobs/info/68b1d9951ade4306aa6323fc?utm_campaign=1053&utm_source=git)** | Oak Park, IL | On Site | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Business](https://jobright.ai/jobs/info/68b1bded1ade4306aa631a0b?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Aug 29 |
 | **[SVN International](https://svn.com/)** | **[Journalism Internship](https://jobright.ai/jobs/info/68b1bc99bc187f64e1bd66aa?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | On Site | Aug 29 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Business](https://jobright.ai/jobs/info/68b1b91f1ade4306aa6316d1?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 29 |
+| **[PGA TOUR](http://www.pgatour.com)** | **[Event Operations Intern - THE PLAYERS](https://jobright.ai/jobs/info/68814aa116ea5743a3737e09?utm_campaign=1053&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Aug 29 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator (TikTok)](https://jobright.ai/jobs/info/68b1889af4e41a61efd7e339?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Spotlight Media](https://www.tryspotlight.co/)** | **[TikTok Content Creator Internship (Class of 2026)](https://jobright.ai/jobs/info/68b14e316fab621da7b0c4f1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 28 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Digital Media Assistant](https://jobright.ai/jobs/info/68b12ed204557a6c207baa17?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Aug 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Center-Right Conservative Political Journalist Intern](https://jobright.ai/jobs/info/68ad65a8d627244576e4da21?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 25 |
 | **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Neighborhoods](https://jobright.ai/jobs/info/68afcf94e723db6c9b7b3d2c?utm_campaign=1053&utm_source=git)** | Hamilton, OH | Hybrid | Aug 25 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Marketing Video Production Intern](https://jobright.ai/jobs/info/68ad0ca2daf1431824c9a285?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 25 |
-| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Culinary Intern, Chartwells Higher Ed / University of Chicago](https://jobright.ai/jobs/info/68ad081ad627244576e4ac76?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
-| **[Grand Canyon University](http://www.gcu.edu/)** | **[Spiritual Life - Content Creator (FWS/NFWS)](https://jobright.ai/jobs/info/68ad04a0daf1431824c99bb1?utm_campaign=1053&utm_source=git)** | AZ Phoenix | On Site | Aug 25 |
-| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Media Productions Student Intern](https://jobright.ai/jobs/info/68acf4cad627244576e4a1a4?utm_campaign=1053&utm_source=git)** | BYU–Hawaii | On Site | Aug 25 |
-| **[Frameshifts](https://frameshifts.org)** | **[Videographer and Editor](https://jobright.ai/jobs/info/68ace8ef758f2e4ac3009836?utm_campaign=1053&utm_source=git)** | Cambridge, MA | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
