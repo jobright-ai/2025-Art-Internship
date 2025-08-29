@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kornerz Social Network](https://kornerz.com)** | **[Content Creator](https://jobright.ai/jobs/info/68b210da1ade4306aa6341b6?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Aug 29 |
+| **[Charlotte Checkers](http://gocheckers.com)** | **[Photography/Videography Intern](https://jobright.ai/jobs/info/68b20c48f4e41a61efd81e43?utm_campaign=1053&utm_source=git)** | Matthews, NC | On Site | Aug 29 |
 | **[Techyries](https://www.linktr.ee/techyries)** | **[Writing Intern (unpaid)](https://jobright.ai/jobs/info/68b1f20a1ade4306aa633111?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – MarketWatch Bureau Intern](https://jobright.ai/jobs/info/68b1e8f9bc187f64e1bd7c02?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
-| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b1e8f41ade4306aa632ccf?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
+| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b1e77cf4e41a61efd809c5?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | ↳ | **[Summer 2026 Internship – Barron’s Reporter Intern](https://jobright.ai/jobs/info/68b1e6bbbc187f64e1bd79f5?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | **[GAWNE](https://open.spotify.com/artist/7matqk3epcmZaikm34GB3T)** | **[Creative Videographer Intern](https://jobright.ai/jobs/info/68b1d9951ade4306aa6323fc?utm_campaign=1053&utm_source=git)** | Oak Park, IL | On Site | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Business](https://jobright.ai/jobs/info/68b1bded1ade4306aa631a0b?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Aug 29 |
@@ -67,6 +69,8 @@ For a complete list, click the following sortable link below:
 | **[SVN International](https://svn.com/)** | **[Journalism Internship](https://jobright.ai/jobs/info/68b1bc99bc187f64e1bd66aa?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | On Site | Aug 29 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Business](https://jobright.ai/jobs/info/68b1b91f1ade4306aa6316d1?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 29 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Event Operations Intern - THE PLAYERS](https://jobright.ai/jobs/info/68814aa116ea5743a3737e09?utm_campaign=1053&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Aug 29 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[2025 Fall News Internship](https://jobright.ai/jobs/info/680359a9b0f813893559f241?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 29 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Screen Gems – Fall 2025](https://jobright.ai/jobs/info/6894e04773b3a600fe882f1d?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 29 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator (TikTok)](https://jobright.ai/jobs/info/68b1889af4e41a61efd7e339?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Spotlight Media](https://www.tryspotlight.co/)** | **[TikTok Content Creator Internship (Class of 2026)](https://jobright.ai/jobs/info/68b14e316fab621da7b0c4f1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 28 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Digital Media Assistant](https://jobright.ai/jobs/info/68b12ed204557a6c207baa17?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Aug 28 |
@@ -82,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '25 - WCTV](https://jobright.ai/jobs/info/68b0e7c8b47fb001d689640f?utm_campaign=1053&utm_source=git)** | Tallahassee, FL | On Site | Aug 28 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b18105f4e41a61efd7e0da?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 28 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b0fe0a6fab621da7b0955d?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 28 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Mall of America](https://jobright.ai/jobs/info/68b0ee6b13563e782a9fa731?utm_campaign=1053&utm_source=git)** | Bloomington, MN | On Site | Aug 28 |
 | **[UnCommon Fashion](http://www.theuncommonfashion.com)** | **[UnCommon Fashion Internship Program – Fall 2025](https://jobright.ai/jobs/info/68b1303a6fab621da7b0aaa9?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | **[Pigeon Service](https://www.falconeradvisory.com)** | **[Intern: Podcast Production & Operations](https://jobright.ai/jobs/info/68b136f504557a6c207bb0e9?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX | On Site | Aug 28 |
 | **[High Hampton](https://www.highhampton.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68b0afab2d46f6396cae7b04?utm_campaign=1053&utm_source=git)** | Cashiers, NC, USA | On Site | Aug 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marbles Kids Museum](https://www.marbleskidsmuseum.org/)** | **[Studio Art Intern](https://jobright.ai/jobs/info/68ad5549758f2e4ac300cb6f?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 25 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Libertarian Political Commentator Intern](https://jobright.ai/jobs/info/68ad5165d627244576e4cda3?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 25 |
 | ↳ | **[Liberal Political Journalist Intern](https://jobright.ai/jobs/info/68ad5119758f2e4ac300caee?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 25 |
-| ↳ | **[Progressive Political Commentator Intern](https://jobright.ai/jobs/info/68ad5de0758f2e4ac300ce33?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 25 |
-| ↳ | **[Center-Right Conservative Political Journalist Intern](https://jobright.ai/jobs/info/68ad65a8d627244576e4da21?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 25 |
-| **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Neighborhoods](https://jobright.ai/jobs/info/68afcf94e723db6c9b7b3d2c?utm_campaign=1053&utm_source=git)** | Hamilton, OH | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
