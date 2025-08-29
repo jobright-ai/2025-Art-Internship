@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Glenwild Golf Club & Spa](https://glenwild.com)** | **[Golf Course Intern for 2026 season](https://jobright.ai/jobs/info/68b0fd5d04557a6c207b93f0?utm_campaign=1053&utm_source=git)** | Park City,UT,US | On Site | Aug 28 |
+| **[Rue Gilt Groupe](https://www.ruegiltgroupe.com/)** | **[Short-term Assistant Boutique Producer](https://jobright.ai/jobs/info/68b0fcfce815524ae11fa7b7?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Aug 28 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Culinary, Food & Beverage (Spring 2026)](https://jobright.ai/jobs/info/68b0f6f76fab621da7b08ea4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 28 |
 | **[Perry Homes](http://perryhomes.com)** | **[2026 Summer Internship - Video Production - DFW](https://jobright.ai/jobs/info/68b0e8502d46f6396cae964a?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Aug 28 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '25 - WCTV](https://jobright.ai/jobs/info/68b0e7c8b47fb001d689640f?utm_campaign=1053&utm_source=git)** | Tallahassee, FL | On Site | Aug 28 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b0fe0a6fab621da7b0955d?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 28 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Mall of America](https://jobright.ai/jobs/info/68b0ee6b13563e782a9fa731?utm_campaign=1053&utm_source=git)** | Bloomington, MN | On Site | Aug 28 |
 | **[High Hampton](https://www.highhampton.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68b0afab2d46f6396cae7b04?utm_campaign=1053&utm_source=git)** | Cashiers, NC, USA | On Site | Aug 28 |
 | **[Public Media Network](http://www.publicmedianet.org)** | **[Public Media Network Internship Program](https://jobright.ai/jobs/info/68b0cb45b47fb001d689576b?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Aug 28 |
 | **[Environmental Assessment Institute](https://www.linkedin.com/company/81619)** | **[Event Production Intern](https://jobright.ai/jobs/info/68b0aa9e13563e782a9f8513?utm_campaign=1053&utm_source=git)** | Remote Worker - N/A | Remote | Aug 28 |
@@ -71,9 +76,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68b095dab47fb001d6893961?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Aug 28 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b094e213563e782a9f78a9?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 28 |
 | ↳ | **[Spring 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68b0911613563e782a9f75c8?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Aug 28 |
+| **[Parra Consulting Group, Inc.](https://www.parrainc.com)** | **[HUBZone Writer/Editor](https://jobright.ai/jobs/info/68b0ebb913563e782a9fa5d1?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68b08c06b47fb001d6893419?utm_campaign=1053&utm_source=git)** | Colts Neck, NJ | On Site | Aug 28 |
 | **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/68b0887913563e782a9f716c?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 28 |
 | **[WESH 2 CW18](http://wesh.com)** | **[WESH Intern](https://jobright.ai/jobs/info/68467c30757d449490e9be5b?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Aug 28 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6878b59dd444e1727b2def15?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Aug 28 |
 | **[Klinn](https://klinn.works)** | **[UGC Intern](https://jobright.ai/jobs/info/68afe00c13563e782a9f20dd?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Progressive Political Commentator Intern](https://jobright.ai/jobs/info/68afdaceb47fb001d688df05?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Aug 27 |
 | **[Flustra LLC](https://www.linkedin.com/company/98628733)** | **[Event Coordinator Intern](https://jobright.ai/jobs/info/68afcfc9e723db6c9b7b3d8d?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Aug 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Dancing Horses Theatre](http://www.thedancinghorses.com)** | **[Horse Show Performer/Intern](https://jobright.ai/jobs/info/68ad2d54d627244576e4bb66?utm_campaign=1053&utm_source=git)** | Delavan, WI | On Site | Aug 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/681d04d97a08adf0143c746a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Aug 24 |
 | ↳ | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6875fe0cae2f413e4a5abefe?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Aug 24 |
-| ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6872b41ca5ae807a59d07022?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Aug 24 |
-| ↳ | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Aug 24 |
-| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Sheraton Overland Park](https://jobright.ai/jobs/info/68aa180f758f2e4ac3ffc09d?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Aug 23 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Production Assistant (Part-Time)](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5bb?utm_campaign=1053&utm_source=git)** | Macon, GA | On Site | Aug 23 |
-| **[The Bit Gazette](www.thebitgazette.com)** | **[Crypto Journalist (unpaid internship)](https://jobright.ai/jobs/info/68abf19a758f2e4ac3002ad6?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Aug 23 |
-| **[Stephens College](http://www.stephens.edu/)** | **[Creative Hub Lab Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9b19e758f2e4ac3ffb0ef?utm_campaign=1053&utm_source=git)** | Columbia, MO | Hybrid | Aug 23 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68708c8006ad7073463bea4d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
