@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b1e77cf4e41a61efd809c5?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
+| **[Techyries](https://www.linktr.ee/techyries)** | **[Writing Intern (unpaid)](https://jobright.ai/jobs/info/68b1f20a1ade4306aa633111?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 29 |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – MarketWatch Bureau Intern](https://jobright.ai/jobs/info/68b1e8f9bc187f64e1bd7c02?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
+| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b1e8f41ade4306aa632ccf?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | ↳ | **[Summer 2026 Internship – Barron’s Reporter Intern](https://jobright.ai/jobs/info/68b1e6bbbc187f64e1bd79f5?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | **[GAWNE](https://open.spotify.com/artist/7matqk3epcmZaikm34GB3T)** | **[Creative Videographer Intern](https://jobright.ai/jobs/info/68b1d9951ade4306aa6323fc?utm_campaign=1053&utm_source=git)** | Oak Park, IL | On Site | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Business](https://jobright.ai/jobs/info/68b1bded1ade4306aa631a0b?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Aug 29 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/68adfd59daf1431824c9f7ce?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Aug 29 |
 | **[SVN International](https://svn.com/)** | **[Journalism Internship](https://jobright.ai/jobs/info/68b1bc99bc187f64e1bd66aa?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | On Site | Aug 29 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Business](https://jobright.ai/jobs/info/68b1b91f1ade4306aa6316d1?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 29 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Event Operations Intern - THE PLAYERS](https://jobright.ai/jobs/info/68814aa116ea5743a3737e09?utm_campaign=1053&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Aug 29 |
@@ -121,7 +124,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[International Reporter Intern](https://jobright.ai/jobs/info/68af194a2daaba398441b976?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 27 |
 | **[PGA of America](http://www.pga.com)** | **[Intern, Member and Amateur Championships](https://jobright.ai/jobs/info/68af13337bcb7608b3d2ab8e?utm_campaign=1053&utm_source=git)** | Remote Jobs | Remote | Aug 27 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c55a2f06c9231327cd815a?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Aug 27 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908062?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern (In-Person) Fall 2025](https://jobright.ai/jobs/info/6875b171299cbc74b8756ffe?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Aug 27 |
 | **[North Central Michigan College](http://www.ncmich.edu/)** | **[Athletics Multimedia Intern - North Central Michigan College](https://jobright.ai/jobs/info/68aed9fa1f0a2a568a05e0ab?utm_campaign=1053&utm_source=git)** | Petoskey, MI | On Site | Aug 27 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e999e6db7f8d0179242dd?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Aug 27 |
@@ -142,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Archives Intern](https://jobright.ai/jobs/info/68ae1ba2758f2e4ac3011545?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Aug 26 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Latin Artist Relations (Distribution)](https://jobright.ai/jobs/info/68756cfd299cbc74b8754b5b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Video Production](https://jobright.ai/jobs/info/68ae10cddaf1431824ca0724?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 26 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/68adfd59daf1431824c9f7ce?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Aug 26 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Fall 2025)](https://jobright.ai/jobs/info/68adf252daf1431824c9f253?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
 | **[BetterMind Labs](www.bettermindlabs.org)** | **[Content Creator](https://jobright.ai/jobs/info/68adcff5daf1431824c9e308?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Aug 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Progressive Political Commentator Intern](https://jobright.ai/jobs/info/68ad5de0758f2e4ac300ce33?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 25 |
 | ↳ | **[Center-Right Conservative Political Journalist Intern](https://jobright.ai/jobs/info/68ad65a8d627244576e4da21?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 25 |
 | **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Neighborhoods](https://jobright.ai/jobs/info/68afcf94e723db6c9b7b3d2c?utm_campaign=1053&utm_source=git)** | Hamilton, OH | Hybrid | Aug 25 |
-| **[Maverik, Inc.](https://maverik.com/)** | **[Marketing Video Production Intern](https://jobright.ai/jobs/info/68ad0ca2daf1431824c9a285?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
