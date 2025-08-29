@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Business](https://jobright.ai/jobs/info/68b1bded1ade4306aa631a0b?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Aug 29 |
+| **[SVN International](https://svn.com/)** | **[Journalism Internship](https://jobright.ai/jobs/info/68b1bc99bc187f64e1bd66aa?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | On Site | Aug 29 |
+| **[New York Post](http://nypost.com/)** | **[Intern, Business](https://jobright.ai/jobs/info/68b1b91f1ade4306aa6316d1?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 29 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator (TikTok)](https://jobright.ai/jobs/info/68b1889af4e41a61efd7e339?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Spotlight Media](https://www.tryspotlight.co/)** | **[TikTok Content Creator Internship (Class of 2026)](https://jobright.ai/jobs/info/68b14e316fab621da7b0c4f1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 28 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Digital Media Assistant](https://jobright.ai/jobs/info/68b12ed204557a6c207baa17?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Aug 28 |
@@ -101,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Flustra LLC](https://www.linkedin.com/company/98628733)** | **[Event Coordinator Intern](https://jobright.ai/jobs/info/68afcfc9e723db6c9b7b3d8d?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Aug 27 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[Tennis and Racquet Sport Intern](https://jobright.ai/jobs/info/68afaf0ba15ec449cbb1c3e5?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Aug 27 |
 | **[Global Cyber Security Advisory Group](https://www.globalcyberadvisory.com)** | **[🌐 Volunteer Content Creator – Cybersecurity Impact & Innovation](https://jobright.ai/jobs/info/68af9886962903596357dd10?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
-| **[Anomali](http://www.anomali.com)** | **[Digital Content Intern (Redwood City, CA) 2025](https://jobright.ai/jobs/info/68af8d11962903596357d896?utm_campaign=1053&utm_source=git)** | Redwood City, CA | On Site | Aug 27 |
+| **[Captivated Content](https://www.captivatedcontent.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/68b1ac0f1ade4306aa63126b?utm_campaign=1053&utm_source=git)** | Evansville, IN | On Site | Aug 27 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Copyeditor](https://jobright.ai/jobs/info/68af6bf12daaba398441e145?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 27 |
 | **[Pace University](http://www.pace.edu)** | **[Social Media Video Creator](https://jobright.ai/jobs/info/68af77c72daaba398441e7fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Layton City](https://www.laytoncity.org/LC/)** | **[Part-Time Museum Collections Intern](https://jobright.ai/jobs/info/68af5d3c1f0a2a568a060ee6?utm_campaign=1053&utm_source=git)** | Layton, UT | On Site | Aug 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Spiritual Life - Content Creator (FWS/NFWS)](https://jobright.ai/jobs/info/68ad04a0daf1431824c99bb1?utm_campaign=1053&utm_source=git)** | AZ Phoenix | On Site | Aug 25 |
 | **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Media Productions Student Intern](https://jobright.ai/jobs/info/68acf4cad627244576e4a1a4?utm_campaign=1053&utm_source=git)** | BYU–Hawaii | On Site | Aug 25 |
 | **[Frameshifts](https://frameshifts.org)** | **[Videographer and Editor](https://jobright.ai/jobs/info/68ace8ef758f2e4ac3009836?utm_campaign=1053&utm_source=git)** | Cambridge, MA | Hybrid | Aug 25 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68acdf16daf1431824c98d4d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 25 |
-| **[The Classic Center](http://classiccenter.com)** | **[Theater Event Planning & Front of House Internship](https://jobright.ai/jobs/info/68acccd7d627244576e493b1?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Aug 25 |
-| **[Kum & Go](https://www.kumandgo.com/)** | **[Marketing Video Production Intern](https://jobright.ai/jobs/info/68acc5e4d627244576e48ecf?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
