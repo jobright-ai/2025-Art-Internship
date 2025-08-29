@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perry Homes](http://perryhomes.com)** | **[2026 Summer Internship - Video Production - DFW](https://jobright.ai/jobs/info/68b0e8502d46f6396cae964a?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Aug 28 |
+| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '25 - WCTV](https://jobright.ai/jobs/info/68b0e7c8b47fb001d689640f?utm_campaign=1053&utm_source=git)** | Tallahassee, FL | On Site | Aug 28 |
 | **[High Hampton](https://www.highhampton.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68b0afab2d46f6396cae7b04?utm_campaign=1053&utm_source=git)** | Cashiers, NC, USA | On Site | Aug 28 |
 | **[Public Media Network](http://www.publicmedianet.org)** | **[Public Media Network Internship Program](https://jobright.ai/jobs/info/68b0cb45b47fb001d689576b?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Aug 28 |
 | **[Environmental Assessment Institute](https://www.linkedin.com/company/81619)** | **[Event Production Intern](https://jobright.ai/jobs/info/68b0aa9e13563e782a9f8513?utm_campaign=1053&utm_source=git)** | Remote Worker - N/A | Remote | Aug 28 |
@@ -112,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Video Production – BYU-Pathway Worldwide Full-Time Intern](https://jobright.ai/jobs/info/68ae36d8d627244576e526c2?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Video Prodution](https://jobright.ai/jobs/info/68ae1d1d758f2e4ac30116e9?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Aug 26 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Archives Intern](https://jobright.ai/jobs/info/68ae1ba2758f2e4ac3011545?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Aug 26 |
+| **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Latin Artist Relations (Distribution)](https://jobright.ai/jobs/info/68756cfd299cbc74b8754b5b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Video Production](https://jobright.ai/jobs/info/68ae10cddaf1431824ca0724?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 26 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/68adfd59daf1431824c9f7ce?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Aug 26 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Fall 2025)](https://jobright.ai/jobs/info/68adf252daf1431824c9f253?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Bit Gazette](www.thebitgazette.com)** | **[Crypto Journalist (unpaid internship)](https://jobright.ai/jobs/info/68abf19a758f2e4ac3002ad6?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Aug 23 |
 | **[Stephens College](http://www.stephens.edu/)** | **[Creative Hub Lab Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9b19e758f2e4ac3ffb0ef?utm_campaign=1053&utm_source=git)** | Columbia, MO | Hybrid | Aug 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68708c8006ad7073463bea4d?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Aug 23 |
-| **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Aug 22 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a955b7758f2e4ac3ff8e9f?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 22 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/66c561eb60544c52d762dd0e?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
