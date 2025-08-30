@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Impact](https://communityimpact.com)** | **[Editorial Intern Fall Internship](https://jobright.ai/jobs/info/68b2ee5ebc187f64e1bdf626?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Aug 30 |
 | **[PENNYMAC](https://www.pennymac.com)** | **[Intern](https://jobright.ai/jobs/info/68b2ddad1ade4306aa63a46b?utm_campaign=1053&utm_source=git)** | Westlake Village, CA | On Site | Aug 30 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68b2b244bc187f64e1bded18?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Aug 30 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern, ACCMe Studio and Labs (Hourly)](https://jobright.ai/jobs/info/68b2718ebc187f64e1bdb6bd?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 29 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern Fall Internship](https://jobright.ai/jobs/info/68b24d0df4e41a61efd833ed?utm_campaign=1053&utm_source=git)** | Dallas / Fort Worth Metro | On Site | Aug 29 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – MarketWatch Bureau Intern](https://jobright.ai/jobs/info/68b24b81f4e41a61efd832cc?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b2482dbc187f64e1bda44a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| ↳ | **[Summer 2026 Internship – Barron’s Reporter Intern](https://jobright.ai/jobs/info/68b246f6bc187f64e1bda364?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
+| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b247a9bc187f64e1bda3d8?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | **[SANDMARC](https://www.sandmarc.com/)** | **[Filmmaker / Cinematographer Intern](https://jobright.ai/jobs/info/68b273c9f4e41a61efd84ac6?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Aug 29 |
 | **[Arena](https://arena.run/)** | **[DJS at the Polls: Campus Organizing Intern](https://jobright.ai/jobs/info/68b27221f4e41a61efd84787?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | ↳ | **[DJs at the Polls: Social Media and Operations Intern](https://jobright.ai/jobs/info/68b2744ebc187f64e1bdbbe8?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
@@ -80,13 +80,13 @@ For a complete list, click the following sortable link below:
 | **[SVN International](https://svn.com/)** | **[Journalism Internship](https://jobright.ai/jobs/info/68b1bc99bc187f64e1bd66aa?utm_campaign=1053&utm_source=git)** | West Des Moines, IA | On Site | Aug 29 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Business](https://jobright.ai/jobs/info/68b1b91f1ade4306aa6316d1?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Aug 29 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Event Operations Intern - THE PLAYERS](https://jobright.ai/jobs/info/68814aa116ea5743a3737e09?utm_campaign=1053&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Aug 29 |
+| **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/68939723f47efe2113965364?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Aug 29 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[2025 Fall News Internship](https://jobright.ai/jobs/info/680359a9b0f813893559f241?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 29 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Columbia Pictures Creative Development Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/6894de9a73b3a600fe882e82?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 29 |
 | ↳ | **[Development Intern, Screen Gems – Fall 2025](https://jobright.ai/jobs/info/6894e04773b3a600fe882f1d?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 29 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator (TikTok)](https://jobright.ai/jobs/info/68b1889af4e41a61efd7e339?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Spotlight Media](https://www.tryspotlight.co/)** | **[TikTok Content Creator Internship (Class of 2026)](https://jobright.ai/jobs/info/68b14e316fab621da7b0c4f1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 28 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Digital Media Assistant](https://jobright.ai/jobs/info/68b12ed204557a6c207baa17?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Aug 28 |
-| **[Environmental Assessment Institute](https://www.linkedin.com/company/81619)** | **[Event Production Intern](https://jobright.ai/jobs/info/68b2837cf4e41a61efd8566c?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | **[Mada](https://themadaapp.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/68b28509bc187f64e1bdc99e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68b1256f04557a6c207ba1f4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 28 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Culinary/ Baking & Pastry Intern](https://jobright.ai/jobs/info/68b117df6fab621da7b09d1a?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Aug 28 |
