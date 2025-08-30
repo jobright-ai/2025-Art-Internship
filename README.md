@@ -76,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Berklee College of Music](http://berklee.edu)** | **[Digital Media Assistant](https://jobright.ai/jobs/info/68b12ed204557a6c207baa17?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Aug 28 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Digital News](https://jobright.ai/jobs/info/68b128086fab621da7b0a3f1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 28 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68b1256f04557a6c207ba1f4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 28 |
-| **[Environmental Assessment Institute](https://www.linkedin.com/company/81619)** | **[Event Production Intern](https://jobright.ai/jobs/info/68b11bd06fab621da7b09fe3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Culinary/ Baking & Pastry Intern](https://jobright.ai/jobs/info/68b117df6fab621da7b09d1a?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Aug 28 |
 | **[Glenwild Golf Club & Spa](https://glenwild.com)** | **[Golf Course Intern for 2026 season](https://jobright.ai/jobs/info/68b0fd5d04557a6c207b93f0?utm_campaign=1053&utm_source=git)** | Park City,UT,US | On Site | Aug 28 |
 | **[Rue Gilt Groupe](https://www.ruegiltgroupe.com/)** | **[Short-term Assistant Boutique Producer](https://jobright.ai/jobs/info/68b0fcfce815524ae11fa7b7?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Aug 28 |
@@ -87,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b18105f4e41a61efd7e0da?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 28 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b0fe0a6fab621da7b0955d?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 28 |
 | **[UnCommon Fashion](http://www.theuncommonfashion.com)** | **[UnCommon Fashion Internship Program – Fall 2025](https://jobright.ai/jobs/info/68b1303a6fab621da7b0aaa9?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
-| **[Pigeon Service](https://www.falconeradvisory.com)** | **[Intern: Podcast Production & Operations](https://jobright.ai/jobs/info/68b136f504557a6c207bb0e9?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX | On Site | Aug 28 |
 | **[High Hampton](https://www.highhampton.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68b0afab2d46f6396cae7b04?utm_campaign=1053&utm_source=git)** | Cashiers, NC, USA | On Site | Aug 28 |
 | **[Public Media Network](http://www.publicmedianet.org)** | **[Public Media Network Internship Program](https://jobright.ai/jobs/info/68b0cb45b47fb001d689576b?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Aug 28 |
 | **[Environmental Assessment Institute](https://www.linkedin.com/company/81619)** | **[Event Production Intern](https://jobright.ai/jobs/info/68b0aa9e13563e782a9f8513?utm_campaign=1053&utm_source=git)** | Remote Worker - N/A | Remote | Aug 28 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Marbles Kids Museum](https://www.marbleskidsmuseum.org/)** | **[Studio Art Intern](https://jobright.ai/jobs/info/68ad5549758f2e4ac300cb6f?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Aug 25 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Libertarian Political Commentator Intern](https://jobright.ai/jobs/info/68ad5165d627244576e4cda3?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 25 |
 | ↳ | **[Liberal Political Journalist Intern](https://jobright.ai/jobs/info/68ad5119758f2e4ac300caee?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 25 |
+| ↳ | **[Progressive Political Commentator Intern](https://jobright.ai/jobs/info/68ad5de0758f2e4ac300ce33?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 25 |
+| ↳ | **[Center-Right Conservative Political Journalist Intern](https://jobright.ai/jobs/info/68ad65a8d627244576e4da21?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
