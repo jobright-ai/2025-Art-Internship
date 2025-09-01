@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Starteryou](starteryou.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/68b51958f4e41a61efd8ddc6?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Aug 31 |
 | **[NetJets](https://www.netjets.com/)** | **[Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b4b4fcbc187f64e1be3af6?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | ↳ | **[Global 5 Senses Intern Digital Content (NJUS)](https://jobright.ai/jobs/info/68b4b4b3bc187f64e1be3ae5?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[Saphron Initiative](www.saphron.org)** | **[Guest Writer](https://jobright.ai/jobs/info/68b49f6f1ade4306aa63e9d1?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 31 |
@@ -101,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Berklee College of Music](http://berklee.edu)** | **[Digital Media Assistant](https://jobright.ai/jobs/info/68b12ed204557a6c207baa17?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Aug 28 |
 | **[Mada](https://themadaapp.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/68b28509bc187f64e1bdc99e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68b1256f04557a6c207ba1f4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 28 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68b51902bc187f64e1be4cbb?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 28 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Culinary/ Baking & Pastry Intern](https://jobright.ai/jobs/info/68b117df6fab621da7b09d1a?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Aug 28 |
 | **[Granite School District](http://www.graniteschools.org)** | **[Stage Crew - Student](https://jobright.ai/jobs/info/68b2deaa1ade4306aa63a4b4?utm_campaign=1053&utm_source=git)** | West Valley City, UT | On Site | Aug 28 |
 | **[Cosm](https://www.cosm.com)** | **[Broadcast Operations Intern](https://jobright.ai/jobs/info/6893c598f47efe2113966dcd?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 28 |
@@ -108,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Rue Gilt Groupe](https://www.ruegiltgroupe.com/)** | **[Short-term Assistant Boutique Producer](https://jobright.ai/jobs/info/68b0fcfce815524ae11fa7b7?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Aug 28 |
 | **[Spotlight Media](https://www.tryspotlight.co/)** | **[TikTok Content Creator Internship (Class of 2026)](https://jobright.ai/jobs/info/68b1818ebc187f64e1bd5228?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 28 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Culinary, Food & Beverage (Spring 2026)](https://jobright.ai/jobs/info/68b0f6f76fab621da7b08ea4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 28 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a955b7758f2e4ac3ff8e9f?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 28 |
 | **[Perry Homes](http://perryhomes.com)** | **[2026 Summer Internship - Video Production - DFW](https://jobright.ai/jobs/info/68b0e8502d46f6396cae964a?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Aug 28 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '25 - WCTV](https://jobright.ai/jobs/info/68b0e7c8b47fb001d689640f?utm_campaign=1053&utm_source=git)** | Tallahassee, FL | On Site | Aug 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern Fall Semester, Harlingen, TX](https://jobright.ai/jobs/info/685afeea40f786444442368c?utm_campaign=1053&utm_source=git)** | Brownsville, TX | On Site | Aug 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c55a2f06c9231327cd815a?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Aug 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern (In-Person) Fall 2025](https://jobright.ai/jobs/info/6875b171299cbc74b8756ffe?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Aug 27 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e999e6db7f8d0179242dd?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Aug 27 |
-| **[City of Boca Raton](http://www.myboca.us)** | **[Tennis and Racquet Sport Intern](https://jobright.ai/jobs/info/68b2c10cf4e41a61efd87dc4?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Aug 27 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a9643e758f2e4ac3ff9524?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 26 |
-| **[Kane Realty Corporation](http://kanerealtycorp.com)** | **[Special Events Internship](https://jobright.ai/jobs/info/68aec81f2daaba398441a38e?utm_campaign=1053&utm_source=git)** | Pittsboro, NC | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
