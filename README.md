@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[NetJets](https://www.netjets.com/)** | **[Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b4b4fcbc187f64e1be3af6?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | ↳ | **[Global 5 Senses Intern Digital Content (NJUS)](https://jobright.ai/jobs/info/68b4b4b3bc187f64e1be3ae5?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[Saphron Initiative](www.saphron.org)** | **[Guest Writer](https://jobright.ai/jobs/info/68b49f6f1ade4306aa63e9d1?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 31 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.50/HR](https://jobright.ai/jobs/info/6842fb717f2906af4687a8ce?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Aug 30 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/68b34b5fbc187f64e1be00b1?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Aug 30 |
 | **[Opus](https://www.opusbehavioral.com)** | **[Production Intern](https://jobright.ai/jobs/info/68b3c1581ade4306aa63bf83?utm_campaign=1053&utm_source=git)** | Miami Gardens, FL | On Site | Aug 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, Unpaid](https://jobright.ai/jobs/info/68870b414174df41e0f9c897?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Aug 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Boca Raton](http://www.myboca.us)** | **[Tennis and Racquet Sport Intern](https://jobright.ai/jobs/info/68b2c10cf4e41a61efd87dc4?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Aug 27 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68a9643e758f2e4ac3ff9524?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Aug 26 |
 | **[Kane Realty Corporation](http://kanerealtycorp.com)** | **[Special Events Internship](https://jobright.ai/jobs/info/68aec81f2daaba398441a38e?utm_campaign=1053&utm_source=git)** | Pittsboro, NC | On Site | Aug 26 |
-| **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Video Editing & Studio Assistant Internship](https://jobright.ai/jobs/info/68ae81d1d627244576e548b8?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
