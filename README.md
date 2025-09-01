@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hostelling International USA (HI USA)](https://www.hiusa.org/)** | **[Volunteer: Bring international visitors to Salem, the "Witch City!" - Local Salem Guide](https://jobright.ai/jobs/info/68b558febc187f64e1be6789?utm_campaign=1053&utm_source=git)** | Salem, MA | On Site | Sep 01 |
 | **[American Public Health Association](https://www.apha.org)** | **[The Nation's Health Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b549f5bc187f64e1be5fe0?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/68b535cebc187f64e1be5b84?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Aug 31 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Corporate Archives Internship - Summer 2026](https://jobright.ai/jobs/info/68b5268bbc187f64e1be559d?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 27 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Progressive Political Commentator Intern](https://jobright.ai/jobs/info/68af222f7bcb7608b3d2b064?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 27 |
 | ↳ | **[Libertarian Political Commentator Intern](https://jobright.ai/jobs/info/68af21f77bcb7608b3d2b047?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 27 |
-| ↳ | **[Center-Right Conservative Political Journalist Intern](https://jobright.ai/jobs/info/68af1a021f0a2a568a05f09f?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
