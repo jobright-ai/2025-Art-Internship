@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hoop Brothers](https://hoopbrothers.com/)** | **[Sports Game Film Analyst](https://jobright.ai/jobs/info/68b5e4fd1ade4306aa643798?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
+| **[Nemacolin](http://www.nemacolin.com)** | **[Recreation Entertainment Internship - Summer 2026](https://jobright.ai/jobs/info/68b6078cf4e41a61efd91bd7?utm_campaign=1053&utm_source=git)** | Farmington, PA | On Site | Sep 01 |
+| ↳ | **[Golf Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68b606481ade4306aa643c20?utm_campaign=1053&utm_source=git)** | Farmington, PA | On Site | Sep 01 |
+| **[Hoop Brothers](https://hoopbrothers.com/)** | **[Hoop Brothers Internship – Logistics & Production](https://jobright.ai/jobs/info/68b6043ef4e41a61efd91b71?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
+| ↳ | **[Hoop Brothers Internship – Videographer & Content Editing](https://jobright.ai/jobs/info/68b6041ff4e41a61efd91b66?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 01 |
+| ↳ | **[Sports Game Film Analyst](https://jobright.ai/jobs/info/68b5e4fd1ade4306aa643798?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Montage International](https://www.montageinternational.com)** | **[Rooms Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d60?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Sep 01 |
 | **[Hostelling International USA (HI USA)](https://www.hiusa.org/)** | **[Volunteer: Bring international visitors to Salem, the "Witch City!" - Local Salem Guide](https://jobright.ai/jobs/info/68b558febc187f64e1be6789?utm_campaign=1053&utm_source=git)** | Salem, MA | On Site | Sep 01 |
 | **[American Public Health Association](https://www.apha.org)** | **[The Nation's Health Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b549f5bc187f64e1be5fe0?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Corporate Archives Internship - Summer 2026](https://jobright.ai/jobs/info/68b536b8f4e41a61efd8eb07?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 31 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/68b535cebc187f64e1be5b84?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Aug 31 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Corporate Archives Internship - Summer 2026](https://jobright.ai/jobs/info/68b5268bbc187f64e1be559d?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 31 |
 | **[NetJets](https://www.netjets.com/)** | **[Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b4b4fcbc187f64e1be3af6?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | ↳ | **[Global 5 Senses Intern Digital Content (NJUS)](https://jobright.ai/jobs/info/68b4b4b3bc187f64e1be3ae5?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[GitPart](gitpart.com)** | **[Fall Intern](https://jobright.ai/jobs/info/68b519e61ade4306aa63fe2a?utm_campaign=1053&utm_source=git)** | Fond du Lac, WI | On Site | Aug 31 |
@@ -81,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Austin Community College](http://austincc.edu)** | **[Intern, ACCMe Studio and Labs (Hourly)](https://jobright.ai/jobs/info/68b2718ebc187f64e1bdb6bd?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 29 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern Fall Internship](https://jobright.ai/jobs/info/68b24d0df4e41a61efd833ed?utm_campaign=1053&utm_source=git)** | Dallas / Fort Worth Metro | On Site | Aug 29 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – MarketWatch Bureau Intern](https://jobright.ai/jobs/info/68b24b81f4e41a61efd832cc?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b2482dbc187f64e1bda44a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
+| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b247a9bc187f64e1bda3d8?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | **[SANDMARC](https://www.sandmarc.com/)** | **[Filmmaker / Cinematographer Intern](https://jobright.ai/jobs/info/68b273c9f4e41a61efd84ac6?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Aug 29 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Photography/Videography Intern](https://jobright.ai/jobs/info/68b20c48f4e41a61efd81e43?utm_campaign=1053&utm_source=git)** | Matthews, NC | On Site | Aug 29 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern, ACCMe Studio and Labs (Hourly)](https://jobright.ai/jobs/info/68b243e6bc187f64e1bda2e2?utm_campaign=1053&utm_source=git)** | Highland Campus | On Site | Aug 29 |
@@ -141,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68b5b6daf4e41a61efd90f94?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Aug 28 |
 | **[WESH 2 CW18](http://wesh.com)** | **[WESH Intern](https://jobright.ai/jobs/info/68467c30757d449490e9be5b?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Aug 28 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68b59ed2bc187f64e1be78a4?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 28 |
-| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/68b575bfbc187f64e1be6cd0?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Aug 28 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6878b59dd444e1727b2def15?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Aug 28 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908051?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 27 |
 | **[Klinn](https://klinn.works)** | **[UGC Intern](https://jobright.ai/jobs/info/68afe00c13563e782a9f20dd?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Copyeditor](https://jobright.ai/jobs/info/68af6bf12daaba398441e145?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 27 |
 | **[Pace University](http://www.pace.edu)** | **[Social Media Video Creator](https://jobright.ai/jobs/info/68af77c72daaba398441e7fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Layton City](https://www.laytoncity.org/LC/)** | **[Part-Time Museum Collections Intern](https://jobright.ai/jobs/info/68af5d3c1f0a2a568a060ee6?utm_campaign=1053&utm_source=git)** | Layton, UT | On Site | Aug 27 |
-| **[Connelly Partners](http://www.connellypartners.com)** | **[Maker Studio Intern](https://jobright.ai/jobs/info/68af53e32daaba398441d42a?utm_campaign=1053&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 27 |
-| **[Utah Jazz](http://www.nba.com/jazz)** | **[Social Video Intern](https://jobright.ai/jobs/info/68af4a7e1f0a2a568a060502?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Aug 27 |
-| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
