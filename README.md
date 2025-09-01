@@ -62,10 +62,8 @@ For a complete list, click the following sortable link below:
 | **[American Public Health Association](https://www.apha.org)** | **[The Nation's Health Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b549f5bc187f64e1be5fe0?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/68b535cebc187f64e1be5b84?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Aug 31 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Corporate Archives Internship - Summer 2026](https://jobright.ai/jobs/info/68b5268bbc187f64e1be559d?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 31 |
-| **[Starteryou](starteryou.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/68b51958f4e41a61efd8ddc6?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Aug 31 |
 | **[NetJets](https://www.netjets.com/)** | **[Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b4b4fcbc187f64e1be3af6?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | ↳ | **[Global 5 Senses Intern Digital Content (NJUS)](https://jobright.ai/jobs/info/68b4b4b3bc187f64e1be3ae5?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
-| **[Saphron Initiative](www.saphron.org)** | **[Guest Writer](https://jobright.ai/jobs/info/68b49f6f1ade4306aa63e9d1?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 31 |
 | **[GitPart](gitpart.com)** | **[Fall Intern](https://jobright.ai/jobs/info/68b519e61ade4306aa63fe2a?utm_campaign=1053&utm_source=git)** | Fond du Lac, WI | On Site | Aug 31 |
 | **[Constella](https://www.constella.app/)** | **[Creator — Internship](https://jobright.ai/jobs/info/68b51a531ade4306aa63ff0c?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 31 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern - Fall Semester](https://jobright.ai/jobs/info/688704264174df41e0f9c0c9?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | On Site | Aug 30 |
@@ -82,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Austin Community College](http://austincc.edu)** | **[Intern, ACCMe Studio and Labs (Hourly)](https://jobright.ai/jobs/info/68b2718ebc187f64e1bdb6bd?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 29 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern Fall Internship](https://jobright.ai/jobs/info/68b24d0df4e41a61efd833ed?utm_campaign=1053&utm_source=git)** | Dallas / Fort Worth Metro | On Site | Aug 29 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – MarketWatch Bureau Intern](https://jobright.ai/jobs/info/68b24b81f4e41a61efd832cc?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b2482dbc187f64e1bda44a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
+| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b247a9bc187f64e1bda3d8?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | **[SANDMARC](https://www.sandmarc.com/)** | **[Filmmaker / Cinematographer Intern](https://jobright.ai/jobs/info/68b273c9f4e41a61efd84ac6?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Aug 29 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Photography/Videography Intern](https://jobright.ai/jobs/info/68b20c48f4e41a61efd81e43?utm_campaign=1053&utm_source=git)** | Matthews, NC | On Site | Aug 29 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern, ACCMe Studio and Labs (Hourly)](https://jobright.ai/jobs/info/68b243e6bc187f64e1bda2e2?utm_campaign=1053&utm_source=git)** | Highland Campus | On Site | Aug 29 |
@@ -90,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Sound & Audio Assistant](https://jobright.ai/jobs/info/68b30f04f4e41a61efd88911?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 29 |
 | **[Techyries](https://www.linktr.ee/techyries)** | **[Writing Intern (unpaid)](https://jobright.ai/jobs/info/68b1f20a1ade4306aa633111?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – MarketWatch Bureau Intern](https://jobright.ai/jobs/info/68b1e8f9bc187f64e1bd7c02?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
-| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b1e77cf4e41a61efd809c5?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
+| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b1e8f41ade4306aa632ccf?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | ↳ | **[Summer 2026 Internship – Barron’s Reporter Intern](https://jobright.ai/jobs/info/68b1e6bbbc187f64e1bd79f5?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | **[The Information](https://www.theinformation.com)** | **[2026 Summer Editorial Intern](https://jobright.ai/jobs/info/688d139a3a30793eb96485ce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[GAWNE](https://open.spotify.com/artist/7matqk3epcmZaikm34GB3T)** | **[Creative Videographer Intern](https://jobright.ai/jobs/info/68b1d9951ade4306aa6323fc?utm_campaign=1053&utm_source=git)** | Oak Park, IL | On Site | Aug 29 |
@@ -104,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[2025 Fall News Internship](https://jobright.ai/jobs/info/680359a9b0f813893559f241?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Aug 29 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Columbia Pictures Creative Development Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/6894de9a73b3a600fe882e82?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 29 |
 | ↳ | **[Development Intern, Screen Gems – Fall 2025](https://jobright.ai/jobs/info/6894e04773b3a600fe882f1d?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Aug 29 |
-| **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator (TikTok)](https://jobright.ai/jobs/info/68b1889af4e41a61efd7e339?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Spotlight Media](https://www.tryspotlight.co/)** | **[TikTok Content Creator Internship (Class of 2026)](https://jobright.ai/jobs/info/68b14e316fab621da7b0c4f1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 28 |
 | **[FalconViz](http://www.falconviz.com/)** | **[Media Internship](https://jobright.ai/jobs/info/68b3e312bc187f64e1be2074?utm_campaign=1053&utm_source=git)** | Clackamas County, OR | On Site | Aug 28 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Digital Media Assistant](https://jobright.ai/jobs/info/68b12ed204557a6c207baa17?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Aug 28 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Pace University](http://www.pace.edu)** | **[Social Media Video Creator](https://jobright.ai/jobs/info/68af77c72daaba398441e7fe?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Layton City](https://www.laytoncity.org/LC/)** | **[Part-Time Museum Collections Intern](https://jobright.ai/jobs/info/68af5d3c1f0a2a568a060ee6?utm_campaign=1053&utm_source=git)** | Layton, UT | On Site | Aug 27 |
 | **[Connelly Partners](http://www.connellypartners.com)** | **[Maker Studio Intern](https://jobright.ai/jobs/info/68af53e32daaba398441d42a?utm_campaign=1053&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 27 |
+| **[Utah Jazz](http://www.nba.com/jazz)** | **[Social Video Intern](https://jobright.ai/jobs/info/68af4a7e1f0a2a568a060502?utm_campaign=1053&utm_source=git)** | Sandy, UT | On Site | Aug 27 |
+| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Aug 27 |
+| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Progressive Political Commentator Intern](https://jobright.ai/jobs/info/68af222f7bcb7608b3d2b064?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
