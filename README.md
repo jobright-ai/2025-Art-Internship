@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Corporate Archives Internship - Summer 2026](https://jobright.ai/jobs/info/68b5268bbc187f64e1be559d?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 31 |
 | **[Starteryou](starteryou.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/68b51958f4e41a61efd8ddc6?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Aug 31 |
 | **[NetJets](https://www.netjets.com/)** | **[Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b4b4fcbc187f64e1be3af6?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | ↳ | **[Global 5 Senses Intern Digital Content (NJUS)](https://jobright.ai/jobs/info/68b4b4b3bc187f64e1be3ae5?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[Saphron Initiative](www.saphron.org)** | **[Guest Writer](https://jobright.ai/jobs/info/68b49f6f1ade4306aa63e9d1?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 31 |
+| **[GitPart](gitpart.com)** | **[Fall Intern](https://jobright.ai/jobs/info/68b519e61ade4306aa63fe2a?utm_campaign=1053&utm_source=git)** | Fond du Lac, WI | On Site | Aug 31 |
+| **[Constella](https://www.constella.app/)** | **[Creator — Internship](https://jobright.ai/jobs/info/68b51a531ade4306aa63ff0c?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 31 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern - Fall Semester](https://jobright.ai/jobs/info/688704264174df41e0f9c0c9?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | On Site | Aug 30 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.50/HR](https://jobright.ai/jobs/info/6842fb717f2906af4687a8ce?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Aug 30 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/68b34b5fbc187f64e1be00b1?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Aug 30 |
 | **[Opus](https://www.opusbehavioral.com)** | **[Production Intern](https://jobright.ai/jobs/info/68b3c1581ade4306aa63bf83?utm_campaign=1053&utm_source=git)** | Miami Gardens, FL | On Site | Aug 30 |
@@ -82,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Sound & Audio Assistant](https://jobright.ai/jobs/info/68b30f04f4e41a61efd88911?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 29 |
 | **[Techyries](https://www.linktr.ee/techyries)** | **[Writing Intern (unpaid)](https://jobright.ai/jobs/info/68b1f20a1ade4306aa633111?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – MarketWatch Bureau Intern](https://jobright.ai/jobs/info/68b1e8f9bc187f64e1bd7c02?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
-| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b1e8f41ade4306aa632ccf?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
+| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b1e77cf4e41a61efd809c5?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | ↳ | **[Summer 2026 Internship – Barron’s Reporter Intern](https://jobright.ai/jobs/info/68b1e6bbbc187f64e1bd79f5?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | **[The Information](https://www.theinformation.com)** | **[2026 Summer Editorial Intern](https://jobright.ai/jobs/info/688d139a3a30793eb96485ce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[GAWNE](https://open.spotify.com/artist/7matqk3epcmZaikm34GB3T)** | **[Creative Videographer Intern](https://jobright.ai/jobs/info/68b1d9951ade4306aa6323fc?utm_campaign=1053&utm_source=git)** | Oak Park, IL | On Site | Aug 29 |
@@ -102,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Berklee College of Music](http://berklee.edu)** | **[Digital Media Assistant](https://jobright.ai/jobs/info/68b12ed204557a6c207baa17?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Aug 28 |
 | **[Mada](https://themadaapp.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/68b28509bc187f64e1bdc99e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68b1256f04557a6c207ba1f4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 28 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68b51902bc187f64e1be4cbb?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 28 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Culinary/ Baking & Pastry Intern](https://jobright.ai/jobs/info/68b117df6fab621da7b09d1a?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Aug 28 |
 | **[Granite School District](http://www.graniteschools.org)** | **[Stage Crew - Student](https://jobright.ai/jobs/info/68b2deaa1ade4306aa63a4b4?utm_campaign=1053&utm_source=git)** | West Valley City, UT | On Site | Aug 28 |
 | **[Cosm](https://www.cosm.com)** | **[Broadcast Operations Intern](https://jobright.ai/jobs/info/6893c598f47efe2113966dcd?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Center-Right Conservative Political Journalist Intern](https://jobright.ai/jobs/info/68af1a021f0a2a568a05f09f?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Aug 27 |
 | ↳ | **[International Reporter Intern](https://jobright.ai/jobs/info/68af194a2daaba398441b976?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Aug 27 |
 | **[PGA of America](http://www.pga.com)** | **[Intern, Member and Amateur Championships](https://jobright.ai/jobs/info/68af13337bcb7608b3d2ab8e?utm_campaign=1053&utm_source=git)** | Remote Jobs | Remote | Aug 27 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c55a2f06c9231327cd815a?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Aug 27 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern (In-Person) Fall 2025](https://jobright.ai/jobs/info/6875b171299cbc74b8756ffe?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Aug 27 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/681e999e6db7f8d0179242dd?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
