@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Cast Activities Intern, Spring 2026](https://jobright.ai/jobs/info/68b69f52f4e41a61efd93d5e?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Sep 02 |
+| **[TCE - Global Influencer Agency](https://thecrazyentrepreneur.com/)** | **[Content creator intern](https://jobright.ai/jobs/info/68b68f7d1ade4306aa645a72?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Yellow Shoes Innovation Producer Intern, Spring 2026](https://jobright.ai/jobs/info/68b67860f4e41a61efd9359a?utm_campaign=1053&utm_source=git)** | Celebration, FL, USA | Hybrid | Sep 01 |
 | ↳ | **[Disney Programs Digital Content Intern, Spring 2026](https://jobright.ai/jobs/info/68b6724a1ade4306aa64506c?utm_campaign=1053&utm_source=git)** | Winter Garden, FL, USA | Hybrid | Sep 01 |
 | ↳ | **[Video & Multimedia Intern, Spring 2026](https://jobright.ai/jobs/info/68b672421ade4306aa645069?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Sep 01 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, Unpaid](https://jobright.ai/jobs/info/68870b414174df41e0f9c897?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Aug 30 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern Fall Internship](https://jobright.ai/jobs/info/68b2ee5ebc187f64e1bdf626?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Aug 30 |
 | **[PENNYMAC](https://www.pennymac.com)** | **[Intern](https://jobright.ai/jobs/info/68b2ddad1ade4306aa63a46b?utm_campaign=1053&utm_source=git)** | Westlake Village, CA | On Site | Aug 30 |
-| **[University of Michigan](https://www.umich.edu)** | **[Art Studio Assistant (Student/Work Study)](https://jobright.ai/jobs/info/68b1404be815524ae11fce75?utm_campaign=1053&utm_source=git)** | Flint, MI | On Site | Aug 30 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/6898375e83d13d1f5b68bfd0?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/683d27a9e3502e937bcb1103?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Aug 30 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68b2b244bc187f64e1bded18?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Aug 30 |
@@ -96,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Austin Community College](http://austincc.edu)** | **[Intern, ACCMe Studio and Labs (Hourly)](https://jobright.ai/jobs/info/68b2718ebc187f64e1bdb6bd?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 29 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern Fall Internship](https://jobright.ai/jobs/info/68b24d0df4e41a61efd833ed?utm_campaign=1053&utm_source=git)** | Dallas / Fort Worth Metro | On Site | Aug 29 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – MarketWatch Bureau Intern](https://jobright.ai/jobs/info/68b24b81f4e41a61efd832cc?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b247a9bc187f64e1bda3d8?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
+| ↳ | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b2482dbc187f64e1bda44a?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Photography/Videography Intern](https://jobright.ai/jobs/info/68b20c48f4e41a61efd81e43?utm_campaign=1053&utm_source=git)** | Matthews, NC | On Site | Aug 29 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern, ACCMe Studio and Labs (Hourly)](https://jobright.ai/jobs/info/68b243e6bc187f64e1bda2e2?utm_campaign=1053&utm_source=git)** | Highland Campus | On Site | Aug 29 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Sound & Audio Assistant](https://jobright.ai/jobs/info/68b30f04f4e41a61efd88911?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 29 |
@@ -136,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern Fall Semester, Harlingen, TX](https://jobright.ai/jobs/info/685afeea40f786444442368c?utm_campaign=1053&utm_source=git)** | Brownsville, TX | On Site | Aug 28 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b18105f4e41a61efd7e0da?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 28 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b0fe0a6fab621da7b0955d?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Aug 28 |
-| **[UnCommon Fashion](http://www.theuncommonfashion.com)** | **[UnCommon Fashion Internship Program – Fall 2025](https://jobright.ai/jobs/info/68b1303a6fab621da7b0aaa9?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | **[High Hampton](https://www.highhampton.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68b0afab2d46f6396cae7b04?utm_campaign=1053&utm_source=git)** | Cashiers, NC, USA | On Site | Aug 28 |
 | **[Public Media Network](http://www.publicmedianet.org)** | **[Public Media Network Internship Program](https://jobright.ai/jobs/info/68b0cb45b47fb001d689576b?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Aug 28 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Hilton Cleveland Downtown](https://jobright.ai/jobs/info/68b0caf02d46f6396cae8988?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Aug 28 |
