@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f0a9d764c3d7411c48647?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Cast Activities Intern, Spring 2026](https://jobright.ai/jobs/info/68b69f52f4e41a61efd93d5e?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Sep 02 |
 | **[TCE - Global Influencer Agency](https://thecrazyentrepreneur.com/)** | **[Content creator intern](https://jobright.ai/jobs/info/68b68f7d1ade4306aa645a72?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Yellow Shoes Innovation Producer Intern, Spring 2026](https://jobright.ai/jobs/info/68b67860f4e41a61efd9359a?utm_campaign=1053&utm_source=git)** | Celebration, FL, USA | Hybrid | Sep 01 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[American Public Health Association](https://www.apha.org)** | **[The Nation's Health Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b685b41ade4306aa6458c1?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 01 |
 | **[Hostelling International USA (HI USA)](https://www.hiusa.org/)** | **[Volunteer: Bring international visitors to Salem, the "Witch City!" - Local Salem Guide](https://jobright.ai/jobs/info/68b558febc187f64e1be6789?utm_campaign=1053&utm_source=git)** | Salem, MA | On Site | Sep 01 |
 | **[American Public Health Association](https://www.apha.org)** | **[The Nation's Health Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b549f5bc187f64e1be5fe0?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Corporate Archives Internship - Summer 2026](https://jobright.ai/jobs/info/68b536b8f4e41a61efd8eb07?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 31 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/68b535cebc187f64e1be5b84?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Aug 31 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Corporate Archives Internship - Summer 2026](https://jobright.ai/jobs/info/68b5268bbc187f64e1be559d?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 31 |
 | **[Popstock Educational Services](https://popstock.io/)** | **[Volunteer 3D Modeler & Animator (Unreal Engine) – Remote, U.S. Only](https://jobright.ai/jobs/info/68b678241ade4306aa6453e7?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Aug 31 |
 | **[NetJets](https://www.netjets.com/)** | **[Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b4b4fcbc187f64e1be3af6?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | ↳ | **[Global 5 Senses Intern Digital Content (NJUS)](https://jobright.ai/jobs/info/68b4b4b3bc187f64e1be3ae5?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6878b59dd444e1727b2def15?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Aug 28 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be908051?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Aug 27 |
 | **[Klinn](https://klinn.works)** | **[UGC Intern](https://jobright.ai/jobs/info/68afe00c13563e782a9f20dd?utm_campaign=1053&utm_source=git)** | United States | Remote | Aug 27 |
-| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Progressive Political Commentator Intern](https://jobright.ai/jobs/info/68afdaceb47fb001d688df05?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
