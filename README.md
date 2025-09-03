@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bishop Fox](https://bishopfox.com)** | **[Video Content Intern](https://jobright.ai/jobs/info/689bb14b79a9f96662532c13?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Sep 03 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f10a4764c3d7411c4892f?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 03 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/689bba8579a9f966625334d3?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Sep 03 |
 | **[American Antiquarian Society](https://www.americanantiquarian.org/)** | **[Seiler Library Internship (Spring 2026, 10 weeks)](https://jobright.ai/jobs/info/68b7c045a10b650604b60277?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Sep 02 |
 | **[Licensed to Glow](https://www.licensedtoglow.com/)** | **[UGC Intern (NYC or DMV)](https://jobright.ai/jobs/info/68b7b627effbb9793f7b7494?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 02 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Content Video Intern](https://jobright.ai/jobs/info/68b774e7f4e41a61efd99195?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 02 |
@@ -87,6 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Social & Digital Content Production](https://jobright.ai/jobs/info/689a88defaa4e875e8259793?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Sep 02 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f0a9d764c3d7411c48647?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Cast Activities Intern, Spring 2026](https://jobright.ai/jobs/info/68b69f52f4e41a61efd93d5e?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Sep 02 |
+| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Video Production (Internship)](https://jobright.ai/jobs/info/68b74407f4e41a61efd97669?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Yellow Shoes Innovation Producer Intern, Spring 2026](https://jobright.ai/jobs/info/68b67860f4e41a61efd9359a?utm_campaign=1053&utm_source=git)** | Celebration, FL, USA | Hybrid | Sep 01 |
 | ↳ | **[Disney Programs Digital Content Intern, Spring 2026](https://jobright.ai/jobs/info/68b6724a1ade4306aa64506c?utm_campaign=1053&utm_source=git)** | Winter Garden, FL, USA | Hybrid | Sep 01 |
 | ↳ | **[Video & Multimedia Intern, Spring 2026](https://jobright.ai/jobs/info/68b672421ade4306aa645069?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Sep 01 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68b646f6f4e41a61efd9221d?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Sep 01 |
 | **[Houston Ballet](https://www.houstonballet.org/)** | **[Part-time Development Intern (VIP Experience Associate)](https://jobright.ai/jobs/info/68b7882f2124650c140237a0?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Sep 01 |
 | **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Event Services (Part-time)](https://jobright.ai/jobs/info/68b73abb2124650c140206e7?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
-| ↳ | **[Intern, Video Production (Part-time)](https://jobright.ai/jobs/info/68b74407f4e41a61efd97669?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Media Videographer - Student Employment](https://jobright.ai/jobs/info/68b77dcd1ade4306aa64b55a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
 | **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Game & Event Presentation (Part-time)](https://jobright.ai/jobs/info/68b74bf9f4e41a61efd97e0f?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
 | **[Nemacolin](http://www.nemacolin.com)** | **[Recreation Entertainment Internship - Summer 2026](https://jobright.ai/jobs/info/68b6078cf4e41a61efd91bd7?utm_campaign=1053&utm_source=git)** | Farmington, PA | On Site | Sep 01 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[American Public Health Association](https://www.apha.org)** | **[The Nation's Health Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b685b41ade4306aa6458c1?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 01 |
 | **[Hostelling International USA (HI USA)](https://www.hiusa.org/)** | **[Volunteer: Bring international visitors to Salem, the "Witch City!" - Local Salem Guide](https://jobright.ai/jobs/info/68b558febc187f64e1be6789?utm_campaign=1053&utm_source=git)** | Salem, MA | On Site | Sep 01 |
 | **[American Public Health Association](https://www.apha.org)** | **[The Nation's Health Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b549f5bc187f64e1be5fe0?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Corporate Archives Internship - Summer 2026](https://jobright.ai/jobs/info/68b536b8f4e41a61efd8eb07?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 31 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/68b535cebc187f64e1be5b84?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Aug 31 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Corporate Archives Internship - Summer 2026](https://jobright.ai/jobs/info/68b5268bbc187f64e1be559d?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 31 |
 | **[Popstock Educational Services](https://popstock.io/)** | **[Volunteer 3D Modeler & Animator (Unreal Engine) – Remote, U.S. Only](https://jobright.ai/jobs/info/68b678241ade4306aa6453e7?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Aug 31 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67d09040b14899d0fd695ef4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 31 |
 | **[NetJets](https://www.netjets.com/)** | **[Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b4b4fcbc187f64e1be3af6?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Berklee College of Music](http://berklee.edu)** | **[Digital Media Assistant](https://jobright.ai/jobs/info/68b12ed204557a6c207baa17?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Aug 28 |
 | **[Mada](https://themadaapp.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/68b28509bc187f64e1bdc99e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68b1256f04557a6c207ba1f4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 28 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68b7c61a0514b74d7c3ea122?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Aug 28 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Culinary/ Baking & Pastry Intern](https://jobright.ai/jobs/info/68b117df6fab621da7b09d1a?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Aug 28 |
 | **[Granite School District](http://www.graniteschools.org)** | **[Stage Crew - Student](https://jobright.ai/jobs/info/68b2deaa1ade4306aa63a4b4?utm_campaign=1053&utm_source=git)** | West Valley City, UT | On Site | Aug 28 |
-| **[Cosm](https://www.cosm.com)** | **[Broadcast Operations Intern](https://jobright.ai/jobs/info/6893c598f47efe2113966dcd?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
