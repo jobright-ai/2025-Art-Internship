@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Phoenix Suns](https://suns.nba.com)** | **[Content Video Intern](https://jobright.ai/jobs/info/68b774e7f4e41a61efd99195?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 02 |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68b76efe1ade4306aa64aecf?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 02 |
 | **[The MY HERO Project](https://myhero.com/)** | **[Film Festival Intern](https://jobright.ai/jobs/info/68b75ebdf4e41a61efd98822?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 02 |
+| **[Mainsail Lodging & Development](http://mainsailhotels.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68b775eb2124650c14022e1c?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Sep 02 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-Main Golf Shop-Seasonal](https://jobright.ai/jobs/info/68b748a31ade4306aa649a57?utm_campaign=1053&utm_source=git)** | Pinehurst, NC | On Site | Sep 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68b7459b2124650c140213c2?utm_campaign=1053&utm_source=git)** | Johnson City, TN | On Site | Sep 02 |
 | **[Winsupply](http://www.winsupplyinc.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/68b73dd52124650c14020c01?utm_campaign=1053&utm_source=git)** | 3110 Kettering Blvd, Moraine, OH 45439, USA | On Site | Sep 02 |
@@ -86,10 +89,11 @@ For a complete list, click the following sortable link below:
 | **[Berklee College of Music](http://berklee.edu)** | **[TikTok Content Creator](https://jobright.ai/jobs/info/68b671751ade4306aa64503c?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Sep 01 |
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[Animation Intern](https://jobright.ai/jobs/info/68b64a341ade4306aa6442ba?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 01 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68b646f6f4e41a61efd9221d?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Sep 01 |
-| **[Cerfi](https://www.linkedin.com/company/69430291)** | **[Work From Home Internships](https://jobright.ai/jobs/info/68b6edfc2124650c1401e6b2?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Sep 01 |
-| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Event Services (Part-time)](https://jobright.ai/jobs/info/68b73abb2124650c140206e7?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
-| ↳ | **[Intern, Video Production (Part-time)](https://jobright.ai/jobs/info/68b74407f4e41a61efd97669?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
-| ↳ | **[Intern, Game & Event Presentation (Part-time)](https://jobright.ai/jobs/info/68b74bf9f4e41a61efd97e0f?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
+| **[Cerfi](https://www.linkedin.com/company/69430291)** | **[Work From Home Internships](https://jobright.ai/jobs/info/68b6e9621ade4306aa6468d0?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Sep 01 |
+| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Video Production (Part-time)](https://jobright.ai/jobs/info/68b74407f4e41a61efd97669?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
+| ↳ | **[Intern, Event Services (Part-time)](https://jobright.ai/jobs/info/68b73abb2124650c140206e7?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Media Videographer - Student Employment](https://jobright.ai/jobs/info/68b77dcd1ade4306aa64b55a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
+| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Game & Event Presentation (Part-time)](https://jobright.ai/jobs/info/68b74bf9f4e41a61efd97e0f?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
 | **[Nemacolin](http://www.nemacolin.com)** | **[Recreation Entertainment Internship - Summer 2026](https://jobright.ai/jobs/info/68b6078cf4e41a61efd91bd7?utm_campaign=1053&utm_source=git)** | Farmington, PA | On Site | Sep 01 |
 | ↳ | **[Golf Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68b606481ade4306aa643c20?utm_campaign=1053&utm_source=git)** | Farmington, PA | On Site | Sep 01 |
 | **[Hoop Brothers](https://hoopbrothers.com/)** | **[Hoop Brothers Internship – Logistics & Production](https://jobright.ai/jobs/info/68b6043ef4e41a61efd91b71?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
@@ -103,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[American Public Health Association](https://www.apha.org)** | **[The Nation's Health Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b685b41ade4306aa6458c1?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 01 |
 | **[Hostelling International USA (HI USA)](https://www.hiusa.org/)** | **[Volunteer: Bring international visitors to Salem, the "Witch City!" - Local Salem Guide](https://jobright.ai/jobs/info/68b558febc187f64e1be6789?utm_campaign=1053&utm_source=git)** | Salem, MA | On Site | Sep 01 |
 | **[American Public Health Association](https://www.apha.org)** | **[The Nation's Health Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b549f5bc187f64e1be5fe0?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Corporate Archives Internship - Summer 2026](https://jobright.ai/jobs/info/68b536b8f4e41a61efd8eb07?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 31 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/68b535cebc187f64e1be5b84?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Aug 31 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Corporate Archives Internship - Summer 2026](https://jobright.ai/jobs/info/68b5268bbc187f64e1be559d?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 31 |
 | **[Popstock Educational Services](https://popstock.io/)** | **[Volunteer 3D Modeler & Animator (Unreal Engine) – Remote, U.S. Only](https://jobright.ai/jobs/info/68b678241ade4306aa6453e7?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Aug 31 |
 | **[NetJets](https://www.netjets.com/)** | **[Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b4b4fcbc187f64e1be3af6?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | ↳ | **[Global 5 Senses Intern Digital Content (NJUS)](https://jobright.ai/jobs/info/68b4b4b3bc187f64e1be3ae5?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rue Gilt Groupe](https://www.ruegiltgroupe.com/)** | **[Short-term Assistant Boutique Producer](https://jobright.ai/jobs/info/68b0fcfce815524ae11fa7b7?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Aug 28 |
 | **[Spotlight Media](https://www.tryspotlight.co/)** | **[TikTok Content Creator Internship (Class of 2026)](https://jobright.ai/jobs/info/68b1818ebc187f64e1bd5228?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Aug 28 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Culinary, Food & Beverage (Spring 2026)](https://jobright.ai/jobs/info/68b0f6f76fab621da7b08ea4?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Aug 28 |
-| **[Perry Homes](http://perryhomes.com)** | **[2026 Summer Internship - Video Production - DFW](https://jobright.ai/jobs/info/68b0e8502d46f6396cae964a?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Aug 28 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '25 - WCTV](https://jobright.ai/jobs/info/68b0e7c8b47fb001d689640f?utm_campaign=1053&utm_source=git)** | Tallahassee, FL | On Site | Aug 28 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern Fall Semester, Harlingen, TX](https://jobright.ai/jobs/info/685afeea40f786444442368c?utm_campaign=1053&utm_source=git)** | Brownsville, TX | On Site | Aug 28 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b18105f4e41a61efd7e0da?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
