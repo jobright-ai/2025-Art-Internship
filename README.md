@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Rancher Hat Bar](www.rancherhatbar.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8b7a607090163b6ba47a5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 03 |
+| **[Rancher Hat Bar](www.rancherhatbar.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8b8925b42bc4562827542?utm_campaign=1053&utm_source=git)** | Waco, TX | On Site | Sep 03 |
+| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8b7a607090163b6ba47a5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 03 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8b6edea901c0d269f9046?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Sep 03 |
 | **[Global Sprouts](https://www.globalsprouts.com/)** | **[Social Media Content Creator](https://jobright.ai/jobs/info/68b8b5ebea901c0d269f8f15?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Sep 03 |
 | **[Rancher Hat Bar](www.rancherhatbar.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8b27007090163b6ba4466?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Sep 03 |
 | **[Soundly AI](https://www.soundlyx.ai)** | **[TikTok Video Intern](https://jobright.ai/jobs/info/68b8b24d07090163b6ba444e?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 03 |
+| **[Healthcare Insights](healthcarein.org)** | **[Biotech Policy Student Journalist & Contributor](https://jobright.ai/jobs/info/68b8cee3ea901c0d269f99db?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 03 |
 | **[Rancher Hat Bar](www.rancherhatbar.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8aa305b42bc4562826c8e?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Sep 03 |
 | **[Wishes & More](http://www.wishesandmore.org)** | **[Volunteer: Intern - Event & Auction Administration](https://jobright.ai/jobs/info/68b8a5575b42bc4562826975?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 03 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Media Intern, Center for Communications, Media Strategy (Fall 2025)](https://jobright.ai/jobs/info/68b8a4ab07090163b6ba3c18?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 03 |
@@ -126,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Golf Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68b606481ade4306aa643c20?utm_campaign=1053&utm_source=git)** | Farmington, PA | On Site | Sep 01 |
 | **[Hoop Brothers](https://hoopbrothers.com/)** | **[Hoop Brothers Internship – Videographer & Content Editing](https://jobright.ai/jobs/info/68b6041ff4e41a61efd91b66?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 01 |
 | **[The Cosmic Rip](thecosmicrip.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/68b66f841ade4306aa644e6d?utm_campaign=1053&utm_source=git)** | Valparaiso, IN | On Site | Sep 01 |
-| **[Hoop Brothers](https://hoopbrothers.com/)** | **[Sports Game Film Analyst](https://jobright.ai/jobs/info/68b5e4fd1ade4306aa643798?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Carolina Business Leaders LLC](https://www.carolinabusinessleaders.com/)** | **[Podcast Internship](https://jobright.ai/jobs/info/68b6ed0df4e41a61efd9498d?utm_campaign=1053&utm_source=git)** | Greenville-Spartanburg-Anderson, South Carolina Area | On Site | Sep 01 |
 | **[Montage International](https://www.montageinternational.com)** | **[Rooms Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d60?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Sep 01 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Fred Young Fellowship](https://jobright.ai/jobs/info/6693b635a955ace455aa3bbf?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Sep 01 |
@@ -143,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Constella](https://www.constella.app/)** | **[Creator — Internship](https://jobright.ai/jobs/info/68b51a531ade4306aa63ff0c?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 31 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern - Fall Semester](https://jobright.ai/jobs/info/688704264174df41e0f9c0c9?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | On Site | Aug 30 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Land Animal Apprentice - Discovery Theater (Paid Intern) $17.50/HR](https://jobright.ai/jobs/info/6842fb717f2906af4687a8ce?utm_campaign=1053&utm_source=git)** | Vallejo, CA | On Site | Aug 30 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern Fall 2025 (Unpaid)](https://jobright.ai/jobs/info/689851c883d13d1f5b68e575?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 30 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/68b34b5fbc187f64e1be00b1?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Aug 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, Unpaid](https://jobright.ai/jobs/info/68870b414174df41e0f9c897?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Aug 30 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern Fall Internship](https://jobright.ai/jobs/info/68b2ee5ebc187f64e1bdf626?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Aug 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Austin Community College](http://austincc.edu)** | **[Intern, ACCMe Studio and Labs (Hourly)](https://jobright.ai/jobs/info/68b2718ebc187f64e1bdb6bd?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Aug 29 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern Fall Internship](https://jobright.ai/jobs/info/68b24d0df4e41a61efd833ed?utm_campaign=1053&utm_source=git)** | Dallas / Fort Worth Metro | On Site | Aug 29 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Photography/Videography Intern](https://jobright.ai/jobs/info/68b20c48f4e41a61efd81e43?utm_campaign=1053&utm_source=git)** | Matthews, NC | On Site | Aug 29 |
-| **[Austin Community College](http://austincc.edu)** | **[Intern, ACCMe Studio and Labs (Hourly)](https://jobright.ai/jobs/info/68b243e6bc187f64e1bda2e2?utm_campaign=1053&utm_source=git)** | Highland Campus | On Site | Aug 29 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Sound & Audio Assistant](https://jobright.ai/jobs/info/68b30f04f4e41a61efd88911?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
