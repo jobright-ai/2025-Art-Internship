@@ -116,7 +116,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Social & Digital Content Production](https://jobright.ai/jobs/info/689a88defaa4e875e8259793?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Sep 02 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Productions (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f0a9d764c3d7411c48647?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Cast Activities Intern, Spring 2026](https://jobright.ai/jobs/info/68b69f52f4e41a61efd93d5e?utm_campaign=1053&utm_source=git)** | Anaheim, CA, USA | On Site | Sep 02 |
-| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Video Production (Internship)](https://jobright.ai/jobs/info/68b74407f4e41a61efd97669?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Yellow Shoes Innovation Producer Intern, Spring 2026](https://jobright.ai/jobs/info/68b67860f4e41a61efd9359a?utm_campaign=1053&utm_source=git)** | Celebration, FL, USA | Hybrid | Sep 01 |
 | ↳ | **[Disney Programs Digital Content Intern, Spring 2026](https://jobright.ai/jobs/info/68b6724a1ade4306aa64506c?utm_campaign=1053&utm_source=git)** | Winter Garden, FL, USA | Hybrid | Sep 01 |
 | ↳ | **[Video & Multimedia Intern, Spring 2026](https://jobright.ai/jobs/info/68b672421ade4306aa645069?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Sep 01 |
@@ -125,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68b646f6f4e41a61efd9221d?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Sep 01 |
 | **[Houston Ballet](https://www.houstonballet.org/)** | **[Part-time Development Intern (VIP Experience Associate)](https://jobright.ai/jobs/info/68b7882f2124650c140237a0?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Sep 01 |
 | **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Event Services (Part-time)](https://jobright.ai/jobs/info/68b73abb2124650c140206e7?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
+| ↳ | **[Intern, Video Production (Part-time)](https://jobright.ai/jobs/info/68b74407f4e41a61efd97669?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Media Videographer - Student Employment](https://jobright.ai/jobs/info/68b77dcd1ade4306aa64b55a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
 | **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Game & Event Presentation (Part-time)](https://jobright.ai/jobs/info/68b74bf9f4e41a61efd97e0f?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
 | **[Nemacolin](http://www.nemacolin.com)** | **[Recreation Entertainment Internship - Summer 2026](https://jobright.ai/jobs/info/68b6078cf4e41a61efd91bd7?utm_campaign=1053&utm_source=git)** | Farmington, PA | On Site | Sep 01 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68b2b244bc187f64e1bded18?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Aug 30 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Barron’s Reporter Intern](https://jobright.ai/jobs/info/68b677f5bc187f64e1bea5a2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[SANDMARC](https://www.sandmarc.com/)** | **[Filmmaker / Cinematographer Intern](https://jobright.ai/jobs/info/68b7ccd15e55be5e2604e1aa?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Aug 29 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Wealth & Investing Group, Video/Audio Intern](https://jobright.ai/jobs/info/68b904c85b42bc4562829c44?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 29 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – MarketWatch Bureau Intern](https://jobright.ai/jobs/info/68b91c4dea901c0d269fc577?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
