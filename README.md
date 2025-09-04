@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Media Videographer - Student Employment](https://jobright.ai/jobs/info/68b93862ea901c0d269fd9b0?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68b8ffb15b42bc45628298f6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 03 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Videographer for Student Involvement & Leadership](https://jobright.ai/jobs/info/68b8de355b42bc4562828635?utm_campaign=1053&utm_source=git)** | Ogden, UT | On Site | Sep 03 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Intern Podcast and Social Video Editor](https://jobright.ai/jobs/info/68b8d67b5b42bc456282829f?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 03 |
@@ -83,9 +84,11 @@ For a complete list, click the following sortable link below:
 | **[Studs](https://studs.com/)** | **[Tysons Corner, Part-Time Apprentice Piercer](https://jobright.ai/jobs/info/68b84f87ea901c0d269f5397?utm_campaign=1053&utm_source=git)** | McLean, VA | On Site | Sep 03 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[WDI Communications Intern, Spring 2026](https://jobright.ai/jobs/info/68b84c7a07090163b6ba0bc7?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 03 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Midwest Review Intern](https://jobright.ai/jobs/info/68b8700e07090163b6ba1ab7?utm_campaign=1053&utm_source=git)** | Stevens Point, WI | On Site | Sep 03 |
+| **[The Fine Art Group](http://www.fineartgroup.com)** | **[Appraisal Intern](https://jobright.ai/jobs/info/68b937dfea901c0d269fd907?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 03 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Video & Multimedia Intern, Spring 2026](https://jobright.ai/jobs/info/68b865eb07090163b6ba1608?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 03 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Yellow Shoes Innovation Producer Intern, Spring 2026](https://jobright.ai/jobs/info/68b872c007090163b6ba1be4?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Sep 03 |
 | **[Bishop Fox](https://bishopfox.com)** | **[Video Content Intern](https://jobright.ai/jobs/info/689bb14b79a9f96662532c13?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Sep 03 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/6847361f79d64e83c0ac5e62?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Sep 03 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f10a4764c3d7411c4892f?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 03 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/689bba8579a9f966625334d3?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Sep 03 |
 | **[American Antiquarian Society](https://www.americanantiquarian.org/)** | **[Seiler Library Internship (Spring 2026, 10 weeks)](https://jobright.ai/jobs/info/68b7c045a10b650604b60277?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Sep 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/6898375e83d13d1f5b68bfd0?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/683d27a9e3502e937bcb1103?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Aug 30 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68b2b244bc187f64e1bded18?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Aug 30 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Barron’s Reporter Intern](https://jobright.ai/jobs/info/68b677f5bc187f64e1bea5a2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 29 |
-| **[SANDMARC](https://www.sandmarc.com/)** | **[Filmmaker / Cinematographer Intern](https://jobright.ai/jobs/info/68b7ccd15e55be5e2604e1aa?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Aug 29 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – MarketWatch Bureau Intern](https://jobright.ai/jobs/info/68b91c4dea901c0d269fc577?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
