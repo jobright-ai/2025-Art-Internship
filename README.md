@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetJets](https://www.netjets.com/)** | **[Hospitality Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b9b0f38043103d4f21991b?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 04 |
+| **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Creative Co-op](https://jobright.ai/jobs/info/68b9aa446105227d11896b7d?utm_campaign=1053&utm_source=git)** | USA - NJ - Camden | On Site | Sep 04 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Content Writer](https://jobright.ai/jobs/info/68b9a3658043103d4f21937d?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | Hybrid | Sep 04 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Media Videographer - Student Employment](https://jobright.ai/jobs/info/68b93862ea901c0d269fd9b0?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68b8ffb15b42bc45628298f6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 03 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Videographer for Student Involvement & Leadership](https://jobright.ai/jobs/info/68b8de355b42bc4562828635?utm_campaign=1053&utm_source=git)** | Ogden, UT | On Site | Sep 03 |
@@ -65,6 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8b7a607090163b6ba47a5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 03 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8b6edea901c0d269f9046?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Sep 03 |
 | **[Global Sprouts](https://www.globalsprouts.com/)** | **[Social Media Content Creator](https://jobright.ai/jobs/info/68b8b5ebea901c0d269f8f15?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Sep 03 |
+| **[MEETEETSE MUSEUM DISTRICT](http://meeteetsemuseums.org)** | **[Digital Collections Intern](https://jobright.ai/jobs/info/68b996525f3832749185f376?utm_campaign=1053&utm_source=git)** | Cody, WY | On Site | Sep 03 |
 | **[Rancher Hat Bar](www.rancherhatbar.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8b27007090163b6ba4466?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Sep 03 |
 | **[Soundly AI](https://www.soundlyx.ai)** | **[TikTok Video Intern](https://jobright.ai/jobs/info/68b8b24d07090163b6ba444e?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 03 |
 | **[Healthcare Insights](healthcarein.org)** | **[Biotech Policy Student Journalist & Contributor](https://jobright.ai/jobs/info/68b8cee3ea901c0d269f99db?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 03 |
@@ -142,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[American Public Health Association](https://www.apha.org)** | **[The Nation's Health Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b685b41ade4306aa6458c1?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 01 |
 | **[Hostelling International USA (HI USA)](https://www.hiusa.org/)** | **[Volunteer: Bring international visitors to Salem, the "Witch City!" - Local Salem Guide](https://jobright.ai/jobs/info/68b558febc187f64e1be6789?utm_campaign=1053&utm_source=git)** | Salem, MA | On Site | Sep 01 |
 | **[American Public Health Association](https://www.apha.org)** | **[The Nation's Health Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b549f5bc187f64e1be5fe0?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Corporate Archives Internship - Summer 2026](https://jobright.ai/jobs/info/68b536b8f4e41a61efd8eb07?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 31 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/68b535cebc187f64e1be5b84?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Aug 31 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Corporate Archives Internship - Summer 2026](https://jobright.ai/jobs/info/68b5268bbc187f64e1be559d?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 31 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67d09040b14899d0fd695ef4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 31 |
 | **[NetJets](https://www.netjets.com/)** | **[Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b4b4fcbc187f64e1be3af6?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | ↳ | **[Global 5 Senses Intern Digital Content (NJUS)](https://jobright.ai/jobs/info/68b4b4b3bc187f64e1be3ae5?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern Fall 2025 (Unpaid)](https://jobright.ai/jobs/info/689851c883d13d1f5b68e575?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Aug 30 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (2025) / Near North Shore (Wheeling), IL](https://jobright.ai/jobs/info/68b34b5fbc187f64e1be00b1?utm_campaign=1053&utm_source=git)** | Wheeling, IL | On Site | Aug 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern, Unpaid](https://jobright.ai/jobs/info/68870b414174df41e0f9c897?utm_campaign=1053&utm_source=git)** | Shreveport, LA | On Site | Aug 30 |
-| **[Community Impact](https://communityimpact.com)** | **[Editorial Intern Fall Internship](https://jobright.ai/jobs/info/68b2ee5ebc187f64e1bdf626?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Aug 30 |
-| **[PENNYMAC](https://www.pennymac.com)** | **[Intern](https://jobright.ai/jobs/info/68b2ddad1ade4306aa63a46b?utm_campaign=1053&utm_source=git)** | Westlake Village, CA | On Site | Aug 30 |
-| **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/6898375e83d13d1f5b68bfd0?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/683d27a9e3502e937bcb1103?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
