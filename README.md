@@ -90,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Bishop Fox](https://bishopfox.com)** | **[Video Content Intern](https://jobright.ai/jobs/info/689bb14b79a9f96662532c13?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Sep 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/6847361f79d64e83c0ac5e62?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Sep 03 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Video Editor (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f10a4764c3d7411c4892f?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 03 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Post Production Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/689b882783d13d1f5b6a0ae7?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Sep 03 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/689bba8579a9f966625334d3?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Sep 03 |
 | **[American Antiquarian Society](https://www.americanantiquarian.org/)** | **[Seiler Library Internship (Spring 2026, 10 weeks)](https://jobright.ai/jobs/info/68b7c045a10b650604b60277?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Sep 02 |
 | **[Licensed to Glow](https://www.licensedtoglow.com/)** | **[UGC Intern (NYC or DMV)](https://jobright.ai/jobs/info/68b7b627effbb9793f7b7494?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PENNYMAC](https://www.pennymac.com)** | **[Intern](https://jobright.ai/jobs/info/68b2ddad1ade4306aa63a46b?utm_campaign=1053&utm_source=git)** | Westlake Village, CA | On Site | Aug 30 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/6898375e83d13d1f5b68bfd0?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/683d27a9e3502e937bcb1103?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Aug 30 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68b2b244bc187f64e1bded18?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
