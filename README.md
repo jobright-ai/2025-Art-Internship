@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/68b9e1c05f38327491861b41?utm_campaign=1053&utm_source=git)** | OH-Cleveland;5800 South Marginal Road (Tribune-WJW) | On Site | Sep 04 |
+| ↳ | **[Talk and Entertainment Show  Intern 2](https://jobright.ai/jobs/info/68b9e1576105227d118987ce?utm_campaign=1053&utm_source=git)** | OH-Cleveland;5800 South Marginal Road (Tribune-WJW) | On Site | Sep 04 |
+| **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Creative Co-op](https://jobright.ai/jobs/info/68b9d1c26105227d1189811a?utm_campaign=1053&utm_source=git)** | Camden, NJ | On Site | Sep 04 |
 | **[Chellie Carlson Style](http://www.chelliecarlson.com)** | **[LA Based FALL Fashion Intern](https://jobright.ai/jobs/info/68b9d00a6105227d11897fb9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Intern](https://jobright.ai/jobs/info/68b9cc6b6105227d11897ecd?utm_campaign=1053&utm_source=git)** | AL-Huntsville;200 Holmes Avenue (Tribune-WHNT) | On Site | Sep 04 |
 | **[American University](http://american.edu)** | **[Content Assistant (Student)](https://jobright.ai/jobs/info/68b9cbcb6105227d11897df2?utm_campaign=1053&utm_source=git)** | 4401 Connecticut Campus (Washington, DC) | On Site | Sep 04 |
@@ -66,9 +69,11 @@ For a complete list, click the following sortable link below:
 | **[NetJets](https://www.netjets.com/)** | **[Hospitality Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b9b0f38043103d4f21991b?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 04 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Creative Co-op](https://jobright.ai/jobs/info/68b9aa446105227d11896b7d?utm_campaign=1053&utm_source=git)** | USA - NJ - Camden | On Site | Sep 04 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Content Writer](https://jobright.ai/jobs/info/68b9a3658043103d4f21937d?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | Hybrid | Sep 04 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68a0299683d13d1f5b6cecb0?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Sep 04 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Media Videographer - Student Employment](https://jobright.ai/jobs/info/68b93862ea901c0d269fd9b0?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68b8ffb15b42bc45628298f6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 03 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Videographer for Student Involvement & Leadership](https://jobright.ai/jobs/info/68b8de355b42bc4562828635?utm_campaign=1053&utm_source=git)** | Ogden, UT | On Site | Sep 03 |
+| **[WETA](https://weta.org/)** | **[News Assistant, Politics](https://jobright.ai/jobs/info/68b9dcf45f38327491861749?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Sep 03 |
 | **[Rancher Hat Bar](www.rancherhatbar.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8b8925b42bc4562827542?utm_campaign=1053&utm_source=git)** | Waco, TX | On Site | Sep 03 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8b7a607090163b6ba47a5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 03 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8b6edea901c0d269f9046?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Sep 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Public Health Association](https://www.apha.org)** | **[The Nation's Health Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b549f5bc187f64e1be5fe0?utm_campaign=1053&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/68b535cebc187f64e1be5b84?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Aug 31 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Corporate Archives Internship - Summer 2026](https://jobright.ai/jobs/info/68b5268bbc187f64e1be559d?utm_campaign=1053&utm_source=git)** | Kings Mountain, NC | Hybrid | Aug 31 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67d09040b14899d0fd695ef4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Aug 31 |
-| **[NetJets](https://www.netjets.com/)** | **[Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b4b4fcbc187f64e1be3af6?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
-| ↳ | **[Global 5 Senses Intern Digital Content (NJUS)](https://jobright.ai/jobs/info/68b4b4b3bc187f64e1be3ae5?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
-| **[Constella](https://www.constella.app/)** | **[Creator — Internship](https://jobright.ai/jobs/info/68b51a531ade4306aa63ff0c?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Aug 31 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern - Fall Semester](https://jobright.ai/jobs/info/688704264174df41e0f9c0c9?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
