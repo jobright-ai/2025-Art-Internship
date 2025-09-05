@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68ba8d585f38327491868229?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 05 |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[K12 Zone Content & Event Intern, Part-Time](https://jobright.ai/jobs/info/68ba82f85f38327491867b5a?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68ba71d15f3832749186740f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 | **[AAPI New Jersey](http://aapimontclair.org)** | **[Intern (Part-Time)](https://jobright.ai/jobs/info/68ba56748043103d4f21f8d8?utm_campaign=1053&utm_source=git)** | Montclair, NJ | Hybrid | Sep 04 |
 | **[Churchill Downs Racetrack](https://www.churchilldowns.com)** | **[Backstretch Activities Intern](https://jobright.ai/jobs/info/68ba52b86105227d1189cc6d?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Sep 04 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68ba34006105227d1189bad1?utm_campaign=1053&utm_source=git)** | Sherman Oaks | On Site | Sep 04 |
 | ↳ | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68ba32d85f38327491864c59?utm_campaign=1053&utm_source=git)** | Middleton | On Site | Sep 04 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba24775f383274918644fe?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 04 |
+| **[WETA](https://weta.org/)** | **[News Assistant, Politics](https://jobright.ai/jobs/info/68ba20576105227d1189b14a?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Sep 04 |
 | **[ChiChi](https://chickpeaoats.com)** | **[TikTok Content Intern – ChiChi Foods](https://jobright.ai/jobs/info/68ba1f085f383274918641e0?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Golf Course Maintenance (Student Position)](https://jobright.ai/jobs/info/68ba1deb5f38327491864113?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Sep 04 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68ba0ea18043103d4f21d36a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 04 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/68ba04af6105227d1189a2fb?utm_campaign=1053&utm_source=git)** | La Crosse, WI | On Site | Sep 04 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Video Editor/Producer Intern](https://jobright.ai/jobs/info/68b9fdac8043103d4f21ca5b?utm_campaign=1053&utm_source=git)** | Bridgeton, MO | On Site | Sep 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 2](https://jobright.ai/jobs/info/68b9f5968043103d4f21c509?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 04 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Fall 2025](https://jobright.ai/jobs/info/68b9f5768043103d4f21c4e2?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68b9f3d36105227d1189993d?utm_campaign=1053&utm_source=git)** | Charleston, SC | On Site | Sep 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Intern](https://jobright.ai/jobs/info/68b9f17a8043103d4f21c0a7?utm_campaign=1053&utm_source=git)** | Huntsville, AL | On Site | Sep 04 |
 | ↳ | **[Talk and Entertainment Show Intern 1](https://jobright.ai/jobs/info/68b9edf76105227d1189960a?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 04 |
@@ -99,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba64418043103d4f220319?utm_campaign=1053&utm_source=git)** | Topeka, KS | On Site | Sep 03 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68b8ffb15b42bc45628298f6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 03 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Videographer for Student Involvement & Leadership](https://jobright.ai/jobs/info/68b8de355b42bc4562828635?utm_campaign=1053&utm_source=git)** | Ogden, UT | On Site | Sep 03 |
-| **[WETA](https://weta.org/)** | **[News Assistant, Politics](https://jobright.ai/jobs/info/68b9dcf45f38327491861749?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Sep 03 |
 | **[Rancher Hat Bar](www.rancherhatbar.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8b8925b42bc4562827542?utm_campaign=1053&utm_source=git)** | Waco, TX | On Site | Sep 03 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8b7a607090163b6ba47a5?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 03 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/68b8b6edea901c0d269f9046?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Sep 03 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern - News](https://jobright.ai/jobs/info/68b89aeaea901c0d269f7f98?utm_campaign=1053&utm_source=git)** | LA, Baton Rouge | On Site | Sep 03 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68b89a7eea901c0d269f7ec0?utm_campaign=1053&utm_source=git)** | Ames, IA | On Site | Sep 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern - News](https://jobright.ai/jobs/info/68b8967b07090163b6ba320e?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | On Site | Sep 03 |
-| **[Grow Your Business - NYC](https://mrgyb.com/)** | **[Publishing Internship](https://jobright.ai/jobs/info/68b894a05b42bc4562825dd4?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 03 |
 | **[Antler](https://antler.co)** | **[ATX Founder Experience & Platform – Fall Intern](https://jobright.ai/jobs/info/68b878c35b42bc4562824b7f?utm_campaign=1053&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Sep 03 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Art Foundation Studio Assistant](https://jobright.ai/jobs/info/68b8661107090163b6ba1628?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Sep 03 |
 | **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/68b860f15b42bc45628240bd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 03 |
