@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Graphis Inc.](https://www.graphis.com/)** | **[Student Intern](https://jobright.ai/jobs/info/68bb230c5f3832749186c6f4?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 05 |
+| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN WINTER '25 - WILX](https://jobright.ai/jobs/info/68bb1cb08043103d4f2259eb?utm_campaign=1053&utm_source=git)** | Lansing, MI | On Site | Sep 05 |
 | **[Surya Sound Temple](https://www.suryasoundtemple.org)** | **[Studio Intern](https://jobright.ai/jobs/info/68baffdf6105227d118a22af?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Sep 05 |
-| **[Tractenberg & Co.](http://tractenbergandco.com)** | **[Beauty Intern](https://jobright.ai/jobs/info/68baf06d8043103d4f2241bd?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 05 |
+| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684d0a44ef735fe085bd08da?utm_campaign=1053&utm_source=git)** | Portland, ME | On Site | Sep 05 |
+| **[MJHS](http://www.mjhs.org)** | **[Creative Arts Therapist Intern](https://jobright.ai/jobs/info/686dd099dadb90395aab9e5c?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Sep 05 |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[Art & Design Studio Assistant - Student Employment](https://jobright.ai/jobs/info/68bb1ac78043103d4f225831?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Culinary, Food & Beverage (Spring 2026)](https://jobright.ai/jobs/info/68badfe96105227d118a1025?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 05 |
 | **[North Texas Bulls LLC](http://www.northtexasbulls.com)** | **[Video Coordinator](https://jobright.ai/jobs/info/68bac1b18043103d4f222c3b?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 05 |
 | ↳ | **[Content Creator](https://jobright.ai/jobs/info/68bacee28043103d4f2232b0?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 05 |
@@ -97,10 +101,12 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Intern](https://jobright.ai/jobs/info/68b9cc6b6105227d11897ecd?utm_campaign=1053&utm_source=git)** | AL-Huntsville;200 Holmes Avenue (Tribune-WHNT) | On Site | Sep 04 |
 | **[American University](http://american.edu)** | **[Content Assistant (Student)](https://jobright.ai/jobs/info/68b9cbcb6105227d11897df2?utm_campaign=1053&utm_source=git)** | 4401 Connecticut Campus (Washington, DC) | On Site | Sep 04 |
 | **[Improve the News Foundation](https://www.linkedin.com/company/80314818)** | **[Journalism Volunteer](https://jobright.ai/jobs/info/68b9be518043103d4f219faa?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 04 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Performance & Artists-in-Residence Intern](https://jobright.ai/jobs/info/68b9ba3f6105227d118974b4?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 04 |
 | **[Boston Film Festival](http://www.bostonfilmfestival.org)** | **[Film Festival Intern](https://jobright.ai/jobs/info/68b9b8996105227d1189737b?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | Remote | Sep 04 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Performance & Artists-in-Residence Intern](https://jobright.ai/jobs/info/68b9b6715f38327491860344?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 04 |
 | **[NetJets](https://www.netjets.com/)** | **[Hospitality Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b9b0f38043103d4f21991b?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 04 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern - Unpaid](https://jobright.ai/jobs/info/681da408e1268f618b7ec9f3?utm_campaign=1053&utm_source=git)** | Tyler, TX | On Site | Sep 04 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Creative Co-op](https://jobright.ai/jobs/info/68b9aa446105227d11896b7d?utm_campaign=1053&utm_source=git)** | USA - NJ - Camden | On Site | Sep 04 |
+| **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Fall/Winter 25-26)5)](https://jobright.ai/jobs/info/689ce977faa4e875e826bd9d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 04 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Content Writer](https://jobright.ai/jobs/info/68b9a3658043103d4f21937d?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | Hybrid | Sep 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Broadcast Internship (NYSBA)](https://jobright.ai/jobs/info/689ce2bc83d13d1f5b6aba22?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Sep 04 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/688daccecdbd821a3663dbbd?utm_campaign=1053&utm_source=git)** | Ohio, United States | On Site | Sep 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PGA TOUR](http://www.pgatour.com)** | **[Intern - TPC](https://jobright.ai/jobs/info/68b73da7f4e41a61efd96e67?utm_campaign=1053&utm_source=git)** | Ponte Vedra Beach, Florida | On Site | Sep 02 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b73c512124650c14020908?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Sep 02 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b739c7f4e41a61efd969ef?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 02 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b736ce2124650c14020684?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Sep 02 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING 03/07/2025](https://jobright.ai/jobs/info/68b736872124650c1402064a?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Sep 02 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b734b42124650c14020440?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 02 |
-| ↳ | **[Spring 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68b733f32124650c1402034c?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Sep 02 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b72e8f2124650c140200c5?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Sep 02 |
-| ↳ | **[Spring 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68b72bbdf4e41a61efd961ac?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
