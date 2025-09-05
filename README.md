@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crawford Models](https://www.crawfordmodels.com)** | **[FALL CREAVITE INTERN](https://jobright.ai/jobs/info/68bb27718043103d4f225edc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[Graphis Inc.](https://www.graphis.com/)** | **[Student Intern](https://jobright.ai/jobs/info/68bb230c5f3832749186c6f4?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 05 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN WINTER '25 - WILX](https://jobright.ai/jobs/info/68bb1cb08043103d4f2259eb?utm_campaign=1053&utm_source=git)** | Lansing, MI | On Site | Sep 05 |
 | **[Surya Sound Temple](https://www.suryasoundtemple.org)** | **[Studio Intern](https://jobright.ai/jobs/info/68baffdf6105227d118a22af?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Sep 05 |
@@ -100,9 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Chellie Carlson Style](http://www.chelliecarlson.com)** | **[LA Based FALL Fashion Intern](https://jobright.ai/jobs/info/68b9d00a6105227d11897fb9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Intern](https://jobright.ai/jobs/info/68b9cc6b6105227d11897ecd?utm_campaign=1053&utm_source=git)** | AL-Huntsville;200 Holmes Avenue (Tribune-WHNT) | On Site | Sep 04 |
 | **[American University](http://american.edu)** | **[Content Assistant (Student)](https://jobright.ai/jobs/info/68b9cbcb6105227d11897df2?utm_campaign=1053&utm_source=git)** | 4401 Connecticut Campus (Washington, DC) | On Site | Sep 04 |
-| **[Improve the News Foundation](https://www.linkedin.com/company/80314818)** | **[Journalism Volunteer](https://jobright.ai/jobs/info/68b9be518043103d4f219faa?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 04 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Performance & Artists-in-Residence Intern](https://jobright.ai/jobs/info/68b9ba3f6105227d118974b4?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 04 |
 | **[Boston Film Festival](http://www.bostonfilmfestival.org)** | **[Film Festival Intern](https://jobright.ai/jobs/info/68b9b8996105227d1189737b?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | Remote | Sep 04 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Performance & Artists-in-Residence Intern](https://jobright.ai/jobs/info/68b9b6715f38327491860344?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 04 |
 | **[NetJets](https://www.netjets.com/)** | **[Hospitality Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b9b0f38043103d4f21991b?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern - Unpaid](https://jobright.ai/jobs/info/681da408e1268f618b7ec9f3?utm_campaign=1053&utm_source=git)** | Tyler, TX | On Site | Sep 04 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Creative Co-op](https://jobright.ai/jobs/info/68b9aa446105227d11896b7d?utm_campaign=1053&utm_source=git)** | USA - NJ - Camden | On Site | Sep 04 |
