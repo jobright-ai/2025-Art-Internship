@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Culinary, Food & Beverage (Spring 2026)](https://jobright.ai/jobs/info/68badfe96105227d118a1025?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 05 |
 | **[North Texas Bulls LLC](http://www.northtexasbulls.com)** | **[Video Coordinator](https://jobright.ai/jobs/info/68bac1b18043103d4f222c3b?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 05 |
+| ↳ | **[Content Creator](https://jobright.ai/jobs/info/68bacee28043103d4f2232b0?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 05 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68ba8d585f38327491868229?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 05 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[K12 Zone Content & Event Intern, Part-Time](https://jobright.ai/jobs/info/68ba82f85f38327491867b5a?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68ba71d15f3832749186740f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
@@ -89,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Intern](https://jobright.ai/jobs/info/68b9cc6b6105227d11897ecd?utm_campaign=1053&utm_source=git)** | AL-Huntsville;200 Holmes Avenue (Tribune-WHNT) | On Site | Sep 04 |
 | **[American University](http://american.edu)** | **[Content Assistant (Student)](https://jobright.ai/jobs/info/68b9cbcb6105227d11897df2?utm_campaign=1053&utm_source=git)** | 4401 Connecticut Campus (Washington, DC) | On Site | Sep 04 |
 | **[Improve the News Foundation](https://www.linkedin.com/company/80314818)** | **[Journalism Volunteer](https://jobright.ai/jobs/info/68b9be518043103d4f219faa?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 04 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Performance & Artists-in-Residence Intern](https://jobright.ai/jobs/info/68b9ba3f6105227d118974b4?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 04 |
 | **[Boston Film Festival](http://www.bostonfilmfestival.org)** | **[Film Festival Intern](https://jobright.ai/jobs/info/68b9b8996105227d1189737b?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | Remote | Sep 04 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Performance & Artists-in-Residence Intern](https://jobright.ai/jobs/info/68b9b6715f38327491860344?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 04 |
 | **[NetJets](https://www.netjets.com/)** | **[Hospitality Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b9b0f38043103d4f21991b?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 04 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Creative Co-op](https://jobright.ai/jobs/info/68b9aa446105227d11896b7d?utm_campaign=1053&utm_source=git)** | USA - NJ - Camden | On Site | Sep 04 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Content Writer](https://jobright.ai/jobs/info/68b9a3658043103d4f21937d?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | Hybrid | Sep 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68b7494d1ade4306aa649b3e?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 02 |
 | **[RIVA Spain](https://www.rivaspain.com/)** | **[Internship - Content Creator](https://jobright.ai/jobs/info/68b71cff2124650c1401f850?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Communications Intern, Spring 2026](https://jobright.ai/jobs/info/68b71cf1f4e41a61efd95bb3?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Sep 02 |
-| **[Winsupply](http://www.winsupplyinc.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/68b7112ff4e41a61efd95649?utm_campaign=1053&utm_source=git)** | Moraine, OH | On Site | Sep 02 |
-| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/68b730ddf4e41a61efd963fa?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
