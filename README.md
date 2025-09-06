@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68bbcdb88043103d4f22ca0a?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[Hone Health](http://www.getpeaktoday.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68bb9ecd6105227d118a796b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[AARP](http://www.aarp.org)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/68bb87e76105227d118a6cc2?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Sep 05 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite News Editor - Student Employment](https://jobright.ai/jobs/info/68bb86e05f3832749186fd72?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
@@ -152,7 +153,6 @@ For a complete list, click the following sortable link below:
 | **[Studs](https://studs.com/)** | **[Tysons Corner, Part-Time Apprentice Piercer](https://jobright.ai/jobs/info/68b84f87ea901c0d269f5397?utm_campaign=1053&utm_source=git)** | McLean, VA | On Site | Sep 03 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[WDI Communications Intern, Spring 2026](https://jobright.ai/jobs/info/68b84c7a07090163b6ba0bc7?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 03 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Midwest Review Intern](https://jobright.ai/jobs/info/68b8700e07090163b6ba1ab7?utm_campaign=1053&utm_source=git)** | Stevens Point, WI | On Site | Sep 03 |
-| **[The Fine Art Group](http://www.fineartgroup.com)** | **[Appraisal Intern](https://jobright.ai/jobs/info/68b937dfea901c0d269fd907?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 03 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Video & Multimedia Intern, Spring 2026](https://jobright.ai/jobs/info/68b865eb07090163b6ba1608?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 03 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Yellow Shoes Innovation Producer Intern, Spring 2026](https://jobright.ai/jobs/info/68b872c007090163b6ba1be4?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Sep 03 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Technical Assistant Theatre Arts](https://jobright.ai/jobs/info/68bbaea68043103d4f22afb1?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Sep 03 |
