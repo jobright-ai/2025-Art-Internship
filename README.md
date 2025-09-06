@@ -58,11 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Petra Aroma](www.petraaroma.com)** | **[UGC Content Creator Internship (Volunteer / Remote-Flexible)](https://jobright.ai/jobs/info/68bc29fd5f383274918752a2?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 06 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68bbcdb88043103d4f22ca0a?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[Hone Health](http://www.getpeaktoday.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68bb9ecd6105227d118a796b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[AARP](http://www.aarp.org)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/68bb87e76105227d118a6cc2?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Sep 05 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite News Editor - Student Employment](https://jobright.ai/jobs/info/68bb86e05f3832749186fd72?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
 | **[Conejo Valley Choral Society](https://www.conejovalleychoralsociety.com/)** | **[Rehearsal Pianist](https://jobright.ai/jobs/info/68bc458eae79610dacddb40b?utm_campaign=1053&utm_source=git)** | Thousand Oaks, CA | On Site | Sep 05 |
+| **[Harmons Grocery](https://www.harmonsgrocery.com/)** | **[Apprentice Meat Cutter](https://jobright.ai/jobs/info/68bc64e3ae79610dacddb8b0?utm_campaign=1053&utm_source=git)** | 3270 S 1300 E, Salt Lake City, UT 84106, USA | On Site | Sep 05 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Page Six (September - November)](https://jobright.ai/jobs/info/68bb72366105227d118a607c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Sep 05 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Sep 05 |
 | **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68bb6d928043103d4f228803?utm_campaign=1053&utm_source=git)** | Carlsbad, CA | On Site | Sep 05 |
