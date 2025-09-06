@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68bbc7fb8043103d4f22c708?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[Hone Health](http://www.getpeaktoday.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68bb9ecd6105227d118a796b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[AARP](http://www.aarp.org)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/68bb87e76105227d118a6cc2?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Sep 05 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Xavierite News Editor - Student Employment](https://jobright.ai/jobs/info/68bb86e05f3832749186fd72?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
@@ -126,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Broadcast Internship (NYSBA)](https://jobright.ai/jobs/info/689ce2bc83d13d1f5b6aba22?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Sep 04 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/688daccecdbd821a3663dbbd?utm_campaign=1053&utm_source=git)** | Ohio, United States | On Site | Sep 04 |
 | ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/68a0299683d13d1f5b6cecb0?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Sep 04 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Media Videographer - Student Employment](https://jobright.ai/jobs/info/68b93862ea901c0d269fd9b0?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
 | **[Raven Software](http://www.ravensoftware.com)** | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68bbbfd75f38327491872965?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 03 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba64418043103d4f220319?utm_campaign=1053&utm_source=git)** | Topeka, KS | On Site | Sep 03 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68b8ffb15b42bc45628298f6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 03 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The Fine Art Group](http://www.fineartgroup.com)** | **[Appraisal Intern](https://jobright.ai/jobs/info/68b937dfea901c0d269fd907?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 03 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Video & Multimedia Intern, Spring 2026](https://jobright.ai/jobs/info/68b865eb07090163b6ba1608?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 03 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Yellow Shoes Innovation Producer Intern, Spring 2026](https://jobright.ai/jobs/info/68b872c007090163b6ba1be4?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Sep 03 |
+| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Technical Assistant Theatre Arts](https://jobright.ai/jobs/info/68bbaea68043103d4f22afb1?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Sep 03 |
+| **[Bishop Fox](https://bishopfox.com)** | **[Video Content Intern](https://jobright.ai/jobs/info/689bb14b79a9f96662532c13?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
