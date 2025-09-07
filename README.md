@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Muscular Dystrophy Association](https://www.mda.org)** | **[2025 Boston Muscle Team Golf Event Day Volunteer](https://jobright.ai/jobs/info/68bce1a768300c452ca16395?utm_campaign=1053&utm_source=git)** | Plymouth, MA | On Site | Sep 06 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Checkers Game Day Internship](https://jobright.ai/jobs/info/68bc9cf268300c452ca15e1b?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Sep 06 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[Podcast Producer & Host](https://jobright.ai/jobs/info/68bc9c243bf9eb44f83244f7?utm_campaign=1053&utm_source=git)** | Riverside, CA | On Site | Sep 06 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d3?utm_campaign=1053&utm_source=git)** | Stanford, CA | On Site | Sep 06 |
 | **[Petra Aroma](www.petraaroma.com)** | **[UGC Content Creator Internship (Volunteer / Remote-Flexible)](https://jobright.ai/jobs/info/68bc29fd5f383274918752a2?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 06 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68bbc7fb8043103d4f22c708?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68bbcdb88043103d4f22ca0a?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[Hone Health](http://www.getpeaktoday.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68bb9ecd6105227d118a796b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[AARP](http://www.aarp.org)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/68bb87e76105227d118a6cc2?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Sep 05 |
 | **[Conejo Valley Choral Society](https://www.conejovalleychoralsociety.com/)** | **[Rehearsal Pianist](https://jobright.ai/jobs/info/68bc458eae79610dacddb40b?utm_campaign=1053&utm_source=git)** | Thousand Oaks, CA | On Site | Sep 05 |
@@ -104,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[THE MODERN SOFT WOMAN](https://www.instagram.com/_nicyla/)** | **[Part-Time Content Assistant [Boston, Soft Luxury Lifestyle Media Brand]](https://jobright.ai/jobs/info/68baf4598043103d4f224545?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | Sep 04 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68ba34006105227d1189bad1?utm_campaign=1053&utm_source=git)** | Sherman Oaks | On Site | Sep 04 |
 | ↳ | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68ba32d85f38327491864c59?utm_campaign=1053&utm_source=git)** | Middleton | On Site | Sep 04 |
-| **[Wheeling Nailers](https://wheelingnailers.com)** | **[Videography Intern (Seasonal)](https://jobright.ai/jobs/info/68bb40655f3832749186db72?utm_campaign=1053&utm_source=git)** | Wheeling, WV | On Site | Sep 04 |
+| **[Wheeling Nailers](https://wheelingnailers.com)** | **[Videography Intern (Seasonal)](https://jobright.ai/jobs/info/68bb86b58043103d4f2293c8?utm_campaign=1053&utm_source=git)** | Wheeling, WV | On Site | Sep 04 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba24775f383274918644fe?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 04 |
 | **[WETA](https://weta.org/)** | **[News Assistant, Politics](https://jobright.ai/jobs/info/68ba20576105227d1189b14a?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Sep 04 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Golf Course Maintenance (Student Position)](https://jobright.ai/jobs/info/68ba1deb5f38327491864113?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Sep 04 |
@@ -122,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Chellie Carlson Style](http://www.chelliecarlson.com)** | **[LA Based FALL Fashion Intern](https://jobright.ai/jobs/info/68b9d00a6105227d11897fb9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Intern](https://jobright.ai/jobs/info/68b9cc6b6105227d11897ecd?utm_campaign=1053&utm_source=git)** | AL-Huntsville;200 Holmes Avenue (Tribune-WHNT) | On Site | Sep 04 |
 | **[American University](http://american.edu)** | **[Content Assistant (Student)](https://jobright.ai/jobs/info/68b9cbcb6105227d11897df2?utm_campaign=1053&utm_source=git)** | 4401 Connecticut Campus (Washington, DC) | On Site | Sep 04 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Performance & Artists-in-Residence Intern](https://jobright.ai/jobs/info/68b9ba3f6105227d118974b4?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 04 |
 | **[Boston Film Festival](http://www.bostonfilmfestival.org)** | **[Film Festival Intern](https://jobright.ai/jobs/info/68b9b8996105227d1189737b?utm_campaign=1053&utm_source=git)** | Massachusetts, United States | Remote | Sep 04 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Performance & Artists-in-Residence Intern](https://jobright.ai/jobs/info/68b9b6715f38327491860344?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 04 |
 | **[NetJets](https://www.netjets.com/)** | **[Hospitality Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b9b0f38043103d4f21991b?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern - Unpaid](https://jobright.ai/jobs/info/681da408e1268f618b7ec9f3?utm_campaign=1053&utm_source=git)** | Tyler, TX | On Site | Sep 04 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Creative Co-op](https://jobright.ai/jobs/info/68b9aa446105227d11896b7d?utm_campaign=1053&utm_source=git)** | USA - NJ - Camden | On Site | Sep 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/68b860f15b42bc45628240bd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 03 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Disney Programs Digital Content Intern, Spring 2026](https://jobright.ai/jobs/info/68b85d3bea901c0d269f58d9?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Sep 03 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Cast Activities Intern, Spring 2026](https://jobright.ai/jobs/info/68b85a5b5b42bc4562823e29?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Sep 03 |
-| **[Studs](https://studs.com/)** | **[Tysons Corner, Part-Time Apprentice Piercer](https://jobright.ai/jobs/info/68b84f87ea901c0d269f5397?utm_campaign=1053&utm_source=git)** | McLean, VA | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
