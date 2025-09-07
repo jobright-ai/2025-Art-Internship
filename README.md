@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Online Ecosystem](https://onlineecosystem.com/)** | **[Long Form Video Editor](https://jobright.ai/jobs/info/68bca7fa3bf9eb44f832463d?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 06 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Checkers Game Day Internship](https://jobright.ai/jobs/info/68bc9cf268300c452ca15e1b?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Sep 06 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[Podcast Producer & Host](https://jobright.ai/jobs/info/68bc9c243bf9eb44f83244f7?utm_campaign=1053&utm_source=git)** | Riverside, CA | On Site | Sep 06 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d3?utm_campaign=1053&utm_source=git)** | Stanford, CA | On Site | Sep 06 |
 | **[Petra Aroma](www.petraaroma.com)** | **[UGC Content Creator Internship (Volunteer / Remote-Flexible)](https://jobright.ai/jobs/info/68bc29fd5f383274918752a2?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 06 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68bbcdb88043103d4f22ca0a?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68bbc7fb8043103d4f22c708?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[Hone Health](http://www.getpeaktoday.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68bb9ecd6105227d118a796b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[AARP](http://www.aarp.org)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/68bb87e76105227d118a6cc2?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Sep 05 |
 | **[Conejo Valley Choral Society](https://www.conejovalleychoralsociety.com/)** | **[Rehearsal Pianist](https://jobright.ai/jobs/info/68bc458eae79610dacddb40b?utm_campaign=1053&utm_source=git)** | Thousand Oaks, CA | On Site | Sep 05 |
@@ -104,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[THE MODERN SOFT WOMAN](https://www.instagram.com/_nicyla/)** | **[Part-Time Content Assistant [Boston, Soft Luxury Lifestyle Media Brand]](https://jobright.ai/jobs/info/68baf4598043103d4f224545?utm_campaign=1053&utm_source=git)** | Greater Boston | On Site | Sep 04 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68ba34006105227d1189bad1?utm_campaign=1053&utm_source=git)** | Sherman Oaks | On Site | Sep 04 |
 | ↳ | **[2026 US Summer Internships - Production](https://jobright.ai/jobs/info/68ba32d85f38327491864c59?utm_campaign=1053&utm_source=git)** | Middleton | On Site | Sep 04 |
-| **[Wheeling Nailers](https://wheelingnailers.com)** | **[Videography Intern (Seasonal)](https://jobright.ai/jobs/info/68bb86b58043103d4f2293c8?utm_campaign=1053&utm_source=git)** | Wheeling, WV | On Site | Sep 04 |
+| **[Wheeling Nailers](https://wheelingnailers.com)** | **[Videography Intern (Seasonal)](https://jobright.ai/jobs/info/68bb40655f3832749186db72?utm_campaign=1053&utm_source=git)** | Wheeling, WV | On Site | Sep 04 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba24775f383274918644fe?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 04 |
 | **[WETA](https://weta.org/)** | **[News Assistant, Politics](https://jobright.ai/jobs/info/68ba20576105227d1189b14a?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Sep 04 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Golf Course Maintenance (Student Position)](https://jobright.ai/jobs/info/68ba1deb5f38327491864113?utm_campaign=1053&utm_source=git)** | Big Rapids, MI | On Site | Sep 04 |
