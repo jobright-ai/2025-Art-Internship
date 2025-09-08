@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Short Content Video Editor Fall Internship (Unpaid)](https://jobright.ai/jobs/info/68be33ace57feb02eb0acce8?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 07 |
 | **[C-SPAN](http://www.c-span.org)** | **[Internship - Spring 2026 (January-April)](https://jobright.ai/jobs/info/68bdf8bbc4c5904ff600462d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 07 |
 | **[Interlachen Country Club](https://interlachencc.org/)** | **[Golf Course and Grounds Intern](https://jobright.ai/jobs/info/68bdeca3e57feb02eb0ac794?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 07 |
-| **[Nucleate](https://nucleate.xyz/)** | **[Video Editor Volunteer](https://jobright.ai/jobs/info/68bdc6e6e57feb02eb0ac4c0?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 07 |
 | **[FullScale Media Group](https://www.fullscalemg.com/)** | **[Video Intern (Unpaid, Part-Time, 3-4 Months)](https://jobright.ai/jobs/info/68bdbb62c4c5904ff6004193?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 07 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5da?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 07 |
 | ↳ | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d8?utm_campaign=1053&utm_source=git)** | Berkeley, CA | On Site | Sep 07 |
@@ -79,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfd9e3bf9eb44f8325a85?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfd95ae79610dacddd244?utm_campaign=1053&utm_source=git)** | Castleton, VT | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfd94ae79610dacddd241?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Sep 06 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfd93ae79610dacddd236?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfd8eae79610dacddd224?utm_campaign=1053&utm_source=git)** | Vermillion, SD | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfd7b3bf9eb44f8325a28?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfd743bf9eb44f8325a10?utm_campaign=1053&utm_source=git)** | Fort Dodge, IA | On Site | Sep 06 |
@@ -101,9 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfcec3bf9eb44f83258b2?utm_campaign=1053&utm_source=git)** | Gambier, OH | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfce73bf9eb44f83258a6?utm_campaign=1053&utm_source=git)** | Flagstaff, AZ | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfce668300c452ca17281?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Sep 06 |
-| ↳ | **[Writer/Journalist Program](https://jobright.ai/jobs/info/68bcfce03bf9eb44f8325897?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfce0ae79610dacddd039?utm_campaign=1053&utm_source=git)** | Poultney, VT | On Site | Sep 06 |
-| ↳ | **[Writer/Journalist Programme](https://jobright.ai/jobs/info/68bcfcdaae79610dacddd02d?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
+| ↳ | **[Writer/Journalist Programme](https://jobright.ai/jobs/info/68bcfcc43bf9eb44f8325843?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfcc1ae79610dacddcff4?utm_campaign=1053&utm_source=git)** | Chinle, AZ | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfcb63bf9eb44f8325821?utm_campaign=1053&utm_source=git)** | Willimantic, CT | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfcb368300c452ca1720a?utm_campaign=1053&utm_source=git)** | Montgomery, AL | On Site | Sep 06 |
@@ -117,7 +116,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc7968300c452ca17157?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc7968300c452ca17158?utm_campaign=1053&utm_source=git)** | Fayetteville, AR | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc76ae79610dacddcf42?utm_campaign=1053&utm_source=git)** | Morgantown, WV | On Site | Sep 06 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc683bf9eb44f832575c?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc5c3bf9eb44f8325727?utm_campaign=1053&utm_source=git)** | Norman, OK | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc563bf9eb44f8325719?utm_campaign=1053&utm_source=git)** | Caldwell, ID | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc503bf9eb44f8325702?utm_campaign=1053&utm_source=git)** | Augusta, GA | On Site | Sep 06 |
@@ -129,6 +127,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc40ae79610dacddcec4?utm_campaign=1053&utm_source=git)** | St Cloud, MN | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc28ae79610dacddce85?utm_campaign=1053&utm_source=git)** | Henderson, NV | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc273bf9eb44f8325694?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Sep 06 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc23ae79610dacddce6b?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc23ae79610dacddce73?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc1568300c452ca1704b?utm_campaign=1053&utm_source=git)** | Cedar Falls, IA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc1568300c452ca17050?utm_campaign=1053&utm_source=git)** | Trenton, NJ | On Site | Sep 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfb71ae79610dacddcc7d?utm_campaign=1053&utm_source=git)** | Muncie, IN | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfb6d68300c452ca16e4d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfb6b68300c452ca16e43?utm_campaign=1053&utm_source=git)** | Mequon, WI | On Site | Sep 06 |
+| ↳ | **[Writer/Journalist Program](https://jobright.ai/jobs/info/68bcfb68ae79610dacddcc5f?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
