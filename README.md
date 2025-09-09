@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GitPart](gitpart.com)** | **[Fall Intern](https://jobright.ai/jobs/info/68c008445c5d5f14f46db304?utm_campaign=1053&utm_source=git)** | Fond du Lac, WI | On Site | Sep 09 |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68c007428e65e77df55be91a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 09 |
 | **[Crystal Springs Resort](https://www.crystalgolfresort.com/)** | **[Banquet Internship](https://jobright.ai/jobs/info/68bff0f55c5d5f14f46dae32?utm_campaign=1053&utm_source=git)** | Hamburg, NJ | On Site | Sep 09 |
 | **[Builder Finance Inc](https://www.builderfinance.com/)** | **[Intern](https://jobright.ai/jobs/info/68bf8a7e8e65e77df55bb372?utm_campaign=1053&utm_source=git)** | Sioux Falls, SD | On Site | Sep 08 |
 | **[Bound by Flavor](boundbyflavor.com)** | **[Intern](https://jobright.ai/jobs/info/68bfac0c702aa35207aa8748?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 08 |
@@ -90,13 +92,16 @@ For a complete list, click the following sortable link below:
 | **[MMR Research](https://www.mmr-research.com/)** | **[Sensient Panelist Recruitment](https://jobright.ai/jobs/info/68bf06db5c5d5f14f46d2db7?utm_campaign=1053&utm_source=git)** | Hoffman Estates, IL | On Site | Sep 08 |
 | **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Athletics Intern](https://jobright.ai/jobs/info/68bee8825c5d5f14f46d21b6?utm_campaign=1053&utm_source=git)** | Success Academy Charter Schools | On Site | Sep 08 |
 | **[Auxio](www.auxiomusic.com)** | **[Auxio Music Intern](https://jobright.ai/jobs/info/68bfc3115c5d5f14f46d9913?utm_campaign=1053&utm_source=git)** | Nutley, NJ | On Site | Sep 08 |
-| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Costume Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36dd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 08 |
+| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Playwright](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36be?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 08 |
+| ↳ | **[Volunteer: Metal Sculptor](https://jobright.ai/jobs/info/67c03f3de73bcd4f4e867048?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 08 |
+| ↳ | **[Volunteer: Costume Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36dd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 08 |
 | **[C-SPAN](http://www.c-span.org)** | **[Internship - Spring 2026 (January-April)](https://jobright.ai/jobs/info/68bdf8bbc4c5904ff600462d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 07 |
 | **[Interlachen Country Club](https://interlachencc.org/)** | **[Golf Course and Grounds Intern](https://jobright.ai/jobs/info/68bdeca3e57feb02eb0ac794?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 07 |
 | **[FullScale Media Group](https://www.fullscalemg.com/)** | **[Video Intern (Unpaid, Part-Time, 3-4 Months)](https://jobright.ai/jobs/info/68bdbb62c4c5904ff6004193?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 07 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5da?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 07 |
 | ↳ | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d8?utm_campaign=1053&utm_source=git)** | Berkeley, CA | On Site | Sep 07 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67f62ea9706f3560f5a1089c?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 07 |
+| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Video Fellowship, Chron](https://jobright.ai/jobs/info/6866928fb4671a57667e7c2a?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Sep 07 |
 | **[Lely](https://www.lely.com/jp/)** | **[Stage bij Lely Center Bunschoten](https://jobright.ai/jobs/info/682de306c14ef2216f6c2509?utm_campaign=1053&utm_source=git)** | Nederland, TX | On Site | Sep 06 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68be6179e57feb02eb0ae2f0?utm_campaign=1053&utm_source=git)** | Juneau, AK | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68be5c1fc4c5904ff6005d0b?utm_campaign=1053&utm_source=git)** | Swainsboro, GA | On Site | Sep 06 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc76ae79610dacddcf42?utm_campaign=1053&utm_source=git)** | Morgantown, WV | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc5c3bf9eb44f8325727?utm_campaign=1053&utm_source=git)** | Norman, OK | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc563bf9eb44f8325719?utm_campaign=1053&utm_source=git)** | Caldwell, ID | On Site | Sep 06 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc50ae79610dacddcef8?utm_campaign=1053&utm_source=git)** | Orono, ME | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc503bf9eb44f8325702?utm_campaign=1053&utm_source=git)** | Augusta, GA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc503bf9eb44f8325705?utm_campaign=1053&utm_source=git)** | Monroe, LA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc50ae79610dacddcef7?utm_campaign=1053&utm_source=git)** | Ann Arbor, MI | On Site | Sep 06 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc50ae79610dacddcef8?utm_campaign=1053&utm_source=git)** | Orono, ME | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc4b3bf9eb44f83256f7?utm_campaign=1053&utm_source=git)** | Wayne, PA | On Site | Sep 06 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc44ae79610dacddced3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 06 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc40ae79610dacddcec4?utm_campaign=1053&utm_source=git)** | St Cloud, MN | On Site | Sep 06 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc28ae79610dacddce85?utm_campaign=1053&utm_source=git)** | Henderson, NV | On Site | Sep 06 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc273bf9eb44f8325694?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Sep 06 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfc23ae79610dacddce73?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
