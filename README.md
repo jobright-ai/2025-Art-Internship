@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/68c1b8e6233c7d3e64d03af1?utm_campaign=1053&utm_source=git)** | LA, Lafayette | On Site | Sep 10 |
+| **[iSolvRisk Inc.](https://www.isolvrisk.com)** | **[Content creator](https://jobright.ai/jobs/info/68c1d3844d652f044775ab6b?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 10 |
+| **[Congressional Country Club](https://www.ccclub.org)** | **[Greens and Grounds Interns](https://jobright.ai/jobs/info/68c1cdc2233c7d3e64d046ea?utm_campaign=1053&utm_source=git)** | Bethesda,MD,US | On Site | Sep 10 |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Curatorial - Time-Based Media Internship](https://jobright.ai/jobs/info/68c1cd01233c7d3e64d04638?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Sep 10 |
+| ↳ | **[[Spring 2026] Research Resources - Archives Internship](https://jobright.ai/jobs/info/68c1cce3233c7d3e64d0461b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
+| ↳ | **[[Spring 2026] Digital Content Internship](https://jobright.ai/jobs/info/68c1cb723fd8b059a20f2700?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68c1c80f4d652f0447759e77?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 10 |
+| **[U.S. Venture, Inc.](http://www.usventure.com)** | **[U.S. Venture Open Intern](https://jobright.ai/jobs/info/68c1c750233c7d3e64d0411d?utm_campaign=1053&utm_source=git)** | Appleton, WI | On Site | Sep 10 |
+| **[Comun](https://en.comun.app)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68c1c6443fd8b059a20f22ee?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 10 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern (Unpaid)](https://jobright.ai/jobs/info/68c1bad44d652f04477598cc?utm_campaign=1053&utm_source=git)** | LA, Lafayette | On Site | Sep 10 |
+| ↳ | **[Intern (Unpaid)](https://jobright.ai/jobs/info/68c1b8e6233c7d3e64d03af1?utm_campaign=1053&utm_source=git)** | LA, Lafayette | On Site | Sep 10 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68c1b72c3fd8b059a20f1c56?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 10 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68c1b72b3fd8b059a20f1c55?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Sep 10 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68c1b6ff3fd8b059a20f1c3f?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Sep 10 |
@@ -75,13 +84,12 @@ For a complete list, click the following sortable link below:
 | **[PGA TOUR](http://www.pgatour.com)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/68c19b913fd8b059a20f0da8?utm_campaign=1053&utm_source=git)** | Silvis, IL | On Site | Sep 10 |
 | **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/68c19918233c7d3e64d028cf?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 10 |
 | **[Black Label Marine Group](http://www.blacklabelmarinegroup.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/68c193a04d652f044775837c?utm_campaign=1053&utm_source=git)** | Pinellas Park, FL | Hybrid | Sep 10 |
-| **[Surya Sound Temple](https://www.suryasoundtemple.org)** | **[Intern](https://jobright.ai/jobs/info/68c162b44d652f044775751f?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Sep 10 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Internship, Newsroom/Production](https://jobright.ai/jobs/info/68a526b6b6a3617d7fa6f0b9?utm_campaign=1053&utm_source=git)** | Augusta, GA | On Site | Sep 10 |
 | **[Morehouse College National Alumni Association](http://www.morehousecollegealumni.org/)** | **[Student Production Assistant](https://jobright.ai/jobs/info/68c15a05233c7d3e64d01693?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 10 |
 | **[Atlanta Athletic Club](http://www.atlantaathleticclub.org)** | **[Golf Course Maintenance Intern](https://jobright.ai/jobs/info/68c150c6233c7d3e64d01425?utm_campaign=1053&utm_source=git)** | Duluth, GA | On Site | Sep 10 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Fall 2025](https://jobright.ai/jobs/info/68c14b3f233c7d3e64d0134a?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 10 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Decider News](https://jobright.ai/jobs/info/68c0f8585c5d5f14f46e2b04?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
 | **[RAW MEDIA OFFICIAL](rawmediaofficial.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/68c0e86b702aa35207ab19c7?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Sep 09 |
-| **[AFM Agency](https://afmagency.net/)** | **[Short Video Editing Intern](https://jobright.ai/jobs/info/68c0d820702aa35207ab10f4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Ryder's Paid Internship - Part Time](https://jobright.ai/jobs/info/68c0d6925c5d5f14f46e185a?utm_campaign=1053&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 09 |
 | ↳ | **[Ryder's Paid Internship - Part Time](https://jobright.ai/jobs/info/68c0d5ee8e65e77df55c4f42?utm_campaign=1053&utm_source=git)** | Cedar Falls, IA | On Site | Sep 09 |
 | ↳ | **[Ryder's Paid Internship - Part Time](https://jobright.ai/jobs/info/68c0d48b702aa35207ab0d81?utm_campaign=1053&utm_source=git)** | Davenport, IA | On Site | Sep 09 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Willowbend Club, Cape Cod](https://willowbendcapecod.com/)** | **[PGA-PGM Golf Intern](https://jobright.ai/jobs/info/68bf16c35c5d5f14f46d38ea?utm_campaign=1053&utm_source=git)** | Mashpee, MA | On Site | Sep 08 |
 | **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Goldenvoice Festivals (Production)](https://jobright.ai/jobs/info/68bf162c702aa35207aa2ec7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 08 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Decider News](https://jobright.ai/jobs/info/68bf0a11702aa35207aa2887?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Sep 08 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, Sports](https://jobright.ai/jobs/info/68befb30702aa35207aa20da?utm_campaign=1053&utm_source=git)** | LA, Lafayette | On Site | Sep 08 |
-| **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Athletics Intern](https://jobright.ai/jobs/info/68bee8825c5d5f14f46d21b6?utm_campaign=1053&utm_source=git)** | Success Academy Charter Schools | On Site | Sep 08 |
-| **[Auxio](www.auxiomusic.com)** | **[Auxio Music Intern](https://jobright.ai/jobs/info/68bfc3115c5d5f14f46d9913?utm_campaign=1053&utm_source=git)** | Nutley, NJ | On Site | Sep 08 |
-| **[Prism Specialties of South Florida](https://www.prismspecialties.com/services/art-collectibles/)** | **[Art Restoration Intern](https://jobright.ai/jobs/info/68c036a85c5d5f14f46dbcea?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 08 |
-| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Playwright](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36be?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 08 |
-| ↳ | **[Volunteer: Metal Sculptor](https://jobright.ai/jobs/info/67c03f3de73bcd4f4e867048?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 08 |
-| ↳ | **[Volunteer: Costume Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36dd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 08 |
-| **[C-SPAN](http://www.c-span.org)** | **[Internship - Spring 2026 (January-April)](https://jobright.ai/jobs/info/68bdf8bbc4c5904ff600462d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
