@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ryder's Paid Internship - Part Time](https://jobright.ai/jobs/info/68c0d5ee8e65e77df55c4f42?utm_campaign=1053&utm_source=git)** | Cedar Falls, IA | On Site | Sep 09 |
 | ↳ | **[Ryder's Paid Internship - Part Time](https://jobright.ai/jobs/info/68c0d48b702aa35207ab0d81?utm_campaign=1053&utm_source=git)** | Davenport, IA | On Site | Sep 09 |
 | **[Tribeca](https://www.tribecafilm.com)** | **[2026 TRIBECA FESTIVAL Programming Dept. Internship](https://jobright.ai/jobs/info/68c0cdf98e65e77df55c49de?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
+| **[Philadelphia International Airport (PHL)](https://www.phl.org/)** | **[Intern - Tailor job](https://jobright.ai/jobs/info/68c16aca233c7d3e64d01a1a?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 09 |
 | **[USA Triathlon](https://www.teamusa.org/usa-triathlon)** | **[Collegiate Club Intern](https://jobright.ai/jobs/info/68c0bf3b702aa35207ab01ca?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | Remote | Sep 09 |
 | **[Atomo Coffee](https://atomocoffee.com)** | **[Content Creator/Videographer Intern (Full-Time, 3+ months)](https://jobright.ai/jobs/info/68c0b3038e65e77df55c3b55?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 09 |
 | **[Wild 7 Studios ](http://wild7studios.com)** | **[Fall Post Production Internship](https://jobright.ai/jobs/info/68c0acad702aa35207aaf8d5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 09 |
@@ -92,10 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Vermeer Corporation](https://borestore.com/)** | **[Audio Visual Intern](https://jobright.ai/jobs/info/68c04be75c5d5f14f46dc62b?utm_campaign=1053&utm_source=git)** | Pella, Iowa, USA - Pavilion | On Site | Sep 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Content Production Intern, Spring 2026](https://jobright.ai/jobs/info/68c04a218e65e77df55bfaf7?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Sep 09 |
 | **[Ditch Witch](https://ditchwitchworx.com/)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/68c041c4702aa35207aab785?utm_campaign=1053&utm_source=git)** | Noble County, OK | On Site | Sep 09 |
-| **[Dolan Mental Health](https://www.linkedin.com/company/18427535)** | **[Work From Home Internships](https://jobright.ai/jobs/info/68c0c6cb5c5d5f14f46e0d96?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Sep 09 |
-| ↳ | **[Work From Home Internships](https://jobright.ai/jobs/info/68c0c7775c5d5f14f46e0e22?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Sep 09 |
-| ↳ | **[Work From Home Internships](https://jobright.ai/jobs/info/68c0c6aa702aa35207ab04ac?utm_campaign=1053&utm_source=git)** | Florida, United States | Hybrid | Sep 09 |
-| ↳ | **[Work From Home Internships](https://jobright.ai/jobs/info/68c0c793702aa35207ab0560?utm_campaign=1053&utm_source=git)** | Pennsylvania, United States | Hybrid | Sep 09 |
 | **[ANOTHER A STORY](https://anotherastory.com)** | **[STUDIO ASSISTANT NY](https://jobright.ai/jobs/info/68c02f0c8e65e77df55bf186?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | **[GitPart](gitpart.com)** | **[Fall Intern](https://jobright.ai/jobs/info/68c008445c5d5f14f46db304?utm_campaign=1053&utm_source=git)** | Fond du Lac, WI | On Site | Sep 09 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68c007428e65e77df55be91a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 09 |
@@ -136,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Decider News](https://jobright.ai/jobs/info/68bf0a11702aa35207aa2887?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Sep 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, Sports](https://jobright.ai/jobs/info/68befb30702aa35207aa20da?utm_campaign=1053&utm_source=git)** | LA, Lafayette | On Site | Sep 08 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[TikTok Intern](https://jobright.ai/jobs/info/68bef4425c5d5f14f46d26b5?utm_campaign=1053&utm_source=git)** | Birmingham, AL | Remote | Sep 08 |
-| **[MMR Research](https://www.mmr-research.com/)** | **[Sensient Panelist Recruitment](https://jobright.ai/jobs/info/68bf06db5c5d5f14f46d2db7?utm_campaign=1053&utm_source=git)** | Hoffman Estates, IL | On Site | Sep 08 |
 | **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Athletics Intern](https://jobright.ai/jobs/info/68bee8825c5d5f14f46d21b6?utm_campaign=1053&utm_source=git)** | Success Academy Charter Schools | On Site | Sep 08 |
 | **[Auxio](www.auxiomusic.com)** | **[Auxio Music Intern](https://jobright.ai/jobs/info/68bfc3115c5d5f14f46d9913?utm_campaign=1053&utm_source=git)** | Nutley, NJ | On Site | Sep 08 |
 | **[Prism Specialties of South Florida](https://www.prismspecialties.com/services/art-collectibles/)** | **[Art Restoration Intern](https://jobright.ai/jobs/info/68c036a85c5d5f14f46dbcea?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 08 |
@@ -154,7 +150,11 @@ For a complete list, click the following sortable link below:
 | **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68be6179e57feb02eb0ae2f0?utm_campaign=1053&utm_source=git)** | Juneau, AK | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68be5c1fc4c5904ff6005d0b?utm_campaign=1053&utm_source=git)** | Swainsboro, GA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfe64ae79610dacddd442?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Sep 06 |
+| ↳ | **[Writer/Journalist Programme](https://jobright.ai/jobs/info/68bcfe51ae79610dacddd418?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfe51ae79610dacddd41c?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfe23ae79610dacddd3a0?utm_campaign=1053&utm_source=git)** | Westfield, MA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfe04ae79610dacddd35d?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Sep 06 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfdfcae79610dacddd347?utm_campaign=1053&utm_source=git)** | Charleston, SC | On Site | Sep 06 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfdf6ae79610dacddd336?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Sep 06 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfda4ae79610dacddd26e?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
