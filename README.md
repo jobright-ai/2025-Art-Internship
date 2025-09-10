@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RAW MEDIA OFFICIAL](rawmediaofficial.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/68c0e86b702aa35207ab19c7?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Sep 09 |
 | **[AFM Agency](https://afmagency.net/)** | **[Short Video Editing Intern](https://jobright.ai/jobs/info/68c0d820702aa35207ab10f4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Ryder's Paid Internship - Part Time](https://jobright.ai/jobs/info/68c0d6925c5d5f14f46e185a?utm_campaign=1053&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 09 |
 | ↳ | **[Ryder's Paid Internship - Part Time](https://jobright.ai/jobs/info/68c0d5ee8e65e77df55c4f42?utm_campaign=1053&utm_source=git)** | Cedar Falls, IA | On Site | Sep 09 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Early Learning Essentials](http://eleutah.org/)** | **[Events and Community Exposure Internship](https://jobright.ai/jobs/info/68c08d4a8e65e77df55c27da?utm_campaign=1053&utm_source=git)** | Provo, UT | On Site | Sep 09 |
 | **[Democracy Docket](https://www.democracydocket.com)** | **[News Team Spring 2026 Internship](https://jobright.ai/jobs/info/68c089f75c5d5f14f46df047?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 09 |
 | **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern-Events and Programs-Jan Dempsey Community Arts Center](https://jobright.ai/jobs/info/68c083128e65e77df55c2073?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Sep 09 |
-| **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Video & Production Intern](https://jobright.ai/jobs/info/68c081fd5c5d5f14f46de97a?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 09 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Co-op - Brand Journalist](https://jobright.ai/jobs/info/68c07f7f702aa35207aadd92?utm_campaign=1053&utm_source=git)** | US - California - Thousand Oaks | Hybrid | Sep 09 |
 | **[Andreessen Horowitz](http://www.a16z.com)** | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/68c07e09702aa35207aadc02?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 09 |
 | **[Vermeer Corporation](https://borestore.com/)** | **[Audio Visual Intern](https://jobright.ai/jobs/info/68c07543702aa35207aad2e1?utm_campaign=1053&utm_source=git)** | Pella, IA | On Site | Sep 09 |
@@ -86,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Vermeer Corporation](https://borestore.com/)** | **[Audio Visual Intern](https://jobright.ai/jobs/info/68c04be75c5d5f14f46dc62b?utm_campaign=1053&utm_source=git)** | Pella, Iowa, USA - Pavilion | On Site | Sep 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Content Production Intern, Spring 2026](https://jobright.ai/jobs/info/68c04a218e65e77df55bfaf7?utm_campaign=1053&utm_source=git)** | Winter Garden, FL | On Site | Sep 09 |
 | **[Ditch Witch](https://ditchwitchworx.com/)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/68c041c4702aa35207aab785?utm_campaign=1053&utm_source=git)** | Noble County, OK | On Site | Sep 09 |
-| **[Dolan Mental Health](https://www.linkedin.com/company/18427535)** | **[Work From Home Internships](https://jobright.ai/jobs/info/68c0c6cb5c5d5f14f46e0d96?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Sep 09 |
-| ↳ | **[Work From Home Internships](https://jobright.ai/jobs/info/68c0c7775c5d5f14f46e0e22?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Sep 09 |
+| **[Dolan Mental Health](https://www.linkedin.com/company/18427535)** | **[Work From Home Internships](https://jobright.ai/jobs/info/68c0c7775c5d5f14f46e0e22?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Sep 09 |
+| ↳ | **[Work From Home Internships](https://jobright.ai/jobs/info/68c0c6cb5c5d5f14f46e0d96?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Sep 09 |
 | ↳ | **[Work From Home Internships](https://jobright.ai/jobs/info/68c0c71f5c5d5f14f46e0ddc?utm_campaign=1053&utm_source=git)** | Texas, United States | Hybrid | Sep 09 |
 | ↳ | **[Work From Home Internships](https://jobright.ai/jobs/info/68c0c99f5c5d5f14f46e1000?utm_campaign=1053&utm_source=git)** | California, United States | Hybrid | Sep 09 |
 | ↳ | **[Work From Home Internships](https://jobright.ai/jobs/info/68c0c9c45c5d5f14f46e1025?utm_campaign=1053&utm_source=git)** | Illinois, United States | Hybrid | Sep 09 |
@@ -149,7 +149,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfe23ae79610dacddd3a0?utm_campaign=1053&utm_source=git)** | Westfield, MA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfe04ae79610dacddd35d?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfdf6ae79610dacddd336?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Sep 06 |
-| ↳ | **[Writer/Journalist Programme](https://jobright.ai/jobs/info/68bcfdb13bf9eb44f8325ab4?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
+| ↳ | **[Writer/Journalist Program](https://jobright.ai/jobs/info/68bcfde8ae79610dacddd30e?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfda4ae79610dacddd26e?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfd9e3bf9eb44f8325a85?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfd95ae79610dacddd244?utm_campaign=1053&utm_source=git)** | Castleton, VT | On Site | Sep 06 |
