@@ -60,11 +60,11 @@ For a complete list, click the following sortable link below:
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hershey Country Club Culinary Intern - Fall 2025](https://jobright.ai/jobs/info/68c100c38e65e77df55c6863?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Sep 09 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Decider News](https://jobright.ai/jobs/info/68c0f8585c5d5f14f46e2b04?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
 | **[RAW MEDIA OFFICIAL](rawmediaofficial.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/68c0e86b702aa35207ab19c7?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Sep 09 |
+| **[Tribeca](https://www.tribecafilm.com)** | **[2026 TRIBECA FESTIVAL Programming Dept. Internship](https://jobright.ai/jobs/info/68c128a03fd8b059a20ee695?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
 | **[AFM Agency](https://afmagency.net/)** | **[Short Video Editing Intern](https://jobright.ai/jobs/info/68c0d820702aa35207ab10f4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Ryder's Paid Internship - Part Time](https://jobright.ai/jobs/info/68c0d6925c5d5f14f46e185a?utm_campaign=1053&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 09 |
 | ↳ | **[Ryder's Paid Internship - Part Time](https://jobright.ai/jobs/info/68c0d5ee8e65e77df55c4f42?utm_campaign=1053&utm_source=git)** | Cedar Falls, IA | On Site | Sep 09 |
 | ↳ | **[Ryder's Paid Internship - Part Time](https://jobright.ai/jobs/info/68c0d48b702aa35207ab0d81?utm_campaign=1053&utm_source=git)** | Davenport, IA | On Site | Sep 09 |
-| **[Tribeca](https://www.tribecafilm.com)** | **[2026 TRIBECA FESTIVAL Programming Dept. Internship](https://jobright.ai/jobs/info/68c0cdf98e65e77df55c49de?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
 | **[USA Triathlon](https://www.teamusa.org/usa-triathlon)** | **[Collegiate Club Intern](https://jobright.ai/jobs/info/68c0bf3b702aa35207ab01ca?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | Remote | Sep 09 |
 | **[Atomo Coffee](https://atomocoffee.com)** | **[Content Creator/Videographer Intern (Full-Time, 3+ months)](https://jobright.ai/jobs/info/68c0b3038e65e77df55c3b55?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 09 |
 | **[Wild 7 Studios ](http://wild7studios.com)** | **[Fall Post Production Internship](https://jobright.ai/jobs/info/68c0acad702aa35207aaf8d5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 09 |
@@ -95,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[ANOTHER A STORY](https://anotherastory.com)** | **[STUDIO ASSISTANT NY](https://jobright.ai/jobs/info/68c02f0c8e65e77df55bf186?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | **[GitPart](gitpart.com)** | **[Fall Intern](https://jobright.ai/jobs/info/68c008445c5d5f14f46db304?utm_campaign=1053&utm_source=git)** | Fond du Lac, WI | On Site | Sep 09 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68c007428e65e77df55be91a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 09 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68a387c137d3cc6b0d577f3c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 09 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Film Editor](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36c8?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 09 |
 | **[Crystal Springs Resort](https://www.crystalgolfresort.com/)** | **[Banquet Internship](https://jobright.ai/jobs/info/68bff0f55c5d5f14f46dae32?utm_campaign=1053&utm_source=git)** | Hamburg, NJ | On Site | Sep 09 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Set Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36bb?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 08 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfe51ae79610dacddd41c?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfe23ae79610dacddd3a0?utm_campaign=1053&utm_source=git)** | Westfield, MA | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfe04ae79610dacddd35d?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Sep 06 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfdfcae79610dacddd347?utm_campaign=1053&utm_source=git)** | Charleston, SC | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfdf6ae79610dacddd336?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfda4ae79610dacddd26e?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfd9e3bf9eb44f8325a85?utm_campaign=1053&utm_source=git)** | West Lafayette, IN | On Site | Sep 06 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfd95ae79610dacddd244?utm_campaign=1053&utm_source=git)** | Castleton, VT | On Site | Sep 06 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfd94ae79610dacddd241?utm_campaign=1053&utm_source=git)** | New Haven, CT | On Site | Sep 06 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68bcfd93ae79610dacddd236?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
