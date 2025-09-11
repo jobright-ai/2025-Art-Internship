@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/68c2c0f25001f8077bf5dcb5?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 11 |
+| **[Patients For Affordable Drugs](http://www.patientsforaffordabledrugs.org/)** | **[Intern, Content Creator](https://jobright.ai/jobs/info/68c2ebc463829b0a8a4fde61?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 11 |
+| **[Tractenberg & Co.](http://tractenbergandco.com)** | **[Beauty Intern](https://jobright.ai/jobs/info/68c2d74263829b0a8a4fd4d7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 11 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/68c2cb655adaee6c9bda42c3?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 11 |
+| ↳ | **[Production Assistant-Video Archive(Temp Position)](https://jobright.ai/jobs/info/68c2d8b45adaee6c9bda4b0b?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 11 |
 | **[Andreessen Horowitz](http://www.a16z.com)** | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/68c098205c5d5f14f46df7e4?utm_campaign=1053&utm_source=git)** | United States (Remote) | Remote | Sep 11 |
 | **[SkyTrade](https://sky.trade)** | **[Content creator interns to produce TikTok shorts (fully remote)](https://jobright.ai/jobs/info/68c2a9c45adaee6c9bda323f?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Sep 11 |
 | **[D.C. United](http://dcunited.com)** | **[Internship: Events and Entertainment Intern - Fall 2025](https://jobright.ai/jobs/info/68c2b1845adaee6c9bda3607?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 11 |
 | **[Ithaca College](http://www.ithaca.edu)** | **[STUDENT-Concert Program Editor](https://jobright.ai/jobs/info/68c255174d652f044775f78d?utm_campaign=1053&utm_source=git)** | 953 Danby Road, Ithaca, NY, 14850, US | On Site | Sep 10 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Intern](https://jobright.ai/jobs/info/68c22a194d652f044775d947?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 10 |
+| **[Rockin' Your Sober Life](https://rockinyoursoberlife.com)** | **[Mocktail Madness Intern](https://jobright.ai/jobs/info/68c2d3d15001f8077bf5e953?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 10 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Video Production Intern](https://jobright.ai/jobs/info/68c221c833864f172f9bd5b3?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 10 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Digital Content Internship](https://jobright.ai/jobs/info/68c212db33864f172f9bcd8f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Broadcast - Dignity Health Sports Park](https://jobright.ai/jobs/info/68c212a133864f172f9bcd62?utm_campaign=1053&utm_source=git)** | Carson, CA | On Site | Sep 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68c007428e65e77df55be91a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 09 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68a387c137d3cc6b0d577f3c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 09 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Film Editor](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36c8?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 09 |
-| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern-Events and Programs-Jan Dempsey Community Arts Center](https://jobright.ai/jobs/info/68c162bb3fd8b059a20efac0?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Sep 09 |
-| **[Crystal Springs Resort](https://www.crystalgolfresort.com/)** | **[Banquet Internship](https://jobright.ai/jobs/info/68bff0f55c5d5f14f46dae32?utm_campaign=1053&utm_source=git)** | Hamburg, NJ | On Site | Sep 09 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Internship](https://jobright.ai/jobs/info/67f965625c2cf2888f6ee1b7?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Sep 09 |
-| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Set Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36bb?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
