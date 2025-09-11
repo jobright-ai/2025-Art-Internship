@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Student U](https://www.studentudurham.org/)** | **[Communications & Storytelling Intern](https://jobright.ai/jobs/info/68c2f81c5001f8077bf5fd46?utm_campaign=1053&utm_source=git)** | Durham, NC | Hybrid | Sep 11 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Show Programming (Figure Animator) Intern, Spring 2026](https://jobright.ai/jobs/info/68c2f01e5001f8077bf5f970?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Sep 11 |
+| **[RAW APP](https://www.raw.app)** | **[Aspiring Content Creator](https://jobright.ai/jobs/info/68c2efb563829b0a8a4fe3b0?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 11 |
 | **[Patients For Affordable Drugs](http://www.patientsforaffordabledrugs.org/)** | **[Intern, Content Creator](https://jobright.ai/jobs/info/68c2ebc463829b0a8a4fde61?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 11 |
 | **[Tractenberg & Co.](http://tractenbergandco.com)** | **[Beauty Intern](https://jobright.ai/jobs/info/68c2d74263829b0a8a4fd4d7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 11 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/68c2cb655adaee6c9bda42c3?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 11 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/68c2c0f25001f8077bf5dcb5?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 11 |
 | ↳ | **[Production Assistant-Video Archive(Temp Position)](https://jobright.ai/jobs/info/68c2d8b45adaee6c9bda4b0b?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 11 |
 | **[Andreessen Horowitz](http://www.a16z.com)** | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/68c098205c5d5f14f46df7e4?utm_campaign=1053&utm_source=git)** | United States (Remote) | Remote | Sep 11 |
 | **[SkyTrade](https://sky.trade)** | **[Content creator interns to produce TikTok shorts (fully remote)](https://jobright.ai/jobs/info/68c2a9c45adaee6c9bda323f?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Sep 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ditch Witch](https://ditchwitchworx.com/)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/68c041c4702aa35207aab785?utm_campaign=1053&utm_source=git)** | Noble County, OK | On Site | Sep 09 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/66c561eb60544c52d762dd10?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
 | **[GitPart](gitpart.com)** | **[Fall Intern](https://jobright.ai/jobs/info/68c008445c5d5f14f46db304?utm_campaign=1053&utm_source=git)** | Fond du Lac, WI | On Site | Sep 09 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68c007428e65e77df55be91a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 09 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Entertainment (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68a387c137d3cc6b0d577f3c?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 09 |
-| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Film Editor](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36c8?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
