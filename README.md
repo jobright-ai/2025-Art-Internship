@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arlington County Government](https://www.arlingtonva.us)** | **[Investigative Assistant Intern (Unpaid)](https://jobright.ai/jobs/info/68c3ac38b8c22d38284745ec?utm_campaign=1053&utm_source=git)** | 1425 Courthouse Rd, Arlington, VA, 22201, US | On Site | Sep 11 |
 | **[Cider](https://shop.shopcider.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68c37db5b8c22d38284722f1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 11 |
 | **[Minnesota Twins](https://twins.mlb.com/)** | **[Intern, Tours](https://jobright.ai/jobs/info/68c371336031587f8458ad18?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
 | **[St. Olaf College](http://stolaf.edu)** | **[Student Artistic Director for Veselica International Dance Company](https://jobright.ai/jobs/info/68c3710f6031587f8458acc2?utm_campaign=1053&utm_source=git)** | 1520 St. Olaf Avenue, Northfield, MN, 55057, US | On Site | Sep 11 |
@@ -84,14 +85,14 @@ For a complete list, click the following sortable link below:
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Content Writer](https://jobright.ai/jobs/info/68c31e6f63829b0a8a4ffd88?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Sep 11 |
 | **[Penn State University](http://psu.edu)** | **[Intern- Videographer/Editor](https://jobright.ai/jobs/info/68c31e665001f8077bf612d6?utm_campaign=1053&utm_source=git)** | Penn State University Park | On Site | Sep 11 |
 | **[Brunswick Boat Group](http://www.brunswick.com)** | **[Advanced Research & Storytelling Intern- BBGTC](https://jobright.ai/jobs/info/68c31e4663829b0a8a4ffd14?utm_campaign=1053&utm_source=git)** | Edgewater, FL | On Site | Sep 11 |
-| **[Graphis Inc.](https://www.graphis.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68c3182363829b0a8a4ff87b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 11 |
+| **[Graphis Inc.](https://www.graphis.com/)** | **[Editor Intern](https://jobright.ai/jobs/info/68c3182363829b0a8a4ff87b?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 11 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Show Programming (Figure Animator) Intern, Spring 2026](https://jobright.ai/jobs/info/68c2f01e5001f8077bf5f970?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Sep 11 |
 | **[RAW APP](https://www.raw.app)** | **[Aspiring Content Creator](https://jobright.ai/jobs/info/68c2efb563829b0a8a4fe3b0?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 11 |
 | **[Washingtonian Magazine](http://www.washingtonian.com/)** | **[Editorial Fellowship](https://jobright.ai/jobs/info/68c30c1663829b0a8a4ff262?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 11 |
-| **[Patients For Affordable Drugs](http://www.patientsforaffordabledrugs.org/)** | **[Multimedia and Content Intern](https://jobright.ai/jobs/info/68c2ebc463829b0a8a4fde61?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 11 |
 | **[Tractenberg & Co.](http://tractenbergandco.com)** | **[Beauty Intern](https://jobright.ai/jobs/info/68c2d74263829b0a8a4fd4d7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 11 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/68c2cb655adaee6c9bda42c3?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 11 |
-| ↳ | **[Lifestyle Show Intern](https://jobright.ai/jobs/info/68c3317f5adaee6c9bda80a7?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | Sep 11 |
+| **[Patients For Affordable Drugs](http://www.patientsforaffordabledrugs.org/)** | **[Intern, Content Creator](https://jobright.ai/jobs/info/68c2ebc463829b0a8a4fde61?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 11 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Intern](https://jobright.ai/jobs/info/68c3317f5adaee6c9bda80a7?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | Sep 11 |
+| ↳ | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/68c2c0f25001f8077bf5dcb5?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 11 |
 | ↳ | **[Production Assistant-Video Archive(Temp Position)](https://jobright.ai/jobs/info/68c2d8b45adaee6c9bda4b0b?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 11 |
 | **[Andreessen Horowitz](http://www.a16z.com)** | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/68c098205c5d5f14f46df7e4?utm_campaign=1053&utm_source=git)** | United States (Remote) | Remote | Sep 11 |
 | **[SkyTrade](https://sky.trade)** | **[Content creator interns to produce TikTok shorts (fully remote)](https://jobright.ai/jobs/info/68c2a9c45adaee6c9bda323f?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Sep 11 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Internship Program: Summer 2026](https://jobright.ai/jobs/info/68a369e637d3cc6b0d576a99?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 09 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Decider News](https://jobright.ai/jobs/info/68c0f8585c5d5f14f46e2b04?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
 | **[RAW MEDIA OFFICIAL](rawmediaofficial.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/68c0e86b702aa35207ab19c7?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Sep 09 |
-| **[Tribeca](https://www.tribecafilm.com)** | **[2026 TRIBECA FESTIVAL Programming Dept. Internship](https://jobright.ai/jobs/info/68c128a03fd8b059a20ee695?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Ryder's Paid Internship - Part Time](https://jobright.ai/jobs/info/68c0d6925c5d5f14f46e185a?utm_campaign=1053&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
