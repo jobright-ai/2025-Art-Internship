@@ -88,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Content Writer](https://jobright.ai/jobs/info/68c31e6f63829b0a8a4ffd88?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Sep 11 |
 | **[Penn State University](http://psu.edu)** | **[Intern- Videographer/Editor](https://jobright.ai/jobs/info/68c31e665001f8077bf612d6?utm_campaign=1053&utm_source=git)** | Penn State University Park | On Site | Sep 11 |
 | **[Brunswick Boat Group](http://www.brunswick.com)** | **[Advanced Research & Storytelling Intern- BBGTC](https://jobright.ai/jobs/info/68c31e4663829b0a8a4ffd14?utm_campaign=1053&utm_source=git)** | Edgewater, FL | On Site | Sep 11 |
-| **[Graphis Inc.](https://www.graphis.com/)** | **[Editor Intern](https://jobright.ai/jobs/info/68c3182363829b0a8a4ff87b?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 11 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Show Programming (Figure Animator) Intern, Spring 2026](https://jobright.ai/jobs/info/68c2f01e5001f8077bf5f970?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Sep 11 |
 | **[Washingtonian Magazine](http://www.washingtonian.com/)** | **[Editorial Fellowship](https://jobright.ai/jobs/info/68c30c1663829b0a8a4ff262?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 11 |
 | **[Tractenberg & Co.](http://tractenbergandco.com)** | **[Beauty Intern](https://jobright.ai/jobs/info/68c2d74263829b0a8a4fd4d7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Hair Stylist and Makeup Artist Intern/Volunteer](https://jobright.ai/jobs/info/68c3c89b6031587f8458e9e1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 10 |
 | **[WETA](https://weta.org/)** | **[News Assistant, Politics](https://jobright.ai/jobs/info/68ba20576105227d1189b14a?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Sep 09 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Internship Program: Summer 2026](https://jobright.ai/jobs/info/68a369e637d3cc6b0d576a99?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 09 |
+| **[New York Post](http://nypost.com/)** | **[Intern, Decider News](https://jobright.ai/jobs/info/68c0f8585c5d5f14f46e2b04?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
