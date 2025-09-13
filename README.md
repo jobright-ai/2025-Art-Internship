@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Chellie Carlson Style](http://www.chelliecarlson.com)** | **[LA Based FALL Fashion Intern](https://jobright.ai/jobs/info/68c4a2cee396b25cb5c69cad?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 12 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Gameday Production Internship - Summer '26](https://jobright.ai/jobs/info/68c4e198c96a22563ece3523?utm_campaign=1053&utm_source=git)** | Minnetrista, MN | Hybrid | Sep 12 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WWSB](https://jobright.ai/jobs/info/68c4e083c96a22563ece3284?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Sep 12 |
-| **[Noble Mobile](https://noblemobile.com)** | **[Content Creator](https://jobright.ai/jobs/info/68c49dcee471ef3ce16d7bff?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, California Spring 2026](https://jobright.ai/jobs/info/68c595d4db52c07d28843591?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Sep 12 |
 | ↳ | **[Editorial Internship, New York Spring 2026](https://jobright.ai/jobs/info/68c476f414bb275ce0193a7c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Broadcast Internship (VAB)](https://jobright.ai/jobs/info/68c5028bc96a22563ece5fa4?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Sep 12 |
@@ -78,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Playhouse](https://playhouse-ai.world)** | **[VFX Intern](https://jobright.ai/jobs/info/68c4598814bb275ce01928ee?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Hybrid | Sep 12 |
 | **[Wolfgang Puck Catering](https://www.wolfgangpuckcatering.com)** | **[Culinary Intern, Wolfgang Puck Catering / Netflix / Los Angeles, CA](https://jobright.ai/jobs/info/68c5135dc96a22563ece6faa?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 12 |
 | **[Flik Hospitality Group ](https://www.flik-usa.com/)** | **[Culinary Intern, FLIK / Indianapolis Colts / Indianapolis, IN](https://jobright.ai/jobs/info/68c50113c96a22563ece5b7d?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 12 |
-| ↳ | **[Culinary Intern, FLIK / Tennessee Titans / Nashville, TN](https://jobright.ai/jobs/info/68c50679db52c07d28840079?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 12 |
 | ↳ | **[Culinary Intern, FLIK / Baltimore Ravens / Owings Mills, MD](https://jobright.ai/jobs/info/68c500b9db52c07d2883f931?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Sep 12 |
+| ↳ | **[Culinary Intern, FLIK / Tennessee Titans / Nashville, TN](https://jobright.ai/jobs/info/68c50679db52c07d28840079?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 12 |
 | ↳ | **[Culinary Intern, FLIK / Tabor Academy / Marion, MA](https://jobright.ai/jobs/info/68c501cf7d0db41142731132?utm_campaign=1053&utm_source=git)** | Marion, MA | On Site | Sep 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Broadcast Internship (VAB)](https://jobright.ai/jobs/info/68c4333814bb275ce019182d?utm_campaign=1053&utm_source=git)** | VT, Colchester | On Site | Sep 12 |
 | **[National Journal](http://www.nationaljournal.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/688aacf49f961617fe21d5f2?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 12 |
@@ -123,15 +122,14 @@ For a complete list, click the following sortable link below:
 | **[Washingtonian Magazine](http://www.washingtonian.com/)** | **[Editorial Fellowship](https://jobright.ai/jobs/info/68c30c1663829b0a8a4ff262?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 11 |
 | **[Tractenberg & Co.](http://tractenbergandco.com)** | **[Beauty Intern](https://jobright.ai/jobs/info/68c2d74263829b0a8a4fd4d7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 11 |
 | **[Penn State University](http://psu.edu)** | **[Community Archives Project - Undergraduate Fellow - Libraries](https://jobright.ai/jobs/info/68c501e1c96a22563ece5da2?utm_campaign=1053&utm_source=git)** | University Park, PA | On Site | Sep 11 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/68c2cb655adaee6c9bda42c3?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 11 |
-| ↳ | **[Lifestyle Show Intern](https://jobright.ai/jobs/info/68c3317f5adaee6c9bda80a7?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | Sep 11 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Intern](https://jobright.ai/jobs/info/68c3317f5adaee6c9bda80a7?utm_campaign=1053&utm_source=git)** | Fort Wayne, IN | On Site | Sep 11 |
+| ↳ | **[Paid Intern (Photojournalist/Multi-Media Journalist/Producer)](https://jobright.ai/jobs/info/68c2c0f25001f8077bf5dcb5?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 11 |
 | ↳ | **[Intern I, News](https://jobright.ai/jobs/info/68a62276758f2e4ac3fe2f6a?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Sep 11 |
 | ↳ | **[Production Assistant-Video Archive(Temp Position)](https://jobright.ai/jobs/info/68c2d8b45adaee6c9bda4b0b?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Sep 11 |
 | **[Andreessen Horowitz](http://www.a16z.com)** | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/68c098205c5d5f14f46df7e4?utm_campaign=1053&utm_source=git)** | United States (Remote) | Remote | Sep 11 |
 | **[SkyTrade](https://sky.trade)** | **[Content creator interns to produce TikTok shorts (fully remote)](https://jobright.ai/jobs/info/68c2a9c45adaee6c9bda323f?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Sep 11 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Behavioral Health Friday Night Live (Indio) - Paid Internship](https://jobright.ai/jobs/info/68b8a4a25b42bc45628268c9?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Sep 11 |
 | **[Ithaca College](http://www.ithaca.edu)** | **[STUDENT-Concert Program Editor](https://jobright.ai/jobs/info/68c255174d652f044775f78d?utm_campaign=1053&utm_source=git)** | 953 Danby Road, Ithaca, NY, 14850, US | On Site | Sep 10 |
-| **[Rockin' Your Sober Life](https://rockinyoursoberlife.com)** | **[Mocktail Madness Intern](https://jobright.ai/jobs/info/68c2d3d15001f8077bf5e953?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 10 |
 | **[Minnesota Twins](https://twins.mlb.com/)** | **[Intern, Video Production/Editing](https://jobright.ai/jobs/info/68c3746c80e77b1fa6fc95d3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
 | ↳ | **[Intern, Tours](https://jobright.ai/jobs/info/68c370536031587f8458ab27?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
 | ↳ | **[Intern, Twins Production](https://jobright.ai/jobs/info/68c377d280e77b1fa6fc96a9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Video Coordinator](https://jobright.ai/jobs/info/68c1f69333864f172f9bc04a?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Sep 10 |
 | **[Congressional Country Club](https://www.ccclub.org)** | **[Greens and Grounds Interns](https://jobright.ai/jobs/info/68c1cdc2233c7d3e64d046ea?utm_campaign=1053&utm_source=git)** | Bethesda,MD,US | On Site | Sep 10 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Curatorial - Time-Based Media Internship](https://jobright.ai/jobs/info/68c1cd01233c7d3e64d04638?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Sep 10 |
+| ↳ | **[[Spring 2026] Research Resources - Archives Internship](https://jobright.ai/jobs/info/68c1cce3233c7d3e64d0461b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
+| ↳ | **[[Spring 2026] Digital Content Internship](https://jobright.ai/jobs/info/68c1cb723fd8b059a20f2700?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
