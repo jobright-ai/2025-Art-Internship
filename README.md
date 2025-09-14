@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Plutus Media](https://growwithplutus.com/)** | **[TikTok (Content Creator)](https://jobright.ai/jobs/info/68c6cfc2c96a22563ecefef1?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 14 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Student Artistic Director for Veselica International Dance Company](https://jobright.ai/jobs/info/68c6cf147d0db4114273b2c4?utm_campaign=1053&utm_source=git)** | Northfield, MN | On Site | Sep 14 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Fall 2025](https://jobright.ai/jobs/info/68c679e9db52c07d2884941b?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 14 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/68c638f5c96a22563eceb855?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | On Site | Sep 13 |
 | **[Interlachen Country Club](https://interlachencc.org/)** | **[Golf Internship: Level 3](https://jobright.ai/jobs/info/68c5e7357d0db41142735432?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 13 |
 | ↳ | **[Golf Internship: Level 1 and 2](https://jobright.ai/jobs/info/68c5e6e9db52c07d288440b3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 13 |
@@ -78,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Gameday Production Internship - Summer '26](https://jobright.ai/jobs/info/68c4e198c96a22563ece3523?utm_campaign=1053&utm_source=git)** | Minnetrista, MN | Hybrid | Sep 12 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WWSB](https://jobright.ai/jobs/info/68c4e083c96a22563ece3284?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Sep 12 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, California Spring 2026](https://jobright.ai/jobs/info/68c595d4db52c07d28843591?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Sep 12 |
-| ↳ | **[Editorial Internship, New York Spring 2026](https://jobright.ai/jobs/info/68c476f414bb275ce0193a7c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Broadcast Internship (VAB)](https://jobright.ai/jobs/info/68c5028bc96a22563ece5fa4?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Sep 12 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, California Summer 2026](https://jobright.ai/jobs/info/68c47394e396b25cb5c6828f?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Sep 12 |
 | **[Playhouse](https://playhouse-ai.world)** | **[VFX Intern](https://jobright.ai/jobs/info/68c4598814bb275ce01928ee?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Hybrid | Sep 12 |
@@ -107,7 +105,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Tours](https://jobright.ai/jobs/info/68c36e82b8c22d3828471b7d?utm_campaign=1053&utm_source=git)** | Minneapolis,  MN | On Site | Sep 11 |
 | ↳ | **[Intern, Broadcast](https://jobright.ai/jobs/info/68c36e6db8c22d3828471b41?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
 | ↳ | **[Intern, Twins Production](https://jobright.ai/jobs/info/68c36e60b8c22d3828471b18?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
-| **[City of Boca Raton](http://www.myboca.us)** | **[Tennis and Racquet Sport Intern](https://jobright.ai/jobs/info/68c50046c96a22563ece5983?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Sep 11 |
 | **[Shaker Village of Pleasant Hill](https://shakervillageky.org)** | **[Museum Intern](https://jobright.ai/jobs/info/68c5076edb52c07d288402db?utm_campaign=1053&utm_source=git)** | Harrodsburg, KY | On Site | Sep 11 |
 | **[Ovo Talent](https://ovotalent.com/)** | **[Fall Internship Opportunity at Ovo Talent (Miami – Brickell)](https://jobright.ai/jobs/info/68c361186031587f8458a658?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 11 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[F&B Front of House Intern/Trainee (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/68c35bf36031587f8458a315?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Sep 11 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Berklee College of Music](http://berklee.edu)** | **[Caf Show Engineer](https://jobright.ai/jobs/info/68c2611333864f172f9c016d?utm_campaign=1053&utm_source=git)** | Berklee College of Music - Boston | On Site | Sep 10 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Video Coordinator](https://jobright.ai/jobs/info/68c1f69333864f172f9bc04a?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Sep 10 |
 | **[Congressional Country Club](https://www.ccclub.org)** | **[Greens and Grounds Interns](https://jobright.ai/jobs/info/68c1cdc2233c7d3e64d046ea?utm_campaign=1053&utm_source=git)** | Bethesda,MD,US | On Site | Sep 10 |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Curatorial - Time-Based Media Internship](https://jobright.ai/jobs/info/68c1cd01233c7d3e64d04638?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Sep 10 |
+| ↳ | **[[Spring 2026] Research Resources - Archives Internship](https://jobright.ai/jobs/info/68c1cce3233c7d3e64d0461b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
+| ↳ | **[[Spring 2026] Digital Content Internship](https://jobright.ai/jobs/info/68c1cb723fd8b059a20f2700?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
