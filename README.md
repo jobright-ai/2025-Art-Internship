@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Plutus Media](https://growwithplutus.com/)** | **[TikTok (Content Creator)](https://jobright.ai/jobs/info/68c6cfc2c96a22563ecefef1?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 14 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Student Artistic Director for Veselica International Dance Company](https://jobright.ai/jobs/info/68c6cf147d0db4114273b2c4?utm_campaign=1053&utm_source=git)** | Northfield, MN | On Site | Sep 14 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/68c638f5c96a22563eceb855?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | On Site | Sep 13 |
 | **[Interlachen Country Club](https://interlachencc.org/)** | **[Golf Internship: Level 3](https://jobright.ai/jobs/info/68c5e7357d0db41142735432?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 13 |
@@ -81,15 +80,14 @@ For a complete list, click the following sortable link below:
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, California Summer 2026](https://jobright.ai/jobs/info/68c47394e396b25cb5c6828f?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Sep 12 |
 | **[Playhouse](https://playhouse-ai.world)** | **[VFX Intern](https://jobright.ai/jobs/info/68c4598814bb275ce01928ee?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Hybrid | Sep 12 |
 | **[Flik Hospitality Group ](https://www.flik-usa.com/)** | **[Culinary Intern, FLIK / Indianapolis Colts / Indianapolis, IN](https://jobright.ai/jobs/info/68c50113c96a22563ece5b7d?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 12 |
-| ↳ | **[Culinary Intern, FLIK / Tennessee Titans / Nashville, TN](https://jobright.ai/jobs/info/68c50679db52c07d28840079?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 12 |
 | ↳ | **[Culinary Intern, FLIK / Baltimore Ravens / Owings Mills, MD](https://jobright.ai/jobs/info/68c500b9db52c07d2883f931?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Sep 12 |
+| ↳ | **[Culinary Intern, FLIK / Tennessee Titans / Nashville, TN](https://jobright.ai/jobs/info/68c50679db52c07d28840079?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 12 |
 | ↳ | **[Culinary Intern, FLIK / Tabor Academy / Marion, MA](https://jobright.ai/jobs/info/68c501cf7d0db41142731132?utm_campaign=1053&utm_source=git)** | Marion, MA | On Site | Sep 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Broadcast Internship (VAB)](https://jobright.ai/jobs/info/68c4333814bb275ce019182d?utm_campaign=1053&utm_source=git)** | VT, Colchester | On Site | Sep 12 |
 | **[National Journal](http://www.nationaljournal.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/688aacf49f961617fe21d5f2?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 12 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5b4?utm_campaign=1053&utm_source=git)** | Steubenville, OH | On Site | Sep 12 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Investigative Assistant Intern (Unpaid)](https://jobright.ai/jobs/info/68c3dd16e396b25cb5c64325?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Sep 11 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68c3ba7980e77b1fa6fcc99c?utm_campaign=1053&utm_source=git)** | Colts Neck, NJ | Hybrid | Sep 11 |
-| **[Patients For Affordable Drugs](http://www.patientsforaffordabledrugs.org/)** | **[Multimedia and Content Intern](https://jobright.ai/jobs/info/68c2ebc463829b0a8a4fde61?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 11 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Investigative Assistant Intern (Unpaid)](https://jobright.ai/jobs/info/68c3ac38b8c22d38284745ec?utm_campaign=1053&utm_source=git)** | 1425 Courthouse Rd, Arlington, VA, 22201, US | On Site | Sep 11 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Show Programming (Figure Animator) Intern, Spring 2026](https://jobright.ai/jobs/info/68c648ddc96a22563ecec7d1?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Sep 11 |
 | **[Brunswick Boat Group](http://www.brunswick.com)** | **[Advanced Research & Storytelling Intern- BBGTC](https://jobright.ai/jobs/info/68c647167d0db41142737902?utm_campaign=1053&utm_source=git)** | Edgewater, FL | On Site | Sep 11 |
@@ -132,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[County of Riverside](http://www.rc-hr.com)** | **[Behavioral Health Friday Night Live (Indio) - Paid Internship](https://jobright.ai/jobs/info/68b8a4a25b42bc45628268c9?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Sep 11 |
 | **[Ithaca College](http://www.ithaca.edu)** | **[STUDENT-Concert Program Editor](https://jobright.ai/jobs/info/68c255174d652f044775f78d?utm_campaign=1053&utm_source=git)** | 953 Danby Road, Ithaca, NY, 14850, US | On Site | Sep 10 |
 | **[Minnesota Twins](https://twins.mlb.com/)** | **[Intern, Video Production/Editing](https://jobright.ai/jobs/info/68c3746c80e77b1fa6fc95d3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
-| ↳ | **[Intern, Tours](https://jobright.ai/jobs/info/68c370536031587f8458ab27?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
 | ↳ | **[Intern, Twins Production](https://jobright.ai/jobs/info/68c377d280e77b1fa6fc96a9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
+| ↳ | **[Intern, Tours](https://jobright.ai/jobs/info/68c370536031587f8458ab27?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
 | ↳ | **[Intern, Broadcast](https://jobright.ai/jobs/info/68c393de6031587f8458c1dd?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
 | **[University of Florida](https://www.ufl.edu)** | **[OPS Arts & Crafts Center Studio Assistant](https://jobright.ai/jobs/info/68c31e205adaee6c9bda731f?utm_campaign=1053&utm_source=git)** | Gainesville, FL | Hybrid | Sep 10 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Digital Content Internship](https://jobright.ai/jobs/info/68c212db33864f172f9bcd8f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 10 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Curatorial - Time-Based Media Internship](https://jobright.ai/jobs/info/68c1cd01233c7d3e64d04638?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Sep 10 |
 | ↳ | **[[Spring 2026] Research Resources - Archives Internship](https://jobright.ai/jobs/info/68c1cce3233c7d3e64d0461b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | ↳ | **[[Spring 2026] Digital Content Internship](https://jobright.ai/jobs/info/68c1cb723fd8b059a20f2700?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68c1c80f4d652f0447759e77?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 10 |
+| **[U.S. Venture, Inc.](http://www.usventure.com)** | **[U.S. Venture Open Intern](https://jobright.ai/jobs/info/68c1c750233c7d3e64d0411d?utm_campaign=1053&utm_source=git)** | Appleton, WI | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
