@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6872b41ca5ae807a59d07022?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Sep 15 |
 | **[Congressional Country Club](https://www.ccclub.org)** | **[Greens and Grounds Interns](https://jobright.ai/jobs/info/68c7ee4f95f5211cd2ce0001?utm_campaign=1053&utm_source=git)** | Chevy Chase, MD | On Site | Sep 15 |
 | **[Columbine Country Club](http://www.columbinecc.com)** | **[Seasonal Golf Intern - Level I](https://jobright.ai/jobs/info/68c7eda395f5211cd2cdff9b?utm_campaign=1053&utm_source=git)** | Littleton, CO | On Site | Sep 15 |
 | **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - MULTIMEDIA AUDIO/VISUAL (HDQ)](https://jobright.ai/jobs/info/68c7d8a7369c3763c743c603?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Sep 15 |
@@ -72,7 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Grad Co-op - Brand Journalist](https://jobright.ai/jobs/info/68c5612fc96a22563ece8893?utm_campaign=1053&utm_source=git)** | Thousand Oaks, CA | On Site | Sep 13 |
 | **[Hired In Michigan Community Empowerment](https://hiredinmichigan.com)** | **[Event Videographer](https://jobright.ai/jobs/info/68c55fe2db52c07d2884272e?utm_campaign=1053&utm_source=git)** | Southfield, MI | On Site | Sep 13 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, HQ Summer 2026](https://jobright.ai/jobs/info/68703efb06ad7073463bc6a6?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Sep 13 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Production Assistant (Part Time)](https://jobright.ai/jobs/info/6870d25206ad7073463c1a71?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 13 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Production Assistant (Part-Time)](https://jobright.ai/jobs/info/6853d27ad47b315215e0a5bb?utm_campaign=1053&utm_source=git)** | Macon, GA | On Site | Sep 13 |
+| ↳ | **[News Production Assistant (Part Time)](https://jobright.ai/jobs/info/6870d25206ad7073463c1a71?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 13 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Video Production Internship - Summer '26](https://jobright.ai/jobs/info/68c7af0ac96a22563ecf41ea?utm_campaign=1053&utm_source=git)** | St Paul, MN | On Site | Sep 12 |
 | **[Wolfgang Puck Catering](https://www.wolfgangpuckcatering.com)** | **[Culinary Intern, Wolfgang Puck Catering / Netflix / Los Angeles, CA](https://jobright.ai/jobs/info/68c78e54c96a22563ecf230e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 12 |
 | **[Healthcare Insights](healthcarein.org)** | **[Biotech Policy Student Journalist/Contributor](https://jobright.ai/jobs/info/68c4cd7efce86561b92897dc?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 12 |
@@ -87,8 +89,9 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Broadcast Internship (VAB)](https://jobright.ai/jobs/info/68c5028bc96a22563ece5fa4?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Sep 12 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, California Summer 2026](https://jobright.ai/jobs/info/68c47394e396b25cb5c6828f?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Sep 12 |
 | **[Flik Hospitality Group ](https://www.flik-usa.com/)** | **[Culinary Intern, FLIK / Indianapolis Colts / Indianapolis, IN](https://jobright.ai/jobs/info/68c50113c96a22563ece5b7d?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 12 |
-| ↳ | **[Culinary Intern, FLIK / Baltimore Ravens / Owings Mills, MD](https://jobright.ai/jobs/info/68c500b9db52c07d2883f931?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Sep 12 |
+| ↳ | **[Culinary Intern, FLIK / Travelers / Hartford, CT](https://jobright.ai/jobs/info/68c7fd6495f5211cd2ce07b0?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Sep 12 |
 | ↳ | **[Culinary Intern, FLIK / Tennessee Titans / Nashville, TN](https://jobright.ai/jobs/info/68c50679db52c07d28840079?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 12 |
+| ↳ | **[Culinary Intern, FLIK / Baltimore Ravens / Owings Mills, MD](https://jobright.ai/jobs/info/68c500b9db52c07d2883f931?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Sep 12 |
 | ↳ | **[Culinary Intern, FLIK / Tabor Academy / Marion, MA](https://jobright.ai/jobs/info/68c501cf7d0db41142731132?utm_campaign=1053&utm_source=git)** | Marion, MA | On Site | Sep 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Broadcast Internship (VAB)](https://jobright.ai/jobs/info/68c4333814bb275ce019182d?utm_campaign=1053&utm_source=git)** | VT, Colchester | On Site | Sep 12 |
 | **[National Journal](http://www.nationaljournal.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/688aacf49f961617fe21d5f2?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Sep 12 |
@@ -139,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[County of Riverside](http://www.rc-hr.com)** | **[Behavioral Health Friday Night Live (Indio) - Paid Internship](https://jobright.ai/jobs/info/68b8a4a25b42bc45628268c9?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Sep 11 |
 | **[Ithaca College](http://www.ithaca.edu)** | **[STUDENT-Concert Program Editor](https://jobright.ai/jobs/info/68c255174d652f044775f78d?utm_campaign=1053&utm_source=git)** | 953 Danby Road, Ithaca, NY, 14850, US | On Site | Sep 10 |
 | **[Minnesota Twins](https://twins.mlb.com/)** | **[Intern, Video Production/Editing](https://jobright.ai/jobs/info/68c3746c80e77b1fa6fc95d3?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
-| ↳ | **[Intern, Tours](https://jobright.ai/jobs/info/68c370536031587f8458ab27?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
 | ↳ | **[Intern, Twins Production](https://jobright.ai/jobs/info/68c377d280e77b1fa6fc96a9?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
+| ↳ | **[Intern, Tours](https://jobright.ai/jobs/info/68c370536031587f8458ab27?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
 | ↳ | **[Intern, Broadcast](https://jobright.ai/jobs/info/68c393de6031587f8458c1dd?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
 | **[University of Florida](https://www.ufl.edu)** | **[OPS Arts & Crafts Center Studio Assistant](https://jobright.ai/jobs/info/68c31e205adaee6c9bda731f?utm_campaign=1053&utm_source=git)** | Gainesville, FL | Hybrid | Sep 10 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Digital Content Internship](https://jobright.ai/jobs/info/68c212db33864f172f9bcd8f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/68c2095d33864f172f9bc73c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 10 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/68c203e663b706703e110e7d?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Sep 10 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Cornerstone Press: Managing Editor](https://jobright.ai/jobs/info/68c200bc33864f172f9bc408?utm_campaign=1053&utm_source=git)** | Stevens Point, WI | On Site | Sep 10 |
-| **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Curatorial - Photography Internship](https://jobright.ai/jobs/info/68c21bee4d652f044775d0f6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 10 |
-| **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Broadcast - Dignity Health Sports Park](https://jobright.ai/jobs/info/68c1e66e3fd8b059a20f3d88?utm_campaign=1053&utm_source=git)** | Carson, CA | On Site | Sep 10 |
-| **[Associated Electric Cooperative Inc.](https://www.aeci.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68c1e0ae3fd8b059a20f38f9?utm_campaign=1053&utm_source=git)** | Springfield, Missouri | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
