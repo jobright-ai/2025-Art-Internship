@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Inc.](http://sbgi.net)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68cc40167342c7623ae6195d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 18 |
+| **[Starteryou](starteryou.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/68cc3f53128dc347fd9218d6?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 18 |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Columbus, OH](https://jobright.ai/jobs/info/68cc3bf5128dc347fd921456?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 18 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - 508 Club Intern](https://jobright.ai/jobs/info/68cc2b257342c7623ae60617?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Sep 18 |
+| ↳ | **[C3 Presents - Guest Services Production Intern](https://jobright.ai/jobs/info/68cc2ab67342c7623ae604fe?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Sep 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68cc1d3f128dc347fd91f6b1?utm_campaign=1053&utm_source=git)** | 299 S. Main Street, Salt Lake City, UT, 84111, US | On Site | Sep 18 |
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Basketball Content Creator Internship](https://jobright.ai/jobs/info/68cc28dd7342c7623ae601d1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Sep 18 |
 | **[Culturally Arts Collective](http://www.culturallyarts.com)** | **[Fine Art Curation Internship](https://jobright.ai/jobs/info/68cc0df416d00d2beeb190c5?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 18 |
@@ -64,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Music Graduate Assistant](https://jobright.ai/jobs/info/68cbbc6a9e3a822f5d24b1b9?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Sep 17 |
 | **[Princess Cruises](http://www.princess.com)** | **[2026 Internship - Culinary Operations](https://jobright.ai/jobs/info/68cb715e9e3a822f5d2461a8?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Sep 17 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[2026 Internship - Culinary Operations](https://jobright.ai/jobs/info/68cb70cbefdec76df36bc914?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Sep 17 |
-| **[MLS Network](https://mlstudios.net)** | **[Digital Media Intern (Level 1 – Fall 2025 Cohort)](https://jobright.ai/jobs/info/68cc152516d00d2beeb19685?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 17 |
 | **[Mixtura Productions Corp.](https://mixturaproductions.com)** | **[Video Production - Content Creation Internship](https://jobright.ai/jobs/info/68cb5b869e3a822f5d2454bc?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Sep 17 |
 | **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[Editorial Internship (Paid)](https://jobright.ai/jobs/info/68cb59e39e3a822f5d2451b2?utm_campaign=1053&utm_source=git)** | Fully Remote | Remote | Sep 17 |
 | **[Phoenix Chorale](http://phoenixchorale.org)** | **[Patron Services & Arts Administration Intern](https://jobright.ai/jobs/info/68cb543eefdec76df36bb4c6?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 17 |
@@ -130,13 +134,12 @@ For a complete list, click the following sortable link below:
 | **[Boundless And Lost](boundlessandlost.com)** | **[Intern](https://jobright.ai/jobs/info/68c9639aa0c52d598ea36fdb?utm_campaign=1053&utm_source=git)** | Marathon, FL | On Site | Sep 15 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Onsite Videographer Intern](https://jobright.ai/jobs/info/68c8a37a983e6768bc54ff3e?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 15 |
 | **[Genzest LLC](https://nailphoria.com/)** | **[Livestream Operation intern](https://jobright.ai/jobs/info/68c87dd095f5211cd2ce5e05?utm_campaign=1053&utm_source=git)** | West Hollywood, CA | On Site | Sep 15 |
-| **[Lansing Board of Water & Light](http://lbwl.com)** | **[Intern, Archival](https://jobright.ai/jobs/info/68c8916795f5211cd2ce6bb0?utm_campaign=1053&utm_source=git)** | Lansing, MI | On Site | Sep 15 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2026 Metro Reporter Internship](https://jobright.ai/jobs/info/68c8892d983e6768bc54e8f7?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 15 |
-| ↳ | **[Summer 2026 Copy Editing Internship](https://jobright.ai/jobs/info/68c88a69f9c6ff7aedf1003d?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 15 |
-| ↳ | **[Summer 2026 Features Internship](https://jobright.ai/jobs/info/68c88986983e6768bc54e957?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 15 |
-| ↳ | **[Summer 2026 Business Reporter Internship](https://jobright.ai/jobs/info/68c89052983e6768bc54f2f5?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 15 |
 | **[New Jersey Economic Development Authority (NJEDA)](https://www.njeda.com/)** | **[Intern - Film](https://jobright.ai/jobs/info/68c8a46795f5211cd2ce7b38?utm_campaign=1053&utm_source=git)** | Newark, NJ | Hybrid | Sep 15 |
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[College Intern – Aviation Art Program](https://jobright.ai/jobs/info/68c86799983e6768bc54cd9b?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Sep 15 |
+| **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2026 Features Internship](https://jobright.ai/jobs/info/68c866b7983e6768bc54cc12?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 15 |
+| ↳ | **[Summer 2026 Business Reporter Internship](https://jobright.ai/jobs/info/68c86601f9c6ff7aedf0deff?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 15 |
+| ↳ | **[Summer 2026 Copy Editing Internship](https://jobright.ai/jobs/info/68c865e195f5211cd2ce472c?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 15 |
 | **[Mulhalls](http://mulhalls.com)** | **[Shoots Internship](https://jobright.ai/jobs/info/68c865d2f9c6ff7aedf0de0d?utm_campaign=1053&utm_source=git)** | Omaha | On Site | Sep 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Producer Intern, Spring 2026](https://jobright.ai/jobs/info/68c865a895f5211cd2ce46df?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Sep 15 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2026 News Producer Internship](https://jobright.ai/jobs/info/68c861c895f5211cd2ce4497?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 15 |
@@ -145,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Sports Sims & News Network](https://www.linkedin.com/company/107815912)** | **[Sports Content Recorder/Producer](https://jobright.ai/jobs/info/68c8576095f5211cd2ce3bb3?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 15 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2026 Photojournalism Internship](https://jobright.ai/jobs/info/68c8723c983e6768bc54d7bb?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 15 |
 | **[Media Integrity Challenge](https://www.mediachallenge.org)** | **[Journalism Intern](https://jobright.ai/jobs/info/68c850ed95f5211cd2ce3861?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Sep 15 |
+| **[Lansing Board of Water & Light](http://lbwl.com)** | **[Intern, Archival](https://jobright.ai/jobs/info/68c834f8f9c6ff7aedf0bf4d?utm_campaign=1053&utm_source=git)** | Lansing, MI | On Site | Sep 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Internship](https://jobright.ai/jobs/info/68006be8d4326c84e7729192?utm_campaign=1053&utm_source=git)** | Dothan, AL | On Site | Sep 15 |
 | ↳ | **[Sports Journalism Intern (In-Person) Fall 2025.](https://jobright.ai/jobs/info/6872b41ca5ae807a59d07022?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Sep 15 |
 | **[Congressional Country Club](https://www.ccclub.org)** | **[Greens and Grounds Interns](https://jobright.ai/jobs/info/68c7ee4f95f5211cd2ce0001?utm_campaign=1053&utm_source=git)** | Chevy Chase, MD | On Site | Sep 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Building Museum](http://www.nbm.org)** | **[Collections Management Intern - Photographs](https://jobright.ai/jobs/info/68cba2d19e3a822f5d24987e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 14 |
 | ↳ | **[Collections Management Intern - Koubek Processing](https://jobright.ai/jobs/info/68c8e8d3f9c6ff7aedf14999?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 14 |
 | **[SXSW](https://www.sxsw.com/pitch)** | **[(I) Film & TV Festival Intern](https://jobright.ai/jobs/info/68c8696695f5211cd2ce4936?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 14 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Student Artistic Director for Veselica International Dance Company](https://jobright.ai/jobs/info/68c6cf147d0db4114273b2c4?utm_campaign=1053&utm_source=git)** | Northfield, MN | On Site | Sep 14 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/6875fe0cae2f413e4a5abefe?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Sep 14 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern - KOIN / KRCW - Portland, OR (Unpaid)](https://jobright.ai/jobs/info/68cb9634ba798c1a501d2665?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Sep 13 |
-| **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/68c638f5c96a22563eceb855?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | On Site | Sep 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
