@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Video Editor Intern](https://jobright.ai/jobs/info/68cd89dce23def7af55bb5ad?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 19 |
 | **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Live Production Intern - Summer 2026](https://jobright.ai/jobs/info/68cd6bb61ad6b16f028994ca?utm_campaign=1053&utm_source=git)** | Texas - Waco Hatchery | Hybrid | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Series Intern, Spring 2026](https://jobright.ai/jobs/info/68cd122ae23def7af55b4bc0?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 19 |
 | **[Quanta Ventures Fund](www.quantaventures.ai)** | **[Internship/Gap Semester - Content Creator/Research Paper Writer for A.I. Hedge Fund](https://jobright.ai/jobs/info/68cd0b0e1ad6b16f02893d5f?utm_campaign=1053&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Sep 19 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Endicott PR](https://endicottpr.com/home/)** | **[Content Creator](https://jobright.ai/jobs/info/68ccd84b77add66568aba3ff?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Sep 18 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern- Board Internal Communications-MGT](https://jobright.ai/jobs/info/68cd0718e23def7af55b36f8?utm_campaign=1053&utm_source=git)** | DC-Washington | Hybrid | Sep 18 |
 | **[American Red Cross North Texas Region](http://www.redcross.org/northtexas)** | **[Content Creator Intern – American Red Cross, North Texas Region](https://jobright.ai/jobs/info/68cc8d0b16d00d2beeb21484?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 18 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[INTERN - NON PAID](https://jobright.ai/jobs/info/68cc687a7342c7623ae646f1?utm_campaign=1053&utm_source=git)** | Honolulu, HI | On Site | Sep 18 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Culinary Operations](https://jobright.ai/jobs/info/68ccbd4b128dc347fd928d2b?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Sep 18 |
 | **[University of La Verne](http://laverne.edu)** | **[Music Department Assistant 25-26](https://jobright.ai/jobs/info/68cc9df2128dc347fd9275a2?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | Sep 18 |
 | **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[Managing Editor (Volunteer)](https://jobright.ai/jobs/info/68cc62bc16d00d2beeb1eabd?utm_campaign=1053&utm_source=git)** | New Haven, CT | Remote | Sep 18 |
@@ -92,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Columbus, OH](https://jobright.ai/jobs/info/68cc3bf5128dc347fd921456?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 18 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - 508 Club Intern](https://jobright.ai/jobs/info/68cc2b257342c7623ae60617?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Sep 18 |
 | ↳ | **[C3 Presents - Guest Services Production Intern](https://jobright.ai/jobs/info/68cc2ab67342c7623ae604fe?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Sep 18 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68cd8c28b2a74e1837ed8913?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Sep 18 |
 | **[AQUA Magazine](https://aquamagazine.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68cc4808128dc347fd92201d?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Sep 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68cc1d3f128dc347fd91f6b1?utm_campaign=1053&utm_source=git)** | 299 S. Main Street, Salt Lake City, UT, 84111, US | On Site | Sep 18 |
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Basketball Content Creator Internship](https://jobright.ai/jobs/info/68cc28dd7342c7623ae601d1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Sep 18 |
@@ -128,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68cae4b1efdec76df36b6475?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Sep 17 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Science Journalism Student Intern - Computer Science Department](https://jobright.ai/jobs/info/68cacd11d905e25191d9c6df?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | Hybrid | Sep 17 |
 | **[SUNY Brockport](http://brockport.edu)** | **[Technical Director](https://jobright.ai/jobs/info/68cacc79d905e25191d9c627?utm_campaign=1053&utm_source=git)** | Brockport, NY | On Site | Sep 17 |
+| **[Moxie Salon & Beauty Bar](https://moxiesalonandbeautybar.com/)** | **[Salon Assistant](https://jobright.ai/jobs/info/68cd83cf1ad6b16f0289acf4?utm_campaign=1053&utm_source=git)** | Livingston, NJ | On Site | Sep 17 |
 | **[TripBFF](tripbff.com)** | **[Content Creation Intern (Paid)](https://jobright.ai/jobs/info/68caadfdd905e25191d9b9d0?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern (In-Person) Fall 2025](https://jobright.ai/jobs/info/6875b171299cbc74b8756ffe?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Sep 17 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Las Vegas -  Culinary Internship](https://jobright.ai/jobs/info/68cd1d201ad6b16f02895412?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Sep 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Chicago - Culinary Internship](https://jobright.ai/jobs/info/68c93052f9c6ff7aedf18af2?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 16 |
 | ↳ | **[Virginia Culinary Internship](https://jobright.ai/jobs/info/68c964b695f5211cd2cf018f?utm_campaign=1053&utm_source=git)** | McLean, VA | On Site | Sep 16 |
 | ↳ | **[Bethesda/North Bethesda - Culinary Internship](https://jobright.ai/jobs/info/68c965aea0c52d598ea37273?utm_campaign=1053&utm_source=git)** | Chevy Chase, MD | On Site | Sep 16 |
-| **[Appalachian State University](http://www.appstate.edu/)** | **[Exhibition Assistant III](https://jobright.ai/jobs/info/68cd29a51ad6b16f02895e19?utm_campaign=1053&utm_source=git)** | Boone, NC | On Site | Sep 16 |
-| **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Minnesota - Culinary Internship](https://jobright.ai/jobs/info/68c95e1df9c6ff7aedf192c2?utm_campaign=1053&utm_source=git)** | Eden Prairie, MN | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
