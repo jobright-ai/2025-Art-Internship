@@ -94,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[AQUA Magazine](https://aquamagazine.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68cc4808128dc347fd92201d?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Sep 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68cc1d3f128dc347fd91f6b1?utm_campaign=1053&utm_source=git)** | 299 S. Main Street, Salt Lake City, UT, 84111, US | On Site | Sep 18 |
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Basketball Content Creator Internship](https://jobright.ai/jobs/info/68cc28dd7342c7623ae601d1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Sep 18 |
+| **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Sep 18 |
 | **[Millerbernd](https://www.millerbernd.com)** | **[Summer 2026 Interns - variety of roles](https://jobright.ai/jobs/info/68cd3ad8b2a74e1837ed42e6?utm_campaign=1053&utm_source=git)** | Winsted, MN | On Site | Sep 18 |
 | **[Gagosian](http://www.gagosian.com)** | **[Winter 2026 Internship Program (Beverly Hills)](https://jobright.ai/jobs/info/68cd3065b2a74e1837ed3a1d?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Sep 17 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Health & Wellness Journalist Intern](https://jobright.ai/jobs/info/68cbbecbba798c1a501d4cdf?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Sep 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Bethesda/North Bethesda - Culinary Internship](https://jobright.ai/jobs/info/68c965aea0c52d598ea37273?utm_campaign=1053&utm_source=git)** | Chevy Chase, MD | On Site | Sep 16 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Exhibition Assistant III](https://jobright.ai/jobs/info/68cd29a51ad6b16f02895e19?utm_campaign=1053&utm_source=git)** | Boone, NC | On Site | Sep 16 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Minnesota - Culinary Internship](https://jobright.ai/jobs/info/68c95e1df9c6ff7aedf192c2?utm_campaign=1053&utm_source=git)** | Eden Prairie, MN | On Site | Sep 16 |
-| ↳ | **[Chicago Suburbs - Culinary Internship](https://jobright.ai/jobs/info/68c93f5595f5211cd2cef73a?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
