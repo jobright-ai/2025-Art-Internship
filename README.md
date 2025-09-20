@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WALA (SPORTS NEWS)](https://jobright.ai/jobs/info/68cddfdfe23def7af55bfe1a?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Sep 19 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tailor](https://jobright.ai/jobs/info/68cdcdf6e23def7af55bf5fa?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Sep 19 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Fall 2025](https://jobright.ai/jobs/info/68cdc167e23def7af55bed78?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 19 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern, Brand Assembly](https://jobright.ai/jobs/info/68cdb77de23def7af55be856?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 19 |
@@ -76,15 +77,14 @@ For a complete list, click the following sortable link below:
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Entertainment Operations, Universal Epic Universe (Summer 2026)](https://jobright.ai/jobs/info/68cd097c1ad6b16f028939f0?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | ↳ | **[Internship – Culinary, Food & Beverage (Summer 2026)](https://jobright.ai/jobs/info/68cd03964d568306aabd17e6?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship-Discover Universal Content Strategy (Summer 2026)](https://jobright.ai/jobs/info/68ccff51d11b445e0bee5d1c?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
-| ↳ | **[Internship-Discover Universal Podcast Content Strategy (Summer 2026)](https://jobright.ai/jobs/info/68ccfda95954791a1d7025e0?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
 | **[Simon & Schuster](http://www.simonandschuster.com)** | **[Simon & Schuster's Spring 2026 Internship Program](https://jobright.ai/jobs/info/68ccfb4ed11b445e0bee55fa?utm_campaign=1053&utm_source=git)** | 100 Technology Center Dr, Stoughton, MA 02072, USA | On Site | Sep 18 |
 | ↳ | **[Simon & Schuster's Spring 2026 Internship Program](https://jobright.ai/jobs/info/68ccfb3677add66568abcf88?utm_campaign=1053&utm_source=git)** | 1230 Ave of the Americas, New York, NY 10036, USA | On Site | Sep 18 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship-Discover Universal Podcast Content Strategy (Summer 2026)](https://jobright.ai/jobs/info/68ccf07677add66568abc574?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
 | **[Safe Passage Project](https://www.safepassageproject.org)** | **[Animation & Storytelling Intern](https://jobright.ai/jobs/info/68ccaa247342c7623ae67c1d?utm_campaign=1053&utm_source=git)** | NYC, NY | Hybrid | Sep 18 |
 | **[COLLECTIVE](http://www.collectiveagencyla.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/68ccdaad77add66568abab56?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Sep 18 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[2026 HBCU News Intern Program](https://jobright.ai/jobs/info/68ccc845a77e5d7d744f547b?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 18 |
 | **[Sweet Vegan](http://www.sweetvegan.nyc)** | **[Tiktok Content Creator Internship](https://jobright.ai/jobs/info/68cc880116d00d2beeb20f9f?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 18 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Acts & Exhibits Internship](https://jobright.ai/jobs/info/68cc72a9128dc347fd924ff2?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 18 |
-| **[Endicott PR](https://endicottpr.com/home/)** | **[Content Creator](https://jobright.ai/jobs/info/68ccd84b77add66568aba3ff?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Sep 18 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern- Board Internal Communications-MGT](https://jobright.ai/jobs/info/68cd0718e23def7af55b36f8?utm_campaign=1053&utm_source=git)** | DC-Washington | Hybrid | Sep 18 |
 | **[American Red Cross North Texas Region](http://www.redcross.org/northtexas)** | **[Content Creator Intern – American Red Cross, North Texas Region](https://jobright.ai/jobs/info/68cc8d0b16d00d2beeb21484?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 18 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Culinary Operations](https://jobright.ai/jobs/info/68ccbd4b128dc347fd928d2b?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Sep 18 |
