@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Castle Pines Golf Club](https://castlepinesgolfclub.club)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/68cdfa6fe23def7af55c0d41?utm_campaign=1053&utm_source=git)** | Castle Pines Golf Club | On Site | Sep 19 |
+| **[The Dallas Morning News](http://www.dallasnews.com)** | **[Local News Summer Intern](https://jobright.ai/jobs/info/68cdfa14e23def7af55c0c5f?utm_campaign=1053&utm_source=git)** | Downtown Dallas (TDMN) - Dallas, TX 75201 US (Primary) | On Site | Sep 19 |
+| **[Kaplan](http://www.kaplan.com)** | **[Student Content Creator – Arizona State University](https://jobright.ai/jobs/info/68cdf8fbe23def7af55c09f0?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 19 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WALA (SPORTS NEWS)](https://jobright.ai/jobs/info/68cddfdfe23def7af55bfe1a?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Sep 19 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tailor](https://jobright.ai/jobs/info/68cdcdf6e23def7af55bf5fa?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Sep 19 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Fall 2025](https://jobright.ai/jobs/info/68cdc167e23def7af55bed78?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 19 |
@@ -77,11 +80,12 @@ For a complete list, click the following sortable link below:
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Entertainment Operations, Universal Epic Universe (Summer 2026)](https://jobright.ai/jobs/info/68cd097c1ad6b16f028939f0?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | ↳ | **[Internship – Culinary, Food & Beverage (Summer 2026)](https://jobright.ai/jobs/info/68cd03964d568306aabd17e6?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship-Discover Universal Content Strategy (Summer 2026)](https://jobright.ai/jobs/info/68ccff51d11b445e0bee5d1c?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
+| ↳ | **[Internship-Discover Universal Podcast Content Strategy (Summer 2026)](https://jobright.ai/jobs/info/68ccfda95954791a1d7025e0?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
 | **[Simon & Schuster](http://www.simonandschuster.com)** | **[Simon & Schuster's Spring 2026 Internship Program](https://jobright.ai/jobs/info/68ccfb4ed11b445e0bee55fa?utm_campaign=1053&utm_source=git)** | 100 Technology Center Dr, Stoughton, MA 02072, USA | On Site | Sep 18 |
 | ↳ | **[Simon & Schuster's Spring 2026 Internship Program](https://jobright.ai/jobs/info/68ccfb3677add66568abcf88?utm_campaign=1053&utm_source=git)** | 1230 Ave of the Americas, New York, NY 10036, USA | On Site | Sep 18 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship-Discover Universal Podcast Content Strategy (Summer 2026)](https://jobright.ai/jobs/info/68ccf07677add66568abc574?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
 | **[Safe Passage Project](https://www.safepassageproject.org)** | **[Animation & Storytelling Intern](https://jobright.ai/jobs/info/68ccaa247342c7623ae67c1d?utm_campaign=1053&utm_source=git)** | NYC, NY | Hybrid | Sep 18 |
 | **[COLLECTIVE](http://www.collectiveagencyla.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/68ccdaad77add66568abab56?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Sep 18 |
+| **[SXSW](https://www.sxsw.com/pitch)** | **[(I) Exhibitions Support Intern](https://jobright.ai/jobs/info/68cdfbc61ad6b16f028a0940?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 18 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[2026 HBCU News Intern Program](https://jobright.ai/jobs/info/68ccc845a77e5d7d744f547b?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 18 |
 | **[Sweet Vegan](http://www.sweetvegan.nyc)** | **[Tiktok Content Creator Internship](https://jobright.ai/jobs/info/68cc880116d00d2beeb20f9f?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 18 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Acts & Exhibits Internship](https://jobright.ai/jobs/info/68cc72a9128dc347fd924ff2?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 18 |
@@ -103,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Columbus, OH](https://jobright.ai/jobs/info/68cc3bf5128dc347fd921456?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 18 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - 508 Club Intern](https://jobright.ai/jobs/info/68cc2b257342c7623ae60617?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Sep 18 |
 | ↳ | **[C3 Presents - Guest Services Production Intern](https://jobright.ai/jobs/info/68cc2ab67342c7623ae604fe?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Sep 18 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68cd8c28b2a74e1837ed8913?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Sep 18 |
 | **[AQUA Magazine](https://aquamagazine.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68cc4808128dc347fd92201d?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Sep 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68cc1d3f128dc347fd91f6b1?utm_campaign=1053&utm_source=git)** | 299 S. Main Street, Salt Lake City, UT, 84111, US | On Site | Sep 18 |
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Basketball Content Creator Internship](https://jobright.ai/jobs/info/68cc28dd7342c7623ae601d1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Sep 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Authentic Brands Group](https://authentic.com)** | **[Authentic Studios Fall Intern](https://jobright.ai/jobs/info/68c9b36895f5211cd2cf31c6?utm_campaign=1053&utm_source=git)** | Los Angeles, California | On Site | Sep 16 |
 | **[Leaping AI (YC W25)](https://www.leapingai.com/)** | **[Part-time content intern (Student)](https://jobright.ai/jobs/info/68c9b0f2a0c52d598ea39dc8?utm_campaign=1053&utm_source=git)** | Remote (US) | Remote | Sep 16 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Authentic Studios Fall Intern](https://jobright.ai/jobs/info/68c9aee5f9c6ff7aedf1c3df?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Sep 16 |
-| **[Museum of Danish America](http://www.danishmuseum.org)** | **[Curatorial Intern](https://jobright.ai/jobs/info/68c9d2fdf9c6ff7aedf1e3e2?utm_campaign=1053&utm_source=git)** | Elk Horn, IA | On Site | Sep 16 |
-| **[Riverside Sports Properties](riversidesportsproperties.com)** | **[Sports Events Management Internship](https://jobright.ai/jobs/info/68cab6bc9e3a822f5d23e6f6?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 16 |
-| **[RLo Salon](www.rlosalon.com)** | **[Salon Assistant](https://jobright.ai/jobs/info/68c9a218a0c52d598ea39506?utm_campaign=1053&utm_source=git)** | Wyckoff, NJ | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
