@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Springfield Thunderbirds](http://www.springfieldthunderbirds.com)** | **[Videography Intern](https://jobright.ai/jobs/info/68cf117f846f0b04af67f1a6?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Sep 20 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Cleveland, OH](https://jobright.ai/jobs/info/68cf04c1fb49c96ca6ea5286?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 20 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/68cefb68dbd9fb154ede3f64?utm_campaign=1053&utm_source=git)** | US-NH-Bretton Woods | On Site | Sep 20 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Costume Buying Intern, Spring 2026](https://jobright.ai/jobs/info/68cecb4fdbd9fb154ede2dec?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 20 |
@@ -102,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[Managing Editor (Volunteer)](https://jobright.ai/jobs/info/68cc62bc16d00d2beeb1eabd?utm_campaign=1053&utm_source=git)** | New Haven, CT | Remote | Sep 18 |
 | **[The Trustees of Reservations](http://www.thetrustees.org)** | **[Curatorial Intern](https://jobright.ai/jobs/info/68cc621f16d00d2beeb1e989?utm_campaign=1053&utm_source=git)** | Lincoln, Massachusetts, United States | Hybrid | Sep 18 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Internship - Culinary Summer 2026](https://jobright.ai/jobs/info/68cc5c387342c7623ae63216?utm_campaign=1053&utm_source=git)** | US-OK-Oklahoma City | On Site | Sep 18 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c55a2f06c9231327cd815a?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Sep 18 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Guest Services Production Intern](https://jobright.ai/jobs/info/68ccd9d4d11b445e0bee2edd?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 18 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Saint John's Resort](https://jobright.ai/jobs/info/68cc512416d00d2beeb1d4c6?utm_campaign=1053&utm_source=git)** | Plymouth, MI | On Site | Sep 18 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/68cc511616d00d2beeb1d4ae?utm_campaign=1053&utm_source=git)** | Norcross, GA | On Site | Sep 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Videography Production Intern](https://jobright.ai/jobs/info/68ce245bb2a74e1837edfb93?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Sep 16 |
 | **[MAISON LOTAN](https://www.maisonlotan.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/68ca61eb46caff4db51fe7f7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 16 |
 | **[Asian American Baptist Church](http://www.aabcdallas.org/)** | **[Music Director/Minister Part-Time or Internship](https://jobright.ai/jobs/info/68caba4c9e3a822f5d23e8f3?utm_campaign=1053&utm_source=git)** | Richardson, TX | On Site | Sep 16 |
-| **[OpusClip](https://www.opus.pro)** | **[AI Short-form Video Editor Intern](https://jobright.ai/jobs/info/68ca1a16f61c922772a72b0d?utm_campaign=1053&utm_source=git)** | Palo Alto | On Site | Sep 16 |
-| **[Tampa Bay Rays](https://www.mlb.com/rays)** | **[Minor League Affiliate Intern](https://jobright.ai/jobs/info/68c9f9c3f61c922772a719d9?utm_campaign=1053&utm_source=git)** | Florida, United States | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
