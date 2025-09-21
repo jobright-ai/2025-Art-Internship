@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/68d044eb846f0b04af688505?utm_campaign=1053&utm_source=git)** | Chicago | On Site | Sep 21 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67d09040b14899d0fd695ef4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 21 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Sep 21 |
 | **[Low Tide Co.](lowtideco.com)** | **[UGC Content Creator](https://jobright.ai/jobs/info/68cf73eadbd9fb154ede7fd3?utm_campaign=1053&utm_source=git)** | Honolulu, HI | Hybrid | Sep 20 |
 | **[Respect My Region](https://www.respectmyregion.com)** | **[Music and Sports Editor Internship](https://jobright.ai/jobs/info/68cf587cfb49c96ca6ea7e51?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Sep 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Co-op - Videographer](https://jobright.ai/jobs/info/68cbf07d128dc347fd91c5ef?utm_campaign=1053&utm_source=git)** | Thousand Oaks, CA | On Site | Sep 17 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Winter, 2026)](https://jobright.ai/jobs/info/68cb3010ba798c1a501cce97?utm_campaign=1053&utm_source=git)** | 555 W 24th Street | On Site | Sep 17 |
 | **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Videography Intern](https://jobright.ai/jobs/info/68caf684d905e25191d9de5f?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Sep 17 |
-| **[Little League International](https://www.littleleague.org/)** | **[Landscaping Intern](https://jobright.ai/jobs/info/68cc1afd128dc347fd91f301?utm_campaign=1053&utm_source=git)** | Williamsport, PA | Hybrid | Sep 17 |
-| **[The Washington Post](https://www.washingtonpost.com)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68cae4b1efdec76df36b6475?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
