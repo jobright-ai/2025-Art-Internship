@@ -110,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[University of La Verne](http://laverne.edu)** | **[Music Department Assistant 25-26](https://jobright.ai/jobs/info/68cf9596dbd9fb154ede8e9c?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | Sep 18 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/688ccaaa27f9022553c06e00?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Sep 18 |
 | **[Safe Passage Project](https://www.safepassageproject.org)** | **[Animation & Storytelling Intern](https://jobright.ai/jobs/info/68ccaa247342c7623ae67c1d?utm_campaign=1053&utm_source=git)** | NYC, NY | Hybrid | Sep 18 |
-| **[COLLECTIVE](http://www.collectiveagencyla.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/68ccdaad77add66568abab56?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Sep 18 |
 | **[SXSW](https://www.sxsw.com/pitch)** | **[(I) Exhibitions Support Intern](https://jobright.ai/jobs/info/68cdfbc61ad6b16f028a0940?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 18 |
 | **[Sweet Vegan](http://www.sweetvegan.nyc)** | **[Tiktok Content Creator Internship](https://jobright.ai/jobs/info/68cc880116d00d2beeb20f9f?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 18 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Acts & Exhibits Internship](https://jobright.ai/jobs/info/68cc72a9128dc347fd924ff2?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Co-op - Videographer](https://jobright.ai/jobs/info/68cbf07d128dc347fd91c5ef?utm_campaign=1053&utm_source=git)** | Thousand Oaks, CA | On Site | Sep 17 |
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Winter, 2026)](https://jobright.ai/jobs/info/68cb3010ba798c1a501cce97?utm_campaign=1053&utm_source=git)** | 555 W 24th Street | On Site | Sep 17 |
 | **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Videography Intern](https://jobright.ai/jobs/info/68caf684d905e25191d9de5f?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Sep 17 |
+| **[Little League International](https://www.littleleague.org/)** | **[Landscaping Intern](https://jobright.ai/jobs/info/68cc1afd128dc347fd91f301?utm_campaign=1053&utm_source=git)** | Williamsport, PA | Hybrid | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
