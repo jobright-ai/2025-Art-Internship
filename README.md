@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Sep 21 |
 | **[Low Tide Co.](lowtideco.com)** | **[UGC Content Creator](https://jobright.ai/jobs/info/68cf73eadbd9fb154ede7fd3?utm_campaign=1053&utm_source=git)** | Honolulu, HI | Hybrid | Sep 20 |
 | **[Respect My Region](https://www.respectmyregion.com)** | **[Music and Sports Editor Internship](https://jobright.ai/jobs/info/68cf587cfb49c96ca6ea7e51?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Sep 20 |
 | **[Springfield Thunderbirds](http://www.springfieldthunderbirds.com)** | **[Videography Intern](https://jobright.ai/jobs/info/68cf117f846f0b04af67f1a6?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Sep 20 |
@@ -92,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Live Production Intern - Summer 2026](https://jobright.ai/jobs/info/68cd6bb61ad6b16f028994ca?utm_campaign=1053&utm_source=git)** | Texas - Waco Hatchery | Hybrid | Sep 19 |
 | **[3rd-i: Safety Made Social](https://3rd-i.org)** | **[Campus News & Safety Correspondent](https://jobright.ai/jobs/info/68ca5ac546caff4db51fe074?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 19 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - 508 Club Intern](https://jobright.ai/jobs/info/68cffb7b846f0b04af686abd?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 19 |
+| **[WESH 2 CW18](http://wesh.com)** | **[WESH Intern](https://jobright.ai/jobs/info/68467c30757d449490e9be5b?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Sep 19 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Internship - Culinary Summer 2026](https://jobright.ai/jobs/info/68ce92a1846f0b04af67b28c?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Series Intern, Spring 2026](https://jobright.ai/jobs/info/68cd122ae23def7af55b4bc0?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 19 |
 | **[Quanta Ventures Fund](www.quantaventures.ai)** | **[Internship/Gap Semester - Content Creator/Research Paper Writer for A.I. Hedge Fund](https://jobright.ai/jobs/info/68cd0b0e1ad6b16f02893d5f?utm_campaign=1053&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Sep 19 |
@@ -123,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - 508 Club Intern](https://jobright.ai/jobs/info/68cc2b257342c7623ae60617?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Sep 18 |
 | ↳ | **[C3 Presents - Guest Services Production Intern](https://jobright.ai/jobs/info/68cc2ab67342c7623ae604fe?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Sep 18 |
 | **[AQUA Magazine](https://aquamagazine.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68cc4808128dc347fd92201d?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Sep 18 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68d01c0d846f0b04af68782e?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Sep 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68cc1d3f128dc347fd91f6b1?utm_campaign=1053&utm_source=git)** | 299 S. Main Street, Salt Lake City, UT, 84111, US | On Site | Sep 18 |
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Basketball Content Creator Internship](https://jobright.ai/jobs/info/68cc28dd7342c7623ae601d1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Sep 18 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Sep 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Winter, 2026)](https://jobright.ai/jobs/info/68cb3010ba798c1a501cce97?utm_campaign=1053&utm_source=git)** | 555 W 24th Street | On Site | Sep 17 |
 | **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Videography Intern](https://jobright.ai/jobs/info/68caf684d905e25191d9de5f?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Sep 17 |
 | **[Little League International](https://www.littleleague.org/)** | **[Landscaping Intern](https://jobright.ai/jobs/info/68cc1afd128dc347fd91f301?utm_campaign=1053&utm_source=git)** | Williamsport, PA | Hybrid | Sep 17 |
-| **[The Washington Post](https://www.washingtonpost.com)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68cae4b1efdec76df36b6475?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Sep 17 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Science Journalism Student Intern - Computer Science Department](https://jobright.ai/jobs/info/68cacd11d905e25191d9c6df?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | Hybrid | Sep 17 |
-| **[SUNY Brockport](http://brockport.edu)** | **[Technical Director](https://jobright.ai/jobs/info/68cacc79d905e25191d9c627?utm_campaign=1053&utm_source=git)** | Brockport, NY | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
