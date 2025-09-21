@@ -125,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - 508 Club Intern](https://jobright.ai/jobs/info/68cc2b257342c7623ae60617?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Sep 18 |
 | ↳ | **[C3 Presents - Guest Services Production Intern](https://jobright.ai/jobs/info/68cc2ab67342c7623ae604fe?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Sep 18 |
 | **[AQUA Magazine](https://aquamagazine.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68cc4808128dc347fd92201d?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Sep 18 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68d01c0d846f0b04af68782e?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Sep 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68cc1d3f128dc347fd91f6b1?utm_campaign=1053&utm_source=git)** | 299 S. Main Street, Salt Lake City, UT, 84111, US | On Site | Sep 18 |
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Basketball Content Creator Internship](https://jobright.ai/jobs/info/68cc28dd7342c7623ae601d1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Sep 18 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Sep 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Winter, 2026)](https://jobright.ai/jobs/info/68cb3010ba798c1a501cce97?utm_campaign=1053&utm_source=git)** | 555 W 24th Street | On Site | Sep 17 |
 | **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Videography Intern](https://jobright.ai/jobs/info/68caf684d905e25191d9de5f?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Sep 17 |
 | **[Little League International](https://www.littleleague.org/)** | **[Landscaping Intern](https://jobright.ai/jobs/info/68cc1afd128dc347fd91f301?utm_campaign=1053&utm_source=git)** | Williamsport, PA | Hybrid | Sep 17 |
+| **[The Washington Post](https://www.washingtonpost.com)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68cae4b1efdec76df36b6475?utm_campaign=1053&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
