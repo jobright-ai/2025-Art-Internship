@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Low Tide Co.](lowtideco.com)** | **[UGC Content Creator](https://jobright.ai/jobs/info/68cf73eadbd9fb154ede7fd3?utm_campaign=1053&utm_source=git)** | Honolulu, HI | Hybrid | Sep 20 |
 | **[Respect My Region](https://www.respectmyregion.com)** | **[Music and Sports Editor Internship](https://jobright.ai/jobs/info/68cf587cfb49c96ca6ea7e51?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Sep 20 |
 | **[Springfield Thunderbirds](http://www.springfieldthunderbirds.com)** | **[Videography Intern](https://jobright.ai/jobs/info/68cf117f846f0b04af67f1a6?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Sep 20 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Cleveland, OH](https://jobright.ai/jobs/info/68cf04c1fb49c96ca6ea5286?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The City of Frederick](http://www.cityoffrederickmd.gov)** | **[Shared Futures Fellowship](https://jobright.ai/jobs/info/68cd10f3e23def7af55b499d?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Sep 17 |
 | **[Aprio](https://www.aprio.com/)** | **[Internship, Video Production + Growth](https://jobright.ai/jobs/info/68cb9288efdec76df36bef6a?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Sep 16 |
 | **[Point Park University](http://www.pointpark.edu/)** | **[Next Generation Newsroom - Journalism Apprentice](https://jobright.ai/jobs/info/68cce82177add66568abbcd2?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Sep 16 |
-| **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Videography Production Intern](https://jobright.ai/jobs/info/68ce245bb2a74e1837edfb93?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
