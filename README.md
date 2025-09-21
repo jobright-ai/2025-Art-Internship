@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Respect My Region](https://www.respectmyregion.com)** | **[Music and Sports Editor Internship](https://jobright.ai/jobs/info/68cf587cfb49c96ca6ea7e51?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Sep 20 |
 | **[Springfield Thunderbirds](http://www.springfieldthunderbirds.com)** | **[Videography Intern](https://jobright.ai/jobs/info/68cf117f846f0b04af67f1a6?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Sep 20 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Cleveland, OH](https://jobright.ai/jobs/info/68cf04c1fb49c96ca6ea5286?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 20 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/68cefb68dbd9fb154ede3f64?utm_campaign=1053&utm_source=git)** | US-NH-Bretton Woods | On Site | Sep 20 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Sightline Media Group](http://www.sightlinemediagroup.com)** | **[Editorial Fellow, Defense News and Military Times](https://jobright.ai/jobs/info/6749547e6b02eb4a41c5311e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Series Intern, Spring 2026](https://jobright.ai/jobs/info/68ceca70dbd9fb154ede2c0e?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Sep 20 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68cd9eed1ad6b16f0289c812?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Sep 20 |
+| **[Snack Media Group](http://www.snackmediagroup.com)** | **[Snack Media / Creator Intern](https://jobright.ai/jobs/info/68cf52c0846f0b04af680bf5?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 19 |
 | **[Castle Pines Golf Club](https://castlepinesgolfclub.club)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/68cdfa6fe23def7af55c0d41?utm_campaign=1053&utm_source=git)** | Castle Pines Golf Club | On Site | Sep 19 |
 | **[The Dallas Morning News](http://www.dallasnews.com)** | **[Local News Summer Intern](https://jobright.ai/jobs/info/68cdfa14e23def7af55c0c5f?utm_campaign=1053&utm_source=git)** | Downtown Dallas (TDMN) - Dallas, TX 75201 US (Primary) | On Site | Sep 19 |
 | **[Kaplan](http://www.kaplan.com)** | **[Student Content Creator – Arizona State University](https://jobright.ai/jobs/info/68cdf8fbe23def7af55c09f0?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aprio](https://www.aprio.com/)** | **[Internship, Video Production + Growth](https://jobright.ai/jobs/info/68cb9288efdec76df36bef6a?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Sep 16 |
 | **[Point Park University](http://www.pointpark.edu/)** | **[Next Generation Newsroom - Journalism Apprentice](https://jobright.ai/jobs/info/68cce82177add66568abbcd2?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Sep 16 |
 | **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Videography Production Intern](https://jobright.ai/jobs/info/68ce245bb2a74e1837edfb93?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Sep 16 |
-| **[MAISON LOTAN](https://www.maisonlotan.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/68ca61eb46caff4db51fe7f7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 16 |
-| **[Asian American Baptist Church](http://www.aabcdallas.org/)** | **[Music Director/Minister Part-Time or Internship](https://jobright.ai/jobs/info/68caba4c9e3a822f5d23e8f3?utm_campaign=1053&utm_source=git)** | Richardson, TX | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
