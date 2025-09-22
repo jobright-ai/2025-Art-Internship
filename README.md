@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ai2Market](https://ai2market.com/)** | **[🎥 Video Editor & Motion Graphics Intern](https://jobright.ai/jobs/info/68d0a823846f0b04af688f8d?utm_campaign=1053&utm_source=git)** | Laguna Beach, CA | Remote | Sep 21 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Funny Podcast Editor Fall Internship (Unpaid)](https://jobright.ai/jobs/info/68d095fedbd9fb154edeeb34?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Remote | Sep 21 |
 | **[Frameshifts](https://frameshifts.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/68d072c2846f0b04af688ac6?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 21 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/68d044eb846f0b04af688505?utm_campaign=1053&utm_source=git)** | Chicago | On Site | Sep 21 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Internship](https://jobright.ai/jobs/info/68c788e4db52c07d2884bb12?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Sep 21 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/67d09040b14899d0fd695ef4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 21 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Sep 21 |
 | **[Low Tide Co.](lowtideco.com)** | **[UGC Content Creator](https://jobright.ai/jobs/info/68cf73eadbd9fb154ede7fd3?utm_campaign=1053&utm_source=git)** | Honolulu, HI | Hybrid | Sep 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TEGNA](http://www.tegna.com)** | **[2026 Summer News Intern / Multiple Locations](https://jobright.ai/jobs/info/68c991e7a0c52d598ea387d4?utm_campaign=1053&utm_source=git)** | Tysons, Virginia, United States | On Site | Sep 17 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 17 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Co-op - Videographer](https://jobright.ai/jobs/info/68cbf07d128dc347fd91c5ef?utm_campaign=1053&utm_source=git)** | Thousand Oaks, CA | On Site | Sep 17 |
-| **[Gagosian](http://www.gagosian.com)** | **[Internship Program - New York (Winter, 2026)](https://jobright.ai/jobs/info/68cb3010ba798c1a501cce97?utm_campaign=1053&utm_source=git)** | 555 W 24th Street | On Site | Sep 17 |
-| **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Videography Intern](https://jobright.ai/jobs/info/68caf684d905e25191d9de5f?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Sep 17 |
-| **[Little League International](https://www.littleleague.org/)** | **[Landscaping Intern](https://jobright.ai/jobs/info/68cc1afd128dc347fd91f301?utm_campaign=1053&utm_source=git)** | Williamsport, PA | Hybrid | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
