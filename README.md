@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ai2Market](https://ai2market.com/)** | **[🎥 Video Editor & Motion Graphics Intern](https://jobright.ai/jobs/info/68d0a823846f0b04af688f8d?utm_campaign=1053&utm_source=git)** | Laguna Beach, CA | Remote | Sep 21 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Funny Podcast Editor Fall Internship (Unpaid)](https://jobright.ai/jobs/info/68d095fedbd9fb154edeeb34?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Remote | Sep 21 |
 | **[Frameshifts](https://frameshifts.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/68d072c2846f0b04af688ac6?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 21 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/68d044eb846f0b04af688505?utm_campaign=1053&utm_source=git)** | Chicago | On Site | Sep 21 |
@@ -134,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Basketball Content Creator Internship](https://jobright.ai/jobs/info/68cc28dd7342c7623ae601d1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Sep 18 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Big Sky](https://jobright.ai/jobs/info/66ec09c6c68dc92593a76d68?utm_campaign=1053&utm_source=git)** | Big Sky Meadow Village, MT | On Site | Sep 18 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/68ce42591ad6b16f028a377c?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Sep 17 |
+| **[Amgen](http://www.amgen.com)** | **[Grad Co-op - Brand Journalist](https://jobright.ai/jobs/info/68c1b2f83fd8b059a20f1970?utm_campaign=1053&utm_source=git)** | Thousand Oaks, CA | On Site | Sep 17 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Health & Wellness Journalist Intern](https://jobright.ai/jobs/info/68cbbecbba798c1a501d4cdf?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Sep 17 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68c7b5f15c25e576f7b29d6d?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Sep 17 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Music Graduate Assistant](https://jobright.ai/jobs/info/68cbbc6a9e3a822f5d24b1b9?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Sep 17 |
