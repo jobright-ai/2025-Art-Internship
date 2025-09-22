@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Fall 2025](https://jobright.ai/jobs/info/68d101a017bd5d3415aa8ba2?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 22 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Funny Podcast Editor Fall Internship (Unpaid)](https://jobright.ai/jobs/info/68d095fedbd9fb154edeeb34?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Remote | Sep 21 |
 | **[Frameshifts](https://frameshifts.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/68d072c2846f0b04af688ac6?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 21 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/68d044eb846f0b04af688505?utm_campaign=1053&utm_source=git)** | Chicago | On Site | Sep 21 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[The Dallas Morning News](http://www.dallasnews.com)** | **[Local News Summer Intern](https://jobright.ai/jobs/info/68cdfa14e23def7af55c0c5f?utm_campaign=1053&utm_source=git)** | Downtown Dallas (TDMN) - Dallas, TX 75201 US (Primary) | On Site | Sep 19 |
 | **[Kaplan](http://www.kaplan.com)** | **[Student Content Creator – Arizona State University](https://jobright.ai/jobs/info/68cdf8fbe23def7af55c09f0?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 19 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WALA (SPORTS NEWS)](https://jobright.ai/jobs/info/68cddfdfe23def7af55bfe1a?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Sep 19 |
-| **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Tailor](https://jobright.ai/jobs/info/68cdcdf6e23def7af55bf5fa?utm_campaign=1053&utm_source=git)** | Williamsburg, VA | On Site | Sep 19 |
 | **[Chopin Foundation of the United States](http://chopin.org)** | **[Arts Administration and Production Intern](https://jobright.ai/jobs/info/68ce1fddb2a74e1837edf8b7?utm_campaign=1053&utm_source=git)** | North Bay Village, FL | On Site | Sep 19 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern, Brand Assembly](https://jobright.ai/jobs/info/68cdb77de23def7af55be856?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Physical Production Intern, Spring 2026](https://jobright.ai/jobs/info/68cdb1c8e23def7af55be540?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Sep 19 |
@@ -101,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[WESH 2 CW18](http://wesh.com)** | **[WESH Intern](https://jobright.ai/jobs/info/68467c30757d449490e9be5b?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Sep 19 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Internship - Culinary Summer 2026](https://jobright.ai/jobs/info/68ce92a1846f0b04af67b28c?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Series Intern, Spring 2026](https://jobright.ai/jobs/info/68cd122ae23def7af55b4bc0?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 19 |
+| **[Snack Media Group](http://www.snackmediagroup.com)** | **[Snack Media / Creator Intern](https://jobright.ai/jobs/info/68d10ad97727df7d5a85088f?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Sep 19 |
 | **[Quanta Ventures Fund](www.quantaventures.ai)** | **[Internship/Gap Semester - Content Creator/Research Paper Writer for A.I. Hedge Fund](https://jobright.ai/jobs/info/68cd0b0e1ad6b16f02893d5f?utm_campaign=1053&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Sep 19 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Behavioral Health Friday Night Live (Moreno Valley) - Paid Internship](https://jobright.ai/jobs/info/68c8fc20f9c6ff7aedf15c2f?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Sep 19 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Entertainment Operations, Universal Epic Universe (Summer 2026)](https://jobright.ai/jobs/info/68cd097c1ad6b16f028939f0?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flint Firebirds](http://www.flintfirebirds.com)** | **[Game Day Operations Internship (2025-2026 Season)](https://jobright.ai/jobs/info/68cb19db9e3a822f5d242844?utm_campaign=1053&utm_source=git)** | Flint, MI | On Site | Sep 17 |
 | **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[Editorial Internship (Paid)](https://jobright.ai/jobs/info/68cbb50fba798c1a501d4302?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 17 |
 | **[TEGNA](http://www.tegna.com)** | **[2026 Summer News Intern / Multiple Locations](https://jobright.ai/jobs/info/68c991e7a0c52d598ea387d4?utm_campaign=1053&utm_source=git)** | Tysons, Virginia, United States | On Site | Sep 17 |
-| **[The Washington Post](https://www.washingtonpost.com)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
