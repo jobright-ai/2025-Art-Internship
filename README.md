@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Video Editing Intern (Unpaid Internship)](https://jobright.ai/jobs/info/68d1f55517554c2d9eee19d7?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 22 |
+| **[Syniti](http://www.syniti.com)** | **[Intern](https://jobright.ai/jobs/info/68d1f446a54edb3bf3e18002?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 22 |
+| **[Kessler Collection](http://www.kesslercollection.com)** | **[Visual Arts Internship](https://jobright.ai/jobs/info/68d1ef22a54edb3bf3e17bf4?utm_campaign=1053&utm_source=git)** | US-GA-Savannah | On Site | Sep 22 |
+| **[The Dallas Morning News](http://www.dallasnews.com)** | **[Food & Events Intern](https://jobright.ai/jobs/info/68d1eedb8c62e63bc7fd1303?utm_campaign=1053&utm_source=git)** | Downtown Dallas (TDMN) - Dallas, TX 75201 US (Primary) | On Site | Sep 22 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Intern 2026 - Recreation Supervisor](https://jobright.ai/jobs/info/68d1d66217554c2d9eee0159?utm_campaign=1053&utm_source=git)** | Carlsbad, CA | On Site | Sep 22 |
 | **[4:08 Productions](http://www.408.productions)** | **[Producing Intern](https://jobright.ai/jobs/info/68d1cae5a54edb3bf3e1640e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 22 |
 | **[Pittsburgh Public Schools](https://www.pghschools.org)** | **[ADJUNCT VISUAL ARTS CERAMICS](https://jobright.ai/jobs/info/68d1b7f217554c2d9eedef29?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Sep 22 |
@@ -78,19 +82,19 @@ For a complete list, click the following sortable link below:
 | **[LaunchX Entrepreneurship Program](https://launchx.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/68d195ea17554c2d9eedcf3e?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 22 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Book Review Intern](https://jobright.ai/jobs/info/68d1ccf78c62e63bc7fcfba9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | **[CadCamNYC](https://cadcamnyc.com)** | **[On Camera Talent Intern](https://jobright.ai/jobs/info/68d180fa8c62e63bc7fcc002?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 22 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1af598c62e63bc7fce7f6?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Kentucky | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1b0c9a54edb3bf3e151d7?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Virginia | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1afa8a54edb3bf3e15140?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) North Carolina | Remote | Sep 22 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1b0c9a54edb3bf3e151d7?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Virginia | Remote | Sep 22 |
 | ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae2317554c2d9eede97c?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Arkansas | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae0d17554c2d9eede954?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1af598c62e63bc7fce7f6?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Kentucky | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1afa8a54edb3bf3e15140?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) North Carolina | Remote | Sep 22 |
 | ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1b046a54edb3bf3e151a2?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Texas | Remote | Sep 22 |
 | ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae7e8c62e63bc7fce790?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Tennessee | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ad7e17554c2d9eede862?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | Remote | Sep 22 |
 | **[Wayfair](https://www.wayfair.com)** | **[Video Content Creator Co-op - January 2026](https://jobright.ai/jobs/info/68d1826a8c62e63bc7fcc1cc?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 22 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Arts in Review Intern](https://jobright.ai/jobs/info/68d194eb17554c2d9eedce13?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 22 |
 | **[College World Series of Omaha, Inc.](https://cwsomaha.com)** | **[Spring Internship](https://jobright.ai/jobs/info/68d1736d8c62e63bc7fcb73a?utm_campaign=1053&utm_source=git)** | Omaha, NE | On Site | Sep 22 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Opinion Intern](https://jobright.ai/jobs/info/68d16e81cece431f8b583c0f?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 22 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68d1274b8c62e63bc7fc93a3?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 22 |
 | **[University Center for Academic Excellence at UNC Charlotte](https://ucae.uncc.edu/)** | **[Oral Historian](https://jobright.ai/jobs/info/68d134e5fa731f61692dd4d7?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Sep 22 |
+| **[Wheeling Nailers](https://wheelingnailers.com)** | **[Game Operations Internship (Full Season)](https://jobright.ai/jobs/info/68d1f5a6a54edb3bf3e18220?utm_campaign=1053&utm_source=git)** | Wheeling, WV | On Site | Sep 21 |
 | **[Frameshifts](https://frameshifts.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/68d072c2846f0b04af688ac6?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 21 |
 | **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/68d044eb846f0b04af688505?utm_campaign=1053&utm_source=git)** | Chicago | On Site | Sep 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Internship](https://jobright.ai/jobs/info/68c788e4db52c07d2884bb12?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Sep 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Culinary Operations](https://jobright.ai/jobs/info/68ccbd4b128dc347fd928d2b?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Sep 18 |
 | **[The Trustees of Reservations](http://www.thetrustees.org)** | **[Curatorial Intern](https://jobright.ai/jobs/info/68cc621f16d00d2beeb1e989?utm_campaign=1053&utm_source=git)** | Lincoln, Massachusetts, United States | Hybrid | Sep 18 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Internship - Culinary Summer 2026](https://jobright.ai/jobs/info/68cc5c387342c7623ae63216?utm_campaign=1053&utm_source=git)** | US-OK-Oklahoma City | On Site | Sep 18 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/66c55a2f06c9231327cd815a?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Sep 18 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Guest Services Production Intern](https://jobright.ai/jobs/info/68ccd9d4d11b445e0bee2edd?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 18 |
-| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Saint John's Resort](https://jobright.ai/jobs/info/68cc512416d00d2beeb1d4c6?utm_campaign=1053&utm_source=git)** | Plymouth, MI | On Site | Sep 18 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/68cc511616d00d2beeb1d4ae?utm_campaign=1053&utm_source=git)** | Norcross, GA | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
