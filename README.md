@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68d2769388bf7b6c9028f98d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 23 |
 | **[Andreessen Horowitz](http://www.a16z.com)** | **[Editorial Intern, Crypto](https://jobright.ai/jobs/info/68d268f88c62e63bc7fd77e4?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Remote | Sep 23 |
 | **[Telefèric Barcelona Restaurant Group](https://www.telefericbarcelona.com)** | **[Culinary Internship, California USA](https://jobright.ai/jobs/info/68d25b8117554c2d9eee730a?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Sep 23 |
 | **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Video Content Internship](https://jobright.ai/jobs/info/68d2468d8c62e63bc7fd66f8?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Sep 22 |
@@ -86,14 +87,15 @@ For a complete list, click the following sortable link below:
 | **[Texas Crew Productions](https://www.texascrew.com)** | **[Spring Semester Production Intern](https://jobright.ai/jobs/info/68d19827cece431f8b585955?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 22 |
 | **[Project Podcast Co.](www.projectpodcast.co)** | **[Non-Paid: Video Editor 2025 Internship - Empires of Long Island Documentary](https://jobright.ai/jobs/info/68d196bd17554c2d9eedd058?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Sep 22 |
 | **[LaunchX Entrepreneurship Program](https://launchx.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/68d195ea17554c2d9eedcf3e?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 22 |
+| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship- Editorial, Bibles (Nashville Hybrid)](https://jobright.ai/jobs/info/68d26e67a54edb3bf3e1e153?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Sep 22 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Book Review Intern](https://jobright.ai/jobs/info/68d1ccf78c62e63bc7fcfba9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1af598c62e63bc7fce7f6?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Kentucky | Remote | Sep 22 |
 | ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1afa2a54edb3bf3e1513b?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Texas | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1b0c9a54edb3bf3e151d7?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Virginia | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1afada54edb3bf3e15143?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) North Carolina | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae7e8c62e63bc7fce790?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Tennessee | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1b013a54edb3bf3e15181?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Virginia | Remote | Sep 22 |
 | ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ad7e17554c2d9eede862?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1afada54edb3bf3e15143?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) North Carolina | Remote | Sep 22 |
 | ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae3817554c2d9eede9a4?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Arkansas | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae7e8c62e63bc7fce790?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Tennessee | Remote | Sep 22 |
 | **[Wayfair](https://www.wayfair.com)** | **[Video Content Creator Co-op - January 2026](https://jobright.ai/jobs/info/68d1826a8c62e63bc7fcc1cc?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 22 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Arts in Review Intern](https://jobright.ai/jobs/info/68d194eb17554c2d9eedce13?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 22 |
 | ↳ | **[Book Review Intern](https://jobright.ai/jobs/info/68d219e717554c2d9eee3986?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 22 |
@@ -130,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[The Dallas Morning News](http://www.dallasnews.com)** | **[Local News Summer Intern](https://jobright.ai/jobs/info/68cdfa14e23def7af55c0c5f?utm_campaign=1053&utm_source=git)** | Downtown Dallas (TDMN) - Dallas, TX 75201 US (Primary) | On Site | Sep 19 |
 | **[Kaplan](http://www.kaplan.com)** | **[Student Content Creator – Arizona State University](https://jobright.ai/jobs/info/68cdf8fbe23def7af55c09f0?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 19 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - WALA (SPORTS NEWS)](https://jobright.ai/jobs/info/68cddfdfe23def7af55bfe1a?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Sep 19 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment Costume Buying Intern, Spring 2026](https://jobright.ai/jobs/info/68d285638c62e63bc7fd80af?utm_campaign=1053&utm_source=git)** | Orlando, FL, USA | On Site | Sep 19 |
 | **[Chopin Foundation of the United States](http://chopin.org)** | **[Arts Administration and Production Intern](https://jobright.ai/jobs/info/68ce1fddb2a74e1837edf8b7?utm_campaign=1053&utm_source=git)** | North Bay Village, FL | On Site | Sep 19 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern, Brand Assembly](https://jobright.ai/jobs/info/68cdb77de23def7af55be856?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Physical Production Intern, Spring 2026](https://jobright.ai/jobs/info/68cdb1c8e23def7af55be540?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Sep 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Simon & Schuster's Spring 2026 Internship Program](https://jobright.ai/jobs/info/68ccfb3677add66568abcf88?utm_campaign=1053&utm_source=git)** | 1230 Ave of the Americas, New York, NY 10036, USA | On Site | Sep 18 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship-Discover Universal Podcast Content Strategy (Summer 2026)](https://jobright.ai/jobs/info/68cfa86e846f0b04af683ae3?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Music Therapy Internship](https://jobright.ai/jobs/info/68c96a9295f5211cd2cf0578?utm_campaign=1053&utm_source=git)** | Minnesota, United States | On Site | Sep 18 |
-| **[American Red Cross North Texas Region](http://www.redcross.org/northtexas)** | **[Content Creator Intern – American Red Cross, North Texas Region](https://jobright.ai/jobs/info/68cfa870fb49c96ca6eaa2fe?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 18 |
-| **[University of La Verne](http://laverne.edu)** | **[Music Department Assistant 25-26](https://jobright.ai/jobs/info/68cf9596dbd9fb154ede8e9c?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | Sep 18 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68d227d117554c2d9eee4ded?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
