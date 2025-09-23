@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Intern 2026 - Recreation Supervisor](https://jobright.ai/jobs/info/68d1d66217554c2d9eee0159?utm_campaign=1053&utm_source=git)** | Carlsbad, CA | On Site | Sep 22 |
+| **[4:08 Productions](http://www.408.productions)** | **[Producing Intern](https://jobright.ai/jobs/info/68d1cae5a54edb3bf3e1640e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 22 |
 | **[Pittsburgh Public Schools](https://www.pghschools.org)** | **[ADJUNCT VISUAL ARTS CERAMICS](https://jobright.ai/jobs/info/68d1b7f217554c2d9eedef29?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Sep 22 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Information Center/Archives (NYC)](https://jobright.ai/jobs/info/68d1b2b88c62e63bc7fceac7?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Sep 22 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Roadshow Coordinator Intern](https://jobright.ai/jobs/info/68d1b24b17554c2d9eedea46?utm_campaign=1053&utm_source=git)** | Plymouth, MN | On Site | Sep 22 |
@@ -74,12 +76,14 @@ For a complete list, click the following sortable link below:
 | **[Texas Crew Productions](https://www.texascrew.com)** | **[Spring Semester Production Intern](https://jobright.ai/jobs/info/68d19827cece431f8b585955?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 22 |
 | **[Project Podcast Co.](www.projectpodcast.co)** | **[Non-Paid: Video Editor 2025 Internship - Empires of Long Island Documentary](https://jobright.ai/jobs/info/68d196bd17554c2d9eedd058?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Sep 22 |
 | **[LaunchX Entrepreneurship Program](https://launchx.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/68d195ea17554c2d9eedcf3e?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 22 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Book Review Intern](https://jobright.ai/jobs/info/68d1ccf78c62e63bc7fcfba9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 22 |
+| **[CadCamNYC](https://cadcamnyc.com)** | **[On Camera Talent Intern](https://jobright.ai/jobs/info/68d180fa8c62e63bc7fcc002?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1af598c62e63bc7fce7f6?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Kentucky | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1b0c9a54edb3bf3e151d7?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Virginia | Remote | Sep 22 |
 | ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1afa8a54edb3bf3e15140?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) North Carolina | Remote | Sep 22 |
 | ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae2317554c2d9eede97c?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Arkansas | Remote | Sep 22 |
 | ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae0d17554c2d9eede954?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1afa2a54edb3bf3e1513b?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Texas | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1b013a54edb3bf3e15181?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Virginia | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1b046a54edb3bf3e151a2?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Texas | Remote | Sep 22 |
 | ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae7e8c62e63bc7fce790?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Tennessee | Remote | Sep 22 |
 | **[Wayfair](https://www.wayfair.com)** | **[Video Content Creator Co-op - January 2026](https://jobright.ai/jobs/info/68d1826a8c62e63bc7fcc1cc?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 22 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Arts in Review Intern](https://jobright.ai/jobs/info/68d194eb17554c2d9eedce13?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Guest Services Production Intern](https://jobright.ai/jobs/info/68ccd9d4d11b445e0bee2edd?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 18 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Saint John's Resort](https://jobright.ai/jobs/info/68cc512416d00d2beeb1d4c6?utm_campaign=1053&utm_source=git)** | Plymouth, MI | On Site | Sep 18 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/68cc511616d00d2beeb1d4ae?utm_campaign=1053&utm_source=git)** | Norcross, GA | On Site | Sep 18 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68cc40167342c7623ae6195d?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 18 |
-| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Columbus, OH](https://jobright.ai/jobs/info/68cc3bf5128dc347fd921456?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 18 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - 508 Club Intern](https://jobright.ai/jobs/info/68cc2b257342c7623ae60617?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Sep 18 |
-| ↳ | **[C3 Presents - Guest Services Production Intern](https://jobright.ai/jobs/info/68cc2ab67342c7623ae604fe?utm_campaign=1053&utm_source=git)** | Austin, TX, USA | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
