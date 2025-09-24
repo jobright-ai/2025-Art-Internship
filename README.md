@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[YMCA of Greater Grand Rapids](http://www.grymca.org/)** | **[Sports & STEAM Intern](https://jobright.ai/jobs/info/68d3447f17554c2d9eeef4c8?utm_campaign=1053&utm_source=git)** | DAVID D. HUNTING YMCA | On Site | Sep 23 |
+| **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Lafayette Culinary Intern](https://jobright.ai/jobs/info/68d344118c62e63bc7fdf253?utm_campaign=1053&utm_source=git)** | Lafayette, CA | Hybrid | Sep 23 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/68d3435d17554c2d9eeef29a?utm_campaign=1053&utm_source=git)** | US-TX-Irving | On Site | Sep 23 |
+| **[Little League International](https://www.littleleague.org/)** | **[Video Intern](https://jobright.ai/jobs/info/68d333088c62e63bc7fde8d1?utm_campaign=1053&utm_source=git)** | Williamsport, PA | On Site | Sep 23 |
+| **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Newport Beach Culinary Intern](https://jobright.ai/jobs/info/68d34dd5f0d9af73038e0ebc?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | Hybrid | Sep 23 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Creative Video Intern](https://jobright.ai/jobs/info/68d331298c62e63bc7fde63e?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Sep 23 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/68d327c58c62e63bc7fde2b2?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Sep 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20/20 Production Intern, Spring 2026](https://jobright.ai/jobs/info/68d322f3f0d9af73038df55e?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Sep 23 |
@@ -104,13 +109,13 @@ For a complete list, click the following sortable link below:
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship- Editorial, Bibles (Nashville Hybrid)](https://jobright.ai/jobs/info/68d26e67a54edb3bf3e1e153?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Sep 22 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Book Review Intern](https://jobright.ai/jobs/info/68d1ccf78c62e63bc7fcfba9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | **[CadCamNYC](https://cadcamnyc.com)** | **[On Camera Talent Intern](https://jobright.ai/jobs/info/68d180fa8c62e63bc7fcc002?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 22 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae0d17554c2d9eede954?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | Remote | Sep 22 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1afa2a54edb3bf3e1513b?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Texas | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1b0c9a54edb3bf3e151d7?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Virginia | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1afa8a54edb3bf3e15140?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) North Carolina | Remote | Sep 22 |
 | ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae2317554c2d9eede97c?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Arkansas | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1b013a54edb3bf3e15181?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Virginia | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1aeea8c62e63bc7fce7cb?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Kentucky | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1afada54edb3bf3e15143?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) North Carolina | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1b046a54edb3bf3e151a2?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Texas | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1af598c62e63bc7fce7f6?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Kentucky | Remote | Sep 22 |
 | ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae7e8c62e63bc7fce790?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Tennessee | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ad7e17554c2d9eede862?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | Remote | Sep 22 |
 | **[Wayfair](https://www.wayfair.com)** | **[Video Content Creator Co-op - January 2026](https://jobright.ai/jobs/info/68d1826a8c62e63bc7fcc1cc?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 22 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Arts in Review Intern](https://jobright.ai/jobs/info/68d194eb17554c2d9eedce13?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 22 |
 | ↳ | **[Book Review Intern](https://jobright.ai/jobs/info/68d219e717554c2d9eee3986?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chopin Foundation of the United States](http://chopin.org)** | **[Arts Administration and Production Intern](https://jobright.ai/jobs/info/68ce1fddb2a74e1837edf8b7?utm_campaign=1053&utm_source=git)** | North Bay Village, FL | On Site | Sep 19 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern, Brand Assembly](https://jobright.ai/jobs/info/68cdb77de23def7af55be856?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Physical Production Intern, Spring 2026](https://jobright.ai/jobs/info/68cdb1c8e23def7af55be540?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Sep 19 |
-| **[McClatchy Media](https://www.mcclatchy.com/)** | **[2026 HBCU News Intern Program](https://jobright.ai/jobs/info/68cf01f8dbd9fb154ede42ea?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 19 |
-| **[New College of Florida](http://www.ncf.edu/)** | **[Student Assistant, College Hall Centennial Project](https://jobright.ai/jobs/info/68cdca74b2a74e1837edc6a5?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Sep 19 |
-| **[Hyatt Place + Hyatt House Charleston Historic District](http://www.hyattplacehyatthousecharleston.com/)** | **[Hospitality Internship](https://jobright.ai/jobs/info/68cda72ae23def7af55bd61d?utm_campaign=1053&utm_source=git)** | Kansas City Marriott Downtown | On Site | Sep 19 |
-| **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Patient Media and Broadcasting Intern](https://jobright.ai/jobs/info/68cd9e631ad6b16f0289c731?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 19 |
-| **[TEGNA](http://www.tegna.com)** | **[2026 Summer News Intern / Multiple Locations](https://jobright.ai/jobs/info/68cb94079e3a822f5d2488ca?utm_campaign=1053&utm_source=git)** | Tysons Corner, VA | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
