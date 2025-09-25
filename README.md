@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d48305ffc1276de3fdb766?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
+| **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2026 Photojournalism Internship](https://jobright.ai/jobs/info/68d49ca3fcd3367e8df1625e?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 24 |
+| **[Support Ukraine With Us](http://www.supportukrainewithus.com)** | **[Video Content Editor](https://jobright.ai/jobs/info/68d495158c62e63bc7feaa1e?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
+| **[Skild AI](https://www.skild.ai)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d49216fcd3367e8df15aca?utm_campaign=1053&utm_source=git)** | San Mateo | On Site | Sep 24 |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/68d490e6ffc1276de3fdc008?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 24 |
+| **[Skild AI](https://www.skild.ai)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Sep 24 |
+| **[Kaplan](http://www.kaplan.com)** | **[Student Content Creator – Pace University](https://jobright.ai/jobs/info/68d48f6bffc1276de3fdbe34?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 24 |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d4879b8c62e63bc7fea190?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 24 |
+| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d487288c62e63bc7fea10a?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Sep 24 |
+| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING 03/07/2025](https://jobright.ai/jobs/info/68d485d18c62e63bc7fe9f5a?utm_campaign=1053&utm_source=git)** | Champaign, IL | On Site | Sep 24 |
+| ↳ | **[Spring 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68d483bf77769e778f509abd?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Sep 24 |
+| ↳ | **[Spring 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68d4836777769e778f509a5a?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Sep 24 |
+| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d48305ffc1276de3fdb766?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
 | **[Her Bio](https://her-bio.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68d482b78c62e63bc7fe9d76?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 24 |
 | **[University of South Florida](http://www.usf.edu)** | **[Student Assistant - Multimedia Production Assistant](https://jobright.ai/jobs/info/68d4824a77769e778f509940?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Sep 24 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer](https://jobright.ai/jobs/info/68d4820fffc1276de3fdb646?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 24 |
@@ -76,7 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Audience Producer Internship - Summer 2026](https://jobright.ai/jobs/info/68d43d83ffc1276de3fd8858?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
 | ↳ | **[News & Politics Reporting Internship - Summer 2026](https://jobright.ai/jobs/info/68d43d02ffc1276de3fd87ff?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
 | **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern](https://jobright.ai/jobs/info/68d437bb17554c2d9eef6fe6?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 24 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Museum Interpretation Intern: Spring 2026](https://jobright.ai/jobs/info/68d4362817554c2d9eef6c94?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 24 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Museum Interpretation Intern: Spring 2026](https://jobright.ai/jobs/info/68d436708c62e63bc7fe6b16?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Good Morning America Production Intern, Spring 2026](https://jobright.ai/jobs/info/68d40e358c62e63bc7fe5812?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 24 |
 | ↳ | **[ABC News Production & Operations Intern, Spring 2026](https://jobright.ai/jobs/info/68d40cf25ae5a90cfd482c5b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 24 |
 | ↳ | **[The View Production Intern, Spring 2026](https://jobright.ai/jobs/info/68d40a265ae5a90cfd482aa2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 24 |
@@ -134,27 +145,16 @@ For a complete list, click the following sortable link below:
 | **[LaunchX Entrepreneurship Program](https://launchx.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/68d195ea17554c2d9eedcf3e?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 22 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship- Editorial, Bibles (Nashville Hybrid)](https://jobright.ai/jobs/info/68d26e67a54edb3bf3e1e153?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Sep 22 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Book Review Intern](https://jobright.ai/jobs/info/68d1ccf78c62e63bc7fcfba9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 22 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1afa8a54edb3bf3e15140?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) North Carolina | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1af168c62e63bc7fce7e2?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Tennessee | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae3817554c2d9eede9a4?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Arkansas | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1aeea8c62e63bc7fce7cb?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Kentucky | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1b013a54edb3bf3e15181?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Virginia | Remote | Sep 22 |
-| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ad7e17554c2d9eede862?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | Remote | Sep 22 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1af168c62e63bc7fce7e2?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Tennessee | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae2317554c2d9eede97c?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Arkansas | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1af598c62e63bc7fce7f6?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Kentucky | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ae0d17554c2d9eede954?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | Remote | Sep 22 |
 | ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1b046a54edb3bf3e151a2?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Texas | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1afada54edb3bf3e15143?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) North Carolina | Remote | Sep 22 |
+| ↳ | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68d1b013a54edb3bf3e15181?utm_campaign=1053&utm_source=git)** | Off-Site Employees (Corp Use) Virginia | Remote | Sep 22 |
 | **[Wayfair](https://www.wayfair.com)** | **[Video Content Creator Co-op - January 2026](https://jobright.ai/jobs/info/68d1826a8c62e63bc7fcc1cc?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 22 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Arts in Review Intern](https://jobright.ai/jobs/info/68d194eb17554c2d9eedce13?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 22 |
 | ↳ | **[Book Review Intern](https://jobright.ai/jobs/info/68d219e717554c2d9eee3986?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 22 |
 | **[College World Series of Omaha, Inc.](https://cwsomaha.com)** | **[Spring Internship](https://jobright.ai/jobs/info/68d1736d8c62e63bc7fcb73a?utm_campaign=1053&utm_source=git)** | Omaha, NE | On Site | Sep 22 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Opinion Intern](https://jobright.ai/jobs/info/68d16e81cece431f8b583c0f?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 22 |
-| **[NetJets](https://www.netjets.com/)** | **[Global 5 Senses Intern Digital Content (NJUS)](https://jobright.ai/jobs/info/68cc5b1f128dc347fd92330b?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 22 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68d3cbc08c62e63bc7fe48ac?utm_campaign=1053&utm_source=git)** | Glasgow, MT | On Site | Sep 22 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68d3cbc08c62e63bc7fe48ad?utm_campaign=1053&utm_source=git)** | Gwynedd, PA | On Site | Sep 22 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68d3cac38c62e63bc7fe4839?utm_campaign=1053&utm_source=git)** | Aberdeen, SD | On Site | Sep 22 |
-| **[University Center for Academic Excellence at UNC Charlotte](https://ucae.uncc.edu/)** | **[Oral Historian](https://jobright.ai/jobs/info/68d134e5fa731f61692dd4d7?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Sep 22 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern Fall 2025 (Unpaid)](https://jobright.ai/jobs/info/689851c883d13d1f5b68e575?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Sep 21 |
-| **[Wheeling Nailers](https://wheelingnailers.com)** | **[Game Operations Internship (Full Season)](https://jobright.ai/jobs/info/68d1f5a6a54edb3bf3e18220?utm_campaign=1053&utm_source=git)** | Wheeling, WV | On Site | Sep 21 |
-| **[Frameshifts](https://frameshifts.org)** | **[Videographer Intern](https://jobright.ai/jobs/info/68d072c2846f0b04af688ac6?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 21 |
-| **[Fever](https://www.feverup.com)** | **[Internship Event Producer](https://jobright.ai/jobs/info/68d044eb846f0b04af688505?utm_campaign=1053&utm_source=git)** | Chicago | On Site | Sep 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Internship](https://jobright.ai/jobs/info/68c788e4db52c07d2884bb12?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Sep 21 |
-| **[Conservice ](https://www.conservice.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/68d0e27c7727df7d5a84e56b?utm_campaign=1053&utm_source=git)** | Logan, UT | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
