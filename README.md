@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marketing Choices](https://marketingchoices.com)** | **[Editorial Internship](https://jobright.ai/jobs/info/68d56db939247e3c807eb064?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Sep 25 |
 | **[RAW APP](https://www.raw.app)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68d53fca63d77d6f6f3ecbcc?utm_campaign=1053&utm_source=git)** | California, United States | Remote | Sep 25 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68d5502663d77d6f6f3ed6ca?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | Sep 25 |
-| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/68d5467e1f7fb2169ab0e517?utm_campaign=1053&utm_source=git)** | Brea, CA | On Site | Sep 25 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Media Production Intern](https://jobright.ai/jobs/info/68d4ff8a24b1ee4c7b6630da?utm_campaign=1053&utm_source=git)** | Orem, UT | On Site | Sep 25 |
 | **[The Huntington](http://www.huntington.org/)** | **[Art Museum Intern](https://jobright.ai/jobs/info/68d4e4dfffc1276de3fdf36f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 24 |
 | **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Video Editing & Studio Assistant Internship](https://jobright.ai/jobs/info/68d4b9c2fcd3367e8df17494?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Sep 24 |
@@ -97,8 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Audience Producer Internship - Summer 2026](https://jobright.ai/jobs/info/68d43d83ffc1276de3fd8858?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
 | ↳ | **[News & Politics Reporting Internship - Summer 2026](https://jobright.ai/jobs/info/68d43d02ffc1276de3fd87ff?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
 | **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern](https://jobright.ai/jobs/info/68d437bb17554c2d9eef6fe6?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 24 |
-| **[Springer Nature](https://group.springernature.com/)** | **[News Intern, Nature News](https://jobright.ai/jobs/info/68d4eab024b1ee4c7b661cb5?utm_campaign=1053&utm_source=git)** | Washington DC | Hybrid | Sep 24 |
-| ↳ | **[News Intern, Nature News](https://jobright.ai/jobs/info/68d4e9d5e678d65ec7d88f58?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Sep 24 |
+| **[Springer Nature](https://group.springernature.com/)** | **[News Intern, Nature News](https://jobright.ai/jobs/info/68d4e9d5e678d65ec7d88f58?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Sep 24 |
+| ↳ | **[News Intern, Nature News](https://jobright.ai/jobs/info/68d4eab024b1ee4c7b661cb5?utm_campaign=1053&utm_source=git)** | Washington DC | Hybrid | Sep 24 |
 | **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Museum Interpretation Intern: Spring 2026](https://jobright.ai/jobs/info/68d4362817554c2d9eef6c94?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Good Morning America Production Intern, Spring 2026](https://jobright.ai/jobs/info/68d40e358c62e63bc7fe5812?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 24 |
 | ↳ | **[ABC News Production & Operations Intern, Spring 2026](https://jobright.ai/jobs/info/68d40cf25ae5a90cfd482c5b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 24 |
