@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Retail Tech Media Nexus](RTMNexus.com)** | **[Intern](https://jobright.ai/jobs/info/68d6d19b894705799a2edf96?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Evee](https://evee.ai/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68d6b46ed3fe025a3015b5c5?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Hybrid | Sep 26 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring Internship](https://jobright.ai/jobs/info/68d6adf2d3fe025a3015b33f?utm_campaign=1053&utm_source=git)** | USA-NY-Buffalo | On Site | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[WSJ. Magazine & Style News Summer Internship](https://jobright.ai/jobs/info/68d69d4fd3fe025a3015ab57?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
@@ -127,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Marketing Choices](https://marketingchoices.com)** | **[Editorial Internship](https://jobright.ai/jobs/info/68d56db939247e3c807eb064?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Sep 25 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2026 Summer News Internship – Data Reporter](https://jobright.ai/jobs/info/68d5e9c663d77d6f6f3f32ed?utm_campaign=1053&utm_source=git)** | Arlington - 1801 S Bell (INDG) | On Site | Sep 25 |
 | **[Brokerverse](www.brokerverse.com)** | **[Contributing Writer](https://jobright.ai/jobs/info/68d64203ebcef82ef5cf8d46?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 25 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68cd4b871ad6b16f02897a71?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Sep 25 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern- Fall or Spring - JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/68d450adffc1276de3fd9aa2?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Sep 25 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/688daccecdbd821a3663dbbd?utm_campaign=1053&utm_source=git)** | Ohio, United States | On Site | Sep 25 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Media Production Intern](https://jobright.ai/jobs/info/68d4ff8a24b1ee4c7b6630da?utm_campaign=1053&utm_source=git)** | Orem, UT | On Site | Sep 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Content Curator](https://jobright.ai/jobs/info/68d44f76ffc1276de3fd999a?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Sep 24 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Museum Interpretation Intern: Spring 2026](https://jobright.ai/jobs/info/68d46bd4ffc1276de3fdabea?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 24 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Photo/Video Journalist Internship – Summer 2026](https://jobright.ai/jobs/info/68d444018c62e63bc7fe7353?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
-| ↳ | **[Sports Reporting Internship - Summer 2026](https://jobright.ai/jobs/info/68d440cbffc1276de3fd8b28?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
-| ↳ | **[Business Reporting Internship - Summer 2026](https://jobright.ai/jobs/info/68d440bdffc1276de3fd8b17?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
