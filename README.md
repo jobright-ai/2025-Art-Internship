@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Evee](https://evee.ai/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68d6b46ed3fe025a3015b5c5?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Hybrid | Sep 26 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring Internship](https://jobright.ai/jobs/info/68d6adf2d3fe025a3015b33f?utm_campaign=1053&utm_source=git)** | USA-NY-Buffalo | On Site | Sep 26 |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[WSJ. Magazine & Style News Summer Internship](https://jobright.ai/jobs/info/68d69d4fd3fe025a3015ab57?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
+| ↳ | **[Social Video Internship](https://jobright.ai/jobs/info/68d69acf894705799a2ec606?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
+| **[Plutus Media](https://growwithplutus.com/)** | **[TikTok Creator](https://jobright.ai/jobs/info/68d69ac2894705799a2ec5f0?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Video Internship](https://jobright.ai/jobs/info/68d698c445853d0e39cc87f2?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator (TikTok)](https://jobright.ai/jobs/info/68d69601894705799a2ec4da?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
+| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Health & Wellness Journalist Intern](https://jobright.ai/jobs/info/68d6ae5d45853d0e39cc91ca?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 26 |
 | **[RAW APP](https://www.raw.app)** | **[TikTok Creator Intern](https://jobright.ai/jobs/info/68d6848c45853d0e39cc8162?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68d66f97d3fe025a30159df1?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Sep 26 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba24775f383274918644fe?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 26 |
@@ -88,8 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/68d616922116ff37ee092f2d?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 25 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/68d616061f7fb2169ab164a5?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 25 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - Atlanta, GA](https://jobright.ai/jobs/info/68d615ef1f7fb2169ab16457?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, USA | On Site | Sep 25 |
-| ↳ | **[Spring 2026 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/68d662fc4736ff202fdd30b7?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 25 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/68d631e7ebcef82ef5cf7785?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 25 |
+| ↳ | **[Spring 2026 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/68d662fc4736ff202fdd30b7?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d60c012116ff37ee092033?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 25 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Intramural Sports Official](https://jobright.ai/jobs/info/68d63b7f4736ff202fdd112f?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Sep 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d6000a63d77d6f6f3f3a22?utm_campaign=1053&utm_source=git)** | Bridgeport, CT | On Site | Sep 25 |
@@ -103,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Hung Up Cleats](https://www.youtube.com/@HungUpCleatsPodcast)** | **[Video Production Intern – Hung Up Cleats Podcast](https://jobright.ai/jobs/info/68d5e1a063d77d6f6f3f2dca?utm_campaign=1053&utm_source=git)** | Nashville Metro | Hybrid | Sep 25 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2026 Summer News Internship](https://jobright.ai/jobs/info/68d5dacd63d77d6f6f3f2c13?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Sep 25 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Summer 2026 - Baseball Operations Internship](https://jobright.ai/jobs/info/68d5d9f763d77d6f6f3f2b92?utm_campaign=1053&utm_source=git)** | Aberdeen, MD | On Site | Sep 25 |
+| **[Soul Planet Inc.](http://www.SoulPlanet.Life)** | **[Intern](https://jobright.ai/jobs/info/68d6920ed3fe025a3015a7bd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 25 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2026 Summer News Internship – Video Journalist](https://jobright.ai/jobs/info/68d5d7fc1f7fb2169ab14270?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Sep 25 |
 | **[Rancher Hat Bar](www.rancherhatbar.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68d5ead32116ff37ee09130e?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 25 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/68d6087b63d77d6f6f3f3f10?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Sep 25 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Photo/Video Journalist Internship – Summer 2026](https://jobright.ai/jobs/info/68d444018c62e63bc7fe7353?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
 | ↳ | **[Sports Reporting Internship - Summer 2026](https://jobright.ai/jobs/info/68d440cbffc1276de3fd8b28?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
 | ↳ | **[Business Reporting Internship - Summer 2026](https://jobright.ai/jobs/info/68d440bdffc1276de3fd8b17?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
-| ↳ | **[Digital Audience Producer Internship - Summer 2026](https://jobright.ai/jobs/info/68d43d83ffc1276de3fd8858?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
-| ↳ | **[News & Politics Reporting Internship - Summer 2026](https://jobright.ai/jobs/info/68d43d02ffc1276de3fd87ff?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
-| **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern](https://jobright.ai/jobs/info/68d437bb17554c2d9eef6fe6?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 24 |
-| **[Springer Nature](https://group.springernature.com/)** | **[News Intern, Nature News](https://jobright.ai/jobs/info/68d4e9d5e678d65ec7d88f58?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Sep 24 |
-| ↳ | **[News Intern, Nature News](https://jobright.ai/jobs/info/68d4eab024b1ee4c7b661cb5?utm_campaign=1053&utm_source=git)** | Washington DC | Hybrid | Sep 24 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Museum Interpretation Intern: Spring 2026](https://jobright.ai/jobs/info/68d436708c62e63bc7fe6b16?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 24 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Good Morning America Production Intern, Spring 2026](https://jobright.ai/jobs/info/68d40e358c62e63bc7fe5812?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
