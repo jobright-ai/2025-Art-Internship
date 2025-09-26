@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Video Internship](https://jobright.ai/jobs/info/68d698c445853d0e39cc87f2?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
+| **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator (TikTok)](https://jobright.ai/jobs/info/68d69601894705799a2ec4da?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
+| **[RAW APP](https://www.raw.app)** | **[TikTok Creator Intern](https://jobright.ai/jobs/info/68d6848c45853d0e39cc8162?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68d66f97d3fe025a30159df1?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Sep 26 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba24775f383274918644fe?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 26 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Spring 2026 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/68d659ba894705799a2eb211?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
@@ -117,9 +120,10 @@ For a complete list, click the following sortable link below:
 | **[Marketing Choices](https://marketingchoices.com)** | **[Editorial Internship](https://jobright.ai/jobs/info/68d56db939247e3c807eb064?utm_campaign=1053&utm_source=git)** | Colorado, United States | Remote | Sep 25 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2026 Summer News Internship – Data Reporter](https://jobright.ai/jobs/info/68d5e9c663d77d6f6f3f32ed?utm_campaign=1053&utm_source=git)** | Arlington - 1801 S Bell (INDG) | On Site | Sep 25 |
 | **[Brokerverse](www.brokerverse.com)** | **[Contributing Writer](https://jobright.ai/jobs/info/68d64203ebcef82ef5cf8d46?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 25 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68d6239d4736ff202fdcf902?utm_campaign=1053&utm_source=git)** | Brea, CA | On Site | Sep 25 |
-| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/68d6342bebcef82ef5cf7b1a?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | Sep 25 |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern- Fall or Spring - JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/68d450adffc1276de3fd9aa2?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Sep 25 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/688daccecdbd821a3663dbbd?utm_campaign=1053&utm_source=git)** | Ohio, United States | On Site | Sep 25 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Media Production Intern](https://jobright.ai/jobs/info/68d4ff8a24b1ee4c7b6630da?utm_campaign=1053&utm_source=git)** | Orem, UT | On Site | Sep 25 |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern( Fall or Spring Semester) Hyatt Regency Bonita Springs Resort](https://jobright.ai/jobs/info/68d451c317554c2d9eef8632?utm_campaign=1053&utm_source=git)** | Bonita Springs, FL | On Site | Sep 25 |
 | **[The Huntington](http://www.huntington.org/)** | **[Art Museum Intern](https://jobright.ai/jobs/info/68d4e4dfffc1276de3fdf36f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 24 |
 | **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Video Editing & Studio Assistant Internship](https://jobright.ai/jobs/info/68d4b9c2fcd3367e8df17494?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Sep 24 |
 | **[EASTEAM](easteamny.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/68d4a8a2ffc1276de3fdcd2e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Sep 24 |
@@ -141,9 +145,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d4817877769e778f509820?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Sep 24 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Esports – Broadcast Student Talent (FWS/NFWS) ](https://jobright.ai/jobs/info/68d47628ffc1276de3fdb00e?utm_campaign=1053&utm_source=git)** | AZ Phoenix | On Site | Sep 24 |
 | **[Awaken Pittsburgh](https://awakenpittsburgh.com)** | **[Volunteer Video Editor](https://jobright.ai/jobs/info/68d457a717554c2d9eef882c?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Sep 24 |
-| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern- Hyatt Regency Bonita Springs Resort](https://jobright.ai/jobs/info/68d451c317554c2d9eef8632?utm_campaign=1053&utm_source=git)** | Bonita Springs, FL | On Site | Sep 24 |
-| ↳ | **[Event Technology Intern- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/68d450adffc1276de3fd9aa2?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Sep 24 |
-| **[Awaken Pittsburgh](https://awakenpittsburgh.com)** | **[Digital Content Curator](https://jobright.ai/jobs/info/68d44f76ffc1276de3fd999a?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Sep 24 |
+| ↳ | **[Digital Content Curator](https://jobright.ai/jobs/info/68d44f76ffc1276de3fd999a?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Sep 24 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Museum Interpretation Intern: Spring 2026](https://jobright.ai/jobs/info/68d46bd4ffc1276de3fdabea?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 24 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Photo/Video Journalist Internship – Summer 2026](https://jobright.ai/jobs/info/68d444018c62e63bc7fe7353?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
 | ↳ | **[Sports Reporting Internship - Summer 2026](https://jobright.ai/jobs/info/68d440cbffc1276de3fd8b28?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[News Intern, Nature News](https://jobright.ai/jobs/info/68d4eab024b1ee4c7b661cb5?utm_campaign=1053&utm_source=git)** | Washington DC | Hybrid | Sep 24 |
 | **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Museum Interpretation Intern: Spring 2026](https://jobright.ai/jobs/info/68d436708c62e63bc7fe6b16?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Good Morning America Production Intern, Spring 2026](https://jobright.ai/jobs/info/68d40e358c62e63bc7fe5812?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 24 |
-| ↳ | **[ABC News Production & Operations Intern, Spring 2026](https://jobright.ai/jobs/info/68d40cf25ae5a90cfd482c5b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 24 |
-| ↳ | **[The View Production Intern, Spring 2026](https://jobright.ai/jobs/info/68d40a265ae5a90cfd482aa2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
