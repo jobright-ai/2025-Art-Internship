@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[The Wall Street Journal Business, Finance & Economics Reporting Internships, New York (Summer 2026)](https://jobright.ai/jobs/info/68d6e41c894705799a2ee860?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX News Media Internship Program - Chicago, IL](https://jobright.ai/jobs/info/68d6e415894705799a2ee84b?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, USA | On Site | Sep 26 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Producer Intern, The Hive, Spring 2026](https://jobright.ai/jobs/info/68d6e371d3fe025a3015cbf4?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 26 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring Internship](https://jobright.ai/jobs/info/68d6de1f894705799a2ee358?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Sep 26 |
+| **[Jefferson City School District](https://www.jcschools.us/nichols)** | **[Media Production Crew](https://jobright.ai/jobs/info/68d6dad3894705799a2ee204?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Sep 26 |
 | **[Retail Tech Media Nexus](RTMNexus.com)** | **[Intern](https://jobright.ai/jobs/info/68d6d19b894705799a2edf96?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Evee](https://evee.ai/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68d6b46ed3fe025a3015b5c5?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Hybrid | Sep 26 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring Internship](https://jobright.ai/jobs/info/68d6adf2d3fe025a3015b33f?utm_campaign=1053&utm_source=git)** | USA-NY-Buffalo | On Site | Sep 26 |
@@ -67,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator (TikTok)](https://jobright.ai/jobs/info/68d69601894705799a2ec4da?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Health & Wellness Journalist Intern](https://jobright.ai/jobs/info/68d6ae5d45853d0e39cc91ca?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 26 |
 | **[RAW APP](https://www.raw.app)** | **[TikTok Creator Intern](https://jobright.ai/jobs/info/68d6848c45853d0e39cc8162?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
+| **[NetJets](https://www.netjets.com/)** | **[Hospitality Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b9b0f38043103d4f21991b?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 26 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68d66f97d3fe025a30159df1?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Sep 26 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba24775f383274918644fe?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 26 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Spring 2026 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/68d659ba894705799a2eb211?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
@@ -95,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/68d616922116ff37ee092f2d?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 25 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/68d616061f7fb2169ab164a5?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 25 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - Atlanta, GA](https://jobright.ai/jobs/info/68d615ef1f7fb2169ab16457?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, USA | On Site | Sep 25 |
-| ↳ | **[Spring 2026 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/68d631e7ebcef82ef5cf7785?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 25 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/68d662fc4736ff202fdd30b7?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 25 |
+| ↳ | **[Spring 2026 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/68d631e7ebcef82ef5cf7785?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d60c012116ff37ee092033?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 25 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Intramural Sports Official](https://jobright.ai/jobs/info/68d63b7f4736ff202fdd112f?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Sep 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d6000a63d77d6f6f3f3a22?utm_campaign=1053&utm_source=git)** | Bridgeport, CT | On Site | Sep 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer](https://jobright.ai/jobs/info/68d4820fffc1276de3fdb646?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 24 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d481e7ffc1276de3fdb619?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Sep 24 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d4819377769e778f509862?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Sep 24 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d4817877769e778f509820?utm_campaign=1053&utm_source=git)** | Bloomington, IN | On Site | Sep 24 |
-| **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Esports – Broadcast Student Talent (FWS/NFWS) ](https://jobright.ai/jobs/info/68d47628ffc1276de3fdb00e?utm_campaign=1053&utm_source=git)** | AZ Phoenix | On Site | Sep 24 |
-| **[Awaken Pittsburgh](https://awakenpittsburgh.com)** | **[Volunteer Video Editor](https://jobright.ai/jobs/info/68d457a717554c2d9eef882c?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Sep 24 |
-| ↳ | **[Digital Content Curator](https://jobright.ai/jobs/info/68d44f76ffc1276de3fd999a?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Sep 24 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Museum Interpretation Intern: Spring 2026](https://jobright.ai/jobs/info/68d46bd4ffc1276de3fdabea?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 24 |
-| **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Photo/Video Journalist Internship – Summer 2026](https://jobright.ai/jobs/info/68d444018c62e63bc7fe7353?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
