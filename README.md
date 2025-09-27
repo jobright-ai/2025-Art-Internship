@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Draper University](https://www.draperuniversity.com/)** | **[Media Fellowship (Content and Video Production)](https://jobright.ai/jobs/info/68d72382894705799a2f0dea?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Sep 26 |
+| **[Milaba Arts](Milabaarts.com)** | **[Cinematography Intern](https://jobright.ai/jobs/info/68d7198bd3fe025a3015eddc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
 | **[SQO Marketing](https://sqo.marketing/)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/68d7090c45853d0e39ccc641?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Social Video Internship](https://jobright.ai/jobs/info/68d701e445853d0e39ccc091?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Sports Reporting Internship](https://jobright.ai/jobs/info/68d6fcf9d3fe025a3015d989?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
@@ -83,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[NetJets](https://www.netjets.com/)** | **[Hospitality Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b9b0f38043103d4f21991b?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 26 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68d66f97d3fe025a30159df1?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Sep 26 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba24775f383274918644fe?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 26 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68b9f3d36105227d1189993d?utm_campaign=1053&utm_source=git)** | Charleston, SC | On Site | Sep 26 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Spring 2026 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/68d659ba894705799a2eb211?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[FOX Sports](http://foxsports.com)** | **[Spring 2026 FOX Internship Program - Sports Production, New York](https://jobright.ai/jobs/info/68d6566d4736ff202fdd2b8f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2026 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/68d64edc894705799a2ea76d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
@@ -109,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/68d616922116ff37ee092f2d?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 25 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/68d616061f7fb2169ab164a5?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 25 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - Atlanta, GA](https://jobright.ai/jobs/info/68d615ef1f7fb2169ab16457?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, USA | On Site | Sep 25 |
-| ↳ | **[Spring 2026 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/68d631e7ebcef82ef5cf7785?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 25 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/68d662fc4736ff202fdd30b7?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 25 |
+| ↳ | **[Spring 2026 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/68d631e7ebcef82ef5cf7785?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d60c012116ff37ee092033?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 25 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Intramural Sports Official](https://jobright.ai/jobs/info/68d63b7f4736ff202fdd112f?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Sep 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d6000a63d77d6f6f3f3a22?utm_campaign=1053&utm_source=git)** | Bridgeport, CT | On Site | Sep 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2026 Photojournalism Internship](https://jobright.ai/jobs/info/68d49ca3fcd3367e8df1625e?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 24 |
 | **[Skild AI](https://www.skild.ai)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d49216fcd3367e8df15aca?utm_campaign=1053&utm_source=git)** | San Mateo | On Site | Sep 24 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/68d490e6ffc1276de3fdc008?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 24 |
-| **[Skild AI](https://www.skild.ai)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Sep 24 |
-| **[Kaplan](http://www.kaplan.com)** | **[Student Content Creator – Pace University](https://jobright.ai/jobs/info/68d48f6bffc1276de3fdbe34?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 24 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d4879b8c62e63bc7fea190?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 24 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d487288c62e63bc7fea10a?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
