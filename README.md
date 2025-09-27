@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Pastry Intern - Spring 2026](https://jobright.ai/jobs/info/68d78802295f8e37655dcb8a?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Sep 26 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment - Editing Intern](https://jobright.ai/jobs/info/68d75662295f8e37655d4d9a?utm_campaign=1053&utm_source=git)** | Malibu, CA | On Site | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[The Wall Street Journal Business, Finance & Economics Reporting Internships, New York (Summer 2026)](https://jobright.ai/jobs/info/68d74646cb1d8e52c9766800?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[Oakridge](https://oakridge.ltd)** | **[St. Louis, MO / Film Production Office Intern](https://jobright.ai/jobs/info/68d7402645853d0e39ccdcc7?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Sep 26 |
 | **[Draper University](https://www.draperuniversity.com/)** | **[Media Fellowship (Content and Video Production)](https://jobright.ai/jobs/info/68d72382894705799a2f0dea?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Sep 26 |
 | **[Milaba Arts](Milabaarts.com)** | **[Cinematography Intern](https://jobright.ai/jobs/info/68d7198bd3fe025a3015eddc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d712d0894705799a2f05b5?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d713f1894705799a2f07dc?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
 | **[SQO Marketing](https://sqo.marketing/)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/68d7090c45853d0e39ccc641?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Social Video Internship](https://jobright.ai/jobs/info/68d701e445853d0e39ccc091?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Sports Reporting Internship](https://jobright.ai/jobs/info/68d6fcf9d3fe025a3015d989?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
@@ -89,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator (TikTok)](https://jobright.ai/jobs/info/68d69601894705799a2ec4da?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Music Journalist Intern](https://jobright.ai/jobs/info/68d77b63295f8e37655db3ab?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 26 |
 | ↳ | **[Health & Wellness Journalist Intern](https://jobright.ai/jobs/info/68d6ae5d45853d0e39cc91ca?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 26 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ News Internship – Fall 2025](https://jobright.ai/jobs/info/68cd9c5fe23def7af55bca2f?utm_campaign=1053&utm_source=git)** | Altoona, PA | On Site | Sep 26 |
 | **[RAW APP](https://www.raw.app)** | **[TikTok Creator Intern](https://jobright.ai/jobs/info/68d6848c45853d0e39cc8162?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[NetJets](https://www.netjets.com/)** | **[Hospitality Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b9b0f38043103d4f21991b?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 26 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Costume Development Intern, Spring 2026](https://jobright.ai/jobs/info/68d77bd0267b154f9a2da6aa?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern 2026](https://jobright.ai/jobs/info/68d5a9a563d77d6f6f3f14b4?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | On Site | Sep 25 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2024 Internship, Spring - Event Operations](https://jobright.ai/jobs/info/68d5a1991f7fb2169ab1288c?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Sep 25 |
 | **[Thomas Jefferson University](http://www.jefferson.edu/)** | **[CHS Content Creator](https://jobright.ai/jobs/info/68d608a42116ff37ee091efb?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 25 |
-| **[William Woods University](http://www.williamwoods.edu/)** | **[Graduate Assistant - Sports Information](https://jobright.ai/jobs/info/68d767937a37c712687cbf3d?utm_campaign=1053&utm_source=git)** | Fulton, MO | On Site | Sep 25 |
-| **[Auxio](www.auxiomusic.com)** | **[Auxio Music Intern](https://jobright.ai/jobs/info/68d59bb81f7fb2169ab124e5?utm_campaign=1053&utm_source=git)** | Nutley, NJ | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
