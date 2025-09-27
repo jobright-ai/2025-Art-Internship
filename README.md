@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oakridge](https://oakridge.ltd)** | **[St. Louis, MO / Film Production Office Intern](https://jobright.ai/jobs/info/68d7402645853d0e39ccdcc7?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Sep 26 |
 | **[Draper University](https://www.draperuniversity.com/)** | **[Media Fellowship (Content and Video Production)](https://jobright.ai/jobs/info/68d72382894705799a2f0dea?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Sep 26 |
 | **[Milaba Arts](Milabaarts.com)** | **[Cinematography Intern](https://jobright.ai/jobs/info/68d7198bd3fe025a3015eddc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d712d0894705799a2f05b5?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
 | **[SQO Marketing](https://sqo.marketing/)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/68d7090c45853d0e39ccc641?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Social Video Internship](https://jobright.ai/jobs/info/68d701e445853d0e39ccc091?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Sports Reporting Internship](https://jobright.ai/jobs/info/68d6fcf9d3fe025a3015d989?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
@@ -104,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2026 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/68d65eab894705799a2eb41d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[JW Marriott Savannah Plant Riverside District](https://www.marriott.com/hotels/travel/savjw-jw-marriott-savannah-plant-riverside-district/)** | **[Visual Arts Internship](https://jobright.ai/jobs/info/68d63c9c894705799a2e94a9?utm_campaign=1053&utm_source=git)** | US-GA-Savannah | On Site | Sep 26 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Videography Intern (Fall Creative Sprint)](https://jobright.ai/jobs/info/68d62d5f4736ff202fdd04dc?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Sep 25 |
+| **[JW Marriott Savannah Plant Riverside District](https://www.marriott.com/hotels/travel/savjw-jw-marriott-savannah-plant-riverside-district/)** | **[J1 Intern Pastry Cook 2](https://jobright.ai/jobs/info/68d73d2545853d0e39ccdba4?utm_campaign=1053&utm_source=git)** | US-GA-Savannah | On Site | Sep 25 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/68d625594736ff202fdcfc60?utm_campaign=1053&utm_source=git)** | Dallas, Texas, USA | On Site | Sep 25 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/68d618c32116ff37ee093672?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 25 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - Miami, FL](https://jobright.ai/jobs/info/68d6182e2116ff37ee093499?utm_campaign=1053&utm_source=git)** | Miami, Florida, USA | On Site | Sep 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Video Editing & Studio Assistant Internship](https://jobright.ai/jobs/info/68d4b9c2fcd3367e8df17494?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Sep 24 |
 | **[EASTEAM](easteamny.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/68d4a8a2ffc1276de3fdcd2e?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Sep 24 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2026 Photojournalism Internship](https://jobright.ai/jobs/info/68d49ca3fcd3367e8df1625e?utm_campaign=1053&utm_source=git)** | Seattle, WA | On Site | Sep 24 |
-| **[Skild AI](https://www.skild.ai)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d49216fcd3367e8df15aca?utm_campaign=1053&utm_source=git)** | San Mateo | On Site | Sep 24 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Editorial Intern](https://jobright.ai/jobs/info/68d490e6ffc1276de3fdc008?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
