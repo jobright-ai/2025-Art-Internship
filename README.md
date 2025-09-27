@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68d7fc887a37c712687d7870?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Sep 27 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Producer](https://jobright.ai/jobs/info/68d822a07796a83635f0f2e6?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Sep 27 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Producer Intern, The Hive, Spring 2026](https://jobright.ai/jobs/info/68d7d278295f8e37655e280d?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Sep 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[International Casting Intern, Spring 2026](https://jobright.ai/jobs/info/68d7cfa57796a83635f0c005?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Sep 27 |
 | ↳ | **[Disney Branded Television Live Action Original Series Intern, Spring 2026](https://jobright.ai/jobs/info/68d7cf777a37c712687d5a16?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Sep 27 |
