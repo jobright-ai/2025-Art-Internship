@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68d7a35a7a37c712687d3355?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Sep 27 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Pastry Intern - Spring 2026](https://jobright.ai/jobs/info/68d78802295f8e37655dcb8a?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Sep 26 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment - Editing Intern](https://jobright.ai/jobs/info/68d75662295f8e37655d4d9a?utm_campaign=1053&utm_source=git)** | Malibu, CA | On Site | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[The Wall Street Journal Business, Finance & Economics Reporting Internships, New York (Summer 2026)](https://jobright.ai/jobs/info/68d74646cb1d8e52c9766800?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
@@ -81,7 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Jefferson City School District](https://www.jcschools.us/nichols)** | **[Media Production Crew](https://jobright.ai/jobs/info/68d6dad3894705799a2ee204?utm_campaign=1053&utm_source=git)** | Jefferson City, MO | On Site | Sep 26 |
 | **[Retail Tech Media Nexus](RTMNexus.com)** | **[Intern](https://jobright.ai/jobs/info/68d6d19b894705799a2edf96?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Evee](https://evee.ai/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68d6b46ed3fe025a3015b5c5?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Hybrid | Sep 26 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring Internship](https://jobright.ai/jobs/info/68d6adf2d3fe025a3015b33f?utm_campaign=1053&utm_source=git)** | USA-NY-Buffalo | On Site | Sep 26 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Performance & Artists-in-Residence Intern](https://jobright.ai/jobs/info/68d5936939247e3c807ecf2a?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Sep 26 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[WSJ. Magazine & Style News Summer Internship](https://jobright.ai/jobs/info/68d69d4fd3fe025a3015ab57?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
 | ↳ | **[Social Video Internship](https://jobright.ai/jobs/info/68d69acf894705799a2ec606?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[TikTok Creator](https://jobright.ai/jobs/info/68d69ac2894705799a2ec5f0?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Costume Development Intern, Spring 2026](https://jobright.ai/jobs/info/68d757bd61a175619f8c8f30?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Sep 25 |
 | **[TA Realty](https://www.tarealty.com/)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/68d5aab314935e31e231abbb?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 25 |
 | ↳ | **[Summer Intern 2026](https://jobright.ai/jobs/info/68d5a9a563d77d6f6f3f14b4?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | On Site | Sep 25 |
-| **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2024 Internship, Spring - Event Operations](https://jobright.ai/jobs/info/68d5a1991f7fb2169ab1288c?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Sep 25 |
-| **[Thomas Jefferson University](http://www.jefferson.edu/)** | **[CHS Content Creator](https://jobright.ai/jobs/info/68d608a42116ff37ee091efb?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
