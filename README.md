@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Television Unscripted & Alternative Entertainment Intern, Spring 2026](https://jobright.ai/jobs/info/68d7cede295f8e37655e25a0?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Sep 27 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68d7a35a7a37c712687d3355?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Sep 27 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Pastry Intern - Spring 2026](https://jobright.ai/jobs/info/68d78802295f8e37655dcb8a?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Sep 26 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment - Editing Intern](https://jobright.ai/jobs/info/68d75662295f8e37655d4d9a?utm_campaign=1053&utm_source=git)** | Malibu, CA | On Site | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Behind The Coaching](behindthecoaching.com)** | **[Sports Writer (VOLUNTEER)](https://jobright.ai/jobs/info/68d76eb861a175619f8ccf5f?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Costume Development Intern, Spring 2026](https://jobright.ai/jobs/info/68d757bd61a175619f8c8f30?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Sep 25 |
 | **[TA Realty](https://www.tarealty.com/)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/68d5aab314935e31e231abbb?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 25 |
-| ↳ | **[Summer Intern 2026](https://jobright.ai/jobs/info/68d5a9a563d77d6f6f3f14b4?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
