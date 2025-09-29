@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Frameshifts](https://frameshifts.org)** | **[Short-Form Content Editor](https://jobright.ai/jobs/info/68d9c0b6061b716fa295ada4?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 28 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68d9af3c9a8e451a446a5252?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 28 |
 | **[JURIST](https://www.jurist.org/)** | **[Law student volunteer reporter](https://jobright.ai/jobs/info/68d94d33022fc803b4877028?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Remote | Sep 28 |
 | **[Michigan State University](http://msu.edu)** | **[Model](https://jobright.ai/jobs/info/68d8f2a99a8e451a446a4186?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Sep 28 |
 | **[New Apostle Gallery](http://newapostlegallery.com)** | **[Studio Intern](https://jobright.ai/jobs/info/68d8bc57ed09d95201eb6883?utm_campaign=1053&utm_source=git)** | Hopewell Junction, NY | On Site | Sep 27 |
+| **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Sep 27 |
 | **[University of La Verne](http://laverne.edu)** | **[FWS -Theatre Technical Student Assistant (25/26)](https://jobright.ai/jobs/info/68d83d8a7796a83635f0fde3?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | Sep 27 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Novelist](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36db?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 27 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Producer](https://jobright.ai/jobs/info/68d822a07796a83635f0f2e6?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Sep 27 |
@@ -82,8 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Oakridge](https://oakridge.ltd)** | **[St. Louis, MO / Film Production Office Intern](https://jobright.ai/jobs/info/68d7402645853d0e39ccdcc7?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Sep 26 |
 | **[Draper University](https://www.draperuniversity.com/)** | **[Media Fellowship (Content and Video Production)](https://jobright.ai/jobs/info/68d72382894705799a2f0dea?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Sep 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 2](https://jobright.ai/jobs/info/68b9f5968043103d4f21c509?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 26 |
-| **[Milaba Arts](Milabaarts.com)** | **[Cinematography Intern](https://jobright.ai/jobs/info/68d7198bd3fe025a3015eddc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d711c2d3fe025a3015ea9d?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
+| ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/68d713f1894705799a2f07dc?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Social Video Internship](https://jobright.ai/jobs/info/68d701e445853d0e39ccc091?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Sports Reporting Internship](https://jobright.ai/jobs/info/68d6fcf9d3fe025a3015d989?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Video Internship](https://jobright.ai/jobs/info/68d6faef45853d0e39ccb905?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
@@ -147,8 +148,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/68d616922116ff37ee092f2d?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 25 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/68d616061f7fb2169ab164a5?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 25 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - Atlanta, GA](https://jobright.ai/jobs/info/68d615ef1f7fb2169ab16457?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia, USA | On Site | Sep 25 |
-| ↳ | **[Spring 2026 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/68d631e7ebcef82ef5cf7785?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 25 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/68d662fc4736ff202fdd30b7?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 25 |
+| ↳ | **[Spring 2026 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/68d631e7ebcef82ef5cf7785?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d60c012116ff37ee092033?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Sep 25 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Intramural Sports Official](https://jobright.ai/jobs/info/68d63b7f4736ff202fdd112f?utm_campaign=1053&utm_source=git)** | Richmond, KY | On Site | Sep 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d6000a63d77d6f6f3f3a22?utm_campaign=1053&utm_source=git)** | Bridgeport, CT | On Site | Sep 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[CHS Content Creator](https://jobright.ai/jobs/info/68d77657295f8e37655da451?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Sep 25 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[F&B Front of House Intern/Trainee (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/68d5f7081f7fb2169ab14f71?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Sep 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d5f5981f7fb2169ab14e8b?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 25 |
-| **[Georgia Swarm Professional Lacrosse](https://www.georgiaswarm.com/)** | **[Videography Internship](https://jobright.ai/jobs/info/68d5f2aa63d77d6f6f3f3608?utm_campaign=1053&utm_source=git)** | Duluth, GA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
