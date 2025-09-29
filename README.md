@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Roadshow Coordinator Intern](https://jobright.ai/jobs/info/68daa56d6df7b8311bb10a2f?utm_campaign=1053&utm_source=git)** | Plymouth, MN | Hybrid | Sep 29 |
+| **[Plutus Media](https://growwithplutus.com/)** | **[Student Content Creator](https://jobright.ai/jobs/info/68daa10c0b832179ca4af313?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 29 |
+| **[Stadt Leipzig](https://www.leipzig.de/buergerservice-und-verwaltung/stadtverwaltung/jobs-und-karriere/aktuelle-stellenausschreibungen)** | **[Intern: Museumspädagogin/ Museumspädagoge (m/w/d)](https://jobright.ai/jobs/info/68daa0ac07c157682e56bbe1?utm_campaign=1053&utm_source=git)** | Falmouth, ME | On Site | Sep 29 |
+| **[Gradxiety](https://gradxiety.com)** | **[Writing Intern for Fast Growth Newsletter](https://jobright.ai/jobs/info/68da9c550b832179ca4aec6f?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 29 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/68da97b907c157682e56b36b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[TikTok (Content Creator)](https://jobright.ai/jobs/info/68da894c6df7b8311bb0f6df?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 29 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68da63ec07c157682e56a0a4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/68da3b516df7b8311bb0df8b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2026 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/68d64edc894705799a2ea76d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/68d649f44736ff202fdd2458?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/68d649bc4736ff202fdd2407?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
-| ↳ | **[Spring 2026 FOX News Media Internship Program - Miami, FL](https://jobright.ai/jobs/info/68d649874736ff202fdd23ad?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 26 |
-| ↳ | **[Spring 2026 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/68d646bd894705799a2ea379?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 26 |
-| ↳ | **[Spring 2026 FOX News Media Internship Program - Atlanta, GA](https://jobright.ai/jobs/info/68d646bb4736ff202fdd1ff7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 26 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Television Unscripted & Alternative Entertainment Intern, Spring 2026](https://jobright.ai/jobs/info/68d64601894705799a2ea225?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 26 |
-| ↳ | **[International Casting Intern, Spring 2026](https://jobright.ai/jobs/info/68d645f84736ff202fdd1f1f?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
