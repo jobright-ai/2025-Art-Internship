@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68da63ec07c157682e56a0a4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/68da3b516df7b8311bb0df8b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Entertainment Internship Program - Los Angeles](https://jobright.ai/jobs/info/68da39743c03cd327094486c?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Sep 29 |
 | ↳ | **[Summer 2026 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/68da396b3c03cd327094485a?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Sep 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/68da38536df7b8311bb0ddeb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[FOX Sports](http://foxsports.com)** | **[Summer 2026 FOX Internship Program - Sports Production, New York](https://jobright.ai/jobs/info/68da38376df7b8311bb0ddcb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Summer 2026 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/68da38293c03cd3270944820?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 29 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/68da38230b832179ca4aca27?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 29 |
-| ↳ | **[Summer 2026 FOX News Media Internship Program - Miami, FL](https://jobright.ai/jobs/info/68da381a0b832179ca4aca13?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 29 |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Miami, FL](https://jobright.ai/jobs/info/68da38283c03cd327094481c?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 29 |
+| ↳ | **[Summer 2026 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/68da38230b832179ca4aca27?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 29 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Summer 2026 FOX Entertainment Internship Program - Los Angeles](https://jobright.ai/jobs/info/68da381a3c03cd3270944808?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
 | **[FOX Weather](https://foxweather.com)** | **[Summer 2026 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/68da38063c03cd32709447df?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/68da37f83c03cd32709447c5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 29 |
@@ -111,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Akari Gin](akarigin.com)** | **[Film Video Editor](https://jobright.ai/jobs/info/68d8c817c52ed61722c95f62?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
 | **[Draper University](https://www.draperuniversity.com/)** | **[Media Fellowship (Content and Video Production)](https://jobright.ai/jobs/info/68d72382894705799a2f0dea?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Sep 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 2](https://jobright.ai/jobs/info/68b9f5968043103d4f21c509?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 26 |
-| ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71459894705799a2f086a?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
+| ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Social Video Internship](https://jobright.ai/jobs/info/68d701e445853d0e39ccc091?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Sports Reporting Internship](https://jobright.ai/jobs/info/68d6fcf9d3fe025a3015d989?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Video Internship](https://jobright.ai/jobs/info/68d6faef45853d0e39ccb905?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hulu Originals Documentary Development Intern, Spring 2026](https://jobright.ai/jobs/info/68d64566ebcef82ef5cf90c7?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 26 |
 | ↳ | **[Disney Branded Television Live Action Original Series Intern, Spring 2026](https://jobright.ai/jobs/info/68d64556ebcef82ef5cf90c0?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 26 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX Entertainment Internship Program - Los Angeles](https://jobright.ai/jobs/info/68d641314736ff202fdd198a?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | Hybrid | Sep 26 |
-| ↳ | **[Spring 2026 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/68d6405e894705799a2e9afe?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
