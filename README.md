@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/68da38536df7b8311bb0ddeb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[FOX Sports](http://foxsports.com)** | **[Summer 2026 FOX Internship Program - Sports Production, New York](https://jobright.ai/jobs/info/68da38376df7b8311bb0ddcb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Summer 2026 FOX Entertainment Internship Program - New York](https://jobright.ai/jobs/info/68da38293c03cd3270944820?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 29 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Miami, FL](https://jobright.ai/jobs/info/68da38283c03cd327094481c?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 29 |
-| ↳ | **[Summer 2026 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/68da38230b832179ca4aca27?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 29 |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/68da38230b832179ca4aca27?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 29 |
+| ↳ | **[Summer 2026 FOX News Media Internship Program - Miami, FL](https://jobright.ai/jobs/info/68da381a0b832179ca4aca13?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Sep 29 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Summer 2026 FOX Entertainment Internship Program - Los Angeles](https://jobright.ai/jobs/info/68da381a3c03cd3270944808?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
 | **[FOX Weather](https://foxweather.com)** | **[Summer 2026 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/68da38063c03cd32709447df?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/68da37f83c03cd32709447c5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 29 |
@@ -86,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[JURIST](https://www.jurist.org/)** | **[Law student volunteer reporter](https://jobright.ai/jobs/info/68d94d33022fc803b4877028?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Remote | Sep 28 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
 | **[Michigan State University](http://msu.edu)** | **[Model](https://jobright.ai/jobs/info/68d8f2a99a8e451a446a4186?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Sep 28 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68da34f83c03cd32709446fd?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Sep 28 |
 | **[New Apostle Gallery](http://newapostlegallery.com)** | **[Studio Intern](https://jobright.ai/jobs/info/68d8bc57ed09d95201eb6883?utm_campaign=1053&utm_source=git)** | Hopewell Junction, NY | On Site | Sep 27 |
 | **[Lely](https://www.lely.com/jp/)** | **[Stage bij Lely Center Bunschoten](https://jobright.ai/jobs/info/682de306c14ef2216f6c2509?utm_campaign=1053&utm_source=git)** | Nederland, TX | On Site | Sep 27 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Sep 27 |
@@ -136,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Plutus Media](https://growwithplutus.com/)** | **[TikTok Creator](https://jobright.ai/jobs/info/68d69ac2894705799a2ec5f0?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Video Internship](https://jobright.ai/jobs/info/68d698c445853d0e39cc87f2?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
 | **[ADEC](https://www.adecinc.com)** | **[Music Therapist Intern](https://jobright.ai/jobs/info/68d77513295f8e37655d9af1?utm_campaign=1053&utm_source=git)** | Elkhart County, IN | On Site | Sep 26 |
-| **[Plutus Media](https://growwithplutus.com/)** | **[Content Creator (TikTok)](https://jobright.ai/jobs/info/68d69601894705799a2ec4da?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Music Journalist Intern](https://jobright.ai/jobs/info/68d77b63295f8e37655db3ab?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 26 |
 | ↳ | **[Health & Wellness Journalist Intern](https://jobright.ai/jobs/info/68d6ae5d45853d0e39cc91ca?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ News Internship – Fall 2025](https://jobright.ai/jobs/info/68cd9c5fe23def7af55bca2f?utm_campaign=1053&utm_source=git)** | Altoona, PA | On Site | Sep 26 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[International Casting Intern, Spring 2026](https://jobright.ai/jobs/info/68d645f84736ff202fdd1f1f?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 26 |
 | ↳ | **[Hulu Originals Documentary Development Intern, Spring 2026](https://jobright.ai/jobs/info/68d64566ebcef82ef5cf90c7?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 26 |
 | ↳ | **[Disney Branded Television Live Action Original Series Intern, Spring 2026](https://jobright.ai/jobs/info/68d64556ebcef82ef5cf90c0?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 26 |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX Entertainment Internship Program - Los Angeles](https://jobright.ai/jobs/info/68d641314736ff202fdd198a?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | Hybrid | Sep 26 |
+| ↳ | **[Spring 2026 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/68d6405e894705799a2e9afe?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
