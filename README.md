@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68d9af3c9a8e451a446a5252?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 28 |
 | **[JURIST](https://www.jurist.org/)** | **[Law student volunteer reporter](https://jobright.ai/jobs/info/68d94d33022fc803b4877028?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Remote | Sep 28 |
 | **[Michigan State University](http://msu.edu)** | **[Model](https://jobright.ai/jobs/info/68d8f2a99a8e451a446a4186?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Sep 28 |
 | **[New Apostle Gallery](http://newapostlegallery.com)** | **[Studio Intern](https://jobright.ai/jobs/info/68d8bc57ed09d95201eb6883?utm_campaign=1053&utm_source=git)** | Hopewell Junction, NY | On Site | Sep 27 |
 | **[University of La Verne](http://laverne.edu)** | **[FWS -Theatre Technical Student Assistant (25/26)](https://jobright.ai/jobs/info/68d83d8a7796a83635f0fde3?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | Sep 27 |
+| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Novelist](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36db?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 27 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Producer](https://jobright.ai/jobs/info/68d822a07796a83635f0f2e6?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Sep 27 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/68d756407a37c712687c8e56?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684d0a44ef735fe085bd08da?utm_campaign=1053&utm_source=git)** | Portland, ME | On Site | Sep 27 |
@@ -81,11 +83,9 @@ For a complete list, click the following sortable link below:
 | **[Draper University](https://www.draperuniversity.com/)** | **[Media Fellowship (Content and Video Production)](https://jobright.ai/jobs/info/68d72382894705799a2f0dea?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Sep 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 2](https://jobright.ai/jobs/info/68b9f5968043103d4f21c509?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 26 |
 | **[Milaba Arts](Milabaarts.com)** | **[Cinematography Intern](https://jobright.ai/jobs/info/68d7198bd3fe025a3015eddc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
-| **[SQO Marketing](https://sqo.marketing/)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/68d7090c45853d0e39ccc641?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d711c2d3fe025a3015ea9d?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Social Video Internship](https://jobright.ai/jobs/info/68d701e445853d0e39ccc091?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
-| **[Camelback Films](https://camelbackfilms.nyc/)** | **[Production Intern](https://jobright.ai/jobs/info/68d7df00295f8e37655e3242?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 26 |
-| **[The Wall Street Journal](https://www.wjs.com/)** | **[Sports Reporting Internship](https://jobright.ai/jobs/info/68d6fcf9d3fe025a3015d989?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
+| ↳ | **[Sports Reporting Internship](https://jobright.ai/jobs/info/68d6fcf9d3fe025a3015d989?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Video Internship](https://jobright.ai/jobs/info/68d6faef45853d0e39ccb905?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[C-SPAN](http://www.c-span.org)** | **[Internship - Spring 2026 (January-April)](https://jobright.ai/jobs/info/68d6f96245853d0e39ccb661?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 26 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2026 FOX News Media Internship Program - Chicago, IL](https://jobright.ai/jobs/info/68d6f55f894705799a2ef263?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 26 |
@@ -93,7 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](http://www.gray.tv)** | **[ASSEMBLY ATLANTA SUMMER 2026 FILM INTERNSHIP - ASSEMBLY STUDIOS](https://jobright.ai/jobs/info/68d6f421894705799a2ef0f0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 26 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[News Intern, Nature News](https://jobright.ai/jobs/info/68d75545295f8e37655d4512?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[WSJ. Magazine & Style News Summer Internship](https://jobright.ai/jobs/info/68d7767161a175619f8ce4b8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
-| ↳ | **[The Wall Street Journal Business, Finance & Economics Reporting Internships, New York (Summer 2026)](https://jobright.ai/jobs/info/68d6e41c894705799a2ee860?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
+| **[Hunter Engineering Company](http://www.hunter.com)** | **[Video Editor/Producer Intern](https://jobright.ai/jobs/info/68ca2dfdf16e3266d2823a0c?utm_campaign=1053&utm_source=git)** | Bridgeton, MO | On Site | Sep 26 |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[The Wall Street Journal Business, Finance & Economics Reporting Internships, New York (Summer 2026)](https://jobright.ai/jobs/info/68d6e41c894705799a2ee860?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX News Media Internship Program - Chicago, IL](https://jobright.ai/jobs/info/68d6e415894705799a2ee84b?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, USA | On Site | Sep 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Producer Intern, The Hive, Spring 2026](https://jobright.ai/jobs/info/68d6e371d3fe025a3015cbf4?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 26 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Spring Internship](https://jobright.ai/jobs/info/68d6de1f894705799a2ee358?utm_campaign=1053&utm_source=git)** | Buffalo, NY | On Site | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[F&B Front of House Intern/Trainee (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/68d5f7081f7fb2169ab14f71?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Sep 25 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68d5f5981f7fb2169ab14e8b?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 25 |
 | **[Georgia Swarm Professional Lacrosse](https://www.georgiaswarm.com/)** | **[Videography Internship](https://jobright.ai/jobs/info/68d5f2aa63d77d6f6f3f3608?utm_campaign=1053&utm_source=git)** | Duluth, GA | On Site | Sep 25 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN FALL '25 - KFDA](https://jobright.ai/jobs/info/68d5efe61f7fb2169ab14c7f?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
