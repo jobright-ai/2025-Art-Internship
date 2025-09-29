@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Amazonian Arts: Pottery, Jewelry, Weaving, Dance, and Music in Ecuador](https://jobright.ai/jobs/info/68da97b907c157682e56b36b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[TikTok (Content Creator)](https://jobright.ai/jobs/info/68da894c6df7b8311bb0f6df?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 29 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68da63ec07c157682e56a0a4?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 29 |
+| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Costume Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36dd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Technical Operations - Washington DC](https://jobright.ai/jobs/info/68da3b516df7b8311bb0df8b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Entertainment Internship Program - Los Angeles](https://jobright.ai/jobs/info/68da39743c03cd327094486c?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Sep 29 |
 | ↳ | **[Summer 2026 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/68da396b3c03cd327094485a?utm_campaign=1053&utm_source=git)** | Los Angeles, California, USA | On Site | Sep 29 |
@@ -118,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Oakridge](https://oakridge.ltd)** | **[St. Louis, MO / Film Production Office Intern](https://jobright.ai/jobs/info/68d7402645853d0e39ccdcc7?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Sep 26 |
 | **[Draper University](https://www.draperuniversity.com/)** | **[Media Fellowship (Content and Video Production)](https://jobright.ai/jobs/info/68d72382894705799a2f0dea?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Sep 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 2](https://jobright.ai/jobs/info/68b9f5968043103d4f21c509?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 26 |
-| ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/68d713f1894705799a2f07dc?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
+| ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Social Video Internship](https://jobright.ai/jobs/info/68d701e445853d0e39ccc091?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Sports Reporting Internship](https://jobright.ai/jobs/info/68d6fcf9d3fe025a3015d989?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Video Internship](https://jobright.ai/jobs/info/68d6faef45853d0e39ccb905?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FOX Sports](http://foxsports.com)** | **[Spring 2026 FOX Internship Program - Sports Production, New York](https://jobright.ai/jobs/info/68d6566d4736ff202fdd2b8f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2026 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/68d64edc894705799a2ea76d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
 | ↳ | **[Spring 2026 FOX News Media Internship Program - FOX Noticias](https://jobright.ai/jobs/info/68d649f44736ff202fdd2458?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
-| ↳ | **[Spring 2026 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/68d649bc4736ff202fdd2407?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
