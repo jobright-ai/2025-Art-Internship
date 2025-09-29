@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Frameshifts](https://frameshifts.org)** | **[Short-Form Content Editor](https://jobright.ai/jobs/info/68d9c0b6061b716fa295ada4?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Sep 28 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68d9af3c9a8e451a446a5252?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 28 |
 | **[JURIST](https://www.jurist.org/)** | **[Law student volunteer reporter](https://jobright.ai/jobs/info/68d94d33022fc803b4877028?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Remote | Sep 28 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
 | **[Michigan State University](http://msu.edu)** | **[Model](https://jobright.ai/jobs/info/68d8f2a99a8e451a446a4186?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Sep 28 |
 | **[New Apostle Gallery](http://newapostlegallery.com)** | **[Studio Intern](https://jobright.ai/jobs/info/68d8bc57ed09d95201eb6883?utm_campaign=1053&utm_source=git)** | Hopewell Junction, NY | On Site | Sep 27 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Sep 27 |
@@ -112,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Music Journalist Intern](https://jobright.ai/jobs/info/68d77b63295f8e37655db3ab?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 26 |
 | ↳ | **[Health & Wellness Journalist Intern](https://jobright.ai/jobs/info/68d6ae5d45853d0e39cc91ca?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WTAJ News Internship – Fall 2025](https://jobright.ai/jobs/info/68cd9c5fe23def7af55bca2f?utm_campaign=1053&utm_source=git)** | Altoona, PA | On Site | Sep 26 |
-| **[RAW APP](https://www.raw.app)** | **[TikTok Creator Intern](https://jobright.ai/jobs/info/68d6848c45853d0e39cc8162?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[NetJets](https://www.netjets.com/)** | **[Hospitality Culinary Experience Intern (NJUS)](https://jobright.ai/jobs/info/68b9b0f38043103d4f21991b?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Sep 26 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Costume Development Intern, Spring 2026](https://jobright.ai/jobs/info/68d77bd0267b154f9a2da6aa?utm_campaign=1053&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 26 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68d66f97d3fe025a30159df1?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Sep 26 |
