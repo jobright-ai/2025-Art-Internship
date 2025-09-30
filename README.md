@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ReplyQuickAI](https://www.replyquick.ai)** | **[Video Editor Internship](https://jobright.ai/jobs/info/68db5ce834f2c406da6d7399?utm_campaign=1053&utm_source=git)** | Sarasota, FL | Remote | Sep 29 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68db499834f2c406da6d6374?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
 | **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern](https://jobright.ai/jobs/info/68db40f39f13662d20e48fc1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Internship -  Culinary](https://jobright.ai/jobs/info/68db34689f13662d20e48873?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/68db34279f13662d20e487e2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/68db2dfa6df7b8311bb16a62?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Sep 29 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68db2b200dffed6f83d2cf22?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68db2ae60dffed6f83d2ce96?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
-| ↳ | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68db2abde9b48513789b2359?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68db292c6df7b8311bb16542?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/68db19f66df7b8311bb160f8?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KGO-TV (ABC7) 7 On Your Side Intern, Spring 2026](https://jobright.ai/jobs/info/68db19d06df7b8311bb16094?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 29 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Digital Video Social Content Intern, Remote, Spring 2026](https://jobright.ai/jobs/info/68dafd686df7b8311bb151f6?utm_campaign=1053&utm_source=git)** | Remote Worker Location, USA | Remote | Sep 29 |
 | **[Sun Sentinel Media Group](http://www.sun-sentinel.com)** | **[Intern](https://jobright.ai/jobs/info/68dafb400dffed6f83d2b81f?utm_campaign=1053&utm_source=git)** | Deerfield Beach, FL | Hybrid | Sep 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX News Media Internship Program - Chicago, IL](https://jobright.ai/jobs/info/68daf0356df7b8311bb1466a?utm_campaign=1053&utm_source=git)** | USA - IL - Chicago - 600 W Chicago Ave | On Site | Sep 29 |
+| **[LookOut](https://www.linkedin.com/company/108934955)** | **[Content Creator (Volunteer / Unpaid Internship)](https://jobright.ai/jobs/info/68daf4ab6df7b8311bb1498e?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Sep 29 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Internship -  Culinary](https://jobright.ai/jobs/info/68dae7a007c157682e56f559?utm_campaign=1053&utm_source=git)** | Lettuce Entertain You  - Nashville | On Site | Sep 29 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Culinary Summer Intern 2026](https://jobright.ai/jobs/info/68dae67307c157682e56f26d?utm_campaign=1053&utm_source=git)** | Springdale, AR | On Site | Sep 29 |
 | **[Cigar & Spirits Magazine](https://cigarandspirits.com)** | **[Magazine publishing intern](https://jobright.ai/jobs/info/68dae3290b832179ca4b27dd?utm_campaign=1053&utm_source=git)** | Orange County, CA | On Site | Sep 29 |
@@ -130,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[JURIST](https://www.jurist.org/)** | **[Law student volunteer reporter](https://jobright.ai/jobs/info/68d94d33022fc803b4877028?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Remote | Sep 28 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
 | **[Michigan State University](http://msu.edu)** | **[Model](https://jobright.ai/jobs/info/68d8f2a99a8e451a446a4186?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Sep 28 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68db6f01e19b9e63ba20c11c?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Sep 27 |
 | **[New Apostle Gallery](http://newapostlegallery.com)** | **[Studio Intern](https://jobright.ai/jobs/info/68d8bc57ed09d95201eb6883?utm_campaign=1053&utm_source=git)** | Hopewell Junction, NY | On Site | Sep 27 |
 | **[Lely](https://www.lely.com/jp/)** | **[Stage bij Lely Center Bunschoten](https://jobright.ai/jobs/info/682de306c14ef2216f6c2509?utm_campaign=1053&utm_source=git)** | Nederland, TX | On Site | Sep 27 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Sep 27 |
@@ -146,15 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Disney Branded Television Live Action Original Series Intern, Spring 2026](https://jobright.ai/jobs/info/68d7cf777a37c712687d5a16?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Sep 27 |
 | ↳ | **[Hulu Originals Documentary Development Intern, Spring 2026](https://jobright.ai/jobs/info/68d7cf34295f8e37655e2702?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Sep 27 |
 | ↳ | **[Walt Disney Television Unscripted & Alternative Entertainment Intern, Spring 2026](https://jobright.ai/jobs/info/68d7cede295f8e37655e25a0?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Sep 27 |
-| **[Akari Gin](akarigin.com)** | **[Film Video Editor Intern](https://jobright.ai/jobs/info/68d8c817c52ed61722c95f62?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68bbc7fb8043103d4f22c708?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Sep 27 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Pastry Intern - Spring 2026](https://jobright.ai/jobs/info/68d78802295f8e37655dcb8a?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Sep 26 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment - Editing Intern](https://jobright.ai/jobs/info/68d75662295f8e37655d4d9a?utm_campaign=1053&utm_source=git)** | Malibu, CA | On Site | Sep 26 |
 | **[Reaper Studios official](https://www.linkedin.com/company/109015080)** | **[Animator](https://jobright.ai/jobs/info/68d7df07295f8e37655e3258?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[The Wall Street Journal Business, Finance & Economics Reporting Internships, New York (Summer 2026)](https://jobright.ai/jobs/info/68d74646cb1d8e52c9766800?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[Oakridge](https://oakridge.ltd)** | **[St. Louis, MO / Film Production Office Intern](https://jobright.ai/jobs/info/68d7402645853d0e39ccdcc7?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Sep 26 |
+| **[Akari Gin](akarigin.com)** | **[Film Video Editor](https://jobright.ai/jobs/info/68d8c817c52ed61722c95f62?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
 | **[Draper University](https://www.draperuniversity.com/)** | **[Media Fellowship (Content and Video Production)](https://jobright.ai/jobs/info/68d72382894705799a2f0dea?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Sep 26 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 2](https://jobright.ai/jobs/info/68b9f5968043103d4f21c509?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 26 |
-| ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
-| **[The Wall Street Journal](https://www.wjs.com/)** | **[Social Video Internship](https://jobright.ai/jobs/info/68d701e445853d0e39ccc091?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
