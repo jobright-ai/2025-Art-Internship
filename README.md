@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Haute Living](http://www.hauteliving.com)** | **[Haute Living Intern](https://jobright.ai/jobs/info/68dc25cdd6470e72cf4d90ca?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Sep 30 |
+| **[Quest of Sages](http://www.questofsages.org)** | **[Video Editor & Content Creator Intern](https://jobright.ai/jobs/info/68dc1c51d6470e72cf4d8b0b?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 30 |
 | **[OSI Group](http://www.osigroup.com/)** | **[Corporate Culinary Internship 2026](https://jobright.ai/jobs/info/68dc12386f6c5c3fadf36470?utm_campaign=1053&utm_source=git)** | Aurora, IL | On Site | Sep 30 |
 | **[D.C. Witness](https://dcwitness.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68dc122f6f6c5c3fadf3645d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 | **[Aspen Skiing Company](https://www.aspensnowmass.com)** | **[Culinary/Pastry Externship - The Little Nell - Summer 2026](https://jobright.ai/jobs/info/68dc0a2897329f2f773221bd?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Sep 30 |
