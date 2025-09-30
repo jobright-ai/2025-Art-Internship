@@ -57,16 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Menswear Style Journalist Intern](https://jobright.ai/jobs/info/68db9a56e19b9e63ba20fea5?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Sep 30 |
+| ↳ | **[Ethics, Culture & Business Journalist Intern](https://jobright.ai/jobs/info/68db96849f13662d20e4eb3c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Producer](https://jobright.ai/jobs/info/68db762a9f13662d20e4b8a5?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Sep 29 |
 | **[ReplyQuickAI](https://www.replyquick.ai)** | **[Video Editor Internship](https://jobright.ai/jobs/info/68db5ce834f2c406da6d7399?utm_campaign=1053&utm_source=git)** | Sarasota, FL | Remote | Sep 29 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68db4cff9f13662d20e4998b?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
 | **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern](https://jobright.ai/jobs/info/68db40f39f13662d20e48fc1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Internship -  Culinary](https://jobright.ai/jobs/info/68db34689f13662d20e48873?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/68db34279f13662d20e487e2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/68db2dfa6df7b8311bb16a62?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Sep 29 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68db2b200dffed6f83d2cf22?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68db2abde9b48513789b2359?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68db2ae60dffed6f83d2ce96?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
+| ↳ | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68db2abde9b48513789b2359?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68db292c6df7b8311bb16542?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
+| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Sep 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/68db19f66df7b8311bb160f8?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KGO-TV (ABC7) 7 On Your Side Intern, Spring 2026](https://jobright.ai/jobs/info/68db19d06df7b8311bb16094?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 29 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Multimedia Internship (Graduate or Undergraduate), DC](https://jobright.ai/jobs/info/68db0f150dffed6f83d2c40d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 29 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68bbc7fb8043103d4f22c708?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Sep 27 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Hotel Hershey Pastry Intern - Spring 2026](https://jobright.ai/jobs/info/68d78802295f8e37655dcb8a?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Sep 26 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment - Editing Intern](https://jobright.ai/jobs/info/68d75662295f8e37655d4d9a?utm_campaign=1053&utm_source=git)** | Malibu, CA | On Site | Sep 26 |
-| **[Reaper Studios official](https://www.linkedin.com/company/109015080)** | **[Animator](https://jobright.ai/jobs/info/68d7df07295f8e37655e3258?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[The Wall Street Journal Business, Finance & Economics Reporting Internships, New York (Summer 2026)](https://jobright.ai/jobs/info/68d74646cb1d8e52c9766800?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[Oakridge](https://oakridge.ltd)** | **[St. Louis, MO / Film Production Office Intern](https://jobright.ai/jobs/info/68d7402645853d0e39ccdcc7?utm_campaign=1053&utm_source=git)** | St Louis, MO | On Site | Sep 26 |
-| **[Akari Gin](akarigin.com)** | **[Film Video Editor](https://jobright.ai/jobs/info/68d8c817c52ed61722c95f62?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
-| **[Draper University](https://www.draperuniversity.com/)** | **[Media Fellowship (Content and Video Production)](https://jobright.ai/jobs/info/68d72382894705799a2f0dea?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
