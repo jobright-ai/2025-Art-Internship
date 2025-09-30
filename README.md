@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OSI Group](http://www.osigroup.com/)** | **[Corporate Culinary Internship 2026](https://jobright.ai/jobs/info/68dc12386f6c5c3fadf36470?utm_campaign=1053&utm_source=git)** | Aurora, IL | On Site | Sep 30 |
+| **[D.C. Witness](https://dcwitness.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68dc122f6f6c5c3fadf3645d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 30 |
+| **[Aspen Skiing Company](https://www.aspensnowmass.com)** | **[Culinary/Pastry Externship - The Little Nell - Summer 2026](https://jobright.ai/jobs/info/68dc0a2897329f2f773221bd?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Sep 30 |
+| **[The Washington Post](https://www.washingtonpost.com)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/68dc03c1d6470e72cf4d7fbd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 30 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68dc0013d6470e72cf4d7e8f?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
+| ↳ | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68dbffe0d6470e72cf4d7e33?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
 | **[Gradxiety](https://gradxiety.com)** | **[Writing Intern](https://jobright.ai/jobs/info/68dbf868d6470e72cf4d7ab7?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[3D Animator Intern](https://jobright.ai/jobs/info/68dbe89fd6470e72cf4d5fec?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Sep 30 |
 | **[GMI Cloud](https://www.gmicloud.ai)** | **[Video Content Intern](https://jobright.ai/jobs/info/68dbe2c9d6470e72cf4d5654?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 30 |
@@ -72,6 +78,5 @@ For a complete list, click the following sortable link below:
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Video Editor Intern (Fall Creative Sprint)](https://jobright.ai/jobs/info/68d62d5f4736ff202fdd04dc?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Sep 26 |
 | **[Newberry Library](https://www.newberry.org)** | **[Archives Intern](https://jobright.ai/jobs/info/68dbb076d6470e72cf4d0f96?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | Hybrid | Sep 25 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Winter 2026](https://jobright.ai/jobs/info/68d77a62295f8e37655dac1f?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Sep 25 |
-| **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN West Palm 2026 Spring Internship](https://jobright.ai/jobs/info/68dbc07a6f6c5c3fadf30bc2?utm_campaign=1053&utm_source=git)** | West Palm Beach, FL, US | On Site | Sep 23 |
 | **[Cloud Theory](https://www.cloudtheory.ai)** | **[2026 Newsroom Intern](https://jobright.ai/jobs/info/68dbb785d6470e72cf4d23f1?utm_campaign=1053&utm_source=git)** | 1500 SW 1st Ave Ste 500, Portland, OR97201-5870 | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
