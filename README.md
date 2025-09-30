@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern](https://jobright.ai/jobs/info/68db40f39f13662d20e48fc1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Internship -  Culinary](https://jobright.ai/jobs/info/68db34689f13662d20e48873?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/68db34279f13662d20e487e2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/68db2dfa6df7b8311bb16a62?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Sep 29 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Fortune](http://fortune.com)** | **[Fortune Newsroom Fellowships (Fall 2025)](https://jobright.ai/jobs/info/68db02a4e9b48513789b11a7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Digital Video Social Content Intern, Remote, Spring 2026](https://jobright.ai/jobs/info/68dafd686df7b8311bb151f6?utm_campaign=1053&utm_source=git)** | Remote Worker Location, USA | Remote | Sep 29 |
 | **[Sun Sentinel Media Group](http://www.sun-sentinel.com)** | **[Intern](https://jobright.ai/jobs/info/68dafb400dffed6f83d2b81f?utm_campaign=1053&utm_source=git)** | Deerfield Beach, FL | Hybrid | Sep 29 |
-| **[LookOut](https://www.linkedin.com/company/108934955)** | **[Content Creator (Volunteer / Unpaid Internship)](https://jobright.ai/jobs/info/68daf4ab6df7b8311bb1498e?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Sep 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX News Media Internship Program - Chicago, IL](https://jobright.ai/jobs/info/68daf0356df7b8311bb1466a?utm_campaign=1053&utm_source=git)** | USA - IL - Chicago - 600 W Chicago Ave | On Site | Sep 29 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Internship -  Culinary](https://jobright.ai/jobs/info/68dae7a007c157682e56f559?utm_campaign=1053&utm_source=git)** | Lettuce Entertain You  - Nashville | On Site | Sep 29 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Culinary Summer Intern 2026](https://jobright.ai/jobs/info/68dae67307c157682e56f26d?utm_campaign=1053&utm_source=git)** | Springdale, AR | On Site | Sep 29 |
@@ -83,11 +83,15 @@ For a complete list, click the following sortable link below:
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Spring 2026 Events (Paid) Intern](https://jobright.ai/jobs/info/68dad99e07c157682e56e6c8?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
 | ↳ | **[Spring 2026 Library and Archives (Paid) Intern](https://jobright.ai/jobs/info/68dad96e07c157682e56e63f?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
 | ↳ | **[Spring 2026 Editorial (Paid) Intern](https://jobright.ai/jobs/info/68dad8db6df7b8311bb12f6e?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
-| ↳ | **[Spring 2026 Editorial (Paid) Intern](https://jobright.ai/jobs/info/68dad7910b832179ca4b1a44?utm_campaign=1053&utm_source=git)** | Country Music Hall of Fame and Museum | On Site | Sep 29 |
+| **[Jung+ Longevity](https://junglongevity.com)** | **[TikTok/IG Video Editor & Content Intern – Skincare/ Longevity / Wellness](https://jobright.ai/jobs/info/68dae2b50b832179ca4b25f2?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 29 |
+| **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Spring 2026 Editorial (Paid) Intern](https://jobright.ai/jobs/info/68dad7910b832179ca4b1a44?utm_campaign=1053&utm_source=git)** | Country Music Hall of Fame and Museum | On Site | Sep 29 |
 | ↳ | **[Spring 2026 Events (Paid) Intern](https://jobright.ai/jobs/info/68dad69507c157682e56e288?utm_campaign=1053&utm_source=git)** | Country Music Hall of Fame and Museum | On Site | Sep 29 |
 | ↳ | **[Spring 2026 Library and Archives (Paid) Intern](https://jobright.ai/jobs/info/68dad61507c157682e56e080?utm_campaign=1053&utm_source=git)** | Country Music Hall of Fame and Museum | On Site | Sep 29 |
 | **[Insomniac Events](http://insomniac.com)** | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/68db2082e9b48513789b2013?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Sep 29 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Culinary Summer Intern 2026](https://jobright.ai/jobs/info/68dac6ae6df7b8311bb1201a?utm_campaign=1053&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Sep 29 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Guest Services Production Intern](https://jobright.ai/jobs/info/68db490134f2c406da6d613d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 29 |
+| ↳ | **[Emo Nite - Production Intern](https://jobright.ai/jobs/info/68db49889f13662d20e497e2?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Sep 29 |
+| ↳ | **[C3 Presents - 508 Club Intern](https://jobright.ai/jobs/info/68db482ae19b9e63ba209e55?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Sep 29 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Roadshow Coordinator Intern](https://jobright.ai/jobs/info/68daa56d6df7b8311bb10a2f?utm_campaign=1053&utm_source=git)** | Plymouth, MN | Hybrid | Sep 29 |
 | **[Plutus Media](https://growwithplutus.com/)** | **[Student Content Creator](https://jobright.ai/jobs/info/68daa10c0b832179ca4af313?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Stadt Leipzig](https://www.leipzig.de/buergerservice-und-verwaltung/stadtverwaltung/jobs-und-karriere/aktuelle-stellenausschreibungen)** | **[Intern: Museumspädagogin/ Museumspädagoge (m/w/d)](https://jobright.ai/jobs/info/68daa0ac07c157682e56bbe1?utm_campaign=1053&utm_source=git)** | Falmouth, ME | On Site | Sep 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Talk and Entertainment Show Intern 2](https://jobright.ai/jobs/info/68b9f5968043103d4f21c509?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Sep 26 |
 | ↳ | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Social Video Internship](https://jobright.ai/jobs/info/68d701e445853d0e39ccc091?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
-| ↳ | **[Sports Reporting Internship](https://jobright.ai/jobs/info/68d6fcf9d3fe025a3015d989?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
-| ↳ | **[Video Internship](https://jobright.ai/jobs/info/68d6faef45853d0e39ccb905?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 26 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2026 FOX News Media Internship Program - Chicago, IL](https://jobright.ai/jobs/info/68d6f55f894705799a2ef263?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 26 |
-| ↳ | **[Spring 2026 FOX News Media Internship Program - Dallas](https://jobright.ai/jobs/info/68d6f54a894705799a2ef246?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
