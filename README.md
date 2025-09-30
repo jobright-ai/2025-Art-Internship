@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TGR](http://www.thegarnettereport.com)** | **[Fall Internship](https://jobright.ai/jobs/info/68dc4514a125e75c4229ef3c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 30 |
+| **[Cincinnati Magazine](https://www.cincinnatimagazine.com)** | **[Editorial internship](https://jobright.ai/jobs/info/68dc409fddc10244dd673661?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 30 |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/68dc390ab324915618962634?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/68dc3825a271e745b8a7ccbb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[Haute Living](http://www.hauteliving.com)** | **[Haute Living Intern](https://jobright.ai/jobs/info/68dc25cdd6470e72cf4d90ca?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Sep 30 |
 | **[Quest of Sages](http://www.questofsages.org)** | **[Video Editor & Content Creator Intern](https://jobright.ai/jobs/info/68dc1c51d6470e72cf4d8b0b?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 30 |
 | **[OSI Group](http://www.osigroup.com/)** | **[Corporate Culinary Internship 2026](https://jobright.ai/jobs/info/68dc12386f6c5c3fadf36470?utm_campaign=1053&utm_source=git)** | Aurora, IL | On Site | Sep 30 |
@@ -81,4 +85,5 @@ For a complete list, click the following sortable link below:
 | **[Newberry Library](https://www.newberry.org)** | **[Archives Intern](https://jobright.ai/jobs/info/68dbb076d6470e72cf4d0f96?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | Hybrid | Sep 25 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Winter 2026](https://jobright.ai/jobs/info/68d77a62295f8e37655dac1f?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Sep 25 |
 | **[Cloud Theory](https://www.cloudtheory.ai)** | **[2026 Newsroom Intern](https://jobright.ai/jobs/info/68dbb785d6470e72cf4d23f1?utm_campaign=1053&utm_source=git)** | 1500 SW 1st Ave Ste 500, Portland, OR97201-5870 | On Site | Sep 15 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68dc44ebaccfd24b67e5394e?utm_campaign=1053&utm_source=git)** | Greenwood Village, Colorado | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
