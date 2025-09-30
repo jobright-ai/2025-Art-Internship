@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Producer](https://jobright.ai/jobs/info/68db762a9f13662d20e4b8a5?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Sep 29 |
 | **[ReplyQuickAI](https://www.replyquick.ai)** | **[Video Editor Internship](https://jobright.ai/jobs/info/68db5ce834f2c406da6d7399?utm_campaign=1053&utm_source=git)** | Sarasota, FL | Remote | Sep 29 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68db499834f2c406da6d6374?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68db4cff9f13662d20e4998b?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
 | **[Kimpton Hotels & Restaurants](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern](https://jobright.ai/jobs/info/68db40f39f13662d20e48fc1?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Internship -  Culinary](https://jobright.ai/jobs/info/68db34689f13662d20e48873?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Los Angeles](https://jobright.ai/jobs/info/68db34279f13662d20e487e2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/68db2dfa6df7b8311bb16a62?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Sep 29 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68db2b200dffed6f83d2cf22?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68db2ae60dffed6f83d2ce96?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68db2abde9b48513789b2359?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68db292c6df7b8311bb16542?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/68db19f66df7b8311bb160f8?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, USA | On Site | Sep 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KGO-TV (ABC7) 7 On Your Side Intern, Spring 2026](https://jobright.ai/jobs/info/68db19d06df7b8311bb16094?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 29 |
@@ -132,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[JURIST](https://www.jurist.org/)** | **[Law student volunteer reporter](https://jobright.ai/jobs/info/68d94d33022fc803b4877028?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Remote | Sep 28 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
 | **[Michigan State University](http://msu.edu)** | **[Model](https://jobright.ai/jobs/info/68d8f2a99a8e451a446a4186?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Sep 28 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68db6f01e19b9e63ba20c11c?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Sep 27 |
 | **[New Apostle Gallery](http://newapostlegallery.com)** | **[Studio Intern](https://jobright.ai/jobs/info/68d8bc57ed09d95201eb6883?utm_campaign=1053&utm_source=git)** | Hopewell Junction, NY | On Site | Sep 27 |
 | **[Lely](https://www.lely.com/jp/)** | **[Stage bij Lely Center Bunschoten](https://jobright.ai/jobs/info/682de306c14ef2216f6c2509?utm_campaign=1053&utm_source=git)** | Nederland, TX | On Site | Sep 27 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Sep 27 |
