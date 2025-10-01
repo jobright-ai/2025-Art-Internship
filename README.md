@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Menswear Style Journalist Intern](https://jobright.ai/jobs/info/68dd360ca125e75c422a8929?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Oct 01 |
+| ↳ | **[Ethics, Culture & Business Journalist Intern](https://jobright.ai/jobs/info/68dd35b1ddc10244dd67d309?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Oct 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KGO-TV (ABC7) 7 On Your Side Intern, Spring 2026](https://jobright.ai/jobs/info/68dd15b5a125e75c422a7e69?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68dd008944d32141e0bf39ae?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 01 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Menswear Style Journalist Intern](https://jobright.ai/jobs/info/68dcabe1ddc10244dd678851?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Sep 30 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68dc0013d6470e72cf4d7e8f?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
 | ↳ | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68dbffe0d6470e72cf4d7e33?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/68dc5f20accfd24b67e54cc2?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 30 |
-| **[Gradxiety](https://gradxiety.com)** | **[Writing Intern](https://jobright.ai/jobs/info/68dbf868d6470e72cf4d7ab7?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/68dc997baccfd24b67e5738a?utm_campaign=1053&utm_source=git)** | 915 Broadway, New York, NY | On Site | Sep 30 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/68dc5efbaccfd24b67e54c3e?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 30 |
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[3D Animator Intern](https://jobright.ai/jobs/info/68dbe89fd6470e72cf4d5fec?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Sep 30 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[We Be In The City LLC](https://links.webeinthecity.com)** | **[Community Curator Intern](https://jobright.ai/jobs/info/68dcba8daccfd24b67e593d2?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | Sep 29 |
 | **[Kingston Chamber Music Festival](https://www.kingstonchambermusic.org/)** | **[Nonprofit Internship for Historical Archive Project](https://jobright.ai/jobs/info/68dbd9336f6c5c3fadf32896?utm_campaign=1053&utm_source=git)** | Kingston, RI | On Site | Sep 29 |
 | **[We Be In The City LLC](https://links.webeinthecity.com)** | **[Community Curator Intern](https://jobright.ai/jobs/info/68dbd9d7d6470e72cf4d4c8b?utm_campaign=1053&utm_source=git)** | Stone Mountain, GA | On Site | Sep 29 |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Chicago, IL](https://jobright.ai/jobs/info/68da38283c03cd327094481c?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | **[Port Huron Prowlers](http://www.phprowlers.com)** | **[Broadcast Intern](https://jobright.ai/jobs/info/68dcbabbaccfd24b67e59473?utm_campaign=1053&utm_source=git)** | Port Huron, MI | On Site | Sep 29 |
 | **[Akari Gin](akarigin.com)** | **[Film Video Editor Intern](https://jobright.ai/jobs/info/68d8c817c52ed61722c95f62?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 27 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Video Editor Intern (Fall Creative Sprint)](https://jobright.ai/jobs/info/68d62d5f4736ff202fdd04dc?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Sep 26 |
