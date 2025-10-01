@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Globe Media](http://www.bostonglobe.com)** | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/68dd67beddc10244dd67f109?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Oct 01 |
+| **[Heyday Athletic](https://www.heydayathletic.com)** | **[Spring Intern](https://jobright.ai/jobs/info/68dd5be544d32141e0bf610f?utm_campaign=1053&utm_source=git)** | Greater Philadelphia | Hybrid | Oct 01 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Menswear Style Journalist Intern](https://jobright.ai/jobs/info/68dd360ca125e75c422a8929?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Oct 01 |
 | ↳ | **[Ethics, Culture & Business Journalist Intern](https://jobright.ai/jobs/info/68dd35b1ddc10244dd67d309?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Oct 01 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[McDermott Project Archives Intern](https://jobright.ai/jobs/info/68dd4ed244d32141e0bf5753?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Oct 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KGO-TV (ABC7) 7 On Your Side Intern, Spring 2026](https://jobright.ai/jobs/info/68dd15b5a125e75c422a7e69?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68dd008944d32141e0bf39ae?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 01 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Menswear Style Journalist Intern](https://jobright.ai/jobs/info/68dcabe1ddc10244dd678851?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Sep 30 |
@@ -66,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Sum Pictures](https://www.sum.pictures/)** | **[Intern](https://jobright.ai/jobs/info/68dc92c6accfd24b67e57148?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Sep 30 |
 | **[Playbook Media](https://www.playbook.media)** | **[AI Video Production Intern (Veo 3 Support)](https://jobright.ai/jobs/info/68dc8336a125e75c422a17fd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Draper University](https://www.draperuniversity.com/)** | **[Media Fellowship (Writing)](https://jobright.ai/jobs/info/68dc7838ddc10244dd675aaa?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Sep 30 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Multimedia Producer Internship (Graduate or Undergraduate), NY](https://jobright.ai/jobs/info/68dd4ed044d32141e0bf574c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Producer, Product Knowledge, North America Sales Operations (Winter/Spring 2026)](https://jobright.ai/jobs/info/68dc6ac9accfd24b67e55393?utm_campaign=1053&utm_source=git)** | Fremont, CA | On Site | Sep 30 |
 | **[The Medica Zone](https://www.themedicazone.info)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68dc6a9caccfd24b67e55329?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 30 |
 | **[The Little Nell](https://www.thelittlenell.com)** | **[Culinary/Pastry Externship - The Little Nell - Summer 2026](https://jobright.ai/jobs/info/68dc5a77a125e75c4229fea3?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Sep 30 |
