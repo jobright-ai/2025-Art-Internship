@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68dd008944d32141e0bf39ae?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 01 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Menswear Style Journalist Intern](https://jobright.ai/jobs/info/68dcabe1ddc10244dd678851?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Sep 30 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Features Casting Intern, SPA – Fall 2025](https://jobright.ai/jobs/info/68dc968faccfd24b67e57217?utm_campaign=1053&utm_source=git)** | Los Angeles, California | On Site | Sep 30 |
 | **[Sum Pictures](https://www.sum.pictures/)** | **[Intern](https://jobright.ai/jobs/info/68dc92c6accfd24b67e57148?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Sep 30 |
