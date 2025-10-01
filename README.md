@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Playbook Media](https://www.playbook.media)** | **[AI Video Production Intern (Veo 3 Support)](https://jobright.ai/jobs/info/68dc8336a125e75c422a17fd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 30 |
+| **[Draper University](https://www.draperuniversity.com/)** | **[Media Fellowship (Writing)](https://jobright.ai/jobs/info/68dc7838ddc10244dd675aaa?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Sep 30 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Producer, Product Knowledge, North America Sales Operations (Winter/Spring 2026)](https://jobright.ai/jobs/info/68dc6ac9accfd24b67e55393?utm_campaign=1053&utm_source=git)** | Fremont, CA | On Site | Sep 30 |
 | **[The Medica Zone](https://www.themedicazone.info)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68dc6a9caccfd24b67e55329?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 30 |
 | **[The Little Nell](https://www.thelittlenell.com)** | **[Culinary/Pastry Externship - The Little Nell - Summer 2026](https://jobright.ai/jobs/info/68dc5a77a125e75c4229fea3?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Sep 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, Sports](https://jobright.ai/jobs/info/68dc556aaccfd24b67e5463f?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Sep 30 |
+| **[Aspen Skiing Company](https://www.aspensnowmass.com)** | **[Culinary/Pastry Externship - The Little Nell - Summer 2026](https://jobright.ai/jobs/info/68dc54c1a125e75c4229fb4a?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Sep 30 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/68dc4b09ddc10244dd673c81?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Fall Internship](https://jobright.ai/jobs/info/68dc4514a125e75c4229ef3c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 30 |
 | **[Cincinnati Magazine](https://www.cincinnatimagazine.com)** | **[Editorial internship](https://jobright.ai/jobs/info/68dc409fddc10244dd673661?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 30 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Quest of Sages](http://www.questofsages.org)** | **[Video Editor & Content Creator Intern](https://jobright.ai/jobs/info/68dc1c51d6470e72cf4d8b0b?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 30 |
 | **[OSI Group](http://www.osigroup.com/)** | **[Corporate Culinary Internship 2026](https://jobright.ai/jobs/info/68dc12386f6c5c3fadf36470?utm_campaign=1053&utm_source=git)** | Aurora, IL | On Site | Sep 30 |
 | **[D.C. Witness](https://dcwitness.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68dc122f6f6c5c3fadf3645d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 30 |
-| **[Aspen Skiing Company](https://www.aspensnowmass.com)** | **[Culinary/Pastry Externship - The Little Nell - Summer 2026](https://jobright.ai/jobs/info/68dc0a2897329f2f773221bd?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Sep 30 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/68dc03c1d6470e72cf4d7fbd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68dc0013d6470e72cf4d7e8f?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
 | ↳ | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68dbffe0d6470e72cf4d7e33?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
@@ -90,6 +92,5 @@ For a complete list, click the following sortable link below:
 | **[We Be In The City LLC](https://links.webeinthecity.com)** | **[Community Curator Intern](https://jobright.ai/jobs/info/68dbd9d7d6470e72cf4d4c8b?utm_campaign=1053&utm_source=git)** | Stone Mountain, GA | On Site | Sep 29 |
 | **[Akari Gin](akarigin.com)** | **[Film Video Editor Intern](https://jobright.ai/jobs/info/68d8c817c52ed61722c95f62?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 27 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Video Editor Intern (Fall Creative Sprint)](https://jobright.ai/jobs/info/68d62d5f4736ff202fdd04dc?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Sep 26 |
-| **[Newberry Library](https://www.newberry.org)** | **[Archives Intern](https://jobright.ai/jobs/info/68dbb076d6470e72cf4d0f96?utm_campaign=1053&utm_source=git)** | Chicago, IL, US | Hybrid | Sep 25 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Winter 2026](https://jobright.ai/jobs/info/68d77a62295f8e37655dac1f?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
