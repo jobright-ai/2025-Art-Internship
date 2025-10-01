@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Menswear Style Journalist Intern](https://jobright.ai/jobs/info/68dcabe1ddc10244dd678851?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Sep 30 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Features Casting Intern, SPA – Fall 2025](https://jobright.ai/jobs/info/68dc968faccfd24b67e57217?utm_campaign=1053&utm_source=git)** | Los Angeles, California | On Site | Sep 30 |
 | **[Sum Pictures](https://www.sum.pictures/)** | **[Intern](https://jobright.ai/jobs/info/68dc92c6accfd24b67e57148?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Sep 30 |
 | **[Playbook Media](https://www.playbook.media)** | **[AI Video Production Intern (Veo 3 Support)](https://jobright.ai/jobs/info/68dc8336a125e75c422a17fd?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 30 |
@@ -70,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[TGR](http://www.thegarnettereport.com)** | **[Fall Internship](https://jobright.ai/jobs/info/68dc4514a125e75c4229ef3c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Sep 30 |
 | **[Cincinnati Magazine](https://www.cincinnatimagazine.com)** | **[Editorial internship](https://jobright.ai/jobs/info/68dc409fddc10244dd673661?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 30 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/68dc390ab324915618962634?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 30 |
-| **[The Transmitter](https://spectrumnews.org/)** | **[Science Reporting Intern](https://jobright.ai/jobs/info/68dc3825a271e745b8a7ccbb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/68dc3825a271e745b8a7ccbb?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[Haute Living](http://www.hauteliving.com)** | **[Haute Living Intern](https://jobright.ai/jobs/info/68dc25cdd6470e72cf4d90ca?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Sep 30 |
 | **[California Appellate Project](http://www.capsf.org)** | **[Summer Intern - 2026](https://jobright.ai/jobs/info/68dc6c16accfd24b67e5543c?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | Hybrid | Sep 30 |
 | **[Quest of Sages](http://www.questofsages.org)** | **[Video Editor & Content Creator Intern](https://jobright.ai/jobs/info/68dc1c51d6470e72cf4d8b0b?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 30 |
@@ -90,10 +91,13 @@ For a complete list, click the following sortable link below:
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68dbb6a2d6470e72cf4d213b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Sep 30 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68dbb5f997329f2f7731c6c2?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
 | ↳ | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68dbb22197329f2f7731bb16?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
-| **[CLD PR](https://cldstylehouse.com)** | **[White Fox 12th Birthday Event Intern (VIP Experiential Event)](https://jobright.ai/jobs/info/68db22090dffed6f83d2c9ff?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
+| **[We Be In The City LLC](https://links.webeinthecity.com)** | **[Community Curator Intern](https://jobright.ai/jobs/info/68dcba8daccfd24b67e593d2?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | Sep 29 |
 | **[Kingston Chamber Music Festival](https://www.kingstonchambermusic.org/)** | **[Nonprofit Internship for Historical Archive Project](https://jobright.ai/jobs/info/68dbd9336f6c5c3fadf32896?utm_campaign=1053&utm_source=git)** | Kingston, RI | On Site | Sep 29 |
+| **[Jung+ Longevity](https://junglongevity.com)** | **[TikTok/IG Video Editor & Content Intern – Skincare/ Longevity / Wellness](https://jobright.ai/jobs/info/68dae2b50b832179ca4b25f2?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 29 |
 | **[We Be In The City LLC](https://links.webeinthecity.com)** | **[Community Curator Intern](https://jobright.ai/jobs/info/68dbd9d7d6470e72cf4d4c8b?utm_campaign=1053&utm_source=git)** | Stone Mountain, GA | On Site | Sep 29 |
-| **[Akari Gin](akarigin.com)** | **[Film Video Editor Intern](https://jobright.ai/jobs/info/68d8c817c52ed61722c95f62?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Sep 27 |
-| **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Video Editor Intern (Fall Creative Sprint)](https://jobright.ai/jobs/info/68d62d5f4736ff202fdd04dc?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Sep 26 |
-| **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Winter 2026](https://jobright.ai/jobs/info/68d77a62295f8e37655dac1f?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Sep 25 |
+| **[Port Huron Prowlers](http://www.phprowlers.com)** | **[Broadcast Intern](https://jobright.ai/jobs/info/68dcbabbaccfd24b67e59473?utm_campaign=1053&utm_source=git)** | Port Huron, MI | On Site | Sep 29 |
+| **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Videography Intern (Fall Creative Sprint)](https://jobright.ai/jobs/info/68d62d5f4736ff202fdd04dc?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Sep 25 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68dcbe53a125e75c422a4dbe?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | Sep 25 |
+| ↳ | **[Alterations Intern](https://jobright.ai/jobs/info/68dcb186accfd24b67e58e86?utm_campaign=1053&utm_source=git)** | Brea, CA | On Site | Sep 25 |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern- Hyatt Regency Bonita Springs Resort](https://jobright.ai/jobs/info/68d451c317554c2d9eef8632?utm_campaign=1053&utm_source=git)** | Bonita Springs, FL | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
