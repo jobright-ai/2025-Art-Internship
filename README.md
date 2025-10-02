@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2026 Summer News Internship: Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/68deb37744d32141e0c01a9a?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 02 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Sports News Intern, Spring 2026](https://jobright.ai/jobs/info/68deaca909bda65a4b62ca8c?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Oct 02 |
+| ↳ | **[ABC Owned TV Stations Content Intern, Spring 2026](https://jobright.ai/jobs/info/68deac17a125e75c422b5913?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Oct 02 |
 | **[The Social Agency](http://Thesocialagency.dk)** | **[Content Assistant Intern – Fall 2025](https://jobright.ai/jobs/info/68de987344d32141e0c00eb2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 02 |
 | **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[2026 Culinary Intern/Extern](https://jobright.ai/jobs/info/68de979809bda65a4b62bb2e?utm_campaign=1053&utm_source=git)** | Isle of Palms, SC | On Site | Oct 02 |
 | **[Wild Dunes Resort](https://www.hyatt.com/destination-by-hyatt/wilddunes-charleston-island-resort)** | **[Culinary Intern/Extern](https://jobright.ai/jobs/info/68de905aa125e75c422b4fdd?utm_campaign=1053&utm_source=git)** | Isle of Palms, SC | On Site | Oct 02 |
@@ -76,12 +79,12 @@ For a complete list, click the following sortable link below:
 | **[Insomnia Visuals](www.insomniavisuals.com)** | **[Content Production & Social Media Intern](https://jobright.ai/jobs/info/68ddc4dca125e75c422aecc3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/68ddbcb8d624072d9ab04b0b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | ↳ | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/68ddb8c4a125e75c422ae93a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 01 |
+| **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68ddad09a125e75c422ae194?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 01 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Spring 2026](https://jobright.ai/jobs/info/68dda9a2ddc10244dd682bb7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
-| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
+| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
-| **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68dda3f6ddc10244dd6825e8?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 01 |
 | **[My Rental Spot](https://myrentalspot.com)** | **[Video Content Intern – TikTok & YouTube Shorts](https://jobright.ai/jobs/info/68dda071ddc10244dd68242d?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Oct 01 |
 | **[Flourish Coworking Space](https://www.flourishcoworking.com/)** | **[Flourish Coworking Space // Video and Podcast Editing & Production Internship](https://jobright.ai/jobs/info/68dd9bb144d32141e0bf9021?utm_campaign=1053&utm_source=git)** | West Chester, PA | Hybrid | Oct 01 |
 | **[SIFF](https://www.siff.fr)** | **[NFFTY 2025/2026 Programming Internship](https://jobright.ai/jobs/info/68dd925dddc10244dd681014?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Oct 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68dbb5f997329f2f7731c6c2?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
 | ↳ | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68dbb22197329f2f7731bb16?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
 | **[University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[WUNC Youth Reporting Internships](https://jobright.ai/jobs/info/68dce3d9ddc10244dd67b58e?utm_campaign=1053&utm_source=git)** | North Carolina, United States | On Site | Sep 30 |
-| **[We Be In The City LLC](https://links.webeinthecity.com)** | **[Community Curator Intern](https://jobright.ai/jobs/info/68dcba8daccfd24b67e593d2?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | Sep 29 |
-| **[Kingston Chamber Music Festival](https://www.kingstonchambermusic.org/)** | **[Nonprofit Internship for Historical Archive Project](https://jobright.ai/jobs/info/68dbd9336f6c5c3fadf32896?utm_campaign=1053&utm_source=git)** | Kingston, RI | On Site | Sep 29 |
-| **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/68dd9f8aa125e75c422ad547?utm_campaign=1053&utm_source=git)** | Deerfield Beach, Florida | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
