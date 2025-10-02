@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Hospitality & Events Intern](https://jobright.ai/jobs/info/68dedc5da125e75c422b76ed?utm_campaign=1053&utm_source=git)** | Jackson, MI | On Site | Oct 02 |
 | **[LCS](https://www.lcsnet.com/)** | **[Culinary Arts Internship](https://jobright.ai/jobs/info/68dece9d09bda65a4b62e006?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 02 |
 | **[Cheekwood](https://cheekwood.org)** | **[Museum of Art Intern - Spring 2026](https://jobright.ai/jobs/info/68decda509bda65a4b62de8f?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 02 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Internship at Atlanta Apparel](https://jobright.ai/jobs/info/68decd0244d32141e0c026bf?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/68dc03c1d6470e72cf4d7fbd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68dc0013d6470e72cf4d7e8f?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
 | ↳ | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68dbffe0d6470e72cf4d7e33?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
-| **[The Wall Street Journal](https://www.wjs.com/)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/68dc5f20accfd24b67e54cc2?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
