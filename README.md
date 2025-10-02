@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LCS](https://www.lcsnet.com/)** | **[Culinary Arts Internship](https://jobright.ai/jobs/info/68dece9d09bda65a4b62e006?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 02 |
+| **[Cheekwood](https://cheekwood.org)** | **[Museum of Art Intern - Spring 2026](https://jobright.ai/jobs/info/68decda509bda65a4b62de8f?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 02 |
+| **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Internship at Atlanta Apparel](https://jobright.ai/jobs/info/68decd0244d32141e0c026bf?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Oct 02 |
+| **[StoneRidge Senior Living Community](https://www.stoneridgelcs.com/careers/)** | **[Culinary Arts Internship](https://jobright.ai/jobs/info/68decca809bda65a4b62dce9?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 02 |
+| **[Casa de las Campanas](https://www.casadelascampanas.com)** | **[Culinary Arts Internship](https://jobright.ai/jobs/info/68decc6144d32141e0c0249b?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 02 |
+| **[South Port Square](https://southportseniorliving.com/)** | **[Culinary Arts Internship](https://jobright.ai/jobs/info/68decbfea125e75c422b6a7e?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 02 |
+| **[Cottage Grove Place](https://cottagegroveplace.com)** | **[Culinary Arts Internship](https://jobright.ai/jobs/info/68decb4ea125e75c422b681e?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 02 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Producer](https://jobright.ai/jobs/info/68dec67f09bda65a4b62d9ad?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 02 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2026 Summer News Internship: Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/68deb37744d32141e0c01a9a?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Sports News Intern, Spring 2026](https://jobright.ai/jobs/info/68deaca909bda65a4b62ca8c?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Oct 02 |
 | ↳ | **[ABC Owned TV Stations Content Intern, Spring 2026](https://jobright.ai/jobs/info/68deac17a125e75c422b5913?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Oct 02 |
@@ -76,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[MEmusic.](http://www.memusic.group)** | **[MEmusic.internships fall 2025/spring 2026](https://jobright.ai/jobs/info/68ddd085d624072d9ab04d03?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 01 |
 | **[SANDMARC](https://www.sandmarc.com/)** | **[Filmmaker / Cinematographer Intern (Paid)](https://jobright.ai/jobs/info/68ddca0b44d32141e0bfac2f?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Oct 01 |
 | **[Averill Hospitality](https://averillhospitality.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68de550c44d32141e0bff88a?utm_campaign=1053&utm_source=git)** | Whitefish, MT | On Site | Oct 01 |
+| **[BINDER PARK ZOO](https://binderparkzoo.org)** | **[Animal Care Intern (Winter)](https://jobright.ai/jobs/info/68dec54d09bda65a4b62d7ef?utm_campaign=1053&utm_source=git)** | Battle Creek, MI | On Site | Oct 01 |
 | **[Insomnia Visuals](www.insomniavisuals.com)** | **[Content Production & Social Media Intern](https://jobright.ai/jobs/info/68ddc4dca125e75c422aecc3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/68ddbcb8d624072d9ab04b0b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | ↳ | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/68ddb8c4a125e75c422ae93a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 01 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68dc0013d6470e72cf4d7e8f?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
 | ↳ | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68dbffe0d6470e72cf4d7e33?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/68dc5f20accfd24b67e54cc2?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 30 |
-| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Science Reporting Intern, The Transmitter](https://jobright.ai/jobs/info/68dc997baccfd24b67e5738a?utm_campaign=1053&utm_source=git)** | 915 Broadway, New York, NY | On Site | Sep 30 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/68dc5efbaccfd24b67e54c3e?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Sep 30 |
-| **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[3D Animator Intern](https://jobright.ai/jobs/info/68dbe89fd6470e72cf4d5fec?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Sep 30 |
-| **[GMI Cloud](https://www.gmicloud.ai)** | **[Video Content Intern](https://jobright.ai/jobs/info/68dbe2c9d6470e72cf4d5654?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 30 |
-| **[ESPN](http://espncareers.com)** | **[ESPN Digital Video Social Content Intern, Remote, Spring 2026](https://jobright.ai/jobs/info/68dbc9556f6c5c3fadf317c2?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Sep 30 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Signature Experiences, A&E Trip Services Intern, Summer 2026](https://jobright.ai/jobs/info/68dbc94bd6470e72cf4d3a24?utm_campaign=1053&utm_source=git)** | Celebration, FL | On Site | Sep 30 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Content Intern - Fall 2025](https://jobright.ai/jobs/info/68dbb5f997329f2f7731c6c2?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
-| ↳ | **[Digital Video Intern - Fall 2025](https://jobright.ai/jobs/info/68dbb22197329f2f7731bb16?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
-| **[University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[WUNC Youth Reporting Internships](https://jobright.ai/jobs/info/68dce3d9ddc10244dd67b58e?utm_campaign=1053&utm_source=git)** | North Carolina, United States | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
