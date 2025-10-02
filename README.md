@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68de5930a125e75c422b3e1c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 02 |
 | **[Tyndale House Publishers](http://www.tyndale.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68de358aa125e75c422b22f7?utm_campaign=1053&utm_source=git)** | Carol Stream, IL | On Site | Oct 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Programming Intern, Remote, Spring 2026](https://jobright.ai/jobs/info/68de0157a125e75c422b1081?utm_campaign=1053&utm_source=git)** | Remote Worker Location, USA | Remote | Oct 01 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Ethics, Culture & Business Journalist Intern](https://jobright.ai/jobs/info/68de3d9b44d32141e0bfe84d?utm_campaign=1053&utm_source=git)** | New York County, NY | Remote | Oct 01 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Game Presentation Intern, Philadelphia Flyers and Wings](https://jobright.ai/jobs/info/68dde1baddc10244dd68451b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
 | **[MEmusic.](http://www.memusic.group)** | **[MEmusic.internships fall 2025/spring 2026](https://jobright.ai/jobs/info/68ddd085d624072d9ab04d03?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 01 |
 | **[SANDMARC](https://www.sandmarc.com/)** | **[Filmmaker / Cinematographer Intern (Paid)](https://jobright.ai/jobs/info/68ddca0b44d32141e0bfac2f?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Oct 01 |
+| **[Averill Hospitality](https://averillhospitality.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68de550c44d32141e0bff88a?utm_campaign=1053&utm_source=git)** | Whitefish, MT | On Site | Oct 01 |
 | **[Insomnia Visuals](www.insomniavisuals.com)** | **[Content Production & Social Media Intern](https://jobright.ai/jobs/info/68ddc4dca125e75c422aecc3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/68ddbcb8d624072d9ab04b0b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | ↳ | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/68ddb8c4a125e75c422ae93a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 01 |
@@ -104,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Boston Globe Media](http://www.bostonglobe.com)** | **[Editorial Intern, Boston Magazine](https://jobright.ai/jobs/info/68dd67beddc10244dd67f109?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Oct 01 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Multimedia Producer Internship (Graduate or Undergraduate), NY](https://jobright.ai/jobs/info/68dd5c38ddc10244dd67ebf4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | **[Heyday Athletic](https://www.heydayathletic.com)** | **[Spring Intern](https://jobright.ai/jobs/info/68dd5be544d32141e0bf610f?utm_campaign=1053&utm_source=git)** | Greater Philadelphia | Hybrid | Oct 01 |
+| **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Culinary Intern](https://jobright.ai/jobs/info/68de61cc09bda65a4b62a0f8?utm_campaign=1053&utm_source=git)** | Cashiers, NC | On Site | Oct 01 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Menswear Style Journalist Intern](https://jobright.ai/jobs/info/68dd360ca125e75c422a8929?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Oct 01 |
 | ↳ | **[Ethics, Culture & Business Journalist Intern](https://jobright.ai/jobs/info/68dd35b1ddc10244dd67d309?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Oct 01 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[McDermott Project Archives Intern](https://jobright.ai/jobs/info/68dd4ed244d32141e0bf5753?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Oct 01 |
@@ -148,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[We Be In The City LLC](https://links.webeinthecity.com)** | **[Community Curator Intern](https://jobright.ai/jobs/info/68dcba8daccfd24b67e593d2?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | Sep 29 |
 | **[Kingston Chamber Music Festival](https://www.kingstonchambermusic.org/)** | **[Nonprofit Internship for Historical Archive Project](https://jobright.ai/jobs/info/68dbd9336f6c5c3fadf32896?utm_campaign=1053&utm_source=git)** | Kingston, RI | On Site | Sep 29 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/68dd9f8aa125e75c422ad547?utm_campaign=1053&utm_source=git)** | Deerfield Beach, Florida | On Site | Sep 29 |
+| **[Jung+ Longevity](https://junglongevity.com)** | **[TikTok/IG Video Editor & Content Intern – Skincare/ Longevity / Wellness](https://jobright.ai/jobs/info/68dae2b50b832179ca4b25f2?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 29 |
 | **[We Be In The City LLC](https://links.webeinthecity.com)** | **[Community Curator Intern](https://jobright.ai/jobs/info/68dbd9d7d6470e72cf4d4c8b?utm_campaign=1053&utm_source=git)** | Stone Mountain, GA | On Site | Sep 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Chicago, IL](https://jobright.ai/jobs/info/68da38283c03cd327094481c?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | **[Port Huron Prowlers](http://www.phprowlers.com)** | **[Broadcast Intern](https://jobright.ai/jobs/info/68dcbabbaccfd24b67e59473?utm_campaign=1053&utm_source=git)** | Port Huron, MI | On Site | Sep 29 |
 | **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Baking and Pastry Intern](https://jobright.ai/jobs/info/68de3e7444d32141e0bfe9cf?utm_campaign=1053&utm_source=git)** | Walland, TN | On Site | Sep 28 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68de2e9309bda65a4b627280?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Sep 27 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68de2f5ba125e75c422b1dad?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | Sep 25 |
-| **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Videography Intern (Fall Creative Sprint)](https://jobright.ai/jobs/info/68d62d5f4736ff202fdd04dc?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Sep 25 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68de2fa544d32141e0bfdc65?utm_campaign=1053&utm_source=git)** | Brea, CA | On Site | Sep 25 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68de480fa125e75c422b331a?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
