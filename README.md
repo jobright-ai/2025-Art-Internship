@@ -107,7 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/68ddb8c4a125e75c422ae93a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | **[SANDMARC](https://www.sandmarc.com/)** | **[Filmmaker / Cinematographer Intern (Paid)](https://jobright.ai/jobs/info/68ddca0b44d32141e0bfac2f?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Oct 01 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Spring 2026](https://jobright.ai/jobs/info/68dda9a2ddc10244dd682bb7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
-| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
+| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
