@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2026 Summer News Internship – Digital Editor](https://jobright.ai/jobs/info/68e008e21852e62f007e6b29?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 03 |
+| **[TGR](http://www.thegarnettereport.com)** | **[Fall Internship](https://jobright.ai/jobs/info/68e004fbf758fe1f97e48c75?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Oct 03 |
+| **[4imprint](http://investors.4imprint.com/)** | **[Videographer Intern](https://jobright.ai/jobs/info/68e00352f758fe1f97e48a53?utm_campaign=1053&utm_source=git)** | Oshkosh, WI | On Site | Oct 03 |
+| **[SQO Marketing](https://sqo.marketing/)** | **[Post Production Editor](https://jobright.ai/jobs/info/68e00334f758fe1f97e48a37?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 03 |
+| **[Anthem Nation](anthemnation.co)** | **[Video Editor](https://jobright.ai/jobs/info/68e0016eb99ec3563b0caf2f?utm_campaign=1053&utm_source=git)** | Wyoming, United States | On Site | Oct 03 |
+| **[American Antiquarian Society](https://www.americanantiquarian.org/)** | **[Seiler Library Internship (Spring 2026, 10 weeks)](https://jobright.ai/jobs/info/68dff0ca1852e62f007e5d6d?utm_campaign=1053&utm_source=git)** | Worcester, MA | On Site | Oct 03 |
 | **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Golf and Grounds Intern, 2026 Summer Season](https://jobright.ai/jobs/info/68dfefb61852e62f007e5c59?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 03 |
 | **[Glass Entertainment Group](https://www.glassentertainmentgroup.com/)** | **[Spring Production Internship](https://jobright.ai/jobs/info/68dfe9c5f758fe1f97e47bb2?utm_campaign=1053&utm_source=git)** | United States | Hybrid | Oct 03 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2026 Summer News Internship – Digital Editor](https://jobright.ai/jobs/info/68dfdec8b99ec3563b0c9af2?utm_campaign=1053&utm_source=git)** | Arlington - 1801 S Bell (INDG) | On Site | Oct 03 |
@@ -101,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Video Production Associate - Summer 2026 Intern](https://jobright.ai/jobs/info/68ddeca309bda65a4b624aca?utm_campaign=1053&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | Hybrid | Oct 01 |
 | ↳ | **[Video Production Associate - Summer 2026 Intern](https://jobright.ai/jobs/info/68dde91609bda65a4b62494e?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 01 |
 | **[Princess Cruises](http://www.princess.com)** | **[Video Production Associate - Summer 2026 Intern](https://jobright.ai/jobs/info/68dde69ca125e75c422afaeb?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 01 |
-| **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Intern, Philadelphia Flyers and Wings](https://jobright.ai/jobs/info/68dde1baddc10244dd68451b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
-| ↳ | **[Game Presentation Video & Production Intern](https://jobright.ai/jobs/info/68dde1f044d32141e0bfb6fd?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Video & Production Intern](https://jobright.ai/jobs/info/68dde1f044d32141e0bfb6fd?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
+| ↳ | **[Game Presentation Intern, Philadelphia Flyers and Wings](https://jobright.ai/jobs/info/68dde1baddc10244dd68451b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
 | **[MEmusic.](http://www.memusic.group)** | **[MEmusic.internships fall 2025/spring 2026](https://jobright.ai/jobs/info/68ddd085d624072d9ab04d03?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 01 |
 | **[Averill Hospitality](https://averillhospitality.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68de550c44d32141e0bff88a?utm_campaign=1053&utm_source=git)** | Whitefish, MT | On Site | Oct 01 |
 | **[BINDER PARK ZOO](https://binderparkzoo.org)** | **[Animal Care Intern (Winter)](https://jobright.ai/jobs/info/68dec54d09bda65a4b62d7ef?utm_campaign=1053&utm_source=git)** | Battle Creek, MI | On Site | Oct 01 |
@@ -113,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68ddad09a125e75c422ae194?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 01 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Spring 2026](https://jobright.ai/jobs/info/68dda9a2ddc10244dd682bb7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | **[My Rental Spot](https://myrentalspot.com)** | **[Video Content Intern – TikTok & YouTube Shorts](https://jobright.ai/jobs/info/68dda071ddc10244dd68242d?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Oct 01 |
 | **[Flourish Coworking Space](https://www.flourishcoworking.com/)** | **[Flourish Coworking Space // Video and Podcast Editing & Production Internship](https://jobright.ai/jobs/info/68dd9bb144d32141e0bf9021?utm_campaign=1053&utm_source=git)** | West Chester, PA | Hybrid | Oct 01 |
@@ -133,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Features Casting Intern, SPA – Fall 2025](https://jobright.ai/jobs/info/68dd86a644d32141e0bf78bb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dd83e144d32141e0bf7835?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dd838da125e75c422ab7f3?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Oct 01 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dd8382a125e75c422ab7c5?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Oct 01 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dd836d44d32141e0bf761f?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Oct 01 |
 | **[Aptiv](http://www.aptiv.com)** | **[Video Intern](https://jobright.ai/jobs/info/68dd7af1a125e75c422ab18d?utm_campaign=1053&utm_source=git)** | Troy, MI - USA | On Site | Oct 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dd7ad7a125e75c422ab120?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Newsroom Intern, Spring 2026](https://jobright.ai/jobs/info/68dd7a9a44d32141e0bf6f1b?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Oct 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plunge App](https://www.plungeapp.app/)** | **[Intern for podcast](https://jobright.ai/jobs/info/68de77fba125e75c422b4607?utm_campaign=1053&utm_source=git)** | Camas, WA | On Site | Sep 30 |
 | **[Draper University](https://www.draperuniversity.com/)** | **[Media Fellowship (Writing)](https://jobright.ai/jobs/info/68dc7838ddc10244dd675aaa?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | Remote | Sep 30 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Podcasts - Marketplace](https://jobright.ai/jobs/info/68dda451ddc10244dd6826de?utm_campaign=1053&utm_source=git)** | Buffalo-Niagara Area | On Site | Sep 30 |
-| ↳ | **[Intern, Newsroom - Marketplace](https://jobright.ai/jobs/info/68dda4bfddc10244dd68280b?utm_campaign=1053&utm_source=git)** | New York Mills, MN | Remote | Sep 30 |
-| ↳ | **[Intern, News - MPR News Moorhead](https://jobright.ai/jobs/info/68dda53c44d32141e0bf9d0f?utm_campaign=1053&utm_source=git)** | Moorhead, MN | On Site | Sep 30 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Video Producer, Product Knowledge, North America Sales Operations (Winter/Spring 2026)](https://jobright.ai/jobs/info/68dc6ac9accfd24b67e55393?utm_campaign=1053&utm_source=git)** | Fremont, CA | On Site | Sep 30 |
-| **[The Medica Zone](https://www.themedicazone.info)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68dc6a9caccfd24b67e55329?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 30 |
-| **[The Little Nell](https://www.thelittlenell.com)** | **[Culinary/Pastry Externship - The Little Nell - Summer 2026](https://jobright.ai/jobs/info/68dc5a77a125e75c4229fea3?utm_campaign=1053&utm_source=git)** | Aspen, CO | On Site | Sep 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, Sports](https://jobright.ai/jobs/info/68dc556aaccfd24b67e5463f?utm_campaign=1053&utm_source=git)** | Lafayette, LA | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
