@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern (Spring Semester)- Loews Atlanta](https://jobright.ai/jobs/info/68df5d196be63b6ec996f304?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
+| **[Carnival Corporation](http://carnivalcorp.com)** | **[Video Production Associate - Summer 2026 Intern](https://jobright.ai/jobs/info/68df507bfe896042b0b79688?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Oct 02 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - The Bradenton Herald](https://jobright.ai/jobs/info/68df2da7fe896042b0b77825?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Oct 02 |
 | ↳ | **[News Intern - Miami Herald/El Nuevo Herald](https://jobright.ai/jobs/info/68df2ca06be63b6ec996ccdc?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Oct 02 |
 | ↳ | **[News Intern - Sun Herald](https://jobright.ai/jobs/info/68df2c7a5ab4977c2e9513ae?utm_campaign=1053&utm_source=git)** | Biloxi, MS | On Site | Oct 02 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2026 Summer News Internship: Graphics/Data Visualization Journalist](https://jobright.ai/jobs/info/68deb37744d32141e0c01a9a?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Sports News Intern, Spring 2026](https://jobright.ai/jobs/info/68deaca909bda65a4b62ca8c?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Oct 02 |
 | ↳ | **[ABC Owned TV Stations Content Intern, Spring 2026](https://jobright.ai/jobs/info/68deac17a125e75c422b5913?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Oct 02 |
-| **[Democratic Association of Secretaries of State](https://demsofstate.org/)** | **[Video Editing & Digital Communications Intern](https://jobright.ai/jobs/info/68df009809bda65a4b62f908?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 02 |
 | **[The Social Agency](http://Thesocialagency.dk)** | **[Content Assistant Intern – Fall 2025](https://jobright.ai/jobs/info/68de987344d32141e0c00eb2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 02 |
 | **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[2026 Culinary Intern/Extern](https://jobright.ai/jobs/info/68de979809bda65a4b62bb2e?utm_campaign=1053&utm_source=git)** | Isle of Palms, SC | On Site | Oct 02 |
 | **[Wild Dunes Resort](https://www.hyatt.com/destination-by-hyatt/wilddunes-charleston-island-resort)** | **[Culinary Intern/Extern](https://jobright.ai/jobs/info/68de905aa125e75c422b4fdd?utm_campaign=1053&utm_source=git)** | Isle of Palms, SC | On Site | Oct 02 |
@@ -94,18 +95,18 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Video & Production Intern](https://jobright.ai/jobs/info/68dde1f044d32141e0bfb6fd?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
 | ↳ | **[Game Presentation Intern, Philadelphia Flyers and Wings](https://jobright.ai/jobs/info/68dde1baddc10244dd68451b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
 | **[MEmusic.](http://www.memusic.group)** | **[MEmusic.internships fall 2025/spring 2026](https://jobright.ai/jobs/info/68ddd085d624072d9ab04d03?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 01 |
-| **[SANDMARC](https://www.sandmarc.com/)** | **[Filmmaker / Cinematographer Intern (Paid)](https://jobright.ai/jobs/info/68ddca0b44d32141e0bfac2f?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Oct 01 |
 | **[Averill Hospitality](https://averillhospitality.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68de550c44d32141e0bff88a?utm_campaign=1053&utm_source=git)** | Whitefish, MT | On Site | Oct 01 |
 | **[BINDER PARK ZOO](https://binderparkzoo.org)** | **[Animal Care Intern (Winter)](https://jobright.ai/jobs/info/68dec54d09bda65a4b62d7ef?utm_campaign=1053&utm_source=git)** | Battle Creek, MI | On Site | Oct 01 |
 | **[Insomnia Visuals](www.insomniavisuals.com)** | **[Content Production & Social Media Intern](https://jobright.ai/jobs/info/68ddc4dca125e75c422aecc3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/68ddbcb8d624072d9ab04b0b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | ↳ | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/68ddb8c4a125e75c422ae93a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 01 |
-| **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68ddad09a125e75c422ae194?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 01 |
+| **[SANDMARC](https://www.sandmarc.com/)** | **[Filmmaker / Cinematographer Intern (Paid)](https://jobright.ai/jobs/info/68ddca0b44d32141e0bfac2f?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Oct 01 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Spring 2026](https://jobright.ai/jobs/info/68dda9a2ddc10244dd682bb7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
-| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
+| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
+| **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68dda3f6ddc10244dd6825e8?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 01 |
 | **[My Rental Spot](https://myrentalspot.com)** | **[Video Content Intern – TikTok & YouTube Shorts](https://jobright.ai/jobs/info/68dda071ddc10244dd68242d?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Oct 01 |
 | **[Flourish Coworking Space](https://www.flourishcoworking.com/)** | **[Flourish Coworking Space // Video and Podcast Editing & Production Internship](https://jobright.ai/jobs/info/68dd9bb144d32141e0bf9021?utm_campaign=1053&utm_source=git)** | West Chester, PA | Hybrid | Oct 01 |
 | **[SIFF](https://www.siff.fr)** | **[NFFTY 2025/2026 Programming Internship](https://jobright.ai/jobs/info/68dd925dddc10244dd681014?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Oct 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Baking and Pastry Intern](https://jobright.ai/jobs/info/68dd1515a125e75c422a7e52?utm_campaign=1053&utm_source=git)** | Walland, TN, USA | On Site | Sep 30 |
 | **[Haute Living](http://www.hauteliving.com)** | **[Haute Living Intern](https://jobright.ai/jobs/info/68dc25cdd6470e72cf4d90ca?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Sep 30 |
 | **[California Appellate Project](http://www.capsf.org)** | **[Summer Intern - 2026](https://jobright.ai/jobs/info/68dc6c16accfd24b67e5543c?utm_campaign=1053&utm_source=git)** | San Francisco, California, United States | Hybrid | Sep 30 |
-| **[OSI Group](http://www.osigroup.com/)** | **[Corporate Culinary Internship 2026](https://jobright.ai/jobs/info/68dc12386f6c5c3fadf36470?utm_campaign=1053&utm_source=git)** | Aurora, IL | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
