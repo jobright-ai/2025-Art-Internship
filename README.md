@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AION ROBOTICS CORPORATION](https://www.aionrobotics.com)** | **[Content Creator & Media Intern](https://jobright.ai/jobs/info/68dfb159fe896042b0b7d3e5?utm_campaign=1053&utm_source=git)** | Arvada, CO | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Development Intern, Spring 2026](https://jobright.ai/jobs/info/68df7ed66be63b6ec9970992?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
 | ↳ | **[FX Production & Special Projects Intern, Spring 2026](https://jobright.ai/jobs/info/68df7ecf6be63b6ec9970978?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
 | ↳ | **[Special Events Intern](https://jobright.ai/jobs/info/68df7e745ab4977c2e9551d2?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 03 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Styling Intern](https://jobright.ai/jobs/info/68df21336be63b6ec996c5fc?utm_campaign=1053&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News DC Bureau Intern, Spring 2026](https://jobright.ai/jobs/info/68df20d0fe896042b0b76f45?utm_campaign=1053&utm_source=git)** | Washington, DC, USA | On Site | Oct 02 |
 | **[Door County Human Resources](http://www.co.door.wi.gov/)** | **[Museum Exhibit Assistant - Intern](https://jobright.ai/jobs/info/68df204d5ab4977c2e9509b2?utm_campaign=1053&utm_source=git)** | Sturgeon Bay, WI | On Site | Oct 02 |
-| **[Luvira Consulting](luviraconsulting.com)** | **[Content Creator Intern (Remote)](https://jobright.ai/jobs/info/68df17be5ab4977c2e94f9bf?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Pal AI](https://www.linkedin.com/company/107991267)** | **[Content Creator / Producer Intern](https://jobright.ai/jobs/info/68df065efe896042b0b7425c?utm_campaign=1053&utm_source=git)** | New City, NY | Remote | Oct 02 |
 | **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Hospitality & Events Intern](https://jobright.ai/jobs/info/68dedc5da125e75c422b76ed?utm_campaign=1053&utm_source=git)** | Jackson, MI | On Site | Oct 02 |
 | **[Greater Public](https://www.greaterpublic.org)** | **[WUNC Youth Reporting Interns](https://jobright.ai/jobs/info/68df100b5ab4977c2e94e12b?utm_campaign=1053&utm_source=git)** | Chapel Hill, NC | Hybrid | Oct 02 |
@@ -106,12 +106,12 @@ For a complete list, click the following sortable link below:
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/68ddbcb8d624072d9ab04b0b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | ↳ | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/68ddb8c4a125e75c422ae93a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | **[SANDMARC](https://www.sandmarc.com/)** | **[Filmmaker / Cinematographer Intern (Paid)](https://jobright.ai/jobs/info/68ddca0b44d32141e0bfac2f?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Oct 01 |
+| **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68ddad09a125e75c422ae194?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 01 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Spring 2026](https://jobright.ai/jobs/info/68dda9a2ddc10244dd682bb7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
-| **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68dda3f6ddc10244dd6825e8?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 01 |
 | **[My Rental Spot](https://myrentalspot.com)** | **[Video Content Intern – TikTok & YouTube Shorts](https://jobright.ai/jobs/info/68dda071ddc10244dd68242d?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Oct 01 |
 | **[Flourish Coworking Space](https://www.flourishcoworking.com/)** | **[Flourish Coworking Space // Video and Podcast Editing & Production Internship](https://jobright.ai/jobs/info/68dd9bb144d32141e0bf9021?utm_campaign=1053&utm_source=git)** | West Chester, PA | Hybrid | Oct 01 |
 | **[SIFF](https://www.siff.fr)** | **[NFFTY 2025/2026 Programming Internship](https://jobright.ai/jobs/info/68dd925dddc10244dd681014?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Oct 01 |
@@ -129,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Features Casting Intern, SPA – Fall 2025](https://jobright.ai/jobs/info/68dd86a644d32141e0bf78bb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dd83e144d32141e0bf7835?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dd838da125e75c422ab7f3?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Oct 01 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dd836d44d32141e0bf761f?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Oct 01 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dd8382a125e75c422ab7c5?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Oct 01 |
 | **[Aptiv](http://www.aptiv.com)** | **[Video Intern](https://jobright.ai/jobs/info/68dd7af1a125e75c422ab18d?utm_campaign=1053&utm_source=git)** | Troy, MI - USA | On Site | Oct 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dd7ad7a125e75c422ab120?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Oct 01 |
 | ↳ | **[WAVY Unpaid Newsroom Intern, Spring 2026](https://jobright.ai/jobs/info/68dd7a9a44d32141e0bf6f1b?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Oct 01 |
