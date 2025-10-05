@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[AION ROBOTICS CORPORATION](https://www.aionrobotics.com)** | **[Content Creator & Media Intern](https://jobright.ai/jobs/info/68dfb159fe896042b0b7d3e5?utm_campaign=1053&utm_source=git)** | Arvada, CO | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Production & Special Projects Intern, Spring 2026](https://jobright.ai/jobs/info/68df7ecf6be63b6ec9970978?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
 | ↳ | **[20th Television Development Intern, Spring 2026](https://jobright.ai/jobs/info/68df7ed66be63b6ec9970992?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
-| ↳ | **[Disney Television Animation Development & Current Series Intern, Spring 2026](https://jobright.ai/jobs/info/68df7e65fe896042b0b7b64e?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 03 |
 | ↳ | **[Special Events Intern](https://jobright.ai/jobs/info/68df7e745ab4977c2e9551d2?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 03 |
+| ↳ | **[Disney Television Animation Development & Current Series Intern, Spring 2026](https://jobright.ai/jobs/info/68df7e65fe896042b0b7b64e?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 03 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Video Production Associate - Summer 2026 Intern](https://jobright.ai/jobs/info/68df507bfe896042b0b79688?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Oct 02 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - The Idaho Statesman](https://jobright.ai/jobs/info/68df683a5ab4977c2e9544a3?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Oct 02 |
 | ↳ | **[News Intern - Sun Herald](https://jobright.ai/jobs/info/68df2c7a5ab4977c2e9513ae?utm_campaign=1053&utm_source=git)** | Biloxi, MS | On Site | Oct 02 |
