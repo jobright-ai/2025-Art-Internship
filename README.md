@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Junior Original Programming Intern, Spring 2026](https://jobright.ai/jobs/info/68e1ade7b99ec3563b0d7de9?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 04 |
 | ↳ | **[20th Television Casting Intern, Spring 2026](https://jobright.ai/jobs/info/68e1ac73f758fe1f97e55bed?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 04 |
 | ↳ | **[KFSN-TV (ABC30) Newsroom Intern, Spring 2026](https://jobright.ai/jobs/info/68e1ac22f758fe1f97e55bce?utm_campaign=1053&utm_source=git)** | Fresno, CA | On Site | Oct 04 |
-| **[Crawford Models](https://www.crawfordmodels.com)** | **[FALL MODELING AGENCY INTERN](https://jobright.ai/jobs/info/68e1a7f6b99ec3563b0d7d90?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 04 |
 | **[The Door - A Center of Alternatives](https://door.org/)** | **[Museum Exhibit Assistant - Intern](https://jobright.ai/jobs/info/68e1579cb99ec3563b0d71de?utm_campaign=1053&utm_source=git)** | Sturgeon Bay, WI | On Site | Oct 04 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Internship at Atlanta Apparel](https://jobright.ai/jobs/info/68e14e5b1852e62f007f278e?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Oct 04 |
 | **[Licensed to Glow](https://www.licensedtoglow.com/)** | **[UGC Intern](https://jobright.ai/jobs/info/68e14980f758fe1f97e54dd7?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 04 |
@@ -110,9 +109,9 @@ For a complete list, click the following sortable link below:
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[2026 Summer News Internship – Digital Editor](https://jobright.ai/jobs/info/68dfdec8b99ec3563b0c9af2?utm_campaign=1053&utm_source=git)** | Arlington - 1801 S Bell (INDG) | On Site | Oct 03 |
 | **[Notre Dame Data Science](http://datascience@nd.edu)** | **[FaithND Audio Coordinator / Temporary](https://jobright.ai/jobs/info/68e200891852e62f007f4efa?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | Hybrid | Oct 03 |
 | **[AION ROBOTICS CORPORATION](https://www.aionrobotics.com)** | **[Content Creator & Media Intern](https://jobright.ai/jobs/info/68dfb159fe896042b0b7d3e5?utm_campaign=1053&utm_source=git)** | Arvada, CO | On Site | Oct 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Production & Special Projects Intern, Spring 2026](https://jobright.ai/jobs/info/68df7ecf6be63b6ec9970978?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/68df7e745ab4977c2e9551d2?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 03 |
+| ↳ | **[FX Production & Special Projects Intern, Spring 2026](https://jobright.ai/jobs/info/68df7ecf6be63b6ec9970978?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
 | ↳ | **[20th Television Development Intern, Spring 2026](https://jobright.ai/jobs/info/68df7ed66be63b6ec9970992?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
-| ↳ | **[Special Events Intern](https://jobright.ai/jobs/info/68df7e745ab4977c2e9551d2?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 03 |
 | ↳ | **[Disney Television Animation Development & Current Series Intern, Spring 2026](https://jobright.ai/jobs/info/68df7e65fe896042b0b7b64e?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 03 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Video Production Associate - Summer 2026 Intern](https://jobright.ai/jobs/info/68df507bfe896042b0b79688?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Oct 02 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - The Idaho Statesman](https://jobright.ai/jobs/info/68df683a5ab4977c2e9544a3?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Oct 02 |
@@ -147,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Video Production Associate - Summer 2026 Intern](https://jobright.ai/jobs/info/68ddeca309bda65a4b624aca?utm_campaign=1053&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | Hybrid | Oct 01 |
 | ↳ | **[Video Production Associate - Summer 2026 Intern](https://jobright.ai/jobs/info/68dde91609bda65a4b62494e?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 01 |
 | **[Princess Cruises](http://www.princess.com)** | **[Video Production Associate - Summer 2026 Intern](https://jobright.ai/jobs/info/68dde69ca125e75c422afaeb?utm_campaign=1053&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 01 |
-| **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Intern, Philadelphia Flyers and Wings](https://jobright.ai/jobs/info/68dde1baddc10244dd68451b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
-| ↳ | **[Game Presentation Video & Production Intern](https://jobright.ai/jobs/info/68dde1f044d32141e0bfb6fd?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Video & Production Intern](https://jobright.ai/jobs/info/68dde1f044d32141e0bfb6fd?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
+| ↳ | **[Game Presentation Intern, Philadelphia Flyers and Wings](https://jobright.ai/jobs/info/68dde1baddc10244dd68451b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
 | **[MEmusic.](http://www.memusic.group)** | **[MEmusic.internships fall 2025/spring 2026](https://jobright.ai/jobs/info/68ddd085d624072d9ab04d03?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 01 |
 | **[Averill Hospitality](https://averillhospitality.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68de550c44d32141e0bff88a?utm_campaign=1053&utm_source=git)** | Whitefish, MT | On Site | Oct 01 |
 | **[BINDER PARK ZOO](https://binderparkzoo.org)** | **[Animal Care Intern (Winter)](https://jobright.ai/jobs/info/68dec54d09bda65a4b62d7ef?utm_campaign=1053&utm_source=git)** | Battle Creek, MI | On Site | Oct 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/68ddb8c4a125e75c422ae93a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | **[Salt Lake County](https://www.slco.org)** | **[Production Intern](https://jobright.ai/jobs/info/68ddad09a125e75c422ae194?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 01 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Spring 2026](https://jobright.ai/jobs/info/68dda9a2ddc10244dd682bb7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
+| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
