@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[America & Beyond](https://www.americaandbeyond.us)** | **[Fall 2025 Content Creator Intern](https://jobright.ai/jobs/info/68e36240b99ec3563b0df65f?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Grind By Faith Music Group](http://GrindByFaith.org)** | **[Artist Scout](https://jobright.ai/jobs/info/68e2f317f758fe1f97e5b124?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 05 |
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[2D Animator Intern](https://jobright.ai/jobs/info/68e2f2d5f758fe1f97e5b105?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Oct 05 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Producer](https://jobright.ai/jobs/info/68e2b1d81852e62f007f837e?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 05 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Disney Junior Original Programming Intern, Spring 2026](https://jobright.ai/jobs/info/68e01b87b99ec3563b0cbf90?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
 | **[Middle Atlantic PGA](https://mapga.com/)** | **[Junior Golf Tournament Operations Internship](https://jobright.ai/jobs/info/68e017b1b99ec3563b0cbb38?utm_campaign=1053&utm_source=git)** | Stafford, VA | On Site | Oct 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Communications Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/68e0177b1852e62f007e70a2?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 03 |
-| **[It Came From A Studio LLC](http://www.itcamefromastudio.com)** | **[Freelance Video Editor Internship](https://jobright.ai/jobs/info/68e11bb31852e62f007f15f1?utm_campaign=1053&utm_source=git)** | Bethlehem, GA | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Production & Special Projects Intern, Spring 2026](https://jobright.ai/jobs/info/68e012f01852e62f007e7006?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
 | ↳ | **[KABC-TV (ABC7) Sports News Intern, Spring 2026](https://jobright.ai/jobs/info/68e012821852e62f007e6f6c?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 03 |
 | ↳ | **[ABC Owned TV Stations Content Intern, Spring 2026](https://jobright.ai/jobs/info/68e010eeb99ec3563b0cb785?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 03 |
@@ -113,9 +113,10 @@ For a complete list, click the following sortable link below:
 | **[Notre Dame Data Science](http://datascience@nd.edu)** | **[FaithND Audio Coordinator / Temporary](https://jobright.ai/jobs/info/68e200891852e62f007f4efa?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | Hybrid | Oct 03 |
 | **[AION ROBOTICS CORPORATION](https://www.aionrobotics.com)** | **[Content Creator & Media Intern](https://jobright.ai/jobs/info/68dfb159fe896042b0b7d3e5?utm_campaign=1053&utm_source=git)** | Arvada, CO | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/68df7e745ab4977c2e9551d2?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 03 |
+| ↳ | **[Disney Television Animation Development & Current Series Intern, Spring 2026](https://jobright.ai/jobs/info/68df7e65fe896042b0b7b64e?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 03 |
 | ↳ | **[FX Production & Special Projects Intern, Spring 2026](https://jobright.ai/jobs/info/68df7ecf6be63b6ec9970978?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
 | ↳ | **[20th Television Development Intern, Spring 2026](https://jobright.ai/jobs/info/68df7ed66be63b6ec9970992?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
-| ↳ | **[Disney Television Animation Development & Current Series Intern, Spring 2026](https://jobright.ai/jobs/info/68df7e65fe896042b0b7b64e?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 03 |
+| **[Door County Human Resources](http://www.co.door.wi.gov/)** | **[Museum Exhibit Assistant - Intern](https://jobright.ai/jobs/info/68e370e8f758fe1f97e5e334?utm_campaign=1053&utm_source=git)** | Sturgeon Bay, WI | On Site | Oct 02 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Video Production Associate - Summer 2026 Intern](https://jobright.ai/jobs/info/68df507bfe896042b0b79688?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Oct 02 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - The Idaho Statesman](https://jobright.ai/jobs/info/68df683a5ab4977c2e9544a3?utm_campaign=1053&utm_source=git)** | Boise, ID | On Site | Oct 02 |
 | ↳ | **[News Intern - Sun Herald](https://jobright.ai/jobs/info/68df2c7a5ab4977c2e9513ae?utm_campaign=1053&utm_source=git)** | Biloxi, MS | On Site | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Insomnia Visuals](www.insomniavisuals.com)** | **[Content Production & Social Media Intern](https://jobright.ai/jobs/info/68ddc4dca125e75c422aecc3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | **[PURPLE](https://purplepr.com)** | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/68ddbcb8d624072d9ab04b0b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | ↳ | **[Fashion Intern - Spring](https://jobright.ai/jobs/info/68ddb8c4a125e75c422ae93a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 01 |
-| **[SANDMARC](https://www.sandmarc.com/)** | **[Filmmaker / Cinematographer Intern (Paid)](https://jobright.ai/jobs/info/68ddca0b44d32141e0bfac2f?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
