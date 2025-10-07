@@ -76,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Lighting Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e470e9b99ec3563b0ea736?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CA 91201, USA | On Site | Oct 06 |
 | **[ODK Media](https://www.odkmedia.net/)** | **[Content Distribution Unpaid Intern (213 P&M)](https://jobright.ai/jobs/info/68e46dd41852e62f00805ebe?utm_campaign=1053&utm_source=git)** | Fullerton, CA | On Site | Oct 06 |
 | **[Sum Pictures](https://www.sum.pictures/)** | **[Intern](https://jobright.ai/jobs/info/68e46dc31852e62f00805ea6?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Oct 06 |
+| **[Blumenthal Arts](https://www.blumenthalarts.org/)** | **[Internship Program](https://jobright.ai/jobs/info/68e4f7c9b99ec3563b0ef903?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Oct 06 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68e44e96f758fe1f97e66def?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Oct 06 |
 | **[Springer Nature](https://group.springernature.com/)** | **[News Intern, Scientific American](https://jobright.ai/jobs/info/68e44759b99ec3563b0e86f2?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Oct 06 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68e441e51852e62f00803c2c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Disney Junior Original Programming Intern, Spring 2026](https://jobright.ai/jobs/info/68e01b87b99ec3563b0cbf90?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
 | **[Middle Atlantic PGA](https://mapga.com/)** | **[Junior Golf Tournament Operations Internship](https://jobright.ai/jobs/info/68e017b1b99ec3563b0cbb38?utm_campaign=1053&utm_source=git)** | Stafford, VA | On Site | Oct 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Communications Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/68e0177b1852e62f007e70a2?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Production & Special Projects Intern, Spring 2026](https://jobright.ai/jobs/info/68e012f01852e62f007e7006?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
