@@ -57,15 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[CFX Production Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e58682ae2b894b1d71073c?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 07 |
+| ↳ | **[Technical Direction Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e582bcb99ec3563b0f5be6?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 07 |
+| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Spring Internship -  Editorial, Harper Voyager (NYC)](https://jobright.ai/jobs/info/68e5816f1852e62f00811336?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Oct 07 |
+| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo Area de la Bahia 48 - News Internship – Academic Year '25-'26](https://jobright.ai/jobs/info/68e57f59b99ec3563b0f570a?utm_campaign=1053&utm_source=git)** | San Jose, CA | Hybrid | Oct 07 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (Spring 2026).](https://jobright.ai/jobs/info/68e57c93ae2b894b1d70fcba?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Oct 07 |
+| ↳ | **[Sports Journalism Intern (Remote) Spring 2026](https://jobright.ai/jobs/info/68e57c2e1852e62f00810977?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Oct 07 |
+| **[The Patel Comics](https://thepatelcomics.com/)** | **[Animator Intern](https://jobright.ai/jobs/info/68e5715e1852e62f00810191?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 07 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[CFX Production Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e56c651852e62f0080fcb5?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Oct 07 |
 | ↳ | **[Hair Global Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e56c54ae2b894b1d70ec8f?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Oct 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Content Operation Intern, Bristol, Spring 2026](https://jobright.ai/jobs/info/68e56b00b99ec3563b0f4345?utm_campaign=1053&utm_source=git)** | Bristol, CT, USA | On Site | Oct 07 |
+| **[The City of Frederick](http://www.cityoffrederickmd.gov)** | **[Shared Futures Fellowship](https://jobright.ai/jobs/info/68e58877ae2b894b1d710a92?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Oct 07 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/68e55798b99ec3563b0f3083?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 07 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e548c5b99ec3563b0f252b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e547a8b99ec3563b0f2329?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
 | ↳ | **[2026 Culinary Intern: Spring](https://jobright.ai/jobs/info/68e546afae2b894b1d70caa9?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
 | ↳ | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e5465d1852e62f0080d9e8?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2026 Packaging Internship](https://jobright.ai/jobs/info/68e562baae2b894b1d70e2b7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | **[Tampa Bay Arts & Education Network](Watch.tbae.net)** | **[Media Arts Intern](https://jobright.ai/jobs/info/68e54061b99ec3563b0f1cff?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 07 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator](https://jobright.ai/jobs/info/68e56f63ae2b894b1d70edd6?utm_campaign=1053&utm_source=git)** | Portsmouth, NH | On Site | Oct 07 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[K12 Zone Content & Event Intern, Part-Time](https://jobright.ai/jobs/info/68e511ebb99ec3563b0efede?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 07 |
 | **[Sty1e Studios INC](https://www.sty1estudios.com/)** | **[3D character/creature animator/rigger Internship (3 months)](https://jobright.ai/jobs/info/68e4bbf5b99ec3563b0ed4d7?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 07 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68e4ad111852e62f0080864b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Oct 06 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[KIP Spring 2026 - Video Production Intern - Reason Foundation](https://jobright.ai/jobs/info/68e05236f758fe1f97e4c50c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 03 |
 | ↳ | **[KIP Spring 2026 - Communications Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/68e06a9c1852e62f007eaa76?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Casting Intern, Spring 2026](https://jobright.ai/jobs/info/68e033331852e62f007e85fd?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
-| **[Flint Firebirds](http://www.flintfirebirds.com)** | **[Game Day Operations Internship (2025-2026 Season)](https://jobright.ai/jobs/info/68e02ef61852e62f007e8525?utm_campaign=1053&utm_source=git)** | Flint, MI | On Site | Oct 03 |
-| **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Fort Worth Star-Telegram](https://jobright.ai/jobs/info/68e02d91b99ec3563b0ccddf?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Oct 03 |
-| ↳ | **[News Intern - Macon Telegraph](https://jobright.ai/jobs/info/68e02ce2f758fe1f97e4a7d9?utm_campaign=1053&utm_source=git)** | Macon, GA | On Site | Oct 03 |
-| ↳ | **[News Intern - Columbus Ledger-Enquirer](https://jobright.ai/jobs/info/68e029f61852e62f007e82c9?utm_campaign=1053&utm_source=git)** | Columbus, GA | On Site | Oct 03 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - KMOV](https://jobright.ai/jobs/info/68e029951852e62f007e8265?utm_campaign=1053&utm_source=git)** | Maryland Heights, MO | On Site | Oct 03 |
-| **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Charlotte Observer](https://jobright.ai/jobs/info/68e04048b99ec3563b0cdd49?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Oct 03 |
-| **[ESPN](http://espncareers.com)** | **[ESPN Programming Intern, Remote, Spring 2026](https://jobright.ai/jobs/info/68e01c57b99ec3563b0cc17b?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Oct 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KFSN-TV (ABC30) Newsroom Intern, Spring 2026](https://jobright.ai/jobs/info/68e01bdeb99ec3563b0cc0c5?utm_campaign=1053&utm_source=git)** | Fresno, CA, USA | On Site | Oct 03 |
-| ↳ | **[Disney Junior Original Programming Intern, Spring 2026](https://jobright.ai/jobs/info/68e01b87b99ec3563b0cbf90?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
