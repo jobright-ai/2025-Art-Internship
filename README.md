@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[K12 Zone Content & Event Intern, Part-Time](https://jobright.ai/jobs/info/68e511ebb99ec3563b0efede?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Video & Production Intern](https://jobright.ai/jobs/info/68e4bc46ae2b894b1d707fe5?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 07 |
 | **[Sty1e Studios INC](https://www.sty1estudios.com/)** | **[3D character/creature animator/rigger Internship (3 months)](https://jobright.ai/jobs/info/68e4bbf5b99ec3563b0ed4d7?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Intern, Philadelphia Flyers and Wings](https://jobright.ai/jobs/info/68e4b7f21852e62f00808c4b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 06 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Springer Nature](https://group.springernature.com/)** | **[Multimedia Intern, Scientific American](https://jobright.ai/jobs/info/68e438fd1852e62f00803338?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Oct 06 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - Garden State Plaza](https://jobright.ai/jobs/info/68e4383a1852e62f008031a2?utm_campaign=1053&utm_source=git)** | Paramus, NJ | On Site | Oct 06 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Feature Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e432ad1852e62f00802e6f?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 06 |
-| ↳ | **[Lighting Intern, DreamWorks Animation, Spring 2025](https://jobright.ai/jobs/info/68e431ff1852e62f00802d51?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 06 |
 | ↳ | **[Animation Production Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e4317db99ec3563b0e7566?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 06 |
 | ↳ | **[TV Development & Current Series Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e43121b99ec3563b0e74d2?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 06 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - For the Strength of Youth Writer/Editor](https://jobright.ai/jobs/info/68e42fe51852e62f00802999?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 06 |
@@ -111,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - MarketWatch Reporter Intern](https://jobright.ai/jobs/info/68e3fd5d1852e62f0080006c?utm_campaign=1053&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Oct 06 |
 | **[Wattpad](https://www.wattpad.com)** | **[[WEBTOON] Content Intern](https://jobright.ai/jobs/info/68e3f8efb99ec3563b0e43bf?utm_campaign=1053&utm_source=git)** | Los Angeles, California | Hybrid | Oct 06 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator- Intern- College Credit (copy)](https://jobright.ai/jobs/info/68e3f6a7f758fe1f97e62377?utm_campaign=1053&utm_source=git)** | New York | On Site | Oct 06 |
-| **[Landmark Educational Tours](https://LandmarkEducationalTours.com)** | **[Event Management Internship](https://jobright.ai/jobs/info/68e3ec7af758fe1f97e61b76?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 06 |
+| **[Landmark Educational Tours ](https://LandmarkEducationalTours.com)** | **[Event Management Internship](https://jobright.ai/jobs/info/68e3ec7af758fe1f97e61b76?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 06 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Patient Media and Broadcasting Intern](https://jobright.ai/jobs/info/68e3e994b99ec3563b0e3b2a?utm_campaign=1053&utm_source=git)** | Greater Philadelphia | On Site | Oct 06 |
 | **[Pierre Yovanovitch](https://www.pierreyovanovitch.com)** | **[Gallery Intern](https://jobright.ai/jobs/info/68e3e6071852e62f007ff152?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Student Intern - Podcast Representative](https://jobright.ai/jobs/info/68e3e5ad1852e62f007ff109?utm_campaign=1053&utm_source=git)** | Triangle Area | Remote | Oct 06 |
