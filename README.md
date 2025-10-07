@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e547a8b99ec3563b0f2329?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
+| ↳ | **[2026 Culinary Intern: Spring](https://jobright.ai/jobs/info/68e546afae2b894b1d70caa9?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
+| ↳ | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e5465d1852e62f0080d9e8?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
+| **[Tampa Bay Arts & Education Network](Watch.tbae.net)** | **[Media Arts Intern](https://jobright.ai/jobs/info/68e54061b99ec3563b0f1cff?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 07 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[K12 Zone Content & Event Intern, Part-Time](https://jobright.ai/jobs/info/68e511ebb99ec3563b0efede?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Video & Production Intern](https://jobright.ai/jobs/info/68e4bc46ae2b894b1d707fe5?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 07 |
 | **[Sty1e Studios INC](https://www.sty1estudios.com/)** | **[3D character/creature animator/rigger Internship (3 months)](https://jobright.ai/jobs/info/68e4bbf5b99ec3563b0ed4d7?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 07 |
@@ -77,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Lighting Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e470e9b99ec3563b0ea736?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CA 91201, USA | On Site | Oct 06 |
 | **[ODK Media](https://www.odkmedia.net/)** | **[Content Distribution Unpaid Intern (213 P&M)](https://jobright.ai/jobs/info/68e46dd41852e62f00805ebe?utm_campaign=1053&utm_source=git)** | Fullerton, CA | On Site | Oct 06 |
 | **[Sum Pictures](https://www.sum.pictures/)** | **[Intern](https://jobright.ai/jobs/info/68e46dc31852e62f00805ea6?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Oct 06 |
-| **[Blumenthal Arts](https://www.blumenthalarts.org/)** | **[Internship Program](https://jobright.ai/jobs/info/68e4f7c9b99ec3563b0ef903?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Oct 06 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68e44e96f758fe1f97e66def?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Oct 06 |
 | **[Springer Nature](https://group.springernature.com/)** | **[News Intern, Scientific American](https://jobright.ai/jobs/info/68e44759b99ec3563b0e86f2?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Oct 06 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68e441e51852e62f00803c2c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 06 |
@@ -100,7 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Lighting Intern, DreamWorks Animation, Spring 2025](https://jobright.ai/jobs/info/68e41aba1852e62f0080168c?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CA 91201, USA | On Site | Oct 06 |
 | ↳ | **[Technology Communications & Events Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e41a3c1852e62f00801548?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Oct 06 |
 | **[Bellevue Parfums](http://www.bellevueparfums.com/)** | **[TikTok Content Creator Intern](https://jobright.ai/jobs/info/68e43ab01852e62f0080360b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 06 |
-| **[Morgridge Institute for Research](https://morgridge.org)** | **[Student Science Writer](https://jobright.ai/jobs/info/68e433e6f758fe1f97e6565b?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Oct 06 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/68e414831852e62f0080119c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 06 |
 | ↳ | **[Paid Intern - For the Strength of Youth Writer/Editor](https://jobright.ai/jobs/info/68e412fef758fe1f97e634f2?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 06 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/68cc511616d00d2beeb1d4ae?utm_campaign=1053&utm_source=git)** | Norcross, GA | On Site | Oct 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ESPN](http://espncareers.com)** | **[ESPN Programming Intern, Remote, Spring 2026](https://jobright.ai/jobs/info/68e01c57b99ec3563b0cc17b?utm_campaign=1053&utm_source=git)** | Connecticut, United States | Remote | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KFSN-TV (ABC30) Newsroom Intern, Spring 2026](https://jobright.ai/jobs/info/68e01bdeb99ec3563b0cc0c5?utm_campaign=1053&utm_source=git)** | Fresno, CA, USA | On Site | Oct 03 |
 | ↳ | **[Disney Junior Original Programming Intern, Spring 2026](https://jobright.ai/jobs/info/68e01b87b99ec3563b0cbf90?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
-| **[Middle Atlantic PGA](https://mapga.com/)** | **[Junior Golf Tournament Operations Internship](https://jobright.ai/jobs/info/68e017b1b99ec3563b0cbb38?utm_campaign=1053&utm_source=git)** | Stafford, VA | On Site | Oct 03 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Communications Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/68e0177b1852e62f007e70a2?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
