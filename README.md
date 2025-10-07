@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Video & Production Intern](https://jobright.ai/jobs/info/68e4bc46ae2b894b1d707fe5?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 07 |
+| **[Sty1e Studios INC](https://www.sty1estudios.com/)** | **[3D character/creature animator/rigger Internship (3 months)](https://jobright.ai/jobs/info/68e4bbf5b99ec3563b0ed4d7?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 07 |
+| **[Comcast](https://corporate.comcast.com)** | **[Game Presentation Intern, Philadelphia Flyers and Wings](https://jobright.ai/jobs/info/68e4b7f21852e62f00808c4b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 06 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68e4ad111852e62f0080864b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Oct 06 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/68e49973ae2b894b1d706d6e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 06 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[News Intern, Scientific American](https://jobright.ai/jobs/info/68e4872e1852e62f00806cbd?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 06 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - For the Strength of Youth Writer/Editor](https://jobright.ai/jobs/info/68e48215b99ec3563b0eaf0c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 06 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Lighting Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e48208b99ec3563b0eaef2?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 06 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern- Liahona Writer/ Editor (Church Magazines)](https://jobright.ai/jobs/info/68e480811852e62f00806819?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 06 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[Multimedia Intern, Scientific American](https://jobright.ai/jobs/info/68e4803e1852e62f008067da?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 06 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/68e4b83e1852e62f00808cba?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 06 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Wealth & Investing Video Intern](https://jobright.ai/jobs/info/68e47d53f758fe1f97e68d61?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | ↳ | **[Summer 2026 Internship - Barron's Reporter Intern](https://jobright.ai/jobs/info/68e47cfab99ec3563b0ead62?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | ↳ | **[Summer 2026 Internship - MarketWatch Reporter Intern](https://jobright.ai/jobs/info/68e47bcdb99ec3563b0eac0d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 06 |
@@ -110,12 +115,10 @@ For a complete list, click the following sortable link below:
 | **[Pierre Yovanovitch](https://www.pierreyovanovitch.com)** | **[Gallery Intern](https://jobright.ai/jobs/info/68e3e6071852e62f007ff152?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Student Intern - Podcast Representative](https://jobright.ai/jobs/info/68e3e5ad1852e62f007ff109?utm_campaign=1053&utm_source=git)** | Triangle Area | Remote | Oct 06 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WFSB](https://jobright.ai/jobs/info/68e3c7a6b99ec3563b0e282c?utm_campaign=1053&utm_source=git)** | Rocky Hill, CT | On Site | Oct 06 |
-| **[America & Beyond](https://www.americaandbeyond.us)** | **[Fall 2025 Content Creator Intern](https://jobright.ai/jobs/info/68e36240b99ec3563b0df65f?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 05 |
 | **[SXSW](https://www.sxsw.com/pitch)** | **[(I) Production Intern](https://jobright.ai/jobs/info/68e44de61852e62f008047ed?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Oct 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Multimedia Producer Internship (Graduate or Undergraduate), NY](https://jobright.ai/jobs/info/68dd5c38ddc10244dd67ebf4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Producer](https://jobright.ai/jobs/info/68e2b1d81852e62f007f837e?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Multimedia Internship (Graduate or Undergraduate), DC](https://jobright.ai/jobs/info/68e24faf1852e62f007f7a1e?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 05 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68e4940e1852e62f00807917?utm_campaign=1053&utm_source=git)** | Brea, CA | On Site | Oct 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Junior Original Programming Intern, Spring 2026](https://jobright.ai/jobs/info/68e1ade7b99ec3563b0d7de9?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 04 |
 | ↳ | **[20th Television Casting Intern, Spring 2026](https://jobright.ai/jobs/info/68e1ac73f758fe1f97e55bed?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 04 |
 | ↳ | **[KFSN-TV (ABC30) Newsroom Intern, Spring 2026](https://jobright.ai/jobs/info/68e1ac22f758fe1f97e55bce?utm_campaign=1053&utm_source=git)** | Fresno, CA | On Site | Oct 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Production & Special Projects Intern, Spring 2026](https://jobright.ai/jobs/info/68e012f01852e62f007e7006?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
 | ↳ | **[KABC-TV (ABC7) Sports News Intern, Spring 2026](https://jobright.ai/jobs/info/68e012821852e62f007e6f6c?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 03 |
 | ↳ | **[ABC Owned TV Stations Content Intern, Spring 2026](https://jobright.ai/jobs/info/68e010eeb99ec3563b0cb785?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 03 |
-| ↳ | **[Disney Television Animation Development & Current Series Intern, Spring 2026](https://jobright.ai/jobs/info/68e01046b99ec3563b0cb70a?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 03 |
-| ↳ | **[20th Television Development Intern, Spring 2026](https://jobright.ai/jobs/info/68e0101fb99ec3563b0cb6eb?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
-| ↳ | **[ABC News DC Bureau Intern, Spring 2026](https://jobright.ai/jobs/info/68e00fe2f758fe1f97e49352?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
