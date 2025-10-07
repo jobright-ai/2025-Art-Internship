@@ -131,6 +131,8 @@ For a complete list, click the following sortable link below:
 | **[The Information](https://www.theinformation.com)** | **[2026 Summer Editorial Intern](https://jobright.ai/jobs/info/688d139a3a30793eb96485ce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 04 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Audio Visual Intern](https://jobright.ai/jobs/info/68e1d1a71852e62f007f3905?utm_campaign=1053&utm_source=git)** | Oshkosh, WI | On Site | Oct 04 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68e0f6a01852e62f007f0d4c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 04 |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern (Fall or Spring Semester)- Signia by Hilton Atlanta GWC](https://jobright.ai/jobs/info/68e4db7dae2b894b1d709874?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
+| **[LaunchCapital](http://www.launchcapital.com)** | **[Video Content Creator Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68e4c7bf1852e62f008099a4?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Oct 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Video Production Intern - Reason Foundation](https://jobright.ai/jobs/info/68e0a3cc1852e62f007ed51c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 03 |
 | ↳ | **[KIP Spring 2026 - Journalism Intern - Reason Foundation](https://jobright.ai/jobs/info/68e0a256f758fe1f97e4f7ae?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 03 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern (Fall or Spring Semester) - Alpharetta market](https://jobright.ai/jobs/info/68e4904bae2b894b1d706760?utm_campaign=1053&utm_source=git)** | Alpharetta, GA | On Site | Oct 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Middle Atlantic PGA](https://mapga.com/)** | **[Junior Golf Tournament Operations Internship](https://jobright.ai/jobs/info/68e017b1b99ec3563b0cbb38?utm_campaign=1053&utm_source=git)** | Stafford, VA | On Site | Oct 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Communications Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/68e0177b1852e62f007e70a2?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Production & Special Projects Intern, Spring 2026](https://jobright.ai/jobs/info/68e012f01852e62f007e7006?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
-| ↳ | **[KABC-TV (ABC7) Sports News Intern, Spring 2026](https://jobright.ai/jobs/info/68e012821852e62f007e6f6c?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 03 |
-| ↳ | **[ABC Owned TV Stations Content Intern, Spring 2026](https://jobright.ai/jobs/info/68e010eeb99ec3563b0cb785?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
