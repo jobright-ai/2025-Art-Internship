@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (Remote) Spring 2026](https://jobright.ai/jobs/info/68e5a5341852e62f00813396?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Oct 07 |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68e59ebe1852e62f00812e5b?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 07 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (Spring 2026).](https://jobright.ai/jobs/info/68e59e2fae2b894b1d711e68?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Oct 07 |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Event Management and Facilities Intern](https://jobright.ai/jobs/info/68e59de6ae2b894b1d711dec?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Oct 07 |
+| **[Mark Seliger Studio](http://www.markseliger.com)** | **[Production Intern](https://jobright.ai/jobs/info/68e58cc81852e62f00811ce2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[CFX Production Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e58682ae2b894b1d71073c?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 07 |
 | ↳ | **[Technical Direction Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e582bcb99ec3563b0f5be6?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 07 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Spring Internship -  Editorial, Harper Voyager (NYC)](https://jobright.ai/jobs/info/68e5816f1852e62f00811336?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Oct 07 |
@@ -92,6 +97,8 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Lighting Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e470e9b99ec3563b0ea736?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CA 91201, USA | On Site | Oct 06 |
 | **[ODK Media](https://www.odkmedia.net/)** | **[Content Distribution Unpaid Intern (213 P&M)](https://jobright.ai/jobs/info/68e46dd41852e62f00805ebe?utm_campaign=1053&utm_source=git)** | Fullerton, CA | On Site | Oct 06 |
 | **[Sum Pictures](https://www.sum.pictures/)** | **[Intern](https://jobright.ai/jobs/info/68e46dc31852e62f00805ea6?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Oct 06 |
+| **[KET - Kentucky Educational Television](https://www.ket.org)** | **[Spring 2026 Television Production Internship](https://jobright.ai/jobs/info/68e5a0dcae2b894b1d712231?utm_campaign=1053&utm_source=git)** | Lexington, KY | Hybrid | Oct 06 |
+| **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[News Intern, Spring 2026](https://jobright.ai/jobs/info/68e598dfb99ec3563b0f7147?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Oct 06 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68e44e96f758fe1f97e66def?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Oct 06 |
 | **[Springer Nature](https://group.springernature.com/)** | **[News Intern, Scientific American](https://jobright.ai/jobs/info/68e44759b99ec3563b0e86f2?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Oct 06 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[News Intern](https://jobright.ai/jobs/info/68e441e51852e62f00803c2c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern (Fall or Spring Semester) - Alpharetta market](https://jobright.ai/jobs/info/68e4904bae2b894b1d706760?utm_campaign=1053&utm_source=git)** | Alpharetta, GA | On Site | Oct 03 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Hilton Head](https://jobright.ai/jobs/info/68e08005b99ec3563b0cff71?utm_campaign=1053&utm_source=git)** | Okatie, SC | On Site | Oct 03 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN Winter '26 - WGGB](https://jobright.ai/jobs/info/68e07ae3f758fe1f97e4d814?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Oct 03 |
-| **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Myrtle Beach](https://jobright.ai/jobs/info/68e07a46f758fe1f97e4d786?utm_campaign=1053&utm_source=git)** | Myrtle Beach, SC | On Site | Oct 03 |
-| **[LMD](http://www.lmdagency.com)** | **[Video Production Coordinator Internship](https://jobright.ai/jobs/info/68e06ff51852e62f007eacbd?utm_campaign=1053&utm_source=git)** | Columbia, MD | Hybrid | Oct 03 |
-| **[Full Squad](https://fullsquadgaming.com)** | **[Editing Intern](https://jobright.ai/jobs/info/68e06c2fb99ec3563b0cf467?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 03 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Journalism Intern - Reason Foundation](https://jobright.ai/jobs/info/68e0543eb99ec3563b0ceb70?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 03 |
-| ↳ | **[KIP Spring 2026 - Video Production Intern - Reason Foundation](https://jobright.ai/jobs/info/68e05236f758fe1f97e4c50c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 03 |
-| ↳ | **[KIP Spring 2026 - Communications Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/68e06a9c1852e62f007eaa76?utm_campaign=1053&utm_source=git)** | Arlington, VA | On Site | Oct 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Casting Intern, Spring 2026](https://jobright.ai/jobs/info/68e033331852e62f007e85fd?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
