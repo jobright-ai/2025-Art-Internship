@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Galman Group](https://galmangroup.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/68e64112ae2b894b1d7195c1?utm_campaign=1053&utm_source=git)** | Jenkintown, PA | On Site | Oct 08 |
 | **[Acumatica](https://www.acumatica.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e5cb68ae2b894b1d7138c2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 07 |
 | ↳ | **[Moderate Writer Intern](https://jobright.ai/jobs/info/68e5cadde8daec61499a489f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 07 |
 | **[Big Time Softball](https://bigtimesoftball.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68e5c9581852e62f00814544?utm_campaign=1053&utm_source=git)** | Lancaster, PA | Hybrid | Oct 07 |
@@ -78,16 +79,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Global Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e56c54ae2b894b1d70ec8f?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Oct 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Content Operation Intern, Bristol, Spring 2026](https://jobright.ai/jobs/info/68e56b00b99ec3563b0f4345?utm_campaign=1053&utm_source=git)** | Bristol, CT, USA | On Site | Oct 07 |
 | **[The City of Frederick](http://www.cityoffrederickmd.gov)** | **[Shared Futures Fellowship](https://jobright.ai/jobs/info/68e58877ae2b894b1d710a92?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Oct 07 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/68e55798b99ec3563b0f3083?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 07 |
 | **[The Escape Room USA](https://escaperoomindy.com/)** | **[Videography Internship](https://jobright.ai/jobs/info/68e60c331852e62f00817d2c?utm_campaign=1053&utm_source=git)** | Greater Indianapolis | On Site | Oct 07 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e548c5b99ec3563b0f252b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e547a8b99ec3563b0f2329?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
+| ↳ | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e547a1b99ec3563b0f231f?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
 | ↳ | **[2026 Culinary Intern: Spring](https://jobright.ai/jobs/info/68e546afae2b894b1d70caa9?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
-| ↳ | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e5465d1852e62f0080d9e8?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2026 Packaging Internship](https://jobright.ai/jobs/info/68e562baae2b894b1d70e2b7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | **[Tampa Bay Arts & Education Network](Watch.tbae.net)** | **[Media Arts Intern](https://jobright.ai/jobs/info/68e54061b99ec3563b0f1cff?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 07 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator](https://jobright.ai/jobs/info/68e56f63ae2b894b1d70edd6?utm_campaign=1053&utm_source=git)** | Portsmouth, NH | On Site | Oct 07 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[K12 Zone Content & Event Intern, Part-Time](https://jobright.ai/jobs/info/68e511ebb99ec3563b0efede?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 07 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[News Intern](https://jobright.ai/jobs/info/68e4ad111852e62f0080864b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Oct 06 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/68e49973ae2b894b1d706d6e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 06 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[News Intern, Scientific American](https://jobright.ai/jobs/info/68e4872e1852e62f00806cbd?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 06 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - For the Strength of Youth Writer/Editor](https://jobright.ai/jobs/info/68e48215b99ec3563b0eaf0c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 06 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Lighting Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e48208b99ec3563b0eaef2?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Audio Visual Intern](https://jobright.ai/jobs/info/68e1d1a71852e62f007f3905?utm_campaign=1053&utm_source=git)** | Oshkosh, WI | On Site | Oct 04 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68e0f6a01852e62f007f0d4c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 04 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern (Fall or Spring Semester)- Signia by Hilton Atlanta GWC](https://jobright.ai/jobs/info/68e4db7dae2b894b1d709874?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Video Production Intern - Reason Foundation](https://jobright.ai/jobs/info/68e0a3cc1852e62f007ed51c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
