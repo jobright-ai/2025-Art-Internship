@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acumatica](https://www.acumatica.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/68e7d35509580a2fe57efdc0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 09 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68e7b539cc49a84b7e0fce01?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 09 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Management Intern / Part-Time / Crown Complex](https://jobright.ai/jobs/info/68e75c6cae2b894b1d723fb6?utm_campaign=1053&utm_source=git)** | Crown Complex | On Site | Oct 08 |
 | ↳ | **[Event Management Intern / Part-Time / Crown Complex](https://jobright.ai/jobs/info/68e75b671852e62f00824a71?utm_campaign=1053&utm_source=git)** | US-NC-Fayetteville | On Site | Oct 08 |
@@ -119,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[The Galman Group](https://galmangroup.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/68e64112ae2b894b1d7195c1?utm_campaign=1053&utm_source=git)** | Jenkintown, PA | On Site | Oct 08 |
 | **[DFW Tech Digest](https://dfwtechdigest.beehiiv.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e663eaae2b894b1d71a1b1?utm_campaign=1053&utm_source=git)** | Coppell, TX | On Site | Oct 07 |
 | **[Acumatica](https://www.acumatica.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e5cb68ae2b894b1d7138c2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 07 |
-| ↳ | **[Moderate Writer Intern](https://jobright.ai/jobs/info/68e5cadde8daec61499a489f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 07 |
 | **[Big Time Softball](https://bigtimesoftball.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68e5c9581852e62f00814544?utm_campaign=1053&utm_source=git)** | Lancaster, PA | Hybrid | Oct 07 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - The Herald (Rock Hill)](https://jobright.ai/jobs/info/68e5c3a7e8daec61499a4480?utm_campaign=1053&utm_source=git)** | Rock Hill, SC | On Site | Oct 07 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Area de la Bahia 48 - News Internship  – Academic Year '25-'26](https://jobright.ai/jobs/info/68e5bc31e8daec61499a4081?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Oct 07 |
@@ -138,9 +138,9 @@ For a complete list, click the following sortable link below:
 | **[The City of Frederick](http://www.cityoffrederickmd.gov)** | **[Shared Futures Fellowship](https://jobright.ai/jobs/info/68e58877ae2b894b1d710a92?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Oct 07 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/68e55798b99ec3563b0f3083?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 07 |
 | **[The Escape Room USA](https://escaperoomindy.com/)** | **[Videography Internship](https://jobright.ai/jobs/info/68e60c331852e62f00817d2c?utm_campaign=1053&utm_source=git)** | Greater Indianapolis | On Site | Oct 07 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e548c5b99ec3563b0f252b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e547a8b99ec3563b0f2329?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
+| ↳ | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e547a1b99ec3563b0f231f?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
 | ↳ | **[2026 Culinary Intern: Spring](https://jobright.ai/jobs/info/68e546afae2b894b1d70caa9?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
-| ↳ | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e5465d1852e62f0080d9e8?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2026 Packaging Internship](https://jobright.ai/jobs/info/68e562baae2b894b1d70e2b7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | **[Tampa Bay Arts & Education Network](Watch.tbae.net)** | **[Media Arts Intern](https://jobright.ai/jobs/info/68e54061b99ec3563b0f1cff?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 07 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator](https://jobright.ai/jobs/info/68e56f63ae2b894b1d70edd6?utm_campaign=1053&utm_source=git)** | Portsmouth, NH | On Site | Oct 07 |
