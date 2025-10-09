@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Internship – Bowl Week 2025 (12/11/25 – 12/23/25)](https://jobright.ai/jobs/info/68e805d7c4895107182c0c75?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | Oct 09 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern Winter/Spring](https://jobright.ai/jobs/info/68e804fec4895107182c0b1f?utm_campaign=1053&utm_source=git)** | 2320 Langhorne Road, Lynchburg, VA, 24501, US | On Site | Oct 09 |
+| **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 09 |
 | **[Acumatica](https://www.acumatica.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/68e7d35509580a2fe57efdc0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 09 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68e7b539cc49a84b7e0fce01?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 09 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Management Intern / Part-Time / Crown Complex](https://jobright.ai/jobs/info/68e75c6cae2b894b1d723fb6?utm_campaign=1053&utm_source=git)** | Crown Complex | On Site | Oct 08 |
 | ↳ | **[Event Management Intern / Part-Time / Crown Complex](https://jobright.ai/jobs/info/68e75b671852e62f00824a71?utm_campaign=1053&utm_source=git)** | US-NC-Fayetteville | On Site | Oct 08 |
 | **[City of Bullhead City](http://www.bullheadcity.com)** | **[TV4 Intern](https://jobright.ai/jobs/info/68e773ebde7ec24c9893c15b?utm_campaign=1053&utm_source=git)** | Bullhead City, AZ | On Site | Oct 08 |
-| **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Baking and Pastry Intern](https://jobright.ai/jobs/info/68e74807e8daec61499b4080?utm_campaign=1053&utm_source=git)** | Cashiers, NC | On Site | Oct 08 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Lighting Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e74086ae2b894b1d722e7d?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 08 |
 | **[Imagine Ink Studio](www.imagineinkstudio.com)** | **[Studio Intern](https://jobright.ai/jobs/info/68e73a2de8daec61499b3653?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Oct 08 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Feature Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e738f8ae2b894b1d7228ba?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 08 |
@@ -134,6 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sports Journalism Intern (Remote) Spring 2026](https://jobright.ai/jobs/info/68e57c2e1852e62f00810977?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Oct 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Content Operation Intern, Bristol, Spring 2026](https://jobright.ai/jobs/info/68e56b00b99ec3563b0f4345?utm_campaign=1053&utm_source=git)** | Bristol, CT, USA | On Site | Oct 07 |
 | **[The City of Frederick](http://www.cityoffrederickmd.gov)** | **[Shared Futures Fellowship](https://jobright.ai/jobs/info/68e58877ae2b894b1d710a92?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Oct 07 |
+| **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Oct 07 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/68e55798b99ec3563b0f3083?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 07 |
 | **[The Escape Room USA](https://escaperoomindy.com/)** | **[Videography Internship](https://jobright.ai/jobs/info/68e60c331852e62f00817d2c?utm_campaign=1053&utm_source=git)** | Greater Indianapolis | On Site | Oct 07 |
 | **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e547a8b99ec3563b0f2329?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
 | ↳ | **[2026 Culinary Intern: Spring](https://jobright.ai/jobs/info/68e546afae2b894b1d70caa9?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
@@ -144,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[K12 Zone Content & Event Intern, Part-Time](https://jobright.ai/jobs/info/68e511ebb99ec3563b0efede?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 07 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Community and Foundation Season 2026](https://jobright.ai/jobs/info/68e77bbfde7ec24c9893c6e3?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Oct 07 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/68e4ad111852e62f0080864b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Oct 06 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/68e49973ae2b894b1d706d6e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 06 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[News Intern, Scientific American](https://jobright.ai/jobs/info/68e4872e1852e62f00806cbd?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 06 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - For the Strength of Youth Writer/Editor](https://jobright.ai/jobs/info/68e48215b99ec3563b0eaf0c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 06 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Lighting Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e48208b99ec3563b0eaef2?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Wealth & Investing Video Intern](https://jobright.ai/jobs/info/68e47d53f758fe1f97e68d61?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | ↳ | **[Summer 2026 Internship - Barron's Reporter Intern](https://jobright.ai/jobs/info/68e47cfab99ec3563b0ead62?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | ↳ | **[Summer 2026 Internship - MarketWatch Reporter Intern](https://jobright.ai/jobs/info/68e47bcdb99ec3563b0eac0d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 06 |
-| **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Wichita Eagle](https://jobright.ai/jobs/info/68e474fcf758fe1f97e68794?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Oct 06 |
-| ↳ | **[News Intern - Centre Daily Times](https://jobright.ai/jobs/info/68e47472f758fe1f97e68710?utm_campaign=1053&utm_source=git)** | State College, PA | On Site | Oct 06 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Lighting Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e470e9b99ec3563b0ea736?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CA 91201, USA | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
