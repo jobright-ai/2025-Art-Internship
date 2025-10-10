@@ -143,9 +143,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6aeefe8daec61499ad5dd?utm_campaign=1053&utm_source=git)** | Pocono, PA | On Site | Oct 08 |
 | ↳ | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6ae1a1852e62f0081d476?utm_campaign=1053&utm_source=git)** | Round Rock, TX | On Site | Oct 08 |
 | ↳ | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6ad371852e62f0081d3cb?utm_campaign=1053&utm_source=git)** | Wisconsin Dells, WI | On Site | Oct 08 |
+| **[LA NUEVA MÚSICA LLC.](https://lnmpresenta.com/lnm-multimedia-home-page/)** | **[Lead Video Dept. Manager (Internship)](https://jobright.ai/jobs/info/68e90f5d0930fe0bc4622089?utm_campaign=1053&utm_source=git)** | Bloomfield, NJ | On Site | Oct 08 |
 | **[D.C. Witness](https://dcwitness.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e6a1c71852e62f0081cdf8?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 08 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Wasserman Music Internship](https://jobright.ai/jobs/info/68e6a1c3e8daec61499acf64?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 08 |
-| ↳ | **[Spring 2026 Wasserman Music Internship](https://jobright.ai/jobs/info/68e68abae8daec61499ac1eb?utm_campaign=1053&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Oct 08 |
+| **[Oklahoma Golf Association](http://okgolf.org)** | **[OGA/USGA PJ Boatwright Tournament Internship](https://jobright.ai/jobs/info/68e9063165768b6412b1805f?utm_campaign=1053&utm_source=git)** | Edmond, OK | Hybrid | Oct 08 |
+| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Wasserman Music Internship](https://jobright.ai/jobs/info/68e68abae8daec61499ac1eb?utm_campaign=1053&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Oct 08 |
 | ↳ | **[Spring 2026 Wasserman Music Internship](https://jobright.ai/jobs/info/68e689e61852e62f0081bfa4?utm_campaign=1053&utm_source=git)** | USA-IL - Chicago Office | On Site | Oct 08 |
 | ↳ | **[Spring 2026 Wasserman Music Internship](https://jobright.ai/jobs/info/68e68970e8daec61499abfd2?utm_campaign=1053&utm_source=git)** | USA-TN - Nashville Office | On Site | Oct 08 |
 | ↳ | **[Spring 2026 Wasserman Music Internship](https://jobright.ai/jobs/info/68e6891cae2b894b1d71b196?utm_campaign=1053&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Oct 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Big Time Softball](https://bigtimesoftball.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68e5c9581852e62f00814544?utm_campaign=1053&utm_source=git)** | Lancaster, PA | Hybrid | Oct 07 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - The Herald (Rock Hill)](https://jobright.ai/jobs/info/68e5c3a7e8daec61499a4480?utm_campaign=1053&utm_source=git)** | Rock Hill, SC | On Site | Oct 07 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Area de la Bahia 48 - News Internship  – Academic Year '25-'26](https://jobright.ai/jobs/info/68e5bc31e8daec61499a4081?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Oct 07 |
-| **[The Galman Group](https://galmangroup.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/68e5b77be8daec61499a3c88?utm_campaign=1053&utm_source=git)** | The Galman Group/Corporate | On Site | Oct 07 |
-| **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[Think Intern, Spring 2026](https://jobright.ai/jobs/info/68e6dca6e8daec61499afbf7?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
