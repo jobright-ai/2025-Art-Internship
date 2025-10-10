@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC Hulu Drama Intern, Spring 2026](https://jobright.ai/jobs/info/68e8ba26c72beb74cb322306?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Narrative Design](https://jobright.ai/jobs/info/68e8ad4ac72beb74cb321322?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Oct 09 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Music Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e87725cc49a84b7e1066b5?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 09 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e8752fc72beb74cb31ed53?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 09 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Music Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e86651cc49a84b7e105da0?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Oct 09 |
@@ -98,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Broadcast Production Season 2026](https://jobright.ai/jobs/info/68e8338a09580a2fe57f518b?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 08 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Golf Maintenance Intern](https://jobright.ai/jobs/info/68e70eaf1852e62f00821daf?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Oct 08 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[CFX Production Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8318409580a2fe57f4feb?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Oct 08 |
-| **[KQED](http://www.kqed.org)** | **[Newscast Intern](https://jobright.ai/jobs/info/68e84658cc49a84b7e104b24?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
-| ↳ | **[Forum Intern](https://jobright.ai/jobs/info/68e8437b09580a2fe57f60b6?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| **[KQED](http://www.kqed.org)** | **[Forum Intern](https://jobright.ai/jobs/info/68e8437b09580a2fe57f60b6?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| ↳ | **[Newscast Intern](https://jobright.ai/jobs/info/68e84658cc49a84b7e104b24?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Reverb Video - MPR News](https://jobright.ai/jobs/info/68e84989cc49a84b7e104bfe?utm_campaign=1053&utm_source=git)** | St Paul, MN | Remote | Oct 08 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[Tennis and Racquet Sport Intern](https://jobright.ai/jobs/info/68e73359ae2b894b1d722585?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Oct 08 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Curatorial Intern](https://jobright.ai/jobs/info/68e6fe78e8daec61499b1267?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (Spring 2026).](https://jobright.ai/jobs/info/68e59e2fae2b894b1d711e68?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Oct 07 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Event Management and Facilities Intern](https://jobright.ai/jobs/info/68e59de6ae2b894b1d711dec?utm_campaign=1053&utm_source=git)** | Athens, GA | On Site | Oct 07 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Spring Internship -  Editorial, Harper Voyager (NYC)](https://jobright.ai/jobs/info/68e5816f1852e62f00811336?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Oct 07 |
-| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo Area de la Bahia 48 - News Internship – Academic Year '25-'26](https://jobright.ai/jobs/info/68e57f59b99ec3563b0f570a?utm_campaign=1053&utm_source=git)** | San Jose, CA | Hybrid | Oct 07 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (Spring 2026).](https://jobright.ai/jobs/info/68e57c93ae2b894b1d70fcba?utm_campaign=1053&utm_source=git)** | AL, Mobile | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
