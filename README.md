@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC Hulu Drama Intern, Spring 2026](https://jobright.ai/jobs/info/68e8ba26c72beb74cb322306?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Production & Post-Production  Intern, Spring 2026](https://jobright.ai/jobs/info/68e8bc1ccc49a84b7e109cd7?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
+| ↳ | **[20th Television Business Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68e8ba7ccc49a84b7e109978?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
+| ↳ | **[ABC Hulu Drama Intern, Spring 2026](https://jobright.ai/jobs/info/68e8ba26c72beb74cb322306?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Narrative Design](https://jobright.ai/jobs/info/68e8ad4ac72beb74cb321322?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Oct 09 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Music Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e87725cc49a84b7e1066b5?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 09 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e8752fc72beb74cb31ed53?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 09 |
@@ -92,16 +94,14 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Lighting Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e74086ae2b894b1d722e7d?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 08 |
 | ↳ | **[Feature Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e738f8ae2b894b1d7228ba?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 08 |
 | ↳ | **[Animation Production Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e7331a1852e62f00823105?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 08 |
-| ↳ | **[Technical Direction Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e72b7fae2b894b1d721ed7?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 08 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/68e72b40e8daec61499b2d28?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 08 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Community and Foundation Season 2026](https://jobright.ai/jobs/info/68e7257be8daec61499b2a0d?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Oct 08 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[TV Development & Current Series Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e73fd3e8daec61499b395e?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 08 |
 | **[Minneapolis/St. Paul Business Journal (MSPBJ)](http://www.mspbj.com)** | **[Editorial intern - Spring Semester](https://jobright.ai/jobs/info/68e71be61852e62f0082259e?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 08 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Broadcast Production Season 2026](https://jobright.ai/jobs/info/68e8338a09580a2fe57f518b?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 08 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Golf Maintenance Intern](https://jobright.ai/jobs/info/68e70eaf1852e62f00821daf?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Oct 08 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[CFX Production Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8318409580a2fe57f4feb?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Oct 08 |
-| **[KQED](http://www.kqed.org)** | **[Forum Intern](https://jobright.ai/jobs/info/68e8437b09580a2fe57f60b6?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
-| ↳ | **[Newscast Intern](https://jobright.ai/jobs/info/68e84658cc49a84b7e104b24?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| **[KQED](http://www.kqed.org)** | **[Newscast Intern](https://jobright.ai/jobs/info/68e84658cc49a84b7e104b24?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| ↳ | **[Forum Intern](https://jobright.ai/jobs/info/68e8437b09580a2fe57f60b6?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Reverb Video - MPR News](https://jobright.ai/jobs/info/68e84989cc49a84b7e104bfe?utm_campaign=1053&utm_source=git)** | St Paul, MN | Remote | Oct 08 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[Tennis and Racquet Sport Intern](https://jobright.ai/jobs/info/68e73359ae2b894b1d722585?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Oct 08 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Curatorial Intern](https://jobright.ai/jobs/info/68e6fe78e8daec61499b1267?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 08 |
