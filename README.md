@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MCW Graduate School](http://www.mcw.edu/gradschool)** | **[Intern](https://jobright.ai/jobs/info/68e85f73c72beb74cb31e1f0?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, 53201, USA | On Site | Oct 09 |
+| **[Griffin Media](http://griffincommunications.net/)** | **[News On 6 Spring Newsroom Intern](https://jobright.ai/jobs/info/68e85e8b09580a2fe57f7053?utm_campaign=1053&utm_source=git)** | Tulsa, OK, USA | On Site | Oct 09 |
+| ↳ | **[News 9 Spring Newsroom Intern](https://jobright.ai/jobs/info/68e85d2ac72beb74cb31dddf?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, USA | On Site | Oct 09 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Oct 09 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Video and Media Production Undergrad Intern](https://jobright.ai/jobs/info/68e84639c72beb74cb31d166?utm_campaign=1053&utm_source=git)** | Round Rock, Texas, United States | On Site | Oct 09 |
 | **[Reynolds Lake Oconee](http://reynoldslakeoconee.com)** | **[Intern - Culinary](https://jobright.ai/jobs/info/68e84617cc49a84b7e104ac1?utm_campaign=1053&utm_source=git)** | Greensboro, GA | On Site | Oct 09 |
 | **[Project Podcast Co.](www.projectpodcast.co)** | **[Non-Paid: Podcast Producer Spring 2026 Internship](https://jobright.ai/jobs/info/68e84494cc49a84b7e1048fe?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 09 |
@@ -80,8 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Event Management Intern / Part-Time / Crown Complex](https://jobright.ai/jobs/info/68e75b671852e62f00824a71?utm_campaign=1053&utm_source=git)** | US-NC-Fayetteville | On Site | Oct 08 |
 | **[City of Bullhead City](http://www.bullheadcity.com)** | **[TV4 Intern](https://jobright.ai/jobs/info/68e773ebde7ec24c9893c15b?utm_campaign=1053&utm_source=git)** | Bullhead City, AZ | On Site | Oct 08 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Lighting Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e74086ae2b894b1d722e7d?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 08 |
-| **[Imagine Ink Studio](www.imagineinkstudio.com)** | **[Studio Intern](https://jobright.ai/jobs/info/68e73a2de8daec61499b3653?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Oct 08 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Feature Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e738f8ae2b894b1d7228ba?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 08 |
+| ↳ | **[Feature Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e738f8ae2b894b1d7228ba?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 08 |
 | ↳ | **[Animation Production Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e7331a1852e62f00823105?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 08 |
 | ↳ | **[Technology Communications & Events Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e72ce0e8daec61499b2de3?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 08 |
 | ↳ | **[Technical Direction Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e72b7fae2b894b1d721ed7?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sports Journalism Intern (Remote) Spring 2026](https://jobright.ai/jobs/info/68e57c2e1852e62f00810977?utm_campaign=1053&utm_source=git)** | AL, Mobile | Remote | Oct 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Content Operation Intern, Bristol, Spring 2026](https://jobright.ai/jobs/info/68e56b00b99ec3563b0f4345?utm_campaign=1053&utm_source=git)** | Bristol, CT, USA | On Site | Oct 07 |
 | **[The City of Frederick](http://www.cityoffrederickmd.gov)** | **[Shared Futures Fellowship](https://jobright.ai/jobs/info/68e58877ae2b894b1d710a92?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Oct 07 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Oct 07 |
-| **[The Escape Room USA](https://escaperoomindy.com/)** | **[Videography Internship](https://jobright.ai/jobs/info/68e60c331852e62f00817d2c?utm_campaign=1053&utm_source=git)** | Greater Indianapolis | On Site | Oct 07 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68e547a8b99ec3563b0f2329?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
