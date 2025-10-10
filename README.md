@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Troon](http://www.troon.com/)** | **[The Colonial Life Charity Classic Championship Intern](https://jobright.ai/jobs/info/68e93d0965768b6412b19b8b?utm_campaign=1053&utm_source=git)** | Elgin, SC | On Site | Oct 10 |
+| **[Hinds Community College](http://www.hindscc.edu/)** | **[Digitization Intern](https://jobright.ai/jobs/info/68e9377165768b6412b1982b?utm_campaign=1053&utm_source=git)** | Utica, MS | On Site | Oct 10 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/68e935f89020b95add6a4c19?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Oct 10 |
+| **[Believed Labs](believedlabs.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68e935bd65768b6412b19610?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Video and Media Production Undergrad Intern](https://jobright.ai/jobs/info/68e8f77865768b6412b17a3c?utm_campaign=1053&utm_source=git)** | Round Rock, TX | On Site | Oct 10 |
 | **[SkyTrade](https://sky.trade)** | **[Content intern side gig (fully remote)](https://jobright.ai/jobs/info/68e8f2d09020b95add6a2f30?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Oct 10 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[WSJ Video Internship](https://jobright.ai/jobs/info/68e8f27965768b6412b178e4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 10 |
@@ -84,8 +88,7 @@ For a complete list, click the following sortable link below:
 | **[America & Beyond](https://www.americaandbeyond.us)** | **[Fall 2025 TikTok Content Creator Internship](https://jobright.ai/jobs/info/68e821b0c4895107182c2ad4?utm_campaign=1053&utm_source=git)** | Hollywood, FL | Remote | Oct 09 |
 | **[Blumhouse](http://Blumhouse.com)** | **[Development Intern - Production](https://jobright.ai/jobs/info/68e82021c4895107182c27c4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 09 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 TV Play By Play Broadcaster Internship (Free Housing)](https://jobright.ai/jobs/info/68e81ea5cc49a84b7e1024c3?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 09 |
-| **[Sweet Vegan](http://www.sweetvegan.nyc)** | **[Tiktok Content Creator Internship](https://jobright.ai/jobs/info/68e81479cc49a84b7e101c72?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Oct 09 |
-| **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Entertainment & Community Engagement Internship (Free Housing)](https://jobright.ai/jobs/info/68e82dec09580a2fe57f4dda?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 09 |
+| ↳ | **[2026 Entertainment & Community Engagement Internship (Free Housing)](https://jobright.ai/jobs/info/68e82dec09580a2fe57f4dda?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 09 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Internship – Bowl Week 2025 (12/11/25 – 12/23/25)](https://jobright.ai/jobs/info/68e805d7c4895107182c0c75?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | Oct 09 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern Winter/Spring](https://jobright.ai/jobs/info/68e804fec4895107182c0b1f?utm_campaign=1053&utm_source=git)** | 2320 Langhorne Road, Lynchburg, VA, 24501, US | On Site | Oct 09 |
 | **[City of Apache Junction](https://apachejunctionaz.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/68e81815cc49a84b7e102190?utm_campaign=1053&utm_source=git)** | Apache Junction, AZ | On Site | Oct 09 |
@@ -105,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Technical Direction Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8d88d4ae21e3abbeee625?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Oct 08 |
 | ↳ | **[TV Development & Current Series Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8d8e301c6482bd8777cae?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Oct 08 |
 | ↳ | **[CFX Production Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8318409580a2fe57f4feb?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Oct 08 |
-| **[KQED](http://www.kqed.org)** | **[Forum Intern](https://jobright.ai/jobs/info/68e8437b09580a2fe57f60b6?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
-| ↳ | **[Newscast Intern](https://jobright.ai/jobs/info/68e84658cc49a84b7e104b24?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| **[KQED](http://www.kqed.org)** | **[Newscast Intern](https://jobright.ai/jobs/info/68e84658cc49a84b7e104b24?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| ↳ | **[Forum Intern](https://jobright.ai/jobs/info/68e8437b09580a2fe57f60b6?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Reverb Video - MPR News](https://jobright.ai/jobs/info/68e84989cc49a84b7e104bfe?utm_campaign=1053&utm_source=git)** | St Paul, MN | Remote | Oct 08 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[Tennis and Racquet Sport Intern](https://jobright.ai/jobs/info/68e73359ae2b894b1d722585?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Oct 08 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Curatorial Intern](https://jobright.ai/jobs/info/68e6fe78e8daec61499b1267?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Galman Group](https://galmangroup.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/68e64112ae2b894b1d7195c1?utm_campaign=1053&utm_source=git)** | Jenkintown, PA | On Site | Oct 08 |
 | **[DFW Tech Digest](https://dfwtechdigest.beehiiv.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e663eaae2b894b1d71a1b1?utm_campaign=1053&utm_source=git)** | Coppell, TX | On Site | Oct 07 |
 | **[Acumatica](https://www.acumatica.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e5cb68ae2b894b1d7138c2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 07 |
-| **[Big Time Softball](https://bigtimesoftball.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68e5c9581852e62f00814544?utm_campaign=1053&utm_source=git)** | Lancaster, PA | Hybrid | Oct 07 |
-| **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - The Herald (Rock Hill)](https://jobright.ai/jobs/info/68e5c3a7e8daec61499a4480?utm_campaign=1053&utm_source=git)** | Rock Hill, SC | On Site | Oct 07 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Area de la Bahia 48 - News Internship  – Academic Year '25-'26](https://jobright.ai/jobs/info/68e5bc31e8daec61499a4081?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
