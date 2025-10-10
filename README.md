@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Video and Media Production Undergrad Intern](https://jobright.ai/jobs/info/68e8f77865768b6412b17a3c?utm_campaign=1053&utm_source=git)** | Round Rock, TX | On Site | Oct 10 |
+| **[SkyTrade](https://sky.trade)** | **[Content intern side gig (fully remote)](https://jobright.ai/jobs/info/68e8f2d09020b95add6a2f30?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Oct 10 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[WSJ Video Internship](https://jobright.ai/jobs/info/68e8f27965768b6412b178e4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[20th Television Production & Post-Production  Intern, Spring 2026](https://jobright.ai/jobs/info/68e8bc1ccc49a84b7e109cd7?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
 | ↳ | **[20th Television Business Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68e8ba7ccc49a84b7e109978?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
@@ -89,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[City of Apache Junction](https://apachejunctionaz.gov)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/68e81815cc49a84b7e102190?utm_campaign=1053&utm_source=git)** | Apache Junction, AZ | On Site | Oct 09 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 09 |
 | **[Acumatica](https://www.acumatica.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/68e7d35509580a2fe57efdc0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 09 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68e7b539cc49a84b7e0fce01?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 09 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Management Intern / Part-Time / Crown Complex](https://jobright.ai/jobs/info/68e75c6cae2b894b1d723fb6?utm_campaign=1053&utm_source=git)** | Crown Complex | On Site | Oct 08 |
 | ↳ | **[Event Management Intern / Part-Time / Crown Complex](https://jobright.ai/jobs/info/68e75b671852e62f00824a71?utm_campaign=1053&utm_source=git)** | US-NC-Fayetteville | On Site | Oct 08 |
 | **[City of Bullhead City](http://www.bullheadcity.com)** | **[TV4 Intern](https://jobright.ai/jobs/info/68e773ebde7ec24c9893c15b?utm_campaign=1053&utm_source=git)** | Bullhead City, AZ | On Site | Oct 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Telemundo Area de la Bahia 48 - News Internship  – Academic Year '25-'26](https://jobright.ai/jobs/info/68e5bc31e8daec61499a4081?utm_campaign=1053&utm_source=git)** | 2450 N. First Street, San Jose, CALIFORNIA | On Site | Oct 07 |
 | **[The Galman Group](https://galmangroup.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/68e5b77be8daec61499a3c88?utm_campaign=1053&utm_source=git)** | The Galman Group/Corporate | On Site | Oct 07 |
 | **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[Think Intern, Spring 2026](https://jobright.ai/jobs/info/68e6dca6e8daec61499afbf7?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Oct 07 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (Remote) Spring 2026](https://jobright.ai/jobs/info/68e5a5341852e62f00813396?utm_campaign=1053&utm_source=git)** | Mobile, AL | Remote | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
