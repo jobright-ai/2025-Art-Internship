@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orlando Health](https://www.orlandohealth.com/)** | **[Web Mgmt & Videography Intern](https://jobright.ai/jobs/info/68e95c06f195760c354a81ff?utm_campaign=1053&utm_source=git)** | Orlando, Florida | On Site | Oct 10 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Intern](https://jobright.ai/jobs/info/68e95ab4f195760c354a7ff9?utm_campaign=1053&utm_source=git)** | 7616 Channel 16 Way, Jackson, MS, 39209, US | On Site | Oct 10 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/68e95a2bf195760c354a7ead?utm_campaign=1053&utm_source=git)** | US-GA-Canton | On Site | Oct 10 |
+| **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[2026 Summer Newsroom Internship](https://jobright.ai/jobs/info/68e9583265768b6412b1aaef?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Oct 10 |
+| **[Muzeo Museum and Cultural Center](https://muzeo.org/)** | **[Museum Curatorial Assistant Intern - Anaheim/OC Applicants Only](https://jobright.ai/jobs/info/68e94be09020b95add6a58e4?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Oct 10 |
+| **[Moondust Productions LLC](https://moondustproductions5.wordpress.com)** | **[Editor Volunteer/Intern at Publishing House](https://jobright.ai/jobs/info/68e94b2065768b6412b1a348?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 10 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Writing & Editing Intern](https://jobright.ai/jobs/info/68e9491465768b6412b1a1ac?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Oct 10 |
 | **[Troon](http://www.troon.com/)** | **[The Colonial Life Charity Classic Championship Intern](https://jobright.ai/jobs/info/68e93d0965768b6412b19b8b?utm_campaign=1053&utm_source=git)** | Elgin, SC | On Site | Oct 10 |
 | **[Hinds Community College](http://www.hindscc.edu/)** | **[Digitization Intern](https://jobright.ai/jobs/info/68e9377165768b6412b1982b?utm_campaign=1053&utm_source=git)** | Utica, MS | On Site | Oct 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/68e935f89020b95add6a4c19?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Oct 10 |
 | **[Believed Labs](believedlabs.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68e935bd65768b6412b19610?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 10 |
+| **[Amnesia Studios](Www.amnesiastudios.xyz)** | **[Curatorial Intern](https://jobright.ai/jobs/info/68e9513c0930fe0bc462429f?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Video and Media Production Undergrad Intern](https://jobright.ai/jobs/info/68e8f77865768b6412b17a3c?utm_campaign=1053&utm_source=git)** | Round Rock, TX | On Site | Oct 10 |
 | **[SkyTrade](https://sky.trade)** | **[Content intern side gig (fully remote)](https://jobright.ai/jobs/info/68e8f2d09020b95add6a2f30?utm_campaign=1053&utm_source=git)** | Texas, United States | Remote | Oct 10 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[WSJ Video Internship](https://jobright.ai/jobs/info/68e8f27965768b6412b178e4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 10 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LA NUEVA MÚSICA LLC.](https://lnmpresenta.com/lnm-multimedia-home-page/)** | **[Lead Video Dept. Manager (Internship)](https://jobright.ai/jobs/info/68e90f5d0930fe0bc4622089?utm_campaign=1053&utm_source=git)** | Bloomfield, NJ | On Site | Oct 08 |
 | **[D.C. Witness](https://dcwitness.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e6a1c71852e62f0081cdf8?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 08 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Wasserman Music Internship](https://jobright.ai/jobs/info/68e6a1c3e8daec61499acf64?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 08 |
-| **[Oklahoma Golf Association](http://okgolf.org)** | **[OGA/USGA PJ Boatwright Tournament Internship](https://jobright.ai/jobs/info/68e9063165768b6412b1805f?utm_campaign=1053&utm_source=git)** | Edmond, OK | Hybrid | Oct 08 |
-| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Wasserman Music Internship](https://jobright.ai/jobs/info/68e68abae8daec61499ac1eb?utm_campaign=1053&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Oct 08 |
-| ↳ | **[Spring 2026 Wasserman Music Internship](https://jobright.ai/jobs/info/68e689e61852e62f0081bfa4?utm_campaign=1053&utm_source=git)** | USA-IL - Chicago Office | On Site | Oct 08 |
-| ↳ | **[Spring 2026 Wasserman Music Internship](https://jobright.ai/jobs/info/68e68970e8daec61499abfd2?utm_campaign=1053&utm_source=git)** | USA-TN - Nashville Office | On Site | Oct 08 |
-| ↳ | **[Spring 2026 Wasserman Music Internship](https://jobright.ai/jobs/info/68e6891cae2b894b1d71b196?utm_campaign=1053&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Oct 08 |
-| **[The Galman Group](https://galmangroup.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/68e64112ae2b894b1d7195c1?utm_campaign=1053&utm_source=git)** | Jenkintown, PA | On Site | Oct 08 |
-| **[DFW Tech Digest](https://dfwtechdigest.beehiiv.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e663eaae2b894b1d71a1b1?utm_campaign=1053&utm_source=git)** | Coppell, TX | On Site | Oct 07 |
-| **[Acumatica](https://www.acumatica.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e5cb68ae2b894b1d7138c2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
