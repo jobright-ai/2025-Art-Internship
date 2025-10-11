@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Opera Artistic Administration (Spring 2026)](https://jobright.ai/jobs/info/68ea05c354fbf903f6a8077f?utm_campaign=1053&utm_source=git)** | Vienna, VA, USA | On Site | Oct 11 |
+| ↳ | **[Intern, Production &amp; Sound (Spring 2026)](https://jobright.ai/jobs/info/68ea0596cfc08e4908914925?utm_campaign=1053&utm_source=git)** | Vienna, VA, USA | On Site | Oct 11 |
 | **[WFYI Public Media](https://www.wfyi.org/)** | **[Reporting Intern, News Spring 2026](https://jobright.ai/jobs/info/68e9e1c1cfc08e4908913761?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 10 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hershey Country Club Culinary Intern - Summer 2026](https://jobright.ai/jobs/info/68e9e0bccdf8d94b293a2c9f?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Oct 10 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e9c15bcfc08e4908912ad5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Oct 10 |
@@ -130,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[City of Bullhead City](http://www.bullheadcity.com)** | **[TV4 Intern](https://jobright.ai/jobs/info/68e773ebde7ec24c9893c15b?utm_campaign=1053&utm_source=git)** | Bullhead City, AZ | On Site | Oct 08 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Lighting Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e74086ae2b894b1d722e7d?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 08 |
 | ↳ | **[Feature Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e738f8ae2b894b1d7228ba?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 08 |
+| ↳ | **[Technical Direction Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e9f23acdf8d94b293a33cb?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 08 |
 | ↳ | **[Animation Production Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e7331a1852e62f00823105?utm_campaign=1053&utm_source=git)** | Glendale, CA | Hybrid | Oct 08 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/68e72b40e8daec61499b2d28?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 08 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Community and Foundation Season 2026](https://jobright.ai/jobs/info/68e7257be8daec61499b2a0d?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Oct 08 |
@@ -139,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Technical Direction Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8d88d4ae21e3abbeee625?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Oct 08 |
 | ↳ | **[TV Development & Current Series Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8d8e301c6482bd8777cae?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Oct 08 |
 | ↳ | **[CFX Production Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8318409580a2fe57f4feb?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Oct 08 |
-| **[KQED](http://www.kqed.org)** | **[Forum Intern](https://jobright.ai/jobs/info/68e8437b09580a2fe57f60b6?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
-| ↳ | **[Newscast Intern](https://jobright.ai/jobs/info/68e84658cc49a84b7e104b24?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| **[KQED](http://www.kqed.org)** | **[Newscast Intern](https://jobright.ai/jobs/info/68e84658cc49a84b7e104b24?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| ↳ | **[Forum Intern](https://jobright.ai/jobs/info/68e8437b09580a2fe57f60b6?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Reverb Video - MPR News](https://jobright.ai/jobs/info/68e84989cc49a84b7e104bfe?utm_campaign=1053&utm_source=git)** | St Paul, MN | Remote | Oct 08 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[Tennis and Racquet Sport Intern](https://jobright.ai/jobs/info/68e73359ae2b894b1d722585?utm_campaign=1053&utm_source=git)** | Boca Raton, FL | On Site | Oct 08 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Curatorial Intern](https://jobright.ai/jobs/info/68e6fe78e8daec61499b1267?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - The Mall at Green Hills](https://jobright.ai/jobs/info/68e6dfc9e8daec61499b00e7?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital News Intern- Spring, 2026](https://jobright.ai/jobs/info/68e750c61852e62f00824410?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Oct 08 |
 | ↳ | **[Weather Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6dc33e8daec61499afafe?utm_campaign=1053&utm_source=git)** | LA-Metairie;One Galleria Blvd (Tribune-WGNO/WNOL) | On Site | Oct 08 |
-| ↳ | **[News Producer Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6dc2a1852e62f0081f8e8?utm_campaign=1053&utm_source=git)** | LA-Metairie;One Galleria Blvd (Tribune-WGNO/WNOL) | On Site | Oct 08 |
-| ↳ | **[Sports Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6db3cae2b894b1d71ecd5?utm_campaign=1053&utm_source=git)** | LA-Metairie;One Galleria Blvd (Tribune-WGNO/WNOL) | Hybrid | Oct 08 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68e6d782e8daec61499af8e9?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
