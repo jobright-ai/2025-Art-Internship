@@ -130,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern Winter/Spring](https://jobright.ai/jobs/info/68e804fec4895107182c0b1f?utm_campaign=1053&utm_source=git)** | 2320 Langhorne Road, Lynchburg, VA, 24501, US | On Site | Oct 09 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 09 |
 | **[Acumatica](https://www.acumatica.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/68e7d35509580a2fe57efdc0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 09 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Feature Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68eb8cc88369791ef7827b3b?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 09 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Management Intern / Part-Time / Crown Complex](https://jobright.ai/jobs/info/68e75c6cae2b894b1d723fb6?utm_campaign=1053&utm_source=git)** | Crown Complex | On Site | Oct 08 |
 | **[High Moon Studios](http://www.highmoonstudios.com/)** | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68ea11a0cfc08e49089157a5?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Oct 08 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Management Intern / Part-Time / Crown Complex](https://jobright.ai/jobs/info/68e75b671852e62f00824a71?utm_campaign=1053&utm_source=git)** | US-NC-Fayetteville | On Site | Oct 08 |
@@ -144,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Technical Direction Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8d88d4ae21e3abbeee625?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Oct 08 |
 | ↳ | **[TV Development & Current Series Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8d8e301c6482bd8777cae?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Oct 08 |
 | ↳ | **[CFX Production Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8318409580a2fe57f4feb?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Oct 08 |
-| **[KQED](http://www.kqed.org)** | **[Forum Intern](https://jobright.ai/jobs/info/68e8437b09580a2fe57f60b6?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
-| ↳ | **[Newscast Intern](https://jobright.ai/jobs/info/68e84658cc49a84b7e104b24?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| **[KQED](http://www.kqed.org)** | **[Newscast Intern](https://jobright.ai/jobs/info/68e84658cc49a84b7e104b24?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| ↳ | **[Forum Intern](https://jobright.ai/jobs/info/68e8437b09580a2fe57f60b6?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Reverb Video - MPR News](https://jobright.ai/jobs/info/68e84989cc49a84b7e104bfe?utm_campaign=1053&utm_source=git)** | St Paul, MN | Remote | Oct 08 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Curatorial Intern](https://jobright.ai/jobs/info/68e6fe78e8daec61499b1267?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Multimedia Journalist Intern](https://jobright.ai/jobs/info/68e6fa98ae2b894b1d720325?utm_campaign=1053&utm_source=git)** | Oshkosh, WI | On Site | Oct 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Weather Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6e4e4ae2b894b1d71f498?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Oct 08 |
 | ↳ | **[Sports Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6e3a5e8daec61499b0178?utm_campaign=1053&utm_source=git)** | Metairie, LA | Hybrid | Oct 08 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Alterations & Tailor Shop - Apprentice - The Mall at Green Hills](https://jobright.ai/jobs/info/68e6dfc9e8daec61499b00e7?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 08 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital News Intern- Spring, 2026](https://jobright.ai/jobs/info/68e750c61852e62f00824410?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
