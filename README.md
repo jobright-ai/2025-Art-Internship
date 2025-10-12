@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vivrelle](https://www.vivrelle.com/)** | **[Vivrelle Winter Internship Program (January - March)](https://jobright.ai/jobs/info/688114d429ad6b2744aded7e?utm_campaign=1053&utm_source=git)** | New York | On Site | Oct 12 |
 | **[University of La Verne](http://laverne.edu)** | **[Theatre Technical Student Assistant (23/24) - FWS](https://jobright.ai/jobs/info/68eb1a4176a1db7c5985ce19?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | Oct 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC Hulu Drama Intern, Spring 2026](https://jobright.ai/jobs/info/68ea6b1876a1db7c5985ae76?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 11 |
 | ↳ | **[20th Television Production & Post-Production  Intern, Spring 2026](https://jobright.ai/jobs/info/68ea68512f64880ca0b52cc4?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 11 |
@@ -86,11 +87,11 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Early Morning News Production Intern, Spring 2026](https://jobright.ai/jobs/info/68e974f4f195760c354a95ae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Calm and Collected Music Group](https://www.cacmg.com/)** | **[Video Intern](https://jobright.ai/jobs/info/68e96c92f195760c354a8ea5?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
 | **[Jackson's 16 WAPT](https://www.wapt.com/)** | **[Intern](https://jobright.ai/jobs/info/68e96aa10930fe0bc46257af?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Oct 10 |
-| **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[2026 Summer Newsroom Internship](https://jobright.ai/jobs/info/68e965a80930fe0bc462550a?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Oct 10 |
 | **[Core-CSI](https://core-csi.com/)** | **[Content Creator Intern - Remote](https://jobright.ai/jobs/info/68e97f2c65768b6412b1cb16?utm_campaign=1053&utm_source=git)** | Sterling, VA | Remote | Oct 10 |
 | **[Castle Pines Golf Club](https://castlepinesgolfclub.club)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/68e97bce65768b6412b1ca44?utm_campaign=1053&utm_source=git)** | Castle Rock, CO | On Site | Oct 10 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Web Mgmt & Videography Intern](https://jobright.ai/jobs/info/68e95c06f195760c354a81ff?utm_campaign=1053&utm_source=git)** | Orlando, Florida | On Site | Oct 10 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Intern](https://jobright.ai/jobs/info/68e95ab4f195760c354a7ff9?utm_campaign=1053&utm_source=git)** | 7616 Channel 16 Way, Jackson, MS, 39209, US | On Site | Oct 10 |
+| **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[2026 Summer Newsroom Internship](https://jobright.ai/jobs/info/68e9583265768b6412b1aaef?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Oct 10 |
 | **[Muzeo Museum and Cultural Center](https://muzeo.org/)** | **[Museum Curatorial Assistant Intern - Anaheim/OC Applicants Only](https://jobright.ai/jobs/info/68e94be09020b95add6a58e4?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Oct 10 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Writing & Editing Intern](https://jobright.ai/jobs/info/68e9491465768b6412b1a1ac?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Oct 10 |
 | **[Troon](http://www.troon.com/)** | **[The Colonial Life Charity Classic Championship Intern](https://jobright.ai/jobs/info/68e93d0965768b6412b19b8b?utm_campaign=1053&utm_source=git)** | Elgin, SC | On Site | Oct 10 |
@@ -104,7 +105,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[20th Television Business Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68e8ba7ccc49a84b7e109978?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
 | ↳ | **[ABC Hulu Drama Intern, Spring 2026](https://jobright.ai/jobs/info/68e8ba26c72beb74cb322306?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Narrative Design](https://jobright.ai/jobs/info/68e8ad4ac72beb74cb321322?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Oct 09 |
-| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern](https://jobright.ai/jobs/info/68eb5d0f76a1db7c5985f6f6?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Oct 09 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern Winter/Spring](https://jobright.ai/jobs/info/68e8d6ce4ae21e3abbeee5c6?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Oct 09 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Publications (Spring 2026)](https://jobright.ai/jobs/info/68e9d1b3cfc08e490891326b?utm_campaign=1053&utm_source=git)** | Wolf Trap, VA | On Site | Oct 09 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e8752fc72beb74cb31ed53?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 09 |
