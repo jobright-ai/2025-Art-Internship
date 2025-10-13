@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68ec251b2f64880ca0b5a00c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 12 |
 | **[Raandoom](https://www.raandoom.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68ec14688369791ef7828c08?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Oct 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News This Week Production Intern, Spring 2026](https://jobright.ai/jobs/info/68ec094e76a1db7c59861c0b?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 12 |
 | ↳ | **[ABC News Race & Culture Unit Production Intern, Spring 2026](https://jobright.ai/jobs/info/68ec08b62f64880ca0b59d6d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 12 |
@@ -146,15 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Minneapolis/St. Paul Business Journal (MSPBJ)](http://www.mspbj.com)** | **[Editorial intern - Spring Semester](https://jobright.ai/jobs/info/68e71be61852e62f0082259e?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 08 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Broadcast Production Season 2026](https://jobright.ai/jobs/info/68e8338a09580a2fe57f518b?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 08 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Golf Maintenance Intern](https://jobright.ai/jobs/info/68e70eaf1852e62f00821daf?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Oct 08 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Technical Direction Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8d88d4ae21e3abbeee625?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Oct 08 |
-| ↳ | **[TV Development & Current Series Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8d8e301c6482bd8777cae?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Oct 08 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[TV Development & Current Series Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8d8e301c6482bd8777cae?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Oct 08 |
+| ↳ | **[Technical Direction Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8d88d4ae21e3abbeee625?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Oct 08 |
 | ↳ | **[CFX Production Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e8318409580a2fe57f4feb?utm_campaign=1053&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Oct 08 |
-| **[KQED](http://www.kqed.org)** | **[Forum Intern](https://jobright.ai/jobs/info/68e8437b09580a2fe57f60b6?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
-| ↳ | **[Newscast Intern](https://jobright.ai/jobs/info/68e84658cc49a84b7e104b24?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| **[KQED](http://www.kqed.org)** | **[Newscast Intern](https://jobright.ai/jobs/info/68e84658cc49a84b7e104b24?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| ↳ | **[Forum Intern](https://jobright.ai/jobs/info/68e8437b09580a2fe57f60b6?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Reverb Video - MPR News](https://jobright.ai/jobs/info/68e84989cc49a84b7e104bfe?utm_campaign=1053&utm_source=git)** | St Paul, MN | Remote | Oct 08 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Curatorial Intern](https://jobright.ai/jobs/info/68e6fe78e8daec61499b1267?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Multimedia Journalist Intern](https://jobright.ai/jobs/info/68e6fa98ae2b894b1d720325?utm_campaign=1053&utm_source=git)** | Oshkosh, WI | On Site | Oct 08 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Collections Intern](https://jobright.ai/jobs/info/68e6f9e2ae2b894b1d72029d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Early Morning News Production Intern, Spring 2026](https://jobright.ai/jobs/info/68e6f6671852e62f00820e51?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Oct 08 |
-| **[ESPN](http://espncareers.com)** | **[ESPN Content Operation Intern, Bristol, Spring 2026](https://jobright.ai/jobs/info/68e6f1ffe8daec61499b0bf6?utm_campaign=1053&utm_source=git)** | Bristol, CT | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
