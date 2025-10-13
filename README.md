@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Creative Arts Community & Storytelling Internship](https://jobright.ai/jobs/info/68ed642e6335d332361287cd?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Oct 13 |
+| **[The Haskell Company](http://www.haskell.com)** | **[Content and Communications Intern](https://jobright.ai/jobs/info/68ed584681fdd1626d39b6dc?utm_campaign=1053&utm_source=git)** | US-FL-Jacksonville | On Site | Oct 13 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[CG Generalist Intern, Disney Animation - Winter 2026](https://jobright.ai/jobs/info/68ed57c981fdd1626d39b5a3?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 13 |
+| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - KYTV/KSPR](https://jobright.ai/jobs/info/68ed57c370b66e2345d3d04d?utm_campaign=1053&utm_source=git)** | Springfield, MO | On Site | Oct 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Content Development Intern, Spring 2026](https://jobright.ai/jobs/info/68ed57016335d33236127cdd?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Oct 13 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Metro Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4ede81fdd1626d39ad9a?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 13 |
 | **[Envoy Air](https://envoyair.com)** | **[College Intern - Technical Publications Editor](https://jobright.ai/jobs/info/68ed4d3070b66e2345d3c465?utm_campaign=1053&utm_source=git)** | US-TX-Irving | On Site | Oct 13 |
@@ -88,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Baking and Pastry Intern](https://jobright.ai/jobs/info/68ebdf738369791ef7828625?utm_campaign=1053&utm_source=git)** | Cashiers, NC | On Site | Oct 12 |
 | **[Vivrelle](https://www.vivrelle.com/)** | **[Vivrelle Winter Internship Program (January - March)](https://jobright.ai/jobs/info/688114d429ad6b2744aded7e?utm_campaign=1053&utm_source=git)** | New York | On Site | Oct 12 |
 | **[University of La Verne](http://laverne.edu)** | **[Theatre Technical Student Assistant (23/24) - FWS](https://jobright.ai/jobs/info/68eb1a4176a1db7c5985ce19?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | Oct 11 |
-| **[The IceBreaker App](https://linktr.ee/Icebreaker.app)** | **[Content videographer intern](https://jobright.ai/jobs/info/68ec98bbd4b0106e703e9fad?utm_campaign=1053&utm_source=git)** | Augusta, GA | Remote | Oct 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC Hulu Drama Intern, Spring 2026](https://jobright.ai/jobs/info/68ea6b1876a1db7c5985ae76?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 11 |
 | ↳ | **[20th Television Production & Post-Production  Intern, Spring 2026](https://jobright.ai/jobs/info/68ea68512f64880ca0b52cc4?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 11 |
 | ↳ | **[20th Television Business Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68ea633f2f64880ca0b52b14?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 11 |
@@ -115,10 +118,10 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Early Morning News Production Intern, Spring 2026](https://jobright.ai/jobs/info/68e974f4f195760c354a95ae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Harn Museum of Art](www.harn.ufl.edu)** | **[Museum Horticulture Internship &amp;#8211; Harn Museum of Art](https://jobright.ai/jobs/info/68ec9b58c26b9574506f4c93?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Oct 10 |
 | **[Calm and Collected Music Group](https://www.cacmg.com/)** | **[Video Intern](https://jobright.ai/jobs/info/68e96c92f195760c354a8ea5?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
-| **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[2026 Summer Newsroom Internship](https://jobright.ai/jobs/info/68e965a80930fe0bc462550a?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Oct 10 |
 | **[Core-CSI](https://core-csi.com/)** | **[Content Creator Intern - Remote](https://jobright.ai/jobs/info/68e97f2c65768b6412b1cb16?utm_campaign=1053&utm_source=git)** | Sterling, VA | Remote | Oct 10 |
 | **[Castle Pines Golf Club](https://castlepinesgolfclub.club)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/68e97bce65768b6412b1ca44?utm_campaign=1053&utm_source=git)** | Castle Rock, CO | On Site | Oct 10 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Web Mgmt & Videography Intern](https://jobright.ai/jobs/info/68e95c06f195760c354a81ff?utm_campaign=1053&utm_source=git)** | Orlando, Florida | On Site | Oct 10 |
+| **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[2026 Summer Newsroom Internship](https://jobright.ai/jobs/info/68e9583265768b6412b1aaef?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Oct 10 |
 | **[Muzeo Museum and Cultural Center](https://muzeo.org/)** | **[Museum Curatorial Assistant Intern - Anaheim/OC Applicants Only](https://jobright.ai/jobs/info/68e94be09020b95add6a58e4?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Oct 10 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Writing & Editing Intern](https://jobright.ai/jobs/info/68e9491465768b6412b1a1ac?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Oct 10 |
 | **[Troon](http://www.troon.com/)** | **[The Colonial Life Charity Classic Championship Intern](https://jobright.ai/jobs/info/68e93d0965768b6412b19b8b?utm_campaign=1053&utm_source=git)** | Elgin, SC | On Site | Oct 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 TV Play By Play Broadcaster Internship (Free Housing)](https://jobright.ai/jobs/info/68e81ea5cc49a84b7e1024c3?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 09 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[TV Development & Current Series Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e97457f195760c354a9500?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 09 |
 | ↳ | **[Technology Communications & Events Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e97b7df195760c354a9a13?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 09 |
-| ↳ | **[CFX Production Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e980fe65768b6412b1ceaf?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 09 |
-| **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Entertainment & Community Engagement Internship (Free Housing)](https://jobright.ai/jobs/info/68e82dec09580a2fe57f4dda?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 09 |
-| **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Internship – Bowl Week 2025 (12/11/25 – 12/23/25)](https://jobright.ai/jobs/info/68e805d7c4895107182c0c75?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
