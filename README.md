@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Creative and Cultural Diversity Intern, Spring 2026](https://jobright.ai/jobs/info/68ee006c6335d3323612e1e2?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 14 |
 | **[Duininck](https://www.duininck.com/)** | **[2026 Golf Course Construction Internship](https://jobright.ai/jobs/info/68edd5866335d3323612c59b?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
 | **[Wild 7 Studios ](http://wild7studios.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/68ed8e6581fdd1626d39d86f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 13 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Video Production Intern](https://jobright.ai/jobs/info/68ed7d036335d33236129719?utm_campaign=1053&utm_source=git)** | McConnellsburg, PA | On Site | Oct 13 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68ed2c2270b66e2345d3b2bf?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | On Site | Oct 13 |
 | **[Austin American-Statesman](http://www.statesman.com/)** | **[Datebook Intern, Summer 2026](https://jobright.ai/jobs/info/68ed2c2270b66e2345d3b2c1?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | Hybrid | Oct 13 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/68ed11f26335d3323612518b?utm_campaign=1053&utm_source=git)** | McConnellsburg, Pennsylvania, United States | On Site | Oct 13 |
+| **[Vinfen](http://www.vinfen.org)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68ee1b336335d3323612f3f0?utm_campaign=1053&utm_source=git)** | Jamaica Plain, MA, 02130, United States | On Site | Oct 13 |
 | **[City of Lakeland](http://www.lakelandgov.net/)** | **[Intern - Any - Simpson Park](https://jobright.ai/jobs/info/68ecd1b470b66e2345d38cd2?utm_campaign=1053&utm_source=git)** | Lakeland, FL | On Site | Oct 13 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[The Sweeterie Pastry Intern - Spring/Summer 2026](https://jobright.ai/jobs/info/68ec818ad4b0106e703e870e?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Oct 12 |
 | **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Intern, Podcast Production](https://jobright.ai/jobs/info/68ed76e170b66e2345d3e650?utm_campaign=1053&utm_source=git)** | Buffalo-Niagara Area | Remote | Oct 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[UEE Event Logistics Student Intern](https://jobright.ai/jobs/info/68e82d84c4895107182c36af?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Oct 09 |
 | **[Spirit & Spire](https://spiritandspire.com/)** | **[Unpaid Internship(s): Podcast Media & Content Creation](https://jobright.ai/jobs/info/68e847d5c72beb74cb31d40d?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Oct 09 |
 | **[America & Beyond](https://www.americaandbeyond.us)** | **[Fall 2025 TikTok Content Creator Internship](https://jobright.ai/jobs/info/68e821b0c4895107182c2ad4?utm_campaign=1053&utm_source=git)** | Hollywood, FL | Remote | Oct 09 |
-| **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 TV Play By Play Broadcaster Internship (Free Housing)](https://jobright.ai/jobs/info/68e81ea5cc49a84b7e1024c3?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 09 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[TV Development & Current Series Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e97457f195760c354a9500?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
