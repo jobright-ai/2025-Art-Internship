@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Content Development Intern, Spring 2026](https://jobright.ai/jobs/info/68ee3ff4d078b81ad1604d9a?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 14 |
+| **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[CG Generalist Intern, Disney Animation - Winter 2026](https://jobright.ai/jobs/info/68ee3ac7d078b81ad16041a2?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 14 |
 | **[CTL Amedica](https://www.ctlamedica.com/)** | **[3D Animation Intern (Keyshot)](https://jobright.ai/jobs/info/68ee3681e0db9242257ff862?utm_campaign=1053&utm_source=git)** | Carrollton, TX | On Site | Oct 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Creative and Cultural Diversity Intern, Spring 2026](https://jobright.ai/jobs/info/68ee006c6335d3323612e1e2?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 14 |
 | **[Duininck](https://www.duininck.com/)** | **[2026 Golf Course Construction Internship](https://jobright.ai/jobs/info/68edd5866335d3323612c59b?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
@@ -95,6 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ABC News Race & Culture Unit Production Intern, Spring 2026](https://jobright.ai/jobs/info/68ec08b62f64880ca0b59d6d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 12 |
 | **[Escape™ App AI](https://www.escapeapp.ai)** | **[Metahuman Character Intern (Unreal Engine)](https://jobright.ai/jobs/info/68ec056676a1db7c59861b6f?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 12 |
 | **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Baking and Pastry Intern](https://jobright.ai/jobs/info/68ebdf738369791ef7828625?utm_campaign=1053&utm_source=git)** | Cashiers, NC | On Site | Oct 12 |
+| **[PENNYMAC](https://www.pennymac.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68b2ddad1ade4306aa63a46b?utm_campaign=1053&utm_source=git)** | Westlake Village, CA | On Site | Oct 12 |
 | **[Vivrelle](https://www.vivrelle.com/)** | **[Vivrelle Winter Internship Program (January - March)](https://jobright.ai/jobs/info/688114d429ad6b2744aded7e?utm_campaign=1053&utm_source=git)** | New York | On Site | Oct 12 |
 | **[University of La Verne](http://laverne.edu)** | **[Theatre Technical Student Assistant (23/24) - FWS](https://jobright.ai/jobs/info/68eb1a4176a1db7c5985ce19?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | Oct 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC Hulu Drama Intern, Spring 2026](https://jobright.ai/jobs/info/68ea6b1876a1db7c5985ae76?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 11 |
@@ -123,10 +126,10 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Early Morning News Production Intern, Spring 2026](https://jobright.ai/jobs/info/68e974f4f195760c354a95ae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Harn Museum of Art](www.harn.ufl.edu)** | **[Museum Horticulture Internship &amp;#8211; Harn Museum of Art](https://jobright.ai/jobs/info/68ec9b58c26b9574506f4c93?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Oct 10 |
 | **[Calm and Collected Music Group](https://www.cacmg.com/)** | **[Video Intern](https://jobright.ai/jobs/info/68e96c92f195760c354a8ea5?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
+| **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[2026 Summer Newsroom Internship](https://jobright.ai/jobs/info/68e965a80930fe0bc462550a?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Oct 10 |
 | **[Core-CSI](https://core-csi.com/)** | **[Content Creator Intern - Remote](https://jobright.ai/jobs/info/68e97f2c65768b6412b1cb16?utm_campaign=1053&utm_source=git)** | Sterling, VA | Remote | Oct 10 |
 | **[Castle Pines Golf Club](https://castlepinesgolfclub.club)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/68e97bce65768b6412b1ca44?utm_campaign=1053&utm_source=git)** | Castle Rock, CO | On Site | Oct 10 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Web Mgmt & Videography Intern](https://jobright.ai/jobs/info/68e95c06f195760c354a81ff?utm_campaign=1053&utm_source=git)** | Orlando, Florida | On Site | Oct 10 |
-| **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[2026 Summer Newsroom Internship](https://jobright.ai/jobs/info/68e9583265768b6412b1aaef?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Oct 10 |
 | **[Muzeo Museum and Cultural Center](https://muzeo.org/)** | **[Museum Curatorial Assistant Intern - Anaheim/OC Applicants Only](https://jobright.ai/jobs/info/68e94be09020b95add6a58e4?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Oct 10 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Writing & Editing Intern](https://jobright.ai/jobs/info/68e9491465768b6412b1a1ac?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Oct 10 |
 | **[Troon](http://www.troon.com/)** | **[The Colonial Life Charity Classic Championship Intern](https://jobright.ai/jobs/info/68e93d0965768b6412b19b8b?utm_campaign=1053&utm_source=git)** | Elgin, SC | On Site | Oct 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reynolds Lake Oconee](http://reynoldslakeoconee.com)** | **[Intern - Culinary](https://jobright.ai/jobs/info/68e84617cc49a84b7e104ac1?utm_campaign=1053&utm_source=git)** | Greensboro, GA | On Site | Oct 09 |
 | **[Project Podcast Co.](www.projectpodcast.co)** | **[Non-Paid: Podcast Producer Spring 2026 Internship](https://jobright.ai/jobs/info/68e84494cc49a84b7e1048fe?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 09 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Internship – Bowl Week 2025 (12/11/25 – 12/23/25)](https://jobright.ai/jobs/info/68e8440fcc49a84b7e104854?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Oct 09 |
-| **[Focus on the Family](https://www.focusonthefamily.com)** | **[Audio Drama Post-Production Apprentice](https://jobright.ai/jobs/info/68d5c4c41f7fb2169ab1392f?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | Oct 09 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[UEE Event Logistics Student Intern](https://jobright.ai/jobs/info/68e82d84c4895107182c36af?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Oct 09 |
-| **[Spirit & Spire](https://spiritandspire.com/)** | **[Unpaid Internship(s): Podcast Media & Content Creation](https://jobright.ai/jobs/info/68e847d5c72beb74cb31d40d?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
