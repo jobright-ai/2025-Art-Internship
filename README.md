@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CTL Amedica](https://www.ctlamedica.com/)** | **[3D Animation Intern (Keyshot)](https://jobright.ai/jobs/info/68ee3681e0db9242257ff862?utm_campaign=1053&utm_source=git)** | Carrollton, TX | On Site | Oct 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Creative and Cultural Diversity Intern, Spring 2026](https://jobright.ai/jobs/info/68ee006c6335d3323612e1e2?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 14 |
 | **[Duininck](https://www.duininck.com/)** | **[2026 Golf Course Construction Internship](https://jobright.ai/jobs/info/68edd5866335d3323612c59b?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
 | **[Wild 7 Studios ](http://wild7studios.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/68ed8e6581fdd1626d39d86f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 13 |
@@ -111,9 +112,9 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News Race & Culture Unit Production Intern, Spring 2026](https://jobright.ai/jobs/info/68e9add865768b6412b1e912?utm_campaign=1053&utm_source=git)** | Washington, DC, USA | On Site | Oct 10 |
 | ↳ | **[ABC News This Week Production Intern, Spring 2026](https://jobright.ai/jobs/info/68e9ac7a65768b6412b1e7cf?utm_campaign=1053&utm_source=git)** | Washington, DC, USA | On Site | Oct 10 |
 | **[The Venetoulis Institute for Local Journalism](https://venetoulisinstitute.org)** | **[2026 Summer Newsroom Internship](https://jobright.ai/jobs/info/68e99ea10930fe0bc4627c85?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Oct 10 |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Sports Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e98ddaf195760c354aa84e?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | On Site | Oct 10 |
-| ↳ | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e98dcef195760c354aa84b?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | On Site | Oct 10 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e98dcef195760c354aa84b?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | On Site | Oct 10 |
 | ↳ | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e98dc565768b6412b1d6fc?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | On Site | Oct 10 |
+| ↳ | **[Sports Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e98db3f195760c354aa841?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | On Site | Oct 10 |
 | **[Austin American-Statesman](http://www.statesman.com/)** | **[Sports Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e98a3f0930fe0bc4626ed5?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | On Site | Oct 10 |
 | ↳ | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e989ee0930fe0bc4626eac?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | On Site | Oct 10 |
 | **[Ulla Johnson  ](https://ullajohnson.com)** | **[Production Intern](https://jobright.ai/jobs/info/68e987eb0930fe0bc4626e4b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Focus on the Family](https://www.focusonthefamily.com)** | **[Audio Drama Post-Production Apprentice](https://jobright.ai/jobs/info/68d5c4c41f7fb2169ab1392f?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | Oct 09 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[UEE Event Logistics Student Intern](https://jobright.ai/jobs/info/68e82d84c4895107182c36af?utm_campaign=1053&utm_source=git)** | UT MAIN CAMPUS | On Site | Oct 09 |
 | **[Spirit & Spire](https://spiritandspire.com/)** | **[Unpaid Internship(s): Podcast Media & Content Creation](https://jobright.ai/jobs/info/68e847d5c72beb74cb31d40d?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Oct 09 |
-| **[America & Beyond](https://www.americaandbeyond.us)** | **[Fall 2025 TikTok Content Creator Internship](https://jobright.ai/jobs/info/68e821b0c4895107182c2ad4?utm_campaign=1053&utm_source=git)** | Hollywood, FL | Remote | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
