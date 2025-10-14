@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eventage](http://eventage.net)** | **[Intern](https://jobright.ai/jobs/info/68ee852a46e5b153e5a5b7c6?utm_campaign=1053&utm_source=git)** | South Orange, NJ | On Site | Oct 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Content Development Intern, Spring 2026](https://jobright.ai/jobs/info/68ee3ff4d078b81ad1604d9a?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 14 |
 | **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[CG Generalist Intern, Disney Animation - Winter 2026](https://jobright.ai/jobs/info/68ee3ac7d078b81ad16041a2?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 14 |
 | **[CTL Amedica](https://www.ctlamedica.com/)** | **[3D Animation Intern (Keyshot)](https://jobright.ai/jobs/info/68ee3681e0db9242257ff862?utm_campaign=1053&utm_source=git)** | Carrollton, TX | On Site | Oct 14 |
@@ -126,10 +127,10 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Early Morning News Production Intern, Spring 2026](https://jobright.ai/jobs/info/68e974f4f195760c354a95ae?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Harn Museum of Art](www.harn.ufl.edu)** | **[Museum Horticulture Internship &amp;#8211; Harn Museum of Art](https://jobright.ai/jobs/info/68ec9b58c26b9574506f4c93?utm_campaign=1053&utm_source=git)** | Gainesville, FL | On Site | Oct 10 |
 | **[Calm and Collected Music Group](https://www.cacmg.com/)** | **[Video Intern](https://jobright.ai/jobs/info/68e96c92f195760c354a8ea5?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
+| **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[2026 Summer Newsroom Internship](https://jobright.ai/jobs/info/68e965a80930fe0bc462550a?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Oct 10 |
 | **[Core-CSI](https://core-csi.com/)** | **[Content Creator Intern - Remote](https://jobright.ai/jobs/info/68e97f2c65768b6412b1cb16?utm_campaign=1053&utm_source=git)** | Sterling, VA | Remote | Oct 10 |
 | **[Castle Pines Golf Club](https://castlepinesgolfclub.club)** | **[Golf Course Maintenance Internship](https://jobright.ai/jobs/info/68e97bce65768b6412b1ca44?utm_campaign=1053&utm_source=git)** | Castle Rock, CO | On Site | Oct 10 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Web Mgmt & Videography Intern](https://jobright.ai/jobs/info/68e95c06f195760c354a81ff?utm_campaign=1053&utm_source=git)** | Orlando, Florida | On Site | Oct 10 |
-| **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[2026 Summer Newsroom Internship](https://jobright.ai/jobs/info/68e9583265768b6412b1aaef?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Oct 10 |
 | **[Muzeo Museum and Cultural Center](https://muzeo.org/)** | **[Museum Curatorial Assistant Intern - Anaheim/OC Applicants Only](https://jobright.ai/jobs/info/68e94be09020b95add6a58e4?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Oct 10 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Writing & Editing Intern](https://jobright.ai/jobs/info/68e9491465768b6412b1a1ac?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Oct 10 |
 | **[Troon](http://www.troon.com/)** | **[The Colonial Life Charity Classic Championship Intern](https://jobright.ai/jobs/info/68e93d0965768b6412b19b8b?utm_campaign=1053&utm_source=git)** | Elgin, SC | On Site | Oct 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reynolds Lake Oconee](http://reynoldslakeoconee.com)** | **[Intern - Culinary](https://jobright.ai/jobs/info/68e84617cc49a84b7e104ac1?utm_campaign=1053&utm_source=git)** | Greensboro, GA | On Site | Oct 09 |
 | **[Project Podcast Co.](www.projectpodcast.co)** | **[Non-Paid: Podcast Producer Spring 2026 Internship](https://jobright.ai/jobs/info/68e84494cc49a84b7e1048fe?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 09 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Scooter’s Coffee Frisco Bowl Internship – Bowl Week 2025 (12/11/25 – 12/23/25)](https://jobright.ai/jobs/info/68e8440fcc49a84b7e104854?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Oct 09 |
-| **[Focus on the Family](https://www.focusonthefamily.com)** | **[Audio Drama Post-Production Apprentice](https://jobright.ai/jobs/info/68d5c4c41f7fb2169ab1392f?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
