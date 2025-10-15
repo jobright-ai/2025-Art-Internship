@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Creative and Cultural Diversity Intern, Spring 2026](https://jobright.ai/jobs/info/68ef8aed9821486c423c6222?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 15 |
 | **[Enterprise for Youth](https://enterpriseforyouth.org/)** | **[Program Director, Bloomberg Arts Internship Program](https://jobright.ai/jobs/info/68ef5e5778ba1621431ddfe1?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Oct 15 |
 | **[David C Cook](https://davidccook.org)** | **[Music Publishing Administration Internship (Unpaid)](https://jobright.ai/jobs/info/68ef45019821486c423c2ec6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Oct 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) Programming, Promotion & Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68ef3745a1a1d02df61eb528?utm_campaign=1053&utm_source=git)** | Chicago, IL, USA | On Site | Oct 14 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WABC-TV (ABC7) Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68ef2656a1a1d02df61e9cee?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Oct 14 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WB Games Production Coordinator Intern: Troy, NY - Summer 2026](https://jobright.ai/jobs/info/68ef0e90a1a1d02df61e8856?utm_campaign=1053&utm_source=git)** | Troy, NY | Hybrid | Oct 14 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Actor](https://jobright.ai/jobs/info/68ef0d97230ae70a14c3f581?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Oct 14 |
-| **[Respawn Entertainment](http://www.respawn.com/)** | **[Narrative Design Intern, Summer 2026 (Jedi)](https://jobright.ai/jobs/info/68ef04a020456578d5eb4198?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Oct 14 |
+| **[Respawn Entertainment](http://www.respawn.com/)** | **[Narrative Design Intern, Summer 2026 (Jedi)](https://jobright.ai/jobs/info/68ef08eb230ae70a14c3f3d9?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Oct 14 |
 | **[137Ewes Productions](http://www.137ewes.com)** | **[Animation Intern - Hand/2D/3D/StopMotion - 137Ewes - JANUARY 2026 FESTIVAL SPRINT](https://jobright.ai/jobs/info/68ef266a230ae70a14c40eaf?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 14 |
 | **[David C Cook](https://davidccook.org)** | **[Video Production Intern DCC (Unpaid)](https://jobright.ai/jobs/info/68eef18246e5b153e5a6131a?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Oct 14 |
 | ↳ | **[Digital Production Internship (Unpaid)](https://jobright.ai/jobs/info/68eeefede0db92422580ca9f?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Oct 14 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68e44e96f758fe1f97e66def?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Oct 14 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Flagship Production Intern](https://jobright.ai/jobs/info/68ee964e46e5b153e5a5c8b7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 14 |
 | ↳ | **[Social Editor Internship](https://jobright.ai/jobs/info/68ee91e4e0db924225807e2b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 14 |
-| **[Eventage](http://eventage.net)** | **[Intern](https://jobright.ai/jobs/info/68ee852a46e5b153e5a5b7c6?utm_campaign=1053&utm_source=git)** | South Orange, NJ | On Site | Oct 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Content Development Intern, Spring 2026](https://jobright.ai/jobs/info/68ee3ff4d078b81ad1604d9a?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 14 |
 | **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[CG Generalist Intern, Disney Animation - Winter 2026](https://jobright.ai/jobs/info/68ee3ac7d078b81ad16041a2?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 14 |
 | **[CTL Amedica](https://www.ctlamedica.com/)** | **[3D Animation Intern (Keyshot)](https://jobright.ai/jobs/info/68ee3681e0db9242257ff862?utm_campaign=1053&utm_source=git)** | Carrollton, TX | On Site | Oct 14 |
@@ -129,32 +129,32 @@ For a complete list, click the following sortable link below:
 | **[PENNYMAC](https://www.pennymac.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68b2ddad1ade4306aa63a46b?utm_campaign=1053&utm_source=git)** | Westlake Village, CA | On Site | Oct 12 |
 | **[Vivrelle](https://www.vivrelle.com/)** | **[Vivrelle Winter Internship Program (January - March)](https://jobright.ai/jobs/info/688114d429ad6b2744aded7e?utm_campaign=1053&utm_source=git)** | New York | On Site | Oct 12 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef3c0d230ae70a14c42900?utm_campaign=1053&utm_source=git)** | Kingston, NY | On Site | Oct 11 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef3ccf230ae70a14c42a73?utm_campaign=1053&utm_source=git)** | Derry, NH | On Site | Oct 11 |
 | **[University of La Verne](http://laverne.edu)** | **[Theatre Technical Student Assistant (23/24) - FWS](https://jobright.ai/jobs/info/68eb1a4176a1db7c5985ce19?utm_campaign=1053&utm_source=git)** | La Verne, CA | On Site | Oct 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC Hulu Drama Intern, Spring 2026](https://jobright.ai/jobs/info/68ea6b1876a1db7c5985ae76?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 11 |
 | ↳ | **[20th Television Production & Post-Production  Intern, Spring 2026](https://jobright.ai/jobs/info/68ea68512f64880ca0b52cc4?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 11 |
 | ↳ | **[20th Television Business Affairs JD Intern, Spring 2026](https://jobright.ai/jobs/info/68ea633f2f64880ca0b52b14?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 11 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Saint John's Resort](https://jobright.ai/jobs/info/68e4903db99ec3563b0ebab2?utm_campaign=1053&utm_source=git)** | Plymouth, MI | On Site | Oct 11 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef5ff3de50091dbfa4e29c?utm_campaign=1053&utm_source=git)** | Newport, RI | On Site | Oct 11 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef5e8278ba1621431de045?utm_campaign=1053&utm_source=git)** | Bruceton Mills, WV | On Site | Oct 11 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef61af9821486c423c5487?utm_campaign=1053&utm_source=git)** | Gloucester, VA | On Site | Oct 11 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Opera Artistic Administration (Spring 2026)](https://jobright.ai/jobs/info/68ea05c354fbf903f6a8077f?utm_campaign=1053&utm_source=git)** | Vienna, VA, USA | On Site | Oct 11 |
 | ↳ | **[Intern, Production &amp; Sound (Spring 2026)](https://jobright.ai/jobs/info/68ea0596cfc08e4908914925?utm_campaign=1053&utm_source=git)** | Vienna, VA, USA | On Site | Oct 11 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef57f7de50091dbfa4da3a?utm_campaign=1053&utm_source=git)** | Bristol, RI | On Site | Oct 11 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef47319821486c423c3430?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Oct 10 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef3d24230ae70a14c42b1e?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Oct 10 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef40f4a1a1d02df61ebbc1?utm_campaign=1053&utm_source=git)** | Brockton, MA | On Site | Oct 10 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef3e6a230ae70a14c42d8c?utm_campaign=1053&utm_source=git)** | Sturbridge, MA | On Site | Oct 10 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef3f05230ae70a14c42f16?utm_campaign=1053&utm_source=git)** | Glasgow, MT | On Site | Oct 10 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef3306a1a1d02df61ea9b4?utm_campaign=1053&utm_source=git)** | Honokaa, HI | On Site | Oct 10 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef34f6a1a1d02df61eaee4?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 10 |
 | **[WFYI Public Media](https://www.wfyi.org/)** | **[Reporting Intern, News Spring 2026](https://jobright.ai/jobs/info/68e9e1c1cfc08e4908913761?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 10 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hershey Country Club Culinary Intern - Summer 2026](https://jobright.ai/jobs/info/68e9e0bccdf8d94b293a2c9f?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Oct 10 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef34c8a1a1d02df61eae3e?utm_campaign=1053&utm_source=git)** | St Charles, AR | On Site | Oct 10 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef3b5120456578d5eb7469?utm_campaign=1053&utm_source=git)** | Inverness, FL | On Site | Oct 10 |
+| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef3b5120456578d5eb7469?utm_campaign=1053&utm_source=git)** | Inverness, FL | On Site | Oct 10 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef37b5230ae70a14c4248d?utm_campaign=1053&utm_source=git)** | Shenandoah Junction, WV | On Site | Oct 10 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef32f7a1a1d02df61ea98a?utm_campaign=1053&utm_source=git)** | Norwich, CT | On Site | Oct 10 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef266fa1a1d02df61e9d4f?utm_campaign=1053&utm_source=git)** | Dundee, OH | On Site | Oct 10 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef17af20456578d5eb4db7?utm_campaign=1053&utm_source=git)** | Derby, KS | On Site | Oct 10 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e9c15bcfc08e4908912ad5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Oct 10 |
+| ↳ | **[Sports Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e9bba665768b6412b1efbb?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Oct 10 |
+| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WITN](https://jobright.ai/jobs/info/68e9b787feeb0006c1a56dbe?utm_campaign=1053&utm_source=git)** | Greenville, NC | On Site | Oct 10 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Writing &amp; Editing Intern](https://jobright.ai/jobs/info/68e9b589feeb0006c1a56c0e?utm_campaign=1053&utm_source=git)** | Strongsville, OH, USA | On Site | Oct 10 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News Race & Culture Unit Production Intern, Spring 2026](https://jobright.ai/jobs/info/68e9add865768b6412b1e912?utm_campaign=1053&utm_source=git)** | Washington, DC, USA | On Site | Oct 10 |
+| ↳ | **[ABC News This Week Production Intern, Spring 2026](https://jobright.ai/jobs/info/68e9ac7a65768b6412b1e7cf?utm_campaign=1053&utm_source=git)** | Washington, DC, USA | On Site | Oct 10 |
+| **[The Venetoulis Institute for Local Journalism](https://venetoulisinstitute.org)** | **[2026 Summer Newsroom Internship](https://jobright.ai/jobs/info/68e99ea10930fe0bc4627c85?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Oct 10 |
+| **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/68e1fa96b99ec3563b0d965c?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Oct 10 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e98dcef195760c354aa84b?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | On Site | Oct 10 |
+| ↳ | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e98dc565768b6412b1d6fc?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | On Site | Oct 10 |
+| ↳ | **[Sports Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e98db3f195760c354aa841?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | On Site | Oct 10 |
+| **[Austin American-Statesman](http://www.statesman.com/)** | **[Sports Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e98a3f0930fe0bc4626ed5?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | On Site | Oct 10 |
+| ↳ | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e989ee0930fe0bc4626eac?utm_campaign=1053&utm_source=git)** | 901 Mission Street, San Francisco, CA, 94103, US | On Site | Oct 10 |
+| **[Ulla Johnson  ](https://ullajohnson.com)** | **[Production Intern](https://jobright.ai/jobs/info/68e987eb0930fe0bc4626e4b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
