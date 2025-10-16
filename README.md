@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Student Writer](https://jobright.ai/jobs/info/68f04195de50091dbfa53bf1?utm_campaign=1053&utm_source=git)** | Ogden, UT | On Site | Oct 15 |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68f0368ade50091dbfa537da?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 15 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING/SUMMER '26 - KOLN](https://jobright.ai/jobs/info/68f002c89821486c423c89fc?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Oct 15 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Intern- Golf Maintenance](https://jobright.ai/jobs/info/68f0012e9821486c423c886a?utm_campaign=1053&utm_source=git)** | Ridgedale, MO | On Site | Oct 15 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Lexington Herald-Leader](https://jobright.ai/jobs/info/68f000bb9821486c423c87fc?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Oct 15 |
@@ -111,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Creative and Cultural Diversity Intern, Spring 2026](https://jobright.ai/jobs/info/68ee006c6335d3323612e1e2?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 14 |
 | **[Duininck](https://www.duininck.com/)** | **[2026 Golf Course Construction Internship](https://jobright.ai/jobs/info/68edd5866335d3323612c59b?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Golf Maintenance Intern](https://jobright.ai/jobs/info/68e70eaf1852e62f00821daf?utm_campaign=1053&utm_source=git)** | Hilton Head Island, SC | On Site | Oct 13 |
-| **[Wild 7 Studios ](http://wild7studios.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/68ed8e6581fdd1626d39d86f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 13 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Video Production Intern](https://jobright.ai/jobs/info/68ed7d036335d33236129719?utm_campaign=1053&utm_source=git)** | McConnellsburg, PA | On Site | Oct 13 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Content and Communications Intern](https://jobright.ai/jobs/info/68ed780b81fdd1626d39ccb9?utm_campaign=1053&utm_source=git)** | Jacksonville, FL | On Site | Oct 13 |
 | **[PBS12](https://www.pbs12.org)** | **[Photojournalist & Internship Program Leader](https://jobright.ai/jobs/info/68ed780181fdd1626d39cca5?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Oct 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WFYI Public Media](https://www.wfyi.org/)** | **[Reporting Intern, News Spring 2026](https://jobright.ai/jobs/info/68e9e1c1cfc08e4908913761?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 10 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hershey Country Club Culinary Intern - Summer 2026](https://jobright.ai/jobs/info/68e9e0bccdf8d94b293a2c9f?utm_campaign=1053&utm_source=git)** | Hershey, PA | On Site | Oct 10 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef37b5230ae70a14c4248d?utm_campaign=1053&utm_source=git)** | Shenandoah Junction, WV | On Site | Oct 10 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68ef3b5120456578d5eb7469?utm_campaign=1053&utm_source=git)** | Inverness, FL | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
