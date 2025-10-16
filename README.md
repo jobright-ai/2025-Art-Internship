@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gesture](https://gesture.vip)** | **[Content Production Intern (Video + Audio)](https://jobright.ai/jobs/info/68f11262ef766b3f0fd0854e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 16 |
+| **[Ballotpedia](https://ballotpedia.org/)** | **[Editorial or Communications Spring 2026 Internship Program (Paid/Remote)](https://jobright.ai/jobs/info/68f0ff44ef766b3f0fd078e7?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WABC-TV (ABC7) Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68f0e97eef766b3f0fd06ac8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | ↳ | **[WLS-TV (ABC7) Programming, Promotion & Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68f0e5d6f462172a5a7d1035?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Oct 16 |
 | ↳ | **[WABC-TV (ABC7) 7 on Your Side Intern, Spring 2026](https://jobright.ai/jobs/info/68f0e469e6870116b1f51526?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 16 |
@@ -91,9 +93,8 @@ For a complete list, click the following sortable link below:
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Spring 2026 Production Intern](https://jobright.ai/jobs/info/68efd87e9821486c423c7b3f?utm_campaign=1053&utm_source=git)** | Johnston, IA | On Site | Oct 15 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Music and Programming Intern: Co-op](https://jobright.ai/jobs/info/68efcd0b78ba1621431e0703?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 15 |
 | **[Retail Tech Media Nexus](RTMNexus.com)** | **[Intern Video and Social](https://jobright.ai/jobs/info/68efccc4de50091dbfa5041b?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 15 |
-| **[Lynn University](http://www.lynn.edu/)** | **[Internship in Holocaust Studies Multimedia](https://jobright.ai/jobs/info/68f0df68e6870116b1f51313?utm_campaign=1053&utm_source=git)** | Lynn Library | On Site | Oct 15 |
 | **[Pierre Yovanovitch](https://www.pierreyovanovitch.com)** | **[Gallery Intern F/H](https://jobright.ai/jobs/info/68efc5d478ba1621431e039a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 15 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Music and Programming Intern: Co-op](https://jobright.ai/jobs/info/68f0c88fe6870116b1f50677?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 15 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Music and Programming Intern: Co-op](https://jobright.ai/jobs/info/68f0c6e5f462172a5a7cfa08?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Creative and Cultural Diversity Intern, Spring 2026](https://jobright.ai/jobs/info/68ef8aed9821486c423c6222?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 15 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f0cfe7f462172a5a7d001a?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Oct 15 |
 | **[Enterprise for Youth](https://enterpriseforyouth.org/)** | **[Program Director, Bloomberg Arts Internship Program](https://jobright.ai/jobs/info/68ef5e5778ba1621431ddfe1?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Oct 15 |
@@ -129,9 +130,7 @@ For a complete list, click the following sortable link below:
 | **[David C Cook](https://davidccook.org)** | **[Video Production Intern DCC (Unpaid)](https://jobright.ai/jobs/info/68eef18246e5b153e5a6131a?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Oct 14 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Community and Foundation Season 2026](https://jobright.ai/jobs/info/68f02f2bde50091dbfa53128?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Oct 14 |
 | **[David C Cook](https://davidccook.org)** | **[Digital Production Internship (Unpaid)](https://jobright.ai/jobs/info/68eeefede0db92422580ca9f?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Oct 14 |
-| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern (Spring 2026)](https://jobright.ai/jobs/info/68eed9e1d078b81ad16101c2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 14 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WB Games Production Coordinator Intern: Troy, NY - Summer 2026](https://jobright.ai/jobs/info/68eed1dcd078b81ad160fb74?utm_campaign=1053&utm_source=git)** | NY Troy 5 3rd Street | Hybrid | Oct 14 |
-| **[Women Into Networking WIN Community](https://www.wincommunity.org/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68eed0f846e5b153e5a6020d?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Remote | Oct 14 |
 | **[NFHS](http://www.nfhs.org)** | **[Intern - NFHS Publications & Communications](https://jobright.ai/jobs/info/68eec2ced078b81ad160ef31?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 14 |
 | **[Rocket Loans](http://www.rocketloans.com/)** | **[Video Producer Intern- Summer 2026](https://jobright.ai/jobs/info/68eec1fcd078b81ad160edf1?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Oct 14 |
 | **[NEBCO, Inc.](http://nebcoinc.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68eec1e4d078b81ad160edc1?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
@@ -140,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[FOUR FOUR ENTERTAINMENT](www.fourfourent.com)** | **[Artist Management Intern](https://jobright.ai/jobs/info/68eebfdde0db92422580ae4c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Oct 14 |
 | **[CampusReel](https://www.campusreel.org/)** | **[Student Content Creator - Minnesota State Moorhead](https://jobright.ai/jobs/info/68ef2217a1a1d02df61e9a6a?utm_campaign=1053&utm_source=git)** | Moorhead, MN | On Site | Oct 14 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68e44e96f758fe1f97e66def?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Oct 14 |
+| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern (Spring 2026)](https://jobright.ai/jobs/info/68ee998dd078b81ad160c220?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 14 |
 | **[DreamBackfield - University of Pittsburgh Sports Fan Message Board Blog Website](https://pittsburgh.sportswar.com)** | **[Pitt Sports Analytics Intern Staff Writer](https://jobright.ai/jobs/info/68ef9e2e9821486c423c66f4?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Oct 14 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Flagship Production Intern](https://jobright.ai/jobs/info/68ee964e46e5b153e5a5c8b7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Content Development Intern, Spring 2026](https://jobright.ai/jobs/info/68ee3ff4d078b81ad1604d9a?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 14 |
