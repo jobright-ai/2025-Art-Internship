@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Respect My Region](https://www.respectmyregion.com)** | **[Social Media Video Editor](https://jobright.ai/jobs/info/68f07bb2eb273a32d9768e8f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Oct 15 |
+| **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Community and Foundation Season 2026](https://jobright.ai/jobs/info/68f0aad6eb273a32d976b6ae?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Oct 16 |
 | **[Bawn](https://www.youtube.com/@bawnexplain)** | **[3D Generalist Intern](https://jobright.ai/jobs/info/68f06f97eb273a32d976875e?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68f063ad9e09d311e04316a0?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Oct 15 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68f0639c9e09d311e0431686?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Oct 15 |
@@ -120,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[David C Cook](https://davidccook.org)** | **[Video Production Intern DCC (Unpaid)](https://jobright.ai/jobs/info/68eef18246e5b153e5a6131a?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Oct 14 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Community and Foundation Season 2026](https://jobright.ai/jobs/info/68f02f2bde50091dbfa53128?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Oct 14 |
 | **[David C Cook](https://davidccook.org)** | **[Digital Production Internship (Unpaid)](https://jobright.ai/jobs/info/68eeefede0db92422580ca9f?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Oct 14 |
+| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern (Spring 2026)](https://jobright.ai/jobs/info/68eed9e1d078b81ad16101c2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 14 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WB Games Production Coordinator Intern: Troy, NY - Summer 2026](https://jobright.ai/jobs/info/68eed1dcd078b81ad160fb74?utm_campaign=1053&utm_source=git)** | NY Troy 5 3rd Street | Hybrid | Oct 14 |
 | **[Women Into Networking WIN Community](https://www.wincommunity.org/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68eed0f846e5b153e5a6020d?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Remote | Oct 14 |
 | **[NFHS](http://www.nfhs.org)** | **[Intern - NFHS Publications & Communications](https://jobright.ai/jobs/info/68eec2ced078b81ad160ef31?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 14 |
@@ -130,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[FOUR FOUR ENTERTAINMENT](www.fourfourent.com)** | **[Artist Management Intern](https://jobright.ai/jobs/info/68eebfdde0db92422580ae4c?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Oct 14 |
 | **[CampusReel](https://www.campusreel.org/)** | **[Student Content Creator - Minnesota State Moorhead](https://jobright.ai/jobs/info/68ef2217a1a1d02df61e9a6a?utm_campaign=1053&utm_source=git)** | Moorhead, MN | On Site | Oct 14 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68e44e96f758fe1f97e66def?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Oct 14 |
-| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern (Spring 2026)](https://jobright.ai/jobs/info/68ee998dd078b81ad160c220?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 14 |
 | **[DreamBackfield - University of Pittsburgh Sports Fan Message Board Blog Website](https://pittsburgh.sportswar.com)** | **[Pitt Sports Analytics Intern Staff Writer](https://jobright.ai/jobs/info/68ef9e2e9821486c423c66f4?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Oct 14 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Flagship Production Intern](https://jobright.ai/jobs/info/68ee964e46e5b153e5a5c8b7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Content Development Intern, Spring 2026](https://jobright.ai/jobs/info/68ee3ff4d078b81ad1604d9a?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 14 |
