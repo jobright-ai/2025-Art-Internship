@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Woodward Communications, Inc.](https://www.wcinet.com/)** | **[NEWSROOM FELLOW](https://jobright.ai/jobs/info/68f1a20def766b3f0fd10410?utm_campaign=1053&utm_source=git)** | Dubuque, IA | On Site | Oct 16 |
+| **[Aria](https://ariareply.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68f1a157ef766b3f0fd10367?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 16 |
+| **[Cider](https://shop.shopcider.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68f19a44f462172a5a7da780?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 16 |
+| **[Notre Dame Data Science](http://datascience@nd.edu)** | **[FaithND Audio Coordinator / Temporary](https://jobright.ai/jobs/info/68f198ccf462172a5a7da589?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | Hybrid | Oct 16 |
 | **[David C Cook](https://davidccook.org)** | **[Licensing Internship (Unpaid)](https://jobright.ai/jobs/info/68f19135ef766b3f0fd0f6ef?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Oct 16 |
 | ↳ | **[Integrity Music Publishing Internship (Unpaid)](https://jobright.ai/jobs/info/68f19031ef766b3f0fd0f65f?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Oct 16 |
 | **[FJDZ INTERNATIONAL,INC.](http://www.fjdzinc.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68f18096e6870116b1f59d47?utm_campaign=1053&utm_source=git)** | Santa Ana, CA | Hybrid | Oct 16 |
@@ -76,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[TKO](https://tkogrp.com)** | **[UFC Originals Production Internship - Spring 2026](https://jobright.ai/jobs/info/68f149c6ef766b3f0fd0b3af?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Oct 16 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/68f1450cf462172a5a7d57a1?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Oct 16 |
 | **[Yale University](https://www.yale.edu)** | **[Conferences & Events Intern](https://jobright.ai/jobs/info/68f142dfef766b3f0fd0ad5b?utm_campaign=1053&utm_source=git)** | Whitney Ave,  55 | On Site | Oct 16 |
-| **[TKO](https://tkogrp.com)** | **[UFC Originals Production Internship - Spring 2026](https://jobright.ai/jobs/info/68f14012f462172a5a7d520d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Oct 16 |
+| **[TKO](https://tkogrp.com)** | **[UFC Originals Production Internship - Spring 2026](https://jobright.ai/jobs/info/68f13ffaf462172a5a7d51ef?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Oct 16 |
 | **[Ultimate Fighting Championship](http://UFC.com)** | **[UFC Originals Production Internship - Spring 2026](https://jobright.ai/jobs/info/68f13f78e6870116b1f55487?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Oct 16 |
 | **[Hit Central Studios](https://www.linkedin.com/company/105522915)** | **[Videographer Intern](https://jobright.ai/jobs/info/68f139fcef766b3f0fd0a203?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Oct 16 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/68f1390be6870116b1f55043?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 16 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[David C Cook](https://davidccook.org)** | **[Video Production Intern DCC (Unpaid)](https://jobright.ai/jobs/info/68eef18246e5b153e5a6131a?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Oct 14 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Community and Foundation Season 2026](https://jobright.ai/jobs/info/68f02f2bde50091dbfa53128?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | On Site | Oct 14 |
 | **[David C Cook](https://davidccook.org)** | **[Digital Production Internship (Unpaid)](https://jobright.ai/jobs/info/68eeefede0db92422580ca9f?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Oct 14 |
-| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Production Intern (Spring 2026)](https://jobright.ai/jobs/info/68eed9e1d078b81ad16101c2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 14 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WB Games Production Coordinator Intern: Troy, NY - Summer 2026](https://jobright.ai/jobs/info/68eed1dcd078b81ad160fb74?utm_campaign=1053&utm_source=git)** | NY Troy 5 3rd Street | Hybrid | Oct 14 |
 | **[NFHS](http://www.nfhs.org)** | **[Intern - NFHS Publications & Communications](https://jobright.ai/jobs/info/68eec2ced078b81ad160ef31?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 14 |
-| **[Rocket Loans](http://www.rocketloans.com/)** | **[Video Producer Intern- Summer 2026](https://jobright.ai/jobs/info/68eec1fcd078b81ad160edf1?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Oct 14 |
-| **[NEBCO, Inc.](http://nebcoinc.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68eec1e4d078b81ad160edc1?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
-| **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Editorial Intern](https://jobright.ai/jobs/info/68eec11c46e5b153e5a5f699?utm_campaign=1053&utm_source=git)** | Temecula, CA | Hybrid | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
