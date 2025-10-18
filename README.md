@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Oct 17 |
+| **[DigiKey](https://www.digikey.ca)** | **[Video Production Intern](https://jobright.ai/jobs/info/68f2f07776a51a4307bc9601?utm_campaign=1053&utm_source=git)** | Thief River Falls, MN | On Site | Oct 17 |
+| **[Students for Accessible Aerospace](https://www.aerostudent.org)** | **[Content Writer Intern](https://jobright.ai/jobs/info/68f2ea879a63986de756d423?utm_campaign=1053&utm_source=git)** | New Jersey, United States | Remote | Oct 17 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac Music Group Music Publishing Intern](https://jobright.ai/jobs/info/68f2e5219a65fd3458581c8f?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Oct 17 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Content Intern - Spring 2026](https://jobright.ai/jobs/info/68f2e4d69a63986de756cf89?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
+| ↳ | **[Digital Video Intern - Spring 2026](https://jobright.ai/jobs/info/68f2e48376a51a4307bc8fb1?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Writing & Editing Intern](https://jobright.ai/jobs/info/68e9491465768b6412b1a1ac?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Oct 17 |
+| ↳ | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Oct 17 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Video Intern - Spring 2026](https://jobright.ai/jobs/info/68f2c95b76a51a4307bc84bc?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
 | ↳ | **[Digital Content Intern - Spring 2026](https://jobright.ai/jobs/info/68f2c8d39a63986de756c3d1?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Stage Manager](https://jobright.ai/jobs/info/68f2c0ba9a63986de756bea2?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Oct 17 |
@@ -114,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[TKO](https://tkogrp.com)** | **[UFC Originals Production Internship - Spring 2026](https://jobright.ai/jobs/info/68f149c6ef766b3f0fd0b3af?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Oct 16 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/68f1450cf462172a5a7d57a1?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Oct 16 |
 | **[Yale University](https://www.yale.edu)** | **[Conferences & Events Intern](https://jobright.ai/jobs/info/68f142dfef766b3f0fd0ad5b?utm_campaign=1053&utm_source=git)** | Whitney Ave,  55 | On Site | Oct 16 |
-| **[TKO](https://tkogrp.com)** | **[UFC Originals Production Internship - Spring 2026](https://jobright.ai/jobs/info/68f14012f462172a5a7d520d?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Oct 16 |
+| **[TKO](https://tkogrp.com)** | **[UFC Originals Production Internship - Spring 2026](https://jobright.ai/jobs/info/68f13ffaf462172a5a7d51ef?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Oct 16 |
 | **[Ultimate Fighting Championship](http://UFC.com)** | **[UFC Originals Production Internship - Spring 2026](https://jobright.ai/jobs/info/68f13f78e6870116b1f55487?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Oct 16 |
 | **[Hit Central Studios](https://www.linkedin.com/company/105522915)** | **[Videographer Intern](https://jobright.ai/jobs/info/68f139fcef766b3f0fd0a203?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Oct 16 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/68f1390be6870116b1f55043?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 16 |
@@ -122,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[Antiques Roadshow Digital Internship - Spring 2026](https://jobright.ai/jobs/info/68f1333be6870116b1f549b6?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Idea Ranch](https://idearanch.com)** | **[Adaptive Sports Durango x Idea Ranch Intern](https://jobright.ai/jobs/info/68f1289fe6870116b1f54263?utm_campaign=1053&utm_source=git)** | Durango, CO | On Site | Oct 16 |
 | **[YourBookTeam](https://yourbookteam.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/68f12294e6870116b1f53f1f?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 16 |
-| **[Bawn](https://www.youtube.com/@bawnexplain)** | **[3D Generalist Intern](https://jobright.ai/jobs/info/68f11af9f462172a5a7d308b?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Gesture](https://gesture.vip)** | **[Content Production Intern (Video + Audio)](https://jobright.ai/jobs/info/68f11262ef766b3f0fd0854e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern( Fall or Spring Semester) Hyatt Regency Bonita Springs Resort](https://jobright.ai/jobs/info/68e4adde1852e62f00808742?utm_campaign=1053&utm_source=git)** | Bonita Springs, FL | On Site | Oct 16 |
 | ↳ | **[Event Technology Internship (Fall or Spring semester)- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/68e48454b99ec3563b0eb1a8?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Oct 16 |
@@ -131,9 +136,9 @@ For a complete list, click the following sortable link below:
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN Cleveland Spring 2025 Internship](https://jobright.ai/jobs/info/68f22f7fcb0abf15612f56db?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Oct 16 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Production Intern - Winter 2026](https://jobright.ai/jobs/info/68d77a62295f8e37655dac1f?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Oct 16 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Business Reporting Internship - Summer 2026](https://jobright.ai/jobs/info/68d440bdffc1276de3fd8b17?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 16 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68cd4b871ad6b16f02897a71?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Oct 16 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Community and Foundation Season 2026](https://jobright.ai/jobs/info/68f0aad6eb273a32d976b6ae?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Oct 16 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68f1f0a7e6870116b1f5ed19?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 15 |
+| **[Bawn](https://www.youtube.com/@bawnexplain)** | **[3D Generalist Intern](https://jobright.ai/jobs/info/68f06f97eb273a32d976875e?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68f063ad9e09d311e04316a0?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Oct 15 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68f0639c9e09d311e0431686?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Oct 15 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/68f063809e09d311e0431643?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Oct 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Lexington Herald-Leader](https://jobright.ai/jobs/info/68f000bb9821486c423c87fc?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Oct 15 |
 | **[Westchester Magazine](https://westchestermagazine.com)** | **[Spring 2026 Editorial Internship (Print)](https://jobright.ai/jobs/info/68efffee78ba1621431e17c6?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Oct 15 |
 | **[UFC Brasil](http://ufc.com.br)** | **[Spanish Production Intern - Spring 2026](https://jobright.ai/jobs/info/68f02fb99821486c423ca192?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
-| **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Public Address and Gameday Presentation Internship (Free Housing)](https://jobright.ai/jobs/info/68f02d5cde50091dbfa52c5a?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 15 |
-| ↳ | **[2026 Content Creator & Camera Operator Internship (Free Housing)](https://jobright.ai/jobs/info/68f0227c9821486c423c9346?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 15 |
-| ↳ | **[2026 Broadcast Video & Technical Production Internship (Free Housing)](https://jobright.ai/jobs/info/68f02e8ede50091dbfa52fa5?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 15 |
-| ↳ | **[2026 Broadcast Camera Director & Video Creation Internship (Free Housing)](https://jobright.ai/jobs/info/68f030f69821486c423ca378?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 15 |
-| **[Ultimate Fighting Championship](http://UFC.com)** | **[Spanish Production Intern - Spring 2026](https://jobright.ai/jobs/info/68efefdfde50091dbfa50f4b?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
