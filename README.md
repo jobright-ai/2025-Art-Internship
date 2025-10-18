@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Athletic](https://theathletic.com/)** | **[Reporter Video Student Intern, Summer 2026 (Remote)](https://jobright.ai/jobs/info/68f30b629a63986de756e62e?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 17 |
 | **[DigiKey](https://www.digikey.ca)** | **[Video Production Intern](https://jobright.ai/jobs/info/68f2f07776a51a4307bc9601?utm_campaign=1053&utm_source=git)** | Thief River Falls, MN | On Site | Oct 17 |
 | **[Students for Accessible Aerospace](https://www.aerostudent.org)** | **[Content Writer Intern](https://jobright.ai/jobs/info/68f2ea879a63986de756d423?utm_campaign=1053&utm_source=git)** | New Jersey, United States | Remote | Oct 17 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac Music Group Music Publishing Intern](https://jobright.ai/jobs/info/68f2e5219a65fd3458581c8f?utm_campaign=1053&utm_source=git)** | Calabasas, CA, USA | On Site | Oct 17 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Video Intern - Spring 2026](https://jobright.ai/jobs/info/68f2c95b76a51a4307bc84bc?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
 | ↳ | **[Digital Content Intern - Spring 2026](https://jobright.ai/jobs/info/68f2c8d39a63986de756c3d1?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Stage Manager](https://jobright.ai/jobs/info/68f2c0ba9a63986de756bea2?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Oct 17 |
+| **[Arena](https://arena.run/)** | **[Editorial Spring 2026 Internship Program (Paid/Remote)](https://jobright.ai/jobs/info/68f2feef9a65fd34585829c2?utm_campaign=1053&utm_source=git)** | Madison, WI | Remote | Oct 17 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Multimedia Intern, Scientific American](https://jobright.ai/jobs/info/68f2bae09a65fd34585804a2?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 17 |
 | ↳ | **[News Intern, Scientific American](https://jobright.ai/jobs/info/68f2b8699a63986de756b660?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Oct 17 |
 | **[The Athletic](https://theathletic.com/)** | **[Reporter Video Student Intern, Summer 2026 (Remote)](https://jobright.ai/jobs/info/68f2b67d9a63986de756b33c?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 17 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/68f056f699530851ee6ec9c5?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Oct 15 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Student Writer](https://jobright.ai/jobs/info/68f04195de50091dbfa53bf1?utm_campaign=1053&utm_source=git)** | Ogden, UT | On Site | Oct 15 |
 | **[Granville Homes](http://gvhomes.com)** | **[Multimedia Journalism Internship (part-time)](https://jobright.ai/jobs/info/68f151fce6870116b1f56c59?utm_campaign=1053&utm_source=git)** | Fresno, CA | On Site | Oct 15 |
-| **[Respawn Entertainment](http://www.respawn.com/)** | **[Narrative Design Intern (Star Wars Jedi)](https://jobright.ai/jobs/info/68f2bd6776a51a4307bc7bca?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Oct 15 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING/SUMMER '26 - KOLN](https://jobright.ai/jobs/info/68f002c89821486c423c89fc?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Oct 15 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Intern- Golf Maintenance](https://jobright.ai/jobs/info/68f0012e9821486c423c886a?utm_campaign=1053&utm_source=git)** | Ridgedale, MO | On Site | Oct 15 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Lexington Herald-Leader](https://jobright.ai/jobs/info/68f000bb9821486c423c87fc?utm_campaign=1053&utm_source=git)** | Lexington, KY | On Site | Oct 15 |
 | **[Westchester Magazine](https://westchestermagazine.com)** | **[Spring 2026 Editorial Internship (Print)](https://jobright.ai/jobs/info/68efffee78ba1621431e17c6?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Oct 15 |
-| **[UFC Brasil](http://ufc.com.br)** | **[Spanish Production Intern - Spring 2026](https://jobright.ai/jobs/info/68f02fb99821486c423ca192?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
