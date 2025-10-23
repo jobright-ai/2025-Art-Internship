@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Entertainment Television Programming Strategy Intern, Spring 2026](https://jobright.ai/jobs/info/68f9b76b7b89366816033c2e?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Oct 22 |
+| ↳ | **[ABC Localish Production Intern, Spring 2026](https://jobright.ai/jobs/info/68f9b66f7b89366816033b38?utm_campaign=1053&utm_source=git)** | New York, NY, USA | Hybrid | Oct 22 |
+| ↳ | **[Live!  Kelly and Mark Production Intern, Spring 2026](https://jobright.ai/jobs/info/68f9b2887b89366816033850?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Oct 22 |
+| **[Women Who Influence](http://Www.WomenWhoInfluence.org)** | **[Content Creator](https://jobright.ai/jobs/info/68f9ad1ecadb2e5a06a66d14?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Oct 22 |
+| **[Park Nicollet Health Services](http://www.parknicollet.com)** | **[Music Therapy Intern](https://jobright.ai/jobs/info/68f9a6d77b893668160332a7?utm_campaign=1053&utm_source=git)** | St Louis Park, MN | On Site | Oct 22 |
 | **[PCL Construction](http://www.pcl.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68f99d7d6de2db04dc3ea9c3?utm_campaign=1053&utm_source=git)** | Denver, CO | On Site | Oct 22 |
+| **[PGA TOUR](http://www.pgatour.com)** | **[Event Services - Intern](https://jobright.ai/jobs/info/68f64b8676a51a4307bd8f8d?utm_campaign=1053&utm_source=git)** | Palm Beach Gardens, FL | On Site | Oct 22 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier News Intern - TCL](https://jobright.ai/jobs/info/68f98cb66de2db04dc3ea0a0?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Oct 22 |
 | **[Sealaska](http://www.sealaska.com/)** | **[Storytelling and Engagement Intern (SSP) - Summer 2026](https://jobright.ai/jobs/info/68f98a5da628d10664e8db6f?utm_campaign=1053&utm_source=git)** | Juneau, AK | On Site | Oct 22 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier News Intern - USCB](https://jobright.ai/jobs/info/68f989a26de2db04dc3e9ee0?utm_campaign=1053&utm_source=git)** | Bluffton, SC | On Site | Oct 22 |
@@ -111,8 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Film Development- Spring 2026](https://jobright.ai/jobs/info/68f7b21dec6dbe7073fc9807?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 21 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Writing & Editing Intern](https://jobright.ai/jobs/info/68e9491465768b6412b1a1ac?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Oct 21 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Roadshow Coordinator Intern](https://jobright.ai/jobs/info/68daa56d6df7b8311bb10a2f?utm_campaign=1053&utm_source=git)** | Plymouth, MN | Hybrid | Oct 21 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77b02ec6dbe7073fc39b5?utm_campaign=1053&utm_source=git)** | Clemson, SC | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77abc5dc1be601281341e?utm_campaign=1053&utm_source=git)** | Anchorage, AK | On Site | Oct 21 |
+| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77abc5dc1be601281341e?utm_campaign=1053&utm_source=git)** | Anchorage, AK | On Site | Oct 21 |
 | **[RunSwitch PR](https://www.runswitchpr.com/)** | **[Internships](https://jobright.ai/jobs/info/68f77688b0edcf159dc802f1?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Oct 21 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77670ec6dbe7073fc3347?utm_campaign=1053&utm_source=git)** | Cheney, WA | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77600b0edcf159dc80154?utm_campaign=1053&utm_source=git)** | Madison, NJ | On Site | Oct 21 |
@@ -128,15 +133,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77282b0edcf159dc7fb4e?utm_campaign=1053&utm_source=git)** | Jonesboro, AR | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f772595dc1be60128121a9?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77252b0edcf159dc7fae7?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77209b0edcf159dc7fa0c?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77209b0edcf159dc7fa0d?utm_campaign=1053&utm_source=git)** | Flagstaff, AZ | On Site | Oct 21 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77209b0edcf159dc7fa0c?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f771b85dc1be6012811fd7?utm_campaign=1053&utm_source=git)** | Laramie, WY | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f771a7ec6dbe7073fc2316?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f7719ab0edcf159dc7f857?utm_campaign=1053&utm_source=git)** | Trenton, NJ | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77104b0edcf159dc7f612?utm_campaign=1053&utm_source=git)** | Bangor, ME | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77023ec6dbe7073fc213e?utm_campaign=1053&utm_source=git)** | Swainsboro, GA | On Site | Oct 21 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f76ff6ec6dbe7073fc2120?utm_campaign=1053&utm_source=git)** | Clemson, SC | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f76fdbb0edcf159dc7f188?utm_campaign=1053&utm_source=git)** | College Station, TX | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f76fcc5dc1be6012811b44?utm_campaign=1053&utm_source=git)** | Kahului, HI | On Site | Oct 21 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f76f81b0edcf159dc7f120?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f76f81b0edcf159dc7f121?utm_campaign=1053&utm_source=git)** | Athens, WV | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f76f605dc1be6012811acb?utm_campaign=1053&utm_source=git)** | Huntington, WV | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f76f2fec6dbe7073fc1f08?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Oct 21 |
@@ -144,17 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f76eb05dc1be60128119ba?utm_campaign=1053&utm_source=git)** | Honolulu, HI | On Site | Oct 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - 508 Club Intern](https://jobright.ai/jobs/info/68db482ae19b9e63ba209e55?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Oct 21 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Oct 21 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f78993ec6dbe7073fc5a1b?utm_campaign=1053&utm_source=git)** | Butte, MT | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f7838fec6dbe7073fc4bf7?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f780c7b0edcf159dc8196c?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f78a98ec6dbe7073fc5c29?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f7826db0edcf159dc81ecf?utm_campaign=1053&utm_source=git)** | Bozeman, MT | On Site | Oct 21 |
+| **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f7838fec6dbe7073fc4bf7?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Oct 21 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f78993ec6dbe7073fc5a1b?utm_campaign=1053&utm_source=git)** | Butte, MT | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f78b675dc1be601281555d?utm_campaign=1053&utm_source=git)** | Chinle, AZ | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77cc1b0edcf159dc811e7?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77cf2b0edcf159dc8120a?utm_campaign=1053&utm_source=git)** | Tacoma, WA | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f78e885dc1be6012815be1?utm_campaign=1053&utm_source=git)** | Middletown, CT | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f78fa75dc1be6012815e1a?utm_campaign=1053&utm_source=git)** | Corvallis, OR | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f789195dc1be6012815436?utm_campaign=1053&utm_source=git)** | Ellensburg, WA | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f781c2b0edcf159dc81c8f?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f78352ec6dbe7073fc4b85?utm_campaign=1053&utm_source=git)** | Greeley, CO | On Site | Oct 21 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f7826db0edcf159dc81ecf?utm_campaign=1053&utm_source=git)** | Bozeman, MT | On Site | Oct 21 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f78a98ec6dbe7073fc5c29?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Oct 21 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f780c7b0edcf159dc8196c?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
