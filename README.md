@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
+| **[Geotab](http://www.geotab.com/)** | **[YouTube Content & Analytics Intern (Winter/January 2026, 8-12 Months)](https://jobright.ai/jobs/info/68fa5ecd67272b29af72e52d?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia - USA | On Site | Oct 23 |
+| **[YourBookTeam](https://yourbookteam.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/68fa540cedd190144238afad?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 23 |
+| **[Soda](https://www.soda.site/)** | **[Video Producer Internship](https://jobright.ai/jobs/info/68fa5621edd190144238b1d0?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Oct 23 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
+| ↳ | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
-| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
+| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/68dd6e84ddc10244dd67f4ce?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Oct 23 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Digital News Intern, Spring 2026](https://jobright.ai/jobs/info/68fa1f02fa86ef748cc2841d?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 23 |
 | **[Perry Homes](http://perryhomes.com)** | **[2026 Summer Internship - Video Production - DFW](https://jobright.ai/jobs/info/68b0e8502d46f6396cae964a?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Oct 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC Digital News Intern, ABC7 en Español, Spring 2026](https://jobright.ai/jobs/info/68fa2f0b5703ec4868fdefb9?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 23 |
@@ -144,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77282b0edcf159dc7fb4e?utm_campaign=1053&utm_source=git)** | Jonesboro, AR | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f772595dc1be60128121a9?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77252b0edcf159dc7fae7?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77209b0edcf159dc7fa0c?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77209b0edcf159dc7fa0d?utm_campaign=1053&utm_source=git)** | Flagstaff, AZ | On Site | Oct 21 |
+| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77209b0edcf159dc7fa0c?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f771b85dc1be6012811fd7?utm_campaign=1053&utm_source=git)** | Laramie, WY | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f771a7ec6dbe7073fc2316?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f7719ab0edcf159dc7f857?utm_campaign=1053&utm_source=git)** | Trenton, NJ | On Site | Oct 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f76ff6ec6dbe7073fc2120?utm_campaign=1053&utm_source=git)** | Clemson, SC | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f76fdbb0edcf159dc7f188?utm_campaign=1053&utm_source=git)** | College Station, TX | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f76fcc5dc1be6012811b44?utm_campaign=1053&utm_source=git)** | Kahului, HI | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f76f81b0edcf159dc7f121?utm_campaign=1053&utm_source=git)** | Athens, WV | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f76f605dc1be6012811acb?utm_campaign=1053&utm_source=git)** | Huntington, WV | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f76f2fec6dbe7073fc1f08?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
