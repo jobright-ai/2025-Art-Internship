@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Community Engagement Production Intern, Spring 2026](https://jobright.ai/jobs/info/68fb05919e8e925ac6c8859b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Oct 23 |
+| **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Video Editing & Studio Assistant Internship](https://jobright.ai/jobs/info/68faf7db9e8e925ac6c87f77?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Oct 23 |
 | **[Charlotte Independence](https://www.charlotteindependence.com)** | **[Spring 2026 Internship: Videography](https://jobright.ai/jobs/info/68faf2c53c99cc1d96027ce7?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Oct 23 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Social Video Internship](https://jobright.ai/jobs/info/68d701e445853d0e39ccc091?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | ↳ | **[Video Internship](https://jobright.ai/jobs/info/68d6faef45853d0e39ccb905?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 23 |
@@ -70,12 +72,12 @@ For a complete list, click the following sortable link below:
 | **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Videography Production Intern](https://jobright.ai/jobs/info/68fa95ddb2c86843bf20fb63?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Oct 23 |
 | **[Charter Global](http://www.charterglobal.com)** | **[Intern – Film & Social Media Storytelling](https://jobright.ai/jobs/info/68fa940967272b29af731458?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
 | **[Geotab](http://www.geotab.com/)** | **[YouTube Content & Analytics Intern (Winter/January 2026, 8-12 Months)](https://jobright.ai/jobs/info/68fa5ecd67272b29af72e52d?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia - USA | On Site | Oct 23 |
-| **[Soda](https://www.soda.site/)** | **[Content Producer Internship](https://jobright.ai/jobs/info/68fa5621edd190144238b1d0?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Oct 23 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
-| ↳ | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
+| **[Soda](https://www.soda.site/)** | **[Video Producer Internship](https://jobright.ai/jobs/info/68fa5621edd190144238b1d0?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Oct 23 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/68dd6e84ddc10244dd67f4ce?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Oct 23 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Digital News Intern, Spring 2026](https://jobright.ai/jobs/info/68fa1f02fa86ef748cc2841d?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 23 |
 | **[Perry Homes](http://perryhomes.com)** | **[2026 Summer Internship - Video Production - DFW](https://jobright.ai/jobs/info/68b0e8502d46f6396cae964a?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Oct 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC Digital News Intern, ABC7 en Español, Spring 2026](https://jobright.ai/jobs/info/68fa2f0b5703ec4868fdefb9?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 23 |
@@ -108,8 +110,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[The Post and Courier News Intern - TCL](https://jobright.ai/jobs/info/68f92c966de2db04dc3e6337?utm_campaign=1053&utm_source=git)** | Bluffton, SC, USA | On Site | Oct 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC Digital News Intern, ABC7 en Español, Spring 2026](https://jobright.ai/jobs/info/68f94a026de2db04dc3e7da3?utm_campaign=1053&utm_source=git)** | Glendale, CA, USA | On Site | Oct 22 |
 | **[Suno](https://www.suno.com)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/68f9232aa628d10664e89989?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 22 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage Cabinet - Videographer/Photographer](https://jobright.ai/jobs/info/68f91c93cadb2e5a06a6141e?utm_campaign=1053&utm_source=git)** | Frankfort, KY | On Site | Oct 22 |
-| ↳ | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage Cabinet - Videographer/Photographer](https://jobright.ai/jobs/info/68f939e4cadb2e5a06a6296f?utm_campaign=1053&utm_source=git)** | Frankfort, KY, US | On Site | Oct 22 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage Cabinet - Videographer/Photographer](https://jobright.ai/jobs/info/68f939e4cadb2e5a06a6296f?utm_campaign=1053&utm_source=git)** | Frankfort, KY, US | On Site | Oct 22 |
+| ↳ | **[Team Kentucky Internship Program-Tourism, Arts and Heritage Cabinet-Videographer/Photographer](https://jobright.ai/jobs/info/68f91c93cadb2e5a06a6141e?utm_campaign=1053&utm_source=git)** | Frankfort, KY | On Site | Oct 22 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/68dc03c1d6470e72cf4d7fbd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 22 |
 | **[Común](https://en.comun.app)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68f90c41a628d10664e886c9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[CampusReel](https://www.campusreel.org/)** | **[Student Content Creator - Minnesota State Moorhead](https://jobright.ai/jobs/info/68ef2217a1a1d02df61e9a6a?utm_campaign=1053&utm_source=git)** | Moorhead, MN | On Site | Oct 22 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77510ec6dbe7073fc2ddf?utm_campaign=1053&utm_source=git)** | Murray, KY | On Site | Oct 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Guest Services Production Intern](https://jobright.ai/jobs/info/68db490134f2c406da6d613d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Oct 21 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f7746c5dc1be6012812842?utm_campaign=1053&utm_source=git)** | Edmond, OK | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f7738db0edcf159dc7fdde?utm_campaign=1053&utm_source=git)** | Corvallis, OR | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f7735b5dc1be60128124b8?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77282b0edcf159dc7fb4e?utm_campaign=1053&utm_source=git)** | Jonesboro, AR | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f772595dc1be60128121a9?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77252b0edcf159dc7fae7?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Oct 21 |
 | ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77209b0edcf159dc7fa0d?utm_campaign=1053&utm_source=git)** | Flagstaff, AZ | On Site | Oct 21 |
-| ↳ | **[Writer/Journalist Internship](https://jobright.ai/jobs/info/68f77209b0edcf159dc7fa0c?utm_campaign=1053&utm_source=git)** | Notre Dame, IN | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
