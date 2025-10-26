@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bryant Alexander Group](https://www.linkedin.com/company/106919794)** | **[Editorial Intern](https://jobright.ai/jobs/info/68fe4353e04ac838fb5b3e70?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Oct 26 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/68c8ff10f9c6ff7aedf161b7?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | **[National Center on Sexual Exploitation](https://endsexualexploitation.org/)** | **[Internship: Media Production](https://jobright.ai/jobs/info/68fd8594e0c73b3a11192c8d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 25 |
+| **[It’s All G Marketing Agency](http://its-all-g-atl.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/68fe1e460ab3b222462a64c9?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Oct 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) Programming, Promotion & Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68fd06b40ab3b222462a0ca4?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
 | **[The Information](https://www.theinformation.com)** | **[2026 Summer Editorial Intern](https://jobright.ai/jobs/info/688d139a3a30793eb96485ce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Community Engagement Production Intern, Spring 2026](https://jobright.ai/jobs/info/68fcc56a0ab3b2224629f500?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 25 |
@@ -71,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL News Intern - 2026 Spring](https://jobright.ai/jobs/info/68fc728f4129dd33cd13c0b3?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Oct 24 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Medical Animation Intern](https://jobright.ai/jobs/info/68fc21844129dd33cd138fb3?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Oct 24 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc080df55bb021a889fa76?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Oct 24 |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/68fc079c4129dd33cd13801f?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/68fc048593c49825ab108c81?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
 | ↳ | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc03fc4129dd33cd137bc2?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
 | **[Austin American-Statesman](https://www.statesman.com)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/68fc0092f55bb021a889f4ca?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
 | ↳ | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fbfef2f55bb021a889f325?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
@@ -111,11 +113,11 @@ For a complete list, click the following sortable link below:
 | **[Charter Global](http://www.charterglobal.com)** | **[Intern – Film & Social Media Storytelling](https://jobright.ai/jobs/info/68fa940967272b29af731458?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
 | **[Geotab](http://www.geotab.com/)** | **[YouTube Content & Analytics Intern (Winter/January 2026, 8-12 Months)](https://jobright.ai/jobs/info/68fa5ecd67272b29af72e52d?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia - USA | On Site | Oct 23 |
 | **[Soda](https://www.soda.site/)** | **[Content Producer Internship](https://jobright.ai/jobs/info/68fa5621edd190144238b1d0?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Oct 23 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
-| ↳ | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
-| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
+| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/68dd6e84ddc10244dd67f4ce?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Oct 23 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Digital News Intern, Spring 2026](https://jobright.ai/jobs/info/68fa1f02fa86ef748cc2841d?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 23 |
 | ↳ | **[KABC Digital News Intern, ABC7 en Español, Spring 2026](https://jobright.ai/jobs/info/68fa2f0b5703ec4868fdefb9?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 23 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68fa0621d8eb372efd191fff?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Común](https://en.comun.app)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68f90c41a628d10664e886c9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[CampusReel](https://www.campusreel.org/)** | **[Student Content Creator - Minnesota State Moorhead](https://jobright.ai/jobs/info/68ef2217a1a1d02df61e9a6a?utm_campaign=1053&utm_source=git)** | Moorhead, MN | On Site | Oct 22 |
 | **[CNA Corporation](https://www.cna.org)** | **[Research Publications / Editing Intern - Summer 2026](https://jobright.ai/jobs/info/68bf5fa5702aa35207aa5be8?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Oct 22 |
-| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Social Video - Spring 2026](https://jobright.ai/jobs/info/68f907b46de2db04dc3e45f7?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 22 |
-| **[Vermeer Corporation](https://borestore.com/)** | **[Audio Visual Intern (Summer 2026)](https://jobright.ai/jobs/info/68c07543702aa35207aad2e1?utm_campaign=1053&utm_source=git)** | Pella, IA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
