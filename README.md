@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Center on Sexual Exploitation](https://endsexualexploitation.org/)** | **[Internship: Media Production](https://jobright.ai/jobs/info/68fd8594e0c73b3a11192c8d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) Programming, Promotion & Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68fd06b40ab3b222462a0ca4?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
 | **[The Information](https://www.theinformation.com)** | **[2026 Summer Editorial Intern](https://jobright.ai/jobs/info/688d139a3a30793eb96485ce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Community Engagement Production Intern, Spring 2026](https://jobright.ai/jobs/info/68fcc56a0ab3b2224629f500?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 25 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68fd9c12e04ac838fb5b0ccf?utm_campaign=1053&utm_source=git)** | Brea, CA | On Site | Oct 25 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68fcba260ab3b2224629f05b?utm_campaign=1053&utm_source=git)** | Springdale, AR | On Site | Oct 25 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Video Production Season 2026](https://jobright.ai/jobs/info/68fc9521664c6f162a952a8b?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 25 |
 | **[Lucy's Restaurant Group](http://www.lucysauburn.com)** | **[International Intern - Non US Resident - Culinary](https://jobright.ai/jobs/info/68fca91ce04ac838fb5ab70c?utm_campaign=1053&utm_source=git)** | Auburn, AL, US | On Site | Oct 25 |
@@ -109,11 +111,11 @@ For a complete list, click the following sortable link below:
 | **[Charter Global](http://www.charterglobal.com)** | **[Intern – Film & Social Media Storytelling](https://jobright.ai/jobs/info/68fa940967272b29af731458?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
 | **[Geotab](http://www.geotab.com/)** | **[YouTube Content & Analytics Intern (Winter/January 2026, 8-12 Months)](https://jobright.ai/jobs/info/68fa5ecd67272b29af72e52d?utm_campaign=1053&utm_source=git)** | Atlanta, Georgia - USA | On Site | Oct 23 |
 | **[Soda](https://www.soda.site/)** | **[Content Producer Internship](https://jobright.ai/jobs/info/68fa5621edd190144238b1d0?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Oct 23 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
-| ↳ | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/68dd6e84ddc10244dd67f4ce?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Oct 23 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Digital News Intern, Spring 2026](https://jobright.ai/jobs/info/68fa1f02fa86ef748cc2841d?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 23 |
 | ↳ | **[KABC Digital News Intern, ABC7 en Español, Spring 2026](https://jobright.ai/jobs/info/68fa2f0b5703ec4868fdefb9?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 23 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/68fa0621d8eb372efd191fff?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Oct 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CampusReel](https://www.campusreel.org/)** | **[Student Content Creator - Minnesota State Moorhead](https://jobright.ai/jobs/info/68ef2217a1a1d02df61e9a6a?utm_campaign=1053&utm_source=git)** | Moorhead, MN | On Site | Oct 22 |
 | **[CNA Corporation](https://www.cna.org)** | **[Research Publications / Editing Intern - Summer 2026](https://jobright.ai/jobs/info/68bf5fa5702aa35207aa5be8?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Oct 22 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Social Video - Spring 2026](https://jobright.ai/jobs/info/68f907b46de2db04dc3e45f7?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 22 |
-| **[Vermeer Corporation](https://borestore.com/)** | **[Audio Visual Intern (Summer 2026)](https://jobright.ai/jobs/info/68c07543702aa35207aad2e1?utm_campaign=1053&utm_source=git)** | Pella, IA | On Site | Oct 22 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Hulu and Walt Disney Alternative Studio Unscripted Production/Post-Production Intern, Spring 2026](https://jobright.ai/jobs/info/68f8d3434bafad6d2d765c58?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
