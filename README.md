@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TKO](https://tkogrp.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/68ffb0a0e0c73b3a1119d746?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Oct 27 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Animation Intern](https://jobright.ai/jobs/info/68ff82bbe04ac838fb5b8e92?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - MULTIMEDIA AUDIO/VISUAL (HDQ)](https://jobright.ai/jobs/info/68ccd115b274cd205ab4f76f?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 27 |
 | **[Concord](https://concord.com/)** | **[Concord Originals Intern](https://jobright.ai/jobs/info/68ff1a13e04ac838fb5b651d?utm_campaign=1053&utm_source=git)** | US-CA-Los Angeles | On Site | Oct 27 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/68c8ff10f9c6ff7aedf161b7?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | **[It’s All G Marketing Agency](http://its-all-g-atl.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/68fe1e460ab3b222462a64c9?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Oct 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) Programming, Promotion & Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68fd06b40ab3b222462a0ca4?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/68ff7693e04ac838fb5b89b7?utm_campaign=1053&utm_source=git)** | Avondale, AZ | On Site | Oct 25 |
 | **[The Information](https://www.theinformation.com)** | **[2026 Summer Editorial Intern](https://jobright.ai/jobs/info/688d139a3a30793eb96485ce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Community Engagement Production Intern, Spring 2026](https://jobright.ai/jobs/info/68fcc56a0ab3b2224629f500?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Oct 25 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Live Production Summer 2026 Intern](https://jobright.ai/jobs/info/68fcba260ab3b2224629f05b?utm_campaign=1053&utm_source=git)** | Springdale, AR | On Site | Oct 25 |
@@ -78,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL News Intern - 2026 Spring](https://jobright.ai/jobs/info/68fc728f4129dd33cd13c0b3?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Oct 24 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Medical Animation Intern](https://jobright.ai/jobs/info/68fc21844129dd33cd138fb3?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Oct 24 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc080df55bb021a889fa76?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Oct 24 |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/68fc04d74129dd33cd137cf2?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/68fc051a93c49825ab108ccf?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
 | ↳ | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc03fc4129dd33cd137bc2?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
 | **[Austin American-Statesman](http://www.statesman.com/)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/68fc0092f55bb021a889f4ca?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
 | ↳ | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fbfef2f55bb021a889f325?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
@@ -121,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | ↳ | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
-| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
+| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 23 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/68dd6e84ddc10244dd67f4ce?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Oct 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Digital News Intern, Spring 2026](https://jobright.ai/jobs/info/68fa1f02fa86ef748cc2841d?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 23 |
 | ↳ | **[KABC Digital News Intern, ABC7 en Español, Spring 2026](https://jobright.ai/jobs/info/68fa2f0b5703ec4868fdefb9?utm_campaign=1053&utm_source=git)** | Glendale, CA | On Site | Oct 23 |
