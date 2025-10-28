@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Make Room Gallery](www.makeroom.la)** | **[Gallery Internship - Spring 2026](https://jobright.ai/jobs/info/69013954d5259a1b3cff31c6?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Oct 28 |
+| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/68db2dfa6df7b8311bb16a62?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Oct 28 |
+| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Spring 2026](https://jobright.ai/jobs/info/69012bb94539ea1f2141d58d?utm_campaign=1053&utm_source=git)** | Remote - United States | Remote | Oct 28 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Exhibitions Project Management Intern: Spring](https://jobright.ai/jobs/info/69012332d5259a1b3cff1d15?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 28 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Weddings/Events Internship / Summer 2026](https://jobright.ai/jobs/info/690122c4d5259a1b3cff1caf?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Oct 28 |
 | **[Suno](https://www.suno.com)** | **[Content Creator (Intern)](https://jobright.ai/jobs/info/68f9232aa628d10664e89989?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 28 |
 | **[ATKG](https://atkg.com/)** | **[Event Planning Internship](https://jobright.ai/jobs/info/69010430f8ce7a040fdbb58c?utm_campaign=1053&utm_source=git)** | San Antonio, TX | On Site | Oct 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/69010078f8ce7a040fdbb2a3?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA | Hybrid | Oct 28 |
@@ -116,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL News Intern - 2026 Spring](https://jobright.ai/jobs/info/68fc728f4129dd33cd13c0b3?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Oct 24 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Medical Animation Intern](https://jobright.ai/jobs/info/68fc21844129dd33cd138fb3?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Oct 24 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc080df55bb021a889fa76?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Oct 24 |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/68fc079c4129dd33cd13801f?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/68fc051a93c49825ab108ccf?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
 | ↳ | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc03fc4129dd33cd137bc2?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
 | **[Austin American-Statesman](http://www.statesman.com/)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/68fc0092f55bb021a889f4ca?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
 | ↳ | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fbfef2f55bb021a889f325?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WSJ. Magazine & Style News Summer Internship](https://jobright.ai/jobs/info/68d7767161a175619f8ce4b8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Recreation Intern / Spring](https://jobright.ai/jobs/info/68faddbb3c99cc1d96026f4c?utm_campaign=1053&utm_source=git)** | Amelia, FL | On Site | Oct 23 |
 | **[MAFF - Music. Art. Fashion. Forward.](https://www.maff.tv/)** | **[MAFF Campus Curator](https://jobright.ai/jobs/info/68fb904193c49825ab103c80?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 23 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Writing & Editing Intern](https://jobright.ai/jobs/info/68e9491465768b6412b1a1ac?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
-| **[PlayStation](https://www.playstation.com/)** | **[VFX Art Intern - Undergraduate](https://jobright.ai/jobs/info/68fab560b2c86843bf2114c3?utm_campaign=1053&utm_source=git)** | United States of America | On Site | Oct 23 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
-| **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Videography Production Intern](https://jobright.ai/jobs/info/68fa95ddb2c86843bf20fb63?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Oct 23 |
-| **[Charter Global](http://www.charterglobal.com)** | **[Intern – Film & Social Media Storytelling](https://jobright.ai/jobs/info/68fa940967272b29af731458?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
