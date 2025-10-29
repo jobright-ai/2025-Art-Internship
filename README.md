@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902441700a1816c41e9c515?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
+| **[Stroum Jewish Community Center of Greater Seattle](http://www.sjcc.org)** | **[Arts + Ideas and Film Festival Intern](https://jobright.ai/jobs/info/690248eb00a1816c41e9c88a?utm_campaign=1053&utm_source=git)** | Mercer Island, WA | On Site | Oct 29 |
 | **[Industrial Light & Magic](http://ilm.com/)** | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/69020f6500a1816c41e9afad?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 29 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Spring 2026.](https://jobright.ai/jobs/info/68e59e2fae2b894b1d711e68?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Oct 29 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6901afb04539ea1f21422535?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 28 |
@@ -123,7 +125,7 @@ For a complete list, click the following sortable link below:
 | **[TKO](https://tkogrp.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/68ffc0c9e0c73b3a1119df2f?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 27 |
 | **[Ultimate Fighting Championship](http://UFC.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/68ffbf00e0c73b3a1119de69?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Oct 27 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - China Power Project (Spring 2026)](https://jobright.ai/jobs/info/68ffd952e04ac838fb5bc4d8?utm_campaign=1053&utm_source=git)** | Washington, US | Hybrid | Oct 27 |
-| **[TKO](https://tkogrp.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/68ffaf90e0c73b3a1119d649?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Oct 27 |
+| **[TKO](https://tkogrp.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/68ffb0a0e0c73b3a1119d746?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Oct 27 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Animation Intern](https://jobright.ai/jobs/info/68ff82bbe04ac838fb5b8e92?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - MULTIMEDIA AUDIO/VISUAL (HDQ)](https://jobright.ai/jobs/info/68ccd115b274cd205ab4f76f?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 27 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6901f7e4ff462851fefdf876?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Oct 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kera](https://getkera.com)** | **[Think Intern, Spring 2026](https://jobright.ai/jobs/info/68fc7dc339d0ae3279af589c?utm_campaign=1053&utm_source=git)** | Dallas, TX, US | Hybrid | Oct 24 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Historian Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbe9a5f55bb021a889df2b?utm_campaign=1053&utm_source=git)** | Plymouth, MN | On Site | Oct 24 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship / Summer 2026 / Events](https://jobright.ai/jobs/info/68fbe2bff55bb021a889d96a?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Oct 24 |
-| **[Stantec](http://www.stantec.com)** | **[Architectural Historian Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbdfca4129dd33cd135b6a?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
-| ↳ | **[Architectural Historian Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbdb314129dd33cd1356af?utm_campaign=1053&utm_source=git)** | Woodbury, MN | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
