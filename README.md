@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acumatica](https://www.acumatica.com)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/690172334539ea1f214201c4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 28 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Weddings/Events Internship / Summer 2026](https://jobright.ai/jobs/info/690171bdd5259a1b3cff5016?utm_campaign=1053&utm_source=git)** | US-NH-Bretton Woods | On Site | Oct 28 |
+| **[Acumatica](https://www.acumatica.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/6901703a4539ea1f214200cc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 28 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Gen Z Podcast Editor Winter Internship (Unpaid)](https://jobright.ai/jobs/info/69016f61d5259a1b3cff4ec2?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Remote | Oct 28 |
+| **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/690169e24539ea1f2141fdc1?utm_campaign=1053&utm_source=git)** | Cary,North Carolina,United States | On Site | Oct 28 |
+| **[Invite Only Studios](http://www.inviteonly.studio)** | **[Content Creator Intern](https://jobright.ai/jobs/info/690167ce4539ea1f2141fc41?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibitions Project Management Intern: Spring](https://jobright.ai/jobs/info/69015621f8ce7a040fdbefa8?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 28 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Spring 2026](https://jobright.ai/jobs/info/69014d0bf8ce7a040fdbeb3f?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 28 |
 | **[VX Media](https://www.vxmedia.co)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69013ff8d5259a1b3cff395b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 28 |
@@ -111,11 +117,10 @@ For a complete list, click the following sortable link below:
 | **[TKO](https://tkogrp.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/68ffb0a0e0c73b3a1119d746?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Oct 27 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Animation Intern](https://jobright.ai/jobs/info/68ff82bbe04ac838fb5b8e92?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - MULTIMEDIA AUDIO/VISUAL (HDQ)](https://jobright.ai/jobs/info/68ccd115b274cd205ab4f76f?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 27 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6900b7f5f8ce7a040fdb8df0?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Oct 27 |
 | **[Concord](https://concord.com/)** | **[Concord Originals Intern](https://jobright.ai/jobs/info/68ff1a13e04ac838fb5b651d?utm_campaign=1053&utm_source=git)** | US-CA-Los Angeles | On Site | Oct 27 |
 | **[Concord](https://concord.com/)** | **[Streaming Intern](https://jobright.ai/jobs/info/68ff10810ab3b222462a8e06?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
 | ↳ | **[Concord Theatricals Recordings Intern](https://jobright.ai/jobs/info/68ff0f42e0c73b3a11199266?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 26 |
-| **[Wheeling Nailers](https://wheelingnailers.com)** | **[Game Operations Internship (Full Season)](https://jobright.ai/jobs/info/68ffcae8e04ac838fb5bb571?utm_campaign=1053&utm_source=git)** | Wheeling, WV | On Site | Oct 26 |
+| **[Wheeling Nailers](https://wheelingnailers.com)** | **[Game Operations Internship (Full Season)](https://jobright.ai/jobs/info/69001853e0c73b3a111a222c?utm_campaign=1053&utm_source=git)** | Wheeling, WV | On Site | Oct 26 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/68c8ff10f9c6ff7aedf161b7?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-No.10-Seasonal](https://jobright.ai/jobs/info/690023f6e0c73b3a111a285b?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, USA | On Site | Oct 25 |
 | **[It’s All G Marketing Agency](http://its-all-g-atl.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/68fe1e460ab3b222462a64c9?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Oct 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Advanced Research & Storytelling Intern- BBGTC](https://jobright.ai/jobs/info/68c3398d63829b0a8a500fe2?utm_campaign=1053&utm_source=git)** | Edgewater, FL | On Site | Oct 24 |
 | **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[2026 Culinary Intern/Extern](https://jobright.ai/jobs/info/68de979809bda65a4b62bb2e?utm_campaign=1053&utm_source=git)** | Isle of Palms, SC | On Site | Oct 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WABC-TV (ABC7) Programming Intern, Spring 2026](https://jobright.ai/jobs/info/68fb74ca4129dd33cd1322be?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 24 |
-| ↳ | **[ABC Localish Production Intern, Spring 2026](https://jobright.ai/jobs/info/68fb709093c49825ab103293?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 24 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Spring 2026](https://jobright.ai/jobs/info/68dda9a2ddc10244dd682bb7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Oct 24 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Entertainment Television Programming Strategy Intern, Spring 2026](https://jobright.ai/jobs/info/68fb7bb2f55bb021a889a149?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68fb564ff55bb021a88995c4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 24 |
-| **[The Wall Street Journal](https://www.wjs.com/)** | **[Social Video Internship](https://jobright.ai/jobs/info/68fdf1890ab3b222462a57bd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
