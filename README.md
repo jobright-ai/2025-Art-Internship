@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Spring Intern, Times of San Diego - Remote](https://jobright.ai/jobs/info/6903d8c863502c0aded6d4fa?utm_campaign=1053&utm_source=git)** | AZ Remote | Remote | Oct 30 |
+| **[Morris Elite Soccer Club ](https://www.morriselitesoccer.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/6903d71463502c0aded6d340?utm_campaign=1053&utm_source=git)** | Madison, NJ | On Site | Oct 30 |
+| **[PBS SoCal](http://www.pbssocal.org/home/)** | **[Digital Video Production Intern](https://jobright.ai/jobs/info/6903d48bff462851fefef6e1?utm_campaign=1053&utm_source=git)** | Costa Mesa, CA, US | Hybrid | Oct 30 |
+| **[YourBookTeam](https://yourbookteam.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6903d3a7ff462851fefef5a4?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
+| **[Vydia](http://www.vydia.com)** | **[Content Operations Coordinator (Internship)](https://jobright.ai/jobs/info/6903c8c5d64a22104aa930e6?utm_campaign=1053&utm_source=git)** | Fully Remote | Hybrid | Oct 30 |
+| **[Nevada Public Radio](http://knpr.org)** | **[News Intern](https://jobright.ai/jobs/info/6903c765d64a22104aa92f64?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Oct 30 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 30 |
 | **[Minneapolis/St. Paul Business Journal (MSPBJ)](http://www.mspbj.com)** | **[Editorial intern - Spring Semester](https://jobright.ai/jobs/info/68e71be61852e62f0082259e?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6e3a5e8daec61499b0178?utm_campaign=1053&utm_source=git)** | Metairie, LA | Hybrid | Oct 30 |
@@ -77,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902807600a1816c41e9ecce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[UFC GYM](http://UFCGYM.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/69027f6a00a1816c41e9ebcf?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 29 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/6902787600a1816c41e9e6c8?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Oct 29 |
+| **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Videography Intern (Spring 2026)- COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/6903d036ff462851fefef2d4?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 29 |
 | **[Raven Public Relations](http://ravenpublicrelations.com/)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/6902d63598707b2b0fe732fb?utm_campaign=1053&utm_source=git)** | Nashville Metro | On Site | Oct 29 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Editorial Intern - Young Voices](https://jobright.ai/jobs/info/69026c5500a1816c41e9de7e?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Oct 29 |
 | **[AestheticMatch](https://www.aestheticmatch.com/)** | **[UGC Creator Intern](https://jobright.ai/jobs/info/69025fd6ff462851fefe2613?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TKO](https://tkogrp.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/68ffb0a0e0c73b3a1119d746?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Oct 27 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Animation Intern](https://jobright.ai/jobs/info/68ff82bbe04ac838fb5b8e92?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - MULTIMEDIA AUDIO/VISUAL (HDQ)](https://jobright.ai/jobs/info/68ccd115b274cd205ab4f76f?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 27 |
-| **[Concord](https://concord.com/)** | **[Concord Originals Intern](https://jobright.ai/jobs/info/68ff1a13e04ac838fb5b651d?utm_campaign=1053&utm_source=git)** | US-CA-Los Angeles | On Site | Oct 27 |
-| **[Concord](https://concord.com/)** | **[Streaming Intern](https://jobright.ai/jobs/info/68ff10810ab3b222462a8e06?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
-| ↳ | **[Concord Theatricals Recordings Intern](https://jobright.ai/jobs/info/68ff0f42e0c73b3a11199266?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 26 |
-| **[Wheeling Nailers](https://wheelingnailers.com)** | **[Game Operations Internship (Full Season)](https://jobright.ai/jobs/info/68ffcae8e04ac838fb5bb571?utm_campaign=1053&utm_source=git)** | Wheeling, WV | On Site | Oct 26 |
-| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/68c8ff10f9c6ff7aedf161b7?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
-| **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-No.10-Seasonal](https://jobright.ai/jobs/info/690023f6e0c73b3a111a285b?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, USA | On Site | Oct 25 |
-| **[It’s All G Marketing Agency](http://its-all-g-atl.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/68fe1e460ab3b222462a64c9?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
