@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - China Power Project (Spring 2026)](https://jobright.ai/jobs/info/6902a09eff462851fefe55e1?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Oct 29 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Editorial Intern - Young Voices](https://jobright.ai/jobs/info/69028a8eff462851fefe4661?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[Dolls Kill](http://dollskill.com)** | **[Styling & Production Intern](https://jobright.ai/jobs/info/6902878998707b2b0fe70afe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 29 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6902842700a1816c41e9f181?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Oct 29 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[F&B Front of House Intern/Trainee (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/690283b7ff462851fefe419f?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Oct 29 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902807600a1816c41e9ecce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[UFC GYM](http://UFCGYM.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/69027f6a00a1816c41e9ebcf?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 29 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/6902787600a1816c41e9e6c8?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Oct 29 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Editorial Intern - Young Voices](https://jobright.ai/jobs/info/69026c5500a1816c41e9de7e?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Oct 29 |
 | **[AestheticMatch](https://www.aestheticmatch.com/)** | **[UGC Creator Intern](https://jobright.ai/jobs/info/69025fd6ff462851fefe2613?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage Cabinet - Videographer/Photographer](https://jobright.ai/jobs/info/68f91c93cadb2e5a06a6141e?utm_campaign=1053&utm_source=git)** | Frankfort, KY | On Site | Oct 29 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902441700a1816c41e9c515?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[Stroum Jewish Community Center of Greater Seattle](http://www.sjcc.org)** | **[Arts + Ideas and Film Festival Intern](https://jobright.ai/jobs/info/690248eb00a1816c41e9c88a?utm_campaign=1053&utm_source=git)** | Mercer Island, WA | On Site | Oct 29 |
 | **[Industrial Light & Magic](http://ilm.com/)** | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/69020f6500a1816c41e9afad?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 29 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Spring 2026.](https://jobright.ai/jobs/info/68e59e2fae2b894b1d711e68?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Oct 29 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/69018386d5259a1b3cff5a59?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Oct 28 |
 | **[Rural King](https://www.ruralking.com)** | **[LIFT Student - Internship](https://jobright.ai/jobs/info/690181c1f8ce7a040fdc0496?utm_campaign=1053&utm_source=git)** | Mattoon, IL | On Site | Oct 28 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Oct 28 |
-| **[Acumatica](https://www.acumatica.com)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/690172334539ea1f214201c4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 28 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Weddings/Events Internship / Summer 2026](https://jobright.ai/jobs/info/690171bdd5259a1b3cff5016?utm_campaign=1053&utm_source=git)** | US-NH-Bretton Woods | On Site | Oct 28 |
 | **[Acumatica](https://www.acumatica.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/6901703a4539ea1f214200cc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 28 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Gen Z Podcast Editor Winter Internship (Unpaid)](https://jobright.ai/jobs/info/69016f61d5259a1b3cff4ec2?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Remote | Oct 28 |
@@ -140,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Concord](https://concord.com/)** | **[Concord Originals Intern](https://jobright.ai/jobs/info/68ff1a13e04ac838fb5b651d?utm_campaign=1053&utm_source=git)** | US-CA-Los Angeles | On Site | Oct 27 |
 | **[Concord](https://concord.com/)** | **[Streaming Intern](https://jobright.ai/jobs/info/68ff10810ab3b222462a8e06?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
 | ↳ | **[Concord Theatricals Recordings Intern](https://jobright.ai/jobs/info/68ff0f42e0c73b3a11199266?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 26 |
-| **[Wheeling Nailers](https://wheelingnailers.com)** | **[Game Operations Internship (Full Season)](https://jobright.ai/jobs/info/68ffcae8e04ac838fb5bb571?utm_campaign=1053&utm_source=git)** | Wheeling, WV | On Site | Oct 26 |
+| **[Wheeling Nailers](https://wheelingnailers.com)** | **[Game Operations Internship (Full Season)](https://jobright.ai/jobs/info/69001853e0c73b3a111a222c?utm_campaign=1053&utm_source=git)** | Wheeling, WV | On Site | Oct 26 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/68c8ff10f9c6ff7aedf161b7?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-No.10-Seasonal](https://jobright.ai/jobs/info/690023f6e0c73b3a111a285b?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, USA | On Site | Oct 25 |
 | **[It’s All G Marketing Agency](http://its-all-g-atl.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/68fe1e460ab3b222462a64c9?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Oct 25 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL News Intern - 2026 Spring](https://jobright.ai/jobs/info/68fc728f4129dd33cd13c0b3?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Oct 24 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Medical Animation Intern](https://jobright.ai/jobs/info/68fc21844129dd33cd138fb3?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Oct 24 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc080df55bb021a889fa76?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Oct 24 |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/68fc04d74129dd33cd137cf2?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/68fc079c4129dd33cd13801f?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
 | ↳ | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc03fc4129dd33cd137bc2?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
 | **[Austin American-Statesman](https://www.statesman.com)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/68fc0092f55bb021a889f4ca?utm_campaign=1053&utm_source=git)** | 4747 Southwest Freeway, Houston, TX, 77027, US | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
