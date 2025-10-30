@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Journalism Editor Internship (POC Society Platform)](https://jobright.ai/jobs/info/6900d3a3d5259a1b3cfeec10?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - For the Strength of Youth Writer/Editor](https://jobright.ai/jobs/info/68e42fe51852e62f00802999?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 28 |
 | ↳ | **[Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/68e4405d1852e62f00803a1c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 28 |
-| **[MUUZ Media ](www.ourmuuz.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/690222fbff462851fefe05e7?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 28 |
 | **[EDEN, House of Art](https://bit.ly/edenart_)** | **[Intern](https://jobright.ai/jobs/info/6900c192f8ce7a040fdb9102?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | On Site | Oct 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68ec8f0dc26b9574506f3896?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Oct 28 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[Multimedia Intern, Scientific American](https://jobright.ai/jobs/info/68e4803e1852e62f008067da?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 28 |
@@ -147,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Concord](https://concord.com/)** | **[Concord Originals Intern](https://jobright.ai/jobs/info/68ff1a13e04ac838fb5b651d?utm_campaign=1053&utm_source=git)** | US-CA-Los Angeles | On Site | Oct 27 |
 | **[Concord](https://concord.com/)** | **[Streaming Intern](https://jobright.ai/jobs/info/68ff10810ab3b222462a8e06?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
 | ↳ | **[Concord Theatricals Recordings Intern](https://jobright.ai/jobs/info/68ff0f42e0c73b3a11199266?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 26 |
-| **[Wheeling Nailers](https://wheelingnailers.com)** | **[Game Operations Internship (Full Season)](https://jobright.ai/jobs/info/68ffcae8e04ac838fb5bb571?utm_campaign=1053&utm_source=git)** | Wheeling, WV | On Site | Oct 26 |
+| **[Wheeling Nailers](https://wheelingnailers.com)** | **[Game Operations Internship (Full Season)](https://jobright.ai/jobs/info/69001853e0c73b3a111a222c?utm_campaign=1053&utm_source=git)** | Wheeling, WV | On Site | Oct 26 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/68c8ff10f9c6ff7aedf161b7?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-No.10-Seasonal](https://jobright.ai/jobs/info/690023f6e0c73b3a111a285b?utm_campaign=1053&utm_source=git)** | Pinehurst, NC, USA | On Site | Oct 25 |
 | **[It’s All G Marketing Agency](http://its-all-g-atl.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/68fe1e460ab3b222462a64c9?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Oct 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Video Production Season 2026](https://jobright.ai/jobs/info/68fc9521664c6f162a952a8b?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 25 |
 | **[Lucy's Restaurant Group](http://www.lucysauburn.com)** | **[International Intern - Non US Resident - Culinary](https://jobright.ai/jobs/info/68fca91ce04ac838fb5ab70c?utm_campaign=1053&utm_source=git)** | Auburn, AL, US | On Site | Oct 25 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/68fc6a1493c49825ab10cd38?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 24 |
+| **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Hospitality & Events Intern](https://jobright.ai/jobs/info/68dedc5da125e75c422b76ed?utm_campaign=1053&utm_source=git)** | Jackson, MI | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
