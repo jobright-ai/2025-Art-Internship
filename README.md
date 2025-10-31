@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Whale Media](https://www.linkedin.com/company/106438480)** | **[Video Editor / Intern](https://jobright.ai/jobs/info/6904ea41ff462851feff8915?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Oct 31 |
+| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern](https://jobright.ai/jobs/info/68ed24d970b66e2345d3ad0f?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Oct 31 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Saint John's Resort](https://jobright.ai/jobs/info/68e4903db99ec3563b0ebab2?utm_campaign=1053&utm_source=git)** | Plymouth, MI | On Site | Oct 31 |
+| **[Community Impact](https://communityimpact.com)** | **[Editorial Intern Winter Internship](https://jobright.ai/jobs/info/6904e492ff462851feff861b?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Oct 31 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e8752fc72beb74cb31ed53?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 31 |
 | **[WESH 2 CW18](http://wesh.com)** | **[WESH Intern](https://jobright.ai/jobs/info/68467c30757d449490e9be5b?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Oct 31 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Narrative Design](https://jobright.ai/jobs/info/68e8ad4ac72beb74cb321322?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Oct 31 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WIBW](https://jobright.ai/jobs/info/69041e86d64a22104aa97191?utm_campaign=1053&utm_source=git)** | Topeka, KS | On Site | Oct 30 |
 | **[Insomniac Events](http://insomniac.com)** | **[VFX Art Intern - Undergraduate](https://jobright.ai/jobs/info/69041042ff462851feff2547?utm_campaign=1053&utm_source=git)** | United States, Burbank, CA | On Site | Oct 30 |
 | ↳ | **[VFX Art Intern - Undergraduate](https://jobright.ai/jobs/info/69040ecfff462851feff23be?utm_campaign=1053&utm_source=git)** | United States, Burbank, CA | On Site | Oct 30 |
-| **[Hustle Magazine](www.hustlemagazine.co)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69040a6cd64a22104aa9644b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios Character Technical Director Intern, Summer 2026](https://jobright.ai/jobs/info/69041ab863502c0aded70662?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eda8ff462851feff0c38?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 30 |
 | **[WIBW TV](https://www.wibw.com/)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WIBW](https://jobright.ai/jobs/info/6903dfa5ff462851feff0019?utm_campaign=1053&utm_source=git)** | Topeka, KS | On Site | Oct 30 |
@@ -84,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[TheLine.Info](https://thelineinfo.wixsite.com/main)** | **[Multimedia Journalist Intern (Unpaid)](https://jobright.ai/jobs/info/6904c53463502c0aded75203?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
 | **[LeanOps Technologies](https://leanopstech.com)** | **[LinkedIn Content Creator Intern](https://jobright.ai/jobs/info/6904d6d263502c0aded759ed?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 30 |
+| **[Tuulis App](www.tuulis.app)** | **[UGC Creators Internship (College Students Only) — Tuulis App](https://jobright.ai/jobs/info/6904dd9263502c0aded75d6e?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Oct 30 |
 | **[Minneapolis/St. Paul Business Journal (MSPBJ)](http://www.mspbj.com)** | **[Editorial intern - Spring Semester](https://jobright.ai/jobs/info/68e71be61852e62f0082259e?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6e3a5e8daec61499b0178?utm_campaign=1053&utm_source=git)** | Metairie, LA | Hybrid | Oct 30 |
 | ↳ | **[News Producer Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6e4e61852e62f0082001e?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Oct 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Wealth & Investing Video Intern](https://jobright.ai/jobs/info/68e47d53f758fe1f97e68d61?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | ↳ | **[Summer 2026 Internship - MarketWatch Reporter Intern](https://jobright.ai/jobs/info/68e47bcdb99ec3563b0eac0d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68fdda8ae0c73b3a111954b3?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Oct 28 |
-| **[The New York Times](https://www.nytco.com/)** | **[Editorial Operations, Wirecutter Intern](https://jobright.ai/jobs/info/69003eb30ab3b222462b341b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 27 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/690030240ab3b222462b2bb6?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 27 |
-| **[The New York Times](https://www.nytco.com/)** | **[Audience Team, Wirecutter Intern](https://jobright.ai/jobs/info/69002fc6e0c73b3a111a317e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
