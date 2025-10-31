@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WESH 2 CW18](http://wesh.com)** | **[WESH Intern](https://jobright.ai/jobs/info/68467c30757d449490e9be5b?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Oct 31 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Narrative Design](https://jobright.ai/jobs/info/68e8ad4ac72beb74cb321322?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Oct 31 |
+| ↳ | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Oct 31 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/690461cb63502c0aded729f7?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 31 |
 | **[Apple](https://www.apple.com)** | **[2026 Apple Music Intern/Co-Op](https://jobright.ai/jobs/info/690454ab63502c0aded7264c?utm_campaign=1053&utm_source=git)** | New York City, New York, United States | On Site | Oct 30 |
 | ↳ | **[2026 Apple Music Intern/Co-Op](https://jobright.ai/jobs/info/6904520ad64a22104aa98d9a?utm_campaign=1053&utm_source=git)** | Culver City, California, United States | On Site | Oct 30 |
@@ -72,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[FIRST](https://firstagency.com/)** | **[Roadshow Intern - Spring 2026](https://jobright.ai/jobs/info/6903dc84ff462851fefefde6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Spring Intern, Times of San Diego - Remote](https://jobright.ai/jobs/info/6903d8c863502c0aded6d4fa?utm_campaign=1053&utm_source=git)** | AZ Remote | Remote | Oct 30 |
 | **[Morris Elite Soccer Club ](https://www.morriselitesoccer.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/6903d71463502c0aded6d340?utm_campaign=1053&utm_source=git)** | Madison, NJ | On Site | Oct 30 |
-| **[PBS SoCal](http://www.pbssocal.org/home/)** | **[Digital Video Production Intern](https://jobright.ai/jobs/info/6903d48bff462851fefef6e1?utm_campaign=1053&utm_source=git)** | Costa Mesa, CA, US | Hybrid | Oct 30 |
+| **[PBS SoCal ](http://www.pbssocal.org/home/)** | **[Digital Video Production Intern](https://jobright.ai/jobs/info/6903d48bff462851fefef6e1?utm_campaign=1053&utm_source=git)** | Costa Mesa, CA, US | Hybrid | Oct 30 |
 | **[Paul Smith](https://www.paulsmith.co.uk)** | **[Press & VIP, Intern - NYC](https://jobright.ai/jobs/info/6903ee1763502c0aded6e6ff?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | ↳ | **[Press & VIP, Intern - Los Angeles](https://jobright.ai/jobs/info/6903ef8263502c0aded6e7b3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 30 |
 | **[YourBookTeam](https://yourbookteam.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6903d3a7ff462851fefef5a4?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
@@ -97,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Dolls Kill](http://dollskill.com)** | **[Styling & Production Intern](https://jobright.ai/jobs/info/6902878998707b2b0fe70afe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 29 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6902842700a1816c41e9f181?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Oct 29 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[F&B Front of House Intern/Trainee (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/690283b7ff462851fefe419f?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Oct 29 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902807600a1816c41e9ecce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[UFC GYM](http://UFCGYM.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/69027f6a00a1816c41e9ebcf?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 29 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/6902787600a1816c41e9e6c8?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Oct 29 |
 | **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Videography Intern (Spring 2026)- COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/6903d036ff462851fefef2d4?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 29 |
@@ -105,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Editorial Intern - Young Voices](https://jobright.ai/jobs/info/69026c5500a1816c41e9de7e?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Oct 29 |
 | **[AestheticMatch](https://www.aestheticmatch.com/)** | **[UGC Creator Intern](https://jobright.ai/jobs/info/69025fd6ff462851fefe2613?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage Cabinet - Videographer/Photographer](https://jobright.ai/jobs/info/68f91c93cadb2e5a06a6141e?utm_campaign=1053&utm_source=git)** | Frankfort, KY | On Site | Oct 29 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902441700a1816c41e9c515?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[Great Lakes Valley Conference](http://www.glvcsports.com)** | **[Collegiate Sports Intern](https://jobright.ai/jobs/info/6903757963502c0aded68fc2?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 29 |
 | **[Stroum Jewish Community Center of Greater Seattle](http://www.sjcc.org)** | **[Arts + Ideas and Film Festival Intern](https://jobright.ai/jobs/info/690248eb00a1816c41e9c88a?utm_campaign=1053&utm_source=git)** | Mercer Island, WA | On Site | Oct 29 |
 | **[Industrial Light & Magic](http://ilm.com/)** | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/69020f6500a1816c41e9afad?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/690030240ab3b222462b2bb6?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 27 |
 | **[The New York Times](https://www.nytco.com/)** | **[Audience Team, Wirecutter Intern](https://jobright.ai/jobs/info/69002fc6e0c73b3a111a317e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Xanterra Travel Collection](http://www.xanterra.com/)** | **[Summer 2026 Golf and Greenskeeping Internship - Oasis at Death Valley](https://jobright.ai/jobs/info/69000a9ce04ac838fb5bea1c?utm_campaign=1053&utm_source=git)** | Death Valley, CA | On Site | Oct 27 |
-| **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/69014574d5259a1b3cff3c20?utm_campaign=1053&utm_source=git)** | Los Angeles Office | On Site | Oct 27 |
-| **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Video Analysis Intern (Spring 2026)- COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/69040dc6ff462851feff22ec?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 27 |
-| ↳ | **[Guest Experience Intern (Spring 2026) - COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/6904081963502c0aded6fa65?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
