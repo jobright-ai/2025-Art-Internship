@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eda8ff462851feff0c38?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 30 |
+| **[WIBW TV](https://www.wibw.com/)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WIBW](https://jobright.ai/jobs/info/6903dfa5ff462851feff0019?utm_campaign=1053&utm_source=git)** | Topeka, KS | On Site | Oct 30 |
+| **[FIRST](https://firstagency.com/)** | **[Roadshow Intern - Spring 2026](https://jobright.ai/jobs/info/6903dc84ff462851fefefde6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Spring Intern, Times of San Diego - Remote](https://jobright.ai/jobs/info/6903d8c863502c0aded6d4fa?utm_campaign=1053&utm_source=git)** | AZ Remote | Remote | Oct 30 |
 | **[Morris Elite Soccer Club ](https://www.morriselitesoccer.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/6903d71463502c0aded6d340?utm_campaign=1053&utm_source=git)** | Madison, NJ | On Site | Oct 30 |
 | **[PBS SoCal](http://www.pbssocal.org/home/)** | **[Digital Video Production Intern](https://jobright.ai/jobs/info/6903d48bff462851fefef6e1?utm_campaign=1053&utm_source=git)** | Costa Mesa, CA, US | Hybrid | Oct 30 |
+| **[Paul Smith](https://www.paulsmith.co.uk)** | **[Press & VIP, Intern - NYC](https://jobright.ai/jobs/info/6903ee1763502c0aded6e6ff?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 30 |
+| ↳ | **[Press & VIP, Intern - Los Angeles](https://jobright.ai/jobs/info/6903ef8263502c0aded6e7b3?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 30 |
 | **[YourBookTeam](https://yourbookteam.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6903d3a7ff462851fefef5a4?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Vydia](http://www.vydia.com)** | **[Content Operations Coordinator (Internship)](https://jobright.ai/jobs/info/6903c8c5d64a22104aa930e6?utm_campaign=1053&utm_source=git)** | Fully Remote | Hybrid | Oct 30 |
 | **[Nevada Public Radio](http://knpr.org)** | **[News Intern](https://jobright.ai/jobs/info/6903c765d64a22104aa92f64?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Oct 30 |
@@ -101,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Oct 28 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Weddings/Events Internship / Summer 2026](https://jobright.ai/jobs/info/690171bdd5259a1b3cff5016?utm_campaign=1053&utm_source=git)** | US-NH-Bretton Woods | On Site | Oct 28 |
 | **[Acumatica](https://www.acumatica.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/6901703a4539ea1f214200cc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 28 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Gen Z Podcast Editor Winter Internship (Unpaid)](https://jobright.ai/jobs/info/69016f61d5259a1b3cff4ec2?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Remote | Oct 28 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/690169e24539ea1f2141fdc1?utm_campaign=1053&utm_source=git)** | Cary,North Carolina,United States | On Site | Oct 28 |
 | **[Invite Only Studios](http://www.inviteonly.studio)** | **[Content Creator Intern](https://jobright.ai/jobs/info/690167ce4539ea1f2141fc41?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | **[Stroum Jewish Community Center of Greater Seattle](http://www.sjcc.org)** | **[Arts + Ideas and Film Festival Intern](https://jobright.ai/jobs/info/69017acb4539ea1f2142054d?utm_campaign=1053&utm_source=git)** | Mercer Island,WA,US | Hybrid | Oct 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fairmount Center for the Arts](https://www.fairmountcenter.org)** | **[Content Production Intern - Winter/Spring 2026](https://jobright.ai/jobs/info/68ffc1b1e0c73b3a1119dfb8?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Oct 27 |
 | **[TKO](https://tkogrp.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/68ffc0c9e0c73b3a1119df2f?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 27 |
 | **[Ultimate Fighting Championship](http://UFC.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/68ffbf00e0c73b3a1119de69?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Oct 27 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - China Power Project (Spring 2026)](https://jobright.ai/jobs/info/68ffd952e04ac838fb5bc4d8?utm_campaign=1053&utm_source=git)** | Washington, US | Hybrid | Oct 27 |
-| **[TKO](https://tkogrp.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/68ffb0a0e0c73b3a1119d746?utm_campaign=1053&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Oct 27 |
-| **[Sparrow](https://www.sparrowup.com)** | **[Animation Intern](https://jobright.ai/jobs/info/68ff82bbe04ac838fb5b8e92?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 27 |
-| **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - MULTIMEDIA AUDIO/VISUAL (HDQ)](https://jobright.ai/jobs/info/68ccd115b274cd205ab4f76f?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
