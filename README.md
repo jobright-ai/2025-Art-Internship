@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING/SUMMER '26 - WSAW](https://jobright.ai/jobs/info/690521ce122e8474c78d677d?utm_campaign=1053&utm_source=git)** | Wausau, WI | On Site | Oct 31 |
+| **[UFC GYM](http://UFCGYM.com)** | **[YouTube & Digital Media Intern](https://jobright.ai/jobs/info/69051f6dff462851feffab9b?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Oct 31 |
+| **[Motto Pictures](https://www.mottopictures.com)** | **[Documentary Film Internship - Winter/Spring 2026](https://jobright.ai/jobs/info/69051f3e63502c0aded78509?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 31 |
 | **[The City of Frederick](http://www.cityoffrederickmd.gov)** | **[Arts, Culture and Communications Fellow](https://jobright.ai/jobs/info/69050bb3ff462851feff9cca?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Oct 31 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage Cabinet - Videographer/Photographer](https://jobright.ai/jobs/info/68f91c93cadb2e5a06a6141e?utm_campaign=1053&utm_source=git)** | Frankfort, KY | On Site | Oct 31 |
 | **[L.L.Bean](http://www.llbean.com/)** | **[Creative Videography Internship](https://jobright.ai/jobs/info/6904f7c0122e8474c78d4af4?utm_campaign=1053&utm_source=git)** | Freeport, ME | Hybrid | Oct 31 |
@@ -89,13 +92,11 @@ For a complete list, click the following sortable link below:
 | **[LeanOps Technologies](https://leanopstech.com)** | **[LinkedIn Content Creator Intern](https://jobright.ai/jobs/info/6904d6d263502c0aded759ed?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Xanterra Travel Collection](http://www.xanterra.com/)** | **[Summer 2026 Golf and Greenskeeping Internship - Oasis at Death Valley](https://jobright.ai/jobs/info/69000a9ce04ac838fb5bea1c?utm_campaign=1053&utm_source=git)** | Death Valley, CA | On Site | Oct 30 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 30 |
-| **[Tuulis App](www.tuulis.app)** | **[UGC Creators Internship (College Students Only) — Tuulis App](https://jobright.ai/jobs/info/6904dd9263502c0aded75d6e?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Oct 30 |
 | **[Minneapolis/St. Paul Business Journal (MSPBJ)](http://www.mspbj.com)** | **[Editorial intern - Spring Semester](https://jobright.ai/jobs/info/68e71be61852e62f0082259e?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6e3a5e8daec61499b0178?utm_campaign=1053&utm_source=git)** | Metairie, LA | Hybrid | Oct 30 |
 | ↳ | **[News Producer Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6e4e61852e62f0082001e?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Oct 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/69034affd64a22104aa8e948?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Oct 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) News Intern, Spring 2026](https://jobright.ai/jobs/info/690371e163502c0aded68e27?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
-| **[The Parlor Magazine](https://www.linkedin.com/company/108591802)** | **[Emerging Reporter](https://jobright.ai/jobs/info/6903776c63502c0aded69065?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 30 |
 | **[New York City Department of Transportation](https://www.nyc.gov/html/dot/html/home/home.shtml)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/69047c53d64a22104aa99d8c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Livestream/Stats/Gameday Broadcast](https://jobright.ai/jobs/info/68ffef640ab3b222462b039d?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Oct 29 |
 | **[The City of Frederick](http://www.cityoffrederickmd.gov)** | **[Arts, Culture and Communications Fellow](https://jobright.ai/jobs/info/69043e98d64a22104aa98748?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Oct 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Scientific American](http://www.scientificamerican.com/)** | **[Multimedia Intern, Scientific American](https://jobright.ai/jobs/info/68e4803e1852e62f008067da?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 28 |
 | ↳ | **[News Intern, Scientific American](https://jobright.ai/jobs/info/68e4872e1852e62f00806cbd?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 28 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Wealth & Investing Video Intern](https://jobright.ai/jobs/info/68e47d53f758fe1f97e68d61?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 28 |
-| ↳ | **[Summer 2026 Internship - MarketWatch Reporter Intern](https://jobright.ai/jobs/info/68e47bcdb99ec3563b0eac0d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
