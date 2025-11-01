@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[College Graduate/Student Intern](https://jobright.ai/jobs/info/690626d7122e8474c78df2aa?utm_campaign=1053&utm_source=git)** | Tennessee, United States | On Site | Nov 01 |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Columbus, OH](https://jobright.ai/jobs/info/68cc3bf5128dc347fd921456?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Nov 01 |
+| **[Acumatica](https://www.acumatica.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/69061f25122e8474c78defe9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
+| ↳ | **[Moderate Writer Intern](https://jobright.ai/jobs/info/69061da063502c0aded812c6?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
+| **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/68f716859a63986de7584d0e?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Nov 01 |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Culinary Operations](https://jobright.ai/jobs/info/68ccbd4b128dc347fd928d2b?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Nov 01 |
+| **[San Francisco Chronicle](http://www.sfgate.com)** | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e9c15bcfc08e4908912ad5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Nov 01 |
 | **[Troon](http://www.troon.com/)** | **[The Colonial Life Charity Classic Championship Intern](https://jobright.ai/jobs/info/68e93d0965768b6412b19b8b?utm_campaign=1053&utm_source=git)** | Elgin, SC | On Site | Nov 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/683d27a9e3502e937bcb1103?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Nov 01 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/6905f5a0122e8474c78dd5c8?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 01 |
@@ -81,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Whale Media](https://www.linkedin.com/company/106438480)** | **[Video Editor / Intern](https://jobright.ai/jobs/info/6904ea41ff462851feff8915?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Oct 31 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern](https://jobright.ai/jobs/info/68ed24d970b66e2345d3ad0f?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Oct 31 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Saint John's Resort](https://jobright.ai/jobs/info/68e4903db99ec3563b0ebab2?utm_campaign=1053&utm_source=git)** | Plymouth, MI | On Site | Oct 31 |
+| **[The Standard Journal Newspaper- Milton](https://www.standard-journal.com/)** | **[Intern](https://jobright.ai/jobs/info/69060c5763502c0aded8065f?utm_campaign=1053&utm_source=git)** | Milton, PA | On Site | Oct 31 |
 | **[Community Impact](https://communityimpact.com)** | **[Editorial Intern Winter Internship](https://jobright.ai/jobs/info/6904e492ff462851feff861b?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Oct 31 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e8752fc72beb74cb31ed53?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 31 |
 | **[WESH 2 CW18](http://wesh.com)** | **[WESH Intern](https://jobright.ai/jobs/info/68467c30757d449490e9be5b?utm_campaign=1053&utm_source=git)** | Winter Park, FL | On Site | Oct 31 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibitions Project Management Intern: Spring](https://jobright.ai/jobs/info/69015621f8ce7a040fdbefa8?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 28 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Spring 2026](https://jobright.ai/jobs/info/69014d0bf8ce7a040fdbeb3f?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 28 |
 | **[VX Media](https://www.vxmedia.co)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69013ff8d5259a1b3cff395b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 28 |
-| **[Make Room Gallery](www.makeroom.la)** | **[Gallery Internship - Spring 2026](https://jobright.ai/jobs/info/69013954d5259a1b3cff31c6?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Oct 28 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/68db2dfa6df7b8311bb16a62?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Oct 28 |
-| **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Spring Intern, Stocktonia](https://jobright.ai/jobs/info/690153614539ea1f2141f4a1?utm_campaign=1053&utm_source=git)** | Stockton, CA | On Site | Oct 28 |
-| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Fashion Intern, Spring 2026](https://jobright.ai/jobs/info/69012bb94539ea1f2141d58d?utm_campaign=1053&utm_source=git)** | Remote - United States | Remote | Oct 28 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Exhibitions Project Management Intern: Spring](https://jobright.ai/jobs/info/69012332d5259a1b3cff1d15?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 28 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Weddings/Events Internship / Summer 2026](https://jobright.ai/jobs/info/690122c4d5259a1b3cff1caf?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Oct 28 |
-| **[Bucket List Community Cafe](https://bucketlistcommunitycafe.com/)** | **[JOURNALISM/REPORTING INTERN](https://jobright.ai/jobs/info/69022ca598707b2b0fe6ce9f?utm_campaign=1053&utm_source=git)** | Denver, CO | Remote | Oct 28 |
-| **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Acts & Exhibits Internship](https://jobright.ai/jobs/info/69013b374539ea1f2141e3e0?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
