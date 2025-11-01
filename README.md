@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Off The Record USA](otr-usa.com)** | **[Video Editor](https://jobright.ai/jobs/info/69066768ff462851fe004826?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Nov 01 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post-Production - Spring 2026](https://jobright.ai/jobs/info/6906640c122e8474c78dfefa?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | ↳ | **[Intern, Development, 3000 Pictures – Spring 2026](https://jobright.ai/jobs/info/6906624c122e8474c78dfe5f?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[College Graduate/Student Intern](https://jobright.ai/jobs/info/690626d7122e8474c78df2aa?utm_campaign=1053&utm_source=git)** | Tennessee, United States | On Site | Nov 01 |
@@ -134,12 +135,12 @@ For a complete list, click the following sortable link below:
 | **[Dolls Kill](http://dollskill.com)** | **[Styling & Production Intern](https://jobright.ai/jobs/info/6902878998707b2b0fe70afe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 29 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6902842700a1816c41e9f181?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Oct 29 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[F&B Front of House Intern/Trainee (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/690283b7ff462851fefe419f?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Oct 29 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902807600a1816c41e9ecce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[UFC GYM](http://UFCGYM.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/69027f6a00a1816c41e9ebcf?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 29 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/6902787600a1816c41e9e6c8?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Oct 29 |
 | **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Videography Intern (Spring 2026)- COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/6903d036ff462851fefef2d4?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 29 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Editorial Intern - Young Voices](https://jobright.ai/jobs/info/69026c5500a1816c41e9de7e?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Oct 29 |
 | **[AestheticMatch](https://www.aestheticmatch.com/)** | **[UGC Creator Intern](https://jobright.ai/jobs/info/69025fd6ff462851fefe2613?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 29 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902441700a1816c41e9c515?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[Great Lakes Valley Conference](http://www.glvcsports.com)** | **[Collegiate Sports Intern](https://jobright.ai/jobs/info/6903757963502c0aded68fc2?utm_campaign=1053&utm_source=git)** | Indianapolis, IN | On Site | Oct 29 |
 | **[Stroum Jewish Community Center of Greater Seattle](http://www.sjcc.org)** | **[Arts + Ideas and Film Festival Intern](https://jobright.ai/jobs/info/690248eb00a1816c41e9c88a?utm_campaign=1053&utm_source=git)** | Mercer Island, WA | On Site | Oct 29 |
 | **[Industrial Light & Magic](http://ilm.com/)** | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/69020f6500a1816c41e9afad?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 29 |
@@ -153,7 +154,6 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Oct 28 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Weddings/Events Internship / Summer 2026](https://jobright.ai/jobs/info/690171bdd5259a1b3cff5016?utm_campaign=1053&utm_source=git)** | US-NH-Bretton Woods | On Site | Oct 28 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/690169e24539ea1f2141fdc1?utm_campaign=1053&utm_source=git)** | Cary,North Carolina,United States | On Site | Oct 28 |
-| **[Invite Only Studios](http://www.inviteonly.studio)** | **[Content Creator Intern](https://jobright.ai/jobs/info/690167ce4539ea1f2141fc41?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | **[Stroum Jewish Community Center of Greater Seattle](http://www.sjcc.org)** | **[Arts + Ideas and Film Festival Intern](https://jobright.ai/jobs/info/69017acb4539ea1f2142054d?utm_campaign=1053&utm_source=git)** | Mercer Island,WA,US | Hybrid | Oct 28 |
 | **[Michigan Section PGA](https://michiganpga.com/)** | **[Michigan PGA Tournament Internship](https://jobright.ai/jobs/info/6904052ad64a22104aa96126?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Oct 28 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibitions Project Management Intern: Spring](https://jobright.ai/jobs/info/69015621f8ce7a040fdbefa8?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 28 |
