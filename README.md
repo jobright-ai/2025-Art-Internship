@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios General TD Intern, Summer 2026](https://jobright.ai/jobs/info/690582feff462851feffe118?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
+| **[Duncan Aviation](https://www.duncanaviation.aero/)** | **[2026 Summer Internship - Interior Sewing / Alterations Specialist](https://jobright.ai/jobs/info/690578d763502c0aded7b5bd?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Oct 31 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Grant & Mission Writing Intern](https://jobright.ai/jobs/info/69056e53ff462851feffd543?utm_campaign=1053&utm_source=git)** | Longwood, FL | On Site | Oct 31 |
 | **[MacArthur Foundation](http://www.macfound.org)** | **[Art Portfolio Intern - Summer 2026](https://jobright.ai/jobs/info/69054f87ff462851feffc9ba?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
 | ↳ | **[Local News Intern - Summer 2026](https://jobright.ai/jobs/info/69054c6c63502c0aded7a35b?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post-Production - Spring 2026](https://jobright.ai/jobs/info/6905590cff462851feffcd04?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Oct 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - For the Strength of Youth Writer/Editor](https://jobright.ai/jobs/info/68e42fe51852e62f00802999?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 28 |
 | ↳ | **[Paid Intern – Friend Writer/Editor (Church Magazines)](https://jobright.ai/jobs/info/68e4405d1852e62f00803a1c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 28 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/68e4ad111852e62f0080864b?utm_campaign=1053&utm_source=git)** | Mishawaka, IN | On Site | Oct 28 |
-| **[EDEN, House of Art](https://bit.ly/edenart_)** | **[Intern](https://jobright.ai/jobs/info/6900c192f8ce7a040fdb9102?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | On Site | Oct 28 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68ec8f0dc26b9574506f3896?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Oct 28 |
-| **[Scientific American](http://www.scientificamerican.com/)** | **[Multimedia Intern, Scientific American](https://jobright.ai/jobs/info/68e4803e1852e62f008067da?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
