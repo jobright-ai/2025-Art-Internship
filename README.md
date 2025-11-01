@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MacArthur Foundation](http://www.macfound.org)** | **[Art Portfolio Intern - Summer 2026](https://jobright.ai/jobs/info/69054f87ff462851feffc9ba?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
+| ↳ | **[Local News Intern - Summer 2026](https://jobright.ai/jobs/info/69054c6c63502c0aded7a35b?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post-Production - Spring 2026](https://jobright.ai/jobs/info/6905590cff462851feffcd04?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Oct 31 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING/SUMMER '26 - WSAW](https://jobright.ai/jobs/info/690521ce122e8474c78d677d?utm_campaign=1053&utm_source=git)** | Wausau, WI | On Site | Oct 31 |
 | **[UFC GYM](http://UFCGYM.com)** | **[YouTube & Digital Media Intern](https://jobright.ai/jobs/info/69051f6dff462851feffab9b?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Oct 31 |
 | **[Motto Pictures](https://www.mottopictures.com)** | **[Documentary Film Internship - Winter/Spring 2026](https://jobright.ai/jobs/info/69051f3e63502c0aded78509?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EDEN, House of Art](https://bit.ly/edenart_)** | **[Intern](https://jobright.ai/jobs/info/6900c192f8ce7a040fdb9102?utm_campaign=1053&utm_source=git)** | Miami Beach, FL | On Site | Oct 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68ec8f0dc26b9574506f3896?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Oct 28 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[Multimedia Intern, Scientific American](https://jobright.ai/jobs/info/68e4803e1852e62f008067da?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 28 |
-| ↳ | **[News Intern, Scientific American](https://jobright.ai/jobs/info/68e4872e1852e62f00806cbd?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Oct 28 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Wealth & Investing Video Intern](https://jobright.ai/jobs/info/68e47d53f758fe1f97e68d61?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 28 |
-| ↳ | **[Summer 2026 Internship - MarketWatch Reporter Intern](https://jobright.ai/jobs/info/68e47bcdb99ec3563b0eac0d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
