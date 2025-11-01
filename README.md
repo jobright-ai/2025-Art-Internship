@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/6905aa2263502c0aded7cd4e?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Oct 31 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6905c3e263502c0aded7dd48?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Oct 31 |
 | **[Assistly](https://assistly.care)** | **[Intern – Film & Social Media Storytelling](https://jobright.ai/jobs/info/6905870963502c0aded7bec9?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Oct 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios General TD Intern, Summer 2026](https://jobright.ai/jobs/info/690582feff462851feffe118?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 31 |
 | **[Duncan Aviation](https://www.duncanaviation.aero/)** | **[2026 Summer Internship - Interior Sewing / Alterations Specialist](https://jobright.ai/jobs/info/690578d763502c0aded7b5bd?utm_campaign=1053&utm_source=git)** | Lincoln, NE | On Site | Oct 31 |
@@ -129,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Stroum Jewish Community Center of Greater Seattle](http://www.sjcc.org)** | **[Arts + Ideas and Film Festival Intern](https://jobright.ai/jobs/info/690248eb00a1816c41e9c88a?utm_campaign=1053&utm_source=git)** | Mercer Island, WA | On Site | Oct 29 |
 | **[Industrial Light & Magic](http://ilm.com/)** | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/69020f6500a1816c41e9afad?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Oct 29 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Spring 2026.](https://jobright.ai/jobs/info/68e59e2fae2b894b1d711e68?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Oct 29 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/6905d686ff462851fe000d73?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Oct 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) News Intern, Spring 2026](https://jobright.ai/jobs/info/69018d1cd5259a1b3cff614f?utm_campaign=1053&utm_source=git)** | Chicago, IL, USA | On Site | Oct 28 |
 | **[Rural King](https://www.ruralking.com)** | **[LIFT Student - Internship](https://jobright.ai/jobs/info/6901863cf8ce7a040fdc0686?utm_campaign=1053&utm_source=git)** | US-IL-Mattoon | On Site | Oct 28 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/690185df4539ea1f21420dd4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ILM Immersive, Interactive Animation Intern, Summer 2026](https://jobright.ai/jobs/info/69010078f8ce7a040fdbb2a3?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA | Hybrid | Oct 28 |
 | **[GRACIA INC NFP](https://graciainc.org/)** | **[Video & Content Editing Intern (Unpaid / For Credit)](https://jobright.ai/jobs/info/690220e500a1816c41e9b505?utm_campaign=1053&utm_source=git)** | Greater Chicago Area | On Site | Oct 28 |
 | **[Clutch Content Partners](http://www.likesuperclutch.com)** | **[Production Intern](https://jobright.ai/jobs/info/6900f3fcd5259a1b3cfefd4f?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Oct 28 |
-| **[Getty Images](https://www.gettyimages.com)** | **[Internship Immersion Program for Content Creation, Editorial Entertainment](https://jobright.ai/jobs/info/6900f31d4539ea1f2141ae70?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 28 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
