@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[Managing Editor (Internship/ Volunteer)](https://jobright.ai/jobs/info/69068c8f63502c0aded826f3?utm_campaign=1053&utm_source=git)** | New Haven, CT | Remote | Nov 01 |
 | **[Off The Record USA](otr-usa.com)** | **[Video Editor](https://jobright.ai/jobs/info/69066768ff462851fe004826?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Nov 01 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post-Production - Spring 2026](https://jobright.ai/jobs/info/6906640c122e8474c78dfefa?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | ↳ | **[Intern, Development, 3000 Pictures – Spring 2026](https://jobright.ai/jobs/info/6906624c122e8474c78dfe5f?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/690169e24539ea1f2141fdc1?utm_campaign=1053&utm_source=git)** | Cary,North Carolina,United States | On Site | Oct 28 |
 | **[Stroum Jewish Community Center of Greater Seattle](http://www.sjcc.org)** | **[Arts + Ideas and Film Festival Intern](https://jobright.ai/jobs/info/69017acb4539ea1f2142054d?utm_campaign=1053&utm_source=git)** | Mercer Island,WA,US | Hybrid | Oct 28 |
 | **[Michigan Section PGA](https://michiganpga.com/)** | **[Michigan PGA Tournament Internship](https://jobright.ai/jobs/info/6904052ad64a22104aa96126?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Oct 28 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibitions Project Management Intern: Spring](https://jobright.ai/jobs/info/69015621f8ce7a040fdbefa8?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
