@@ -128,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Livestream/Stats/Gameday Broadcast](https://jobright.ai/jobs/info/68ffef640ab3b222462b039d?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Oct 29 |
 | **[The City of Frederick](http://www.cityoffrederickmd.gov)** | **[Arts, Culture and Communications Fellow](https://jobright.ai/jobs/info/69043e98d64a22104aa98748?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Oct 29 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6902cccd00a1816c41ea181b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 29 |
-| **[Acumatica](https://www.acumatica.com)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/6902c5d698707b2b0fe72ac5?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 29 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68ec9b10d4b0106e703ea6b0?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 29 |
 | **[The KINN](www.thekinn.co)** | **[Events and Media Intern](https://jobright.ai/jobs/info/6902c0f3ff462851fefe62d1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 29 |
 | **[Acumatica](https://www.acumatica.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/6902be8aff462851fefe60f7?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/690169e24539ea1f2141fdc1?utm_campaign=1053&utm_source=git)** | Cary,North Carolina,United States | On Site | Oct 28 |
 | **[Stroum Jewish Community Center of Greater Seattle](http://www.sjcc.org)** | **[Arts + Ideas and Film Festival Intern](https://jobright.ai/jobs/info/69017acb4539ea1f2142054d?utm_campaign=1053&utm_source=git)** | Mercer Island,WA,US | Hybrid | Oct 28 |
 | **[Michigan Section PGA](https://michiganpga.com/)** | **[Michigan PGA Tournament Internship](https://jobright.ai/jobs/info/6904052ad64a22104aa96126?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Oct 28 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibitions Project Management Intern: Spring](https://jobright.ai/jobs/info/69015621f8ce7a040fdbefa8?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
