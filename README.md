@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Starteryou](https://starteryou.com/)** | **[Content Creator](https://jobright.ai/jobs/info/6907cbf7122e8474c78e6e91?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post Production, Sony Pictures Classics - Spring 2026](https://jobright.ai/jobs/info/690781d5ff462851fe00a059?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Nov 02 |
-| ↳ | **[Post Production Intern, Sony Pictures Television Post Production – Summer 2025](https://jobright.ai/jobs/info/69077ca963502c0aded87974?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Nov 02 |
+| ↳ | **[Post Production Intern, Sony Pictures Television Post Production – Summer 2025](https://jobright.ai/jobs/info/69077ca363502c0aded87972?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Haircare & Styling Product Intern – Summer 2026](https://jobright.ai/jobs/info/68ceb98e846f0b04af67c865?utm_campaign=1053&utm_source=git)** | Darien, CT | Hybrid | Nov 02 |
 | **[Acumatica](https://www.acumatica.com)** | **[Moderate Writer Intern](https://jobright.ai/jobs/info/69077111ff462851fe00972c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
 | ↳ | **[Podcast Production Intern](https://jobright.ai/jobs/info/6907620d122e8474c78e4542?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
@@ -116,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios Character Technical Director Intern, Summer 2026](https://jobright.ai/jobs/info/69041ab863502c0aded70662?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eda8ff462851feff0c38?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 30 |
 | **[WIBW TV](https://www.wibw.com/)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WIBW](https://jobright.ai/jobs/info/6903dfa5ff462851feff0019?utm_campaign=1053&utm_source=git)** | Topeka, KS | On Site | Oct 30 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Podcast Audio Editor Gen Z Internship (Unpaid)](https://jobright.ai/jobs/info/6903fd0ad64a22104aa95b24?utm_campaign=1053&utm_source=git)** | Berkeley, CA | Remote | Oct 30 |
 | **[FIRST](https://firstagency.com/)** | **[Roadshow Intern - Spring 2026](https://jobright.ai/jobs/info/6903dc84ff462851fefefde6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Spring Intern, Times of San Diego - Remote](https://jobright.ai/jobs/info/6903d8c863502c0aded6d4fa?utm_campaign=1053&utm_source=git)** | AZ Remote | Remote | Oct 30 |
 | **[Morris Elite Soccer Club ](https://www.morriselitesoccer.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/6903d71463502c0aded6d340?utm_campaign=1053&utm_source=git)** | Madison, NJ | On Site | Oct 30 |
