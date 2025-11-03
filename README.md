@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sparo](https://sparomarketing.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/6908ea644a1b456627afa091?utm_campaign=1053&utm_source=git)** | Miami-FTL Area | Hybrid | Nov 03 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6908e6fcd046ab6061cced78?utm_campaign=1053&utm_source=git)** | Cherry Hill, NJ | Hybrid | Nov 03 |
+| **[SANALIMENT](https://sanaliment.com/)** | **[Conten creation intern](https://jobright.ai/jobs/info/6908e5414a1b456627af9d51?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Nov 03 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Winter Season 2025/2026](https://jobright.ai/jobs/info/6908ab924a1b456627af806d?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Nov 03 |
 | **[Onovo](https://onovopharma.com/)** | **[TikTok intern](https://jobright.ai/jobs/info/6908780fbcccf20de59cfd35?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage Cabinet - Videographer/Photographer](https://jobright.ai/jobs/info/68f91c93cadb2e5a06a6141e?utm_campaign=1053&utm_source=git)** | Frankfort, KY | On Site | Nov 02 |
-| **[Foment Productions](www.sarahjonesonline.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/690845e063502c0aded8ba28?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 02 |
 | **[Zipline](http://flyzipline.com)** | **[Video Production + Social Media Intern (New Grad)](https://jobright.ai/jobs/info/690806f9ff462851fe00c14b?utm_campaign=1053&utm_source=git)** | South San Francisco, CA | On Site | Nov 02 |
 | ↳ | **[Video Production + Social Media Intern (New Grad)](https://jobright.ai/jobs/info/6907f985ff462851fe00be97?utm_campaign=1053&utm_source=git)** | South San Francisco, California, USA | On Site | Nov 02 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post Production, Sony Pictures Classics - Spring 2026](https://jobright.ai/jobs/info/690781d5ff462851fe00a059?utm_campaign=1053&utm_source=git)** | New York, New York | On Site | Nov 02 |
@@ -135,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[New York City Department of Transportation](https://www.nyc.gov/html/dot/html/home/home.shtml)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/69047c53d64a22104aa99d8c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Livestream/Stats/Gameday Broadcast](https://jobright.ai/jobs/info/68ffef640ab3b222462b039d?utm_campaign=1053&utm_source=git)** | Sarasota, FL | On Site | Oct 29 |
 | **[The City of Frederick](http://www.cityoffrederickmd.gov)** | **[Arts, Culture and Communications Fellow](https://jobright.ai/jobs/info/69043e98d64a22104aa98748?utm_campaign=1053&utm_source=git)** | Frederick, MD | On Site | Oct 29 |
-| **[Making Waves Education Foundation](http://www.making-waves.org)** | **[Multimedia & Video Internship (Paid)](https://jobright.ai/jobs/info/6906c924ff462851fe0054c7?utm_campaign=1053&utm_source=git)** | Richmond, CA | On Site | Oct 29 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6902cccd00a1816c41ea181b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 29 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68ec9b10d4b0106e703ea6b0?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 29 |
 | **[The KINN](www.thekinn.co)** | **[Events and Media Intern](https://jobright.ai/jobs/info/6902c0f3ff462851fefe62d1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/6905d686ff462851fe000d73?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Oct 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) News Intern, Spring 2026](https://jobright.ai/jobs/info/69018d1cd5259a1b3cff614f?utm_campaign=1053&utm_source=git)** | Chicago, IL, USA | On Site | Oct 28 |
 | **[Rural King](https://www.ruralking.com)** | **[LIFT Student - Internship](https://jobright.ai/jobs/info/6901863cf8ce7a040fdc0686?utm_campaign=1053&utm_source=git)** | US-IL-Mattoon | On Site | Oct 28 |
-| **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/690185df4539ea1f21420dd4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
