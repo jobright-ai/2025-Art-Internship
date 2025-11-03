@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Winter Season 2025/2026](https://jobright.ai/jobs/info/6908ab924a1b456627af806d?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Nov 03 |
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/69087db84a1b456627af5d65?utm_campaign=1053&utm_source=git)** | Brea, CA | On Site | Nov 03 |
 | **[Onovo](https://onovopharma.com/)** | **[TikTok intern](https://jobright.ai/jobs/info/6908780fbcccf20de59cfd35?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage Cabinet - Videographer/Photographer](https://jobright.ai/jobs/info/68f91c93cadb2e5a06a6141e?utm_campaign=1053&utm_source=git)** | Frankfort, KY | On Site | Nov 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/6905d686ff462851fe000d73?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Oct 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) News Intern, Spring 2026](https://jobright.ai/jobs/info/69018d1cd5259a1b3cff614f?utm_campaign=1053&utm_source=git)** | Chicago, IL, USA | On Site | Oct 28 |
 | **[Rural King](https://www.ruralking.com)** | **[LIFT Student - Internship](https://jobright.ai/jobs/info/6901863cf8ce7a040fdc0686?utm_campaign=1053&utm_source=git)** | US-IL-Mattoon | On Site | Oct 28 |
-| **[TapBlaze](http://www.tapblaze.com)** | **[Narrative Design Intern](https://jobright.ai/jobs/info/690185df4539ea1f21420dd4?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
