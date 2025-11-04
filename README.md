@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Financial Times](http://ft.com)** | **[US Summer Audio Internship](https://jobright.ai/jobs/info/6909387cd046ab6061cd30f6?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Nov 03 |
 | **[Bold Films](https://www.boldfilms.com/)** | **[Development Internship - Spring 2026](https://jobright.ai/jobs/info/69091c81d046ab6061cd18ef?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 03 |
 | **[Northern Texas PGA](https://www.ntpga.com)** | **[Communications & Content Intern (Summer 2026)](https://jobright.ai/jobs/info/69090b76bcccf20de59d6654?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 03 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post Production, Sony Pictures Classics - Spring 2026](https://jobright.ai/jobs/info/6909095cd046ab6061cd0866?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 03 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[The Bernard Group, Inc.](http://www.thebernardgroup.com)** | **[Intern, Videographer](https://jobright.ai/jobs/info/6908f2b2bcccf20de59d5263?utm_campaign=1053&utm_source=git)** | Chanhassen, MN, US | Hybrid | Nov 03 |
 | **[Sparo](https://sparomarketing.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/6908ea644a1b456627afa091?utm_campaign=1053&utm_source=git)** | Miami-FTL Area | Hybrid | Nov 03 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6908e6fcd046ab6061cced78?utm_campaign=1053&utm_source=git)** | Cherry Hill, NJ | Hybrid | Nov 03 |
-| **[SANALIMENT](https://sanaliment.com/)** | **[Conten creation intern](https://jobright.ai/jobs/info/6908e5414a1b456627af9d51?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Nov 03 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Winter Season 2025/2026](https://jobright.ai/jobs/info/6908ab924a1b456627af806d?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Nov 03 |
 | **[Onovo](https://onovopharma.com/)** | **[TikTok intern](https://jobright.ai/jobs/info/6908780fbcccf20de59cfd35?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage Cabinet - Videographer/Photographer](https://jobright.ai/jobs/info/68f91c93cadb2e5a06a6141e?utm_campaign=1053&utm_source=git)** | Frankfort, KY | On Site | Nov 02 |
