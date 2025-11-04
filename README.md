@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arthrex](https://www.arthrex.com/)** | **[Exhibit Planning and Operations Intern](https://jobright.ai/jobs/info/68ed48b16335d332361271a3?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Nov 04 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6909d744bcccf20de59dde1c?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 04 |
 | **[Chicago White Sox](https://www.mlb.com/whitesox)** | **[Vertical Content Intern](https://jobright.ai/jobs/info/6909c0254a1b456627b02d0b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Spring 2026](https://jobright.ai/jobs/info/6909b6d64a1b456627b029e3?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 04 |
@@ -65,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network - Spring 2026](https://jobright.ai/jobs/info/690969fbbcccf20de59dade5?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Nov 03 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[International Europe reporter Intern](https://jobright.ai/jobs/info/69099c194a1b456627b02207?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Nov 03 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern](https://jobright.ai/jobs/info/69095d63d046ab6061cd49f1?utm_campaign=1053&utm_source=git)** | New York | On Site | Nov 03 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Non-Fiction – Spring 2026](https://jobright.ai/jobs/info/69095a69bcccf20de59da424?utm_campaign=1053&utm_source=git)** | Van Nuys, California | On Site | Nov 03 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Non-Fiction – Spring 2026](https://jobright.ai/jobs/info/69095cbed046ab6061cd4975?utm_campaign=1053&utm_source=git)** | Van Nuys, California | On Site | Nov 03 |
 | **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/690950324a1b456627aff274?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Nov 03 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Spring 2026](https://jobright.ai/jobs/info/69094e794a1b456627aff1b5?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Nov 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/69094163bcccf20de59d9532?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Northern Texas PGA](https://www.ntpga.com)** | **[Communications & Content Intern (Summer 2026)](https://jobright.ai/jobs/info/69090b76bcccf20de59d6654?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 03 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post Production, Sony Pictures Classics - Spring 2026](https://jobright.ai/jobs/info/6909095cd046ab6061cd0866?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6ad371852e62f0081d3cb?utm_campaign=1053&utm_source=git)** | Wisconsin Dells, WI | On Site | Nov 03 |
+| ↳ | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6b6cb1852e62f0081dcbc?utm_campaign=1053&utm_source=git)** | Sandusky, OH | On Site | Nov 03 |
 | **[Baby Berries ®](https://www.youtube.com/channel/UC1YRqArKml4kuvwxCzqAVYg)** | **[Non-Paid 2D Animator/Storyboard Artist](https://jobright.ai/jobs/info/6908f3c7bcccf20de59d5384?utm_campaign=1053&utm_source=git)** | Florida, United States | Remote | Nov 03 |
 | **[The Bernard Group, Inc.](http://www.thebernardgroup.com)** | **[Intern, Videographer](https://jobright.ai/jobs/info/6908f2b2bcccf20de59d5263?utm_campaign=1053&utm_source=git)** | Chanhassen, MN, US | Hybrid | Nov 03 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6ae1a1852e62f0081d476?utm_campaign=1053&utm_source=git)** | Round Rock, TX | On Site | Nov 03 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Development, 3000 Pictures – Spring 2026](https://jobright.ai/jobs/info/6906624c122e8474c78dfe5f?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[College Graduate/Student Intern](https://jobright.ai/jobs/info/690626d7122e8474c78df2aa?utm_campaign=1053&utm_source=git)** | Tennessee, United States | On Site | Nov 01 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Columbus, OH](https://jobright.ai/jobs/info/68cc3bf5128dc347fd921456?utm_campaign=1053&utm_source=git)** | Columbus, OH | On Site | Nov 01 |
-| **[Acumatica](https://www.acumatica.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/69061f25122e8474c78defe9?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/68f716859a63986de7584d0e?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Nov 01 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Culinary Operations](https://jobright.ai/jobs/info/68ccbd4b128dc347fd928d2b?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Nov 01 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e9c15bcfc08e4908912ad5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6902cccd00a1816c41ea181b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 29 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68ec9b10d4b0106e703ea6b0?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Oct 29 |
 | **[The KINN](www.thekinn.co)** | **[Events and Media Intern](https://jobright.ai/jobs/info/6902c0f3ff462851fefe62d1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 29 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Editorial Intern - Young Voices](https://jobright.ai/jobs/info/69028a8eff462851fefe4661?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
