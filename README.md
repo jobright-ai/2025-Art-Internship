@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern](https://jobright.ai/jobs/info/69096b3bd046ab6061cd518b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Nov 03 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network - Spring 2026](https://jobright.ai/jobs/info/690964d3bcccf20de59daa0e?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Nov 03 |
+| **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern](https://jobright.ai/jobs/info/69095d63d046ab6061cd49f1?utm_campaign=1053&utm_source=git)** | New York | On Site | Nov 03 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Non-Fiction – Spring 2026](https://jobright.ai/jobs/info/69095cbed046ab6061cd4975?utm_campaign=1053&utm_source=git)** | Van Nuys, California | On Site | Nov 03 |
 | **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/690950324a1b456627aff274?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Nov 03 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Spring 2026](https://jobright.ai/jobs/info/69094e794a1b456627aff1b5?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Nov 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/69094163bcccf20de59d9532?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Sparo](https://sparomarketing.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/6908ea644a1b456627afa091?utm_campaign=1053&utm_source=git)** | Miami-FTL Area | Hybrid | Nov 03 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6908e6fcd046ab6061cced78?utm_campaign=1053&utm_source=git)** | Cherry Hill, NJ | Hybrid | Nov 03 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Internship Winter Season 2025/2026](https://jobright.ai/jobs/info/6908ab924a1b456627af806d?utm_campaign=1053&utm_source=git)** | Carmel, IN | On Site | Nov 03 |
-| **[Onovo](https://onovopharma.com/)** | **[TikTok intern](https://jobright.ai/jobs/info/6908780fbcccf20de59cfd35?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage Cabinet - Videographer/Photographer](https://jobright.ai/jobs/info/68f91c93cadb2e5a06a6141e?utm_campaign=1053&utm_source=git)** | Frankfort, KY | On Site | Nov 02 |
 | **[Zipline](http://flyzipline.com)** | **[Video Production + Social Media Intern (New Grad)](https://jobright.ai/jobs/info/690806f9ff462851fe00c14b?utm_campaign=1053&utm_source=git)** | South San Francisco, CA | On Site | Nov 02 |
 | ↳ | **[Video Production + Social Media Intern (New Grad)](https://jobright.ai/jobs/info/6907f985ff462851fe00be97?utm_campaign=1053&utm_source=git)** | South San Francisco, California, USA | On Site | Nov 02 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Dolls Kill](http://dollskill.com)** | **[Styling & Production Intern](https://jobright.ai/jobs/info/6902878998707b2b0fe70afe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 29 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6902842700a1816c41e9f181?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Oct 29 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[F&B Front of House Intern/Trainee (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/690283b7ff462851fefe419f?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Oct 29 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902807600a1816c41e9ecce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[UFC GYM](http://UFCGYM.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/69027f6a00a1816c41e9ebcf?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 29 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/6902787600a1816c41e9e6c8?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Oct 29 |
 | **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Videography Intern (Spring 2026)- COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/6903d036ff462851fefef2d4?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 29 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Editorial Intern - Young Voices](https://jobright.ai/jobs/info/69026c5500a1816c41e9de7e?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Oct 29 |
-| **[AestheticMatch](https://www.aestheticmatch.com/)** | **[UGC Creator Intern](https://jobright.ai/jobs/info/69025fd6ff462851fefe2613?utm_campaign=1053&utm_source=git)** | United States | Remote | Oct 29 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902441700a1816c41e9c515?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
-| **[Stroum Jewish Community Center of Greater Seattle](http://www.sjcc.org)** | **[Arts + Ideas and Film Festival Intern](https://jobright.ai/jobs/info/690248eb00a1816c41e9c88a?utm_campaign=1053&utm_source=git)** | Mercer Island, WA | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
