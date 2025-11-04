@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/690950324a1b456627aff274?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Nov 03 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Spring 2026](https://jobright.ai/jobs/info/69094e794a1b456627aff1b5?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Nov 03 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/69094163bcccf20de59d9532?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
+| **[Heatmap Studios](https://www.youtube.com/@HeatmapStudios)** | **[High School Game & Content Intern](https://jobright.ai/jobs/info/690957c7bcccf20de59da3fd?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 03 |
 | **[Financial Times](http://ft.com)** | **[US Summer Audio Internship](https://jobright.ai/jobs/info/6909387cd046ab6061cd30f6?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Nov 03 |
 | **[Bold Films](https://www.boldfilms.com/)** | **[Development Internship - Spring 2026](https://jobright.ai/jobs/info/69091c81d046ab6061cd18ef?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 03 |
 | **[Northern Texas PGA](https://www.ntpga.com)** | **[Communications & Content Intern (Summer 2026)](https://jobright.ai/jobs/info/69090b76bcccf20de59d6654?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 03 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[PENNYMAC](https://www.pennymac.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68b2ddad1ade4306aa63a46b?utm_campaign=1053&utm_source=git)** | Westlake Village, CA | On Site | Nov 02 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Post Production](https://jobright.ai/jobs/info/689543044ed2ea559ca5478b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - China Power Project (Spring 2026)](https://jobright.ai/jobs/info/69073f55ff462851fe007dd5?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 02 |
-| **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[Managing Editor (Internship/ Volunteer)](https://jobright.ai/jobs/info/69068c8f63502c0aded826f3?utm_campaign=1053&utm_source=git)** | New Haven, CT | Remote | Nov 01 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post-Production - Spring 2026](https://jobright.ai/jobs/info/6906640c122e8474c78dfefa?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | ↳ | **[Intern, Development, 3000 Pictures – Spring 2026](https://jobright.ai/jobs/info/6906624c122e8474c78dfe5f?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[College Graduate/Student Intern](https://jobright.ai/jobs/info/690626d7122e8474c78df2aa?utm_campaign=1053&utm_source=git)** | Tennessee, United States | On Site | Nov 01 |
@@ -102,12 +105,9 @@ For a complete list, click the following sortable link below:
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Grant & Mission Writing Intern](https://jobright.ai/jobs/info/69056e53ff462851feffd543?utm_campaign=1053&utm_source=git)** | Longwood, FL | On Site | Oct 31 |
 | **[MacArthur Foundation](http://www.macfound.org)** | **[Art Portfolio Intern - Summer 2026](https://jobright.ai/jobs/info/69054f87ff462851feffc9ba?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
 | ↳ | **[Local News Intern - Summer 2026](https://jobright.ai/jobs/info/69054c6c63502c0aded7a35b?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
-| **[Simon Ardem](https://www.instagram.com/simonardem.nyc/)** | **[Fine Jewelry Intern](https://jobright.ai/jobs/info/69059085ff462851feffea34?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Post-Production - Spring 2026](https://jobright.ai/jobs/info/6905590cff462851feffcd04?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Oct 31 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING/SUMMER '26 - WSAW](https://jobright.ai/jobs/info/690521ce122e8474c78d677d?utm_campaign=1053&utm_source=git)** | Wausau, WI | On Site | Oct 31 |
-| **[Motto Pictures](https://www.mottopictures.com)** | **[Documentary Film Internship - Winter/Spring 2026](https://jobright.ai/jobs/info/69051f3e63502c0aded78509?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 31 |
 | **[L.L.Bean](http://www.llbean.com/)** | **[Creative Videography Internship](https://jobright.ai/jobs/info/6904f7c0122e8474c78d4af4?utm_campaign=1053&utm_source=git)** | Freeport, ME | Hybrid | Oct 31 |
-| **[Blue Whale Media](https://www.linkedin.com/company/106438480)** | **[Video Editor / Intern](https://jobright.ai/jobs/info/6904ea41ff462851feff8915?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Oct 31 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern](https://jobright.ai/jobs/info/68ed24d970b66e2345d3ad0f?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Oct 31 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Saint John's Resort](https://jobright.ai/jobs/info/68e4903db99ec3563b0ebab2?utm_campaign=1053&utm_source=git)** | Plymouth, MI | On Site | Oct 31 |
 | **[The Standard Journal Newspaper- Milton](https://www.standard-journal.com/)** | **[Intern](https://jobright.ai/jobs/info/69060c5763502c0aded8065f?utm_campaign=1053&utm_source=git)** | Milton, PA | On Site | Oct 31 |
