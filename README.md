@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern](https://jobright.ai/jobs/info/69096b3bd046ab6061cd518b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Nov 03 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network - Spring 2026](https://jobright.ai/jobs/info/690964d3bcccf20de59daa0e?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Nov 03 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network - Spring 2026](https://jobright.ai/jobs/info/690969fbbcccf20de59dade5?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Nov 03 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern](https://jobright.ai/jobs/info/69095d63d046ab6061cd49f1?utm_campaign=1053&utm_source=git)** | New York | On Site | Nov 03 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Non-Fiction – Spring 2026](https://jobright.ai/jobs/info/69095cbed046ab6061cd4975?utm_campaign=1053&utm_source=git)** | Van Nuys, California | On Site | Nov 03 |
 | **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/690950324a1b456627aff274?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Nov 03 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Dolls Kill](http://dollskill.com)** | **[Styling & Production Intern](https://jobright.ai/jobs/info/6902878998707b2b0fe70afe?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Oct 29 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6902842700a1816c41e9f181?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Oct 29 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[F&B Front of House Intern/Trainee (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/690283b7ff462851fefe419f?utm_campaign=1053&utm_source=git)** | New Orleans, LA | On Site | Oct 29 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902807600a1816c41e9ecce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[UFC GYM](http://UFCGYM.com)** | **[YouTube & Digital Media Intern - Spring 2026](https://jobright.ai/jobs/info/69027f6a00a1816c41e9ebcf?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 29 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/6902787600a1816c41e9e6c8?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Oct 29 |
 | **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Videography Intern (Spring 2026)- COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/6903d036ff462851fefef2d4?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Oct 29 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Editorial Intern - Young Voices](https://jobright.ai/jobs/info/69026c5500a1816c41e9de7e?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
