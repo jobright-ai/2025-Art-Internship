@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tombras](http://tombras.com)** | **[Post - Production Intern](https://jobright.ai/jobs/info/690d11bed046ab6061cf2509?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Entertainment Mascot](https://jobright.ai/jobs/info/690cf892d046ab6061cf10a7?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | Nov 06 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Gene Kelly Award Paid Internship](https://jobright.ai/jobs/info/690cf5e64a1b456627b1bddc?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 06 |
+| **[Fresh Films DT](https://freshfilms.org)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d1379221b890c27802d86?utm_campaign=1053&utm_source=git)** | Gwinnett County, GA | On Site | Nov 06 |
+| **[Spectrum Resorts](http://www.spectrumresorts.com/?nck=8553263136)** | **[Activities Intern-Summer-The Beach Club](https://jobright.ai/jobs/info/690d0bae4a1b456627b1cfaf?utm_campaign=1053&utm_source=git)** | Gulf Shores, AL 36542 | On Site | Nov 06 |
+| **[Fresh Films DT](https://freshfilms.org)** | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690d0d424a1b456627b1d0d8?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 06 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6902cccd00a1816c41ea181b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 06 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/690d0769221b890c278021d0?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Nov 06 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage Cabinet - Videographer/Photographer](https://jobright.ai/jobs/info/68f91c93cadb2e5a06a6141e?utm_campaign=1053&utm_source=git)** | Frankfort, KY | On Site | Nov 06 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern( Fall or Spring Semester) Hyatt Regency Bonita Springs Resort](https://jobright.ai/jobs/info/68e4adde1852e62f00808742?utm_campaign=1053&utm_source=git)** | Bonita Springs, FL | On Site | Nov 06 |
 | ↳ | **[Event Technology Internship (Fall or Spring semester)- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/68e48454b99ec3563b0eb1a8?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Nov 06 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Nov 06 |
@@ -139,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[WERX Social](werxsocial.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/690a4e81d046ab6061cdae86?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Influenceable](https://influenceable.io)** | **[Video Editor Intern](https://jobright.ai/jobs/info/690a43944a1b456627b059ed?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Nov 04 |
 | **[Calm and Collected Music Group](https://www.cacmg.com/)** | **[Intern, Video Production and Editing Intern, Music Videos](https://jobright.ai/jobs/info/68e96c92f195760c354a8ea5?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
-| **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/690a378ebcccf20de59dfeb8?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Nov 04 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[NT Live Intern, Naples - Summer 2026](https://jobright.ai/jobs/info/690a50f4bcccf20de59e0c7c?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Nov 04 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Datebook Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4c746335d332361272d5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 04 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Nov 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Bartley Fellowship - Book Reviews Internship](https://jobright.ai/jobs/info/68d1ccf78c62e63bc7fcfba9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 04 |
 | **[Chicago White Sox](https://www.mlb.com/whitesox)** | **[Vertical Content Intern](https://jobright.ai/jobs/info/6909c0254a1b456627b02d0b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Spring 2026](https://jobright.ai/jobs/info/6909b6d64a1b456627b029e3?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 04 |
-| **[Vermeer Corporation](https://borestore.com/)** | **[Audio Visual Intern (Summer 2026)](https://jobright.ai/jobs/info/6909acf3d046ab6061cd7489?utm_campaign=1053&utm_source=git)** | Pella, IA | On Site | Nov 03 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern](https://jobright.ai/jobs/info/69096b3bd046ab6061cd518b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Nov 03 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network - Spring 2026](https://jobright.ai/jobs/info/690969fbbcccf20de59dade5?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Nov 03 |
-| **[A.N. Publishing](https://www.anpublishing.com/)** | **[International Europe reporter Intern](https://jobright.ai/jobs/info/69099c194a1b456627b02207?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Nov 03 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern](https://jobright.ai/jobs/info/69095d63d046ab6061cd49f1?utm_campaign=1053&utm_source=git)** | New York | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
