@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Multimedia Internship (Graduate or Undergraduate)](https://jobright.ai/jobs/info/690be134d046ab6061ce8e16?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 05 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Programming Intern, Spring 2026](https://jobright.ai/jobs/info/690bf4ebd046ab6061ce980e?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Nov 05 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Multimedia Producer Internship (Graduate or Undergraduate)](https://jobright.ai/jobs/info/690be2894a1b456627b140db?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 05 |
+| ↳ | **[Summer 2026 Multimedia Internship (Graduate or Undergraduate)](https://jobright.ai/jobs/info/690be134d046ab6061ce8e16?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | **[US Youth Soccer](http://www.usyouthsoccer.org)** | **[Spring Operations and Events Internship](https://jobright.ai/jobs/info/690bd6af221b890c277f8eea?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 05 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Editorial Intern, People](https://jobright.ai/jobs/info/690bcc49d046ab6061ce7f36?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Nov 05 |
 | **[Metropolitan New York Library Council](https://metro.org)** | **[Summer Archives Intern at United States Court of Appeals for the Second Circuit](https://jobright.ai/jobs/info/690bc61f4a1b456627b129f2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 05 |
@@ -98,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Rocket Loans](http://www.rocketloans.com/)** | **[Video Producer Intern- Summer 2026](https://jobright.ai/jobs/info/68eec1fcd078b81ad160edf1?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Nov 05 |
 | **[David C Cook](https://davidccook.org)** | **[Video Production Intern DCC (Unpaid)](https://jobright.ai/jobs/info/68eef18246e5b153e5a6131a?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Nov 05 |
 | ↳ | **[Digital Production Internship (Unpaid)](https://jobright.ai/jobs/info/68eeefede0db92422580ca9f?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Nov 05 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/690b40054a1b456627b0e8ba?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 05 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Events Internship - Spring 2026](https://jobright.ai/jobs/info/690b9a4ed046ab6061ce5960?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 04 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 04 |
 | **[Iteris, Inc.](https://www.iteris.com)** | **[Intern - Video Editing](https://jobright.ai/jobs/info/690ab3ba4a1b456627b0a676?utm_campaign=1053&utm_source=git)** | Santa Ana, CA | Remote | Nov 04 |
@@ -118,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[WERX Social](werxsocial.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/690a4e81d046ab6061cdae86?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Influenceable](https://influenceable.io)** | **[Video Editor Intern](https://jobright.ai/jobs/info/690a43944a1b456627b059ed?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Nov 04 |
 | **[Calm and Collected Music Group](https://www.cacmg.com/)** | **[Intern, Video Production and Editing Intern, Music Videos](https://jobright.ai/jobs/info/68e96c92f195760c354a8ea5?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
+| **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/690a378ebcccf20de59dfeb8?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Nov 04 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[NT Live Intern, Naples - Summer 2026](https://jobright.ai/jobs/info/690a50f4bcccf20de59e0c7c?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Nov 04 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Datebook Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4c746335d332361272d5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 04 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Nov 04 |
@@ -132,11 +134,10 @@ For a complete list, click the following sortable link below:
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Spring 2026](https://jobright.ai/jobs/info/6909b6d64a1b456627b029e3?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 04 |
 | **[Vermeer Corporation](https://borestore.com/)** | **[Audio Visual Intern (Summer 2026)](https://jobright.ai/jobs/info/6909acf3d046ab6061cd7489?utm_campaign=1053&utm_source=git)** | Pella, IA | On Site | Nov 03 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern](https://jobright.ai/jobs/info/69096b3bd046ab6061cd518b?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Nov 03 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network - Spring 2026](https://jobright.ai/jobs/info/690969fbbcccf20de59dade5?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Nov 03 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[International Europe reporter Intern](https://jobright.ai/jobs/info/69099c194a1b456627b02207?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Nov 03 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Game Show Network - Spring 2026](https://jobright.ai/jobs/info/690964d3bcccf20de59daa0e?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Nov 03 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Production Intern](https://jobright.ai/jobs/info/69095d63d046ab6061cd49f1?utm_campaign=1053&utm_source=git)** | New York | On Site | Nov 03 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Non-Fiction – Spring 2026](https://jobright.ai/jobs/info/69095cbed046ab6061cd4975?utm_campaign=1053&utm_source=git)** | Van Nuys, California | On Site | Nov 03 |
-| **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/690950324a1b456627aff274?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Nov 03 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Non-Fiction – Spring 2026](https://jobright.ai/jobs/info/69095a69bcccf20de59da424?utm_campaign=1053&utm_source=git)** | Van Nuys, California | On Site | Nov 03 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Nerdist Editorial - Spring 2026](https://jobright.ai/jobs/info/69094e794a1b456627aff1b5?utm_campaign=1053&utm_source=git)** | Burbank,CA,US | On Site | Nov 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/69094163bcccf20de59d9532?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | **[Financial Times](http://ft.com)** | **[US Summer Audio Internship](https://jobright.ai/jobs/info/6909387cd046ab6061cd30f6?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Nov 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Post Production Intern, Sony Pictures Television Post Production – Summer 2025](https://jobright.ai/jobs/info/69077ca363502c0aded87972?utm_campaign=1053&utm_source=git)** | Culver City, California | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Haircare & Styling Product Intern – Summer 2026](https://jobright.ai/jobs/info/68ceb98e846f0b04af67c865?utm_campaign=1053&utm_source=git)** | Darien, CT | Hybrid | Nov 02 |
 | **[PENNYMAC](https://www.pennymac.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/68b2ddad1ade4306aa63a46b?utm_campaign=1053&utm_source=git)** | Westlake Village, CA | On Site | Nov 02 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Post Production](https://jobright.ai/jobs/info/689543044ed2ea559ca5478b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
