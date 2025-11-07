@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Programming Intern, Spring 2026](https://jobright.ai/jobs/info/690de849221b890c2780a453?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/690ddfa2d046ab6061cf9add?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
+| ↳ | **[Intern - China Power Project (Spring 2026)](https://jobright.ai/jobs/info/690dde39d046ab6061cf9a57?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
 | **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[University Press of Kansas Editorial and Production Intern](https://jobright.ai/jobs/info/690db64ad046ab6061cf8715?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Nov 07 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[University Press of Kansas Editorial and Production Intern](https://jobright.ai/jobs/info/690db51ad046ab6061cf864c?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 06 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Medical Writing Operations Clinical Editor Intern](https://jobright.ai/jobs/info/690d883bd046ab6061cf6dfc?utm_campaign=1053&utm_source=git)** | Massachusetts - Virtual | Remote | Nov 06 |
@@ -87,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Spectrum Resorts](http://www.spectrumresorts.com/?nck=8553263136)** | **[Activities Intern-Summer-The Beach Club](https://jobright.ai/jobs/info/690d0bae4a1b456627b1cfaf?utm_campaign=1053&utm_source=git)** | Gulf Shores, AL 36542 | On Site | Nov 06 |
 | ↳ | **[Activities Intern-WINTER The Beach Club](https://jobright.ai/jobs/info/690d1714d046ab6061cf294f?utm_campaign=1053&utm_source=git)** | Gulf Shores, AL 36542 | On Site | Nov 06 |
 | **[Fresh Films DT](https://freshfilms.org)** | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690d0d424a1b456627b1d0d8?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 06 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Post Production Intern](https://jobright.ai/jobs/info/6902cccd00a1816c41ea181b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 06 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/6902cccd00a1816c41ea181b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 06 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/690d0769221b890c278021d0?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Nov 06 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage Cabinet - Videographer/Photographer](https://jobright.ai/jobs/info/68f91c93cadb2e5a06a6141e?utm_campaign=1053&utm_source=git)** | Frankfort, KY | On Site | Nov 06 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern( Fall or Spring Semester) Hyatt Regency Bonita Springs Resort](https://jobright.ai/jobs/info/68e4adde1852e62f00808742?utm_campaign=1053&utm_source=git)** | Bonita Springs, FL | On Site | Nov 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 04 |
 | **[Iteris, Inc.](https://www.iteris.com)** | **[Intern - Video Editing](https://jobright.ai/jobs/info/690ab3ba4a1b456627b0a676?utm_campaign=1053&utm_source=git)** | Santa Ana, CA | Remote | Nov 04 |
 | **[Simantel](https://www.simantel.com)** | **[Motion Media Project Planner Intern (Local)](https://jobright.ai/jobs/info/690abd7d4a1b456627b0aca6?utm_campaign=1053&utm_source=git)** | Peoria, IL | On Site | Nov 04 |
-| **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Events Internship - Spring 2026](https://jobright.ai/jobs/info/690b66f74a1b456627b0f4bc?utm_campaign=1053&utm_source=git)** | Frisco, Texas | On Site | Nov 04 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Broadcast Reporting Intern (Spring)](https://jobright.ai/jobs/info/690a80f14a1b456627b0891f?utm_campaign=1053&utm_source=git)** | High Point, NC | On Site | Nov 04 |
-| **[Tribune Publishing Company](https://www.tribpub.com/)** | **[Intern](https://jobright.ai/jobs/info/690a80c8d046ab6061cdd7d2?utm_campaign=1053&utm_source=git)** | Deerfield Beach, FL | Hybrid | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
