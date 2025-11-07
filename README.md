@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Empower Aesthetics](https://www.empower.spa)** | **[Aesthetic Nurse Intern](https://jobright.ai/jobs/info/690d4688d046ab6061cf4e1b?utm_campaign=1053&utm_source=git)** | Chattanooga,TN,US | On Site | Nov 06 |
+| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690d4342d046ab6061cf4b9b?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Nov 06 |
+| **[Massanutten Resort](http://massresort.com)** | **[Internship - Activities](https://jobright.ai/jobs/info/690d373d4a1b456627b1f5a4?utm_campaign=1053&utm_source=git)** | McGaheysville, VA | On Site | Nov 06 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Multimedia Intern: Spring](https://jobright.ai/jobs/info/690d2e64221b890c27804603?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 06 |
 | **[Michigan Section PGA](https://michiganpga.com/)** | **[Michigan PGA Tournament Internship](https://jobright.ai/jobs/info/690d2786221b890c27803ef5?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Nov 06 |
 | **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Multimedia Intern: Spring](https://jobright.ai/jobs/info/690d17d0221b890c2780314f?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 06 |
@@ -65,7 +68,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Assistant Intern](https://jobright.ai/jobs/info/690d27054a1b456627b1e80e?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Global Expression Intern](https://jobright.ai/jobs/info/690d1e884a1b456627b1dfc5?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 06 |
 | **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Entertainment Mascot](https://jobright.ai/jobs/info/690cf892d046ab6061cf10a7?utm_campaign=1053&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | Nov 06 |
-| **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Gene Kelly Award Paid Internship](https://jobright.ai/jobs/info/690cf5e64a1b456627b1bddc?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 06 |
+| **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Gene Kelly Award Paid Internship](https://jobright.ai/jobs/info/690d4479d046ab6061cf4cc2?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 06 |
+| ↳ | **[Gene Kelly Award Paid Internship](https://jobright.ai/jobs/info/690cf5e64a1b456627b1bddc?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 06 |
 | **[Fresh Films DT](https://freshfilms.org)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d1379221b890c27802d86?utm_campaign=1053&utm_source=git)** | Gwinnett County, GA | On Site | Nov 06 |
 | ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d1ba5221b890c2780354a?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Nov 06 |
 | **[Spectrum Resorts](http://www.spectrumresorts.com/?nck=8553263136)** | **[Activities Intern-Summer-The Beach Club](https://jobright.ai/jobs/info/690d0bae4a1b456627b1cfaf?utm_campaign=1053&utm_source=git)** | Gulf Shores, AL 36542 | On Site | Nov 06 |
@@ -90,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Videographer - Auburn Football](https://jobright.ai/jobs/info/690c04efd046ab6061cea134?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Nov 05 |
 | **[VOX ATL](https://voxatl.org)** | **[VOX Studios Teen Intern - Spring Semester 2026](https://jobright.ai/jobs/info/690bfe3bd046ab6061ce9d9d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Programming Intern, Spring 2026](https://jobright.ai/jobs/info/690bf4ebd046ab6061ce980e?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Nov 05 |
+| **[rag & bone](http://www.rag-bone.com)** | **[Spring 2026 Intern - Footwear/Accessories Production](https://jobright.ai/jobs/info/690d369d221b890c27804c36?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[VOX ATL](https://voxatl.org)** | **[VOX Studios Near-Peer Production Intern - Spring Semester 2026](https://jobright.ai/jobs/info/690c0f4a4a1b456627b15b34?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Multimedia Producer Internship (Graduate or Undergraduate)](https://jobright.ai/jobs/info/690be2894a1b456627b140db?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | ↳ | **[Summer 2026 Multimedia Internship (Graduate or Undergraduate)](https://jobright.ai/jobs/info/690be134d046ab6061ce8e16?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 05 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[WERX Social](werxsocial.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/690a4e81d046ab6061cdae86?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Influenceable](https://influenceable.io)** | **[Video Editor Intern](https://jobright.ai/jobs/info/690a43944a1b456627b059ed?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Nov 04 |
 | **[Calm and Collected Music Group](https://www.cacmg.com/)** | **[Intern, Video Production and Editing Intern, Music Videos](https://jobright.ai/jobs/info/68e96c92f195760c354a8ea5?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
+| **[Houston Livestock Show and Rodeo](https://www.rodeohouston.com/)** | **[Studio Intern](https://jobright.ai/jobs/info/690a378ebcccf20de59dfeb8?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Nov 04 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[NT Live Intern, Naples - Summer 2026](https://jobright.ai/jobs/info/690a50f4bcccf20de59e0c7c?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Nov 04 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Datebook Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4c746335d332361272d5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 04 |
-| **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Nov 04 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Bartley Fellowship - Arts Criticism Internship](https://jobright.ai/jobs/info/68d7834f267b154f9a2db58b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 04 |
-| **[San Francisco Chronicle](http://www.sfgate.com)** | **[Metro Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4ede81fdd1626d39ad9a?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Nov 04 |
-| ↳ | **[Data Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4ad770b66e2345d3c329?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Nov 04 |
-| **[Arthrex](https://www.arthrex.com/)** | **[Exhibit Planning and Operations Intern](https://jobright.ai/jobs/info/68ed48b16335d332361271a3?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Nov 04 |
-| **[Pivot Point Academy](https://www.pivotpoint.edu/)** | **[APPRENTICE / ASSISTANT](https://jobright.ai/jobs/info/690b49b94a1b456627b0ead0?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
