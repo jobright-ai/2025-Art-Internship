@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Medical Writing Operations Clinical Editor Intern](https://jobright.ai/jobs/info/690d883bd046ab6061cf6dfc?utm_campaign=1053&utm_source=git)** | Massachusetts - Virtual | Remote | Nov 06 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Merced Sun-Star](https://jobright.ai/jobs/info/690d5f40d046ab6061cf5aa3?utm_campaign=1053&utm_source=git)** | Merced, CA | On Site | Nov 06 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690d5eba221b890c27806258?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Nov 06 |
+| ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d9960d046ab6061cf7593?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Nov 06 |
 | ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d5284221b890c27805d8f?utm_campaign=1053&utm_source=git)** | Gwinnett, GA | On Site | Nov 06 |
 | **[Bosmos](www.bosmos.org)** | **[Character Animator Intern](https://jobright.ai/jobs/info/690d876f221b890c278076c2?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 06 |
+| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d926cd046ab6061cf7270?utm_campaign=1053&utm_source=git)** | Gwinnett County, GA | On Site | Nov 06 |
 | **[Empower Aesthetics](https://www.empower.spa)** | **[Aesthetic Nurse Intern](https://jobright.ai/jobs/info/690d4688d046ab6061cf4e1b?utm_campaign=1053&utm_source=git)** | Chattanooga,TN,US | On Site | Nov 06 |
 | **[Spectrum Resorts](http://www.spectrumresorts.com/?nck=8553263136)** | **[Activities Intern-SUMMER-Turquoise Place](https://jobright.ai/jobs/info/690d795d221b890c278070c3?utm_campaign=1053&utm_source=git)** | Orange Beach, AL 36561 | On Site | Nov 06 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690d4342d046ab6061cf4b9b?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Nov 06 |
-| ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d60984a1b456627b20d18?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Nov 06 |
 | **[Massanutten Resort](http://massresort.com)** | **[Internship - Activities](https://jobright.ai/jobs/info/690d373d4a1b456627b1f5a4?utm_campaign=1053&utm_source=git)** | McGaheysville, VA | On Site | Nov 06 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Multimedia Intern: Spring](https://jobright.ai/jobs/info/690d2e64221b890c27804603?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 06 |
 | **[Michigan Section PGA](https://michiganpga.com/)** | **[Michigan PGA Tournament Internship](https://jobright.ai/jobs/info/690d2786221b890c27803ef5?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Nov 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Financial Times](http://ft.com)** | **[US Data Journalism Intern](https://jobright.ai/jobs/info/690a77034a1b456627b080b6?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Nov 04 |
 | **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[Zell Intern](https://jobright.ai/jobs/info/690a76ad4a1b456627b08061?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 04 |
 | **[Financial Times](http://ft.com)** | **[US Data Journalism Internship](https://jobright.ai/jobs/info/690a6fbad046ab6061cdc944?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
-| **[Ethos Group](https://ethosgroup.io/)** | **[Intern](https://jobright.ai/jobs/info/690a6746d046ab6061cdbf87?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Nov 04 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
