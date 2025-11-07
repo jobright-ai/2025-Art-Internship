@@ -60,7 +60,9 @@ For a complete list, click the following sortable link below:
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Merced Sun-Star](https://jobright.ai/jobs/info/690d5f40d046ab6061cf5aa3?utm_campaign=1053&utm_source=git)** | Merced, CA | On Site | Nov 06 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690d5eba221b890c27806258?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Nov 06 |
 | ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d5284221b890c27805d8f?utm_campaign=1053&utm_source=git)** | Gwinnett, GA | On Site | Nov 06 |
+| **[Bosmos](www.bosmos.org)** | **[Character Animator Intern](https://jobright.ai/jobs/info/690d876f221b890c278076c2?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Empower Aesthetics](https://www.empower.spa)** | **[Aesthetic Nurse Intern](https://jobright.ai/jobs/info/690d4688d046ab6061cf4e1b?utm_campaign=1053&utm_source=git)** | Chattanooga,TN,US | On Site | Nov 06 |
+| **[Spectrum Resorts](http://www.spectrumresorts.com/?nck=8553263136)** | **[Activities Intern-SUMMER-Turquoise Place](https://jobright.ai/jobs/info/690d795d221b890c278070c3?utm_campaign=1053&utm_source=git)** | Orange Beach, AL 36561 | On Site | Nov 06 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690d4342d046ab6061cf4b9b?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Nov 06 |
 | ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d60984a1b456627b20d18?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Nov 06 |
 | **[Massanutten Resort](http://massresort.com)** | **[Internship - Activities](https://jobright.ai/jobs/info/690d373d4a1b456627b1f5a4?utm_campaign=1053&utm_source=git)** | McGaheysville, VA | On Site | Nov 06 |
@@ -94,7 +96,9 @@ For a complete list, click the following sortable link below:
 | **[VOX ATL](https://voxatl.org)** | **[Poetry @ VOX ATL Near Peer Intern - Spring 2026](https://jobright.ai/jobs/info/690c4fd74a1b456627b17783?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | **[West Shore Home](http://westshorehome.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/690c3ca2d046ab6061cec00a?utm_campaign=1053&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 05 |
 | **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/690c1919d046ab6061ceaeab?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 05 |
+| **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Events Internship - Spring 2026](https://jobright.ai/jobs/info/690d7193d046ab6061cf63e1?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 05 |
 | **[People Inc.](https://www.people.inc/)** | **[Editorial Intern, People](https://jobright.ai/jobs/info/690c0d3f221b890c277faedc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 05 |
+| **[David C Cook](https://davidccook.org)** | **[Music Publishing Administration Internship (Unpaid)](https://jobright.ai/jobs/info/68ef45019821486c423c2ec6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Nov 05 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Videographer - Auburn Football](https://jobright.ai/jobs/info/690c04efd046ab6061cea134?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Nov 05 |
 | **[VOX ATL](https://voxatl.org)** | **[VOX Studios Teen Intern - Spring Semester 2026](https://jobright.ai/jobs/info/690bfe3bd046ab6061ce9d9d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Programming Intern, Spring 2026](https://jobright.ai/jobs/info/690bf4ebd046ab6061ce980e?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Nov 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Financial Times](http://ft.com)** | **[US Data Journalism Internship](https://jobright.ai/jobs/info/690a6fbad046ab6061cdc944?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
 | **[Ethos Group](https://ethosgroup.io/)** | **[Intern](https://jobright.ai/jobs/info/690a6746d046ab6061cdbf87?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Nov 04 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Nov 04 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development Intern, Sony Non-Fiction – Spring 2026](https://jobright.ai/jobs/info/690a5f53bcccf20de59e168e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 04 |
-| ↳ | **[Development Intern, Game Show Network - Spring 2026](https://jobright.ai/jobs/info/690a5c92bcccf20de59e14f6?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Nov 04 |
-| **[WERX Social](werxsocial.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/690a4e81d046ab6061cdae86?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 04 |
-| **[Influenceable](https://influenceable.io)** | **[Video Editor Intern](https://jobright.ai/jobs/info/690a43944a1b456627b059ed?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
