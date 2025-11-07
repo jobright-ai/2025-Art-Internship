@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nashville Sports Council](http://www.nashvillesports.com/)** | **[Event Videographer – Liberty Mutual Music City Bowl Content Team](https://jobright.ai/jobs/info/690e6892221b890c2780dab8?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Nov 07 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/690e5e4c221b890c2780d37b?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Nov 07 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/690e6000d046ab6061cfcd3a?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 07 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, New Jersey Spring 2026](https://jobright.ai/jobs/info/68f1681eef766b3f0fd0d998?utm_campaign=1053&utm_source=git)** | New Jersey, United States | On Site | Nov 07 |
 | ↳ | **[Editorial Internship, Florida Spring 2026](https://jobright.ai/jobs/info/68f16116f462172a5a7d75af?utm_campaign=1053&utm_source=git)** | Tallahassee, FL | On Site | Nov 07 |
+| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Venue Technology Intern](https://jobright.ai/jobs/info/690e5429d046ab6061cfc53e?utm_campaign=1053&utm_source=git)** | Detroit, MI | Hybrid | Nov 07 |
 | **[Sightline Media Group](http://www.sightlinemediagroup.com)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/67494ebf9f7da9d1b439890f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 07 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Global Expression Intern](https://jobright.ai/jobs/info/690e2ff1d046ab6061cfb208?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Media Intern, Center for Communications, Media Strategy (Fall 2025)](https://jobright.ai/jobs/info/68b8a4ab07090163b6ba3c18?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 07 |
@@ -85,8 +89,7 @@ For a complete list, click the following sortable link below:
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690d5eba221b890c27806258?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Nov 06 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Investigative Unit Internship - Spring 2026](https://jobright.ai/jobs/info/690dbeef221b890c27809478?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Nov 06 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d5284221b890c27805d8f?utm_campaign=1053&utm_source=git)** | Gwinnett, GA | On Site | Nov 06 |
-| **[Bosmos](www.bosmos.org)** | **[Character Animator Intern](https://jobright.ai/jobs/info/690d876f221b890c278076c2?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 06 |
-| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d926cd046ab6061cf7270?utm_campaign=1053&utm_source=git)** | Gwinnett County, GA | On Site | Nov 06 |
+| ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d926cd046ab6061cf7270?utm_campaign=1053&utm_source=git)** | Gwinnett County, GA | On Site | Nov 06 |
 | ↳ | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690da70b44146d3b6ec4ea63?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 06 |
 | **[Empower Aesthetics](https://www.empower.spa)** | **[Aesthetic Nurse Intern](https://jobright.ai/jobs/info/690d4688d046ab6061cf4e1b?utm_campaign=1053&utm_source=git)** | Chattanooga,TN,US | On Site | Nov 06 |
 | **[Spectrum Resorts](http://www.spectrumresorts.com/?nck=8553263136)** | **[Activities Intern-SUMMER-Turquoise Place](https://jobright.ai/jobs/info/690d795d221b890c278070c3?utm_campaign=1053&utm_source=git)** | Orange Beach, AL 36561 | On Site | Nov 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[County of Riverside](http://www.rc-hr.com)** | **[Behavioral Health Friday Night Live (Indio) - Paid Internship](https://jobright.ai/jobs/info/690b9b40221b890c277f61fc?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Nov 05 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[KATV Spring 2026 Intern](https://jobright.ai/jobs/info/690b9aff221b890c277f61e1?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Nov 05 |
 | **[The Galman Group](https://galmangroup.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/690c16514a1b456627b15ef7?utm_campaign=1053&utm_source=git)** | Jenkintown,PA,US | Hybrid | Nov 05 |
-| **[GBH](http://www.wgbh.org/)** | **[NEPM Sports Reporter Internship - Spring 2026](https://jobright.ai/jobs/info/690b9711221b890c277f612c?utm_campaign=1053&utm_source=git)** | Springfield, MA | Hybrid | Nov 05 |
-| **[West End Strategy Team](https://westendstrategy.com)** | **[Paid Intern - Spring 2026](https://jobright.ai/jobs/info/690bb3d5d046ab6061ce6a5c?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Nov 05 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[KATV Spring 2026 Intern](https://jobright.ai/jobs/info/690b8c4cd046ab6061ce5119?utm_campaign=1053&utm_source=git)** | 10 Turtle Creek Lane, Little Rock, AR, 72202, US | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
