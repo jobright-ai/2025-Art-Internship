@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAAS](http://www.aaas.org/)** | **[Diverse Voices in Science Journalism Intern](https://jobright.ai/jobs/info/690e733344146d3b6ec5458b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
+| **[The Dispatch](https://thedispatch.com/)** | **[The Dispatch Spring 2026 Internship Job Posting](https://jobright.ai/jobs/info/690e6cc3221b890c2780de35?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 07 |
 | **[Nashville Sports Council](http://www.nashvillesports.com/)** | **[Event Videographer – Liberty Mutual Music City Bowl Content Team](https://jobright.ai/jobs/info/690e6892221b890c2780dab8?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Nov 07 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/690e5e4c221b890c2780d37b?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Nov 07 |
+| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Video Editor Intern](https://jobright.ai/jobs/info/690e79c5221b890c2780e784?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 07 |
+| **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Spring 2026)](https://jobright.ai/jobs/info/690e6e30d046ab6061cfd886?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 07 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/690e6000d046ab6061cfcd3a?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 07 |
+| **[Public Media Network](http://www.publicmedianet.org)** | **[Public Media Network Internship Program Winter 2026](https://jobright.ai/jobs/info/690e6f25221b890c2780e04b?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Nov 07 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, New Jersey Spring 2026](https://jobright.ai/jobs/info/68f1681eef766b3f0fd0d998?utm_campaign=1053&utm_source=git)** | New Jersey, United States | On Site | Nov 07 |
 | ↳ | **[Editorial Internship, Florida Spring 2026](https://jobright.ai/jobs/info/68f16116f462172a5a7d75af?utm_campaign=1053&utm_source=git)** | Tallahassee, FL | On Site | Nov 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/690bb72cd046ab6061ce6b5c?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Nov 05 |
 | **[89.5 WNIJ & 90.5 WNIU](https://www.northernpublicradio.org)** | **[Archives Internship](https://jobright.ai/jobs/info/690bb063221b890c277f6fda?utm_campaign=1053&utm_source=git)** | DeKalb, IL | On Site | Nov 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Editorial Undergraduate Internship](https://jobright.ai/jobs/info/690ba7534a1b456627b1145b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 05 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/690bc830221b890c277f817a?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
-| **[89.5 WNIJ & 90.5 WNIU](https://www.northernpublicradio.org)** | **[Classical Producer Internship](https://jobright.ai/jobs/info/690c06994a1b456627b15557?utm_campaign=1053&utm_source=git)** | DeKalb, IL | On Site | Nov 05 |
-| **[County of Riverside](http://www.rc-hr.com)** | **[Behavioral Health Friday Night Live (Indio) - Paid Internship](https://jobright.ai/jobs/info/690b9b40221b890c277f61fc?utm_campaign=1053&utm_source=git)** | Riverside County, CA | On Site | Nov 05 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[KATV Spring 2026 Intern](https://jobright.ai/jobs/info/690b9aff221b890c277f61e1?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Nov 05 |
-| **[The Galman Group](https://galmangroup.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/690c16514a1b456627b15ef7?utm_campaign=1053&utm_source=git)** | Jenkintown,PA,US | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
