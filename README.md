@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/690f2b8144146d3b6ec5a8e5?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 08 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba24775f383274918644fe?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 08 |
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/690f0d4e44146d3b6ec59ac4?utm_campaign=1053&utm_source=git)** | Thomson, GA | On Site | Nov 08 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Medical Writing Operations Clinical Editor Intern](https://jobright.ai/jobs/info/690ecc9144146d3b6ec57ec5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 07 |
 | ↳ | **[2026 Summer Internship Program: Medical Writing Operations Clinical Editor Intern](https://jobright.ai/jobs/info/690ec631221b890c27811972?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Nov 07 |
@@ -83,8 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Broadcast Internship (NYSBA)](https://jobright.ai/jobs/info/689ce2bc83d13d1f5b6aba22?utm_campaign=1053&utm_source=git)** | Colchester, VT | On Site | Nov 07 |
 | **[FOX Weather](https://foxweather.com)** | **[Spring 2026 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/68d649bc4736ff202fdd2407?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/6847361f79d64e83c0ac5e62?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Nov 07 |
-| **[New England Public Media](https://www.nepm.org/)** | **[NEPM News Intern - Spring 2026](https://jobright.ai/jobs/info/68f1647be6870116b1f581dd?utm_campaign=1053&utm_source=git)** | Springfield, MA | Hybrid | Nov 07 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring Unpaid Internship - News](https://jobright.ai/jobs/info/68d5be9a1f7fb2169ab13744?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | On Site | Nov 07 |
+| ↳ | **[Spring Unpaid Internship - News](https://jobright.ai/jobs/info/68d5be9a1f7fb2169ab13744?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | On Site | Nov 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Programming Intern, Spring 2026](https://jobright.ai/jobs/info/690de849221b890c2780a453?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2026 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/68d77b07295f8e37655db0e7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/690ddfa2d046ab6061cf9add?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/690bbe92d046ab6061ce723f?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Nov 05 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - KCRG](https://jobright.ai/jobs/info/690bbc51d046ab6061ce7067?utm_campaign=1053&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 05 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/690bbc45221b890c277f778b?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Nov 05 |
-| **[Texas Drift Academy](https://www.texasdriftacademy.com)** | **[Motorsports Video Editing Intern](https://jobright.ai/jobs/info/690bbadc4a1b456627b12171?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
