@@ -98,13 +98,13 @@ For a complete list, click the following sortable link below:
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Merced Sun-Star](https://jobright.ai/jobs/info/690d5f40d046ab6061cf5aa3?utm_campaign=1053&utm_source=git)** | Merced, CA | On Site | Nov 06 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690d5eba221b890c27806258?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Nov 06 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Investigative Unit Internship - Spring 2026](https://jobright.ai/jobs/info/690dbeef221b890c27809478?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Nov 06 |
-| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d9960d046ab6061cf7593?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Nov 06 |
-| ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d5284221b890c27805d8f?utm_campaign=1053&utm_source=git)** | Gwinnett, GA | On Site | Nov 06 |
+| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d5284221b890c27805d8f?utm_campaign=1053&utm_source=git)** | Gwinnett, GA | On Site | Nov 06 |
 | ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d926cd046ab6061cf7270?utm_campaign=1053&utm_source=git)** | Gwinnett County, GA | On Site | Nov 06 |
 | ↳ | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690da70b44146d3b6ec4ea63?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 06 |
 | **[Empower Aesthetics](https://www.empower.spa)** | **[Aesthetic Nurse Intern](https://jobright.ai/jobs/info/690d4688d046ab6061cf4e1b?utm_campaign=1053&utm_source=git)** | Chattanooga,TN,US | On Site | Nov 06 |
 | **[Spectrum Resorts](http://www.spectrumresorts.com/?nck=8553263136)** | **[Activities Intern-SUMMER-Turquoise Place](https://jobright.ai/jobs/info/690d795d221b890c278070c3?utm_campaign=1053&utm_source=git)** | Orange Beach, AL 36561 | On Site | Nov 06 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690d4342d046ab6061cf4b9b?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Nov 06 |
+| ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d60984a1b456627b20d18?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Nov 06 |
 | **[Massanutten Resort](http://massresort.com)** | **[Internship - Activities](https://jobright.ai/jobs/info/690d373d4a1b456627b1f5a4?utm_campaign=1053&utm_source=git)** | McGaheysville, VA | On Site | Nov 06 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Multimedia Intern: Spring](https://jobright.ai/jobs/info/690d2e64221b890c27804603?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 06 |
 | **[Michigan Section PGA](https://michiganpga.com/)** | **[Michigan PGA Tournament Internship](https://jobright.ai/jobs/info/690d2786221b890c27803ef5?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Nov 06 |
@@ -130,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Intern- Golf Maintenance](https://jobright.ai/jobs/info/68f0012e9821486c423c886a?utm_campaign=1053&utm_source=git)** | Ridgedale, MO | On Site | Nov 06 |
 | **[Ultimate Fighting Championship](http://UFC.com)** | **[Spanish Production Intern - Spring 2026](https://jobright.ai/jobs/info/68efefdfde50091dbfa50f4b?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Nov 06 |
 | **[TKO](https://tkogrp.com)** | **[Spanish Production Intern - Spring 2026](https://jobright.ai/jobs/info/68efefd39821486c423c7fe4?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Hybrid | Nov 06 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/690c8aa94a1b456627b19374?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 06 |
 | **[VOX ATL](https://voxatl.org)** | **[VOX ATL Near-Peer Journalism Intern - Spring 2026](https://jobright.ai/jobs/info/690c562a4a1b456627b178d7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 06 |
 | **[The Galman Group](https://galmangroup.com/)** | **[Videography Intern](https://jobright.ai/jobs/info/690c72534a1b456627b187c0?utm_campaign=1053&utm_source=git)** | Jenkintown, PA | On Site | Nov 06 |
 | **[VOX ATL](https://voxatl.org)** | **[Poetry @ VOX ATL Near Peer Intern - Spring 2026](https://jobright.ai/jobs/info/690c4fd74a1b456627b17783?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2025 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/690bbc45221b890c277f778b?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Nov 05 |
 | **[Texas Drift Academy](https://www.texasdriftacademy.com)** | **[Motorsports Video Editing Intern](https://jobright.ai/jobs/info/690bbadc4a1b456627b12171?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/690bba30d046ab6061ce6e69?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Nov 05 |
+| ↳ | **[Spring 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/690bb9a34a1b456627b1205d?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
