@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/690ea663d046ab6061cffbc5?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Nov 07 |
+| **[Omni Dallas Hotel](https://www.omnihotels.com/hotels/dallas)** | **[Summer Omni Cares Internship- Recreation](https://jobright.ai/jobs/info/690ea71e221b890c278104cc?utm_campaign=1053&utm_source=git)** | US-TX-Irving | On Site | Nov 07 |
 | **[AAAS](http://www.aaas.org/)** | **[Diverse Voices in Science Journalism Intern](https://jobright.ai/jobs/info/690e733344146d3b6ec5458b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
 | **[The Dispatch](https://thedispatch.com/)** | **[The Dispatch Spring 2026 Internship Job Posting](https://jobright.ai/jobs/info/690e6cc3221b890c2780de35?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 07 |
 | **[Nashville Sports Council](http://www.nashvillesports.com/)** | **[Event Videographer – Liberty Mutual Music City Bowl Content Team](https://jobright.ai/jobs/info/690e6892221b890c2780dab8?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/690bb9a34a1b456627b1205d?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Nov 05 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/690bb84ed046ab6061ce6c86?utm_campaign=1053&utm_source=git)** | Bridgeport, CT | On Site | Nov 05 |
 | ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/690bb72cd046ab6061ce6b5c?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Nov 05 |
-| **[89.5 WNIJ & 90.5 WNIU](https://www.northernpublicradio.org)** | **[Archives Internship](https://jobright.ai/jobs/info/690bb063221b890c277f6fda?utm_campaign=1053&utm_source=git)** | DeKalb, IL | On Site | Nov 05 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Editorial Undergraduate Internship](https://jobright.ai/jobs/info/690ba7534a1b456627b1145b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
