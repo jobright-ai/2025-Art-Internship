@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d712d0894705799a2f05b5?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 08 |
+| **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Nov 08 |
 | **[SPORTFIVE](http://www.sportfive.com/)** | **[Tournament Services Intern (Spring 2026)](https://jobright.ai/jobs/info/68f174a9ef766b3f0fd0e4ac?utm_campaign=1053&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 08 |
 | **[BUCK](https://buck.co/)** | **[2D Animation Apprentice / After Effects/Cavalry](https://jobright.ai/jobs/info/690f441cd046ab6061d044d2?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Nov 08 |
+| ↳ | **[2D Animation Apprentice / After Effects/Cavalry](https://jobright.ai/jobs/info/690f62c9221b890c27815810?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/690f2b8144146d3b6ec5a8e5?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 08 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba24775f383274918644fe?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 08 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/68f2945b76a51a4307bc4ffe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
@@ -74,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Nashville Sports Council](http://www.nashvillesports.com/)** | **[Event Videographer – Liberty Mutual Music City Bowl Content Team](https://jobright.ai/jobs/info/690e6892221b890c2780dab8?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Nov 07 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/690e5e4c221b890c2780d37b?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Nov 07 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Video Editor Intern](https://jobright.ai/jobs/info/690e79c5221b890c2780e784?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 07 |
+| **[Illinois Section PGA](http://www.ipga.com)** | **[2026 Illinois PGA Event Operations Intern](https://jobright.ai/jobs/info/690f5b5844146d3b6ec5b808?utm_campaign=1053&utm_source=git)** | Golf, IL | On Site | Nov 07 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Spring 2026)](https://jobright.ai/jobs/info/690e6e30d046ab6061cfd886?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 07 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/690e6000d046ab6061cfcd3a?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Public Media Network](http://www.publicmedianet.org)** | **[Public Media Network Internship Program Winter 2026](https://jobright.ai/jobs/info/690e6f25221b890c2780e04b?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Nov 07 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, New Jersey Spring 2026](https://jobright.ai/jobs/info/68f1681eef766b3f0fd0d998?utm_campaign=1053&utm_source=git)** | New Jersey, United States | On Site | Nov 07 |
@@ -91,6 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Unpaid Internship - News](https://jobright.ai/jobs/info/68d5be9a1f7fb2169ab13744?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | On Site | Nov 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Programming Intern, Spring 2026](https://jobright.ai/jobs/info/690de849221b890c2780a453?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2026 FOX News Media Internship Program - Technical Operations](https://jobright.ai/jobs/info/68d77b07295f8e37655db0e7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 07 |
+| **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[2026 Summer Newsroom Internship](https://jobright.ai/jobs/info/68e965a80930fe0bc462550a?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Nov 07 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/690ddfa2d046ab6061cf9add?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
 | ↳ | **[Intern - China Power Project (Spring 2026)](https://jobright.ai/jobs/info/690dde39d046ab6061cf9a57?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
 | **[Spectrum Resorts](http://www.spectrumresorts.com/?nck=8553263136)** | **[Activities Intern-Summer-The Beach Club](https://jobright.ai/jobs/info/690df606d046ab6061cf9f77?utm_campaign=1053&utm_source=git)** | Gulf Shores, AL | On Site | Nov 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Multimedia Internship (Graduate or Undergraduate)](https://jobright.ai/jobs/info/690be134d046ab6061ce8e16?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | **[US Youth Soccer](http://www.usyouthsoccer.org)** | **[Spring Operations and Events Internship](https://jobright.ai/jobs/info/690bd6af221b890c277f8eea?utm_campaign=1053&utm_source=git)** | Frisco, TX | On Site | Nov 05 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Editorial Intern, People](https://jobright.ai/jobs/info/690bcc49d046ab6061ce7f36?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Nov 05 |
-| **[Metropolitan New York Library Council](https://metro.org)** | **[Summer Archives Intern at United States Court of Appeals for the Second Circuit](https://jobright.ai/jobs/info/690bc61f4a1b456627b129f2?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 05 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/690bc04cd046ab6061ce740e?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 05 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/690bbf544a1b456627b12553?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
-| ↳ | **[Spring 2026 Internship Golf Tournament Operations-FREE TRAVEL and HOUSING (6/06)](https://jobright.ai/jobs/info/690bbeb9221b890c277f7a18?utm_campaign=1053&utm_source=git)** | Newark, NJ | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
