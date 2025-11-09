@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 09 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Video Production Assistant](https://jobright.ai/jobs/info/69104b0bbb519377733eb6a3?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 09 |
 | ↳ | **[University Press of Kansas Editorial and Production Intern](https://jobright.ai/jobs/info/69104b07bb519377733eb6a1?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 09 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Editor Intern](https://jobright.ai/jobs/info/690ff9c6988c2b7b4ec4f83f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
@@ -114,13 +115,13 @@ For a complete list, click the following sortable link below:
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Merced Sun-Star](https://jobright.ai/jobs/info/690d5f40d046ab6061cf5aa3?utm_campaign=1053&utm_source=git)** | Merced, CA | On Site | Nov 06 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690d5eba221b890c27806258?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Nov 06 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Investigative Unit Internship - Spring 2026](https://jobright.ai/jobs/info/690dbeef221b890c27809478?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Nov 06 |
-| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d5284221b890c27805d8f?utm_campaign=1053&utm_source=git)** | Gwinnett, GA | On Site | Nov 06 |
+| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d9960d046ab6061cf7593?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Nov 06 |
+| ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d5284221b890c27805d8f?utm_campaign=1053&utm_source=git)** | Gwinnett, GA | On Site | Nov 06 |
 | ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d926cd046ab6061cf7270?utm_campaign=1053&utm_source=git)** | Gwinnett County, GA | On Site | Nov 06 |
 | ↳ | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690da70b44146d3b6ec4ea63?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 06 |
 | **[Empower Aesthetics](https://www.empower.spa)** | **[Aesthetic Nurse Intern](https://jobright.ai/jobs/info/690d4688d046ab6061cf4e1b?utm_campaign=1053&utm_source=git)** | Chattanooga,TN,US | On Site | Nov 06 |
 | **[Spectrum Resorts](http://www.spectrumresorts.com/?nck=8553263136)** | **[Activities Intern-SUMMER-Turquoise Place](https://jobright.ai/jobs/info/690d795d221b890c278070c3?utm_campaign=1053&utm_source=git)** | Orange Beach, AL 36561 | On Site | Nov 06 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690d4342d046ab6061cf4b9b?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Nov 06 |
-| ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d60984a1b456627b20d18?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Nov 06 |
 | **[Massanutten Resort](http://massresort.com)** | **[Internship - Activities](https://jobright.ai/jobs/info/690d373d4a1b456627b1f5a4?utm_campaign=1053&utm_source=git)** | McGaheysville, VA | On Site | Nov 06 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Multimedia Intern: Spring](https://jobright.ai/jobs/info/690d2e64221b890c27804603?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 06 |
 | **[Michigan Section PGA](https://michiganpga.com/)** | **[Michigan PGA Tournament Internship](https://jobright.ai/jobs/info/690d2786221b890c27803ef5?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Programming Intern, Spring 2026](https://jobright.ai/jobs/info/690bf4ebd046ab6061ce980e?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Nov 05 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Spring 2026 Intern - Footwear/Accessories Production](https://jobright.ai/jobs/info/690d369d221b890c27804c36?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[VOX ATL](https://voxatl.org)** | **[VOX Studios Near-Peer Production Intern - Spring Semester 2026](https://jobright.ai/jobs/info/690c0f4a4a1b456627b15b34?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Multimedia Producer Internship (Graduate or Undergraduate)](https://jobright.ai/jobs/info/690be2894a1b456627b140db?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
