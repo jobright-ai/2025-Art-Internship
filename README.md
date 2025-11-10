@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[It’s All G Marketing Agency](http://its-all-g-atl.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/691160d8183be660d267b910?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Nov 09 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Entertainment & Community Engagement Internship (Free Housing)](https://jobright.ai/jobs/info/6910f054988c2b7b4ec53266?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Nov 09 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/6910e457183be660d267a25b?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 09 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[The Dispatch](https://thedispatch.com/)** | **[The Dispatch Spring 2026 Internship Job Posting](https://jobright.ai/jobs/info/690e6cc3221b890c2780de35?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 07 |
 | **[Nashville Sports Council](http://www.nashvillesports.com/)** | **[Event Videographer – Liberty Mutual Music City Bowl Content Team](https://jobright.ai/jobs/info/690e6892221b890c2780dab8?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Nov 07 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Culinary / Summer 2026](https://jobright.ai/jobs/info/690e5e4c221b890c2780d37b?utm_campaign=1053&utm_source=git)** | Bretton Woods, NH | On Site | Nov 07 |
-| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Video Editor Intern](https://jobright.ai/jobs/info/690e79c5221b890c2780e784?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Illinois Section PGA](http://www.ipga.com)** | **[2026 Illinois PGA Event Operations Intern](https://jobright.ai/jobs/info/690f5b5844146d3b6ec5b808?utm_campaign=1053&utm_source=git)** | Golf, IL | On Site | Nov 07 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Video Production Internship (Spring 2026)](https://jobright.ai/jobs/info/690e6e30d046ab6061cfd886?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 07 |
 | **[Public Media Network](http://www.publicmedianet.org)** | **[Public Media Network Internship Program Winter 2026](https://jobright.ai/jobs/info/690e6f25221b890c2780e04b?utm_campaign=1053&utm_source=git)** | Kalamazoo, MI | On Site | Nov 07 |
