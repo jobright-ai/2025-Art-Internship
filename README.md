@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6911bf51183be660d267dc58?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 10 |
 | **[Skillflo](https://www.skillflo.ai/)** | **[On-Camera Social Media Creator](https://jobright.ai/jobs/info/69119d9e183be660d267cd82?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 10 |
 | **[It’s All G Marketing Agency](http://its-all-g-atl.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/691160d8183be660d267b910?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Nov 09 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Entertainment & Community Engagement Internship (Free Housing)](https://jobright.ai/jobs/info/6910f054988c2b7b4ec53266?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Nov 09 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/6910e457183be660d267a25b?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 09 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 09 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[University Press of Kansas Editorial and Production Intern](https://jobright.ai/jobs/info/69104b07bb519377733eb6a1?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 09 |
