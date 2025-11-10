@@ -57,25 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tennessee Performing Arts Center](https://www.tpac.org/)** | **[Internship-Spring 2026](https://jobright.ai/jobs/info/6912190cd1047e3565cf96bc?utm_campaign=1053&utm_source=git)** | Nashville, TN, US | On Site | Nov 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Medical Writing Operations Clinical Editor Intern](https://jobright.ai/jobs/info/691208e8c98948514c4783b5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 10 |
 | **[FOX Weather](https://foxweather.com)** | **[Summer 2026 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/68da38063c03cd32709447df?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6911bf51183be660d267dc58?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 10 |
 | **[Skillflo](https://www.skillflo.ai/)** | **[On-Camera Social Media Creator](https://jobright.ai/jobs/info/69119d9e183be660d267cd82?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 10 |
 | **[It’s All G Marketing Agency](http://its-all-g-atl.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/691160d8183be660d267b910?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Nov 09 |
+| **[Chicago Steel (USHL)](https://chicagosteelhockeyteam.com/)** | **[2025-2026 Chicago Steel Spring Intern (School-Credit)](https://jobright.ai/jobs/info/6912226fc98948514c478e83?utm_campaign=1053&utm_source=git)** | Geneva, IL | On Site | Nov 09 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Entertainment & Community Engagement Internship (Free Housing)](https://jobright.ai/jobs/info/6910f054988c2b7b4ec53266?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Nov 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 09 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 09 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[University Press of Kansas Editorial and Production Intern](https://jobright.ai/jobs/info/69104b07bb519377733eb6a1?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 09 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Editor Intern](https://jobright.ai/jobs/info/690ff9c6988c2b7b4ec4f83f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
-| **[HIT Network](https://hitnetwork.com)** | **[Content Editor](https://jobright.ai/jobs/info/690fe40f988c2b7b4ec4f531?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | Nov 08 |
 | **[Financial Times](http://ft.com)** | **[US Summer Audio Intern](https://jobright.ai/jobs/info/6909387cd046ab6061cd30f6?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Nov 08 |
 | **[AARP](http://www.aarp.org)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/68ce6140fb49c96ca6e9fd42?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Nov 08 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d712d0894705799a2f05b5?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 08 |
 | **[The Daily How To](www.helpshareglobal.com)** | **[AI Content Curator (Unpaid Internship) - The Daily How To](https://jobright.ai/jobs/info/6910932b183be660d267955d?utm_campaign=1053&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | Remote | Nov 08 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Nov 08 |
 | **[SPORTFIVE](http://www.sportfive.com/)** | **[Tournament Services Intern (Spring 2026)](https://jobright.ai/jobs/info/68f174a9ef766b3f0fd0e4ac?utm_campaign=1053&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 08 |
 | **[BUCK](https://buck.co/)** | **[2D Animation Apprentice / After Effects/Cavalry](https://jobright.ai/jobs/info/690f441cd046ab6061d044d2?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Nov 08 |
-| ↳ | **[2D Animation Apprentice / After Effects/Cavalry](https://jobright.ai/jobs/info/690f62c9221b890c27815810?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d713f1894705799a2f07dc?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 08 |
+| **[BUCK](https://buck.co/)** | **[2D Animation Apprentice / After Effects/Cavalry](https://jobright.ai/jobs/info/690f62c9221b890c27815810?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba24775f383274918644fe?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 08 |
 | **[David C Cook](https://davidccook.org)** | **[Integrity Music Publishing Internship (Unpaid)](https://jobright.ai/jobs/info/68f19031ef766b3f0fd0f65f?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Nov 08 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/68f2945b76a51a4307bc4ffe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[People Inc.](https://www.people.inc/)** | **[Editorial Intern, People](https://jobright.ai/jobs/info/690c0d3f221b890c277faedc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[David C Cook](https://davidccook.org)** | **[Music Publishing Administration Internship (Unpaid)](https://jobright.ai/jobs/info/68ef45019821486c423c2ec6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Nov 05 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Videographer - Auburn Football](https://jobright.ai/jobs/info/690c04efd046ab6061cea134?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Nov 05 |
-| **[VOX ATL](https://voxatl.org)** | **[VOX Studios Teen Intern - Spring Semester 2026](https://jobright.ai/jobs/info/690bfe3bd046ab6061ce9d9d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
