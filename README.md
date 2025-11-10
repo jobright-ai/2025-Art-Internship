@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Medical Writing Operations Clinical Editor Intern](https://jobright.ai/jobs/info/691208e8c98948514c4783b5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 10 |
+| **[FOX Weather](https://foxweather.com)** | **[Summer 2026 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/68da38063c03cd32709447df?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6911bf51183be660d267dc58?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 10 |
 | **[Skillflo](https://www.skillflo.ai/)** | **[On-Camera Social Media Creator](https://jobright.ai/jobs/info/69119d9e183be660d267cd82?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 10 |
 | **[It’s All G Marketing Agency](http://its-all-g-atl.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/691160d8183be660d267b910?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Nov 09 |
@@ -68,9 +70,9 @@ For a complete list, click the following sortable link below:
 | **[HIT Network](https://hitnetwork.com)** | **[Content Editor](https://jobright.ai/jobs/info/690fe40f988c2b7b4ec4f531?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | Nov 08 |
 | **[Financial Times](http://ft.com)** | **[US Summer Audio Intern](https://jobright.ai/jobs/info/6909387cd046ab6061cd30f6?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Nov 08 |
 | **[AARP](http://www.aarp.org)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/68ce6140fb49c96ca6e9fd42?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Nov 08 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d712d0894705799a2f05b5?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 08 |
 | **[The Daily How To](www.helpshareglobal.com)** | **[AI Content Curator (Unpaid Internship) - The Daily How To](https://jobright.ai/jobs/info/6910932b183be660d267955d?utm_campaign=1053&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | Remote | Nov 08 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Nov 08 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71459894705799a2f086a?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 08 |
 | **[SPORTFIVE](http://www.sportfive.com/)** | **[Tournament Services Intern (Spring 2026)](https://jobright.ai/jobs/info/68f174a9ef766b3f0fd0e4ac?utm_campaign=1053&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 08 |
 | **[BUCK](https://buck.co/)** | **[2D Animation Apprentice / After Effects/Cavalry](https://jobright.ai/jobs/info/690f441cd046ab6061d044d2?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Nov 08 |
 | ↳ | **[2D Animation Apprentice / After Effects/Cavalry](https://jobright.ai/jobs/info/690f62c9221b890c27815810?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[David C Cook](https://davidccook.org)** | **[Music Publishing Administration Internship (Unpaid)](https://jobright.ai/jobs/info/68ef45019821486c423c2ec6?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Nov 05 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Videographer - Auburn Football](https://jobright.ai/jobs/info/690c04efd046ab6061cea134?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Nov 05 |
 | **[VOX ATL](https://voxatl.org)** | **[VOX Studios Teen Intern - Spring Semester 2026](https://jobright.ai/jobs/info/690bfe3bd046ab6061ce9d9d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Programming Intern, Spring 2026](https://jobright.ai/jobs/info/690bf4ebd046ab6061ce980e?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Nov 05 |
-| **[rag & bone](http://www.rag-bone.com)** | **[Spring 2026 Intern - Footwear/Accessories Production](https://jobright.ai/jobs/info/690d369d221b890c27804c36?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
