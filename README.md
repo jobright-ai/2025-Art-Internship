@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skillflo](https://www.skillflo.ai/)** | **[On-Camera Social Media Creator](https://jobright.ai/jobs/info/69119d9e183be660d267cd82?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 10 |
 | **[It’s All G Marketing Agency](http://its-all-g-atl.com)** | **[Content Production Intern](https://jobright.ai/jobs/info/691160d8183be660d267b910?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Nov 09 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Entertainment & Community Engagement Internship (Free Housing)](https://jobright.ai/jobs/info/6910f054988c2b7b4ec53266?utm_campaign=1053&utm_source=git)** | Bismarck, ND | On Site | Nov 09 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/6910e457183be660d267a25b?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VOX ATL](https://voxatl.org)** | **[VOX Studios Teen Intern - Spring Semester 2026](https://jobright.ai/jobs/info/690bfe3bd046ab6061ce9d9d?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Programming Intern, Spring 2026](https://jobright.ai/jobs/info/690bf4ebd046ab6061ce980e?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, USA | On Site | Nov 05 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Spring 2026 Intern - Footwear/Accessories Production](https://jobright.ai/jobs/info/690d369d221b890c27804c36?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 05 |
-| **[VOX ATL](https://voxatl.org)** | **[VOX Studios Near-Peer Production Intern - Spring Semester 2026](https://jobright.ai/jobs/info/690c0f4a4a1b456627b15b34?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
