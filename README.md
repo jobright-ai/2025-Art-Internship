@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roc Nation](http://rocnation.com)** | **[Spring 2026 Intern - Artist Management (Los Angeles)](https://jobright.ai/jobs/info/68f6c05b76a51a4307bde0d6?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 11 |
+| ↳ | **[Spring 2026 Intern - Content & Podcasts](https://jobright.ai/jobs/info/68f6c2449a63986de758222c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WABC-TV (ABC7) Community Engagement Intern, Spring 2026](https://jobright.ai/jobs/info/69132931e344172248f6fc26?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[GO BOLD Consulting](www.goboldconsulting.com)** | **[Internship: Research Writers](https://jobright.ai/jobs/info/69130fd41465e02904e92c5d?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 11 |
 | **[The University of Southern Mississippi](http://www.usm.edu/)** | **[Internship: Reporting/Videography/Photography, Roy Howard Community Journalism Center](https://jobright.ai/jobs/info/69130dbb1465e02904e92b91?utm_campaign=1053&utm_source=git)** | Hattiesburg, MS | On Site | Nov 11 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Video Production &amp; ThunderVision](https://jobright.ai/jobs/info/69130f20d1047e3565d012c6?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, USA | On Site | Nov 10 |
@@ -101,9 +104,9 @@ For a complete list, click the following sortable link below:
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Editor Intern](https://jobright.ai/jobs/info/690ff9c6988c2b7b4ec4f83f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
 | **[Financial Times](http://ft.com)** | **[US Summer Audio Intern](https://jobright.ai/jobs/info/6909387cd046ab6061cd30f6?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Nov 08 |
 | **[AARP](http://www.aarp.org)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/68ce6140fb49c96ca6e9fd42?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Nov 08 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d712d0894705799a2f05b5?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 08 |
 | **[The Daily How To](www.helpshareglobal.com)** | **[AI Content Curator (Unpaid Internship) - The Daily How To](https://jobright.ai/jobs/info/6910932b183be660d267955d?utm_campaign=1053&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | Remote | Nov 08 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Nov 08 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71459894705799a2f086a?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 08 |
 | **[SPORTFIVE](http://www.sportfive.com/)** | **[Tournament Services Intern (Spring 2026)](https://jobright.ai/jobs/info/68f174a9ef766b3f0fd0e4ac?utm_campaign=1053&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 08 |
 | **[BUCK](https://buck.co/)** | **[2D Animation Apprentice / After Effects/Cavalry](https://jobright.ai/jobs/info/690f441cd046ab6061d044d2?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Nov 08 |
 | ↳ | **[2D Animation Apprentice / After Effects/Cavalry](https://jobright.ai/jobs/info/690f62c9221b890c27815810?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
@@ -112,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/68f2945b76a51a4307bc4ffe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/690f0d4e44146d3b6ec59ac4?utm_campaign=1053&utm_source=git)** | Thomson, GA | On Site | Nov 08 |
 | **[New England Public Media](https://www.nepm.org/)** | **[NEPM News Intern - Spring 2026](https://jobright.ai/jobs/info/69105b0d988c2b7b4ec51443?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Nov 08 |
-| **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[University Press of Kansas Editorial and Production Intern](https://jobright.ai/jobs/info/6912e568c98948514c47f42f?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Nov 07 |
+| **[The University of Kansas](https://www.lsi.ku.edu)** | **[University Press of Kansas Editorial and Production Intern](https://jobright.ai/jobs/info/6912e568c98948514c47f42f?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Nov 07 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Medical Writing Operations Clinical Editor Intern](https://jobright.ai/jobs/info/690ecc9144146d3b6ec57ec5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 07 |
 | ↳ | **[2026 Summer Internship Program: Medical Writing Operations Clinical Editor Intern](https://jobright.ai/jobs/info/690ec631221b890c27811972?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Nov 07 |
 | **[The Dispatch](https://thedispatch.com/)** | **[The Dispatch Spring 2026 Internship Job Posting](https://jobright.ai/jobs/info/690ec57e44146d3b6ec57acb?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 07 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[News Intern - Merced Sun-Star](https://jobright.ai/jobs/info/690d5f40d046ab6061cf5aa3?utm_campaign=1053&utm_source=git)** | Merced, CA | On Site | Nov 06 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690d5eba221b890c27806258?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Nov 06 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH News Investigative Unit Internship - Spring 2026](https://jobright.ai/jobs/info/690dbeef221b890c27809478?utm_campaign=1053&utm_source=git)** | Boston, MA | Hybrid | Nov 06 |
-| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d9960d046ab6061cf7593?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Nov 06 |
-| ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d5284221b890c27805d8f?utm_campaign=1053&utm_source=git)** | Gwinnett, GA | On Site | Nov 06 |
+| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d5284221b890c27805d8f?utm_campaign=1053&utm_source=git)** | Gwinnett, GA | On Site | Nov 06 |
 | ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/690d926cd046ab6061cf7270?utm_campaign=1053&utm_source=git)** | Gwinnett County, GA | On Site | Nov 06 |
 | ↳ | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690da70b44146d3b6ec4ea63?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 06 |
 | **[Empower Aesthetics](https://www.empower.spa)** | **[Aesthetic Nurse Intern](https://jobright.ai/jobs/info/690d4688d046ab6061cf4e1b?utm_campaign=1053&utm_source=git)** | Chattanooga,TN,US | On Site | Nov 06 |
 | **[Spectrum Resorts](http://www.spectrumresorts.com/?nck=8553263136)** | **[Activities Intern-SUMMER-Turquoise Place](https://jobright.ai/jobs/info/690d795d221b890c278070c3?utm_campaign=1053&utm_source=git)** | Orange Beach, AL 36561 | On Site | Nov 06 |
-| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaking Internship](https://jobright.ai/jobs/info/690d4342d046ab6061cf4b9b?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Nov 06 |
-| **[Massanutten Resort](http://massresort.com)** | **[Internship - Activities](https://jobright.ai/jobs/info/690d373d4a1b456627b1f5a4?utm_campaign=1053&utm_source=git)** | McGaheysville, VA | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
