@@ -57,16 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Golf Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69138a3fd1047e3565d03df9?utm_campaign=1053&utm_source=git)** | Westfield Center, OH | On Site | Nov 11 |
+| **[Carolina Herrera](http://carolinaherrera.com)** | **[Production Intern (Spring 2026](https://jobright.ai/jobs/info/691384a9e344172248f71c3e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
+| **[The Patel Comics](https://thepatelcomics.com/)** | **[2D Animator Intern](https://jobright.ai/jobs/info/6913789fd1047e3565d0361d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Nov 11 |
 | **[Electric Picks Jewelry](https://electricpicks.com)** | **[Production Intern (Jan 26)](https://jobright.ai/jobs/info/691367781465e02904e9481d?utm_campaign=1053&utm_source=git)** | Hoboken, NJ | On Site | Nov 11 |
 | **[Roc Nation](http://rocnation.com)** | **[Spring 2026 Intern - Artist Management (Los Angeles)](https://jobright.ai/jobs/info/68f6c05b76a51a4307bde0d6?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 11 |
 | ↳ | **[Spring 2026 Intern - Content & Podcasts](https://jobright.ai/jobs/info/68f6c2449a63986de758222c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Roadshow Coordinator Intern](https://jobright.ai/jobs/info/68daa56d6df7b8311bb10a2f?utm_campaign=1053&utm_source=git)** | Plymouth, MN | Hybrid | Nov 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WABC-TV (ABC7) Community Engagement Intern, Spring 2026](https://jobright.ai/jobs/info/69132931e344172248f6fc26?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
-| **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Newport Beach Culinary Intern](https://jobright.ai/jobs/info/69134ef8d1047e3565d0261a?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | Hybrid | Nov 11 |
-| ↳ | **[Del Mar Culinary Intern](https://jobright.ai/jobs/info/69135246d1047e3565d027a1?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Nov 11 |
+| **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Del Mar Culinary Intern](https://jobright.ai/jobs/info/69135246d1047e3565d027a1?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Nov 11 |
+| ↳ | **[Newport Beach Culinary Intern](https://jobright.ai/jobs/info/69134ef8d1047e3565d0261a?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | Hybrid | Nov 11 |
 | ↳ | **[Laguna Niguel Culinary Intern](https://jobright.ai/jobs/info/691360091465e02904e94509?utm_campaign=1053&utm_source=git)** | Laguna Niguel, CA | Hybrid | Nov 11 |
-| ↳ | **[Woodland Hills  Culinary Intern](https://jobright.ai/jobs/info/691366041465e02904e94799?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 11 |
 | ↳ | **[Menlo Park Culinary Intern](https://jobright.ai/jobs/info/6913425ce344172248f703c6?utm_campaign=1053&utm_source=git)** | Menlo Park, CA | Hybrid | Nov 11 |
+| ↳ | **[Woodland Hills  Culinary Intern](https://jobright.ai/jobs/info/691366041465e02904e94799?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 11 |
 | **[GO BOLD Consulting](www.goboldconsulting.com)** | **[Internship: Research Writers](https://jobright.ai/jobs/info/69130fd41465e02904e92c5d?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 11 |
 | **[The University of Southern Mississippi](http://www.usm.edu/)** | **[Internship: Reporting/Videography/Photography, Roy Howard Community Journalism Center](https://jobright.ai/jobs/info/69130dbb1465e02904e92b91?utm_campaign=1053&utm_source=git)** | Hattiesburg, MS | On Site | Nov 11 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Video Production &amp; ThunderVision](https://jobright.ai/jobs/info/69130f20d1047e3565d012c6?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, USA | On Site | Nov 10 |
@@ -113,9 +116,9 @@ For a complete list, click the following sortable link below:
 | **[Financial Times](http://ft.com)** | **[US Summer Audio Intern](https://jobright.ai/jobs/info/6909387cd046ab6061cd30f6?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Nov 08 |
 | **[AARP](http://www.aarp.org)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/68ce6140fb49c96ca6e9fd42?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Nov 08 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac Music Group Music Publishing Intern](https://jobright.ai/jobs/info/68f3778e9a63986de757242a?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Nov 08 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d712d0894705799a2f05b5?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 08 |
 | **[The Daily How To](www.helpshareglobal.com)** | **[AI Content Curator (Unpaid Internship) - The Daily How To](https://jobright.ai/jobs/info/6910932b183be660d267955d?utm_campaign=1053&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | Remote | Nov 08 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Nov 08 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71459894705799a2f086a?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 08 |
 | **[SPORTFIVE](http://www.sportfive.com/)** | **[Tournament Services Intern (Spring 2026)](https://jobright.ai/jobs/info/68f174a9ef766b3f0fd0e4ac?utm_campaign=1053&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 08 |
 | **[BUCK](https://buck.co/)** | **[2D Animation Apprentice / After Effects/Cavalry](https://jobright.ai/jobs/info/690f441cd046ab6061d044d2?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Nov 08 |
 | ↳ | **[2D Animation Apprentice / After Effects/Cavalry](https://jobright.ai/jobs/info/690f62c9221b890c27815810?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baltimore Banner](https://www.thebaltimorebanner.com)** | **[2026 Summer Newsroom Internship](https://jobright.ai/jobs/info/68e965a80930fe0bc462550a?utm_campaign=1053&utm_source=git)** | Baltimore, MD | On Site | Nov 07 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - China Power Project (Spring 2026)](https://jobright.ai/jobs/info/690dde39d046ab6061cf9a57?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
 | **[Spectrum Resorts](http://www.spectrumresorts.com/?nck=8553263136)** | **[Activities Intern-Summer-The Beach Club](https://jobright.ai/jobs/info/690df606d046ab6061cf9f77?utm_campaign=1053&utm_source=git)** | Gulf Shores, AL | On Site | Nov 07 |
-| ↳ | **[Activities Intern-SUMMER-Turquoise Place](https://jobright.ai/jobs/info/690dfcfd221b890c2780a8d7?utm_campaign=1053&utm_source=git)** | Orange Beach, AL | On Site | Nov 07 |
-| ↳ | **[Activities Intern-WINTER The Beach Club](https://jobright.ai/jobs/info/690e045c221b890c2780aa25?utm_campaign=1053&utm_source=git)** | Gulf Shores, AL | On Site | Nov 07 |
-| **[Ultimate Fighting Championship](http://UFC.com)** | **[UFC Originals Production Internship - Spring 2026](https://jobright.ai/jobs/info/68f13f78e6870116b1f55487?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
