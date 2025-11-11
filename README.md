@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Spring 2026](https://jobright.ai/jobs/info/6912fb04c98948514c47fecf?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6912be46ea9ab01b82bf4a82?utm_campaign=1053&utm_source=git)** | Cherry Hill, NJ | Hybrid | Nov 10 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Filmed Entertainment Group Development & Production Internships – Summer 2026](https://jobright.ai/jobs/info/6912fdf1c98948514c480086?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 10 |
 | **[All-Star Sports Academy](https://allstarsportsacademy.com/)** | **[Videography & Photography Intern - Summer 2026](https://jobright.ai/jobs/info/6912b0fdd1047e3565cfe2d3?utm_campaign=1053&utm_source=git)** | West Chester, PA | On Site | Nov 10 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Video Production & ThunderVision](https://jobright.ai/jobs/info/6912cacdc98948514c47e18a?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | Hybrid | Nov 10 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Universal Filmed Entertainment Group Film Technology AV/AR Internship – Summer 2026](https://jobright.ai/jobs/info/6912a89cc98948514c47d110?utm_campaign=1053&utm_source=git)** | 10 Universal City Plaza, North Hollywood, CA 91608, USA | On Site | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michigan Section PGA](https://michiganpga.com/)** | **[Michigan PGA Tournament Internship](https://jobright.ai/jobs/info/690d2786221b890c27803ef5?utm_campaign=1053&utm_source=git)** | East Lansing, MI | On Site | Nov 06 |
 | **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Multimedia Intern: Spring](https://jobright.ai/jobs/info/690d17d0221b890c2780314f?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 06 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/690d17044a1b456627b1d8af?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Nov 06 |
-| **[Tombras](http://tombras.com)** | **[Post - Production Intern](https://jobright.ai/jobs/info/690d11bed046ab6061cf2509?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
-| ↳ | **[Production Assistant Intern](https://jobright.ai/jobs/info/690d27054a1b456627b1e80e?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
