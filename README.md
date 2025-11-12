@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Born](https://www.slay.cool)** | **[Born Content Creator Program (NYC)](https://jobright.ai/jobs/info/6914a9029c388539cbdecfcb?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 12 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/68dc4b09ddc10244dd673c81?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[The New York Times Company](https://www.nytco.com)** | **[Fellow, Opinion Video](https://jobright.ai/jobs/info/69148bab6f36db06ef047b91?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
 | ↳ | **[Fellow, Upshot](https://jobright.ai/jobs/info/69147c576f36db06ef0477ef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
+| ↳ | **[Fellow, A.I. Initiatives](https://jobright.ai/jobs/info/69148d319c388539cbdec984?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
+| ↳ | **[Beauty Team, Wirecutter Intern](https://jobright.ai/jobs/info/69149ca2286ccf0a15127865?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 12 |
+| ↳ | **[Audience Team, Wirecutter Intern](https://jobright.ai/jobs/info/69148dc59c388539cbdec99a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/691484626f36db06ef047a21?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 12 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/691443866f36db06ef0468a3?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/691467016f36db06ef047189?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 11 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Ops Intern-No.8-Seasonal](https://jobright.ai/jobs/info/69143d1c286ccf0a15125ea8?utm_campaign=1053&utm_source=git)** | Pinehurst, NC | On Site | Nov 11 |
-| **[Los Angeles Times](http://www.latimes.com)** | **[Production Intern (LA Times Studios)](https://jobright.ai/jobs/info/6914295ee344172248f77793?utm_campaign=1053&utm_source=git)** | El Segundo, CA | On Site | Nov 11 |
+| **[Los Angeles Times](http://www.latimes.com)** | **[Production Intern (LA Times Studios)](https://jobright.ai/jobs/info/69141d5a1465e02904e9a7b5?utm_campaign=1053&utm_source=git)** | El Segundo, CA | On Site | Nov 11 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/69140a6fd1047e3565d08414?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 11 |
 | ↳ | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/691409e2e344172248f762c1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
 | ↳ | **[Spring Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/69140999e344172248f762ab?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac Music Group Music Publishing Intern](https://jobright.ai/jobs/info/68f3778e9a63986de757242a?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Nov 08 |
 | **[The Daily How To](www.helpshareglobal.com)** | **[AI Content Curator (Unpaid Internship) - The Daily How To](https://jobright.ai/jobs/info/6910932b183be660d267955d?utm_campaign=1053&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | Remote | Nov 08 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Nov 08 |
-| **[SPORTFIVE](http://www.sportfive.com/)** | **[Tournament Services Intern (Spring 2026)](https://jobright.ai/jobs/info/68f174a9ef766b3f0fd0e4ac?utm_campaign=1053&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 08 |
-| **[BUCK](https://buck.co/)** | **[2D Animation Apprentice / After Effects/Cavalry](https://jobright.ai/jobs/info/690f441cd046ab6061d044d2?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | On Site | Nov 08 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d712fa894705799a2f0617?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 08 |
-| **[BUCK](https://buck.co/)** | **[2D Animation Apprentice / After Effects/Cavalry](https://jobright.ai/jobs/info/690f62c9221b890c27815810?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba24775f383274918644fe?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
