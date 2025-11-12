@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ CUPSHE](https://www.cupshe.com/)** | **[Production Intern](https://jobright.ai/jobs/info/6913e46dd1047e3565d06e29?utm_campaign=1053&utm_source=git)** | LA Metro Area | Hybrid | Nov 11 |
+| **[SISTAH MAGAZINE](www.sistahmagazine.com)** | **[Editorial Contributor Intern – Unpaid / Portfolio-Building Opportunity](https://jobright.ai/jobs/info/6913e3f0d1047e3565d06def?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 11 |
+| **[American University](http://american.edu)** | **[Editorial Intern (Student)](https://jobright.ai/jobs/info/6913e38d1465e02904e9861d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 11 |
 | **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Concert Production Intern (Unpaid / College Credit) – Tell Somebody](https://jobright.ai/jobs/info/6913b3891465e02904e96cbf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 11 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/6913b0211465e02904e96a6d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Nov 11 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Filmed Entertainment Group Development & Production Internships – Summer 2026](https://jobright.ai/jobs/info/6913ac3ad1047e3565d0510e?utm_campaign=1053&utm_source=git)** | Universal City, CA | Hybrid | Nov 11 |
@@ -66,9 +69,9 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Videographer - Auburn Football](https://jobright.ai/jobs/info/690c04efd046ab6061cea134?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Nov 11 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Golf Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6913b59ad1047e3565d0562e?utm_campaign=1053&utm_source=git)** | Westfield Center, OH, United States | On Site | Nov 11 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Golf Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69138a3fd1047e3565d03df9?utm_campaign=1053&utm_source=git)** | Westfield Center, OH | On Site | Nov 11 |
-| **[Carolina Herrera](http://carolinaherrera.com)** | **[Production Intern (Spring 2026](https://jobright.ai/jobs/info/691384a9e344172248f71c3e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[Hustle Magazine](www.hustlemagazine.co)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69139b27d1047e3565d046d3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[American University](http://american.edu)** | **[Editorial Intern (Student)](https://jobright.ai/jobs/info/6913a38fe344172248f72cee?utm_campaign=1053&utm_source=git)** | Main Campus (Washington, DC) | On Site | Nov 11 |
+| **[Carolina Herrera](http://carolinaherrera.com)** | **[Production Intern (Spring 2026)](https://jobright.ai/jobs/info/691384a9e344172248f71c3e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Television Unscripted & Alternative Entertainment Intern, Spring 2026](https://jobright.ai/jobs/info/691397bbe344172248f72655?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 11 |
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[2D Animator Intern](https://jobright.ai/jobs/info/6913789fd1047e3565d0361d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Remote | Nov 11 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69139648e344172248f7254e?utm_campaign=1053&utm_source=git)** | Chicago, IL | Remote | Nov 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[POLITICO](http://www.politico.com)** | **[Editorial Internship, New Jersey Spring 2026](https://jobright.ai/jobs/info/68f1681eef766b3f0fd0d998?utm_campaign=1053&utm_source=git)** | New Jersey, United States | On Site | Nov 07 |
 | ↳ | **[Editorial Internship, Florida Spring 2026](https://jobright.ai/jobs/info/68f16116f462172a5a7d75af?utm_campaign=1053&utm_source=git)** | Tallahassee, FL | On Site | Nov 07 |
-| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Venue Technology Intern](https://jobright.ai/jobs/info/690e5429d046ab6061cfc53e?utm_campaign=1053&utm_source=git)** | Detroit, MI | Hybrid | Nov 07 |
-| **[Sightline Media Group](http://www.sightlinemediagroup.com)** | **[Editorial Intern, Military Times](https://jobright.ai/jobs/info/67494ebf9f7da9d1b439890f?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 07 |
-| **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Global Expression Intern](https://jobright.ai/jobs/info/690e2ff1d046ab6061cfb208?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
