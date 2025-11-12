@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CNA Corporation](https://www.cna.org)** | **[Research Publications / Editing Intern - Summer 2026](https://jobright.ai/jobs/info/68bf5fa5702aa35207aa5be8?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Nov 12 |
 | **[Born](https://www.slay.cool)** | **[Born Content Creator Program (NYC)](https://jobright.ai/jobs/info/6914a9029c388539cbdecfcb?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/68dc4b09ddc10244dd673c81?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[The New York Times Company](https://www.nytco.com)** | **[Fellow, Opinion Video](https://jobright.ai/jobs/info/69148bab6f36db06ef047b91?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
-| ↳ | **[Fellow, Upshot](https://jobright.ai/jobs/info/69147c576f36db06ef0477ef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/68dc390ab324915618962634?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 12 |
+| **[The New York Times Company](https://www.nytco.com)** | **[Fellow, Upshot](https://jobright.ai/jobs/info/69147c576f36db06ef0477ef?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
+| ↳ | **[Fellow, Audience](https://jobright.ai/jobs/info/6914bcda286ccf0a151281db?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
 | ↳ | **[Fellow, A.I. Initiatives](https://jobright.ai/jobs/info/69148d319c388539cbdec984?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
 | ↳ | **[Beauty Team, Wirecutter Intern](https://jobright.ai/jobs/info/69149ca2286ccf0a15127865?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | ↳ | **[Audience Team, Wirecutter Intern](https://jobright.ai/jobs/info/69148dc59c388539cbdec99a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 12 |
@@ -88,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[SISTAH MAGAZINE](www.sistahmagazine.com)** | **[Editorial Contributor Intern – Unpaid / Portfolio-Building Opportunity](https://jobright.ai/jobs/info/6913e3f0d1047e3565d06def?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 11 |
 | **[American University](http://american.edu)** | **[Editorial Intern (Student)](https://jobright.ai/jobs/info/6913e38d1465e02904e9861d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 11 |
 | **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Concert Production Intern (Unpaid / College Credit) – Tell Somebody](https://jobright.ai/jobs/info/6913b3891465e02904e96cbf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 11 |
+| **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/6913b0211465e02904e96a6d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Nov 11 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Filmed Entertainment Group Development & Production Internships – Summer 2026](https://jobright.ai/jobs/info/6913ac3ad1047e3565d0510e?utm_campaign=1053&utm_source=git)** | Universal City, CA | Hybrid | Nov 11 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Historian Intern](https://jobright.ai/jobs/info/6913a6d9d1047e3565d04d1c?utm_campaign=1053&utm_source=git)** | Okemos, MI | On Site | Nov 11 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 10 Boston Production & Digital Internships – Summer 2026](https://jobright.ai/jobs/info/6913a46cd1047e3565d04b2e?utm_campaign=1053&utm_source=git)** | Needham, MA | Hybrid | Nov 11 |
@@ -96,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Golf Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6913b59ad1047e3565d0562e?utm_campaign=1053&utm_source=git)** | Westfield Center, OH, United States | On Site | Nov 11 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Golf Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69138a3fd1047e3565d03df9?utm_campaign=1053&utm_source=git)** | Westfield Center, OH | On Site | Nov 11 |
 | **[American University](http://american.edu)** | **[Editorial Intern (Student)](https://jobright.ai/jobs/info/6913a38fe344172248f72cee?utm_campaign=1053&utm_source=git)** | Main Campus (Washington, DC) | On Site | Nov 11 |
+| **[Carolina Herrera](http://carolinaherrera.com)** | **[Production Intern (Spring 2026)](https://jobright.ai/jobs/info/691384a9e344172248f71c3e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Television Unscripted & Alternative Entertainment Intern, Spring 2026](https://jobright.ai/jobs/info/691397bbe344172248f72655?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 11 |
-| **[Carolina Herrera](http://carolinaherrera.com)** | **[Production Intern (Spring 2026](https://jobright.ai/jobs/info/691384a9e344172248f71c3e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69139648e344172248f7254e?utm_campaign=1053&utm_source=git)** | Chicago, IL | Remote | Nov 11 |
 | **[Electric Picks Jewelry](https://electricpicks.com)** | **[Production Intern (Jan 26)](https://jobright.ai/jobs/info/691367781465e02904e9481d?utm_campaign=1053&utm_source=git)** | Hoboken, NJ | On Site | Nov 11 |
 | **[Black Copper](blackcopper.org)** | **[Winter Internships](https://jobright.ai/jobs/info/691398f5e344172248f7273b?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Nov 11 |
@@ -120,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Universal Filmed Entertainment Group Film Technology AV/AR Internship – Summer 2026](https://jobright.ai/jobs/info/6912a89cc98948514c47d110?utm_campaign=1053&utm_source=git)** | 10 Universal City Plaza, North Hollywood, CA 91608, USA | On Site | Nov 10 |
 | **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[Video Intern, Spring 2026](https://jobright.ai/jobs/info/6913c8d21465e02904e9785c?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Nov 10 |
 | **[GovExec](https://about.govexec.com/)** | **[Editorial Intern, City & State New York](https://jobright.ai/jobs/info/6912cca7ea9ab01b82bf50ab?utm_campaign=1053&utm_source=git)** | US | Hybrid | Nov 10 |
-| **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/6913b17fe344172248f73546?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Nov 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WABC-TV (ABC7) Community Engagement Intern, Spring 2026](https://jobright.ai/jobs/info/6912cb87d1047e3565cfecb2?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Nov 10 |
 | **[Opulence Entertainment Group](https://opulencemia.com)** | **[Event Planning Intern](https://jobright.ai/jobs/info/69129933ea9ab01b82bf3b49?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | Hybrid | Nov 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/691299c2ea9ab01b82bf3b81?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Editor Intern](https://jobright.ai/jobs/info/690ff9c6988c2b7b4ec4f83f?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
 | **[Financial Times](http://ft.com)** | **[US Summer Audio Intern](https://jobright.ai/jobs/info/6909387cd046ab6061cd30f6?utm_campaign=1053&utm_source=git)** | New York | Hybrid | Nov 08 |
 | **[AARP](http://www.aarp.org)** | **[Digital Storytelling Intern](https://jobright.ai/jobs/info/68ce6140fb49c96ca6e9fd42?utm_campaign=1053&utm_source=git)** | Washington, DC | Remote | Nov 08 |
-| **[Insomniac Events](http://insomniac.com)** | **[Insomniac Music Group Music Publishing Intern](https://jobright.ai/jobs/info/68f3778e9a63986de757242a?utm_campaign=1053&utm_source=git)** | Calabasas, CA | On Site | Nov 08 |
-| **[The Daily How To](www.helpshareglobal.com)** | **[AI Content Curator (Unpaid Internship) - The Daily How To](https://jobright.ai/jobs/info/6910932b183be660d267955d?utm_campaign=1053&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | Remote | Nov 08 |
-| **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
