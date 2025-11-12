@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Los Angeles Times](http://www.latimes.com)** | **[Production Intern (LA Times Studios)](https://jobright.ai/jobs/info/69141d5a1465e02904e9a7b5?utm_campaign=1053&utm_source=git)** | El Segundo, CA | On Site | Nov 11 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/691443866f36db06ef0468a3?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 12 |
+| **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Ops Intern-No.8-Seasonal](https://jobright.ai/jobs/info/69143d1c286ccf0a15125ea8?utm_campaign=1053&utm_source=git)** | Pinehurst, NC | On Site | Nov 11 |
+| **[Los Angeles Times](http://www.latimes.com)** | **[Production Intern (LA Times Studios)](https://jobright.ai/jobs/info/6914295ee344172248f77793?utm_campaign=1053&utm_source=git)** | El Segundo, CA | On Site | Nov 11 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/69140a6fd1047e3565d08414?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 11 |
 | ↳ | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/691409e2e344172248f762c1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
 | ↳ | **[Spring Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/69140999e344172248f762ab?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[SISTAH MAGAZINE](www.sistahmagazine.com)** | **[Editorial Contributor Intern – Unpaid / Portfolio-Building Opportunity](https://jobright.ai/jobs/info/6913e3f0d1047e3565d06def?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 11 |
 | **[American University](http://american.edu)** | **[Editorial Intern (Student)](https://jobright.ai/jobs/info/6913e38d1465e02904e9861d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 11 |
 | **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Concert Production Intern (Unpaid / College Credit) – Tell Somebody](https://jobright.ai/jobs/info/6913b3891465e02904e96cbf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 11 |
+| **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/6913b0211465e02904e96a6d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Nov 11 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Filmed Entertainment Group Development & Production Internships – Summer 2026](https://jobright.ai/jobs/info/6913ac3ad1047e3565d0510e?utm_campaign=1053&utm_source=git)** | Universal City, CA | Hybrid | Nov 11 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Historian Intern](https://jobright.ai/jobs/info/6913a6d9d1047e3565d04d1c?utm_campaign=1053&utm_source=git)** | Okemos, MI | On Site | Nov 11 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 10 Boston Production & Digital Internships – Summer 2026](https://jobright.ai/jobs/info/6913a46cd1047e3565d04b2e?utm_campaign=1053&utm_source=git)** | Needham, MA | Hybrid | Nov 11 |
@@ -85,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Golf Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6913b59ad1047e3565d0562e?utm_campaign=1053&utm_source=git)** | Westfield Center, OH, United States | On Site | Nov 11 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Golf Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69138a3fd1047e3565d03df9?utm_campaign=1053&utm_source=git)** | Westfield Center, OH | On Site | Nov 11 |
 | **[American University](http://american.edu)** | **[Editorial Intern (Student)](https://jobright.ai/jobs/info/6913a38fe344172248f72cee?utm_campaign=1053&utm_source=git)** | Main Campus (Washington, DC) | On Site | Nov 11 |
-| **[Carolina Herrera](http://carolinaherrera.com)** | **[Production Intern (Spring 2026)](https://jobright.ai/jobs/info/691384a9e344172248f71c3e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Television Unscripted & Alternative Entertainment Intern, Spring 2026](https://jobright.ai/jobs/info/691397bbe344172248f72655?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 11 |
+| **[Carolina Herrera](http://carolinaherrera.com)** | **[Production Intern (Spring 2026](https://jobright.ai/jobs/info/691384a9e344172248f71c3e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69139648e344172248f7254e?utm_campaign=1053&utm_source=git)** | Chicago, IL | Remote | Nov 11 |
 | **[Electric Picks Jewelry](https://electricpicks.com)** | **[Production Intern (Jan 26)](https://jobright.ai/jobs/info/691367781465e02904e9481d?utm_campaign=1053&utm_source=git)** | Hoboken, NJ | On Site | Nov 11 |
 | **[Black Copper](blackcopper.org)** | **[Winter Internships](https://jobright.ai/jobs/info/691398f5e344172248f7273b?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Nov 11 |
@@ -109,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Universal Filmed Entertainment Group Film Technology AV/AR Internship – Summer 2026](https://jobright.ai/jobs/info/6912a89cc98948514c47d110?utm_campaign=1053&utm_source=git)** | 10 Universal City Plaza, North Hollywood, CA 91608, USA | On Site | Nov 10 |
 | **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[Video Intern, Spring 2026](https://jobright.ai/jobs/info/6913c8d21465e02904e9785c?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Nov 10 |
 | **[GovExec](https://about.govexec.com/)** | **[Editorial Intern, City & State New York](https://jobright.ai/jobs/info/6912cca7ea9ab01b82bf50ab?utm_campaign=1053&utm_source=git)** | US | Hybrid | Nov 10 |
-| **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/6913b17fe344172248f73546?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Nov 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WABC-TV (ABC7) Community Engagement Intern, Spring 2026](https://jobright.ai/jobs/info/6912cb87d1047e3565cfecb2?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Nov 10 |
 | **[Opulence Entertainment Group](https://opulencemia.com)** | **[Event Planning Intern](https://jobright.ai/jobs/info/69129933ea9ab01b82bf3b49?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | Hybrid | Nov 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/691299c2ea9ab01b82bf3b81?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/68f2945b76a51a4307bc4ffe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Video Production & Editing Intern](https://jobright.ai/jobs/info/690f0d4e44146d3b6ec59ac4?utm_campaign=1053&utm_source=git)** | Thomson, GA | On Site | Nov 08 |
 | **[New England Public Media](https://www.nepm.org/)** | **[NEPM News Intern - Spring 2026](https://jobright.ai/jobs/info/69105b0d988c2b7b4ec51443?utm_campaign=1053&utm_source=git)** | Springfield, MA | On Site | Nov 08 |
-| **[The University of Kansas](https://www.lsi.ku.edu)** | **[University Press of Kansas Editorial and Production Intern](https://jobright.ai/jobs/info/6912e568c98948514c47f42f?utm_campaign=1053&utm_source=git)** | Lawrence, KS | On Site | Nov 07 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Medical Writing Operations Clinical Editor Intern](https://jobright.ai/jobs/info/690ecc9144146d3b6ec57ec5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
