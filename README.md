@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ditch Witch](https://ditchwitchworx.com/)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/68c041c4702aa35207aab785?utm_campaign=1053&utm_source=git)** | Noble County, OK | On Site | Nov 13 |
+| **[Aptiv](http://www.aptiv.com)** | **[Video Intern](https://jobright.ai/jobs/info/68dd8a99a125e75c422abd84?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Nov 13 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern  - Cherokee Hospital](https://jobright.ai/jobs/info/691569ae286ccf0a1512e0cc?utm_campaign=1053&utm_source=git)** | US-GA-Canton | On Site | Nov 12 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Social Editor Internship- Spring 2026](https://jobright.ai/jobs/info/69157711286ccf0a1512e8e7?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 12 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Cherokee Hospital](https://jobright.ai/jobs/info/69155fa56f36db06ef04e403?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Nov 12 |
@@ -109,8 +110,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Intern, Music Programming Operations - Nashville - Part-Time](https://jobright.ai/jobs/info/6914049f1465e02904e99737?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Nov 11 |
 | ↳ | **[Spring Intern, College Sports - HBCU - Part-Time](https://jobright.ai/jobs/info/6914048a1465e02904e9972a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 11 |
 | ↳ | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/6914009ad1047e3565d07c6d?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 DC News & Digital Internships – Summer 2026](https://jobright.ai/jobs/info/69151f6b9c388539cbdf0ab3?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 11 |
-| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Podcast Producer - HBCU - Part Time](https://jobright.ai/jobs/info/69141ee9e344172248f77141?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Nov 11 |
+| ↳ | **[Spring Intern, Podcast Producer - HBCU - Part Time](https://jobright.ai/jobs/info/69141ee9e344172248f77141?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Nov 11 |
 | **[Skild AI](https://www.skild.ai/)** | **[Technical Animator Intern](https://jobright.ai/jobs/info/6913e9241465e02904e9882f?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Nov 11 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Nov 11 |
 | **[SISTAH MAGAZINE](www.sistahmagazine.com)** | **[Editorial Contributor Intern – Unpaid / Portfolio-Building Opportunity](https://jobright.ai/jobs/info/6913e3f0d1047e3565d06def?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 11 |
@@ -133,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Intern - Content & Podcasts](https://jobright.ai/jobs/info/68f6c2449a63986de758222c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Roadshow Coordinator Intern](https://jobright.ai/jobs/info/68daa56d6df7b8311bb10a2f?utm_campaign=1053&utm_source=git)** | Plymouth, MN | Hybrid | Nov 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WABC-TV (ABC7) Community Engagement Intern, Spring 2026](https://jobright.ai/jobs/info/69132931e344172248f6fc26?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
-| **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Newport Beach Culinary Intern](https://jobright.ai/jobs/info/69134ef8d1047e3565d0261a?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | Hybrid | Nov 11 |
-| ↳ | **[Del Mar Culinary Intern](https://jobright.ai/jobs/info/69135246d1047e3565d027a1?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Nov 11 |
+| **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Del Mar Culinary Intern](https://jobright.ai/jobs/info/69135246d1047e3565d027a1?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Nov 11 |
+| ↳ | **[Newport Beach Culinary Intern](https://jobright.ai/jobs/info/69134ef8d1047e3565d0261a?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | Hybrid | Nov 11 |
 | ↳ | **[Laguna Niguel Culinary Intern](https://jobright.ai/jobs/info/691360091465e02904e94509?utm_campaign=1053&utm_source=git)** | Laguna Niguel, CA | Hybrid | Nov 11 |
 | ↳ | **[Menlo Park Culinary Intern](https://jobright.ai/jobs/info/6913425ce344172248f703c6?utm_campaign=1053&utm_source=git)** | Menlo Park, CA | Hybrid | Nov 11 |
 | ↳ | **[Woodland Hills  Culinary Intern](https://jobright.ai/jobs/info/691366041465e02904e94799?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 11 |
