@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern  - Cherokee Hospital](https://jobright.ai/jobs/info/691569ae286ccf0a1512e0cc?utm_campaign=1053&utm_source=git)** | US-GA-Canton | On Site | Nov 12 |
+| ↳ | **[Department Intern - Cherokee Hospital](https://jobright.ai/jobs/info/69155fa56f36db06ef04e403?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Nov 12 |
 | **[WISC-TV](http://channel3000.com)** | **[Madison Magazine- Editorial Internship](https://jobright.ai/jobs/info/691531799c388539cbdf1609?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Nov 12 |
 | **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69152ca86f36db06ef04c64a?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Landmark Educational Tours ](https://LandmarkEducationalTours.com)** | **[Hospitality Event Management Internship](https://jobright.ai/jobs/info/691523159c388539cbdf0d55?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 12 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[C-SPAN](http://www.c-span.org)** | **[Internship - Spring 2026 (January-April)](https://jobright.ai/jobs/info/6914fdf6286ccf0a1512a196?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[Think Intern, Spring 2026](https://jobright.ai/jobs/info/691520b19c388539cbdf0b82?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Nov 12 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Styling Intern](https://jobright.ai/jobs/info/6914f55d9c388539cbdeee57?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 12 |
-| **[ZestYears](www.zestyears.com)** | **[Journalism / Writing Intern](https://jobright.ai/jobs/info/6915031e9c388539cbdef802?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Freelance Senior Editor](https://jobright.ai/jobs/info/691542926f36db06ef04d1dc?utm_campaign=1053&utm_source=git)** | New York, New York | Hybrid | Nov 12 |
 | **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Video Analysis Intern (Spring 2026)- COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/6914fd03286ccf0a1512a0b4?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Nov 12 |
 | **[Raven Public Relations](http://ravenpublicrelations.com/)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/6914f3a9286ccf0a1512982e?utm_campaign=1053&utm_source=git)** | Nashville Metro | On Site | Nov 12 |
@@ -90,10 +91,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fellow, A.I. Initiatives](https://jobright.ai/jobs/info/69148d319c388539cbdec984?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
 | ↳ | **[Beauty Team, Wirecutter Intern](https://jobright.ai/jobs/info/69149ca2286ccf0a15127865?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | ↳ | **[Audience Team, Wirecutter Intern](https://jobright.ai/jobs/info/69148dc59c388539cbdec99a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 12 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/691484626f36db06ef047a21?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 12 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/691467016f36db06ef047189?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 11 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Ops Intern-No.8-Seasonal](https://jobright.ai/jobs/info/69143d1c286ccf0a15125ea8?utm_campaign=1053&utm_source=git)** | Pinehurst, NC | On Site | Nov 11 |
-| **[Los Angeles Times](http://www.latimes.com)** | **[Production Intern (LA Times Studios)](https://jobright.ai/jobs/info/6914295ee344172248f77793?utm_campaign=1053&utm_source=git)** | El Segundo, CA | On Site | Nov 11 |
+| **[Los Angeles Times](http://www.latimes.com)** | **[Production Intern (LA Times Studios)](https://jobright.ai/jobs/info/69141d5a1465e02904e9a7b5?utm_campaign=1053&utm_source=git)** | El Segundo, CA | On Site | Nov 11 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/69140a6fd1047e3565d08414?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 11 |
 | ↳ | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/691409e2e344172248f762c1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
 | ↳ | **[Spring Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/69140999e344172248f762ab?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
