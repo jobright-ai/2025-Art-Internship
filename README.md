@@ -91,6 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fellow, Audience](https://jobright.ai/jobs/info/6914bcda286ccf0a151281db?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
 | ↳ | **[Fellow, A.I. Initiatives](https://jobright.ai/jobs/info/69148d319c388539cbdec984?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
 | ↳ | **[Beauty Team, Wirecutter Intern](https://jobright.ai/jobs/info/69149ca2286ccf0a15127865?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 12 |
+| ↳ | **[Fellow, News Video](https://jobright.ai/jobs/info/69159dfe286ccf0a1512f7da?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
 | ↳ | **[Audience Team, Wirecutter Intern](https://jobright.ai/jobs/info/69148dc59c388539cbdec99a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Digital Reporter Intern](https://jobright.ai/jobs/info/691467016f36db06ef047189?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 11 |
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Ops Intern-No.8-Seasonal](https://jobright.ai/jobs/info/69143d1c286ccf0a15125ea8?utm_campaign=1053&utm_source=git)** | Pinehurst, NC | On Site | Nov 11 |
@@ -114,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[SISTAH MAGAZINE](www.sistahmagazine.com)** | **[Editorial Contributor Intern – Unpaid / Portfolio-Building Opportunity](https://jobright.ai/jobs/info/6913e3f0d1047e3565d06def?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 11 |
 | **[American University](http://american.edu)** | **[Editorial Intern (Student)](https://jobright.ai/jobs/info/6913e38d1465e02904e9861d?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 11 |
 | **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Concert Production Intern (Unpaid / College Credit) – Tell Somebody](https://jobright.ai/jobs/info/6913b3891465e02904e96cbf?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 11 |
-| **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/6913b0211465e02904e96a6d?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Nov 11 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Filmed Entertainment Group Development & Production Internships – Summer 2026](https://jobright.ai/jobs/info/6913ac3ad1047e3565d0510e?utm_campaign=1053&utm_source=git)** | Universal City, CA | Hybrid | Nov 11 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Historian Intern](https://jobright.ai/jobs/info/6913a6d9d1047e3565d04d1c?utm_campaign=1053&utm_source=git)** | Okemos, MI | On Site | Nov 11 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 10 Boston Production & Digital Internships – Summer 2026](https://jobright.ai/jobs/info/6913a46cd1047e3565d04b2e?utm_campaign=1053&utm_source=git)** | Needham, MA | Hybrid | Nov 11 |
@@ -132,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Intern - Content & Podcasts](https://jobright.ai/jobs/info/68f6c2449a63986de758222c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Roadshow Coordinator Intern](https://jobright.ai/jobs/info/68daa56d6df7b8311bb10a2f?utm_campaign=1053&utm_source=git)** | Plymouth, MN | Hybrid | Nov 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WABC-TV (ABC7) Community Engagement Intern, Spring 2026](https://jobright.ai/jobs/info/69132931e344172248f6fc26?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
-| **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Del Mar Culinary Intern](https://jobright.ai/jobs/info/69135246d1047e3565d027a1?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Nov 11 |
-| ↳ | **[Newport Beach Culinary Intern](https://jobright.ai/jobs/info/69134ef8d1047e3565d0261a?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | Hybrid | Nov 11 |
+| **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Newport Beach Culinary Intern](https://jobright.ai/jobs/info/69134ef8d1047e3565d0261a?utm_campaign=1053&utm_source=git)** | Newport Beach, CA | Hybrid | Nov 11 |
+| ↳ | **[Del Mar Culinary Intern](https://jobright.ai/jobs/info/69135246d1047e3565d027a1?utm_campaign=1053&utm_source=git)** | San Diego, CA | Hybrid | Nov 11 |
 | ↳ | **[Laguna Niguel Culinary Intern](https://jobright.ai/jobs/info/691360091465e02904e94509?utm_campaign=1053&utm_source=git)** | Laguna Niguel, CA | Hybrid | Nov 11 |
 | ↳ | **[Menlo Park Culinary Intern](https://jobright.ai/jobs/info/6913425ce344172248f703c6?utm_campaign=1053&utm_source=git)** | Menlo Park, CA | Hybrid | Nov 11 |
 | ↳ | **[Woodland Hills  Culinary Intern](https://jobright.ai/jobs/info/691366041465e02904e94799?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 11 |
@@ -147,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Universal Filmed Entertainment Group Film Technology AV/AR Internship – Summer 2026](https://jobright.ai/jobs/info/6912a89cc98948514c47d110?utm_campaign=1053&utm_source=git)** | 10 Universal City Plaza, North Hollywood, CA 91608, USA | On Site | Nov 10 |
 | **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[Video Intern, Spring 2026](https://jobright.ai/jobs/info/6913c8d21465e02904e9785c?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Nov 10 |
 | **[GovExec](https://about.govexec.com/)** | **[Editorial Intern, City & State New York](https://jobright.ai/jobs/info/6912cca7ea9ab01b82bf50ab?utm_campaign=1053&utm_source=git)** | US | Hybrid | Nov 10 |
+| **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - FloTrack/MileSplit](https://jobright.ai/jobs/info/6913b17fe344172248f73546?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Nov 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WABC-TV (ABC7) Community Engagement Intern, Spring 2026](https://jobright.ai/jobs/info/6912cb87d1047e3565cfecb2?utm_campaign=1053&utm_source=git)** | New York, NY, USA | On Site | Nov 10 |
 | **[Opulence Entertainment Group](https://opulencemia.com)** | **[Event Planning Intern](https://jobright.ai/jobs/info/69129933ea9ab01b82bf3b49?utm_campaign=1053&utm_source=git)** | Coral Gables, FL | Hybrid | Nov 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/691299c2ea9ab01b82bf3b81?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69125315ea9ab01b82bf165e?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Nov 10 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/69124a9cea9ab01b82bf1140?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Nov 10 |
 | **[NBC Sports](https://www.nbcunicareers.com/)** | **[NBC Sports Editorial Rotation Internships – Summer 2026](https://jobright.ai/jobs/info/691266e4c98948514c47b636?utm_campaign=1053&utm_source=git)** | Stamford, CT | Hybrid | Nov 10 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Local Stations Production & Editorial Internships – Summer 2026](https://jobright.ai/jobs/info/69127722d1047e3565cfcd66?utm_campaign=1053&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
