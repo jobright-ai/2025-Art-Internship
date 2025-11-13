@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ditch Witch](https://ditchwitchworx.com/)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/68c041c4702aa35207aab785?utm_campaign=1053&utm_source=git)** | Noble County, OK | On Site | Nov 13 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern  - Cherokee Hospital](https://jobright.ai/jobs/info/691569ae286ccf0a1512e0cc?utm_campaign=1053&utm_source=git)** | US-GA-Canton | On Site | Nov 12 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Social Editor Internship- Spring 2026](https://jobright.ai/jobs/info/69157711286ccf0a1512e8e7?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 12 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Cherokee Hospital](https://jobright.ai/jobs/info/69155fa56f36db06ef04e403?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Nov 12 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Pinehurst Resort](https://www.pinehurst.com/)** | **[Golf Operations Intern-No.7-Seasonal](https://jobright.ai/jobs/info/6914eab19c388539cbdee877?utm_campaign=1053&utm_source=git)** | Pinehurst, NC | On Site | Nov 12 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/6914cd88286ccf0a15128815?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | Hybrid | Nov 12 |
 | **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Journalism & Editorial Intern](https://jobright.ai/jobs/info/69150f49286ccf0a1512adee?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 12 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/6914eae16f36db06ef049b16?utm_campaign=1053&utm_source=git)** | Atlanta, GA, USA | Hybrid | Nov 12 |
-| ↳ | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/6914e82d9c388539cbdee710?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | Hybrid | Nov 12 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/6914e82d9c388539cbdee710?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | Hybrid | Nov 12 |
+| ↳ | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/6914eae16f36db06ef049b16?utm_campaign=1053&utm_source=git)** | Atlanta, GA, USA | Hybrid | Nov 12 |
 | **[Grand Rapids Community Media Center](https://www.grcmc.org)** | **[GRTV Video Production Internship](https://jobright.ai/jobs/info/6914f07c6f36db06ef049e11?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Nov 12 |
 | **[CNA Corporation](https://www.cna.org)** | **[Research Publications / Editing Intern - Summer 2026](https://jobright.ai/jobs/info/68bf5fa5702aa35207aa5be8?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Nov 12 |
 | **[Born](https://www.slay.cool)** | **[Born Content Creator Program (NYC)](https://jobright.ai/jobs/info/6914a9029c388539cbdecfcb?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6912588cea9ab01b82bf1a45?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 10 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69125315ea9ab01b82bf165e?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Nov 10 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/69124a9cea9ab01b82bf1140?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Nov 10 |
-| **[NBC Sports](https://www.nbcunicareers.com/)** | **[NBC Sports Editorial Rotation Internships – Summer 2026](https://jobright.ai/jobs/info/691266e4c98948514c47b636?utm_campaign=1053&utm_source=git)** | Stamford, CT | Hybrid | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
