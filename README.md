@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern  - Cherokee Hospital](https://jobright.ai/jobs/info/691569ae286ccf0a1512e0cc?utm_campaign=1053&utm_source=git)** | US-GA-Canton | On Site | Nov 12 |
-| ↳ | **[Department Intern - Cherokee Hospital](https://jobright.ai/jobs/info/69155fa56f36db06ef04e403?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Nov 12 |
+| **[Jomboy Media](https://jomboymedia.com)** | **[Social Editor Internship- Spring 2026](https://jobright.ai/jobs/info/69157711286ccf0a1512e8e7?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 12 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Cherokee Hospital](https://jobright.ai/jobs/info/69155fa56f36db06ef04e403?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Nov 12 |
 | **[WISC-TV](http://channel3000.com)** | **[Madison Magazine- Editorial Internship](https://jobright.ai/jobs/info/691531799c388539cbdf1609?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Nov 12 |
 | **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69152ca86f36db06ef04c64a?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Landmark Educational Tours ](https://LandmarkEducationalTours.com)** | **[Hospitality Event Management Internship](https://jobright.ai/jobs/info/691523159c388539cbdf0d55?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 12 |
@@ -122,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Golf Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6913b59ad1047e3565d0562e?utm_campaign=1053&utm_source=git)** | Westfield Center, OH, United States | On Site | Nov 11 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Golf Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69138a3fd1047e3565d03df9?utm_campaign=1053&utm_source=git)** | Westfield Center, OH | On Site | Nov 11 |
 | **[American University](http://american.edu)** | **[Editorial Intern (Student)](https://jobright.ai/jobs/info/6913a38fe344172248f72cee?utm_campaign=1053&utm_source=git)** | Main Campus (Washington, DC) | On Site | Nov 11 |
-| **[Carolina Herrera](http://carolinaherrera.com)** | **[Production Intern (Spring 2026)](https://jobright.ai/jobs/info/691384a9e344172248f71c3e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Television Unscripted & Alternative Entertainment Intern, Spring 2026](https://jobright.ai/jobs/info/691397bbe344172248f72655?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 11 |
+| **[Carolina Herrera](http://carolinaherrera.com)** | **[Production Intern (Spring 2026](https://jobright.ai/jobs/info/691384a9e344172248f71c3e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69139648e344172248f7254e?utm_campaign=1053&utm_source=git)** | Chicago, IL | Remote | Nov 11 |
 | **[Electric Picks Jewelry](https://electricpicks.com)** | **[Production Intern (Jan 26)](https://jobright.ai/jobs/info/691367781465e02904e9481d?utm_campaign=1053&utm_source=git)** | Hoboken, NJ | On Site | Nov 11 |
 | **[Black Copper](blackcopper.org)** | **[Winter Internships](https://jobright.ai/jobs/info/691398f5e344172248f7273b?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Nov 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Broadcasting](https://jobright.ai/jobs/info/69124a9cea9ab01b82bf1140?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK | On Site | Nov 10 |
 | **[NBC Sports](https://www.nbcunicareers.com/)** | **[NBC Sports Editorial Rotation Internships – Summer 2026](https://jobright.ai/jobs/info/691266e4c98948514c47b636?utm_campaign=1053&utm_source=git)** | Stamford, CT | Hybrid | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Local Stations Production & Editorial Internships – Summer 2026](https://jobright.ai/jobs/info/69127722d1047e3565cfcd66?utm_campaign=1053&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
-| **[NBC News](http://www.nbcnews.com)** | **[NBC News Bureau Internships – Summer 2026](https://jobright.ai/jobs/info/69126860d1047e3565cfc488?utm_campaign=1053&utm_source=git)** | Miami, FL | Hybrid | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
