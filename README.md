@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Advanced Research & Storytelling Intern- BBGTC](https://jobright.ai/jobs/info/68c3398d63829b0a8a500fe2?utm_campaign=1053&utm_source=git)** | Edgewater, FL | On Site | Nov 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6915a1cb9c388539cbdf4cde?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 14 |
 | **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[Walt Disney Animation Studios Animation Research Library Intern, Summer 2026](https://jobright.ai/jobs/info/69173e0a370fde633d07ea7a?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 14 |
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Art Internship](https://jobright.ai/jobs/info/69173ba2bcdbf3560c9c644a?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Nov 14 |
@@ -103,11 +104,11 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) News, Race & Culture Intern, Spring 2026](https://jobright.ai/jobs/info/691649839c388539cbdf9834?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[Unrivaled Sports](https://www.unrivaledsports.com)** | **[Summer 2026 Events and Experiences Internship](https://jobright.ai/jobs/info/69162e3b286ccf0a151331e7?utm_campaign=1053&utm_source=git)** | Oneonta, NY | On Site | Nov 13 |
 | **[AAMBC Inc. ](http://www.aambc.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69164138286ccf0a15133ce8?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | Nov 13 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69162771286ccf0a15132e6c?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Nov 13 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - KTUU](https://jobright.ai/jobs/info/6916d3069c388539cbdfee4b?utm_campaign=1053&utm_source=git)** | Anchorage, AK | On Site | Nov 13 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/68dd6e84ddc10244dd67f4ce?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Nov 13 |
 | **[Ditch Witch](https://ditchwitchworx.com/)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/68c041c4702aa35207aab785?utm_campaign=1053&utm_source=git)** | Noble County, OK | On Site | Nov 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Sports Programming - Part-Time](https://jobright.ai/jobs/info/69140a6fd1047e3565d08414?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 11 |
 | ↳ | **[Spring Intern, Pandora Curation - Part-Time](https://jobright.ai/jobs/info/691409e2e344172248f762c1?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
 | ↳ | **[Spring Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/69140999e344172248f762ab?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
-| ↳ | **[Spring Intern, Talk Programming - Part-Time](https://jobright.ai/jobs/info/69140961d1047e3565d083b9?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
