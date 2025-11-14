@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6915a1cb9c388539cbdf4cde?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 14 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Campus Recreation-Videographer(1)](https://jobright.ai/jobs/info/691702bc370fde633d07c2f1?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 14 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[Intern - PubCenter](https://jobright.ai/jobs/info/6916e2e16f36db06ef05a7b6?utm_campaign=1053&utm_source=git)** | USA | Remote | Nov 14 |
+| **[McClatchy Media](https://www.mcclatchy.com/)** | **[Intern - PubCenter](https://jobright.ai/jobs/info/6917031f370fde633d07c334?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Nekia Nichelle, LLC. ](http://www.nekianichelle.com)** | **[Jr. Contributing Writer Intern](https://jobright.ai/jobs/info/6916ae899c388539cbdfdf1c?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Video Content Delivery Specialist – BYU-Pathway Worldwide Student Employee](https://jobright.ai/jobs/info/6916b391286ccf0a15138c0f?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 13 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Nov 13 |
@@ -125,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/6914cd88286ccf0a15128815?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | Hybrid | Nov 12 |
 | **[Universal AI Services](https://universalaiservices.com)** | **[Film & Media Intern](https://jobright.ai/jobs/info/6915f3066f36db06ef051e0a?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Nov 12 |
 | **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Journalism & Editorial Intern](https://jobright.ai/jobs/info/69150f49286ccf0a1512adee?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 12 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/6914e82d9c388539cbdee710?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | Hybrid | Nov 12 |
-| ↳ | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/6914eae16f36db06ef049b16?utm_campaign=1053&utm_source=git)** | Atlanta, GA, USA | Hybrid | Nov 12 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/6914eae16f36db06ef049b16?utm_campaign=1053&utm_source=git)** | Atlanta, GA, USA | Hybrid | Nov 12 |
+| ↳ | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/6914e82d9c388539cbdee710?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | Hybrid | Nov 12 |
 | **[Grand Rapids Community Media Center](https://www.grcmc.org)** | **[GRTV Video Production Internship](https://jobright.ai/jobs/info/6914f07c6f36db06ef049e11?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Nov 12 |
 | **[CNA Corporation](https://www.cna.org)** | **[Research Publications / Editing Intern - Summer 2026](https://jobright.ai/jobs/info/68bf5fa5702aa35207aa5be8?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Nov 12 |
 | **[Born](https://www.slay.cool)** | **[Born Content Creator Program (NYC)](https://jobright.ai/jobs/info/6914a9029c388539cbdecfcb?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Intern, Podcast Producer - Part Time](https://jobright.ai/jobs/info/691405b31465e02904e997a8?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
 | ↳ | **[Spring Intern, Music Programming Operations - Nashville - Part-Time](https://jobright.ai/jobs/info/6914049f1465e02904e99737?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Nov 11 |
 | ↳ | **[Spring Intern, College Sports - HBCU - Part-Time](https://jobright.ai/jobs/info/6914048a1465e02904e9972a?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 11 |
-| ↳ | **[Spring Intern, Video Production - Part-Time](https://jobright.ai/jobs/info/6914009ad1047e3565d07c6d?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
-| ↳ | **[Spring Intern, Podcast Producer - HBCU - Part Time](https://jobright.ai/jobs/info/69141ee9e344172248f77141?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Nov 11 |
-| **[Skild AI](https://www.skild.ai/)** | **[Technical Animator Intern](https://jobright.ai/jobs/info/6913e9241465e02904e9882f?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
