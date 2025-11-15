@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Video Production Internship - Summer '26](https://jobright.ai/jobs/info/691842f8bcdbf3560c9d09fb?utm_campaign=1053&utm_source=git)** | St Paul, MN | Hybrid | Nov 15 |
 | **[CoBank](http://www.cobank.com/)** | **[Internal Media Intern (Denver)](https://jobright.ai/jobs/info/6917ea1415b415636717cbd7?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | Hybrid | Nov 14 |
 | **[Austin PBS](http://www.austinpbs.org)** | **[Production Intern](https://jobright.ai/jobs/info/69181818bcdbf3560c9ce864?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Nov 14 |
 | **[Elix](https://elixhealing.com/)** | **[TikTok & Social Content Intern (Paid)](https://jobright.ai/jobs/info/6917d5a8bcdbf3560c9cbd8f?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 14 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[STUDENT ASSISTANT - MANAGING EDITOR - FOGHORN NEWS POOL](https://jobright.ai/jobs/info/6917945015b41563671792db?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX | On Site | Nov 14 |
 | ↳ | **[STUDENT ASSISTANT - COSTUME SHOP - DRAMA POOL](https://jobright.ai/jobs/info/6917a10645fb6f5ead89ccd8?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX | On Site | Nov 14 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Multimedia Producer Internship (Graduate or Undergraduate)](https://jobright.ai/jobs/info/690be2894a1b456627b140db?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 14 |
+| **[CIEE Council on International Educational Exchange](https://www.ciee.org/)** | **[BridgeUSA Creative Team Intern](https://jobright.ai/jobs/info/69182fa245fb6f5ead8a2997?utm_campaign=1053&utm_source=git)** | Remote, US | Remote | Nov 14 |
 | **[Dynohead Media](https://www.linkedin.com/company/106042037)** | **[Videographer / Interviewer](https://jobright.ai/jobs/info/6917916e45fb6f5ead89c1da?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Nov 14 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Advanced Research & Storytelling Intern- BBGTC](https://jobright.ai/jobs/info/68c3398d63829b0a8a500fe2?utm_campaign=1053&utm_source=git)** | Edgewater, FL | On Site | Nov 14 |
 | **[The Hill](http://thehill.com)** | **[The Hill Digital Video Intern](https://jobright.ai/jobs/info/69176f12bcdbf3560c9c7ad6?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | On Site | Nov 14 |
@@ -89,6 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Nov 14 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[Intern - PubCenter](https://jobright.ai/jobs/info/6916e2e16f36db06ef05a7b6?utm_campaign=1053&utm_source=git)** | USA | Remote | Nov 14 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[Intern - PubCenter](https://jobright.ai/jobs/info/6917031f370fde633d07c334?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 13 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Newsroom Intern, Spring 2026](https://jobright.ai/jobs/info/68dda9a2ddc10244dd682bb7?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | **[Himalayan Blends](https://www.himalayanblends.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69172affbcdbf3560c9c5c11?utm_campaign=1053&utm_source=git)** | Riverside, CA | Hybrid | Nov 13 |
 | **[Nekia Nichelle, LLC. ](http://www.nekianichelle.com)** | **[Jr. Contributing Writer Intern](https://jobright.ai/jobs/info/6916ae899c388539cbdfdf1c?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Video Content Delivery Specialist – BYU-Pathway Worldwide Student Employee](https://jobright.ai/jobs/info/6916b391286ccf0a15138c0f?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 13 |
@@ -110,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Women's Events](https://jobright.ai/jobs/info/69163906286ccf0a151337f9?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Video Editor Internship](https://jobright.ai/jobs/info/6916688a9c388539cbdfaef2?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Hickory Crawdads](http://www.milb.com/index.jsp?sid=t448)** | **[Promotions and Entertainment Intern](https://jobright.ai/jobs/info/69165b7a6f36db06ef05574d?utm_campaign=1053&utm_source=git)** | Hickory, NC | On Site | Nov 13 |
-| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Production Editor - Kids' Ministry Publishing](https://jobright.ai/jobs/info/6916647c286ccf0a15135428?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
-| ↳ | **[Remote Summer Internship - Lifeway Podcast Network](https://jobright.ai/jobs/info/6916502f6f36db06ef054ee8?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
+| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Lifeway Podcast Network](https://jobright.ai/jobs/info/6916502f6f36db06ef054ee8?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
+| ↳ | **[Remote Summer Internship - Production Editor - Kids' Ministry Publishing](https://jobright.ai/jobs/info/6916647c286ccf0a15135428?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
 | **[Golin](http://golin.com/)** | **[Golin 2026 New York Graduate Internship](https://jobright.ai/jobs/info/691674599c388539cbdfb839?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Production Editor - Kids' Ministry Publishing](https://jobright.ai/jobs/info/691673b6286ccf0a151361e1?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 13 |
 | ↳ | **[Remote Summer Internship - Lifeway Podcast Network](https://jobright.ai/jobs/info/69164a856f36db06ef054ab7?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 13 |
@@ -123,10 +126,10 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) News, Race & Culture Intern, Spring 2026](https://jobright.ai/jobs/info/691649839c388539cbdf9834?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[Unrivaled Sports](https://www.unrivaledsports.com)** | **[Summer 2026 Events and Experiences Internship](https://jobright.ai/jobs/info/69162e3b286ccf0a151331e7?utm_campaign=1053&utm_source=git)** | Oneonta, NY | On Site | Nov 13 |
 | **[AAMBC Inc. ](http://www.aambc.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69164138286ccf0a15133ce8?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | Nov 13 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69162771286ccf0a15132e6c?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Nov 13 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - KTUU](https://jobright.ai/jobs/info/6916d3069c388539cbdfee4b?utm_campaign=1053&utm_source=git)** | Anchorage, AK | On Site | Nov 13 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
+| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/68dd6e84ddc10244dd67f4ce?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Nov 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Universal AI Services](https://universalaiservices.com)** | **[Film & Media Intern](https://jobright.ai/jobs/info/6915f3066f36db06ef051e0a?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Nov 12 |
 | **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Journalism & Editorial Intern](https://jobright.ai/jobs/info/69150f49286ccf0a1512adee?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/6914e82d9c388539cbdee710?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | Hybrid | Nov 12 |
-| ↳ | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/6914eae16f36db06ef049b16?utm_campaign=1053&utm_source=git)** | Atlanta, GA, USA | Hybrid | Nov 12 |
-| **[Grand Rapids Community Media Center](https://www.grcmc.org)** | **[GRTV Video Production Internship](https://jobright.ai/jobs/info/6914f07c6f36db06ef049e11?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Nov 12 |
-| **[CNA Corporation](https://www.cna.org)** | **[Research Publications / Editing Intern - Summer 2026](https://jobright.ai/jobs/info/68bf5fa5702aa35207aa5be8?utm_campaign=1053&utm_source=git)** | Arlington, VA | Hybrid | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
