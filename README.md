@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/69189c7115b41563671830fd?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
 | **[Sprout Arena](https://www.linkedin.com/company/105138495)** | **[Blog Writing Intern](https://jobright.ai/jobs/info/6918950115b4156367182ed5?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Remote | Nov 15 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc080df55bb021a889fa76?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
-| ↳ | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/691887d3bcdbf3560c9d287b?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Medical Animation Intern](https://jobright.ai/jobs/info/68fc21844129dd33cd138fb3?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Nov 15 |
 | **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL News Intern - 2026 Spring](https://jobright.ai/jobs/info/68fc728f4129dd33cd13c0b3?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Nov 15 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Video Production Internship - Summer '26](https://jobright.ai/jobs/info/691842f8bcdbf3560c9d09fb?utm_campaign=1053&utm_source=git)** | St Paul, MN | Hybrid | Nov 15 |
@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Curatorial Internship](https://jobright.ai/jobs/info/6917d43415b415636717bee7?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
 | **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917d8c515b415636717c234?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Events Department Intern](https://jobright.ai/jobs/info/6917982215b41563671795f8?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Nov 14 |
-| **[Ambimistic Counseling®](https://www.ambimisticcounseling.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/69187b6b15b4156367182704?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 14 |
 | **[Bellarmine Jesuit Retreat House](https://www.jesuitretreat.org)** | **[Social Media Videographer Intern](https://jobright.ai/jobs/info/6917832445fb6f5ead89b8c4?utm_campaign=1053&utm_source=git)** | Barrington, IL | On Site | Nov 14 |
 | **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[STUDENT ASSISTANT - ART GALLERY MONITOR POOL](https://jobright.ai/jobs/info/69177b64bcdbf3560c9c80f3?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX | On Site | Nov 14 |
 | ↳ | **[STUDENT ASSISTANT - WEB EDITOR - FOGHORN NEWS POOL](https://jobright.ai/jobs/info/691779633ea85638ae1cae83?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX | On Site | Nov 14 |
@@ -120,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Women's Events](https://jobright.ai/jobs/info/69163906286ccf0a151337f9?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Video Editor Internship](https://jobright.ai/jobs/info/6916688a9c388539cbdfaef2?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Hickory Crawdads](http://www.milb.com/index.jsp?sid=t448)** | **[Promotions and Entertainment Intern](https://jobright.ai/jobs/info/69165b7a6f36db06ef05574d?utm_campaign=1053&utm_source=git)** | Hickory, NC | On Site | Nov 13 |
-| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Lifeway Podcast Network](https://jobright.ai/jobs/info/6916502f6f36db06ef054ee8?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
-| ↳ | **[Remote Summer Internship - Production Editor - Kids' Ministry Publishing](https://jobright.ai/jobs/info/6916647c286ccf0a15135428?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
+| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Production Editor - Kids' Ministry Publishing](https://jobright.ai/jobs/info/6916647c286ccf0a15135428?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
+| ↳ | **[Remote Summer Internship - Lifeway Podcast Network](https://jobright.ai/jobs/info/6916502f6f36db06ef054ee8?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
 | ↳ | **[Remote Summer Internship - Production Editor - Kids' Ministry Publishing](https://jobright.ai/jobs/info/691673b6286ccf0a151361e1?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 13 |
 | ↳ | **[Remote Summer Internship - Lifeway Podcast Network](https://jobright.ai/jobs/info/69164a856f36db06ef054ab7?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 13 |
 | ↳ | **[Remote Summer Internship - Women's Magazine / Devotional Publishing](https://jobright.ai/jobs/info/69164c8c286ccf0a15134358?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Audily](https://audily.com)** | **[Intern - Pop Ups Studios (paid in equity)](https://jobright.ai/jobs/info/691505f79c388539cbdefaa7?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 12 |
 | **[C-SPAN](http://www.c-span.org)** | **[Internship - Spring 2026 (January-April)](https://jobright.ai/jobs/info/6914fdf6286ccf0a1512a196?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[Think Intern, Spring 2026](https://jobright.ai/jobs/info/691520b19c388539cbdf0b82?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Nov 12 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Styling Intern](https://jobright.ai/jobs/info/6914f55d9c388539cbdeee57?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
