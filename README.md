@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoBank](http://www.cobank.com/)** | **[Internal Media Intern (Denver)](https://jobright.ai/jobs/info/6917ea1415b415636717cbd7?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | Hybrid | Nov 14 |
 | **[Elix](https://elixhealing.com/)** | **[TikTok & Social Content Intern (Paid)](https://jobright.ai/jobs/info/6917d5a8bcdbf3560c9cbd8f?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 14 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Content Writers](https://jobright.ai/jobs/info/6917cd4445fb6f5ead89eb86?utm_campaign=1053&utm_source=git)** | Seattle, WA | Remote | Nov 14 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917c46815b415636717b5c0?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
-| ↳ | **[Art Bridges Academic Year 2026-27 Traveling Exhibitions Internship](https://jobright.ai/jobs/info/6917c09045fb6f5ead89e47f?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
+| **[AOA](https://www.insideaoa.com/)** | **[Scenic Paint Intern](https://jobright.ai/jobs/info/6917f54645fb6f5ead8a060c?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Nov 14 |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Traveling Exhibitions Internship](https://jobright.ai/jobs/info/6917c09045fb6f5ead89e47f?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
 | ↳ | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917ce6615b415636717bb43?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
 | ↳ | **[Curatorial Internship](https://jobright.ai/jobs/info/6917d43415b415636717bee7?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917d8c515b415636717c234?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Events Department Intern](https://jobright.ai/jobs/info/6917982215b41563671795f8?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Nov 14 |
 | **[Bellarmine Jesuit Retreat House](https://www.jesuitretreat.org)** | **[Social Media Videographer Intern](https://jobright.ai/jobs/info/6917832445fb6f5ead89b8c4?utm_campaign=1053&utm_source=git)** | Barrington, IL | On Site | Nov 14 |
 | **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[STUDENT ASSISTANT - ART GALLERY MONITOR POOL](https://jobright.ai/jobs/info/69177b64bcdbf3560c9c80f3?utm_campaign=1053&utm_source=git)** | Corpus Christi, TX | On Site | Nov 14 |
@@ -123,11 +126,11 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) News, Race & Culture Intern, Spring 2026](https://jobright.ai/jobs/info/691649839c388539cbdf9834?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[Unrivaled Sports](https://www.unrivaledsports.com)** | **[Summer 2026 Events and Experiences Internship](https://jobright.ai/jobs/info/69162e3b286ccf0a151331e7?utm_campaign=1053&utm_source=git)** | Oneonta, NY | On Site | Nov 13 |
 | **[AAMBC Inc. ](http://www.aambc.org)** | **[Video Editor Intern](https://jobright.ai/jobs/info/69164138286ccf0a15133ce8?utm_campaign=1053&utm_source=git)** | Atlanta Metro | Hybrid | Nov 13 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69161f33286ccf0a15132ad9?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Nov 13 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
+| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
+| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69162771286ccf0a15132e6c?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Nov 13 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - KTUU](https://jobright.ai/jobs/info/6916d3069c388539cbdfee4b?utm_campaign=1053&utm_source=git)** | Anchorage, AK | On Site | Nov 13 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/68dd6e84ddc10244dd67f4ce?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Nov 13 |
 | **[Ditch Witch](https://ditchwitchworx.com/)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/68c041c4702aa35207aab785?utm_campaign=1053&utm_source=git)** | Noble County, OK | On Site | Nov 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/6914cd88286ccf0a15128815?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | Hybrid | Nov 12 |
 | **[Universal AI Services](https://universalaiservices.com)** | **[Film & Media Intern](https://jobright.ai/jobs/info/6915f3066f36db06ef051e0a?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Nov 12 |
 | **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Journalism & Editorial Intern](https://jobright.ai/jobs/info/69150f49286ccf0a1512adee?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 12 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/6914e82d9c388539cbdee710?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | Hybrid | Nov 12 |
-| ↳ | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/6914eae16f36db06ef049b16?utm_campaign=1053&utm_source=git)** | Atlanta, GA, USA | Hybrid | Nov 12 |
-| **[Grand Rapids Community Media Center](https://www.grcmc.org)** | **[GRTV Video Production Internship](https://jobright.ai/jobs/info/6914f07c6f36db06ef049e11?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
