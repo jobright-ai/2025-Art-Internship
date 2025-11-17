@@ -57,15 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/691a2beb15b41563671880b8?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Remote | Nov 16 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/691a14c145fb6f5ead8aaf72?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Nov 16 |
 | **[Production House](http://www.productionhousechicago.com)** | **[PRODUCING / COORDINATING INTERN](https://jobright.ai/jobs/info/691a07c045fb6f5ead8aae7b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 16 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/68c8ff10f9c6ff7aedf161b7?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Nov 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/691900d615b4156367184285?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 15 |
 | **[99 Yards](https://99yards.app)** | **[Content Creator (3-Month Unpaid Internship)](https://jobright.ai/jobs/info/6918d99815b4156367183d80?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Nov 15 |
 | **[DIFF | Dallas International Film Festival](http://www.dallasfilm.org/diff)** | **[Dallas International Film Festival - Programming Intern (Spring 2026)](https://jobright.ai/jobs/info/6919c6e045fb6f5ead8aa606?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Nov 15 |
-| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/69189c7115b41563671830fd?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
-| ↳ | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc080df55bb021a889fa76?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
+| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc080df55bb021a889fa76?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
+| ↳ | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/691887d3bcdbf3560c9d287b?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Medical Animation Intern](https://jobright.ai/jobs/info/68fc21844129dd33cd138fb3?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Nov 15 |
 | **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL News Intern - 2026 Spring](https://jobright.ai/jobs/info/68fc728f4129dd33cd13c0b3?utm_campaign=1053&utm_source=git)** | Lancaster, PA | On Site | Nov 15 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Curatorial Internship](https://jobright.ai/jobs/info/6917d43415b415636717bee7?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 15 |
@@ -137,11 +136,11 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Digital Video Intern](https://jobright.ai/jobs/info/6916467e9c388539cbdf9638?utm_campaign=1053&utm_source=git)** | DC, Washington | On Site | Nov 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) News, Race & Culture Intern, Spring 2026](https://jobright.ai/jobs/info/691649839c388539cbdf9834?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[Unrivaled Sports](https://www.unrivaledsports.com)** | **[Summer 2026 Events and Experiences Internship](https://jobright.ai/jobs/info/69162e3b286ccf0a151331e7?utm_campaign=1053&utm_source=git)** | Oneonta, NY | On Site | Nov 13 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69161f33286ccf0a15132ad9?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Nov 13 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - KTUU](https://jobright.ai/jobs/info/6916d3069c388539cbdfee4b?utm_campaign=1053&utm_source=git)** | Anchorage, AK | On Site | Nov 13 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/68dd6e84ddc10244dd67f4ce?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Nov 13 |
 | **[Ditch Witch](https://ditchwitchworx.com/)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/68c041c4702aa35207aab785?utm_campaign=1053&utm_source=git)** | Noble County, OK | On Site | Nov 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/69152ca86f36db06ef04c64a?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Landmark Educational Tours ](https://LandmarkEducationalTours.com)** | **[Hospitality Event Management Internship](https://jobright.ai/jobs/info/691523159c388539cbdf0d55?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto Video Editor and Producer Intern](https://jobright.ai/jobs/info/691542879c388539cbdf1eb0?utm_campaign=1053&utm_source=git)** | Houston, TX | Remote | Nov 12 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/69151b346f36db06ef04bbfb?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
