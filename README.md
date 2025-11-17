@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Narrative Writing (Memphis, TN)](https://jobright.ai/jobs/info/691ad707bcdbf3560c9dafb6?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Dinners, Galas, Golf Events Support (Memphis, TN)](https://jobright.ai/jobs/info/691add6b45fb6f5ead8ae687?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| ↳ | **[Summer 2026 Intern - Narrative Writing (Memphis, TN)](https://jobright.ai/jobs/info/691ad707bcdbf3560c9dafb6?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Relational Engagement and Event Experience (Memphis, TN)](https://jobright.ai/jobs/info/691ac54945fb6f5ead8ad979?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
 | **[Production House](http://www.productionhousechicago.com)** | **[PRODUCING / COORDINATING INTERN](https://jobright.ai/jobs/info/691a07c045fb6f5ead8aae7b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 16 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/68c8ff10f9c6ff7aedf161b7?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Nov 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/691900d615b4156367184285?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 15 |
 | **[99 Yards](https://99yards.app)** | **[Content Creator (3-Month Unpaid Internship)](https://jobright.ai/jobs/info/6918d99815b4156367183d80?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Nov 15 |
 | **[DIFF | Dallas International Film Festival](http://www.dallasfilm.org/diff)** | **[Dallas International Film Festival - Programming Intern (Spring 2026)](https://jobright.ai/jobs/info/6919c6e045fb6f5ead8aa606?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Nov 15 |
-| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/69189c7115b41563671830fd?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
-| ↳ | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc080df55bb021a889fa76?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
+| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc080df55bb021a889fa76?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
+| ↳ | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/691887d3bcdbf3560c9d287b?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Medical Animation Intern](https://jobright.ai/jobs/info/68fc21844129dd33cd138fb3?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Nov 15 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Video Production Internship - Summer '26](https://jobright.ai/jobs/info/691842f8bcdbf3560c9d09fb?utm_campaign=1053&utm_source=git)** | St Paul, MN | Hybrid | Nov 15 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Gameday Production Internship - Summer '26](https://jobright.ai/jobs/info/69186d3ebcdbf3560c9d2168?utm_campaign=1053&utm_source=git)** | Minnetrista, MN | Hybrid | Nov 14 |
@@ -110,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Nov 13 |
 | **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com/)** | **[2026 Internship, Spring - Event Operations](https://jobright.ai/jobs/info/691689689c388539cbdfc5c9?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Nov 13 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Animation Intern](https://jobright.ai/jobs/info/69168199286ccf0a15136c38?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 13 |
-| **[Music Jobs US ](https://www.music-jobs.com/usa/)** | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/6917462cbcdbf3560c9c6832?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Nov 13 |
+| **[Music Jobs US](https://www.music-jobs.com/usa/)** | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/6917462cbcdbf3560c9c6832?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Nov 13 |
 | **[Red Bull](https://redbull.com)** | **[2026 Internship, Spring - Event Operations](https://jobright.ai/jobs/info/6916ac889c388539cbdfdc3f?utm_campaign=1053&utm_source=git)** | Harrison, NJ, USA | On Site | Nov 13 |
 | **[West Shore Home](http://westshorehome.com)** | **[Multimedia Intern (Summer 2026)](https://jobright.ai/jobs/info/6916911c286ccf0a151377c7?utm_campaign=1053&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Digital Video Intern](https://jobright.ai/jobs/info/691660239c388539cbdfa792?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 13 |
@@ -136,13 +137,14 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Digital Video Intern](https://jobright.ai/jobs/info/6916467e9c388539cbdf9638?utm_campaign=1053&utm_source=git)** | DC, Washington | On Site | Nov 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) News, Race & Culture Intern, Spring 2026](https://jobright.ai/jobs/info/691649839c388539cbdf9834?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[Unrivaled Sports](https://www.unrivaledsports.com)** | **[Summer 2026 Events and Experiences Internship](https://jobright.ai/jobs/info/69162e3b286ccf0a151331e7?utm_campaign=1053&utm_source=git)** | Oneonta, NY | On Site | Nov 13 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Production Assistant (Student Employee)](https://jobright.ai/jobs/info/69162771286ccf0a15132e6c?utm_campaign=1053&utm_source=git)** | Conway, SC | On Site | Nov 13 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - KTUU](https://jobright.ai/jobs/info/6916d3069c388539cbdfee4b?utm_campaign=1053&utm_source=git)** | Anchorage, AK | On Site | Nov 13 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
-| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | ↳ | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Nov 13 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/68dd6e84ddc10244dd67f4ce?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Nov 13 |
+| **[Born](https://www.slay.cool)** | **[UGC Creator Program](https://jobright.ai/jobs/info/6914a9029c388539cbdecfcb?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Ditch Witch](https://ditchwitchworx.com/)** | **[Video and Interactive Training Production Intern - Ditch Witch](https://jobright.ai/jobs/info/68c041c4702aa35207aab785?utm_campaign=1053&utm_source=git)** | Noble County, OK | On Site | Nov 13 |
 | **[Aptiv](http://www.aptiv.com)** | **[Video Intern](https://jobright.ai/jobs/info/68dd8a99a125e75c422abd84?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Nov 13 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6915e9cb9c388539cbdf6ba6?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Nov 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Landmark Educational Tours ](https://LandmarkEducationalTours.com)** | **[Hospitality Event Management Internship](https://jobright.ai/jobs/info/691523159c388539cbdf0d55?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto Video Editor and Producer Intern](https://jobright.ai/jobs/info/691542879c388539cbdf1eb0?utm_campaign=1053&utm_source=git)** | Houston, TX | Remote | Nov 12 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern, Artist Manager Assistant](https://jobright.ai/jobs/info/69151b346f36db06ef04bbfb?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Nov 12 |
-| ↳ | **[Intern, Label Coordinator](https://jobright.ai/jobs/info/69151632286ccf0a1512b1bd?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | Hybrid | Nov 12 |
-| **[Mount St. Joseph University](http://www.msj.edu)** | **[Student Gallery Director Co-Op](https://jobright.ai/jobs/info/691509fc286ccf0a1512a9a2?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
