@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Dispatch](https://thedispatch.com/)** | **[Spring 2026 Internship](https://jobright.ai/jobs/info/690e6cc3221b890c2780de35?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/691bec6d22a2cb4b9bd178d1?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Nov 17 |
 | **[Jackson's 16 WAPT](https://www.wapt.com/)** | **[Intern](https://jobright.ai/jobs/info/691beb1215b41563671942af?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Nov 17 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/691be1b522a2cb4b9bd17102?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Nov 17 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[ZobeTV](http://www.ZobeTV.com)** | **[Host & Content Creators For Music TV Shows (Internship)](https://jobright.ai/jobs/info/691b78edbcdbf3560c9df2a9?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 17 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/691b59ed15b415636718e4b4?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Nov 17 |
 | **[AASA, The School Superintendents Association](https://www.aasa.org)** | **[Reporting or Photography Intern](https://jobright.ai/jobs/info/691b693422a2cb4b9bd122a8?utm_campaign=1053&utm_source=git)** | Nashville, TN | On Site | Nov 17 |
-| **[YourBookTeam](https://yourbookteam.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/691b777f22a2cb4b9bd129c3?utm_campaign=1053&utm_source=git)** | Los Angeles County, CA | Remote | Nov 17 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONFERENCE PROGRAMMING](https://jobright.ai/jobs/info/691bdb6d22a2cb4b9bd16d02?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, US | Hybrid | Nov 17 |
 | **[The Hybrid Geek - Hybrid Batteries. Engineered by Geeks. Trusted by Drivers.](http://TheHybridGeek.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/691b58ecbcdbf3560c9de14b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Nov 17 |
 | **[M Booth](http://www.mbooth.com)** | **[Winter Intern, Lifestyle](https://jobright.ai/jobs/info/691b5efabcdbf3560c9de503?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Nov 17 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Local Boston Production & Digital Internships – Summer 2026](https://jobright.ai/jobs/info/691672aa6f36db06ef056a74?utm_campaign=1053&utm_source=git)** | Needham, MA | Hybrid | Nov 13 |
 | **[Moment Magazine](https://momentmag.com)** | **[Richard Solloway Intern](https://jobright.ai/jobs/info/691667079c388539cbdfad29?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | On Site | Nov 13 |
 | **[Hickory Crawdads](http://www.milb.com/index.jsp?sid=t448)** | **[Promotions and Entertainment Intern](https://jobright.ai/jobs/info/69165b7a6f36db06ef05574d?utm_campaign=1053&utm_source=git)** | Hickory, NC | On Site | Nov 13 |
-| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Women's Magazine / Devotional Publishing](https://jobright.ai/jobs/info/691c2d94bcdbf3560c9e613c?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
-| ↳ | **[Hybrid Summer Internship - Line Producer - Media](https://jobright.ai/jobs/info/691c0ac3bcdbf3560c9e538a?utm_campaign=1053&utm_source=git)** | US-TN-Brentwood | Hybrid | Nov 13 |
+| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Hybrid Summer Internship - Line Producer - Media](https://jobright.ai/jobs/info/691c0ac3bcdbf3560c9e538a?utm_campaign=1053&utm_source=git)** | US-TN-Brentwood | Hybrid | Nov 13 |
+| ↳ | **[Remote Summer Internship - Women's Magazine / Devotional Publishing](https://jobright.ai/jobs/info/691c2d94bcdbf3560c9e613c?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
 | ↳ | **[Remote Summer Internship - Women's Events](https://jobright.ai/jobs/info/691c16a715b4156367195c81?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
