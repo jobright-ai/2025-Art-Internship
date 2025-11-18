@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seneca Holdings](http://www.senecaholdings.com)** | **[Communications Intern](https://jobright.ai/jobs/info/691c9052bcdbf3560c9e7e7e?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Nov 18 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 LA and Telemundo 52 News Internships – Summer 2026](https://jobright.ai/jobs/info/691c7e00ff70244984168181?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 18 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68ec8f0dc26b9574506f3896?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 18 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Spring 2026 Internship](https://jobright.ai/jobs/info/690e6cc3221b890c2780de35?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/691bec6d22a2cb4b9bd178d1?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Nov 17 |
 | **[Jackson's 16 WAPT](https://www.wapt.com/)** | **[Intern](https://jobright.ai/jobs/info/691beb1215b41563671942af?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Nov 17 |
@@ -90,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[M Booth](http://www.mbooth.com)** | **[Winter Intern, Lifestyle](https://jobright.ai/jobs/info/691b5efabcdbf3560c9de503?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Nov 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (In-Person) Spring 2026](https://jobright.ai/jobs/info/68ece18a81fdd1626d397981?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Nov 17 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Dinners, Galas, Golf Events Support (Memphis, TN)](https://jobright.ai/jobs/info/691add6b45fb6f5ead8ae687?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
-| ↳ | **[Summer 2026 Intern - Narrative Writing (Memphis, TN)](https://jobright.ai/jobs/info/691ad707bcdbf3560c9dafb6?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Relational Engagement and Event Experience (Memphis, TN)](https://jobright.ai/jobs/info/691ac54945fb6f5ead8ad979?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
+| ↳ | **[Summer 2026 Intern - Relational Engagement and Event Experience (Memphis, TN)](https://jobright.ai/jobs/info/691adbff45fb6f5ead8ae63e?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Narrative Writing (Memphis, TN)](https://jobright.ai/jobs/info/691acbe315b415636718a913?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
 | **[Waynesboro Area School Dist](https://www.linkedin.com/company/5889970)** | **[Student Production Drama Director (1 Opening Co-Director)](https://jobright.ai/jobs/info/691bc66a15b4156367192a98?utm_campaign=1053&utm_source=git)** | Waynesboro, PA | On Site | Nov 16 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/68c8ff10f9c6ff7aedf161b7?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Nov 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/691900d615b4156367184285?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 15 |
@@ -100,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc080df55bb021a889fa76?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
 | ↳ | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/691887d3bcdbf3560c9d287b?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Medical Animation Intern](https://jobright.ai/jobs/info/68fc21844129dd33cd138fb3?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Nov 15 |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Curatorial Internship](https://jobright.ai/jobs/info/6917d43415b415636717bee7?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 15 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Video Production Internship - Summer '26](https://jobright.ai/jobs/info/691842f8bcdbf3560c9d09fb?utm_campaign=1053&utm_source=git)** | St Paul, MN | Hybrid | Nov 15 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Gameday Production Internship - Summer '26](https://jobright.ai/jobs/info/69186d3ebcdbf3560c9d2168?utm_campaign=1053&utm_source=git)** | Minnetrista, MN | Hybrid | Nov 14 |
 | **[CoBank](http://www.cobank.com/)** | **[Internal Media Intern (Denver)](https://jobright.ai/jobs/info/6917ea1415b415636717cbd7?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | Hybrid | Nov 14 |
@@ -109,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[AOA](https://www.insideaoa.com/)** | **[Scenic Paint Intern](https://jobright.ai/jobs/info/6917f54645fb6f5ead8a060c?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Nov 14 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Traveling Exhibitions Internship](https://jobright.ai/jobs/info/6917c09045fb6f5ead89e47f?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
 | ↳ | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917ce6615b415636717bb43?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
-| ↳ | **[Curatorial Internship](https://jobright.ai/jobs/info/6917d43415b415636717bee7?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
 | **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917d8c515b415636717c234?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Events Department Intern](https://jobright.ai/jobs/info/6917982215b41563671795f8?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Nov 14 |
 | **[Bellarmine Jesuit Retreat House](https://www.jesuitretreat.org)** | **[Social Media Videographer Intern](https://jobright.ai/jobs/info/6917832445fb6f5ead89b8c4?utm_campaign=1053&utm_source=git)** | Barrington, IL | On Site | Nov 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hickory Crawdads](http://www.milb.com/index.jsp?sid=t448)** | **[Promotions and Entertainment Intern](https://jobright.ai/jobs/info/69165b7a6f36db06ef05574d?utm_campaign=1053&utm_source=git)** | Hickory, NC | On Site | Nov 13 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Women's Magazine / Devotional Publishing](https://jobright.ai/jobs/info/691c2d94bcdbf3560c9e613c?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
 | ↳ | **[Hybrid Summer Internship - Line Producer - Media](https://jobright.ai/jobs/info/691c0ac3bcdbf3560c9e538a?utm_campaign=1053&utm_source=git)** | US-TN-Brentwood | Hybrid | Nov 13 |
-| ↳ | **[Remote Summer Internship - Women's Events](https://jobright.ai/jobs/info/691c16a715b4156367195c81?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
-| ↳ | **[Remote Summer Internship - Production Editor - Kids' Ministry Publishing](https://jobright.ai/jobs/info/6916647c286ccf0a15135428?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
-| ↳ | **[Remote Summer Internship - Lifeway Podcast Network](https://jobright.ai/jobs/info/691c2563bcdbf3560c9e5f25?utm_campaign=1053&utm_source=git)** | US-Remote | Remote | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
