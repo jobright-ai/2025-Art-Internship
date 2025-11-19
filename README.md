@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hustle Magazine](www.hustlemagazine.co)** | **[Video Editor Intern](https://jobright.ai/jobs/info/691d5bcc0b7dff7341502e61?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 18 |
+| **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Video Editing Internship - Tell Somebody](https://jobright.ai/jobs/info/691d5aa70b7dff7341502df2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 18 |
 | **[Menlo School](https://www.menloschool.org/)** | **[Arts Administration and Operations Internship](https://jobright.ai/jobs/info/691d57107481340785ed6ba8?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 18 |
 | ↳ | **[Artist Liaison Internship](https://jobright.ai/jobs/info/691d56dbbcdbf3560c9f00a5?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 18 |
 | ↳ | **[Audiovisual Intern](https://jobright.ai/jobs/info/691d4fe2bcdbf3560c9efc6e?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 18 |
@@ -86,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Sports Philadelphia, Production Intern (Spring 2025)](https://jobright.ai/jobs/info/691c9e2822a2cb4b9bd1bc12?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 18 |
 | ↳ | **[Telemundo Enterprises Production & Business Operations Internships – Summer 2026](https://jobright.ai/jobs/info/691c961dbcdbf3560c9e8138?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 18 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Spring 2026 Internship](https://jobright.ai/jobs/info/690e6cc3221b890c2780de35?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 18 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/691d71c90b7dff73415036e3?utm_campaign=1053&utm_source=git)** | Albuquerque, NM | On Site | Nov 17 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/691bec6d22a2cb4b9bd178d1?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Nov 17 |
 | **[Jackson's 16 WAPT](https://www.wapt.com/)** | **[Intern](https://jobright.ai/jobs/info/691beb1215b41563671942af?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Nov 17 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/691be1b522a2cb4b9bd17102?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Nov 17 |
@@ -104,9 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/691b8e5022a2cb4b9bd1393c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 17 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONFERENCE PROGRAMMING](https://jobright.ai/jobs/info/691bb35c15b4156367191c85?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 17 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern – Broadcasting and Publications](https://jobright.ai/jobs/info/691b892e22a2cb4b9bd13546?utm_campaign=1053&utm_source=git)** | US-WI-Milwaukee | On Site | Nov 17 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Cherokee Hospital](https://jobright.ai/jobs/info/69155fa56f36db06ef04e403?utm_campaign=1053&utm_source=git)** | Canton, GA | On Site | Nov 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios General TD Intern, Summer 2026](https://jobright.ai/jobs/info/691b781215b415636718f4c0?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 17 |
-| **[Eventage](http://eventage.net)** | **[Intern](https://jobright.ai/jobs/info/691b9d2115b4156367190e10?utm_campaign=1053&utm_source=git)** | South Orange, NJ | On Site | Nov 17 |
 | **[M Booth](http://www.mbooth.com)** | **[Winter Intern, Lifestyle](https://jobright.ai/jobs/info/691b64e022a2cb4b9bd12058?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios Character Technical Director Intern, Summer 2026](https://jobright.ai/jobs/info/691b88e9bcdbf3560c9dfd2e?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 17 |
 | **[ZobeTV](http://www.ZobeTV.com)** | **[Host & Content Creators For Music TV Shows (Internship)](https://jobright.ai/jobs/info/691b78edbcdbf3560c9df2a9?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 17 |
@@ -117,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[M Booth](http://www.mbooth.com)** | **[Winter Intern, Lifestyle](https://jobright.ai/jobs/info/691b5efabcdbf3560c9de503?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Nov 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (In-Person) Spring 2026](https://jobright.ai/jobs/info/68ece18a81fdd1626d397981?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Nov 17 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Relational Engagement and Event Experience (Memphis, TN)](https://jobright.ai/jobs/info/691adbff45fb6f5ead8ae63e?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Narrative Writing (Memphis, TN)](https://jobright.ai/jobs/info/691acbe315b415636718a913?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
+| ↳ | **[Summer 2026 Intern - Narrative Writing (Memphis, TN)](https://jobright.ai/jobs/info/691ad707bcdbf3560c9dafb6?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | **[Waynesboro Area School Dist](https://www.linkedin.com/company/5889970)** | **[Student Production Drama Director (1 Opening Co-Director)](https://jobright.ai/jobs/info/691bc66a15b4156367192a98?utm_campaign=1053&utm_source=git)** | Waynesboro, PA | On Site | Nov 16 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/68c8ff10f9c6ff7aedf161b7?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Nov 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/691900d615b4156367184285?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Art Internship](https://jobright.ai/jobs/info/69173ba2bcdbf3560c9c644a?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Nov 14 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Campus Recreation-Videographer(1)](https://jobright.ai/jobs/info/691702bc370fde633d07c2f1?utm_campaign=1053&utm_source=git)** | Huntsville, TX | On Site | Nov 14 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Writing & Editing Intern](https://jobright.ai/jobs/info/68e9491465768b6412b1a1ac?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Nov 14 |
-| ↳ | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
