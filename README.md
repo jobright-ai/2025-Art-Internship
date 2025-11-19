@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Nov 19 |
+| **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/6918efb5bcdbf3560c9d3eed?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Nov 19 |
+| ↳ | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Nov 19 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/691d8284bcdbf3560c9f1890?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Hustle Magazine](www.hustlemagazine.co)** | **[Video Editor Intern](https://jobright.ai/jobs/info/691d5bcc0b7dff7341502e61?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Video Editing Internship - Tell Somebody](https://jobright.ai/jobs/info/691d5aa70b7dff7341502df2?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 18 |
 | **[Menlo School](https://www.menloschool.org/)** | **[Arts Administration and Operations Internship](https://jobright.ai/jobs/info/691d57107481340785ed6ba8?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 18 |
-| ↳ | **[Artist Liaison Internship](https://jobright.ai/jobs/info/691d56dbbcdbf3560c9f00a5?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 18 |
-| ↳ | **[Audiovisual Intern](https://jobright.ai/jobs/info/691d4fe2bcdbf3560c9efc6e?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 18 |
 | **[PiñataFarms AI](https://pinatafarms.ai/)** | **[TikTok Content Creator Intern – Piñata Farms](https://jobright.ai/jobs/info/691d47d1bcdbf3560c9ef666?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Nov 18 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Nov 18 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WBKO](https://jobright.ai/jobs/info/691d42de0b7dff73415019fd?utm_campaign=1053&utm_source=git)** | Bowling Green, KY | On Site | Nov 18 |
@@ -128,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[99 Yards](https://99yards.app)** | **[Content Creator (3-Month Unpaid Internship)](https://jobright.ai/jobs/info/6918d99815b4156367183d80?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Nov 15 |
 | **[DIFF | Dallas International Film Festival](http://www.dallasfilm.org/diff)** | **[Dallas International Film Festival - Programming Intern (Spring 2026)](https://jobright.ai/jobs/info/6919c6e045fb6f5ead8aa606?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Nov 15 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc080df55bb021a889fa76?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
-| ↳ | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/691887d3bcdbf3560c9d287b?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
+| ↳ | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/6911b913988c2b7b4ec5668b?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Medical Animation Intern](https://jobright.ai/jobs/info/68fc21844129dd33cd138fb3?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Nov 15 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Video Production Internship - Summer '26](https://jobright.ai/jobs/info/691842f8bcdbf3560c9d09fb?utm_campaign=1053&utm_source=git)** | St Paul, MN | Hybrid | Nov 15 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Gameday Production Internship - Summer '26](https://jobright.ai/jobs/info/69186d3ebcdbf3560c9d2168?utm_campaign=1053&utm_source=git)** | Minnetrista, MN | Hybrid | Nov 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Hill](http://thehill.com)** | **[The Hill Digital Video Intern](https://jobright.ai/jobs/info/69176f12bcdbf3560c9c7ad6?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | On Site | Nov 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Live Streaming Intern (TikTok Shop - Operations) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6915a1cb9c388539cbdf4cde?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 14 |
 | **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[Walt Disney Animation Studios Animation Research Library Intern, Summer 2026](https://jobright.ai/jobs/info/69173e0a370fde633d07ea7a?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Nov 14 |
+| **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Art Internship](https://jobright.ai/jobs/info/69173ba2bcdbf3560c9c644a?utm_campaign=1053&utm_source=git)** | Orland Park, IL | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
