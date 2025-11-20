@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern-Meeting and Events](https://jobright.ai/jobs/info/691e5ffc09cc522e877395fc?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Nov 19 |
+| **[Harvey Media](https://www.linkedin.com/company/76379408)** | **[Content Creator](https://jobright.ai/jobs/info/691e5e0009cc522e87739537?utm_campaign=1053&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Nov 19 |
+| **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/691e55d509cc522e8773913d?utm_campaign=1053&utm_source=git)** | Chelmsford, MA | Hybrid | Nov 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Spring 2026 - Chicago](https://jobright.ai/jobs/info/691e514c09cc522e87738e03?utm_campaign=1053&utm_source=git)** | IL, Chicago | On Site | Nov 19 |
 | ↳ | **[NewsNation News Internship Spring 2026 - Washington, DC](https://jobright.ai/jobs/info/691e50513f782d2f1afb3b21?utm_campaign=1053&utm_source=git)** | DC, Washington | On Site | Nov 19 |
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[2D Animator](https://jobright.ai/jobs/info/691e432e09cc522e877382e7?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 19 |
@@ -141,20 +144,17 @@ For a complete list, click the following sortable link below:
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONFERENCE PROGRAMMING](https://jobright.ai/jobs/info/691bdb6d22a2cb4b9bd16d02?utm_campaign=1053&utm_source=git)** | Minneapolis, MN, US | Hybrid | Nov 17 |
 | **[M Booth](http://www.mbooth.com)** | **[Winter Intern, Lifestyle](https://jobright.ai/jobs/info/691b5efabcdbf3560c9de503?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Nov 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Journalism Intern (In-Person) Spring 2026](https://jobright.ai/jobs/info/68ece18a81fdd1626d397981?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Nov 17 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Dinners, Galas, Golf Events Support (Memphis, TN)](https://jobright.ai/jobs/info/691add6b45fb6f5ead8ae687?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Relational Engagement and Event Experience (Memphis, TN)](https://jobright.ai/jobs/info/691adbff45fb6f5ead8ae63e?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | ↳ | **[Summer 2026 Intern - Narrative Writing (Memphis, TN)](https://jobright.ai/jobs/info/691ad707bcdbf3560c9dafb6?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Relational Engagement and Event Experience (Memphis, TN)](https://jobright.ai/jobs/info/691ac54945fb6f5ead8ad979?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
 | **[Waynesboro Area School Dist](https://www.linkedin.com/company/5889970)** | **[Student Production Drama Director (1 Opening Co-Director)](https://jobright.ai/jobs/info/691bc66a15b4156367192a98?utm_campaign=1053&utm_source=git)** | Waynesboro, PA | On Site | Nov 16 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Events & Entertainment Intern](https://jobright.ai/jobs/info/68c8ff10f9c6ff7aedf161b7?utm_campaign=1053&utm_source=git)** | Prior Lake, MN | On Site | Nov 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/691900d615b4156367184285?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 15 |
 | **[99 Yards](https://99yards.app)** | **[Content Creator (3-Month Unpaid Internship)](https://jobright.ai/jobs/info/6918d99815b4156367183d80?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Nov 15 |
 | **[DIFF | Dallas International Film Festival](http://www.dallasfilm.org/diff)** | **[Dallas International Film Festival - Programming Intern (Spring 2026)](https://jobright.ai/jobs/info/6919c6e045fb6f5ead8aa606?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Nov 15 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Houston Chronicle Visuals Internship](https://jobright.ai/jobs/info/68fc080df55bb021a889fa76?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
-| ↳ | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/6911b913988c2b7b4ec5668b?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
+| ↳ | **[Houston Chronicle Reporting Internship](https://jobright.ai/jobs/info/691887d3bcdbf3560c9d287b?utm_campaign=1053&utm_source=git)** | Houston, TX | Hybrid | Nov 15 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Medical Animation Intern](https://jobright.ai/jobs/info/68fc21844129dd33cd138fb3?utm_campaign=1053&utm_source=git)** | Naples, FL | On Site | Nov 15 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Curatorial Internship](https://jobright.ai/jobs/info/6917d43415b415636717bee7?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 15 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Video Production Internship - Summer '26](https://jobright.ai/jobs/info/691842f8bcdbf3560c9d09fb?utm_campaign=1053&utm_source=git)** | St Paul, MN | Hybrid | Nov 15 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Gameday Production Internship - Summer '26](https://jobright.ai/jobs/info/69186d3ebcdbf3560c9d2168?utm_campaign=1053&utm_source=git)** | Minnetrista, MN | Hybrid | Nov 14 |
-| **[CoBank](http://www.cobank.com/)** | **[Internal Media Intern (Denver)](https://jobright.ai/jobs/info/6917ea1415b415636717cbd7?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | Hybrid | Nov 14 |
-| **[Austin PBS](http://www.austinpbs.org)** | **[Production Intern](https://jobright.ai/jobs/info/69181818bcdbf3560c9ce864?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
