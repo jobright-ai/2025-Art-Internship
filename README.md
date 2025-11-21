@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Grant Writing Intern](https://jobright.ai/jobs/info/692061a8a49a885af9a39b05?utm_campaign=1053&utm_source=git)** | Longwood, FL | On Site | Nov 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69201ce909cc522e8774828e?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Nov 21 |
 | **[Sum Pictures](https://www.sum.pictures/)** | **[Paid Intern](https://jobright.ai/jobs/info/691fe6883f782d2f1afc149b?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 20 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Video Producer Intern](https://jobright.ai/jobs/info/691fe46d3f782d2f1afc1379?utm_campaign=1053&utm_source=git)** | In-Office | On Site | Nov 20 |
@@ -129,8 +131,7 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/691dff3ba49a885af9a236ac?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 19 |
 | **[Menlo School](https://www.menloschool.org/)** | **[Arts Administration and Operations Internship](https://jobright.ai/jobs/info/692046fba49a885af9a37e90?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 19 |
 | **[PiñataFarms AI](https://pinatafarms.ai/)** | **[TikTok Content Creator Intern – Piñata Farms](https://jobright.ai/jobs/info/691d47d1bcdbf3560c9ef666?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Nov 18 |
-| **[Menlo School](https://www.menloschool.org/)** | **[Audiovisual Intern](https://jobright.ai/jobs/info/691e22b53f782d2f1afb17b9?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 18 |
-| ↳ | **[Artist Liaison Internship](https://jobright.ai/jobs/info/691e1baa3f782d2f1afb1263?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 18 |
+| **[Menlo School](https://www.menloschool.org/)** | **[Artist Liaison Internship](https://jobright.ai/jobs/info/691e1baa3f782d2f1afb1263?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 18 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Nov 18 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WBKO](https://jobright.ai/jobs/info/691d42de0b7dff73415019fd?utm_campaign=1053&utm_source=git)** | Bowling Green, KY | On Site | Nov 18 |
 | **[Nekia Nichelle, LLC. ](http://www.nekianichelle.com)** | **[Jr. Contributing Writer Intern](https://jobright.ai/jobs/info/691d3ed77481340785ed55f7?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Sports Philadelphia, Production Intern (Spring 2025)](https://jobright.ai/jobs/info/691c9e2822a2cb4b9bd1bc12?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 18 |
 | ↳ | **[Telemundo Enterprises Production & Business Operations Internships – Summer 2026](https://jobright.ai/jobs/info/691c961dbcdbf3560c9e8138?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 18 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Spring 2026 Internship](https://jobright.ai/jobs/info/690e6cc3221b890c2780de35?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 18 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6920429f3f782d2f1afc400f?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
