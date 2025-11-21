@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sum Pictures](https://www.sum.pictures/)** | **[Paid Intern](https://jobright.ai/jobs/info/691fe6883f782d2f1afc149b?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 20 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Video Producer Intern](https://jobright.ai/jobs/info/691fe46d3f782d2f1afc1379?utm_campaign=1053&utm_source=git)** | In-Office | On Site | Nov 20 |
 | **[KPI Marketing & Management](https://www.linkedin.com/company/108766394)** | **[PAID Body Sculpting Internship](https://jobright.ai/jobs/info/691fcdee09cc522e87745988?utm_campaign=1053&utm_source=git)** | McAllen, TX | On Site | Nov 20 |
+| **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/691fea7f3f782d2f1afc172a?utm_campaign=1053&utm_source=git)** | Montreal,Quebec,Canada | On Site | Nov 20 |
+| **[Arizona Golf Association](https://www.azgolf.org)** | **[USGA Boatwright Tournament Operations & Administration Intern](https://jobright.ai/jobs/info/691fe8cb3f782d2f1afc1615?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Nov 20 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/691fbc64a49a885af9a338b1?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Nov 20 |
 | **[Rochester Knighthawks](https://rochesterknighthawks.com)** | **[Communications Intern](https://jobright.ai/jobs/info/691f9c6e3f782d2f1afbe867?utm_campaign=1053&utm_source=git)** | Rochester, NY | Hybrid | Nov 20 |
 | **[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/)** | **[Paid Internship](https://jobright.ai/jobs/info/691f93433f782d2f1afbe169?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, US | On Site | Nov 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/691bec6d22a2cb4b9bd178d1?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Nov 17 |
 | **[Jackson's 16 WAPT](https://www.wapt.com/)** | **[Intern](https://jobright.ai/jobs/info/691beb1215b41563671942af?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Nov 17 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/691be1b522a2cb4b9bd17102?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Nov 17 |
-| **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment - Editing Intern](https://jobright.ai/jobs/info/691bdb5fbcdbf3560c9e3587?utm_campaign=1053&utm_source=git)** | Malibu, CA | On Site | Nov 17 |
-| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern – Broadcasting and Publications](https://jobright.ai/jobs/info/691bbdffbcdbf3560c9e212a?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Nov 17 |
-| **[Second Helpings](http://www.secondhelpings.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/691bcbeb15b4156367192d89?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Nov 17 |
-| **[Quicken Loans](http://www.quickenloans.com/)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/691bbd3722a2cb4b9bd157a9?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
