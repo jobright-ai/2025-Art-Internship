@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPI Marketing & Management](https://www.linkedin.com/company/108766394)** | **[PAID Body Sculpting Internship](https://jobright.ai/jobs/info/691fcdee09cc522e87745988?utm_campaign=1053&utm_source=git)** | McAllen, TX | On Site | Nov 20 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/691fbc64a49a885af9a338b1?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Nov 20 |
 | **[Rochester Knighthawks](https://rochesterknighthawks.com)** | **[Communications Intern](https://jobright.ai/jobs/info/691f9c6e3f782d2f1afbe867?utm_campaign=1053&utm_source=git)** | Rochester, NY | Hybrid | Nov 20 |
 | **[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/)** | **[Paid Internship](https://jobright.ai/jobs/info/691f93433f782d2f1afbe169?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, US | On Site | Nov 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern – Broadcasting and Publications](https://jobright.ai/jobs/info/691bbdffbcdbf3560c9e212a?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Nov 17 |
 | **[Second Helpings](http://www.secondhelpings.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/691bcbeb15b4156367192d89?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Nov 17 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/691bbd3722a2cb4b9bd157a9?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Nov 17 |
-| **[United States Golf Association (USGA)](http://www.usga.org)** | **[2026 U.S. Open Short-Term Hospitality Support Internship](https://jobright.ai/jobs/info/691bea8915b415636719423f?utm_campaign=1053&utm_source=git)** | Shinnecock Hills, NY, USA | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
