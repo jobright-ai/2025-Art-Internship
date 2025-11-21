@@ -114,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/691e175c09cc522e877361d8?utm_campaign=1053&utm_source=git)** | USA - MA - Chelmsford | Hybrid | Nov 19 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2026] Digital Content Internship](https://jobright.ai/jobs/info/691e15c4a49a885af9a24c5d?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Nov 19 |
 | ↳ | **[[Summer 2026] Publications Internship](https://jobright.ai/jobs/info/691e11e93f782d2f1afb0827?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Nov 19 |
-| **[Techyries](https://www.linktr.ee/techyries)** | **[Video Editing Intern](https://jobright.ai/jobs/info/691e080ba49a885af9a23d9d?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 19 |
 | **[The Hybrid Geek - Hybrid Batteries. Engineered by Geeks. Trusted by Drivers.](http://TheHybridGeek.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/691b58ecbcdbf3560c9de14b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | Hybrid | Nov 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) News, Race & Culture Intern, Spring 2026](https://jobright.ai/jobs/info/691e16aa3f782d2f1afb0e5b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 19 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Museum & Institutional Partnerships Intern](https://jobright.ai/jobs/info/691e156709cc522e87735f3f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/691bec6d22a2cb4b9bd178d1?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Nov 17 |
 | **[Jackson's 16 WAPT](https://www.wapt.com/)** | **[Intern](https://jobright.ai/jobs/info/691beb1215b41563671942af?utm_campaign=1053&utm_source=git)** | Jackson, MS | On Site | Nov 17 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/691be1b522a2cb4b9bd17102?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Nov 17 |
+| **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment - Editing Intern](https://jobright.ai/jobs/info/691bdb5fbcdbf3560c9e3587?utm_campaign=1053&utm_source=git)** | Malibu, CA | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
