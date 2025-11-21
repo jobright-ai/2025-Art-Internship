@@ -127,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/6918efb5bcdbf3560c9d3eed?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Nov 19 |
 | ↳ | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Nov 19 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/691dff3ba49a885af9a236ac?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 19 |
+| **[Menlo School](https://www.menloschool.org/)** | **[Arts Administration and Operations Internship](https://jobright.ai/jobs/info/692046fba49a885af9a37e90?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 19 |
 | **[PiñataFarms AI](https://pinatafarms.ai/)** | **[TikTok Content Creator Intern – Piñata Farms](https://jobright.ai/jobs/info/691d47d1bcdbf3560c9ef666?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Nov 18 |
 | **[Menlo School](https://www.menloschool.org/)** | **[Audiovisual Intern](https://jobright.ai/jobs/info/691e22b53f782d2f1afb17b9?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 18 |
 | ↳ | **[Artist Liaison Internship](https://jobright.ai/jobs/info/691e1baa3f782d2f1afb1263?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 18 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC Sports Philadelphia, Production Intern (Spring 2025)](https://jobright.ai/jobs/info/691c9e2822a2cb4b9bd1bc12?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 18 |
 | ↳ | **[Telemundo Enterprises Production & Business Operations Internships – Summer 2026](https://jobright.ai/jobs/info/691c961dbcdbf3560c9e8138?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 18 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Spring 2026 Internship](https://jobright.ai/jobs/info/690e6cc3221b890c2780de35?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 18 |
-| **[CharacterStrong](https://characterstrong.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/692035383f782d2f1afc3a8e?utm_campaign=1053&utm_source=git)** | Lake Tapps, WA | Remote | Nov 18 |
-| **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/691bec6d22a2cb4b9bd178d1?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Nov 17 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Alterations Intern](https://jobright.ai/jobs/info/6920429f3f782d2f1afc400f?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
