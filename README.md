@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/691fbc64a49a885af9a338b1?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Nov 20 |
 | **[Rochester Knighthawks](https://rochesterknighthawks.com)** | **[Communications Intern](https://jobright.ai/jobs/info/691f9c6e3f782d2f1afbe867?utm_campaign=1053&utm_source=git)** | Rochester, NY | Hybrid | Nov 20 |
 | **[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/)** | **[Paid Internship](https://jobright.ai/jobs/info/691f93433f782d2f1afbe169?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, US | On Site | Nov 20 |
 | **[Haute Living](http://www.hauteliving.com)** | **[Haute Living Intern](https://jobright.ai/jobs/info/691f8b8d09cc522e87742bfa?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 20 |
+| **[Wavytalk](https://www.wavytalk.com)** | **[Production Assistant Intern, Spring 2026](https://jobright.ai/jobs/info/691fa9db09cc522e877444ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/691f79923f782d2f1afbca3e?utm_campaign=1053&utm_source=git)** | Somerville-MA | Remote | Nov 20 |
 | **[Seneca Holdings](http://www.senecaholdings.com)** | **[Gameday Intern](https://jobright.ai/jobs/info/691f94e93f782d2f1afbe33e?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Nov 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Spring 2026 - New York](https://jobright.ai/jobs/info/691f970e09cc522e877436fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
@@ -84,15 +86,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[[Summer 2026] Publications Internship](https://jobright.ai/jobs/info/691f40d8a49a885af9a2d672?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Minneapolis/St. Paul Business Journal (MSPBJ)](http://www.mspbj.com)** | **[Editorial intern - Spring Semester](https://jobright.ai/jobs/info/690ffd3b988c2b7b4ec4f935?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 20 |
 | **[anthonyBarnum Public Relations](https://anthonybarnum.com/)** | **[Content Writing Intern](https://jobright.ai/jobs/info/691f4bc3a49a885af9a2de7d?utm_campaign=1053&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Nov 20 |
-| **[California State University, Northridge](https://www.csun.edu/)** | **[Executive and Artistic Director, The Soraya](https://jobright.ai/jobs/info/691f4b79a49a885af9a2de40?utm_campaign=1053&utm_source=git)** | Northridge, CA | On Site | Nov 20 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/691f65623f782d2f1afbb5f9?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Nov 20 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902807600a1816c41e9ecce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital News Intern- Spring, 2026](https://jobright.ai/jobs/info/68e750c61852e62f00824410?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Nov 20 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Weather Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6e4e4ae2b894b1d71f498?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Nov 20 |
+| ↳ | **[Digital News Intern- Spring, 2026](https://jobright.ai/jobs/info/68e750c61852e62f00824410?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Nov 20 |
+| ↳ | **[News Producer Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6e4e61852e62f0082001e?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Nov 20 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Animation Intern](https://jobright.ai/jobs/info/691eba9809cc522e8773bc11?utm_campaign=1053&utm_source=git)** | Montreal,Quebec,Canada | On Site | Nov 19 |
 | **[SitSense](https://www.sitsense.app)** | **[Content Fellow - Tiktok & Instagram](https://jobright.ai/jobs/info/691f1795a49a885af9a2c2c5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern-Meeting and Events](https://jobright.ai/jobs/info/691eab2c3f782d2f1afb656f?utm_campaign=1053&utm_source=git)** | US-WI-Milwaukee | On Site | Nov 19 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec50da49a885af9a2ab44?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 19 |
-| ↳ | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec2ec09cc522e8773bfdd?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec2ec09cc522e8773bfdd?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
+| ↳ | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec50da49a885af9a2ab44?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 19 |
 | **[Harvey Media](www.harveymediallc.com)** | **[Content Creator](https://jobright.ai/jobs/info/691e5e0009cc522e87739537?utm_campaign=1053&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Nov 19 |
 | **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/691e55d509cc522e8773913d?utm_campaign=1053&utm_source=git)** | Chelmsford, MA | Hybrid | Nov 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Spring 2026 - Chicago](https://jobright.ai/jobs/info/691e514c09cc522e87738e03?utm_campaign=1053&utm_source=git)** | IL, Chicago | On Site | Nov 19 |
@@ -138,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Red Bull](https://redbull.com)** | **[2026 Internship, Spring - Creative Video](https://jobright.ai/jobs/info/691d0aa5bcdbf3560c9ec9c3?utm_campaign=1053&utm_source=git)** | Harrison, NJ, USA | On Site | Nov 18 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring Semester 2026) - Los Angeles](https://jobright.ai/jobs/info/691cc2ef22a2cb4b9bd1cf24?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/68cc511616d00d2beeb1d4ae?utm_campaign=1053&utm_source=git)** | Norcross, GA | On Site | Nov 18 |
-| **[Flourish Coworking Space](https://www.flourishcoworking.com/)** | **[Podcast Editing and Producing Intern](https://jobright.ai/jobs/info/691cbff8bcdbf3560c9e95fb?utm_campaign=1053&utm_source=git)** | West Chester, PA | Hybrid | Nov 18 |
 | **[Seneca Holdings](http://www.senecaholdings.com)** | **[Communications Intern](https://jobright.ai/jobs/info/691c9052bcdbf3560c9e7e7e?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Nov 18 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 LA and Telemundo 52 News Internships – Summer 2026](https://jobright.ai/jobs/info/691c7e00ff70244984168181?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 18 |
 | **[Seneca Holdings](http://www.senecaholdings.com)** | **[Communications Intern](https://jobright.ai/jobs/info/691cd8d9ff7024498416b0a7?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Nov 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Second Helpings](http://www.secondhelpings.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/691bcbeb15b4156367192d89?utm_campaign=1053&utm_source=git)** | Indianapolis,IN,US | On Site | Nov 17 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/691bbd3722a2cb4b9bd157a9?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Nov 17 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2026 U.S. Open Short-Term Hospitality Support Internship](https://jobright.ai/jobs/info/691bea8915b415636719423f?utm_campaign=1053&utm_source=git)** | Shinnecock Hills, NY, USA | On Site | Nov 17 |
-| **[Minnesota Children's Museum](http://www.mcm.org)** | **[Costume Design & Props Intern](https://jobright.ai/jobs/info/691bf47422a2cb4b9bd17da5?utm_campaign=1053&utm_source=git)** | Saint Paul,MN,US | On Site | Nov 17 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Venue Operations Intern: Co-Op](https://jobright.ai/jobs/info/691bb24abcdbf3560c9e189f?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
