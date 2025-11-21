@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Telemundo 44 DC News, Digital, & Community Affairs Internships – Summer 2026](https://jobright.ai/jobs/info/69209ae63f782d2f1afc957c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
+| ↳ | **[NBC 4 DC News, Digital, & Community Affairs Internships – Summer 2026](https://jobright.ai/jobs/info/69209aca00c9ee50eaec5f33?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
+| ↳ | **[NBC News Production Internships – Summer 2026](https://jobright.ai/jobs/info/6920929f00c9ee50eaec58b7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 21 |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship - Saint John's Resort](https://jobright.ai/jobs/info/68e4903db99ec3563b0ebab2?utm_campaign=1053&utm_source=git)** | Plymouth, MI | On Site | Nov 21 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC News Bureau Internships – Summer 2026](https://jobright.ai/jobs/info/69209dc600c9ee50eaec6132?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 21 |
+| ↳ | **[NBC News Bureau Internships – Summer 2026](https://jobright.ai/jobs/info/6920a14100c9ee50eaec63c3?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 21 |
+| ↳ | **[NBC News Digital Editorial Internships – Summer 2026](https://jobright.ai/jobs/info/6920a291a49a885af9a3d8bf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Narrative Design](https://jobright.ai/jobs/info/68e8ad4ac72beb74cb321322?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
 | ↳ | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Grant Writing Intern](https://jobright.ai/jobs/info/692061a8a49a885af9a39b05?utm_campaign=1053&utm_source=git)** | Longwood, FL | On Site | Nov 21 |
@@ -80,14 +87,11 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[WUSF News Intern (Administrative Clerk)](https://jobright.ai/jobs/info/691f730509cc522e87741676?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Nov 20 |
 | **[Fairmount Center for the Arts](https://www.fairmountcenter.org)** | **[Content Production Intern - Winter/Spring 2026](https://jobright.ai/jobs/info/691f47d7a49a885af9a2db2f?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Nov 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Local Stations Production & Editorial Internships – Summer 2026](https://jobright.ai/jobs/info/691f65f709cc522e8774093e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
-| ↳ | **[NBC News Bureau Internships – Summer 2026](https://jobright.ai/jobs/info/691f5ced09cc522e87740183?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 20 |
 | ↳ | **[NBC Sports Editorial Rotation Internships – Summer 2026](https://jobright.ai/jobs/info/691f610309cc522e87740537?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Nov 20 |
 | ↳ | **[NBC Local Boston Production & Digital Internships – Summer 2026](https://jobright.ai/jobs/info/691f5e3709cc522e877402c8?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Nov 20 |
 | ↳ | **[Local Stations Production & Editorial Internships – Summer 2026](https://jobright.ai/jobs/info/691f67ef09cc522e87740b86?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 20 |
 | ↳ | **[NBC News Bureau Internships – Summer 2026](https://jobright.ai/jobs/info/691f6728a49a885af9a2f540?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | ↳ | **[Universal Television Entertainment Group Production, Development & Programming Internships – Summer 2026](https://jobright.ai/jobs/info/691f675c09cc522e87740ae0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
-| ↳ | **[NBC 4 DC News, Digital, & Community Affairs Internships – Summer 2026](https://jobright.ai/jobs/info/691f6bd309cc522e87740fde?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 20 |
-| ↳ | **[NBC News Digital Editorial Internships – Summer 2026](https://jobright.ai/jobs/info/691f5e203f782d2f1afbaff8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Video Intern](https://jobright.ai/jobs/info/68caff29d905e25191d9e2c9?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 20 |
 | **[Astro](http://www.astro.com.my)** | **[Intern - Production Assistant](https://jobright.ai/jobs/info/691f2a1f09cc522e8773df7f?utm_campaign=1053&utm_source=git)** | All Asia Broadcast Centre | On Site | Nov 20 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2026] Director's Office Internship](https://jobright.ai/jobs/info/691f500da49a885af9a2e1d5?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
@@ -105,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Technical Animation Intern](https://jobright.ai/jobs/info/691eba9809cc522e8773bc11?utm_campaign=1053&utm_source=git)** | Montreal,Quebec,Canada | On Site | Nov 19 |
 | **[SitSense](https://www.sitsense.app)** | **[Content Fellow - Tiktok & Instagram](https://jobright.ai/jobs/info/691f1795a49a885af9a2c2c5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern-Meeting and Events](https://jobright.ai/jobs/info/691eab2c3f782d2f1afb656f?utm_campaign=1053&utm_source=git)** | US-WI-Milwaukee | On Site | Nov 19 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec50da49a885af9a2ab44?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 19 |
-| ↳ | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec2ec09cc522e8773bfdd?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec2ec09cc522e8773bfdd?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
+| ↳ | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec50da49a885af9a2ab44?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 19 |
 | **[Harvey Media](www.harveymediallc.com)** | **[Content Creator](https://jobright.ai/jobs/info/691e5e0009cc522e87739537?utm_campaign=1053&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Nov 19 |
 | **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/691e55d509cc522e8773913d?utm_campaign=1053&utm_source=git)** | Chelmsford, MA | Hybrid | Nov 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Spring 2026 - Chicago](https://jobright.ai/jobs/info/691e514c09cc522e87738e03?utm_campaign=1053&utm_source=git)** | IL, Chicago | On Site | Nov 19 |
@@ -123,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) News, Race & Culture Intern, Spring 2026](https://jobright.ai/jobs/info/691e16aa3f782d2f1afb0e5b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 19 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Museum & Institutional Partnerships Intern](https://jobright.ai/jobs/info/691e156709cc522e87735f3f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 19 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68ec9b10d4b0106e703ea6b0?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 19 |
-| ↳ | **[2026 Exhibitions Project Management Intern: Spring](https://jobright.ai/jobs/info/69015621f8ce7a040fdbefa8?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 19 |
 | **[Podyum Preps](http://www.preps.thepodyum.com)** | **[Intern](https://jobright.ai/jobs/info/691f19dea49a885af9a2c355?utm_campaign=1053&utm_source=git)** | Miami, FL | Remote | Nov 19 |
 | **[Getty Images](https://www.gettyimages.com)** | **[Internship Immersion Program for Content Creation, Editorial Entertainment](https://jobright.ai/jobs/info/6900f31d4539ea1f2141ae70?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Media Production Intern (In- Person) Spring 2026.](https://jobright.ai/jobs/info/68e59e2fae2b894b1d711e68?utm_campaign=1053&utm_source=git)** | Mobile, AL | On Site | Nov 19 |
@@ -137,11 +140,11 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WBKO](https://jobright.ai/jobs/info/691d42de0b7dff73415019fd?utm_campaign=1053&utm_source=git)** | Bowling Green, KY | On Site | Nov 18 |
 | **[Nekia Nichelle, LLC. ](http://www.nekianichelle.com)** | **[Jr. Contributing Writer Intern](https://jobright.ai/jobs/info/691d3ed77481340785ed55f7?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Golf](https://jobright.ai/jobs/info/691cf3a822a2cb4b9bd1f112?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 18 |
-| **[USA Basketball](http://www.usab.com/)** | **[Digital Content Intern - Video Production](https://jobright.ai/jobs/info/691ce6d722a2cb4b9bd1e75f?utm_campaign=1053&utm_source=git)** | Colorado Springs, CO | On Site | Nov 18 |
 | **[Blue Water Hospitality](http://www.bluewaterhospitality.com)** | **[Recreation Intern (May - September 2026)](https://jobright.ai/jobs/info/691ce67e22a2cb4b9bd1e704?utm_campaign=1053&utm_source=git)** | Millsboro, DE, US | On Site | Nov 18 |
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Experience: Events Production](https://jobright.ai/jobs/info/691cd82eff7024498416afdc?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Experience: Events Production](https://jobright.ai/jobs/info/691cd48722a2cb4b9bd1db55?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/691cd249ff7024498416abb5?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Nov 18 |
+| **[Wasserman](http://www.teamwass.com)** | **[Intern, Golf (Talent) – Winter 2026](https://jobright.ai/jobs/info/6920937200c9ee50eaec596f?utm_campaign=1053&utm_source=git)** | CAN - Toronto Office (Hanna Avenue) | Hybrid | Nov 18 |
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, XQ Institute: Content & Editorial](https://jobright.ai/jobs/info/691cd157ff7024498416aabe?utm_campaign=1053&utm_source=git)** | Oakland, CA | On Site | Nov 18 |
 | **[Atlanta Beltline](https://beltline.org)** | **[Arts and Culture Internship](https://jobright.ai/jobs/info/691cff13bcdbf3560c9ec23c?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
 | **[Sports Illustrated Stadium](https://www.sportsillustratedstadium.com/)** | **[2026 Internship, Spring - Control Room Operations](https://jobright.ai/jobs/info/691cce38ff7024498416a82b?utm_campaign=1053&utm_source=git)** | Harrison, NJ | On Site | Nov 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 LA and Telemundo 52 News Internships – Summer 2026](https://jobright.ai/jobs/info/691c7e00ff70244984168181?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 18 |
 | **[Seneca Holdings](http://www.senecaholdings.com)** | **[Communications Intern](https://jobright.ai/jobs/info/691cd8d9ff7024498416b0a7?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Nov 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68ec8f0dc26b9574506f3896?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 18 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Sports Editorial Rotation Internships – Summer 2026](https://jobright.ai/jobs/info/691cc82922a2cb4b9bd1d2d4?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Nov 18 |
-| ↳ | **[NBC Sports Philadelphia, Production Intern (Spring 2025)](https://jobright.ai/jobs/info/691c9e2822a2cb4b9bd1bc12?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 18 |
-| ↳ | **[Telemundo Enterprises Production & Business Operations Internships – Summer 2026](https://jobright.ai/jobs/info/691c961dbcdbf3560c9e8138?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
