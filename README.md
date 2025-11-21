@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Narrative Design](https://jobright.ai/jobs/info/68e8ad4ac72beb74cb321322?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
+| ↳ | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Grant Writing Intern](https://jobright.ai/jobs/info/692061a8a49a885af9a39b05?utm_campaign=1053&utm_source=git)** | Longwood, FL | On Site | Nov 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69201ce909cc522e8774828e?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Nov 21 |
 | **[Sum Pictures](https://www.sum.pictures/)** | **[Paid Intern](https://jobright.ai/jobs/info/691fe6883f782d2f1afc149b?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Sports Editorial Rotation Internships – Summer 2026](https://jobright.ai/jobs/info/691cc82922a2cb4b9bd1d2d4?utm_campaign=1053&utm_source=git)** | Stamford, CT | On Site | Nov 18 |
 | ↳ | **[NBC Sports Philadelphia, Production Intern (Spring 2025)](https://jobright.ai/jobs/info/691c9e2822a2cb4b9bd1bc12?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 18 |
 | ↳ | **[Telemundo Enterprises Production & Business Operations Internships – Summer 2026](https://jobright.ai/jobs/info/691c961dbcdbf3560c9e8138?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 18 |
-| **[The Dispatch](https://thedispatch.com/)** | **[Spring 2026 Internship](https://jobright.ai/jobs/info/690e6cc3221b890c2780de35?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
