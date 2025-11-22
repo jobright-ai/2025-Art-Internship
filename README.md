@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CharacterStrong](https://characterstrong.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/692035383f782d2f1afc3a8e?utm_campaign=1053&utm_source=git)** | Lake Tapps, WA | Remote | Nov 21 |
+| **[Red Aspen](https://www.redaspenlove.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69211f0f3f782d2f1afcf611?utm_campaign=1053&utm_source=git)** | Meridian, ID | On Site | Nov 21 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Lifeway Podcast Network](https://jobright.ai/jobs/info/691d4581bcdbf3560c9ef43f?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Intapp](http://www.intapp.com)** | **[Client Experience Intern](https://jobright.ai/jobs/info/6921097800c9ee50eaecb00d?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Nov 21 |
 | **[The Sporting News](http://www.sportingnews.com)** | **[Editorial Intern News - Spring 2026](https://jobright.ai/jobs/info/6920f7483f782d2f1afcd80a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Nov 21 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC News Bureau Internships – Summer 2026](https://jobright.ai/jobs/info/6920a14100c9ee50eaec63c3?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 21 |
 | ↳ | **[NBC News Digital Editorial Internships – Summer 2026](https://jobright.ai/jobs/info/6920a291a49a885af9a3d8bf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | **[FIRST](https://firstagency.com/)** | **[Roadshow Intern - Spring 2026](https://jobright.ai/jobs/info/6903dc84ff462851fefefde6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 21 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eed5ff462851feff0d28?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e8752fc72beb74cb31ed53?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eda8ff462851feff0c38?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern Winter/Spring](https://jobright.ai/jobs/info/68e8d6ce4ae21e3abbeee5c6?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Nov 21 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Narrative Design](https://jobright.ai/jobs/info/68e8ad4ac72beb74cb321322?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
 | ↳ | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
@@ -128,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Technical Animation Intern](https://jobright.ai/jobs/info/691eba9809cc522e8773bc11?utm_campaign=1053&utm_source=git)** | Montreal,Quebec,Canada | On Site | Nov 19 |
 | **[SitSense](https://www.sitsense.app)** | **[Content Fellow - Tiktok & Instagram](https://jobright.ai/jobs/info/691f1795a49a885af9a2c2c5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern-Meeting and Events](https://jobright.ai/jobs/info/691eab2c3f782d2f1afb656f?utm_campaign=1053&utm_source=git)** | US-WI-Milwaukee | On Site | Nov 19 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec50da49a885af9a2ab44?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 19 |
-| ↳ | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec2ec09cc522e8773bfdd?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec2ec09cc522e8773bfdd?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
+| ↳ | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec50da49a885af9a2ab44?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 19 |
 | **[Harvey Media](www.harveymediallc.com)** | **[Content Creator](https://jobright.ai/jobs/info/691e5e0009cc522e87739537?utm_campaign=1053&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Nov 19 |
 | **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/691e55d509cc522e8773913d?utm_campaign=1053&utm_source=git)** | Chelmsford, MA | Hybrid | Nov 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Spring 2026 - Chicago](https://jobright.ai/jobs/info/691e514c09cc522e87738e03?utm_campaign=1053&utm_source=git)** | IL, Chicago | On Site | Nov 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Menlo School](https://www.menloschool.org/)** | **[Arts Administration and Operations Internship](https://jobright.ai/jobs/info/692046fba49a885af9a37e90?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 19 |
 | **[PiñataFarms AI](https://pinatafarms.ai/)** | **[TikTok Content Creator Intern – Piñata Farms](https://jobright.ai/jobs/info/691d47d1bcdbf3560c9ef666?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Nov 18 |
 | **[Menlo School](https://www.menloschool.org/)** | **[Artist Liaison Internship](https://jobright.ai/jobs/info/691e1baa3f782d2f1afb1263?utm_campaign=1053&utm_source=git)** | Atherton, CA | On Site | Nov 18 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Nov 18 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERN SPRING '26 - WBKO](https://jobright.ai/jobs/info/691d42de0b7dff73415019fd?utm_campaign=1053&utm_source=git)** | Bowling Green, KY | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
