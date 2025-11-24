@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[Haircare & Styling Product Intern – Summer 2026](https://jobright.ai/jobs/info/68ceb98e846f0b04af67c865?utm_campaign=1053&utm_source=git)** | Darien, CT | Hybrid | Nov 24 |
+| **[Zipline](http://flyzipline.com)** | **[Video Production + Social Media Intern (New Grad)](https://jobright.ai/jobs/info/690806f9ff462851fe00c14b?utm_campaign=1053&utm_source=git)** | South San Francisco, CA | On Site | Nov 24 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Post Production](https://jobright.ai/jobs/info/689543044ed2ea559ca5478b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/692409c2c0cefa13343dcf84?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 23 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/692350027795cd460c83861d?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Nov 23 |
+| **[Enroot](https://enrootyourself.org/)** | **[Intern](https://jobright.ai/jobs/info/69245e5ac0cefa13343de4da?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 23 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Sports Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e9bba665768b6412b1efbb?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Nov 22 |
 | **[Biasly](http://www.biasly.com)** | **[Writing Intern - Politics](https://jobright.ai/jobs/info/69228fba7795cd460c83625f?utm_campaign=1053&utm_source=git)** | Sandy, UT | Remote | Nov 22 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e9c15bcfc08e4908912ad5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Nov 22 |
@@ -131,6 +134,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[[Summer 2026] Publications Internship](https://jobright.ai/jobs/info/691f40d8a49a885af9a2d672?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Minneapolis/St. Paul Business Journal (MSPBJ)](http://www.mspbj.com)** | **[Editorial intern - Spring Semester](https://jobright.ai/jobs/info/690ffd3b988c2b7b4ec4f935?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 20 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/691f65623f782d2f1afbb5f9?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Nov 20 |
+| **[DiasporaDNA Story Center](https://www.diasporadna.org/)** | **[Storifier in Residence: Multimedia Production Fellowship](https://jobright.ai/jobs/info/69246b30ec574f4265bb3962?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Remote | Nov 20 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Intern](https://jobright.ai/jobs/info/6902807600a1816c41e9ecce?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Weather Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6e4e4ae2b894b1d71f498?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Nov 20 |
 | ↳ | **[Digital News Intern- Spring, 2026](https://jobright.ai/jobs/info/68e750c61852e62f00824410?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Nov 20 |
@@ -139,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Intern / Golf Course Maintenance - Summer 2025](https://jobright.ai/jobs/info/69201953a49a885af9a36a66?utm_campaign=1053&utm_source=git)** | Frisco, TX | Hybrid | Nov 19 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Animation Intern](https://jobright.ai/jobs/info/691eba9809cc522e8773bc11?utm_campaign=1053&utm_source=git)** | Montreal,Quebec,Canada | On Site | Nov 19 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern-Meeting and Events](https://jobright.ai/jobs/info/691eab2c3f782d2f1afb656f?utm_campaign=1053&utm_source=git)** | US-WI-Milwaukee | On Site | Nov 19 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec2ec09cc522e8773bfdd?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
-| ↳ | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec50da49a885af9a2ab44?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 19 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec50da49a885af9a2ab44?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 19 |
+| ↳ | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec2ec09cc522e8773bfdd?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
 | **[Harvey Media](www.harveymediallc.com)** | **[Content Creator](https://jobright.ai/jobs/info/691e5e0009cc522e87739537?utm_campaign=1053&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Nov 19 |
 | **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/691e55d509cc522e8773913d?utm_campaign=1053&utm_source=git)** | Chelmsford, MA | Hybrid | Nov 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Spring 2026 - Chicago](https://jobright.ai/jobs/info/691e514c09cc522e87738e03?utm_campaign=1053&utm_source=git)** | IL, Chicago | On Site | Nov 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/691e175c09cc522e877361d8?utm_campaign=1053&utm_source=git)** | USA - MA - Chelmsford | Hybrid | Nov 19 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2026] Digital Content Internship](https://jobright.ai/jobs/info/691e15c4a49a885af9a24c5d?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Nov 19 |
 | ↳ | **[[Summer 2026] Publications Internship](https://jobright.ai/jobs/info/691e11e93f782d2f1afb0827?utm_campaign=1053&utm_source=git)** | New York City, NY | Hybrid | Nov 19 |
-| **[The Hybrid Geek - Hybrid Batteries. Engineered by Geeks. Trusted by Drivers.](http://TheHybridGeek.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/691b58ecbcdbf3560c9de14b?utm_campaign=1053&utm_source=git)** | Raleigh, NC | Hybrid | Nov 19 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WLS-TV (ABC7) News, Race & Culture Intern, Spring 2026](https://jobright.ai/jobs/info/691e16aa3f782d2f1afb0e5b?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Nov 19 |
-| **[David Zwirner](http://www.davidzwirner.com/)** | **[Museum & Institutional Partnerships Intern](https://jobright.ai/jobs/info/691e156709cc522e87735f3f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 19 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Production Intern: Spring](https://jobright.ai/jobs/info/68ec9b10d4b0106e703ea6b0?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
