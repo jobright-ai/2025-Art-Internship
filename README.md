@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stila Cosmetics](http://www.stilacosmetics.com)** | **[Beauty Content Creator & Social Media Intern](https://jobright.ai/jobs/info/6924cf43c0cefa13343e23b1?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 24 |
+| **[Golf Association of Philadelphia](https://gapgolf.org)** | **[GAP P.J. Boatwright Internship (Adaptive Golf)](https://jobright.ai/jobs/info/6924bee7ec574f4265bb67bd?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 24 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Intern, Camera Operations- Cleburne Railroaders](https://jobright.ai/jobs/info/6924b201ec574f4265bb5d60?utm_campaign=1053&utm_source=git)** | Cleburne, TX | On Site | Nov 24 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[WUSF News Intern (Administrative Clerk)](https://jobright.ai/jobs/info/6924a99cec574f4265bb580a?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Nov 24 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Television Entertainment Group Production, Development & Programming Internships – Summer 2026](https://jobright.ai/jobs/info/6924a686ec574f4265bb562e?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 24 |
 | ↳ | **[Universal Filmed Entertainment Group Film Technology AV/AR Internship – Summer 2026](https://jobright.ai/jobs/info/6924a307ec574f4265bb53da?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 24 |
 | **[Golf Association of Philadelphia](https://gapgolf.org)** | **[GAP P.J. Boatwright Internship (Championships)](https://jobright.ai/jobs/info/69249dd438cd5478a8d5be0b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 24 |
+| **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Intern, Press Box- Cleburne Railroaders](https://jobright.ai/jobs/info/6924c4f7c0cefa13343e1ac8?utm_campaign=1053&utm_source=git)** | Cleburne, TX | On Site | Nov 24 |
 | **[anthonyBarnum Public Relations](https://anthonybarnum.com/)** | **[Content Writing Intern](https://jobright.ai/jobs/info/69249be1c0cefa13343dfdeb?utm_campaign=1053&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Nov 24 |
 | **[Golf Association of Philadelphia](https://gapgolf.org)** | **[GAP P.J. Boatwright Internship (Member Services)](https://jobright.ai/jobs/info/6924993cec574f4265bb4d00?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 24 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/69249783ec574f4265bb4c21?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Nov 24 |
@@ -128,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Seneca Holdings](http://www.senecaholdings.com)** | **[Gameday Intern](https://jobright.ai/jobs/info/691f94e93f782d2f1afbe33e?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Nov 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Spring 2026 - New York](https://jobright.ai/jobs/info/691f970e09cc522e877436fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Grant Writing Intern](https://jobright.ai/jobs/info/691f6981a49a885af9a2f7c4?utm_campaign=1053&utm_source=git)** | Longwood,FL,US | Remote | Nov 20 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/6902cccd00a1816c41ea181b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 20 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/691b8e5022a2cb4b9bd1393c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 20 |
 | **[BeHeard Labs](https://gobeheard.com)** | **[Content Intern](https://jobright.ai/jobs/info/691f7f2009cc522e8774216d?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Video Producer](https://jobright.ai/jobs/info/691be1b522a2cb4b9bd17102?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Nov 20 |
 | **[Fairmount Center for the Arts](https://www.fairmountcenter.org)** | **[Content Production Intern - Winter/Spring 2026](https://jobright.ai/jobs/info/691f47d7a49a885af9a2db2f?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Nov 20 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Intern / Golf Course Maintenance - Summer 2025](https://jobright.ai/jobs/info/69201953a49a885af9a36a66?utm_campaign=1053&utm_source=git)** | Frisco, TX | Hybrid | Nov 19 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Animation Intern](https://jobright.ai/jobs/info/691eba9809cc522e8773bc11?utm_campaign=1053&utm_source=git)** | Montreal,Quebec,Canada | On Site | Nov 19 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern-Meeting and Events](https://jobright.ai/jobs/info/691eab2c3f782d2f1afb656f?utm_campaign=1053&utm_source=git)** | US-WI-Milwaukee | On Site | Nov 19 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec50da49a885af9a2ab44?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 19 |
-| ↳ | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec2ec09cc522e8773bfdd?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
-| **[Harvey Media](www.harveymediallc.com)** | **[Content Creator](https://jobright.ai/jobs/info/691e5e0009cc522e87739537?utm_campaign=1053&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Nov 19 |
-| **[Axis Communications](http://www.axis.com/)** | **[Events Production Intern (Fall/Winter)](https://jobright.ai/jobs/info/691e55d509cc522e8773913d?utm_campaign=1053&utm_source=git)** | Chelmsford, MA | Hybrid | Nov 19 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Spring 2026 - Chicago](https://jobright.ai/jobs/info/691e514c09cc522e87738e03?utm_campaign=1053&utm_source=git)** | IL, Chicago | On Site | Nov 19 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec2ec09cc522e8773bfdd?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
+| ↳ | **[Event Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec50da49a885af9a2ab44?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
