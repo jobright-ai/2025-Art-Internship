@@ -95,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC News Bureau Internships – Summer 2026](https://jobright.ai/jobs/info/6920a14100c9ee50eaec63c3?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 21 |
 | ↳ | **[NBC News Digital Editorial Internships – Summer 2026](https://jobright.ai/jobs/info/6920a291a49a885af9a3d8bf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | **[FIRST](https://firstagency.com/)** | **[Roadshow Intern - Spring 2026](https://jobright.ai/jobs/info/6903dc84ff462851fefefde6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 21 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eed5ff462851feff0d28?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e8752fc72beb74cb31ed53?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eda8ff462851feff0c38?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern Winter/Spring](https://jobright.ai/jobs/info/68e8d6ce4ae21e3abbeee5c6?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Nov 21 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Narrative Design](https://jobright.ai/jobs/info/68e8ad4ac72beb74cb321322?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
 | ↳ | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
@@ -115,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Seneca Holdings](http://www.senecaholdings.com)** | **[Gameday Intern](https://jobright.ai/jobs/info/691f94e93f782d2f1afbe33e?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Nov 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Spring 2026 - New York](https://jobright.ai/jobs/info/691f970e09cc522e877436fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Grant Writing Intern](https://jobright.ai/jobs/info/691f6981a49a885af9a2f7c4?utm_campaign=1053&utm_source=git)** | Longwood,FL,US | Remote | Nov 20 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/6902cccd00a1816c41ea181b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 20 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/691b8e5022a2cb4b9bd1393c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 20 |
 | **[BeHeard Labs](https://gobeheard.com)** | **[Content Intern](https://jobright.ai/jobs/info/691f7f2009cc522e8774216d?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
 | **[Fairmount Center for the Arts](https://www.fairmountcenter.org)** | **[Content Production Intern - Winter/Spring 2026](https://jobright.ai/jobs/info/691f47d7a49a885af9a2db2f?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Nov 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Local Stations Production & Editorial Internships – Summer 2026](https://jobright.ai/jobs/info/691f65f709cc522e8774093e?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
