@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – Archives Assistant](https://jobright.ai/jobs/info/691dd58e748c4e1301ec91e8?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 25 |
 | **[Retreat Magazine](http://www.retreatmag.com)** | **[Online Editorial Intern – Retreat Magazine](https://jobright.ai/jobs/info/69256b5ef0beb0723261d79d?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Cylus Music](https://www.cylusmusic.com/)** | **[Community & Artist Development Intern](https://jobright.ai/jobs/info/692533f4d47de4798ecce411?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment - Editing Intern](https://jobright.ai/jobs/info/692529ecf0beb0723261b572?utm_campaign=1053&utm_source=git)** | Malibu, CA | Hybrid | Nov 24 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[The Sporting News](http://www.sportingnews.com)** | **[Editorial Intern News - Spring 2026](https://jobright.ai/jobs/info/6920f7483f782d2f1afcd80a?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Nov 21 |
 | **[Intapp](http://www.intapp.com)** | **[Client Experience Intern](https://jobright.ai/jobs/info/6920f2943f782d2f1afcd496?utm_campaign=1053&utm_source=git)** | Charlotte, NC | Hybrid | Nov 21 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Executive and Artistic Director, The Soraya](https://jobright.ai/jobs/info/6920ee8100c9ee50eaec9757?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 21 |
+| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6920d1233f782d2f1afcbce1?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Nov 21 |
 | **[D.C. United](http://dcunited.com)** | **[Intern, Events & Operations - Spring 2026](https://jobright.ai/jobs/info/6920f205a49a885af9a40e83?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
-| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6921002100c9ee50eaecab0c?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Nov 21 |
 | **[Democratic Association of Secretaries of State](https://demsofstate.org/)** | **[2025 Video Editing & Digital Communications Intern](https://jobright.ai/jobs/info/6920c4dda49a885af9a3f041?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 21 |
 | **[American Greetings](http://americangreetings.com)** | **[Writing Internship (Hybrid) - Summer 2026](https://jobright.ai/jobs/info/6921c09cd1ec2c3565c45cf9?utm_campaign=1053&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WESH Intern](https://jobright.ai/jobs/info/6920a9e300c9ee50eaec68b2?utm_campaign=1053&utm_source=git)** | 1021 North Wymore Road, Winter Park, FL, 32789, US | On Site | Nov 21 |
@@ -122,12 +123,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC News Bureau Internships – Summer 2026](https://jobright.ai/jobs/info/6920a14100c9ee50eaec63c3?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 21 |
 | ↳ | **[NBC News Digital Editorial Internships – Summer 2026](https://jobright.ai/jobs/info/6920a291a49a885af9a3d8bf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | **[FIRST](https://firstagency.com/)** | **[Roadshow Intern - Spring 2026](https://jobright.ai/jobs/info/6903dc84ff462851fefefde6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 21 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eed5ff462851feff0d28?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e8752fc72beb74cb31ed53?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eda8ff462851feff0c38?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern Winter/Spring](https://jobright.ai/jobs/info/68e8d6ce4ae21e3abbeee5c6?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Nov 21 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Narrative Design](https://jobright.ai/jobs/info/68e8ad4ac72beb74cb321322?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
 | ↳ | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
-| **[Sum Pictures](https://www.sum.pictures/)** | **[Paid Intern](https://jobright.ai/jobs/info/6922e46e38cd5478a8d559f7?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 21 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Grant Writing Intern](https://jobright.ai/jobs/info/692061a8a49a885af9a39b05?utm_campaign=1053&utm_source=git)** | Longwood, FL | On Site | Nov 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69201ce909cc522e8774828e?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Nov 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Video Producer Intern](https://jobright.ai/jobs/info/691fe46d3f782d2f1afc1379?utm_campaign=1053&utm_source=git)** | In-Office | On Site | Nov 20 |
