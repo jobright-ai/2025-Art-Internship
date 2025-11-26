@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 26 |
+| **[Onovo](https://onovopharma.com/)** | **[TikTok Content Creator Intern](https://jobright.ai/jobs/info/6926dd5bf0beb07232626920?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Johnson, Mirmiran & Thompson](http://jmt.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/692681d4f0beb072326256ac?utm_campaign=1053&utm_source=git)** | Hunt Valley, MD | Hybrid | Nov 25 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Content Video Production](https://jobright.ai/jobs/info/69267e6bf0beb072326254e9?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Nov 25 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Events Department Intern](https://jobright.ai/jobs/info/6917982215b41563671795f8?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Nov 25 |
@@ -80,11 +82,10 @@ For a complete list, click the following sortable link below:
 | **[Human Rights Watch](http://www.hrw.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6925e6a727bf2f41a2c416a5?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 25 |
 | **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Intern: Editorial & Publications](https://jobright.ai/jobs/info/6925e2e027bf2f41a2c41478?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, US | On Site | Nov 25 |
 | **[Ovo Talent](https://ovotalent.com/)** | **[Filmmaker/Content Intern for Fast-Growing YouTube/TikTok Brand (Miami)](https://jobright.ai/jobs/info/6925d993f0beb0723261fb56?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 25 |
-| **[Menlo School](https://www.menloschool.org/)** | **[Arts Administration and Operations Internship](https://jobright.ai/jobs/info/6925d206f0beb0723261f7ba?utm_campaign=1053&utm_source=git)** | Atherton, CA | Hybrid | Nov 25 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Metro Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4ede81fdd1626d39ad9a?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
 | **[Voice in Sport™, VIS™](https://voiceinsport.com)** | **[VOICEINSPORT Creator Internship](https://jobright.ai/jobs/info/6925cd02d47de4798ecd1b89?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 25 |
 | **[Pierre Yovanovitch](https://www.pierreyovanovitch.com)** | **[Gallery Intern](https://jobright.ai/jobs/info/6925e4b127bf2f41a2c415a8?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Nov 25 |
-| **[etaily](https://etaily.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6925ae03f0beb0723261e851?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 25 |
+| **[Etaily](https://etaily.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6925ae03f0beb0723261e851?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 25 |
 | **[PR by the Book](https://prbythebook.com)** | **[Texas Lifestyle Magazine Editorial Intern \- Spring 2026](https://jobright.ai/jobs/info/6925ab80d47de4798ecd0d45?utm_campaign=1053&utm_source=git)** | Remote job | Remote | Nov 25 |
 | **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[COTA Spring Internship Events + Hospitality (Paid Part-Time)](https://jobright.ai/jobs/info/6925a91ed47de4798ecd0c42?utm_campaign=1053&utm_source=git)** | Del Valle,TX,US | On Site | Nov 25 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – Archives Assistant](https://jobright.ai/jobs/info/691dd58e748c4e1301ec91e8?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 25 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Museum Director (Summer)](https://jobright.ai/jobs/info/69250714c0cefa13343e59e5?utm_campaign=1053&utm_source=git)** | Lake City, SD | On Site | Nov 24 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Summer Camp Production Management - Downtown Paid Internship](https://jobright.ai/jobs/info/6924f43638cd5478a8d60835?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 24 |
 | **[The Moth](http://themoth.org)** | **[Spring 2026 Production Internship](https://jobright.ai/jobs/info/6924f37238cd5478a8d60717?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69250f4bc0cefa13343e60d2?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 24 |
-| ↳ | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6925192c38cd5478a8d624d9?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 24 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6925192c38cd5478a8d624d9?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 24 |
+| ↳ | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69250f4bc0cefa13343e60d2?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 24 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Content Video Production](https://jobright.ai/jobs/info/6926556ff0beb072326240e5?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
 | **[JPL](https://jpl.agency)** | **[Live Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6924da6138cd5478a8d5e9f9?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Nov 24 |
 | **[New York State Golf Association](http://www.nysga.org)** | **[USGA P.J. Boatwright Internship (NYSGA)](https://jobright.ai/jobs/info/6925a74df0beb0723261e5a1?utm_campaign=1053&utm_source=git)** | Jamesville, NY | On Site | Nov 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69201ce909cc522e8774828e?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Nov 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Video Producer Intern](https://jobright.ai/jobs/info/691fe46d3f782d2f1afc1379?utm_campaign=1053&utm_source=git)** | In-Office | On Site | Nov 20 |
 | **[KPI Marketing & Management](https://www.linkedin.com/company/108766394)** | **[PAID Body Sculpting Internship](https://jobright.ai/jobs/info/691fcdee09cc522e87745988?utm_campaign=1053&utm_source=git)** | McAllen, TX | On Site | Nov 20 |
-| **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/691fea7f3f782d2f1afc172a?utm_campaign=1053&utm_source=git)** | Montreal,Quebec,Canada | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
