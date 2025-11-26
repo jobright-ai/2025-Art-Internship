@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[David C Cook](https://davidccook.org)** | **[Video Production Intern DCC (Unpaid)](https://jobright.ai/jobs/info/68eef18246e5b153e5a6131a?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Nov 26 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 26 |
 | **[Onovo](https://onovopharma.com/)** | **[TikTok Content Creator Intern](https://jobright.ai/jobs/info/6926dd5bf0beb07232626920?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Johnson, Mirmiran & Thompson](http://jmt.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/692681d4f0beb072326256ac?utm_campaign=1053&utm_source=git)** | Hunt Valley, MD | Hybrid | Nov 25 |
@@ -91,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – Archives Assistant](https://jobright.ai/jobs/info/691dd58e748c4e1301ec91e8?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 25 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer](https://jobright.ai/jobs/info/6925247827bf2f41a2c3c641?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 24 |
 | **[Paramount](https://www.paramount.com)** | **[TV Programming Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69250b2438cd5478a8d61a3a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 24 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Museum Director (Summer)](https://jobright.ai/jobs/info/69250714c0cefa13343e59e5?utm_campaign=1053&utm_source=git)** | Lake City, SD | On Site | Nov 24 |
+| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Museum Director (Summer)](https://jobright.ai/jobs/info/69250714c0cefa13343e59e5?utm_campaign=1053&utm_source=git)** | Lake City, SD | On Site | Nov 24 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Summer Camp Production Management - Downtown Paid Internship](https://jobright.ai/jobs/info/6924f43638cd5478a8d60835?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 24 |
 | **[The Moth](http://themoth.org)** | **[Spring 2026 Production Internship](https://jobright.ai/jobs/info/6924f37238cd5478a8d60717?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6925192c38cd5478a8d624d9?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 24 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC News Bureau Internships – Summer 2026](https://jobright.ai/jobs/info/6920a14100c9ee50eaec63c3?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 21 |
 | ↳ | **[NBC News Digital Editorial Internships – Summer 2026](https://jobright.ai/jobs/info/6920a291a49a885af9a3d8bf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | **[FIRST](https://firstagency.com/)** | **[Roadshow Intern - Spring 2026](https://jobright.ai/jobs/info/6903dc84ff462851fefefde6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eed5ff462851feff0d28?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e8752fc72beb74cb31ed53?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eda8ff462851feff0c38?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern Winter/Spring](https://jobright.ai/jobs/info/68e8d6ce4ae21e3abbeee5c6?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Nov 21 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Narrative Design](https://jobright.ai/jobs/info/68e8ad4ac72beb74cb321322?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
 | ↳ | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Grant Writing Intern](https://jobright.ai/jobs/info/692061a8a49a885af9a39b05?utm_campaign=1053&utm_source=git)** | Longwood, FL | On Site | Nov 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69201ce909cc522e8774828e?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Nov 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Video Producer Intern](https://jobright.ai/jobs/info/691fe46d3f782d2f1afc1379?utm_campaign=1053&utm_source=git)** | In-Office | On Site | Nov 20 |
-| **[KPI Marketing & Management](https://www.linkedin.com/company/108766394)** | **[PAID Body Sculpting Internship](https://jobright.ai/jobs/info/691fcdee09cc522e87745988?utm_campaign=1053&utm_source=git)** | McAllen, TX | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
