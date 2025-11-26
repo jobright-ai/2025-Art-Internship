@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/69267184d47de4798ecd7598?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Nov 25 |
+| **[Marbles Kids Museum](https://www.marbleskidsmuseum.org/)** | **[Studio Art Intern](https://jobright.ai/jobs/info/69266bdad47de4798ecd7250?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Nov 25 |
+| **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[COTA Spring Internship Events + Hospitality (Paid Part-Time)](https://jobright.ai/jobs/info/69266a5f27bf2f41a2c45f4e?utm_campaign=1053&utm_source=git)** | Del Valle, TX | On Site | Nov 25 |
+| **[The Fashion Law](https://www.thefashionlaw.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/692662aff0beb07232624856?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 25 |
+| **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/69265f6ff0beb07232624664?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Nov 25 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69265310d47de4798ecd65f6?utm_campaign=1053&utm_source=git)** | LA Metro Area | Remote | Nov 25 |
 | **[American Greetings](http://americangreetings.com)** | **[Writing Internship (Hybrid) - Summer 2026](https://jobright.ai/jobs/info/6922843238cd5478a8d53f4f?utm_campaign=1053&utm_source=git)** | Westlake, OH | Hybrid | Nov 25 |
 | **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/692634cef0beb0723262318f?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Nov 25 |
@@ -140,8 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBC News Bureau Internships – Summer 2026](https://jobright.ai/jobs/info/6920a14100c9ee50eaec63c3?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 21 |
 | ↳ | **[NBC News Digital Editorial Internships – Summer 2026](https://jobright.ai/jobs/info/6920a291a49a885af9a3d8bf?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | **[FIRST](https://firstagency.com/)** | **[Roadshow Intern - Spring 2026](https://jobright.ai/jobs/info/6903dc84ff462851fefefde6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eed5ff462851feff0d28?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/68e8752fc72beb74cb31ed53?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Digital Intern](https://jobright.ai/jobs/info/6903eda8ff462851feff0c38?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern Winter/Spring](https://jobright.ai/jobs/info/68e8d6ce4ae21e3abbeee5c6?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Nov 21 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Narrative Design](https://jobright.ai/jobs/info/68e8ad4ac72beb74cb321322?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
 | ↳ | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/691fea7f3f782d2f1afc172a?utm_campaign=1053&utm_source=git)** | Montreal,Quebec,Canada | On Site | Nov 20 |
 | **[Arizona Golf Association](https://www.azgolf.org)** | **[USGA Boatwright Tournament Operations & Administration Intern](https://jobright.ai/jobs/info/691fe8cb3f782d2f1afc1615?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | On Site | Nov 20 |
 | **[Rochester Knighthawks](https://rochesterknighthawks.com)** | **[Communications Intern](https://jobright.ai/jobs/info/691f9c6e3f782d2f1afbe867?utm_campaign=1053&utm_source=git)** | Rochester, NY | Hybrid | Nov 20 |
-| **[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/)** | **[Paid Internship](https://jobright.ai/jobs/info/691f93433f782d2f1afbe169?utm_campaign=1053&utm_source=git)** | Cincinnati, OH, US | On Site | Nov 20 |
-| **[Haute Living](http://www.hauteliving.com)** | **[Haute Living Intern](https://jobright.ai/jobs/info/691f8b8d09cc522e87742bfa?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 20 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/691f79923f782d2f1afbca3e?utm_campaign=1053&utm_source=git)** | Somerville-MA | Remote | Nov 20 |
-| **[Seneca Holdings](http://www.senecaholdings.com)** | **[Gameday Intern](https://jobright.ai/jobs/info/691f94e93f782d2f1afbe33e?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Nov 20 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation News Internship Spring 2026 - New York](https://jobright.ai/jobs/info/691f970e09cc522e877436fd?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
