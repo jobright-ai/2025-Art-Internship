@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Speedway Motorsports](https://www.speedwaymotorsports.com/)** | **[Intern](https://jobright.ai/jobs/info/6928bb21f0beb0723263131d?utm_campaign=1053&utm_source=git)** | Concord, NC | On Site | Nov 27 |
+| **[The Princess Margaret Cancer Foundation](https://www.thepmcf.ca)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6928ad18d47de4798ece3745?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Videography Internship](https://jobright.ai/jobs/info/6928a937d47de4798ece369d?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Fall or Spring semester)- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/68e48454b99ec3563b0eb1a8?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Nov 27 |
 | **[Menlo School](https://www.menloschool.org/)** | **[Arts Administration and Operations Internship](https://jobright.ai/jobs/info/692871d791ceeb2e8a54587d?utm_campaign=1053&utm_source=git)** | Atherton, CA | Hybrid | Nov 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Culinary Operations](https://jobright.ai/jobs/info/68ccbd4b128dc347fd928d2b?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Nov 22 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e9c15bcfc08e4908912ad5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Nov 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/683d27a9e3502e937bcb1103?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Nov 22 |
-| **[Troon](http://www.troon.com/)** | **[The Colonial Life Charity Classic Championship Intern](https://jobright.ai/jobs/info/68e93d0965768b6412b19b8b?utm_campaign=1053&utm_source=git)** | Elgin, SC | On Site | Nov 22 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/6905aa2263502c0aded7cd4e?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
