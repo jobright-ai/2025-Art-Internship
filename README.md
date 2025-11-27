@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6927a86891ceeb2e8a5420a8?utm_campaign=1053&utm_source=git)** | 700 University Ave, Toronto, ON M5G 1X6, Canada | Hybrid | Nov 26 |
 | **[ease](easeradio.com)** | **[Spring 2026 Creative Development Podcast Internship](https://jobright.ai/jobs/info/69278602f0beb0723262b90c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | **[Los Angeles Dodgers](http://losangeles.dodgers.mlb.com)** | **[Baseball Strategy and Information Intern](https://jobright.ai/jobs/info/692780c6d47de4798ecddb00?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6927801af0beb0723262b419?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[GREENVILLE DRIVE, LLC](http://drive.milbstore.com)** | **[Full-Time Game Presentation Production Internship](https://jobright.ai/jobs/info/69276e8191ceeb2e8a53f37f?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Nov 26 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | Hybrid | Nov 26 |
 | **[Local](https://www.localmedia.co/)** | **[Edit Intern](https://jobright.ai/jobs/info/69273b7e91ceeb2e8a53d711?utm_campaign=1053&utm_source=git)** | Twin Cities Area | Remote | Nov 26 |
-| **[Menlo School](https://www.menloschool.org/)** | **[Arts Administration and Operations Internship](https://jobright.ai/jobs/info/69272856d47de4798ecda5f6?utm_campaign=1053&utm_source=git)** | Atherton, CA | Hybrid | Nov 26 |
 | **[Chil & Co. ](https://www.chilatl.com)** | **[Video Intern](https://jobright.ai/jobs/info/6927274ed47de4798ecda543?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Nov 26 |
 | **[David C Cook](https://davidccook.org)** | **[Digital Production Internship (Unpaid)](https://jobright.ai/jobs/info/68eeefede0db92422580ca9f?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Nov 26 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Nov 26 |
