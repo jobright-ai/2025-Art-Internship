@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[KATV Spring 2026 Intern](https://jobright.ai/jobs/info/690b9aff221b890c277f61e1?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Nov 27 |
 | **[Greater Public](https://www.greaterpublic.org)** | **[WUNC Embodied Youth Reporting Interns](https://jobright.ai/jobs/info/69281c41f0beb0723262f72c?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Nov 27 |
 | **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6927d12ff0beb0723262e536?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 26 |
 | **[Speedway Motorsports](https://www.speedwaymotorsports.com/)** | **[Intern](https://jobright.ai/jobs/info/6927b3f0d47de4798ecdfb96?utm_campaign=1053&utm_source=git)** | Concord, NC | On Site | Nov 26 |
@@ -90,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[David C Cook](https://davidccook.org)** | **[Video Production Intern DCC (Unpaid)](https://jobright.ai/jobs/info/68eef18246e5b153e5a6131a?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Nov 26 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 26 |
 | **[Onovo](https://onovopharma.com/)** | **[TikTok Content Creator Intern](https://jobright.ai/jobs/info/6926dd5bf0beb07232626920?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 26 |
+| **[San Francisco Chronicle](http://www.sfgate.com)** | **[Datebook Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4c746335d332361272d5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Nov 26 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Data Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4ad770b66e2345d3c329?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
 | **[Johnson, Mirmiran & Thompson](http://jmt.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/692681d4f0beb072326256ac?utm_campaign=1053&utm_source=git)** | Hunt Valley, MD | Hybrid | Nov 25 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Content Video Production](https://jobright.ai/jobs/info/69267e6bf0beb072326254e9?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Nov 25 |
@@ -125,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Museum Director (Summer)](https://jobright.ai/jobs/info/69250714c0cefa13343e59e5?utm_campaign=1053&utm_source=git)** | Lake City, SD | On Site | Nov 24 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Summer Camp Production Management - Downtown Paid Internship](https://jobright.ai/jobs/info/6924f43638cd5478a8d60835?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 24 |
 | **[The Moth](http://themoth.org)** | **[Spring 2026 Production Internship](https://jobright.ai/jobs/info/6924f37238cd5478a8d60717?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69250f4bc0cefa13343e60d2?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 24 |
-| ↳ | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6925192c38cd5478a8d624d9?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 24 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6925192c38cd5478a8d624d9?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 24 |
+| ↳ | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69250f4bc0cefa13343e60d2?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 24 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Content Video Production](https://jobright.ai/jobs/info/6926556ff0beb072326240e5?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
 | **[JPL](https://jpl.agency)** | **[Live Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6924da6138cd5478a8d5e9f9?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Nov 24 |
 | **[New York State Golf Association](http://www.nysga.org)** | **[USGA P.J. Boatwright Internship (NYSGA)](https://jobright.ai/jobs/info/6925a74df0beb0723261e5a1?utm_campaign=1053&utm_source=git)** | Jamesville, NY | On Site | Nov 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rochester Knighthawks](https://rochesterknighthawks.com)** | **[Gameday Intern](https://jobright.ai/jobs/info/6921710ed1ec2c3565c44411?utm_campaign=1053&utm_source=git)** | Rochester, NY | Hybrid | Nov 22 |
 | **[Pittsburgh Public Schools](https://www.pghschools.org)** | **[ADJUNCT VISUAL ARTS CERAMICS](https://jobright.ai/jobs/info/69215b8ca49a885af9a454af?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 21 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern](https://jobright.ai/jobs/info/6922a6c37795cd460c8368b9?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Nov 21 |
-| **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Arlington Event Operations Intern, 2026 Season](https://jobright.ai/jobs/info/692131e000c9ee50eaeccaca?utm_campaign=1053&utm_source=git)** | Arlington, TX | On Site | Nov 21 |
-| **[CharacterStrong](https://characterstrong.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/692035383f782d2f1afc3a8e?utm_campaign=1053&utm_source=git)** | Lake Tapps, WA | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
