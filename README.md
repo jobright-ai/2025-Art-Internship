@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Greater Public](https://www.greaterpublic.org)** | **[WUNC Embodied Youth Reporting Interns](https://jobright.ai/jobs/info/69281c41f0beb0723262f72c?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Nov 27 |
 | **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6927d12ff0beb0723262e536?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 26 |
 | **[Speedway Motorsports](https://www.speedwaymotorsports.com/)** | **[Intern](https://jobright.ai/jobs/info/6927b3f0d47de4798ecdfb96?utm_campaign=1053&utm_source=git)** | Concord, NC | On Site | Nov 26 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6927ab71d47de4798ecdf74d?utm_campaign=1053&utm_source=git)** | Grimes, IA | Hybrid | Nov 26 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6927659ed47de4798ecdc324?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6927645ed47de4798ecdc1d3?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69276414d47de4798ecdc17a?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 26 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/69275361d47de4798ecdb78c?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 26 |
 | **[GREENVILLE DRIVE, LLC](http://drive.milbstore.com)** | **[Full-Time Game Presentation Production Internship](https://jobright.ai/jobs/info/69276e8191ceeb2e8a53f37f?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Nov 26 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | Hybrid | Nov 26 |
 | **[Local](https://www.localmedia.co/)** | **[Edit Intern](https://jobright.ai/jobs/info/69273b7e91ceeb2e8a53d711?utm_campaign=1053&utm_source=git)** | Twin Cities Area | Remote | Nov 26 |
