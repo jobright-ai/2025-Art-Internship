@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Videography Internship](https://jobright.ai/jobs/info/6928a937d47de4798ece369d?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Fall or Spring semester)- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/68e48454b99ec3563b0eb1a8?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Nov 27 |
 | **[Menlo School](https://www.menloschool.org/)** | **[Arts Administration and Operations Internship](https://jobright.ai/jobs/info/692871d791ceeb2e8a54587d?utm_campaign=1053&utm_source=git)** | Atherton, CA | Hybrid | Nov 27 |
 | **[West Shore Home](http://westshorehome.com)** | **[Video Production Intern (Summer 2026)](https://jobright.ai/jobs/info/690c3ca2d046ab6061cec00a?utm_campaign=1053&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 27 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Museum Director (Summer)](https://jobright.ai/jobs/info/69250714c0cefa13343e59e5?utm_campaign=1053&utm_source=git)** | Lake City, SD | On Site | Nov 24 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Summer Camp Production Management - Downtown Paid Internship](https://jobright.ai/jobs/info/6924f43638cd5478a8d60835?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 24 |
 | **[The Moth](http://themoth.org)** | **[Spring 2026 Production Internship](https://jobright.ai/jobs/info/6924f37238cd5478a8d60717?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6925192c38cd5478a8d624d9?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 24 |
-| ↳ | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69250f4bc0cefa13343e60d2?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 24 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69250f4bc0cefa13343e60d2?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 24 |
+| ↳ | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6925192c38cd5478a8d624d9?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 24 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Content Video Production](https://jobright.ai/jobs/info/6926556ff0beb072326240e5?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
 | **[JPL](https://jpl.agency)** | **[Live Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6924da6138cd5478a8d5e9f9?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Nov 24 |
 | **[New York State Golf Association](http://www.nysga.org)** | **[USGA P.J. Boatwright Internship (NYSGA)](https://jobright.ai/jobs/info/6925a74df0beb0723261e5a1?utm_campaign=1053&utm_source=git)** | Jamesville, NY | On Site | Nov 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/683d27a9e3502e937bcb1103?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Nov 22 |
 | **[Troon](http://www.troon.com/)** | **[The Colonial Life Charity Classic Championship Intern](https://jobright.ai/jobs/info/68e93d0965768b6412b19b8b?utm_campaign=1053&utm_source=git)** | Elgin, SC | On Site | Nov 22 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/6905aa2263502c0aded7cd4e?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Nov 22 |
-| **[Rochester Knighthawks](https://rochesterknighthawks.com)** | **[Gameday Intern](https://jobright.ai/jobs/info/6921710ed1ec2c3565c44411?utm_campaign=1053&utm_source=git)** | Rochester, NY | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
