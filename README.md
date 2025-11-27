@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Fall or Spring semester)- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/68e48454b99ec3563b0eb1a8?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Nov 27 |
+| **[Menlo School](https://www.menloschool.org/)** | **[Arts Administration and Operations Internship](https://jobright.ai/jobs/info/692871d791ceeb2e8a54587d?utm_campaign=1053&utm_source=git)** | Atherton, CA | Hybrid | Nov 27 |
 | **[West Shore Home](http://westshorehome.com)** | **[Video Production Intern (Summer 2026)](https://jobright.ai/jobs/info/690c3ca2d046ab6061cec00a?utm_campaign=1053&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 27 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[KATV Spring 2026 Intern](https://jobright.ai/jobs/info/690b9aff221b890c277f61e1?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Nov 27 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Intern- Golf Maintenance](https://jobright.ai/jobs/info/68f0012e9821486c423c886a?utm_campaign=1053&utm_source=git)** | Ridgedale, MO | On Site | Nov 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Troon](http://www.troon.com/)** | **[The Colonial Life Charity Classic Championship Intern](https://jobright.ai/jobs/info/68e93d0965768b6412b19b8b?utm_campaign=1053&utm_source=git)** | Elgin, SC | On Site | Nov 22 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern](https://jobright.ai/jobs/info/6905aa2263502c0aded7cd4e?utm_campaign=1053&utm_source=git)** | Charleston, WV | On Site | Nov 22 |
 | **[Rochester Knighthawks](https://rochesterknighthawks.com)** | **[Gameday Intern](https://jobright.ai/jobs/info/6921710ed1ec2c3565c44411?utm_campaign=1053&utm_source=git)** | Rochester, NY | Hybrid | Nov 22 |
-| **[Pittsburgh Public Schools](https://www.pghschools.org)** | **[ADJUNCT VISUAL ARTS CERAMICS](https://jobright.ai/jobs/info/69215b8ca49a885af9a454af?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 21 |
-| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern](https://jobright.ai/jobs/info/6922a6c37795cd460c8368b9?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
