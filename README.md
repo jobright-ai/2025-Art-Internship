@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Artistic Assistant Paid Internship](https://jobright.ai/jobs/info/692900e991ceeb2e8a546c46?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 27 |
 | **[Speedway Motorsports](https://www.speedwaymotorsports.com/)** | **[Intern](https://jobright.ai/jobs/info/6928bb21f0beb0723263131d?utm_campaign=1053&utm_source=git)** | Concord, NC | On Site | Nov 27 |
 | **[The Princess Margaret Cancer Foundation](https://www.thepmcf.ca)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6928ad18d47de4798ece3745?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Videography Internship](https://jobright.ai/jobs/info/6928a937d47de4798ece369d?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Museum Director (Summer)](https://jobright.ai/jobs/info/69250714c0cefa13343e59e5?utm_campaign=1053&utm_source=git)** | Lake City, SD | On Site | Nov 24 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Summer Camp Production Management - Downtown Paid Internship](https://jobright.ai/jobs/info/6924f43638cd5478a8d60835?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 24 |
 | **[The Moth](http://themoth.org)** | **[Spring 2026 Production Internship](https://jobright.ai/jobs/info/6924f37238cd5478a8d60717?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6925192c38cd5478a8d624d9?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 24 |
-| ↳ | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69250f4bc0cefa13343e60d2?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 24 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69250f4bc0cefa13343e60d2?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 24 |
+| ↳ | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6925192c38cd5478a8d624d9?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 24 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Content Video Production](https://jobright.ai/jobs/info/6926556ff0beb072326240e5?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
 | **[JPL](https://jpl.agency)** | **[Live Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6924da6138cd5478a8d5e9f9?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Nov 24 |
 | **[New York State Golf Association](http://www.nysga.org)** | **[USGA P.J. Boatwright Internship (NYSGA)](https://jobright.ai/jobs/info/6925a74df0beb0723261e5a1?utm_campaign=1053&utm_source=git)** | Jamesville, NY | On Site | Nov 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/691fbc64a49a885af9a338b1?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Nov 22 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Culinary Operations](https://jobright.ai/jobs/info/68ccbd4b128dc347fd928d2b?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Nov 22 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e9c15bcfc08e4908912ad5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Nov 22 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/683d27a9e3502e937bcb1103?utm_campaign=1053&utm_source=git)** | Amarillo, TX | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
