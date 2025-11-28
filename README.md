@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/6929598066796e3028f8c0d1?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Artistic Assistant Paid Internship](https://jobright.ai/jobs/info/692900e991ceeb2e8a546c46?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 27 |
 | **[Speedway Motorsports](https://www.speedwaymotorsports.com/)** | **[Intern](https://jobright.ai/jobs/info/6928bb21f0beb0723263131d?utm_campaign=1053&utm_source=git)** | Concord, NC | On Site | Nov 27 |
 | **[The Princess Margaret Cancer Foundation](https://www.thepmcf.ca)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6928ad18d47de4798ece3745?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Biasly](http://www.biasly.com)** | **[Writing Intern - Politics](https://jobright.ai/jobs/info/69228fba7795cd460c83625f?utm_campaign=1053&utm_source=git)** | Sandy, UT | Remote | Nov 22 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Writing Intern](https://jobright.ai/jobs/info/691fbc64a49a885af9a338b1?utm_campaign=1053&utm_source=git)** | Somerville, MA | On Site | Nov 22 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Culinary Operations](https://jobright.ai/jobs/info/68ccbd4b128dc347fd928d2b?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Nov 22 |
-| **[San Francisco Chronicle](http://www.sfgate.com)** | **[Food & Wine Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e9c15bcfc08e4908912ad5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
