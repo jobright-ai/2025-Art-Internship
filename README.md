@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMG Academy](https://www.imgacademy.com)** | **[Events Department Intern](https://jobright.ai/jobs/info/6917982215b41563671795f8?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Nov 28 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern( Fall or Spring Semester) Hyatt Regency Bonita Springs Resort](https://jobright.ai/jobs/info/68e4adde1852e62f00808742?utm_campaign=1053&utm_source=git)** | Bonita Springs, FL | On Site | Nov 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring Unpaid Internship - News](https://jobright.ai/jobs/info/68d5be9a1f7fb2169ab13744?utm_campaign=1053&utm_source=git)** | Baton Rouge, LA | On Site | Nov 28 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Multimedia Intern: Spring](https://jobright.ai/jobs/info/690d2e64221b890c27804603?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Nov 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Production Internship](https://jobright.ai/jobs/info/6847361f79d64e83c0ac5e62?utm_campaign=1053&utm_source=git)** | Dayton, OH | On Site | Nov 28 |
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Nov 28 |
 | **[Congressional Country Club](https://www.ccclub.org)** | **[Seasonal 6 Month PGA Golf Internship](https://jobright.ai/jobs/info/692969c0fa28370be269465b?utm_campaign=1053&utm_source=git)** | Chevy Chase, MD | On Site | Nov 28 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/6929598066796e3028f8c0d1?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Artistic Assistant Paid Internship](https://jobright.ai/jobs/info/692900e991ceeb2e8a546c46?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 27 |
 | **[Speedway Motorsports](https://www.speedwaymotorsports.com/)** | **[Intern](https://jobright.ai/jobs/info/6928bb21f0beb0723263131d?utm_campaign=1053&utm_source=git)** | Concord, NC | On Site | Nov 27 |
 | **[The Princess Margaret Cancer Foundation](https://www.thepmcf.ca)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6928ad18d47de4798ece3745?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Data Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4ad770b66e2345d3c329?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
 | **[Johnson, Mirmiran & Thompson](http://jmt.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/692681d4f0beb072326256ac?utm_campaign=1053&utm_source=git)** | Hunt Valley, MD | Hybrid | Nov 25 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Content Video Production](https://jobright.ai/jobs/info/69267e6bf0beb072326254e9?utm_campaign=1053&utm_source=git)** | Austin, TX | On Site | Nov 25 |
-| **[IMG Academy](https://www.imgacademy.com)** | **[Events Department Intern](https://jobright.ai/jobs/info/6917982215b41563671795f8?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Nov 25 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/69267184d47de4798ecd7598?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Nov 25 |
 | **[Marbles Kids Museum](https://www.marbleskidsmuseum.org/)** | **[Studio Art Intern](https://jobright.ai/jobs/info/69266bdad47de4798ecd7250?utm_campaign=1053&utm_source=git)** | Raleigh, NC | On Site | Nov 25 |
 | **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[COTA Spring Internship Events + Hospitality (Paid Part-Time)](https://jobright.ai/jobs/info/69266a5f27bf2f41a2c45f4e?utm_campaign=1053&utm_source=git)** | Del Valle, TX | On Site | Nov 25 |
