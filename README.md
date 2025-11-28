@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WhoWhatWhy](http://whowhatwhy.org/)** | **[General Assignment Reporting Intern, Spring 2026](https://jobright.ai/jobs/info/692a0227fa28370be26960fe?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Nov 28 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Events Department Intern](https://jobright.ai/jobs/info/6917982215b41563671795f8?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Nov 28 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern( Fall or Spring Semester) Hyatt Regency Bonita Springs Resort](https://jobright.ai/jobs/info/68e4adde1852e62f00808742?utm_campaign=1053&utm_source=git)** | Bonita Springs, FL | On Site | Nov 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Haircare & Styling Product Intern – Summer 2026](https://jobright.ai/jobs/info/68ceb98e846f0b04af67c865?utm_campaign=1053&utm_source=git)** | Darien, CT | Hybrid | Nov 24 |
 | **[Zipline](https://www.zipline.com/)** | **[Video Production + Social Media Intern (New Grad)](https://jobright.ai/jobs/info/690806f9ff462851fe00c14b?utm_campaign=1053&utm_source=git)** | South San Francisco, CA | On Site | Nov 24 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Post Production](https://jobright.ai/jobs/info/689543044ed2ea559ca5478b?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| **[San Francisco Chronicle](http://www.sfgate.com)** | **[Sports Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e9bba665768b6412b1efbb?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
