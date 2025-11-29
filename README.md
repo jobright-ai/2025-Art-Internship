@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connection is Magic with Samson Shulman](http://connectionismagic.org)** | **[Top Podcast Guest Booker](https://jobright.ai/jobs/info/692a7a89fa28370be26972c0?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 28 |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[International Nigeria Journalist Intern](https://jobright.ai/jobs/info/692a716ffa28370be269721a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Summer Internship Experience](https://jobright.ai/jobs/info/692a5143fa28370be2696e0e?utm_campaign=1053&utm_source=git)** | Shelton, CT 06484 | On Site | Nov 28 |
 | **[Soccer Shots Los Angeles](http://www.soccershots.org/losangeles)** | **[Soccer Shots Summer Internship Experience](https://jobright.ai/jobs/info/692a30164c474121999cba3a?utm_campaign=1053&utm_source=git)** | Shelton, CT | On Site | Nov 28 |
 | **[WhoWhatWhy](http://whowhatwhy.org/)** | **[General Assignment Reporting Intern, Spring 2026](https://jobright.ai/jobs/info/692a0227fa28370be26960fe?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Nov 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golf Association of Philadelphia](https://gapgolf.org)** | **[GAP P.J. Boatwright Internship (Championships)](https://jobright.ai/jobs/info/69249dd438cd5478a8d5be0b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 24 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Intern, Press Box- Cleburne Railroaders](https://jobright.ai/jobs/info/6924c4f7c0cefa13343e1ac8?utm_campaign=1053&utm_source=git)** | Cleburne, TX | On Site | Nov 24 |
 | **[PreProPost](prepropo.st)** | **[Internship](https://jobright.ai/jobs/info/6925b551d47de4798ecd118c?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Hybrid | Nov 24 |
-| **[Golf Association of Philadelphia](https://gapgolf.org)** | **[GAP P.J. Boatwright Internship (Member Services)](https://jobright.ai/jobs/info/6924993cec574f4265bb4d00?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 24 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Television Entertainment Group Production, Development & Programming Internships – Summer 2026](https://jobright.ai/jobs/info/6924a501ec574f4265bb5575?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
