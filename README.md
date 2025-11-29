@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/692a97e7fa28370be2697473?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Connection is Magic with Samson Shulman](http://connectionismagic.org)** | **[Top Podcast Guest Booker](https://jobright.ai/jobs/info/692a7a89fa28370be26972c0?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 28 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[International Nigeria Journalist Intern](https://jobright.ai/jobs/info/692a716ffa28370be269721a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Summer Internship Experience](https://jobright.ai/jobs/info/692a5143fa28370be2696e0e?utm_campaign=1053&utm_source=git)** | Shelton, CT 06484 | On Site | Nov 28 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Nov 28 |
 | **[Congressional Country Club](https://www.ccclub.org)** | **[Seasonal 6 Month PGA Golf Internship](https://jobright.ai/jobs/info/692969c0fa28370be269465b?utm_campaign=1053&utm_source=git)** | Chevy Chase, MD | On Site | Nov 28 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Artistic Assistant Paid Internship](https://jobright.ai/jobs/info/692900e991ceeb2e8a546c46?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 27 |
+| **[Romatan Group](https://www.linkedin.com/company/110106257)** | **[Video Editing Intern](https://jobright.ai/jobs/info/692a91f666796e3028f8f26a?utm_campaign=1053&utm_source=git)** | Westford, MA | On Site | Nov 27 |
 | **[Speedway Motorsports](https://www.speedwaymotorsports.com/)** | **[Intern](https://jobright.ai/jobs/info/6928bb21f0beb0723263131d?utm_campaign=1053&utm_source=git)** | Concord, NC | On Site | Nov 27 |
 | **[The Princess Margaret Cancer Foundation](https://www.thepmcf.ca)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6928ad18d47de4798ece3745?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Videography Internship](https://jobright.ai/jobs/info/6928a937d47de4798ece369d?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
@@ -80,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Intern- Golf Maintenance](https://jobright.ai/jobs/info/68f0012e9821486c423c886a?utm_campaign=1053&utm_source=git)** | Ridgedale, MO | On Site | Nov 27 |
 | **[Greater Public](https://www.greaterpublic.org)** | **[WUNC Embodied Youth Reporting Interns](https://jobright.ai/jobs/info/69281c41f0beb0723262f72c?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Nov 27 |
 | **[Rocket Loans](http://www.rocketloans.com/)** | **[Video Producer Intern- Summer 2026](https://jobright.ai/jobs/info/68eec1fcd078b81ad160edf1?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Nov 26 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Production Intern (Spring)](https://jobright.ai/jobs/info/690a7fcabcccf20de59e3264?utm_campaign=1053&utm_source=git)** | High Point, NC | On Site | Nov 26 |
 | **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6927d12ff0beb0723262e536?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 26 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6927ab71d47de4798ecdf74d?utm_campaign=1053&utm_source=git)** | Grimes, IA | Hybrid | Nov 26 |
 | ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/6927aa49d47de4798ecdf6bb?utm_campaign=1053&utm_source=git)** | Helpful Smiles Technology Center (HST), James Street, Grimes, IA | Hybrid | Nov 26 |
@@ -122,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[PGA TOUR](http://www.pgatour.com)** | **[Intern - Event Services (Truist Championship)](https://jobright.ai/jobs/info/69267a9427bf2f41a2c4675d?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Nov 25 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69265310d47de4798ecd65f6?utm_campaign=1053&utm_source=git)** | LA Metro Area | Remote | Nov 25 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/692a5679fa28370be2696ea9?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Nov 25 |
+| **[American Greetings](http://americangreetings.com)** | **[Writing Internship (Hybrid) - Summer 2026](https://jobright.ai/jobs/info/6922843238cd5478a8d53f4f?utm_campaign=1053&utm_source=git)** | Westlake, OH | Hybrid | Nov 25 |
 | **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/692634cef0beb0723262318f?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Nov 25 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/6926331cd47de4798ecd572d?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 25 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Intern - Event Services (Truist Championship)](https://jobright.ai/jobs/info/69263014f0beb07232622f22?utm_campaign=1053&utm_source=git)** | USA-NC-Charlotte | On Site | Nov 25 |
@@ -129,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Intern: Collections and Exhibitions Registration](https://jobright.ai/jobs/info/6926308af0beb07232622f81?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 25 |
 | **[D.C. United](http://dcunited.com)** | **[Intern, Events & Operations](https://jobright.ai/jobs/info/69262dfb27bf2f41a2c44163?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Nov 25 |
 | **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Intern: Editorial & Publications](https://jobright.ai/jobs/info/69262d75f0beb07232622d64?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 25 |
-| **[doozi](https://doozi.app/)** | **[Content Creator & Travel Reviewer](https://jobright.ai/jobs/info/6926f2ead47de4798ecd92eb?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 25 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6925f98427bf2f41a2c420e5?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Nov 25 |
 | **[Human Rights Watch](http://www.hrw.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6925e6a727bf2f41a2c416a5?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 25 |
 | **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Intern: Editorial & Publications](https://jobright.ai/jobs/info/6925e2e027bf2f41a2c41478?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, US | On Site | Nov 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Intern, Camera Operations- Cleburne Railroaders](https://jobright.ai/jobs/info/6924b201ec574f4265bb5d60?utm_campaign=1053&utm_source=git)** | Cleburne, TX | On Site | Nov 24 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Television Entertainment Group Production, Development & Programming Internships – Summer 2026](https://jobright.ai/jobs/info/6924a686ec574f4265bb562e?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 24 |
 | ↳ | **[Universal Filmed Entertainment Group Film Technology AV/AR Internship – Summer 2026](https://jobright.ai/jobs/info/6924a307ec574f4265bb53da?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 24 |
-| **[Golf Association of Philadelphia](https://gapgolf.org)** | **[GAP P.J. Boatwright Internship (Championships)](https://jobright.ai/jobs/info/69249dd438cd5478a8d5be0b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 24 |
-| **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Intern, Press Box- Cleburne Railroaders](https://jobright.ai/jobs/info/6924c4f7c0cefa13343e1ac8?utm_campaign=1053&utm_source=git)** | Cleburne, TX | On Site | Nov 24 |
-| **[PreProPost](prepropo.st)** | **[Internship](https://jobright.ai/jobs/info/6925b551d47de4798ecd118c?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
