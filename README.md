@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAAS](http://www.aaas.org/)** | **[Diverse Voices in Science Journalism Intern](https://jobright.ai/jobs/info/690e733344146d3b6ec5458b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 29 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba24775f383274918644fe?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 29 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/692a97e7fa28370be2697473?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Connection is Magic with Samson Shulman](http://connectionismagic.org)** | **[Top Podcast Guest Booker](https://jobright.ai/jobs/info/692a7a89fa28370be26972c0?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 28 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[International Nigeria Journalist Intern](https://jobright.ai/jobs/info/692a716ffa28370be269721a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 28 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Nov 28 |
 | **[Congressional Country Club](https://www.ccclub.org)** | **[Seasonal 6 Month PGA Golf Internship](https://jobright.ai/jobs/info/692969c0fa28370be269465b?utm_campaign=1053&utm_source=git)** | Chevy Chase, MD | On Site | Nov 28 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Artistic Assistant Paid Internship](https://jobright.ai/jobs/info/692900e991ceeb2e8a546c46?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 27 |
-| **[Romatan Group](https://www.linkedin.com/company/110106257)** | **[Video Editing Intern](https://jobright.ai/jobs/info/692a91f666796e3028f8f26a?utm_campaign=1053&utm_source=git)** | Westford, MA | On Site | Nov 27 |
 | **[The Princess Margaret Cancer Foundation](https://www.thepmcf.ca)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6928ad18d47de4798ece3745?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Videography Internship](https://jobright.ai/jobs/info/6928a937d47de4798ece369d?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Fall or Spring semester)- JW Marriott Marco Island Resort](https://jobright.ai/jobs/info/68e48454b99ec3563b0eb1a8?utm_campaign=1053&utm_source=git)** | Marco Island, FL | On Site | Nov 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Television Entertainment Group Production, Development & Programming Internships – Summer 2026](https://jobright.ai/jobs/info/6924a686ec574f4265bb562e?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 24 |
 | ↳ | **[Universal Filmed Entertainment Group Film Technology AV/AR Internship – Summer 2026](https://jobright.ai/jobs/info/6924a307ec574f4265bb53da?utm_campaign=1053&utm_source=git)** | Universal City, CA | On Site | Nov 24 |
 | **[Golf Association of Philadelphia](https://gapgolf.org)** | **[GAP P.J. Boatwright Internship (Championships)](https://jobright.ai/jobs/info/69249dd438cd5478a8d5be0b?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 24 |
-| **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Intern, Press Box- Cleburne Railroaders](https://jobright.ai/jobs/info/6924c4f7c0cefa13343e1ac8?utm_campaign=1053&utm_source=git)** | Cleburne, TX | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
