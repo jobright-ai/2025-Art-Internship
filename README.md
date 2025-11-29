@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[WUSF News Intern (Administrative Clerk)](https://jobright.ai/jobs/info/692b38ae4c474121999cd76c?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Medical Writing Operations Clinical Editor Intern](https://jobright.ai/jobs/info/690ec631221b890c27811972?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Nov 29 |
 | **[Starter Stack AI](https://www.starterstack.ai/)** | **[Podcast Producer Intern](https://jobright.ai/jobs/info/692b2ba4fa28370be26985d9?utm_campaign=1053&utm_source=git)** | Atlanta Metro | On Site | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Medical Writing Operations Clinical Editor Intern](https://jobright.ai/jobs/info/690ecc9144146d3b6ec57ec5?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 29 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Soccer Shots Southwest Connecticut](https://www.soccershots.com/swct/)** | **[Soccer Shots Summer Internship Experience](https://jobright.ai/jobs/info/692ae9404c474121999ccdb8?utm_campaign=1053&utm_source=git)** | Shelton, CT | On Site | Nov 29 |
 | **[AAAS](http://www.aaas.org/)** | **[Diverse Voices in Science Journalism Intern](https://jobright.ai/jobs/info/690e733344146d3b6ec5458b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Nov 29 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Content Intern](https://jobright.ai/jobs/info/68ba24775f383274918644fe?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 29 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/692a97e7fa28370be2697473?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Connection is Magic with Samson Shulman](http://connectionismagic.org)** | **[Top Podcast Guest Booker](https://jobright.ai/jobs/info/692a7a89fa28370be26972c0?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 28 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[International Nigeria Journalist Intern](https://jobright.ai/jobs/info/692a716ffa28370be269721a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Summer Internship Experience](https://jobright.ai/jobs/info/692a5143fa28370be2696e0e?utm_campaign=1053&utm_source=git)** | Shelton, CT 06484 | On Site | Nov 28 |
