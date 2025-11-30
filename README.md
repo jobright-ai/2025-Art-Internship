@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Omnichannel Internship](https://jobright.ai/jobs/info/69170926370fde633d07c817?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d712d0894705799a2f05b5?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 30 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71459894705799a2f086a?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 30 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Animation Intern](https://jobright.ai/jobs/info/691712f53ea85638ae1c77df?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Nov 30 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/68f2945b76a51a4307bc4ffe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 30 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/692be9c0fa28370be269a40b?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 29 |
@@ -117,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[David C Cook](https://davidccook.org)** | **[Digital Production Internship (Unpaid)](https://jobright.ai/jobs/info/68eeefede0db92422580ca9f?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Nov 26 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Nov 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Broadcast Reporting Intern (Spring)](https://jobright.ai/jobs/info/690a80f14a1b456627b0891f?utm_campaign=1053&utm_source=git)** | High Point, NC | On Site | Nov 26 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Bartley Fellowship - Book Reviews Internship](https://jobright.ai/jobs/info/68d1ccf78c62e63bc7fcfba9?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Winsupply](http://www.winsupplyinc.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/68b7112ff4e41a61efd95649?utm_campaign=1053&utm_source=git)** | Moraine, OH | On Site | Nov 26 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Bartley Fellowship - Arts Criticism Internship](https://jobright.ai/jobs/info/68d7834f267b154f9a2db58b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Nov 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Summer Camp Production Management - Downtown Paid Internship](https://jobright.ai/jobs/info/6924f43638cd5478a8d60835?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Nov 24 |
 | **[The Moth](http://themoth.org)** | **[Spring 2026 Production Internship](https://jobright.ai/jobs/info/6924f37238cd5478a8d60717?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6925192c38cd5478a8d624d9?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 24 |
+| ↳ | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69250f4bc0cefa13343e60d2?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
