@@ -95,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6927ab71d47de4798ecdf74d?utm_campaign=1053&utm_source=git)** | Grimes, IA | Hybrid | Nov 26 |
 | ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/6927aa49d47de4798ecdf6bb?utm_campaign=1053&utm_source=git)** | Helpful Smiles Technology Center (HST), James Street, Grimes, IA | Hybrid | Nov 26 |
 | **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6927a86891ceeb2e8a5420a8?utm_campaign=1053&utm_source=git)** | 700 University Ave, Toronto, ON M5G 1X6, Canada | Hybrid | Nov 26 |
-| **[ease](easeradio.com)** | **[Spring 2026 Creative Development Podcast Internship](https://jobright.ai/jobs/info/69278602f0beb0723262b90c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | **[Los Angeles Dodgers](http://losangeles.dodgers.mlb.com)** | **[Baseball Strategy and Information Intern](https://jobright.ai/jobs/info/692780c6d47de4798ecddb00?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6927801af0beb0723262b419?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Broadcast Production Internship](https://jobright.ai/jobs/info/69276e0791ceeb2e8a53f314?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Nov 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69250f4bc0cefa13343e60d2?utm_campaign=1053&utm_source=git)** | US-TX-Austin | On Site | Nov 24 |
 | ↳ | **[Programming/Booking Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6925192c38cd5478a8d624d9?utm_campaign=1053&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 24 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Content Video Production](https://jobright.ai/jobs/info/6926556ff0beb072326240e5?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
+| **[JPL](https://jpl.agency)** | **[Live Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6924da6138cd5478a8d5e9f9?utm_campaign=1053&utm_source=git)** | Harrisburg, PA | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
