@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/692d8109fa28370be269d1f2?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/692d7d4f4c474121999d20bd?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Dec 01 |
+| ↳ | **[LN Concerts, Talent Team Intern](https://jobright.ai/jobs/info/692d781f4c474121999d2009?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Dec 01 |
+| ↳ | **[LN Concerts, Social Project Intern](https://jobright.ai/jobs/info/692d76a966796e3028f94cf9?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 01 |
+| ↳ | **[LN Concerts, Talent Team Intern](https://jobright.ai/jobs/info/692d73d04c474121999d1f03?utm_campaign=1053&utm_source=git)** | Home Acres, SC | On Site | Dec 01 |
+| ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692d72ec66796e3028f94c6f?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 01 |
+| ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692d72e166796e3028f94c69?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Video Asset Management Graduate Intern, Summer 2026](https://jobright.ai/jobs/info/692d5fe666796e3028f94752?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Social Project Intern](https://jobright.ai/jobs/info/692d5c454c474121999d1932?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | On Site | Dec 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Creative Development Intern, Summer 2026](https://jobright.ai/jobs/info/692d57ccfa28370be269c893?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Dec 01 |
@@ -68,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Basketbal Video Coordinator Intern](https://jobright.ai/jobs/info/692cde3966796e3028f9377c?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Nov 30 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Live Event Coordination Internship](https://jobright.ai/jobs/info/692c8a6ffa28370be269b301?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | On Site | Nov 30 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Omnichannel Internship](https://jobright.ai/jobs/info/69170926370fde633d07c817?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71459894705799a2f086a?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 30 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d713f1894705799a2f07dc?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 30 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Animation Intern](https://jobright.ai/jobs/info/691712f53ea85638ae1c77df?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Nov 30 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/68f2945b76a51a4307bc4ffe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/692bde7d66796e3028f91f09?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Nov 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6925f98427bf2f41a2c420e5?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Nov 25 |
 | **[Human Rights Watch](http://www.hrw.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6925e6a727bf2f41a2c416a5?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Nov 25 |
 | **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Intern: Editorial & Publications](https://jobright.ai/jobs/info/6925e2e027bf2f41a2c41478?utm_campaign=1053&utm_source=git)** | Philadelphia, PA, US | On Site | Nov 25 |
-| **[Ovo Talent](https://ovotalent.com/)** | **[Filmmaker/Content Intern for Fast-Growing YouTube/TikTok Brand (Miami)](https://jobright.ai/jobs/info/6925d993f0beb0723261fb56?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Nov 25 |
-| **[San Francisco Chronicle](http://www.sfgate.com)** | **[Metro Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4ede81fdd1626d39ad9a?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
-| **[Voice in Sport™, VIS™](https://voiceinsport.com)** | **[VOICEINSPORT Creator Internship](https://jobright.ai/jobs/info/6925cd02d47de4798ecd1b89?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 25 |
-| **[Pierre Yovanovitch](https://www.pierreyovanovitch.com)** | **[Gallery Intern](https://jobright.ai/jobs/info/6925e4b127bf2f41a2c415a8?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Nov 25 |
-| **[Etaily](https://etaily.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6925ae03f0beb0723261e851?utm_campaign=1053&utm_source=git)** | United States | Remote | Nov 25 |
-| **[PR by the Book](https://prbythebook.com)** | **[Texas Lifestyle Magazine Editorial Intern \- Spring 2026](https://jobright.ai/jobs/info/6925ab80d47de4798ecd0d45?utm_campaign=1053&utm_source=git)** | Remote job | Remote | Nov 25 |
-| **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[COTA Spring Internship Events + Hospitality (Paid Part-Time)](https://jobright.ai/jobs/info/6925a91ed47de4798ecd0c42?utm_campaign=1053&utm_source=git)** | Del Valle,TX,US | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
