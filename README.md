@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Celt Salt by Nature’s Pantry](Www.CeltSalts.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/692e0407ef4b48533d13ba0e?utm_campaign=1053&utm_source=git)** | Downey, CA | Hybrid | Dec 01 |
+| **[anthonyBarnum Public Relations](https://anthonybarnum.com/)** | **[Content Writing Intern](https://jobright.ai/jobs/info/692e00d8fa28370be26a0318?utm_campaign=1053&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Dec 01 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBCU Local Bay Area - Video Editor Internship - Summer 2026](https://jobright.ai/jobs/info/692df7edef4b48533d13b2c6?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | Dec 01 |
 | **[Landmark Educational Tours ](https://LandmarkEducationalTours.com)** | **[Hospitality Event Management Internship](https://jobright.ai/jobs/info/692de60afa28370be269f3f2?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 01 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Programming Internship - Summer 2026](https://jobright.ai/jobs/info/692ddcb14c474121999d3e39?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
 | ↳ | **[NBCU Local Bay Area - Video Editor Internship - Summer 2026](https://jobright.ai/jobs/info/692dd86c4c474121999d3c31?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
@@ -87,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Basketbal Video Coordinator Intern](https://jobright.ai/jobs/info/692cde3966796e3028f9377c?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Nov 30 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Live Event Coordination Internship](https://jobright.ai/jobs/info/692c8a6ffa28370be269b301?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | On Site | Nov 30 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Omnichannel Internship](https://jobright.ai/jobs/info/69170926370fde633d07c817?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d712d0894705799a2f05b5?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 30 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 30 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Animation Intern](https://jobright.ai/jobs/info/691712f53ea85638ae1c77df?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Nov 30 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/68f2945b76a51a4307bc4ffe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[WUSF News Intern (Administrative Clerk)](https://jobright.ai/jobs/info/692b38ae4c474121999cd76c?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Nov 29 |
@@ -121,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[West Shore Home](http://westshorehome.com)** | **[Video Production Intern (Summer 2026)](https://jobright.ai/jobs/info/690c3ca2d046ab6061cec00a?utm_campaign=1053&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 27 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[KATV Spring 2026 Intern](https://jobright.ai/jobs/info/690b9aff221b890c277f61e1?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Nov 27 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Intern- Golf Maintenance](https://jobright.ai/jobs/info/68f0012e9821486c423c886a?utm_campaign=1053&utm_source=git)** | Ridgedale, MO | On Site | Nov 27 |
-| **[Greater Public](https://www.greaterpublic.org)** | **[WUNC Embodied Youth Reporting Interns](https://jobright.ai/jobs/info/69281c41f0beb0723262f72c?utm_campaign=1053&utm_source=git)** | Durham, NC | On Site | Nov 27 |
 | **[Rocket Loans](http://www.rocketloans.com/)** | **[Video Producer Intern- Summer 2026](https://jobright.ai/jobs/info/68eec1fcd078b81ad160edf1?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Nov 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Production Intern (Spring)](https://jobright.ai/jobs/info/690a7fcabcccf20de59e3264?utm_campaign=1053&utm_source=git)** | High Point, NC | On Site | Nov 26 |
 | **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6927d12ff0beb0723262e536?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[COTA Spring Internship Events + Hospitality (Paid Part-Time)](https://jobright.ai/jobs/info/69266a5f27bf2f41a2c45f4e?utm_campaign=1053&utm_source=git)** | Del Valle, TX | On Site | Nov 25 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/69265f6ff0beb07232624664?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Nov 25 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Intern - Event Services (Truist Championship)](https://jobright.ai/jobs/info/69267a9427bf2f41a2c4675d?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Nov 25 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/692a5679fa28370be2696ea9?utm_campaign=1053&utm_source=git)** | Woodland Hills, CA | Hybrid | Nov 25 |
-| **[The Untitled Space](https://untitled-space.com)** | **[Art Gallery Internship](https://jobright.ai/jobs/info/692634cef0beb0723262318f?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
