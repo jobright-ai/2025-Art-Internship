@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United States Golf Association (USGA)](http://www.usga.org)** | **[2026 Mass Golf P.J. Boatwright Championships Intern (3+ Months)](https://jobright.ai/jobs/info/692e8f99fa28370be26a52c3?utm_campaign=1053&utm_source=git)** | Norton, MA 02766, USA | On Site | Dec 01 |
+| **[VX Media](https://www.vxmedia.co)** | **[Video Editor Intern](https://jobright.ai/jobs/info/692e87844c474121999d9f9a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 01 |
 | **[Centric Brands](https://centricbrands.com)** | **[Licensing Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e70bafa28370be26a49e4?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB News Intern](https://jobright.ai/jobs/info/692e5c124c474121999d8c89?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Dec 01 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Dinners, Galas, Golf Events Support (Memphis, TN)](https://jobright.ai/jobs/info/691add6b45fb6f5ead8ae687?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Dec 01 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6927d12ff0beb0723262e536?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 26 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6927aa49d47de4798ecdf6bb?utm_campaign=1053&utm_source=git)** | Helpful Smiles Technology Center (HST), James Street, Grimes, IA | Hybrid | Nov 26 |
 | **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6927a86891ceeb2e8a5420a8?utm_campaign=1053&utm_source=git)** | 700 University Ave, Toronto, ON M5G 1X6, Canada | Hybrid | Nov 26 |
-| **[American Greetings](http://americangreetings.com)** | **[Writing Internship (Hybrid) - Summer 2026](https://jobright.ai/jobs/info/6922843238cd5478a8d53f4f?utm_campaign=1053&utm_source=git)** | Westlake, OH | Hybrid | Nov 26 |
 | **[Los Angeles Dodgers](http://losangeles.dodgers.mlb.com)** | **[Baseball Strategy and Information Intern](https://jobright.ai/jobs/info/692780c6d47de4798ecddb00?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | ↳ | **[Production Intern](https://jobright.ai/jobs/info/6927801af0beb0723262b419?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Broadcast Production Internship](https://jobright.ai/jobs/info/69276e0791ceeb2e8a53f314?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Nov 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Nov 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Broadcast Reporting Intern (Spring)](https://jobright.ai/jobs/info/690a80f14a1b456627b0891f?utm_campaign=1053&utm_source=git)** | High Point, NC | On Site | Nov 26 |
 | **[Winsupply](http://www.winsupplyinc.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/68b7112ff4e41a61efd95649?utm_campaign=1053&utm_source=git)** | Moraine, OH | On Site | Nov 26 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
