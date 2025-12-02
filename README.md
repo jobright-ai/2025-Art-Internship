@@ -58,7 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Street Team Intern](https://jobright.ai/jobs/info/692f3c76ef4b48533d1438d3?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 02 |
-| ↳ | **[Match Production Intern](https://jobright.ai/jobs/info/692f1685ef4b48533d142a36?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 02 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/692f587d4c474121999de00d?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 02 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/692f4331ef4b48533d143c43?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Dec 02 |
+| **[FC Cincinnati](http://www.fccincinnati.com)** | **[Match Production Intern](https://jobright.ai/jobs/info/692f1685ef4b48533d142a36?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 02 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[GSD Communications Paid Intern](https://jobright.ai/jobs/info/692f2997ef4b48533d14327e?utm_campaign=1053&utm_source=git)** | Riverton, UT | On Site | Dec 02 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Lucasfilm Video Asset Management Graduate Intern, Summer 2026](https://jobright.ai/jobs/info/692ee215fa28370be26a6365?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Video Asset Management Graduate Intern, Summer 2026](https://jobright.ai/jobs/info/692edbd04c474121999db132?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/692766e0f0beb07232629d03?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/692765f591ceeb2e8a53edb9?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6927659ed47de4798ecdc324?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6927645ed47de4798ecdc1d3?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69276414d47de4798ecdc17a?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
