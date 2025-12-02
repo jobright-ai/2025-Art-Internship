@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centric Brands](https://centricbrands.com)** | **[Licensing Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e70bafa28370be26a49e4?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB News Intern](https://jobright.ai/jobs/info/692e5c124c474121999d8c89?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Dec 01 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Dinners, Galas, Golf Events Support (Memphis, TN)](https://jobright.ai/jobs/info/691add6b45fb6f5ead8ae687?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Dec 01 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Photography & Videography](https://jobright.ai/jobs/info/692e360f4c474121999d73b7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 01 |
@@ -98,9 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/692d2b10fa28370be269c14f?utm_campaign=1053&utm_source=git)** | Cambridge, MA, USA | On Site | Nov 30 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Oral History Intern](https://jobright.ai/jobs/info/692d2b074c474121999d1147?utm_campaign=1053&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Basketbal Video Coordinator Intern](https://jobright.ai/jobs/info/692cde3966796e3028f9377c?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Nov 30 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Live Event Coordination Internship](https://jobright.ai/jobs/info/692c8a6ffa28370be269b301?utm_campaign=1053&utm_source=git)** | Greater Toronto Area, Canada | On Site | Nov 30 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Omnichannel Internship](https://jobright.ai/jobs/info/69170926370fde633d07c817?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 30 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d713f1894705799a2f07dc?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 30 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Animation Intern](https://jobright.ai/jobs/info/691712f53ea85638ae1c77df?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Nov 30 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/68f2945b76a51a4307bc4ffe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[WUSF News Intern (Administrative Clerk)](https://jobright.ai/jobs/info/692b38ae4c474121999cd76c?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Nov 29 |
