@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roc Nation](http://rocnation.com)** | **[Spring 2026 Intern - Content & Podcasts](https://jobright.ai/jobs/info/68f6c2449a63986de758222c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 02 |
+| **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Lucasfilm Video Asset Management Graduate Intern, Summer 2026](https://jobright.ai/jobs/info/692ee215fa28370be26a6365?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 02 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Video Asset Management Graduate Intern, Summer 2026](https://jobright.ai/jobs/info/692edbd04c474121999db132?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 02 |
+| **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Lucasfilm Creative Development Intern, Summer 2026](https://jobright.ai/jobs/info/692eecabfa28370be26a66a6?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 02 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/692ec523ef4b48533d1412d3?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 02 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[GSD Communications Paid Intern](https://jobright.ai/jobs/info/692ebab74c474121999daa59?utm_campaign=1053&utm_source=git)** | Riverton, UT | Hybrid | Dec 02 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2026 Mass Golf P.J. Boatwright Championships Intern (3+ Months)](https://jobright.ai/jobs/info/692e8f99fa28370be26a52c3?utm_campaign=1053&utm_source=git)** | Norton, MA 02766, USA | On Site | Dec 01 |
@@ -78,6 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NBCU Local Bay Area - Programming Internship - Summer 2026](https://jobright.ai/jobs/info/692e15d8fa28370be26a10c4?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | Hybrid | Dec 01 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Programming Internship - Summer 2026](https://jobright.ai/jobs/info/692ddcb14c474121999d3e39?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
 | ↳ | **[NBCU Local Bay Area - Video Editor Internship - Summer 2026](https://jobright.ai/jobs/info/692dd86c4c474121999d3c31?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/692ed3bafa28370be26a6168?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Dec 01 |
 | **[Civic Media](https://civicmedia.us)** | **[Radio Intern](https://jobright.ai/jobs/info/692dbd69fa28370be269e20b?utm_campaign=1053&utm_source=git)** | Richland Center, WI | On Site | Dec 01 |
 | **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Multi-Media Podcast Editing Intern](https://jobright.ai/jobs/info/692dbd5ffa28370be269e207?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Graphis Inc.](https://www.graphis.com/)** | **[Editorial Intern](https://jobright.ai/jobs/info/692dbab64c474121999d2fc5?utm_campaign=1053&utm_source=git)** | New York, NY | Remote | Dec 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/692765f591ceeb2e8a53edb9?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6927659ed47de4798ecdc324?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6927645ed47de4798ecdc1d3?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69276414d47de4798ecdc17a?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Nov 26 |
-| **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Game Presentation Production Internship](https://jobright.ai/jobs/info/69276e8191ceeb2e8a53f37f?utm_campaign=1053&utm_source=git)** | Greenville, SC | On Site | Nov 26 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | Hybrid | Nov 26 |
-| **[David C Cook](https://davidccook.org)** | **[Digital Production Internship (Unpaid)](https://jobright.ai/jobs/info/68eeefede0db92422580ca9f?utm_campaign=1053&utm_source=git)** | Franklin, TN | On Site | Nov 26 |
-| **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
