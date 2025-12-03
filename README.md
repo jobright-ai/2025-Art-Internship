@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6921002100c9ee50eaecab0c?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Dec 02 |
+| **[FC Cincinnati](http://www.fccincinnati.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/692f62034c474121999de676?utm_campaign=1053&utm_source=git)** | Milford, OH | On Site | Dec 02 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Content Management Intern: ATL - Spring 2026](https://jobright.ai/jobs/info/692f72f1fa28370be26aa361?utm_campaign=1053&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Dec 02 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Street Team Intern](https://jobright.ai/jobs/info/692f3c76ef4b48533d1438d3?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 02 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/692f587d4c474121999de00d?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 02 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/692f4331ef4b48533d143c43?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Dec 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/692769a8f0beb07232629fb7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6927678af0beb07232629db4?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Nov 26 |
 | **[Los Angeles Dodgers](http://losangeles.dodgers.mlb.com)** | **[Publications Intern](https://jobright.ai/jobs/info/6927675df0beb07232629d7f?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Nov 26 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/692766e0f0beb07232629d03?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/692765f591ceeb2e8a53edb9?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6927659ed47de4798ecdc324?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
