@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6930031a4c474121999e39fd?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Dec 03 |
+| **[Soni Ram Music](https://sonirammusic.in/)** | **[Web Content Writer](https://jobright.ai/jobs/info/69301f7cef4b48533d14a7bc?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 03 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692fe1d6ef4b48533d1495fe?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 02 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Arena Administrative Events (Part-Time/Seasonal)](https://jobright.ai/jobs/info/692f9a3bfa28370be26abede?utm_campaign=1053&utm_source=git)** | Fairfax, VA | Hybrid | Dec 02 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Media Intern](https://jobright.ai/jobs/info/692f94bb4c474121999e0a65?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Dec 02 |
@@ -119,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Oral History Intern](https://jobright.ai/jobs/info/692d2b074c474121999d1147?utm_campaign=1053&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Basketbal Video Coordinator Intern](https://jobright.ai/jobs/info/692cde3966796e3028f9377c?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Nov 30 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Omnichannel Internship](https://jobright.ai/jobs/info/69170926370fde633d07c817?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 30 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d713f1894705799a2f07dc?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 30 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Animation Intern](https://jobright.ai/jobs/info/691712f53ea85638ae1c77df?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Nov 30 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/68f2945b76a51a4307bc4ffe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 30 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6927ab71d47de4798ecdf74d?utm_campaign=1053&utm_source=git)** | Grimes, IA | Hybrid | Nov 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6927aa49d47de4798ecdf6bb?utm_campaign=1053&utm_source=git)** | Helpful Smiles Technology Center (HST), James Street, Grimes, IA | Hybrid | Nov 26 |
 | **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6927a86891ceeb2e8a5420a8?utm_campaign=1053&utm_source=git)** | 700 University Ave, Toronto, ON M5G 1X6, Canada | Hybrid | Nov 26 |
 | **[Los Angeles Dodgers](http://losangeles.dodgers.mlb.com)** | **[Baseball Strategy and Information Intern](https://jobright.ai/jobs/info/692780c6d47de4798ecddb00?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
-| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6927801af0beb0723262b419?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
