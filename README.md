@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692fe1d6ef4b48533d1495fe?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 02 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Arena Administrative Events (Part-Time/Seasonal)](https://jobright.ai/jobs/info/692f9a3bfa28370be26abede?utm_campaign=1053&utm_source=git)** | Fairfax, VA | Hybrid | Dec 02 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Media Intern](https://jobright.ai/jobs/info/692f94bb4c474121999e0a65?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Dec 02 |
 | **[Run Minnesota](http://run-minnesota.org)** | **[Event Management Intern](https://jobright.ai/jobs/info/692f9a4efa28370be26abee4?utm_campaign=1053&utm_source=git)** | Twin Cities Area | Hybrid | Dec 02 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Street Team Intern](https://jobright.ai/jobs/info/692f3c76ef4b48533d1438d3?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 02 |
 | **[NABI Magazine](https://www.linkedin.com/company/98140484)** | **[Editorial Production Intern (Spring 2026)](https://jobright.ai/jobs/info/692f7ae0fa28370be26aaa66?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Dec 02 |
 | **[QuietOffer](quietoffer.io)** | **[Video Content Production Internship](https://jobright.ai/jobs/info/692f8979ef4b48533d1469bb?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 02 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Spoon University Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/692f587d4c474121999de00d?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 02 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/692f4331ef4b48533d143c43?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Dec 02 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Match Production Intern](https://jobright.ai/jobs/info/692f1685ef4b48533d142a36?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 02 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[GSD Communications Paid Intern](https://jobright.ai/jobs/info/692f2997ef4b48533d14327e?utm_campaign=1053&utm_source=git)** | Riverton, UT | On Site | Dec 02 |
@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Sprout Arena](https://www.linkedin.com/company/105138495)** | **[Blog Writing Intern](https://jobright.ai/jobs/info/692e3f52fa28370be26a2b90?utm_campaign=1053&utm_source=git)** | Baltimore, MD | Remote | Dec 01 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WCVB Chronicle Intern](https://jobright.ai/jobs/info/692e3524ef4b48533d13d93b?utm_campaign=1053&utm_source=git)** | 5 TV Place, Needham, MA, 02494, US | On Site | Dec 01 |
 | **[Grayson Sky](https://www.graysonsky.com/)** | **[Video Editor/Videographer Intern](https://jobright.ai/jobs/info/692e396e4c474121999d7601?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Dec 01 |
-| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/692e2d1aef4b48533d13d470?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 01 |
 | **[Celt Salt by Nature’s Pantry](Www.CeltSalts.com)** | **[Video Editor Intern](https://jobright.ai/jobs/info/692e0407ef4b48533d13ba0e?utm_campaign=1053&utm_source=git)** | Downey, CA | Hybrid | Dec 01 |
 | **[anthonyBarnum Public Relations](https://anthonybarnum.com/)** | **[Content Writing Intern](https://jobright.ai/jobs/info/692e00d8fa28370be26a0318?utm_campaign=1053&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Dec 01 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBCU Local Bay Area - Video Editor Internship - Summer 2026](https://jobright.ai/jobs/info/692df7edef4b48533d13b2c6?utm_campaign=1053&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | On Site | Dec 01 |
@@ -114,13 +113,12 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Creative Development Intern, Summer 2026](https://jobright.ai/jobs/info/692d57ccfa28370be269c893?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Dec 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692d5697fa28370be269c7f8?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA | On Site | Dec 01 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Events Department Intern](https://jobright.ai/jobs/info/6917982215b41563671795f8?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Nov 30 |
-| **[SOCIAL YARD](www.danixsocials.com)** | **[Content Production Assistant](https://jobright.ai/jobs/info/692d904efa28370be269d487?utm_campaign=1053&utm_source=git)** | Orlando, FL | On Site | Nov 30 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[The Library Effect: Voices of Success Intern](https://jobright.ai/jobs/info/692d2b44fa28370be269c159?utm_campaign=1053&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/692d2b10fa28370be269c14f?utm_campaign=1053&utm_source=git)** | Cambridge, MA, USA | On Site | Nov 30 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Oral History Intern](https://jobright.ai/jobs/info/692d2b074c474121999d1147?utm_campaign=1053&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | **[Collective Minds Inc.](https://collectivemindsincorporated.com)** | **[Basketbal Video Coordinator Intern](https://jobright.ai/jobs/info/692cde3966796e3028f9377c?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Remote | Nov 30 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Omnichannel Internship](https://jobright.ai/jobs/info/69170926370fde633d07c817?utm_campaign=1053&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 30 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d712d0894705799a2f05b5?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 30 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d712fa894705799a2f0617?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Nov 30 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Animation Intern](https://jobright.ai/jobs/info/691712f53ea85638ae1c77df?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Nov 30 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/68f2945b76a51a4307bc4ffe?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Nov 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[WUSF News Intern (Administrative Clerk)](https://jobright.ai/jobs/info/692b38ae4c474121999cd76c?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Nov 29 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6927d12ff0beb0723262e536?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 26 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6927aa49d47de4798ecdf6bb?utm_campaign=1053&utm_source=git)** | Helpful Smiles Technology Center (HST), James Street, Grimes, IA | Hybrid | Nov 26 |
 | **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6927a86891ceeb2e8a5420a8?utm_campaign=1053&utm_source=git)** | 700 University Ave, Toronto, ON M5G 1X6, Canada | Hybrid | Nov 26 |
+| **[Los Angeles Dodgers](http://losangeles.dodgers.mlb.com)** | **[Baseball Strategy and Information Intern](https://jobright.ai/jobs/info/692780c6d47de4798ecddb00?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
+| ↳ | **[Production Intern](https://jobright.ai/jobs/info/6927801af0beb0723262b419?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
