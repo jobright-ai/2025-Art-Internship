@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6931ab32fa28370be26bd393?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
+| ↳ | **[Studio Post Production Intern, Summer 2026](https://jobright.ai/jobs/info/69319bdcd0010831497baa4d?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
+| **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studio Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69319b9cd0010831497baa3c?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
+| ↳ | **[Studio Post Production Intern, Summer 2026](https://jobright.ai/jobs/info/6931aadbfa28370be26bd377?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
 | **[Aptiv](http://www.aptiv.com)** | **[Video Intern](https://jobright.ai/jobs/info/68dd8a99a125e75c422abd84?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Dec 04 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios - Content Kitchen Production Intern - Spring 2026](https://jobright.ai/jobs/info/69315129ef4b48533d1538b3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Dec 04 |
 | **[The Potter's House, Inc.](http://thepottershouse.org)** | **[TV/Production Intern](https://jobright.ai/jobs/info/6931571bfa28370be26b83de?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LN Concerts, Talent Team Intern](https://jobright.ai/jobs/info/692d781f4c474121999d2009?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Dec 01 |
 | ↳ | **[LN Concerts, Social Project Intern](https://jobright.ai/jobs/info/692d76a966796e3028f94cf9?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 01 |
 | ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692d72ec66796e3028f94c6f?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 01 |
-| ↳ | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692d72e166796e3028f94c69?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Video Asset Management Graduate Intern, Summer 2026](https://jobright.ai/jobs/info/692d5fe666796e3028f94752?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 01 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Social Project Intern](https://jobright.ai/jobs/info/692d5c454c474121999d1932?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | On Site | Dec 01 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Creative Development Intern, Summer 2026](https://jobright.ai/jobs/info/692d57ccfa28370be269c893?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
