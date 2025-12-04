@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Potter's House, Inc.](http://thepottershouse.org)** | **[TV/Production Intern](https://jobright.ai/jobs/info/6931336dfa28370be26b77f1?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
+| **[Inspire](https://inspirebrands.com)** | **[Maverick Studios - Content Kitchen Production Intern - Spring 2026](https://jobright.ai/jobs/info/69315129ef4b48533d1538b3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Dec 04 |
+| **[The Potter's House, Inc.](http://thepottershouse.org)** | **[TV/Production Intern](https://jobright.ai/jobs/info/6931571bfa28370be26b83de?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
+| ↳ | **[TV/Production Intern](https://jobright.ai/jobs/info/6931336dfa28370be26b77f1?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69311da3ef4b48533d1527a4?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 03 |
 | **[ROCK](http://www.rockventures.com/)** | **[NFX Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6931236e4c474121999ec508?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 03 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6930fdfeef4b48533d1516a5?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 03 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/693100a84c474121999eb23e?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Dec 03 |
 | **[The Potter's House, Inc.](http://thepottershouse.org)** | **[AV Intern - The Potters House Dallas](https://jobright.ai/jobs/info/6930e2c14c474121999e9f72?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Spring 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/6930e216fa28370be26b4e1e?utm_campaign=1053&utm_source=git)** | DC, Washington | On Site | Dec 03 |
-| **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/6930e1edef4b48533d15049c?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Dec 03 |
 | **[College of Health and Human Sciences at Texas Tech University](http://www.hs.ttu.edu)** | **[Department Intern - Art](https://jobright.ai/jobs/info/69310ad44c474121999eb761?utm_campaign=1053&utm_source=git)** | Lubbock | On Site | Dec 03 |
 | **[The Potter's House, Inc.](http://thepottershouse.org)** | **[TV Production Intern - The Potters House Dallas](https://jobright.ai/jobs/info/69311ae64c474121999ec092?utm_campaign=1053&utm_source=git)** | United States | On Site | Dec 03 |
 | **[DREAM THREE](https://www.dreamthree.com)** | **[Production Company Intern](https://jobright.ai/jobs/info/6931316bef4b48533d152dba?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Dec 03 |
@@ -90,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Quilly Spring Content Writing Internship (Unpaid)](https://jobright.ai/jobs/info/6930dda7fa28370be26b4b25?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 03 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Events Department Intern](https://jobright.ai/jobs/info/6917982215b41563671795f8?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Dec 03 |
 | **[Flying Upstream Podcast](www.flyingupstreampodcast.com)** | **[Video Editor Internship for Flying Upstream Podcast](https://jobright.ai/jobs/info/6930c7c84c474121999e8c02?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 03 |
+| **[InsideHook](http://www.insidehook.com)** | **[Editorial Fellow](https://jobright.ai/jobs/info/693153dffa28370be26b826e?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Dec 03 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios - Content Kitchen Production Intern - Spring 2026](https://jobright.ai/jobs/info/69308184ef4b48533d14c03c?utm_campaign=1053&utm_source=git)** | Atlanta Support Center | Hybrid | Dec 03 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Entertainment](https://jobright.ai/jobs/info/6930cdc34c474121999e91a9?utm_campaign=1053&utm_source=git)** | US-WI-Milwaukee | On Site | Dec 03 |
 | **[Local](https://www.localmedia.co/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6930b81f4c474121999e7f44?utm_campaign=1053&utm_source=git)** | Twin Cities Area | Hybrid | Dec 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Video Asset Management Graduate Intern, Summer 2026](https://jobright.ai/jobs/info/692d5fe666796e3028f94752?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Social Project Intern](https://jobright.ai/jobs/info/692d5c454c474121999d1932?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA, USA | On Site | Dec 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Creative Development Intern, Summer 2026](https://jobright.ai/jobs/info/692d57ccfa28370be269c893?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | Hybrid | Dec 01 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692d5697fa28370be269c7f8?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA | On Site | Dec 01 |
-| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[The Library Effect: Voices of Success Intern](https://jobright.ai/jobs/info/692d2b44fa28370be269c159?utm_campaign=1053&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
