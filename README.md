@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6931e275d0010831497bc93b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Dec 04 |
+| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Music Programming Operations - Nashville - Part-Time](https://jobright.ai/jobs/info/6931e23bd0010831497bc90f?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Dec 04 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/68dc03c1d6470e72cf4d7fbd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
 | ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[College of Health and Human Sciences at Texas Tech University](http://www.hs.ttu.edu)** | **[Department Intern - Art](https://jobright.ai/jobs/info/69310ad44c474121999eb761?utm_campaign=1053&utm_source=git)** | Lubbock | On Site | Dec 03 |
 | **[The Potter's House, Inc.](http://thepottershouse.org)** | **[TV Production Intern - The Potters House Dallas](https://jobright.ai/jobs/info/69311ae64c474121999ec092?utm_campaign=1053&utm_source=git)** | United States | On Site | Dec 03 |
 | **[DREAM THREE](https://www.dreamthree.com)** | **[Production Company Intern](https://jobright.ai/jobs/info/6931316bef4b48533d152dba?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Dec 03 |
-| **[Market Master USA](http://www.marketmasterusa.com/)** | **[Blog writing intern](https://jobright.ai/jobs/info/6930cb5c4c474121999e8f34?utm_campaign=1053&utm_source=git)** | Maryland, United States | On Site | Dec 03 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Editorial Content Intern](https://jobright.ai/jobs/info/6930d172ef4b48533d14f9e6?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 03 |
 | **[Chic Soul ](https://chicsoul.com/)** | **[Production Internship](https://jobright.ai/jobs/info/6930d9afef4b48533d14fedb?utm_campaign=1053&utm_source=git)** | Opelika, AL | On Site | Dec 03 |
 | **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Internship](https://jobright.ai/jobs/info/6930cac2ef4b48533d14f32b?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/69267184d47de4798ecd7598?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 01 |
 | **[FOX Weather](https://foxweather.com)** | **[Summer 2026 FOX News Media Internship Program - FOX Weather](https://jobright.ai/jobs/info/68da38063c03cd32709447df?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/692d8109fa28370be269d1f2?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
