@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Spring 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/6932472ba0dde7020e2e5190?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 04 |
+| **[GGC server 咕咕服](www.ggcgo.com)** | **[Community Operations & Events Intern](https://jobright.ai/jobs/info/69324ac2a0dde7020e2e54a0?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Dec 04 |
+| **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Winter/Spring 2026)](https://jobright.ai/jobs/info/69324986f131d96e4845aa29?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 04 |
+| **[CR Fashion Book](https://crfashionbook.com)** | **[CR Fashion Book Spring 2026 Editorial and Social Media Internship](https://jobright.ai/jobs/info/6932414bbc6af7687d9f43cc?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Dec 04 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69321f81fa28370be26c23ae?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 04 |
 | **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Video Intern](https://jobright.ai/jobs/info/693211eed0010831497bf0eb?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, US | Hybrid | Dec 04 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Video Editing Intern Position](https://jobright.ai/jobs/info/69321b1cfa28370be26c1f73?utm_campaign=1053&utm_source=git)** | Chicago, IL | Remote | Dec 04 |
@@ -73,7 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WUSF News Intern (Administrative Clerk)](https://jobright.ai/jobs/info/6931f35e4c474121999f4c8a?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Dec 04 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Music Programming Operations - Nashville - Part-Time](https://jobright.ai/jobs/info/6931e23bd0010831497bc90f?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Dec 04 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/68dc03c1d6470e72cf4d7fbd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 04 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
 | ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/68dc4b09ddc10244dd673c81?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6931ab32fa28370be26bd393?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
@@ -83,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Studio Post Production Intern, Summer 2026](https://jobright.ai/jobs/info/6931aadbfa28370be26bd377?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
 | **[Aptiv](http://www.aptiv.com)** | **[Video Intern](https://jobright.ai/jobs/info/68dd8a99a125e75c422abd84?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Dec 04 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios - Content Kitchen Production Intern - Spring 2026](https://jobright.ai/jobs/info/69315129ef4b48533d1538b3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Dec 04 |
-| **[The Potter's House, Inc.](http://thepottershouse.org)** | **[TV/Production Intern](https://jobright.ai/jobs/info/6931571bfa28370be26b83de?utm_campaign=1053&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69311da3ef4b48533d1527a4?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 03 |
 | **[ROCK](http://www.rockventures.com/)** | **[NFX Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6931236e4c474121999ec508?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 03 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6930fdfeef4b48533d1516a5?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 03 |
@@ -103,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[DREAM THREE](https://www.dreamthree.com)** | **[Production Company Intern](https://jobright.ai/jobs/info/6931316bef4b48533d152dba?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Dec 03 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Entertainment](https://jobright.ai/jobs/info/6931f6ea4c474121999f4e5f?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Dec 03 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Editorial Content Intern](https://jobright.ai/jobs/info/6930d172ef4b48533d14f9e6?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 03 |
-| **[Chic Soul ](https://chicsoul.com/)** | **[Production Internship](https://jobright.ai/jobs/info/6930d9afef4b48533d14fedb?utm_campaign=1053&utm_source=git)** | Opelika, AL | On Site | Dec 03 |
+| **[Chic Soul](https://chicsoul.com/)** | **[Production Internship](https://jobright.ai/jobs/info/6930d9afef4b48533d14fedb?utm_campaign=1053&utm_source=git)** | Opelika, AL | On Site | Dec 03 |
 | **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Internship](https://jobright.ai/jobs/info/6930cac2ef4b48533d14f32b?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 03 |
 | **[Hinds Community College](http://www.hindscc.edu/)** | **[Digitization Intern](https://jobright.ai/jobs/info/69311a224c474121999ec013?utm_campaign=1053&utm_source=git)** | Utica, MS | On Site | Dec 03 |
 | **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6927d12ff0beb0723262e536?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 03 |
@@ -121,9 +124,9 @@ For a complete list, click the following sortable link below:
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6aeefe8daec61499ad5dd?utm_campaign=1053&utm_source=git)** | Pocono, PA | On Site | Dec 03 |
 | ↳ | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6ae1a1852e62f0081d476?utm_campaign=1053&utm_source=git)** | Round Rock, TX | On Site | Dec 03 |
 | ↳ | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6ad371852e62f0081d3cb?utm_campaign=1053&utm_source=git)** | Wisconsin Dells, WI | On Site | Dec 03 |
-| **[Los Angeles Times](http://www.latimes.com)** | **[Production Intern (LA Times Studios)](https://jobright.ai/jobs/info/691d47ec0b7dff7341501dab?utm_campaign=1053&utm_source=git)** | El Segundo, CA | Hybrid | Dec 03 |
-| **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6b6cb1852e62f0081dcbc?utm_campaign=1053&utm_source=git)** | Sandusky, OH | On Site | Dec 03 |
+| ↳ | **[Culinary & Pastry Internship](https://jobright.ai/jobs/info/68e6b6cb1852e62f0081dcbc?utm_campaign=1053&utm_source=git)** | Sandusky, OH | On Site | Dec 03 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Golf Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69138a3fd1047e3565d03df9?utm_campaign=1053&utm_source=git)** | Westfield Center, OH | On Site | Dec 03 |
+| **[Los Angeles Times](http://www.latimes.com)** | **[Production Intern (LA Times Studios)](https://jobright.ai/jobs/info/69141d5a1465e02904e9a7b5?utm_campaign=1053&utm_source=git)** | El Segundo, CA | Hybrid | Dec 03 |
 | **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SPRING TERM) - BUFFALO](https://jobright.ai/jobs/info/693041104c474121999e48b9?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Dec 03 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Roadshow Coordinator Intern](https://jobright.ai/jobs/info/68daa56d6df7b8311bb10a2f?utm_campaign=1053&utm_source=git)** | Plymouth, MN | Hybrid | Dec 03 |
 | **[Expressway Cinema Rentals](https://expresswaycine.com/)** | **[The Expressway Cinema Rentals Internship (SPRING TERM) - ROCHESTER](https://jobright.ai/jobs/info/69304717fa28370be26af951?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Dec 03 |
@@ -137,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Arena Administrative Events (Part-Time/Seasonal)](https://jobright.ai/jobs/info/692f83c34c474121999dfeed?utm_campaign=1053&utm_source=git)** | Fairfax, VA 22030 | Hybrid | Dec 02 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/692f62034c474121999de676?utm_campaign=1053&utm_source=git)** | Milford, OH | On Site | Dec 02 |
 | **[SPORTFIVE](http://www.sportfive.com/)** | **[INTERN (EXPERIENTIAL) - HOUSTON, TX](https://jobright.ai/jobs/info/692f7b7afa28370be26aaad4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 02 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Content Management Intern: ATL - Spring 2026](https://jobright.ai/jobs/info/692f72f1fa28370be26aa361?utm_campaign=1053&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Dec 02 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Content Library Archives Intern: ATL - Spring 2026](https://jobright.ai/jobs/info/692f72f1fa28370be26aa361?utm_campaign=1053&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Dec 02 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Street Team Intern](https://jobright.ai/jobs/info/692f3c76ef4b48533d1438d3?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 02 |
 | **[Franchise Marketing News](franchisemarketingnews.com)** | **[Editorial, Research, and Content Production Intern](https://jobright.ai/jobs/info/6931368eef4b48533d152fae?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Dec 02 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Match Production Intern](https://jobright.ai/jobs/info/692f1685ef4b48533d142a36?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB News Intern](https://jobright.ai/jobs/info/692e5c124c474121999d8c89?utm_campaign=1053&utm_source=git)** | Needham, MA | On Site | Dec 01 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Dinners, Galas, Golf Events Support (Memphis, TN)](https://jobright.ai/jobs/info/691add6b45fb6f5ead8ae687?utm_campaign=1053&utm_source=git)** | Memphis, TN | On Site | Dec 01 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Photography & Videography](https://jobright.ai/jobs/info/692e360f4c474121999d73b7?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 01 |
-| **[Groot Hospitality](https://groothospitality.com/)** | **[Nightlife Intern](https://jobright.ai/jobs/info/692e57994c474121999d893b?utm_campaign=1053&utm_source=git)** | Miami Beach,FL,US | On Site | Dec 01 |
-| **[Centric Brands](https://centricbrands.com)** | **[Licensing Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e51ccfa28370be26a37b7?utm_campaign=1053&utm_source=git)** | US-NY-New York | On Site | Dec 01 |
-| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WCVB Chronicle Intern](https://jobright.ai/jobs/info/692e3524ef4b48533d13d93b?utm_campaign=1053&utm_source=git)** | 5 TV Place, Needham, MA, 02494, US | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
