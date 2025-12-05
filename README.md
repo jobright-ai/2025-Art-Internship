@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Federal Work Study (FWS) Internship - Production & Programming Intern - Tom Tom Foundation (TFWS) (Student Wage)](https://jobright.ai/jobs/info/6932f738764507023d1b15bc?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | Hybrid | Dec 05 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Advanced Research & Storytelling Intern- BBGTC](https://jobright.ai/jobs/info/68c3398d63829b0a8a500fe2?utm_campaign=1053&utm_source=git)** | Edgewater, FL | On Site | Dec 05 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 05 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/68dd6e84ddc10244dd67f4ce?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Dec 05 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 05 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WUSF News Intern (Administrative Clerk)](https://jobright.ai/jobs/info/6931f35e4c474121999f4c8a?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Dec 04 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Music Programming Operations - Nashville - Part-Time](https://jobright.ai/jobs/info/6931e23bd0010831497bc90f?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Dec 04 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/68dc03c1d6470e72cf4d7fbd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 04 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
+| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/68dc4b09ddc10244dd673c81?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Creative Development Intern, Summer 2026](https://jobright.ai/jobs/info/692ef1f54c474121999db6ec?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
 | ↳ | **[Studio Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6931ab32fa28370be26bd393?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Arena Administrative Events (Part-Time/Seasonal)](https://jobright.ai/jobs/info/692f9a3bfa28370be26abede?utm_campaign=1053&utm_source=git)** | Fairfax, VA | Hybrid | Dec 02 |
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Media Intern](https://jobright.ai/jobs/info/692f94bb4c474121999e0a65?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Dec 02 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6921002100c9ee50eaecab0c?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Dec 02 |
-| **[The Dollywood Company](https://www.dollywood.com/)** | **[Summer 2026 Craft Team Intern - Dollywood Parks & Resorts - Seasonal](https://jobright.ai/jobs/info/692fc28cfa28370be26ad560?utm_campaign=1053&utm_source=git)** | Pigeon Forge, TN | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
