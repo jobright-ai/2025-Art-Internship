@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX Sports Internship Program - Audience Research – New York, NY](https://jobright.ai/jobs/info/69333584a0dde7020e2eb65d?utm_campaign=1053&utm_source=git)** | New York, New York, USA | On Site | Dec 05 |
+| **[Wavytalk](https://www.wavytalk.com)** | **[Production Assistant Intern, Spring 2026](https://jobright.ai/jobs/info/69332991764507023d1b2ac8?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 05 |
+| **[37degrees, Inc](www.37degrees.io)** | **[Videographer & Short-Form Content Creator (Life Sciences) – Volunteer / Internship](https://jobright.ai/jobs/info/6933284df131d96e4846035f?utm_campaign=1053&utm_source=git)** | Greater Chicago Area | Hybrid | Dec 05 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Federal Work Study (FWS) Internship - Production & Programming Intern - Tom Tom Foundation (TFWS) (Student Wage)](https://jobright.ai/jobs/info/6932f738764507023d1b15bc?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | Hybrid | Dec 05 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Advanced Research & Storytelling Intern- BBGTC](https://jobright.ai/jobs/info/68c3398d63829b0a8a500fe2?utm_campaign=1053&utm_source=git)** | Edgewater, FL | On Site | Dec 05 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2026](https://jobright.ai/jobs/info/693321e6f131d96e48460004?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Dec 05 |
+| ↳ | **[NBC Telemundo CT Multiplatform Creative Intern Position - Summer 2026](https://jobright.ai/jobs/info/69332292f131d96e4846006d?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Dec 05 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 05 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/68dd6e84ddc10244dd67f4ce?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Dec 05 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 05 |
@@ -87,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/69321f81fa28370be26c23ae?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 04 |
 | **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Video Intern](https://jobright.ai/jobs/info/693211eed0010831497bf0eb?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, US | Hybrid | Dec 04 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Video Editing Intern Position](https://jobright.ai/jobs/info/69321b1cfa28370be26c1f73?utm_campaign=1053&utm_source=git)** | Chicago, IL | Remote | Dec 04 |
-| **[PGA TOUR](http://www.pgatour.com)** | **[Intern - Event Services (Truist Championship)](https://jobright.ai/jobs/info/69267a9427bf2f41a2c4675d?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Dec 04 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Content/Editorial Dayton Intern - Summer 2026](https://jobright.ai/jobs/info/69320ed8fa28370be26c1412?utm_campaign=1053&utm_source=git)** | Dayton OH | Hybrid | Dec 04 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 DC News, Digital, & Community Affairs Internships – Summer 2026](https://jobright.ai/jobs/info/693202a14c474121999f5a52?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | ↳ | **[Telemundo 44 DC News, Digital, & Community Affairs Internships – Summer 2026](https://jobright.ai/jobs/info/693212a74c474121999f69d4?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[The Expressway Cinema Rentals Internship (SPRING TERM) - ROCHESTER](https://jobright.ai/jobs/info/69304717fa28370be26af951?utm_campaign=1053&utm_source=git)** | Rochester, NY | On Site | Dec 03 |
 | **[Skild AI](https://www.skild.ai/)** | **[Technical Animator Intern](https://jobright.ai/jobs/info/6913e9241465e02904e9882f?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Dec 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6930031a4c474121999e39fd?utm_campaign=1053&utm_source=git)** | Burbank, CA, USA | On Site | Dec 03 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692fe1d6ef4b48533d1495fe?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 02 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Arena Administrative Events (Part-Time/Seasonal)](https://jobright.ai/jobs/info/692f9a3bfa28370be26abede?utm_campaign=1053&utm_source=git)** | Fairfax, VA | Hybrid | Dec 02 |
-| **[Premium Merchant Funding](https://pmfus.com/)** | **[Media Intern](https://jobright.ai/jobs/info/692f94bb4c474121999e0a65?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Dec 02 |
-| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6921002100c9ee50eaecab0c?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
