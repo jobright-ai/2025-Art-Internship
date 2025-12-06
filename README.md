@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/692ec523ef4b48533d1412d3?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 05 |
+| **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONFERENCE PROGRAMMING](https://jobright.ai/jobs/info/691bb35c15b4156367191c85?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 05 |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Progressive Writer Intern](https://jobright.ai/jobs/info/6933b7ec764507023d1b89fb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[Paramount](https://www.paramount.com)** | **[TV Programming Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6931761b3b6d6f265f4e9f93?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
+| **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933b2fdf131d96e48466169?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
-| **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933979d764507023d1b727c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
-| ↳ | **[Intern, Film Creative Development](https://jobright.ai/jobs/info/69339656f131d96e48464a89?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
+| **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Film Creative Development](https://jobright.ai/jobs/info/69339656f131d96e48464a89?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
+| ↳ | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933979d764507023d1b727c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/6933706ef131d96e484635a3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[Mark Seliger Studio](http://www.markseliger.com)** | **[Senior Producer - Film and Photography (Freelance/Contract)](https://jobright.ai/jobs/info/69336656a0dde7020e2ed793?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Dec 05 |
 | **[Readeezy](http://readeezy.com)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69338464f131d96e48463ff8?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 05 |
@@ -80,11 +84,11 @@ For a complete list, click the following sortable link below:
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEO PRODUCTION INTERNSHIP](https://jobright.ai/jobs/info/693357aa764507023d1b47e9?utm_campaign=1053&utm_source=git)** | Syracuse, NY | On Site | Dec 05 |
 | **[37degrees, Inc](www.37degrees.io)** | **[Videographer & Short-Form Content Creator (Life Sciences) – Volunteer / Internship](https://jobright.ai/jobs/info/6933284df131d96e4846035f?utm_campaign=1053&utm_source=git)** | Greater Chicago Area | Hybrid | Dec 05 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Spring 2026](https://jobright.ai/jobs/info/693363ba764507023d1b527f?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 05 |
+| **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6933a918f131d96e48465a09?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 05 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Federal Work Study (FWS) Internship - Production & Programming Intern - Tom Tom Foundation (TFWS) (Student Wage)](https://jobright.ai/jobs/info/6932f738764507023d1b15bc?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | Hybrid | Dec 05 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Advanced Research & Storytelling Intern- BBGTC](https://jobright.ai/jobs/info/68c3398d63829b0a8a500fe2?utm_campaign=1053&utm_source=git)** | Edgewater, FL | On Site | Dec 05 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2026](https://jobright.ai/jobs/info/693321e6f131d96e48460004?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Dec 05 |
 | ↳ | **[NBC Telemundo CT Multiplatform Creative Intern Position - Summer 2026](https://jobright.ai/jobs/info/69332292f131d96e4846006d?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Dec 05 |
-| **[QuietOffer](quietoffer.io)** | **[Video Content Internship](https://jobright.ai/jobs/info/69333881764507023d1b3231?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 05 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 05 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/68dd6e84ddc10244dd67f4ce?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Dec 05 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 05 |
@@ -125,7 +129,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WUSF News Intern (Administrative Clerk)](https://jobright.ai/jobs/info/6931f35e4c474121999f4c8a?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Dec 04 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/68dc03c1d6470e72cf4d7fbd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/68dc4b09ddc10244dd673c81?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Creative Development Intern, Summer 2026](https://jobright.ai/jobs/info/692ef1f54c474121999db6ec?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
 | ↳ | **[Studio Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6931ab32fa28370be26bd393?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DREAM THREE](https://www.dreamthree.com)** | **[Production Company Intern](https://jobright.ai/jobs/info/6931316bef4b48533d152dba?utm_campaign=1053&utm_source=git)** | New York City | Hybrid | Dec 03 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Entertainment](https://jobright.ai/jobs/info/6931f6ea4c474121999f4e5f?utm_campaign=1053&utm_source=git)** | Milwaukee, WI | On Site | Dec 03 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Editorial Content Intern](https://jobright.ai/jobs/info/6930d172ef4b48533d14f9e6?utm_campaign=1053&utm_source=git)** | Cincinnati, OH | On Site | Dec 03 |
-| **[Chic Soul](https://chicsoul.com/)** | **[Production Internship](https://jobright.ai/jobs/info/6930d9afef4b48533d14fedb?utm_campaign=1053&utm_source=git)** | Opelika, AL | On Site | Dec 03 |
-| **[Arcpoint Studios](http://www.arcpointstudios.com)** | **[Video Production Internship](https://jobright.ai/jobs/info/6930cac2ef4b48533d14f32b?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 03 |
-| **[Hinds Community College](http://www.hindscc.edu/)** | **[Digitization Intern](https://jobright.ai/jobs/info/69311a224c474121999ec013?utm_campaign=1053&utm_source=git)** | Utica, MS | On Site | Dec 03 |
-| **[University Health Network](https://www.uhn.ca/)** | **[Junior Coordinator (Intern), Cycling Programs](https://jobright.ai/jobs/info/6927d12ff0beb0723262e536?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
