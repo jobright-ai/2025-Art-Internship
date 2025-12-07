@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tombras](http://tombras.com)** | **[Post - Production Intern](https://jobright.ai/jobs/info/693502a0a0dde7020e2f70da?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
+| ↳ | **[Production Assistant Intern](https://jobright.ai/jobs/info/69350127a0dde7020e2f70a1?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
+| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6931e275d0010831497bc93b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Dec 06 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6920d1233f782d2f1afcbce1?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Dec 06 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring) - Sheraton Overland Park](https://jobright.ai/jobs/info/69346aa3f131d96e4846aa05?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Dec 06 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
@@ -69,15 +72,14 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Dec 06 |
 | ↳ | **[Writing & Editing Intern](https://jobright.ai/jobs/info/68e9491465768b6412b1a1ac?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Dec 06 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/6933d9e9764507023d1ba157?utm_campaign=1053&utm_source=git)** | Carlsbad, CA | On Site | Dec 05 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[WUSF News Intern (Administrative Clerk)](https://jobright.ai/jobs/info/6933d792764507023d1ba045?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Dec 05 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/692ec523ef4b48533d1412d3?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 05 |
 | **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONFERENCE PROGRAMMING](https://jobright.ai/jobs/info/691bb35c15b4156367191c85?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 05 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Progressive Writer Intern](https://jobright.ai/jobs/info/6933b7ec764507023d1b89fb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[Paramount](https://www.paramount.com)** | **[TV Programming Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6931761b3b6d6f265f4e9f93?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933b2fdf131d96e48466169?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
-| **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933979d764507023d1b727c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
-| ↳ | **[Intern, Film Creative Development](https://jobright.ai/jobs/info/69339656f131d96e48464a89?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
+| **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Film Creative Development](https://jobright.ai/jobs/info/69339656f131d96e48464a89?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
+| ↳ | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933979d764507023d1b727c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/6933706ef131d96e484635a3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[Readeezy](http://readeezy.com)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69338464f131d96e48463ff8?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 05 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[ComicArts Social Media Intern](https://jobright.ai/jobs/info/6933562ef131d96e48462228?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Dec 05 |
@@ -131,13 +133,12 @@ For a complete list, click the following sortable link below:
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Content/Editorial Dayton Intern - Summer 2026](https://jobright.ai/jobs/info/69320ed8fa28370be26c1412?utm_campaign=1053&utm_source=git)** | Dayton OH | Hybrid | Dec 04 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 DC News, Digital, & Community Affairs Internships – Summer 2026](https://jobright.ai/jobs/info/693202a14c474121999f5a52?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | ↳ | **[Telemundo 44 DC News, Digital, & Community Affairs Internships – Summer 2026](https://jobright.ai/jobs/info/693212a74c474121999f69d4?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 04 |
-| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6931e275d0010831497bc93b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Dec 04 |
 | **[Ice Guardians Podcast](https://iceguardiansmedia.com)** | **[Video Editor/Content Creator Internship](https://jobright.ai/jobs/info/69320f07d0010831497bee01?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 04 |
 | **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/69320355fa28370be26c0aba?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[THE CITY (newsroom)](https://www.thecity.nyc)** | **[Editorial Intern - Spring](https://jobright.ai/jobs/info/6931f3e4fa28370be26bfb36?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6931fbb5d0010831497bdc87?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Dec 04 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/68dc03c1d6470e72cf4d7fbd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 04 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
 | ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/68dc4b09ddc10244dd673c81?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Creative Development Intern, Summer 2026](https://jobright.ai/jobs/info/692ef1f54c474121999db6ec?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6930fb58fa28370be26b5cfd?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Dec 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Spring 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/6930fa86fa28370be26b5c5c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 03 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/691b8e5022a2cb4b9bd1393c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 03 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer](https://jobright.ai/jobs/info/693114fefa28370be26b6c88?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
