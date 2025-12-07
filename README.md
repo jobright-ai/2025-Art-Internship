@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[WUSF News Intern (Administrative Clerk)](https://jobright.ai/jobs/info/6935bfed764507023d1c102f?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Dec 07 |
 | **[Career Downloads](https://www.careerdownloads.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/693575e7764507023d1c0750?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Dec 06 |
 | **[Tombras](http://tombras.com)** | **[Post - Production Intern](https://jobright.ai/jobs/info/693502a0a0dde7020e2f70da?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | ↳ | **[Production Assistant Intern](https://jobright.ai/jobs/info/69350127a0dde7020e2f70a1?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
@@ -140,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[THE CITY (newsroom)](https://www.thecity.nyc)** | **[Editorial Intern - Spring](https://jobright.ai/jobs/info/6931f3e4fa28370be26bfb36?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6931fbb5d0010831497bdc87?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Dec 04 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/68dc03c1d6470e72cf4d7fbd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 04 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
-| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93fddc10244dd682afd?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/68dc4b09ddc10244dd673c81?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Creative Development Intern, Summer 2026](https://jobright.ai/jobs/info/692ef1f54c474121999db6ec?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
 | ↳ | **[Studio Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6931ab32fa28370be26bd393?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69311da3ef4b48533d1527a4?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 03 |
 | **[ROCK](http://www.rockventures.com/)** | **[NFX Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6931236e4c474121999ec508?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 03 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6930fdfeef4b48533d1516a5?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 03 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6930fb58fa28370be26b5cfd?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
