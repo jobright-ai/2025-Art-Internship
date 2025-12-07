@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Downloads](https://www.careerdownloads.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/693575e7764507023d1c0750?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Dec 06 |
 | **[Tombras](http://tombras.com)** | **[Post - Production Intern](https://jobright.ai/jobs/info/693502a0a0dde7020e2f70da?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | ↳ | **[Production Assistant Intern](https://jobright.ai/jobs/info/69350127a0dde7020e2f70a1?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6931e275d0010831497bc93b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Dec 06 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6920d1233f782d2f1afcbce1?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Dec 06 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring) - Sheraton Overland Park](https://jobright.ai/jobs/info/69346aa3f131d96e4846aa05?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Dec 06 |
-| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917c46815b415636717b5c0?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
+| ↳ | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
 | ↳ | **[Art Bridges Academic Year 2026-27 Traveling Exhibitions Internship](https://jobright.ai/jobs/info/6933ac5a764507023d1b808a?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
-| ↳ | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917ce6615b415636717bb43?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Art Department Intern – Summer 2026](https://jobright.ai/jobs/info/69341f8f764507023d1bc0e1?utm_campaign=1053&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
 | ↳ | **[Character Animation Intern - Summer 2026](https://jobright.ai/jobs/info/69341c3f764507023d1bbf9b?utm_campaign=1053&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
 | **[Pixar Animation Studios](https://www.pixar.com)** | **[Character Animation Intern - Summer 2026](https://jobright.ai/jobs/info/69344109f131d96e4846a26e?utm_campaign=1053&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Paramount](https://www.paramount.com)** | **[TV Programming Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6931761b3b6d6f265f4e9f93?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933b2fdf131d96e48466169?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
-| **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Film Creative Development](https://jobright.ai/jobs/info/69339656f131d96e48464a89?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
-| ↳ | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933979d764507023d1b727c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
+| **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933979d764507023d1b727c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
+| ↳ | **[Intern, Film Creative Development](https://jobright.ai/jobs/info/69339656f131d96e48464a89?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/6933706ef131d96e484635a3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[Readeezy](http://readeezy.com)** | **[Editorial Assistant Intern](https://jobright.ai/jobs/info/69338464f131d96e48463ff8?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 05 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[ComicArts Social Media Intern](https://jobright.ai/jobs/info/6933562ef131d96e48462228?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Dec 05 |
@@ -139,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[THE CITY (newsroom)](https://www.thecity.nyc)** | **[Editorial Intern - Spring](https://jobright.ai/jobs/info/6931f3e4fa28370be26bfb36?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/6931fbb5d0010831497bdc87?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Dec 04 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Opinion Editing Intern](https://jobright.ai/jobs/info/68dc03c1d6470e72cf4d7fbd?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 04 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8c844d32141e0bf9e4f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show Intern, Spring 2026](https://jobright.ai/jobs/info/68dda91244d32141e0bf9eb6?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
+| ↳ | **[WAVY Unpaid Production Intern, Spring 2026](https://jobright.ai/jobs/info/68dda93544d32141e0bf9ee9?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 04 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Reporting Internship, Mansion Global](https://jobright.ai/jobs/info/68dc4b09ddc10244dd673c81?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Creative Development Intern, Summer 2026](https://jobright.ai/jobs/info/692ef1f54c474121999db6ec?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
 | ↳ | **[Studio Physical Production Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6931ab32fa28370be26bd393?utm_campaign=1053&utm_source=git)** | Burbank, CA | On Site | Dec 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ROCK](http://www.rockventures.com/)** | **[NFX Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6931236e4c474121999ec508?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 03 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6930fdfeef4b48533d1516a5?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 03 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/6930fb58fa28370be26b5cfd?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Dec 03 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Spring 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/6930fa86fa28370be26b5c5c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
