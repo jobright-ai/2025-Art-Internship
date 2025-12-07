@@ -119,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Game Presentation Internship](https://jobright.ai/jobs/info/69327fa4764507023d1af041?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Dec 04 |
 | **[GZTV](www.gztvnetwork.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/69326f6da0dde7020e2e6f31?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Dec 04 |
 | **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Video Production Internship](https://jobright.ai/jobs/info/69328702f131d96e4845ccd7?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Dec 04 |
-| **[Sports Culture](https://www.sportsculturehq.com)** | **[Golf and Football News Writers Internship](https://jobright.ai/jobs/info/69327d8f764507023d1aefce?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 04 |
 | **[The KINN](www.thekinn.co)** | **[KINN Events & Media Technology Intern](https://jobright.ai/jobs/info/69325684a0dde7020e2e5e0f?utm_campaign=1053&utm_source=git)** | LA Metro Area | On Site | Dec 04 |
 | **[Atlassian](https://www.atlassian.com)** | **[Content Studio Production Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/69325664a0dde7020e2e5dfa?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Dec 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Spring 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/6932472ba0dde7020e2e5190?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Spring 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/6930fa86fa28370be26b5c5c?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 03 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/691b8e5022a2cb4b9bd1393c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 03 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Conservative Writer](https://jobright.ai/jobs/info/693114fefa28370be26b6c88?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 03 |
+| **[Real Salt Lake](http://realsaltlake.com)** | **[Videography Intern](https://jobright.ai/jobs/info/693114ce4c474121999ebe64?utm_campaign=1053&utm_source=git)** | Herriman, UT | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
