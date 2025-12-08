@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Video Production Intern, Summer 2026](https://jobright.ai/jobs/info/693693071c1c2161c13edc2f?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 08 |
+| ↳ | **[ILM VFX  Intern, Summer 2026](https://jobright.ai/jobs/info/693691a944eb324fb785c7b6?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 08 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Multimedia Production/ iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/69360a2fa0dde7020e2f9c85?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 07 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6935f7dba0dde7020e2f9b4a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 07 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[WUSF News Intern (Administrative Clerk)](https://jobright.ai/jobs/info/6935bfed764507023d1c102f?utm_campaign=1053&utm_source=git)** | Tampa, FL | Hybrid | Dec 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IMG Academy](https://www.imgacademy.com)** | **[Events Department Intern](https://jobright.ai/jobs/info/69341828f131d96e484696ba?utm_campaign=1053&utm_source=git)** | Bradenton, FL | On Site | Dec 04 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios - Content Kitchen Production Intern - Spring 2026](https://jobright.ai/jobs/info/69315129ef4b48533d1538b3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Dec 04 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Roadshow Coordinator Intern](https://jobright.ai/jobs/info/6933d079764507023d1b9aed?utm_campaign=1053&utm_source=git)** | Plymouth, MN | Hybrid | Dec 03 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/69311da3ef4b48533d1527a4?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 03 |
-| **[ROCK](http://www.rockventures.com/)** | **[NFX Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6931236e4c474121999ec508?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
