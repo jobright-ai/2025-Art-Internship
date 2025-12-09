@@ -58,12 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68ec8f0dc26b9574506f3896?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 09 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Venue Operations Intern](https://jobright.ai/jobs/info/691bb24abcdbf3560c9e189f?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 09 |
+| **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/691bec6d22a2cb4b9bd178d1?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Video Production Intern, Summer 2026](https://jobright.ai/jobs/info/693816f4aabec14a727cff0f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 09 |
 | ↳ | **[ILM VFX  Intern, Summer 2026](https://jobright.ai/jobs/info/693815b5aabec14a727cfec9?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Dec 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/6937f99eb95c305f206d4719?utm_campaign=1053&utm_source=git)** | Greenwood Village, CO | On Site | Dec 08 |
 | **[Red Velvet Studios](redvelvetstudio.com)** | **[LA Music Content Intern](https://jobright.ai/jobs/info/6937d645aabec14a727cd789?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 08 |
 | **[SYP](https://joinonesip.com/)** | **[Videographer](https://jobright.ai/jobs/info/6937c813aabec14a727cd026?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 08 |
-| **[TheShift Research](theshift.co)** | **[Content Production Intern](https://jobright.ai/jobs/info/693836bbb95c305f206d6c18?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 08 |
 | **[Paramount](https://www.paramount.com)** | **[TV Programming Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69250b2438cd5478a8d61a3a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[University of Iowa](https://uicb.uiowa.edu)** | **[Athletics HawkVision Intern](https://jobright.ai/jobs/info/693796061c1c2161c13f6099?utm_campaign=1053&utm_source=git)** | Iowa City, IA | Hybrid | Dec 08 |
 | **[Los Angeles Times](http://www.latimes.com)** | **[Production Intern (LA Times Studios)](https://jobright.ai/jobs/info/691d47ec0b7dff7341501dab?utm_campaign=1053&utm_source=git)** | El Segundo, CA | Hybrid | Dec 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Universal Studios Hollywood, Entertainment Operations Internship – Summer 2026](https://jobright.ai/jobs/info/6932a111764507023d1af8d8?utm_campaign=1053&utm_source=git)** | 100 Universal City Plaza, Universal City, CALIFORNIA | On Site | Dec 05 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - New York](https://jobright.ai/jobs/info/68dc390ab324915618962634?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Game Presentation Internship](https://jobright.ai/jobs/info/69327fa4764507023d1af041?utm_campaign=1053&utm_source=git)** | Anaheim, CA | On Site | Dec 04 |
-| **[GZTV](www.gztvnetwork.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/69326f6da0dde7020e2e6f31?utm_campaign=1053&utm_source=git)** | Atlanta, GA | Hybrid | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
