@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/693879c8aabec14a727d6119?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Dec 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68ec8f0dc26b9574506f3896?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 09 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Venue Operations Intern](https://jobright.ai/jobs/info/691bb24abcdbf3560c9e189f?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 09 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/691bec6d22a2cb4b9bd178d1?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 09 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Rock & Roll Hall of Fame](http://www.rockhall.com/visit-the-museum/learn/)** | **[Artist in Residence](https://jobright.ai/jobs/info/69377c47aabec14a727c88ca?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Dec 07 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Live Production](https://jobright.ai/jobs/info/69376bb01c1c2161c13f4352?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Dec 07 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6935f7dba0dde7020e2f9b4a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 07 |
-| **[Career Downloads](https://www.careerdownloads.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/693575e7764507023d1c0750?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | On Site | Dec 06 |
 | **[Tombras](http://tombras.com)** | **[Post - Production Intern](https://jobright.ai/jobs/info/693502a0a0dde7020e2f70da?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | ↳ | **[Production Assistant Intern](https://jobright.ai/jobs/info/69350127a0dde7020e2f70a1?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6931e275d0010831497bc93b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Dec 06 |
@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Paramount](https://www.paramount.com)** | **[TV Programming Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6931761b3b6d6f265f4e9f93?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933b2fdf131d96e48466169?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
-| **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933979d764507023d1b727c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
-| ↳ | **[Intern, Film Creative Development](https://jobright.ai/jobs/info/69339656f131d96e48464a89?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
+| **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Film Creative Development](https://jobright.ai/jobs/info/69339656f131d96e48464a89?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
+| ↳ | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933979d764507023d1b727c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/6933706ef131d96e484635a3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[ComicArts Social Media Intern](https://jobright.ai/jobs/info/6933562ef131d96e48462228?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Dec 05 |
 | **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Live Programming & Entertainment Intern](https://jobright.ai/jobs/info/69334f0cf131d96e48461b80?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, US | Hybrid | Dec 05 |
