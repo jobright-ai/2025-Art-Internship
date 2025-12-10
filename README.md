@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6938e875a0dde7020e3187ec?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Dec 09 |
+| **[Iowa Public Radio](https://www.iowapublicradio.org/)** | **[News Fellow](https://jobright.ai/jobs/info/6938e584a0dde7020e318651?utm_campaign=1053&utm_source=git)** | Des Moines, IA | Hybrid | Dec 09 |
+| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/6938e102a0dde7020e317ee6?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Dec 09 |
 | **[Insomnia Visuals](www.insomniavisuals.com)** | **[Content Production & Social Media Intern](https://jobright.ai/jobs/info/6938bce9aabec14a727da896?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 09 |
 | **[Sync with God](https://syncwithgod.com)** | **[Content/Book Editor Intern](https://jobright.ai/jobs/info/6938bcbfaabec14a727da86f?utm_campaign=1053&utm_source=git)** | Lincoln County, NE | On Site | Dec 09 |
+| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6938e340b95c305f206e21ab?utm_campaign=1053&utm_source=git)** | US-KY-Louisville | On Site | Dec 09 |
+| **[West Shore Home](http://westshorehome.com)** | **[Video Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6938d8a3b95c305f206e0f9a?utm_campaign=1053&utm_source=git)** | Mechanicsburg, PA | On Site | Dec 09 |
 | **[ease](easeradio.com)** | **[Spring 2026 Creative Development Podcast Internship](https://jobright.ai/jobs/info/6938b2f2b95c305f206deeaa?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 09 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938b41eb95c305f206defbf?utm_campaign=1053&utm_source=git)** | IA-Des Moines;1801 Grand Avenue (WHO) | On Site | Dec 09 |
@@ -99,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Elite Tournaments](https://elitetournaments.com)** | **[Event Operations Summer Internship (Lacrosse Focus)](https://jobright.ai/jobs/info/69372a301c1c2161c13f10a6?utm_campaign=1053&utm_source=git)** | West Friendship, MD | On Site | Dec 08 |
 | **[Auxio](www.auxiomusic.com)** | **[Auxio Music Intern](https://jobright.ai/jobs/info/693747e1aabec14a727c5f06?utm_campaign=1053&utm_source=git)** | Nutley, NJ | On Site | Dec 08 |
 | **[Elite Tournaments](https://elitetournaments.com)** | **[Event Operations Summer Internship (Lacrosse Focus)](https://jobright.ai/jobs/info/693747c31c1c2161c13f2581?utm_campaign=1053&utm_source=git)** | West Friendship, MD | On Site | Dec 08 |
+| **[Empower Aesthetics](https://www.empower.spa)** | **[Aesthetic Nurse Intern](https://jobright.ai/jobs/info/6938e879aabec14a727ddcf3?utm_campaign=1053&utm_source=git)** | Nashville,TN,US | On Site | Dec 08 |
 | **[Par5](https://par5.io)** | **[Video Content Intern](https://jobright.ai/jobs/info/6937428ba0dde7020e3009b1?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 08 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Editorial Intern (ComicArts/Magna)](https://jobright.ai/jobs/info/6937058aa0dde7020e2fe6fd?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Dec 08 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Video Production - Summer Internship 2026](https://jobright.ai/jobs/info/69263935f0beb072326233f0?utm_campaign=1053&utm_source=git)** | McKinney, TX | On Site | Dec 08 |
@@ -130,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Progressive Writer Intern](https://jobright.ai/jobs/info/6933b7ec764507023d1b89fb?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[Paramount](https://www.paramount.com)** | **[TV Programming Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6931761b3b6d6f265f4e9f93?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933b2fdf131d96e48466169?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
-| ↳ | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933979d764507023d1b727c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
 | ↳ | **[Intern, Film Creative Development](https://jobright.ai/jobs/info/69339656f131d96e48464a89?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
+| ↳ | **[Intern, Scripted TV](https://jobright.ai/jobs/info/6933979d764507023d1b727c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, US | On Site | Dec 05 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/6933706ef131d96e484635a3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[ComicArts Social Media Intern](https://jobright.ai/jobs/info/6933562ef131d96e48462228?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Dec 05 |
 | **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Live Programming & Entertainment Intern](https://jobright.ai/jobs/info/69334f0cf131d96e48461b80?utm_campaign=1053&utm_source=git)** | Milwaukee, WI, US | Hybrid | Dec 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6933a918f131d96e48465a09?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 05 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Federal Work Study (FWS) Internship - Production & Programming Intern - Tom Tom Foundation (TFWS) (Student Wage)](https://jobright.ai/jobs/info/6932f738764507023d1b15bc?utm_campaign=1053&utm_source=git)** | Charlottesville, VA | Hybrid | Dec 05 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Advanced Research & Storytelling Intern- BBGTC](https://jobright.ai/jobs/info/68c3398d63829b0a8a500fe2?utm_campaign=1053&utm_source=git)** | Edgewater, FL | On Site | Dec 05 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2026](https://jobright.ai/jobs/info/693321e6f131d96e48460004?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Dec 05 |
-| ↳ | **[NBC Telemundo CT Multiplatform Creative Intern Position - Summer 2026](https://jobright.ai/jobs/info/69332292f131d96e4846006d?utm_campaign=1053&utm_source=git)** | Hartford, CT | On Site | Dec 05 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8a5a125e75c422adeb2?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 05 |
-| **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Missouri State Fair - Entries Office](https://jobright.ai/jobs/info/68dd6e84ddc10244dd67f4ce?utm_campaign=1053&utm_source=git)** | Sedalia, MO | On Site | Dec 05 |
-| **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 05 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Spring 2026](https://jobright.ai/jobs/info/68dda8d644d32141e0bf9e61?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
