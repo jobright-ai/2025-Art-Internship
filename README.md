@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Art Department Intern – Summer 2026](https://jobright.ai/jobs/info/69341f8f764507023d1bc0e1?utm_campaign=1053&utm_source=git)** | Emeryville, CA | On Site | Dec 10 |
 | **[MBJ Network](www.mbj-network.com)** | **[Staff Writer-Intern](https://jobright.ai/jobs/info/69395083ac80bb5492bbeedd?utm_campaign=1053&utm_source=git)** | Lombard, IL | Hybrid | Dec 10 |
+| ↳ | **[Production Assistant Intern](https://jobright.ai/jobs/info/69396cdcac80bb5492bbf5a3?utm_campaign=1053&utm_source=git)** | Lombard, IL | On Site | Dec 10 |
 | ↳ | **[Assistant Editor- Intern](https://jobright.ai/jobs/info/69395c5dac80bb5492bbf239?utm_campaign=1053&utm_source=git)** | Lombard, IL | On Site | Dec 10 |
 | **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Intern - Production (Part-Time)](https://jobright.ai/jobs/info/6939590c56b68f3dc4e6cd07?utm_campaign=1053&utm_source=git)** | Irving, TX | On Site | Dec 10 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Spring 2026](https://jobright.ai/jobs/info/6939380a48a8ce22990d51e1?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 09 |
@@ -72,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6938e340b95c305f206e21ab?utm_campaign=1053&utm_source=git)** | US-KY-Louisville | On Site | Dec 09 |
 | **[West Shore Home](http://westshorehome.com)** | **[Video Production Intern (Summer 2026)](https://jobright.ai/jobs/info/6938d8a3b95c305f206e0f9a?utm_campaign=1053&utm_source=git)** | Mechanicsburg, PA | On Site | Dec 09 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 09 |
-| **[ease](easeradio.com)** | **[Spring 2026 Creative Development Podcast Internship](https://jobright.ai/jobs/info/6938b2f2b95c305f206deeaa?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 09 |
+| **[Los Angeles Times](http://www.latimes.com)** | **[Production Intern (LA Times Studios)](https://jobright.ai/jobs/info/69141d5a1465e02904e9a7b5?utm_campaign=1053&utm_source=git)** | El Segundo, CA | Hybrid | Dec 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938b41eb95c305f206defbf?utm_campaign=1053&utm_source=git)** | IA-Des Moines;1801 Grand Avenue (WHO) | On Site | Dec 09 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern - News and Insights](https://jobright.ai/jobs/info/69388a5bb95c305f206dba98?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Dec 09 |
 | **[PS Creative & PS Studios](https://www.personalizedsolu.com/)** | **[Studio & Editing Intern](https://jobright.ai/jobs/info/6938c201b95c305f206df944?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Dec 09 |
@@ -81,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/693879c8aabec14a727d6119?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Dec 09 |
 | **[Vivrelle](https://www.vivrelle.com/)** | **[Vivrelle Summer Internship Program (June - August)](https://jobright.ai/jobs/info/6938936cb95c305f206dc27f?utm_campaign=1053&utm_source=git)** | New York | On Site | Dec 09 |
 | **[Landmark Educational Tours](https://LandmarkEducationalTours.com)** | **[Event Management Internship](https://jobright.ai/jobs/info/693891c3aabec14a727d7183?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 09 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/69388bccaabec14a727d6d90?utm_campaign=1053&utm_source=git)** | US-FL-Pensacola | On Site | Dec 09 |
-| ↳ | **[Cultural Resources Intern](https://jobright.ai/jobs/info/69388e61aabec14a727d6f80?utm_campaign=1053&utm_source=git)** | US-FL-Gainesville | On Site | Dec 09 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Cultural Resources Intern](https://jobright.ai/jobs/info/69388e61aabec14a727d6f80?utm_campaign=1053&utm_source=git)** | US-FL-Gainesville | On Site | Dec 09 |
+| ↳ | **[Cultural Resources Intern](https://jobright.ai/jobs/info/69388bccaabec14a727d6d90?utm_campaign=1053&utm_source=git)** | US-FL-Pensacola | On Site | Dec 09 |
 | **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Video Producer Intern](https://jobright.ai/jobs/info/6938884caabec14a727d6b47?utm_campaign=1053&utm_source=git)** | Madison, WI - National Office | Hybrid | Dec 09 |
 | **[Alabama Golf Association](https://www.alabamagolf.org)** | **[AGA/USGA P.J. Boatwright Internship: Media & Communications](https://jobright.ai/jobs/info/69387d59aabec14a727d6426?utm_campaign=1053&utm_source=git)** | Birmingham, AL | On Site | Dec 09 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/69388ef3b95c305f206dbd96?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Dec 09 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Red Velvet Studios](redvelvetstudio.com)** | **[LA Music Content Intern](https://jobright.ai/jobs/info/6937d645aabec14a727cd789?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 08 |
 | **[Paramount](https://www.paramount.com)** | **[TV Programming Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69250b2438cd5478a8d61a3a?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[University of Iowa](https://uicb.uiowa.edu)** | **[Athletics HawkVision Intern](https://jobright.ai/jobs/info/693796061c1c2161c13f6099?utm_campaign=1053&utm_source=git)** | Iowa City, IA | Hybrid | Dec 08 |
-| **[Los Angeles Times](http://www.latimes.com)** | **[Production Intern (LA Times Studios)](https://jobright.ai/jobs/info/691d47ec0b7dff7341501dab?utm_campaign=1053&utm_source=git)** | El Segundo, CA | Hybrid | Dec 08 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Gallery Intern](https://jobright.ai/jobs/info/693762eaaabec14a727c7539?utm_campaign=1053&utm_source=git)** | Los Angeles, California | On Site | Dec 08 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Broadcast - Dignity Health Sports Park](https://jobright.ai/jobs/info/69374770aabec14a727c5ea3?utm_campaign=1053&utm_source=git)** | Carson, CA | On Site | Dec 08 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Media Studio Intern](https://jobright.ai/jobs/info/69374419aabec14a727c5bf5?utm_campaign=1053&utm_source=git)** | Portland, OR | On Site | Dec 08 |
@@ -130,8 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917c46815b415636717b5c0?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
 | ↳ | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
 | ↳ | **[Art Bridges Academic Year 2026-27 Traveling Exhibitions Internship](https://jobright.ai/jobs/info/6933ac5a764507023d1b808a?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Art Department Intern – Summer 2026](https://jobright.ai/jobs/info/69341f8f764507023d1bc0e1?utm_campaign=1053&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
-| ↳ | **[Character Animation Intern - Summer 2026](https://jobright.ai/jobs/info/69341c3f764507023d1bbf9b?utm_campaign=1053&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Character Animation Intern - Summer 2026](https://jobright.ai/jobs/info/69341c3f764507023d1bbf9b?utm_campaign=1053&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
 | **[Pixar Animation Studios](https://www.pixar.com)** | **[Character Animation Intern - Summer 2026](https://jobright.ai/jobs/info/69344109f131d96e4846a26e?utm_campaign=1053&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
 | ↳ | **[Art Department Intern – Summer 2026](https://jobright.ai/jobs/info/69343d07764507023d1bc659?utm_campaign=1053&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Dec 06 |
