@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Digital Media Content](https://jobright.ai/jobs/info/693a0370ac80bb5492bc84ba?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Dec 10 |
 | ↳ | **[Intern, Digital Media Content](https://jobright.ai/jobs/info/693a02c756b68f3dc4e75926?utm_campaign=1053&utm_source=git)** | United States | On Site | Dec 10 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Dec 10 |
+| **[Bands On Brand](www.bandsonbrand.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/693afc10b309e3780086ab54?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 10 |
 | **[Zoetis](https://www.zoetis.com)** | **[Event Planning Intern](https://jobright.ai/jobs/info/6939f61aac80bb5492bc6c85?utm_campaign=1053&utm_source=git)** | US Remote | Remote | Dec 10 |
 | **[Launch Live Now](http://launchlivenow.com)** | **[Live Production Internship (Paid)](https://jobright.ai/jobs/info/693a43c3ac80bb5492bcc4fd?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 10 |
 | **[Gray Media](http://www.gray.tv)** | **[WIS NEWSROOM "CRAIG MELVIN INTERNSHIP" SPRING '26 - WIS-TV](https://jobright.ai/jobs/info/6939e4bd56b68f3dc4e738b4?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Dec 10 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6931e275d0010831497bc93b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Dec 06 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6920d1233f782d2f1afcbce1?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Dec 06 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring) - Sheraton Overland Park](https://jobright.ai/jobs/info/69346aa3f131d96e4846aa05?utm_campaign=1053&utm_source=git)** | Overland Park, KS | On Site | Dec 06 |
-| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917c46815b415636717b5c0?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
+| ↳ | **[Art Bridges Summer 2026 Registration Internship](https://jobright.ai/jobs/info/69346157764507023d1bce6b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
 | ↳ | **[Art Bridges Academic Year 2026-27 Traveling Exhibitions Internship](https://jobright.ai/jobs/info/6933ac5a764507023d1b808a?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
-| ↳ | **[Art Bridges Summer 2026 Curatorial Internship](https://jobright.ai/jobs/info/6917ce6615b415636717bb43?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Social Media Intern (ComicArts)](https://jobright.ai/jobs/info/69335849764507023d1b4892?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
 | **[Pixar Animation Studios](https://www.pixar.com)** | **[Character Animation Intern - Summer 2026](https://jobright.ai/jobs/info/69344109f131d96e4846a26e?utm_campaign=1053&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
 | ↳ | **[Art Department Intern – Summer 2026](https://jobright.ai/jobs/info/69343d07764507023d1bc659?utm_campaign=1053&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Video Content Intern](https://jobright.ai/jobs/info/68984e44faa4e875e824dc8c?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Dec 06 |
-| ↳ | **[Writing & Editing Intern](https://jobright.ai/jobs/info/68e9491465768b6412b1a1ac?utm_campaign=1053&utm_source=git)** | Strongsville, OH | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
