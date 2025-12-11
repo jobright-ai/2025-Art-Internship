@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/693aad6cd4054a2bc024b137?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 11 |
 | **[Intermedium USA](https://intermediumcorp.com)** | **[Internship -social media editor  EXPERIENCE -  social media editing experience  Internship](https://jobright.ai/jobs/info/693a67ff56b68f3dc4e7c714?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus News & Politics Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/693a8e75ed39e94c66590da7?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 10 |
 | **[City of Savannah](https://www.savannahga.gov/)** | **[Performing Arts Production Internship- Unpaid](https://jobright.ai/jobs/info/693a81baf4e44c4d629d2be7?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 10 |
 | **[Sail AI](https://www.sail-ai.com/)** | **[Video Content Specialist](https://jobright.ai/jobs/info/693a453356b68f3dc4e79c80?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Dec 10 |
 | **[Converted Closet](https://www.convertedcloset.com/)** | **[Fashion Design & Sewing Intern](https://jobright.ai/jobs/info/693a0ebdac80bb5492bc934d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 10 |
 | **[Zoetis](https://www.zoetis.com)** | **[Event Planning Intern](https://jobright.ai/jobs/info/6939e67756b68f3dc4e739fd?utm_campaign=1053&utm_source=git)** | US Remote | Remote | Dec 10 |
-| **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Digital Media Content](https://jobright.ai/jobs/info/693a02c756b68f3dc4e75926?utm_campaign=1053&utm_source=git)** | United States | On Site | Dec 10 |
-| ↳ | **[Intern, Digital Media Content](https://jobright.ai/jobs/info/693a0370ac80bb5492bc84ba?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Dec 10 |
+| **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Digital Media Content](https://jobright.ai/jobs/info/693a0370ac80bb5492bc84ba?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Dec 10 |
+| ↳ | **[Intern, Digital Media Content](https://jobright.ai/jobs/info/693a02c756b68f3dc4e75926?utm_campaign=1053&utm_source=git)** | United States | On Site | Dec 10 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Dec 10 |
 | **[Zoetis](https://www.zoetis.com)** | **[Event Planning Intern](https://jobright.ai/jobs/info/6939f61aac80bb5492bc6c85?utm_campaign=1053&utm_source=git)** | US Remote | Remote | Dec 10 |
 | **[Launch Live Now](http://launchlivenow.com)** | **[Live Production Internship (Paid)](https://jobright.ai/jobs/info/693a43c3ac80bb5492bcc4fd?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 10 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[MBJ Network](www.mbj-network.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/69396cdcac80bb5492bbf5a3?utm_campaign=1053&utm_source=git)** | Lombard, IL | On Site | Dec 10 |
 | ↳ | **[Assistant Editor- Intern](https://jobright.ai/jobs/info/69395c5dac80bb5492bbf239?utm_campaign=1053&utm_source=git)** | Lombard, IL | On Site | Dec 10 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6938e875a0dde7020e3187ec?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Dec 09 |
-| **[Iowa Public Radio](https://www.iowapublicradio.org/)** | **[News Fellow](https://jobright.ai/jobs/info/6938e584a0dde7020e318651?utm_campaign=1053&utm_source=git)** | Des Moines, IA | Hybrid | Dec 09 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/6938e102a0dde7020e317ee6?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Dec 09 |
 | **[Merced County](https://www.co.merced.ca.us/)** | **[Extra-Help Student Intern](https://jobright.ai/jobs/info/693a52fbac80bb5492bce5c2?utm_campaign=1053&utm_source=git)** | Merced, CA | On Site | Dec 09 |
 | **[Vivrelle](https://www.vivrelle.com/)** | **[Vivrelle Summer Internship Program (June - August)](https://jobright.ai/jobs/info/6938f45cb95c305f206e3313?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Dec 09 |
