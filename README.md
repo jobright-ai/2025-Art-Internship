@@ -74,8 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/693b4e575f2c001987ed50bc?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Dec 11 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/693b4b12d4054a2bc0253920?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Dec 11 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/693b449ab309e3780086f9e9?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Dec 11 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/693b41185f2c001987ed3d33?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Dec 11 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/693b4147d4054a2bc0252c59?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 11 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/693b41185f2c001987ed3d33?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Dec 11 |
 | **[Lee Enterprises](http://lee.net/)** | **[Visual Journalist-Summer Internship, St. Louis](https://jobright.ai/jobs/info/693b409cd4054a2bc0252ba3?utm_campaign=1053&utm_source=git)** | St. Louis, MO, USA | On Site | Dec 11 |
 | **[Atlanta Hawks](https://www.nba.com/hawks)** | **[Event Operations, HBCU Pathways Internship](https://jobright.ai/jobs/info/693b4a235f2c001987ed46a2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/691b8e5022a2cb4b9bd1393c?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 11 |
@@ -86,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Sail AI](wivibo.com)** | **[Video Content Specialist](https://jobright.ai/jobs/info/693a453356b68f3dc4e79c80?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Dec 10 |
 | **[Successful Black Parenting](https://SuccessfulBlackParenting.com)** | **[Virtual Conference Production Intern (Remote)](https://jobright.ai/jobs/info/693ae08fd4054a2bc024d489?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Zoetis](https://www.zoetis.com)** | **[Event Planning Intern](https://jobright.ai/jobs/info/6939e67756b68f3dc4e739fd?utm_campaign=1053&utm_source=git)** | US Remote | Remote | Dec 10 |
-| **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Digital Media Content](https://jobright.ai/jobs/info/693a0370ac80bb5492bc84ba?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Dec 10 |
-| ↳ | **[Intern, Digital Media Content](https://jobright.ai/jobs/info/693a02c756b68f3dc4e75926?utm_campaign=1053&utm_source=git)** | United States | On Site | Dec 10 |
+| **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Digital Media Content](https://jobright.ai/jobs/info/693a02c756b68f3dc4e75926?utm_campaign=1053&utm_source=git)** | United States | On Site | Dec 10 |
+| ↳ | **[Intern, Digital Media Content](https://jobright.ai/jobs/info/693a0370ac80bb5492bc84ba?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Dec 10 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Dec 10 |
 | **[Zoetis](https://www.zoetis.com)** | **[Event Planning Intern](https://jobright.ai/jobs/info/6939f61aac80bb5492bc6c85?utm_campaign=1053&utm_source=git)** | US Remote | Remote | Dec 10 |
 | **[Launch Live Now](http://launchlivenow.com)** | **[Live Production Internship (Paid)](https://jobright.ai/jobs/info/693a43c3ac80bb5492bcc4fd?utm_campaign=1053&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 10 |
@@ -107,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/6918efb5bcdbf3560c9d3eed?utm_campaign=1053&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Dec 10 |
 | **[MBJ Network](www.mbj-network.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/69396cdcac80bb5492bbf5a3?utm_campaign=1053&utm_source=git)** | Lombard, IL | On Site | Dec 10 |
 | ↳ | **[Assistant Editor- Intern](https://jobright.ai/jobs/info/69395c5dac80bb5492bbf239?utm_campaign=1053&utm_source=git)** | Lombard, IL | On Site | Dec 10 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Venue Operations Intern](https://jobright.ai/jobs/info/693bd8a749a7695fbd02b95b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 09 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6938e875a0dde7020e3187ec?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Dec 09 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/6938e102a0dde7020e317ee6?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Dec 09 |
 | **[Merced County](https://www.co.merced.ca.us/)** | **[Extra-Help Student Intern](https://jobright.ai/jobs/info/693a52fbac80bb5492bce5c2?utm_campaign=1053&utm_source=git)** | Merced, CA | On Site | Dec 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Empower Aesthetics](https://www.empower.spa)** | **[Aesthetic Nurse Intern](https://jobright.ai/jobs/info/6938e879aabec14a727ddcf3?utm_campaign=1053&utm_source=git)** | Nashville,TN,US | On Site | Dec 08 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Editorial Intern (ComicArts/Magna)](https://jobright.ai/jobs/info/6937058aa0dde7020e2fe6fd?utm_campaign=1053&utm_source=git)** | New York, NY, US | Hybrid | Dec 08 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Video Production - Summer Internship 2026](https://jobright.ai/jobs/info/69263935f0beb072326233f0?utm_campaign=1053&utm_source=git)** | McKinney, TX | On Site | Dec 08 |
-| **[The YEARS Project](https://www.theyearsproject.com)** | **[CLIMATE MEDIA INTERN](https://jobright.ai/jobs/info/6936fd0ca0dde7020e2fe3b9?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
