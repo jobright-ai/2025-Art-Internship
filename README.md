@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Junior Editorial Writer Intern - Pop Culture & Lifestyle](https://jobright.ai/jobs/info/693b8dc55f2c001987ed7bf1?utm_campaign=1053&utm_source=git)** | Chicago, IL | Remote | Dec 11 |
+| **[National Heritage Academies](https://www.nhaschools.com)** | **[Special Events Intern](https://jobright.ai/jobs/info/693b609eb309e378008721ac?utm_campaign=1053&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | Dec 11 |
+| **[Diablo/Freud Tools](https://diablotools.com/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[2026 Graduate Summer Intern (NJ) - NFL Films](https://jobright.ai/jobs/info/693b3f355f2c001987ed3b98?utm_campaign=1053&utm_source=git)** | Mount Laurel, NJ | On Site | Dec 11 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr Editorial Writer Intern - Pop Culture & Lifestyle](https://jobright.ai/jobs/info/693b1d46b309e3780086d8f9?utm_campaign=1053&utm_source=git)** | Chicago, Illinois, United States | Remote | Dec 11 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/693b4046d4054a2bc0252b5c?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
@@ -102,12 +105,12 @@ For a complete list, click the following sortable link below:
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/6938e102a0dde7020e317ee6?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Dec 09 |
 | **[Merced County](https://www.co.merced.ca.us/)** | **[Extra-Help Student Intern](https://jobright.ai/jobs/info/693a52fbac80bb5492bce5c2?utm_campaign=1053&utm_source=git)** | Merced, CA | On Site | Dec 09 |
 | **[Vivrelle](https://www.vivrelle.com/)** | **[Vivrelle Summer Internship Program (June - August)](https://jobright.ai/jobs/info/6938f45cb95c305f206e3313?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Dec 09 |
+| **[City of Savannah](https://www.savannahga.gov/)** | **[Performing Arts Production Internship- Unpaid](https://jobright.ai/jobs/info/693b906fb309e37800873ae7?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938ede1b95c305f206e2e4b?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Dec 09 |
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/6938f1e8aabec14a727de3e4?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Dec 09 |
 | **[Insomnia Visuals](www.insomniavisuals.com)** | **[Content Production & Social Media Intern](https://jobright.ai/jobs/info/6938bce9aabec14a727da896?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 09 |
 | **[Sync with God](https://syncwithgod.com)** | **[Content/Book Editor Intern](https://jobright.ai/jobs/info/6938bcbfaabec14a727da86f?utm_campaign=1053&utm_source=git)** | Lincoln County, NE | On Site | Dec 09 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6938e340b95c305f206e21ab?utm_campaign=1053&utm_source=git)** | US-KY-Louisville | On Site | Dec 09 |
-| **[Diablo/Freud Tools](https://diablotools.com/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d7?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 09 |
 | **[Los Angeles Times](http://www.latimes.com)** | **[Production Intern (LA Times Studios)](https://jobright.ai/jobs/info/69141d5a1465e02904e9a7b5?utm_campaign=1053&utm_source=git)** | El Segundo, CA | Hybrid | Dec 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938b41eb95c305f206defbf?utm_campaign=1053&utm_source=git)** | IA-Des Moines;1801 Grand Avenue (WHO) | On Site | Dec 09 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern - News and Insights](https://jobright.ai/jobs/info/69388a5bb95c305f206dba98?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Dec 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ILM VFX  Intern, Summer 2026](https://jobright.ai/jobs/info/693691a944eb324fb785c7b6?utm_campaign=1053&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 08 |
 | **[Rock & Roll Hall of Fame](http://www.rockhall.com/visit-the-museum/learn/)** | **[Artist in Residence](https://jobright.ai/jobs/info/69377c47aabec14a727c88ca?utm_campaign=1053&utm_source=git)** | Cleveland, OH | On Site | Dec 07 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6935f7dba0dde7020e2f9b4a?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 07 |
-| **[Tombras](http://tombras.com)** | **[Post - Production Intern](https://jobright.ai/jobs/info/693502a0a0dde7020e2f70da?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
-| ↳ | **[Production Assistant Intern](https://jobright.ai/jobs/info/69350127a0dde7020e2f70a1?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
-| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6931e275d0010831497bc93b?utm_campaign=1053&utm_source=git)** | New York, New York, United States | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
