@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Editorial Services Summer Intern](https://jobright.ai/jobs/info/693cc6c1aa598a08c3ed98d8?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 12 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Writing Intern](https://jobright.ai/jobs/info/693cd67caa598a08c3eda0f4?utm_campaign=1053&utm_source=git)** | Longwood, FL | On Site | Dec 12 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/693cb4f450bbaf76504ff1f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Editorial Services Summer Intern](https://jobright.ai/jobs/info/693c95c349a7695fbd035c6a?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 12 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Development Intern](https://jobright.ai/jobs/info/693c9374aa598a08c3ed6a1f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 12 |
@@ -71,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Intern, Quirk Books Imprint](https://jobright.ai/jobs/info/693c441450bbaf76504f83e0?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Dec 12 |
 | **[Quirk Books](http://www.quirkbooks.com)** | **[Intern, Cross-departmental](https://jobright.ai/jobs/info/693c4e5d49a7695fbd030f53?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Dec 12 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/693c4c1c50bbaf76504f87d0?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
-| ↳ | **[Podcast Development Intern](https://jobright.ai/jobs/info/693c4811aa598a08c3ed2619?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
+| ↳ | **[Podcast Development Intern](https://jobright.ai/jobs/info/693c4b6250bbaf76504f8767?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
 | **[FIRST](https://firstagency.com/)** | **[Roadshow Intern - Spring 2026](https://jobright.ai/jobs/info/6903dc84ff462851fefefde6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 12 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring) - Saint John's Resort](https://jobright.ai/jobs/info/68e4903db99ec3563b0ebab2?utm_campaign=1053&utm_source=git)** | Plymouth, MI | On Site | Dec 12 |
 | **[SISTAH MAGAZINE](www.sistahmagazine.com)** | **[Editorial Contributor Intern – Unpaid / Portfolio-Building Opportunity](https://jobright.ai/jobs/info/693c54dbaa598a08c3ed41f9?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 12 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[National Football League (NFL)](http://www.nfl.com)** | **[2026 Graduate Summer Intern (NJ) - NFL Films](https://jobright.ai/jobs/info/693b27fd5f2c001987ed2601?utm_campaign=1053&utm_source=git)** | Mount Laurel, New Jersey, United States | On Site | Dec 11 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Broadcast - Dignity Health Sports Park](https://jobright.ai/jobs/info/69373f3c1c1c2161c13f1f2c?utm_campaign=1053&utm_source=git)** | Carson, CA | On Site | Dec 11 |
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Dec 11 |
-| **[Sail AI](wivibo.com)** | **[Video Content Apprentice/Intern](https://jobright.ai/jobs/info/693a453356b68f3dc4e79c80?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Dec 11 |
 | **[MichaudCPAs](https://michaudcpas.com/)** | **[Business Operations Assistant (Co-op)](https://jobright.ai/jobs/info/693c138f50bbaf76504f6059?utm_campaign=1053&utm_source=git)** | Thorold, Ontario, Canada | On Site | Dec 10 |
+| **[Sail AI](wivibo.com)** | **[Video Content Specialist](https://jobright.ai/jobs/info/693a453356b68f3dc4e79c80?utm_campaign=1053&utm_source=git)** | Dallas, TX | Hybrid | Dec 10 |
 | **[Successful Black Parenting Magazine](https://SuccessfulBlackParenting.com)** | **[Virtual Conference Production Intern (Remote)](https://jobright.ai/jobs/info/693ae08fd4054a2bc024d489?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Zoetis](https://www.zoetis.com)** | **[Event Planning Intern](https://jobright.ai/jobs/info/6939e67756b68f3dc4e739fd?utm_campaign=1053&utm_source=git)** | US Remote | Remote | Dec 10 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Digital Media Content](https://jobright.ai/jobs/info/693a02c756b68f3dc4e75926?utm_campaign=1053&utm_source=git)** | United States | On Site | Dec 10 |
@@ -140,7 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Insomnia Visuals](www.insomniavisuals.com)** | **[Content Production & Social Media Intern](https://jobright.ai/jobs/info/6938bce9aabec14a727da896?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 09 |
 | **[Sync with God](https://syncwithgod.com)** | **[Content/Book Editor Intern](https://jobright.ai/jobs/info/6938bcbfaabec14a727da86f?utm_campaign=1053&utm_source=git)** | Lincoln County, NE | On Site | Dec 09 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6938e340b95c305f206e21ab?utm_campaign=1053&utm_source=git)** | US-KY-Louisville | On Site | Dec 09 |
-| **[Los Angeles Times](http://www.latimes.com)** | **[Production Intern (LA Times Studios)](https://jobright.ai/jobs/info/69141d5a1465e02904e9a7b5?utm_campaign=1053&utm_source=git)** | El Segundo, CA | Hybrid | Dec 09 |
+| **[ease](easeradio.com)** | **[Spring 2026 Creative Development Podcast Internship](https://jobright.ai/jobs/info/6938b2f2b95c305f206deeaa?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938b41eb95c305f206defbf?utm_campaign=1053&utm_source=git)** | IA-Des Moines;1801 Grand Avenue (WHO) | On Site | Dec 09 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern - News and Insights](https://jobright.ai/jobs/info/69388a5bb95c305f206dba98?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Dec 09 |
 | **[PS Creative & PS Studios](https://www.personalizedsolu.com/)** | **[Studio & Editing Intern](https://jobright.ai/jobs/info/6938c201b95c305f206df944?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Dec 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68ec8f0dc26b9574506f3896?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 09 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/691bec6d22a2cb4b9bd178d1?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Video Production Intern, Summer 2026](https://jobright.ai/jobs/info/693816f4aabec14a727cff0f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 09 |
-| ↳ | **[ILM VFX  Intern, Summer 2026](https://jobright.ai/jobs/info/693815b5aabec14a727cfec9?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
