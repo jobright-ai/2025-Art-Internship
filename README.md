@@ -84,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Andrews McMeel Universal](http://www.amuniversal.com/)** | **[Intern, Quirk Books Imprint](https://jobright.ai/jobs/info/693c441450bbaf76504f83e0?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Dec 12 |
 | **[Quirk Books](http://www.quirkbooks.com)** | **[Intern, Cross-departmental](https://jobright.ai/jobs/info/693c4e5d49a7695fbd030f53?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Dec 12 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/693c4c1c50bbaf76504f87d0?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
-| ↳ | **[Podcast Development Intern](https://jobright.ai/jobs/info/693c4811aa598a08c3ed2619?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
+| ↳ | **[Podcast Development Intern](https://jobright.ai/jobs/info/693c4b2baa598a08c3ed30fa?utm_campaign=1053&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
 | **[FIRST](https://firstagency.com/)** | **[Roadshow Intern - Spring 2026](https://jobright.ai/jobs/info/6903dc84ff462851fefefde6?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sports Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6e3a5e8daec61499b0178?utm_campaign=1053&utm_source=git)** | Metairie, LA | Hybrid | Dec 12 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Internship (Spring) - Saint John's Resort](https://jobright.ai/jobs/info/68e4903db99ec3563b0ebab2?utm_campaign=1053&utm_source=git)** | Plymouth, MI | On Site | Dec 12 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Insomnia Visuals](www.insomniavisuals.com)** | **[Content Production & Social Media Intern](https://jobright.ai/jobs/info/6938bce9aabec14a727da896?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 09 |
 | **[Sync with God](https://syncwithgod.com)** | **[Content/Book Editor Intern](https://jobright.ai/jobs/info/6938bcbfaabec14a727da86f?utm_campaign=1053&utm_source=git)** | Lincoln County, NE | On Site | Dec 09 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6938e340b95c305f206e21ab?utm_campaign=1053&utm_source=git)** | US-KY-Louisville | On Site | Dec 09 |
+| **[Los Angeles Times](http://www.latimes.com)** | **[Production Intern (LA Times Studios)](https://jobright.ai/jobs/info/69141d5a1465e02904e9a7b5?utm_campaign=1053&utm_source=git)** | El Segundo, CA | Hybrid | Dec 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Hello Iowa Intern (Unpaid)](https://jobright.ai/jobs/info/6938b41eb95c305f206defbf?utm_campaign=1053&utm_source=git)** | IA-Des Moines;1801 Grand Avenue (WHO) | On Site | Dec 09 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern - News and Insights](https://jobright.ai/jobs/info/69388a5bb95c305f206dba98?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Dec 09 |
 | **[PS Creative & PS Studios](https://www.personalizedsolu.com/)** | **[Studio & Editing Intern](https://jobright.ai/jobs/info/6938c201b95c305f206df944?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ | On Site | Dec 09 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Fellowship](https://jobright.ai/jobs/info/6938afcfaabec14a727d9f94?utm_campaign=1053&utm_source=git)** | Jersey City, NJ | Hybrid | Dec 09 |
-| **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/69387f36aabec14a727d65b0?utm_campaign=1053&utm_source=git)** | Boston, MA | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
