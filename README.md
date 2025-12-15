@@ -101,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Video Producer Intern](https://jobright.ai/jobs/info/69201ce909cc522e8774828e?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Dec 12 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - VFX](https://jobright.ai/jobs/info/68e8572209580a2fe57f6a36?utm_campaign=1053&utm_source=git)** | Irvine, CA | On Site | Dec 12 |
 | **[Richmond Kickers](https://www.richmondkickers.com)** | **[Game Presentation Internship](https://jobright.ai/jobs/info/693beb2baa598a08c3ecf01f?utm_campaign=1053&utm_source=git)** | Richmond, VA | On Site | Dec 12 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Weather Intern- Spring, 2026](https://jobright.ai/jobs/info/68e6e4e4ae2b894b1d71f498?utm_campaign=1053&utm_source=git)** | Metairie, LA | On Site | Dec 12 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/69267184d47de4798ecd7598?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 11 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6920d1233f782d2f1afcbce1?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Dec 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Talent Group Intern - Summer 2026 (Open to Canadian Citizens & PR only)](https://jobright.ai/jobs/info/693b99c5d4054a2bc02581ce?utm_campaign=1053&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Dec 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MRA Recruiting Services](https://mra.applytojob.com/apply/)** | **[Paid Filmmaker Internship](https://jobright.ai/jobs/info/6938f1e8aabec14a727de3e4?utm_campaign=1053&utm_source=git)** | Rock Island, IL | On Site | Dec 09 |
 | **[Sync with God](https://syncwithgod.com)** | **[Content/Book Editor Intern](https://jobright.ai/jobs/info/6938bcbfaabec14a727da86f?utm_campaign=1053&utm_source=git)** | Lincoln County, NE | On Site | Dec 09 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6938e340b95c305f206e21ab?utm_campaign=1053&utm_source=git)** | US-KY-Louisville | On Site | Dec 09 |
-| **[ease](easeradio.com)** | **[Spring 2026 Creative Development Podcast Internship](https://jobright.ai/jobs/info/6938b2f2b95c305f206deeaa?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
