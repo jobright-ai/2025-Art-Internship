@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/692ec523ef4b48533d1412d3?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 16 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Art Prep Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/6941e13314ee092a69fff41f?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 16 |
+| ↳ | **[2026 Art Management Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/6941dfbebdcf884a5add950b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 16 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Special Event Crew Intern](https://jobright.ai/jobs/info/6941de8ebdcf884a5add934e?utm_campaign=1053&utm_source=git)** | Auburn, AL | On Site | Dec 16 |
+| **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Gameday Intern - Press Box Operations](https://jobright.ai/jobs/info/6941db3650bbaf7650539fba?utm_campaign=1053&utm_source=git)** | Madison, WI | On Site | Dec 16 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Event Operations](https://jobright.ai/jobs/info/6941d397bdcf884a5add8880?utm_campaign=1053&utm_source=git)** | Vero Beach, FL | On Site | Dec 16 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports HQ Production Internship (Summer 2026, In Person - Ft Lauderdale)](https://jobright.ai/jobs/info/6941c85750bbaf7650539508?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 16 |
+| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Video Editing Intern](https://jobright.ai/jobs/info/6941e89114ee092a69000003?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 16 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Barron's Reporter Intern](https://jobright.ai/jobs/info/6941b50350bbaf7650538a15?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 16 |
+| **[Myers Park Country Club](http://myersparkcc.com)** | **[Golf Intern](https://jobright.ai/jobs/info/6941db5750bbaf7650539fdd?utm_campaign=1053&utm_source=git)** | Charlotte,NC,US | On Site | Dec 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studio Talent Group Intern - Summer 2026 (Open to Canadian Citizens & PR only)](https://jobright.ai/jobs/info/693d618e49a7695fbd03fb2d?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 16 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 Editorial Intern](https://jobright.ai/jobs/info/694197ea14ee092a69ffaf4f?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
 | **[Readeezy](http://readeezy.com)** | **[Fiction Writer Intern](https://jobright.ai/jobs/info/69418ff650bbaf76505361a2?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 16 |
@@ -144,17 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/693b4e575f2c001987ed50bc?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Dec 11 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/693b4b12d4054a2bc0253920?utm_campaign=1053&utm_source=git)** | Naperville, IL | On Site | Dec 11 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/693b449ab309e3780086f9e9?utm_campaign=1053&utm_source=git)** | Providence, RI | On Site | Dec 11 |
-| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/693b4147d4054a2bc0252c59?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 11 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/693b41185f2c001987ed3d33?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Dec 11 |
+| ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/693b4147d4054a2bc0252c59?utm_campaign=1053&utm_source=git)** | Knoxville, TN | On Site | Dec 11 |
 | **[Lee Enterprises](http://lee.net/)** | **[Visual Journalist-Summer Internship, St. Louis](https://jobright.ai/jobs/info/693b409cd4054a2bc0252ba3?utm_campaign=1053&utm_source=git)** | St. Louis, MO, USA | On Site | Dec 11 |
 | **[Atlanta Hawks](https://www.nba.com/hawks)** | **[Event Operations, HBCU Pathways Internship](https://jobright.ai/jobs/info/693b4a235f2c001987ed46a2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[2026 Graduate Summer Intern (NJ) - NFL Films](https://jobright.ai/jobs/info/693b27fd5f2c001987ed2601?utm_campaign=1053&utm_source=git)** | Mount Laurel, New Jersey, United States | On Site | Dec 11 |
 | **[Xanterra Travel Collection](http://www.xanterra.com/)** | **[Summer 2026 Golf and Greenskeeping Internship - Oasis at Death Valley](https://jobright.ai/jobs/info/69000a9ce04ac838fb5bea1c?utm_campaign=1053&utm_source=git)** | Death Valley, CA | On Site | Dec 11 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Lucasfilm Video Production Intern, Summer 2026](https://jobright.ai/jobs/info/693816f4aabec14a727cff0f?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 11 |
-| **[Epic Games](https://epicgames.com)** | **[Gameplay Animation Intern](https://jobright.ai/jobs/info/69017b0fd5259a1b3cff5421?utm_campaign=1053&utm_source=git)** | Cary, NC | On Site | Dec 11 |
-| **[Zoetis](https://www.zoetis.com)** | **[Event Planning Intern](https://jobright.ai/jobs/info/6939e67756b68f3dc4e739fd?utm_campaign=1053&utm_source=git)** | US Remote | Remote | Dec 10 |
-| **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Digital Media Content](https://jobright.ai/jobs/info/693a0370ac80bb5492bc84ba?utm_campaign=1053&utm_source=git)** | Santa Monica, CA | On Site | Dec 10 |
-| ↳ | **[Intern, Digital Media Content](https://jobright.ai/jobs/info/693a02c756b68f3dc4e75926?utm_campaign=1053&utm_source=git)** | United States | On Site | Dec 10 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Editorial Creator Intern - College Credit](https://jobright.ai/jobs/info/68e42046b99ec3563b0e64c9?utm_campaign=1053&utm_source=git)** | New York, United States | On Site | Dec 10 |
-| **[Zoetis](https://www.zoetis.com)** | **[Event Planning Intern](https://jobright.ai/jobs/info/6939f61aac80bb5492bc6c85?utm_campaign=1053&utm_source=git)** | US Remote | Remote | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
