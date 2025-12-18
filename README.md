@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | Hybrid | Dec 18 |
+| **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Dec 18 |
+| **[Winsupply](http://www.winsupplyinc.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/68b7112ff4e41a61efd95649?utm_campaign=1053&utm_source=git)** | Moraine, OH | On Site | Dec 18 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/690ac9914a1b456627b0b5c8?utm_campaign=1053&utm_source=git)** | Topeka Metropolitan Area | On Site | Dec 18 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/690a6177bcccf20de59e184c?utm_campaign=1053&utm_source=git)** | Albany, NY | On Site | Dec 18 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Editorial Intern](https://jobright.ai/jobs/info/6933a918f131d96e48465a09?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 17 |
@@ -69,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69437586dd382f5f566986ba?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 17 |
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69437526dd382f5f56698694?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Dec 17 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 17 |
-| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69436d3594730b73987687c4?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 17 |
-| ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 17 |
+| **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 17 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 17 |
 | ↳ | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943624650bbaf765055485d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 17 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69437e6694730b7398769c14?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Dec 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943518a50bbaf7650553421?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
@@ -78,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Jomboy Media](https://jomboymedia.com)** | **[Social Editor Internship- Talkin Giants- Spring 2026](https://jobright.ai/jobs/info/69435d1550bbaf7650553f91?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Broadway Theater Camp - Internship (10-day opportunity)](https://jobright.ai/jobs/info/6943550c50bbaf7650553669?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Dec 17 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943491b94730b73987658bf?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 17 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69434df494730b7398765c51?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943497ddd382f5f566949a1?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
 | **[AAAS](http://www.aaas.org/)** | **[Newsletter Intern](https://jobright.ai/jobs/info/694345be50bbaf7650552b12?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943455894730b7398765753?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
 | ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69433bb650bbaf76505519a1?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
@@ -134,7 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Global Creative Production](https://jobright.ai/jobs/info/69403295aa598a08c3efd3ac?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
 | **[DRIP AND DIP](dripanddipiv.com)** | **[Videographer](https://jobright.ai/jobs/info/69405a5550bbaf76505262e1?utm_campaign=1053&utm_source=git)** | Miami, FL | On Site | Dec 15 |
 | **[TGR](http://www.thegarnettereport.com)** | **[Spring/Summer Internship](https://jobright.ai/jobs/info/69402f40aa598a08c3efd1da?utm_campaign=1053&utm_source=git)** | NYC Metro Area | On Site | Dec 15 |
-| **[Nigro's Auto Body](phillyautobody.com)** | **[Freelance Videographer](https://jobright.ai/jobs/info/6942bc70dd382f5f5668bbd8?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Dec 15 |
+| **[Nigro's Auto Body Repair](phillyautobody.com)** | **[Freelance Videographer](https://jobright.ai/jobs/info/6942bc70dd382f5f5668bbd8?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | On Site | Dec 15 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Culinary Operations](https://jobright.ai/jobs/info/68ccbd4b128dc347fd928d2b?utm_campaign=1053&utm_source=git)** | Seattle, WA | Hybrid | Dec 15 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Sports Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68e9bba665768b6412b1efbb?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Dec 14 |
 | **[VettaFi](https://vettafi.com/)** | **[Staff Writer Intern](https://jobright.ai/jobs/info/693ecbca49a7695fbd04daf0?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Industrial Light & Magic](http://ilm.com/)** | **[Studio Talent Group Intern - Summer 2026 (Open to Canadian Citizens & PR only)](https://jobright.ai/jobs/info/693d6521aa598a08c3ee117a?utm_campaign=1053&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 13 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Intern Winter/Spring](https://jobright.ai/jobs/info/68e8d6ce4ae21e3abbeee5c6?utm_campaign=1053&utm_source=git)** | Lynchburg, VA | On Site | Dec 13 |
 | **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Editorial Services Summer Intern](https://jobright.ai/jobs/info/693cc6c1aa598a08c3ed98d8?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 12 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Writing Intern](https://jobright.ai/jobs/info/693cd67caa598a08c3eda0f4?utm_campaign=1053&utm_source=git)** | Longwood, FL | On Site | Dec 12 |
-| **[Diablo/Freud Tools](https://diablotools.com/)** | **[AI Video Production Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/693cb4f450bbaf76504ff1f2?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Editorial Services Summer Intern](https://jobright.ai/jobs/info/693c95c349a7695fbd035c6a?utm_campaign=1053&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
