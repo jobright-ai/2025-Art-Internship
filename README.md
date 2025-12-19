@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/6944fe09a7227b3ece66a3fb?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 18 |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6944d9d394730b739878143b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Studio Productions Intern](https://jobright.ai/jobs/info/6944d0b594730b7398780ef3?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Dec 18 |
-| **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6944e3dca7227b3ece668029?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6944baa750bbaf765056d1fa?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 18 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KTVT Dallas/Ft Worth (Summer 2026)](https://jobright.ai/jobs/info/6944b84894730b739877fc03?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 18 |
 | ↳ | **[CBS News Intern, WBBM Chicago (Summer 2026)](https://jobright.ai/jobs/info/6944b5dfa7227b3ece666159?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 18 |
@@ -105,7 +106,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69437526dd382f5f56698694?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Dec 17 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 17 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 17 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 17 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943685e94730b7398768007?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 17 |
 | ↳ | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943624650bbaf765055485d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 17 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69437e6694730b7398769c14?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Dec 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943518a50bbaf7650553421?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
@@ -118,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943455894730b7398765753?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
 | ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69433bb650bbaf76505519a1?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Women's Magazine / Devotional Publishing](https://jobright.ai/jobs/info/694194c650bbaf7650536391?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 17 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Performance and Artist-in-Residence Intern: Summer (Housing Provided)](https://jobright.ai/jobs/info/6943311cdd382f5f56692204?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 17 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Performance and Artist-in-Residence Intern: Summer (Housing Provided)](https://jobright.ai/jobs/info/6943428fdd382f5f566940cb?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 17 |
 | **[Sparo](https://sparomarketing.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69433319dd382f5f5669250a?utm_campaign=1053&utm_source=git)** | Miami-FTL Area | Hybrid | Dec 17 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Gallery Intern](https://jobright.ai/jobs/info/69431e70dd382f5f5669113e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 Editorial Intern](https://jobright.ai/jobs/info/6943208450bbaf765054f8d2?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Park Operations Intern - Presque Isle State Park Complex](https://jobright.ai/jobs/info/69419ed0bdcf884a5add5453?utm_campaign=1053&utm_source=git)** | Erie, PA | On Site | Dec 16 |
 | **[Iowa Public Radio](https://www.iowapublicradio.org/)** | **[News Fellow](https://jobright.ai/jobs/info/69420594bdcf884a5addbe98?utm_campaign=1053&utm_source=git)** | Des Moines, IA | Hybrid | Dec 16 |
 | **[Minnesota Children's Museum](http://www.mcm.org)** | **[Traveling Exhibits Props & Costumes Intern](https://jobright.ai/jobs/info/6940b6ce50bbaf765052b81a?utm_campaign=1053&utm_source=git)** | Saint Paul,MN,US | On Site | Dec 15 |
-| **[CPL](https://cplteam.com/locations)** | **[Placemaking Intern](https://jobright.ai/jobs/info/6940c04aaa598a08c3f059b3?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
