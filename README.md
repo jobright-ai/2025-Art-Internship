@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PROJXON](www.projxon.com)** | **[Podcast Producer (Intern)](https://jobright.ai/jobs/info/6946f26bd1953b5d11c01338?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Remote | Dec 20 |
+| **[StorylineMarketing](storylinemarketing.net)** | **[Freelance Video Editor](https://jobright.ai/jobs/info/6946e6527d506e3808f24467?utm_campaign=1053&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 20 |
 | **[Reach Records](https://www.reachrecords.com)** | **[Reach Records Label Operations & Publishing Intern - Spring 2026](https://jobright.ai/jobs/info/6946cd987d506e3808f22362?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Elvis Duran Morning Show Intern](https://jobright.ai/jobs/info/682b8a0023335c4e00281de0?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Event Technology Intern( Fall or Spring Semester) Hyatt Regency Bonita Springs Resort](https://jobright.ai/jobs/info/68e4adde1852e62f00808742?utm_campaign=1053&utm_source=git)** | Bonita Springs, FL | On Site | Dec 20 |
@@ -131,7 +133,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69437526dd382f5f56698694?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Dec 17 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943736f50bbaf7650556478?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 17 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943686294730b7398768010?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 17 |
-| ↳ | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943644f50bbaf7650554c0f?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 17 |
+| ↳ | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943685e94730b7398768007?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 17 |
 | ↳ | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943624650bbaf765055485d?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 17 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Golf Tournament Operations-FREE TRAVEL and HOUSING](https://jobright.ai/jobs/info/69437e6694730b7398769c14?utm_campaign=1053&utm_source=git)** | Evanston, IL | On Site | Dec 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943518a50bbaf7650553421?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
@@ -144,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943455894730b7398765753?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
 | ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69433bb650bbaf76505519a1?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Women's Magazine / Devotional Publishing](https://jobright.ai/jobs/info/694194c650bbaf7650536391?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 17 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Performance and Artist-in-Residence Intern: Summer (Housing Provided)](https://jobright.ai/jobs/info/6943428fdd382f5f566940cb?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 17 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Performance and Artist-in-Residence Intern: Summer (Housing Provided)](https://jobright.ai/jobs/info/6943311cdd382f5f56692204?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 17 |
 | **[Sparo](https://sparomarketing.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69433319dd382f5f5669250a?utm_campaign=1053&utm_source=git)** | Miami-FTL Area | Hybrid | Dec 17 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Gallery Intern](https://jobright.ai/jobs/info/69431e70dd382f5f5669113e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 Editorial Intern](https://jobright.ai/jobs/info/6943208450bbaf765054f8d2?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/69265f6ff0beb07232624664?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Dec 17 |
 | **[GMI Cloud](https://www.gmicloud.ai)** | **[Video Content Intern](https://jobright.ai/jobs/info/6942b9c650bbaf765054a413?utm_campaign=1053&utm_source=git)** | Mountain View, CA | Hybrid | Dec 17 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Data Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4ad770b66e2345d3c329?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Dec 17 |
-| **[Soccer Shots Southwest Connecticut](https://www.soccershots.com/swct/)** | **[Soccer Shots Fall Internship Experience](https://jobright.ai/jobs/info/6942bf1150bbaf765054a6ab?utm_campaign=1053&utm_source=git)** | Shelton, CT | On Site | Dec 17 |
-| **[American Academy of Neurology](https://www.aan.com)** | **[INTERN, CONFERENCE PROGRAMMING](https://jobright.ai/jobs/info/691bb35c15b4156367191c85?utm_campaign=1053&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
