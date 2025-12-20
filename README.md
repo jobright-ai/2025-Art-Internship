@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skild AI](https://www.skild.ai/)** | **[Cinematography Intern (Product Videography & Social Media)](https://jobright.ai/jobs/info/68d48fabffc1276de3fdbe8a?utm_campaign=1053&utm_source=git)** | San Mateo, CA | On Site | Dec 20 |
 | **[CoPatible](https://copatible.com)** | **[Podcast & Community Storytelling Intern](https://jobright.ai/jobs/info/69463856d1953b5d11bf67a5?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Remote | Dec 19 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/694638267d506e3808f19cfd?utm_campaign=1053&utm_source=git)** | San Francisco Bay Area | On Site | Dec 19 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports CBS Sports Editorial Research Internship (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6945ff807d506e3808f14954?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 19 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Intern- Golf Maintenance](https://jobright.ai/jobs/info/68f0012e9821486c423c886a?utm_campaign=1053&utm_source=git)** | Ridgedale, MO | On Site | Dec 19 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[KATV Spring 2026 Intern](https://jobright.ai/jobs/info/690b9aff221b890c277f61e1?utm_campaign=1053&utm_source=git)** | Little Rock, AR | On Site | Dec 19 |
 | **[Paramount Global](https://www.paramountglobal.com/)** | **[CBS Sports HQ Production Internship (Summer 2026, In Person - Ft Lauderdale)](https://jobright.ai/jobs/info/69453782d1953b5d11be2c20?utm_campaign=1053&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 19 |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6944d9d394730b739878143b?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Studio Productions Intern](https://jobright.ai/jobs/info/6944d0b594730b7398780ef3?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Dec 18 |
-| **[The Ambony](http://www.manofthehourmag.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6944e3dca7227b3ece668029?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6944baa750bbaf765056d1fa?utm_campaign=1053&utm_source=git)** | Portsmouth, VA | On Site | Dec 18 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KTVT Dallas/Ft Worth (Summer 2026)](https://jobright.ai/jobs/info/6944b84894730b739877fc03?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 18 |
 | ↳ | **[CBS News Intern, WBBM Chicago (Summer 2026)](https://jobright.ai/jobs/info/6944b5dfa7227b3ece666159?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/692ec523ef4b48533d1412d3?utm_campaign=1053&utm_source=git)** | Chicago, Illinois | Hybrid | Dec 16 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Art Management Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/69421b0150bbaf765053f530?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 16 |
 | **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Art Prep Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/6941e13314ee092a69fff41f?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 16 |
-| ↳ | **[2026 Art Management Intern: Summer (Housing Not Included)](https://jobright.ai/jobs/info/6941dfbebdcf884a5add950b?utm_campaign=1053&utm_source=git)** | Bentonville, AR | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
