@@ -114,7 +114,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Internship (2026) / Crystal Lake, IL](https://jobright.ai/jobs/info/69444cd794730b739877780e?utm_campaign=1053&utm_source=git)** | Crystal Lake, IL | On Site | Dec 18 |
 | **[THE HEART OF AMERICA SHAKESPEARE FESTIVAL](https://kcshakes.org/)** | **[Summer Arts Administration Intern](https://jobright.ai/jobs/info/69443dea94730b7398775726?utm_campaign=1053&utm_source=git)** | KC Metro Area | On Site | Dec 18 |
 | **[Fleet Response](http://fleetresponse.com)** | **[Intern](https://jobright.ai/jobs/info/694438afdd382f5f566a42fd?utm_campaign=1053&utm_source=git)** | Hudson, OH, US | Hybrid | Dec 18 |
-| **[Rethinking Tech](https://rethinkingtech.co/)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/694453f794730b7398777d0a?utm_campaign=1053&utm_source=git)** | Canada | Remote | Dec 18 |
 | **[LMC Media](https://lmcmedia.org)** | **[Internships](https://jobright.ai/jobs/info/6944436394730b7398775a75?utm_campaign=1053&utm_source=git)** | Mamaroneck, NY | On Site | Dec 18 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Production Intern](https://jobright.ai/jobs/info/66cb0fd317f8014c9eca7712?utm_campaign=1053&utm_source=git)** | Lincoln, NE | Hybrid | Dec 18 |
 | **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[PGA Intern - Summer 2026](https://jobright.ai/jobs/info/68f3125976a51a4307bcabf9?utm_campaign=1053&utm_source=git)** | Big Sky, MT | On Site | Dec 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/69265f6ff0beb07232624664?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Dec 17 |
 | **[GMI Cloud](https://www.gmicloud.ai)** | **[Video Content Intern](https://jobright.ai/jobs/info/6942b9c650bbaf765054a413?utm_campaign=1053&utm_source=git)** | Mountain View, CA | Hybrid | Dec 17 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Data Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4ad770b66e2345d3c329?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Dec 17 |
+| **[Soccer Shots Southwest Connecticut](https://www.soccershots.com/swct/)** | **[Soccer Shots Fall Internship Experience](https://jobright.ai/jobs/info/6942bf1150bbaf765054a6ab?utm_campaign=1053&utm_source=git)** | Shelton, CT | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
