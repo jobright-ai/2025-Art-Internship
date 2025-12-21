@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/6947a2177d506e3808f2f2e7?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 20 |
 | **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Video Editing & Studio Assistant Internship](https://jobright.ai/jobs/info/69476e96d1953b5d11c082fc?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Dec 20 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Executive and Artistic Director, The Soraya](https://jobright.ai/jobs/info/69475d5463141d1884570b2e?utm_campaign=1053&utm_source=git)** | Northridge, CA | On Site | Dec 20 |
 | **[PROJXON](www.projxon.com)** | **[Podcast Producer (Intern)](https://jobright.ai/jobs/info/6946f26bd1953b5d11c01338?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Remote | Dec 20 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern](https://jobright.ai/jobs/info/6945f7f1d1953b5d11bf01bc?utm_campaign=1053&utm_source=git)** | US-GA-Sandy Springs | On Site | Dec 19 |
 | **[The Dallas Morning News](http://www.dallasnews.com)** | **[Audience Intern](https://jobright.ai/jobs/info/694607e97d506e3808f15d14?utm_campaign=1053&utm_source=git)** | Downtown Dallas (TDMN) - Dallas, TX 75201 US (Primary) | On Site | Dec 19 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Production Intern (Hybrid)](https://jobright.ai/jobs/info/6945df53d1953b5d11bef179?utm_campaign=1053&utm_source=git)** | Clearwater, Florida | Hybrid | Dec 19 |
+| **[What Makes Austin Weird Podcast](whatmakesaustinweird.com)** | **[Podcast Production Intern](https://jobright.ai/jobs/info/69479394d1953b5d11c0ac3b?utm_campaign=1053&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/6945d407d1953b5d11bee457?utm_campaign=1053&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[FIO Digital Communications Intern](https://jobright.ai/jobs/info/694668f0d1953b5d11bf9e9f?utm_campaign=1053&utm_source=git)** | Saint Petersburg, FL, United States | On Site | Dec 19 |
 | **[NAOMI NOMI](http://naominomi.com)** | **[Production Intern](https://jobright.ai/jobs/info/6945cc44d1953b5d11beca7d?utm_campaign=1053&utm_source=git)** | New York, United States | Remote | Dec 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. News & World Report](http://www.usnews.com)** | **[2026 Editorial Intern](https://jobright.ai/jobs/info/6942ec9c50bbaf765054bceb?utm_campaign=1053&utm_source=git)** | New York, United States | Hybrid | Dec 17 |
 | **[Tribune Publishing Company](https://www.tribpub.com/)** | **[Intern](https://jobright.ai/jobs/info/6942dd4494730b739875e164?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Dec 17 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Technical Producer](https://jobright.ai/jobs/info/69265f6ff0beb07232624664?utm_campaign=1053&utm_source=git)** | Chicago, IL | Hybrid | Dec 17 |
-| **[GMI Cloud](https://www.gmicloud.ai)** | **[Video Content Intern](https://jobright.ai/jobs/info/6942b9c650bbaf765054a413?utm_campaign=1053&utm_source=git)** | Mountain View, CA | Hybrid | Dec 17 |
-| **[San Francisco Chronicle](http://www.sfgate.com)** | **[Data Reporting Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4ad770b66e2345d3c329?utm_campaign=1053&utm_source=git)** | San Francisco, CA | Hybrid | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
