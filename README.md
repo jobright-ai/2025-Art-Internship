@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 22 |
+| **[Aptiv](http://www.aptiv.com)** | **[Video Intern](https://jobright.ai/jobs/info/68dd8a99a125e75c422abd84?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Dec 22 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d712d0894705799a2f05b5?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692d72ec66796e3028f94c6f?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 22 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6949261663141d188458d8c0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 22 |
 | **[Paramount Global](https://www.paramountglobal.com/)** | **[CBS Sports Production and Production Management Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6948fb1f63141d188458a628?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Jomboy Media](https://jomboymedia.com)** | **[Social Editor Internship- Talkin Giants- Spring 2026](https://jobright.ai/jobs/info/69435d1550bbaf7650553f91?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Broadway Theater Camp - Internship (10-day opportunity)](https://jobright.ai/jobs/info/6943550c50bbaf7650553669?utm_campaign=1053&utm_source=git)** | Des Moines, IA | On Site | Dec 17 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Video Editor Intern, E-Comm](https://jobright.ai/jobs/info/6943491b94730b73987658bf?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 17 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/6943497ddd382f5f566949a1?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
-| **[AAAS](http://www.aaas.org/)** | **[Newsletter Intern](https://jobright.ai/jobs/info/694345be50bbaf7650552b12?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69434df494730b7398765c51?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
