@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6949261663141d188458d8c0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 22 |
 | **[Paramount Global](https://www.paramountglobal.com/)** | **[CBS Sports Production and Production Management Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6948fb1f63141d188458a628?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Culture & Style Intern - Spring 2026](https://jobright.ai/jobs/info/6948f10863141d1884589bc5?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 21 |
 | **[Telefèric Barcelona Restaurant Group](https://www.telefericbarcelona.com)** | **[F&B Internship, California USA](https://jobright.ai/jobs/info/6948f0de63141d1884589ba6?utm_campaign=1053&utm_source=git)** | California, United States | On Site | Dec 21 |
@@ -68,9 +69,9 @@ For a complete list, click the following sortable link below:
 | **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Dec 21 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/6947db1b7d506e3808f3302a?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 21 |
 | **[AAAS](http://www.aaas.org/)** | **[Diverse Voices in Science Journalism Intern](https://jobright.ai/jobs/info/690e733344146d3b6ec5458b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 21 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/6947bb137d506e3808f3149d?utm_campaign=1053&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 21 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/6947bba17d506e3808f316a0?utm_campaign=1053&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 21 |
 | **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Video Editing & Studio Assistant Internship](https://jobright.ai/jobs/info/69476e96d1953b5d11c082fc?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Dec 20 |
-| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6948ecec63141d18845896dc?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
+| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6948ec59d1953b5d11c1fbcd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Executive and Artistic Director, The Soraya](https://jobright.ai/jobs/info/69475d5463141d1884570b2e?utm_campaign=1053&utm_source=git)** | Northridge, CA | On Site | Dec 20 |
 | **[PROJXON](www.projxon.com)** | **[Podcast Producer (Intern)](https://jobright.ai/jobs/info/6946f26bd1953b5d11c01338?utm_campaign=1053&utm_source=git)** | Las Vegas, NV | Remote | Dec 20 |
 | **[Reach Records](https://www.reachrecords.com)** | **[Reach Records Label Operations & Publishing Intern - Spring 2026](https://jobright.ai/jobs/info/6946cd987d506e3808f22362?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Hampton Roads Show/Production Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69434df494730b7398765c51?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
 | **[AAAS](http://www.aaas.org/)** | **[Newsletter Intern](https://jobright.ai/jobs/info/694345be50bbaf7650552b12?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[WAVY Unpaid Digital News Desk Intern, Summer 2026](https://jobright.ai/jobs/info/6943455894730b7398765753?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
-| ↳ | **[WAVY Unpaid Sports Intern, Summer Semester 2026](https://jobright.ai/jobs/info/69433bb650bbaf76505519a1?utm_campaign=1053&utm_source=git)** | VA, Portsmouth | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
