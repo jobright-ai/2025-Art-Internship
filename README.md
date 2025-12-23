@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Videography Internship - Spring 2026](https://jobright.ai/jobs/info/694a49cf3019f50a4fe5712b?utm_campaign=1053&utm_source=git)** | Tampa, FL | On Site | Dec 22 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern](https://jobright.ai/jobs/info/694a1a32c6f0e2546cef231b?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Dec 22 |
 | **[People Inc.](https://www.people.inc/)** | **[Summer Intern, Photo/Video Studio](https://jobright.ai/jobs/info/694a129ac6f0e2546cef11ab?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2026 - Video Services](https://jobright.ai/jobs/info/694a0bce7d506e3808f53727?utm_campaign=1053&utm_source=git)** | Purchase, NY | Hybrid | Dec 22 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, PEOPLE - Editorial](https://jobright.ai/jobs/info/694a00d17d506e3808f51ae3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | ↳ | **[Summer Intern, Byrdie/InStyle Editorial](https://jobright.ai/jobs/info/6949f6c67d506e3808f5062b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[KMBC Studio Productions Intern](https://jobright.ai/jobs/info/694a0fcf7d506e3808f54181?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Dec 22 |
-| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Video Strategy](https://jobright.ai/jobs/info/6949f62e7d506e3808f505b3?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
-| ↳ | **[Summer Intern, PEOPLE - Editorial](https://jobright.ai/jobs/info/694a0a8fc6f0e2546ceefbdc?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
+| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, PEOPLE - Editorial](https://jobright.ai/jobs/info/694a0a8fc6f0e2546ceefbdc?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
+| ↳ | **[Summer Intern, Video Strategy](https://jobright.ai/jobs/info/6949f62e7d506e3808f505b3?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | ↳ | **[Summer Intern, Production](https://jobright.ai/jobs/info/694a039fc6f0e2546ceee90b?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | ↳ | **[Summer Intern, Byrdie/InStyle Editorial](https://jobright.ai/jobs/info/694a0aa463141d188459a678?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Enterprise Creative Studio Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/694a015d63141d1884598fab?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
@@ -83,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, KDKA Pittsburgh (Summer 2026)](https://jobright.ai/jobs/info/694a3d8231c12007d3b90067?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 22 |
 | ↳ | **[CBS News Intern, KPIX San Francisco (Summer 2026)](https://jobright.ai/jobs/info/6949f8c063141d1884597c1a?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 22 |
 | ↳ | **[CBS News Intern, KOVR Sacramento (Summer 2026)](https://jobright.ai/jobs/info/694a0ced7d506e3808f53a65?utm_campaign=1053&utm_source=git)** | West Sacramento, CA | On Site | Dec 22 |
-| **[Indianapolis Colts](http://www.colts.com)** | **[Events Intern](https://jobright.ai/jobs/info/694a111763141d188459b898?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
-| ↳ | **[Events Operations Intern - Part-Time](https://jobright.ai/jobs/info/694a11e97d506e3808f546df?utm_campaign=1053&utm_source=git)** | 19000 Grand Park Blvd, Westfield, IN 46074, USA | On Site | Dec 22 |
+| **[Indianapolis Colts](http://www.colts.com)** | **[Events Operations Intern - Part-Time](https://jobright.ai/jobs/info/694a11e97d506e3808f546df?utm_campaign=1053&utm_source=git)** | 19000 Grand Park Blvd, Westfield, IN 46074, USA | On Site | Dec 22 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/694a111763141d188459b898?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
 | ↳ | **[Mascot Program Intern](https://jobright.ai/jobs/info/694a11d1c6f0e2546cef0fa8?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
 | **[San Francisco 49ers](http://www.49ers.com)** | **[Intern, Live Events Creative](https://jobright.ai/jobs/info/69498f7263141d18845928b8?utm_campaign=1053&utm_source=git)** | Santa Clara, CA | On Site | Dec 22 |
 | ↳ | **[Intern, Creative Podcast & International Content](https://jobright.ai/jobs/info/69498ee663141d18845927d4?utm_campaign=1053&utm_source=git)** | Santa Clara, CA | On Site | Dec 22 |
@@ -92,10 +93,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Artistic Operations Intern](https://jobright.ai/jobs/info/694a050063141d18845996f6?utm_campaign=1053&utm_source=git)** | Cincinnati,OH,US | On Site | Dec 22 |
 | **[Condé Nast](http://www.condenast.com)** | **[Editorial Intern, Vogue Runway](https://jobright.ai/jobs/info/6949943f63141d188459311c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | ↳ | **[Strategic Content Initiatives Intern](https://jobright.ai/jobs/info/69499b597d506e3808f4c29f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| ↳ | **[Editorial Intern, Vogue Runway](https://jobright.ai/jobs/info/694993d87d506e3808f4b9e6?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Dec 22 |
 | ↳ | **[Strategic Content Initiatives Intern](https://jobright.ai/jobs/info/694994f47d506e3808f4bb7e?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Dec 22 |
+| ↳ | **[Editorial Intern, Vogue Runway](https://jobright.ai/jobs/info/694993d87d506e3808f4b9e6?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Dec 22 |
 | **[Aptiv](http://www.aptiv.com)** | **[Video Intern](https://jobright.ai/jobs/info/68dd8a99a125e75c422abd84?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Dec 22 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 22 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d713f1894705799a2f07dc?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692d72ec66796e3028f94c6f?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 22 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6949261663141d188458d8c0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/692d7d4f4c474121999d20bd?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Dec 22 |
@@ -112,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Dec 21 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/6947db1b7d506e3808f3302a?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 21 |
 | **[AAAS](http://www.aaas.org/)** | **[Diverse Voices in Science Journalism Intern](https://jobright.ai/jobs/info/690e733344146d3b6ec5458b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 21 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/6947bb137d506e3808f3149d?utm_campaign=1053&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 21 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/6947bba17d506e3808f316a0?utm_campaign=1053&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 21 |
 | **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Video Editing & Studio Assistant Internship](https://jobright.ai/jobs/info/69476e96d1953b5d11c082fc?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Dec 20 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6948ec59d1953b5d11c1fbcd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Executive and Artistic Director, The Soraya](https://jobright.ai/jobs/info/69475d5463141d1884570b2e?utm_campaign=1053&utm_source=git)** | Northridge, CA | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fast Company](http://www.fastcompany.com)** | **[Editorial Fellowship](https://jobright.ai/jobs/info/694461db50bbaf7650565ee7?utm_campaign=1053&utm_source=git)** | NYC Metro Area | Hybrid | Dec 18 |
 | **[Perfect Game](http://www.perfectgame.org)** | **[Assistant Event Coordinator - West Coast Region - San Diego, CA](https://jobright.ai/jobs/info/69448d04dd382f5f566ab594?utm_campaign=1053&utm_source=git)** | San Diego, CA | On Site | Dec 18 |
 | **[Pinnacle Live](https://www.pinnaclelive.com/)** | **[Venue Intern - Part Time - Audio Visual, Event Technology](https://jobright.ai/jobs/info/69446aec50bbaf765056688f?utm_campaign=1053&utm_source=git)** | Tempe, AZ | On Site | Dec 18 |
-| ↳ | **[Venue Intern - Part Time - Audio Visual, Event Technology](https://jobright.ai/jobs/info/69446a5d94730b739877935b?utm_campaign=1053&utm_source=git)** | Sacramento, CA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
