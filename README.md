@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daktronics](http://www.daktronics.com/en-us)** | **[James Madison University Event Production Intern](https://jobright.ai/jobs/info/694acc0e67a69734cac5eaf0?utm_campaign=1053&utm_source=git)** | Harrisonburg, VA | On Site | Dec 23 |
+| **[IEEE](http://www.ieee.org)** | **[Summer Editorial intern](https://jobright.ai/jobs/info/694acbc41224705e9001e98a?utm_campaign=1053&utm_source=git)** | United States-New York-New York City | On Site | Dec 23 |
+| **[UnCommon Fashion](http://www.theuncommonfashion.com)** | **[UnCommon Fashion Internship Program – Spring 2026](https://jobright.ai/jobs/info/694ac7f81224705e9001e0e0?utm_campaign=1053&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/6938e875a0dde7020e3187ec?utm_campaign=1053&utm_source=git)** | Louisville, KY | On Site | Dec 23 |
 | **[Centric Brands](https://centricbrands.com)** | **[Licensing Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e70bafa28370be26a49e4?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Video Production](https://jobright.ai/jobs/info/682e66f64de36dfb980acd4c?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
@@ -93,14 +96,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mascot Program Intern](https://jobright.ai/jobs/info/694a11d1c6f0e2546cef0fa8?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
 | **[San Francisco 49ers](http://www.49ers.com)** | **[Intern, Live Events Creative](https://jobright.ai/jobs/info/69498f7263141d18845928b8?utm_campaign=1053&utm_source=git)** | Santa Clara, CA | On Site | Dec 22 |
 | ↳ | **[Intern, Creative Podcast & International Content](https://jobright.ai/jobs/info/69498ee663141d18845927d4?utm_campaign=1053&utm_source=git)** | Santa Clara, CA | On Site | Dec 22 |
-| **[Cincinnati Symphony Orchestra](http://www.cincinnatisymphony.org/)** | **[Stage Tech & Operations Intern](https://jobright.ai/jobs/info/694a0ef27d506e3808f53f25?utm_campaign=1053&utm_source=git)** | Cincinnati,OH,US | On Site | Dec 22 |
-| ↳ | **[Artistic Operations Intern](https://jobright.ai/jobs/info/694a050063141d18845996f6?utm_campaign=1053&utm_source=git)** | Cincinnati,OH,US | On Site | Dec 22 |
+| **[Cincinnati Symphony Orchestra](http://www.cincinnatisymphony.org/)** | **[Artistic Operations Intern](https://jobright.ai/jobs/info/694a050063141d18845996f6?utm_campaign=1053&utm_source=git)** | Cincinnati,OH,US | On Site | Dec 22 |
+| ↳ | **[Stage Tech & Operations Intern](https://jobright.ai/jobs/info/694a0ef27d506e3808f53f25?utm_campaign=1053&utm_source=git)** | Cincinnati,OH,US | On Site | Dec 22 |
 | **[Condé Nast](http://www.condenast.com)** | **[Editorial Intern, Vogue Runway](https://jobright.ai/jobs/info/6949943f63141d188459311c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | ↳ | **[Strategic Content Initiatives Intern](https://jobright.ai/jobs/info/69499b597d506e3808f4c29f?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | ↳ | **[Editorial Intern, Vogue Runway](https://jobright.ai/jobs/info/694993d87d506e3808f4b9e6?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Dec 22 |
 | ↳ | **[Strategic Content Initiatives Intern](https://jobright.ai/jobs/info/694994f47d506e3808f4bb7e?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Dec 22 |
 | **[Aptiv](http://www.aptiv.com)** | **[Video Intern](https://jobright.ai/jobs/info/68dd8a99a125e75c422abd84?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Dec 22 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/694329b3dd382f5f56691b2c?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 22 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d712d0894705799a2f05b5?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692d72ec66796e3028f94c6f?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 22 |
 | **[KUTV 2News / KMYU](http://kutv.com/)** | **[Intern - Studio Crew](https://jobright.ai/jobs/info/6949261663141d188458d8c0?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | On Site | Dec 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/692d7d4f4c474121999d20bd?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Dec 22 |
@@ -114,10 +117,9 @@ For a complete list, click the following sortable link below:
 | **[NINETY8 Music Group](www.ninety8.info)** | **[Artist Manager (day to day) internship](https://jobright.ai/jobs/info/69485efa63141d18845818a1?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 21 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Medical Writing Operations Clinical Editor Intern](https://jobright.ai/jobs/info/690ecc9144146d3b6ec57ec5?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 21 |
 | ↳ | **[2026 Summer Internship Program: Medical Writing Operations Clinical Editor Intern](https://jobright.ai/jobs/info/690ec631221b890c27811972?utm_campaign=1053&utm_source=git)** | Boston, MA | Remote | Dec 21 |
-| **[KMBC 9](https://www.kmbc.com/#)** | **[Sports Intern](https://jobright.ai/jobs/info/68bb71b45f3832749186f309?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Dec 21 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/6947db1b7d506e3808f3302a?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 21 |
 | **[AAAS](http://www.aaas.org/)** | **[Diverse Voices in Science Journalism Intern](https://jobright.ai/jobs/info/690e733344146d3b6ec5458b?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 21 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/6947bba17d506e3808f316a0?utm_campaign=1053&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 21 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Literary Media](https://jobright.ai/jobs/info/6947bb137d506e3808f3149d?utm_campaign=1053&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 21 |
 | **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Video Editing & Studio Assistant Internship](https://jobright.ai/jobs/info/69476e96d1953b5d11c082fc?utm_campaign=1053&utm_source=git)** | New York County, NY | On Site | Dec 20 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Entertainment Journalist (Internship)](https://jobright.ai/jobs/info/6948ec59d1953b5d11c1fbcd?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Executive and Artistic Director, The Soraya](https://jobright.ai/jobs/info/69475d5463141d1884570b2e?utm_campaign=1053&utm_source=git)** | Northridge, CA | On Site | Dec 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sitar Arts Center](https://www.sitarartscenter.org/)** | **[Teen Mentor- Summer Regional Arts Internship](https://jobright.ai/jobs/info/6944a90250bbaf765056c0d6?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Dec 18 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[KMBC News Intern](https://jobright.ai/jobs/info/6944bf5e50bbaf765056d5d0?utm_campaign=1053&utm_source=git)** | 6455 Winchester Avenue, Kansas City, MO, 64133, US | On Site | Dec 18 |
 | **[Launch That](http://launchthat.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6945c74063141d188455555b?utm_campaign=1053&utm_source=git)** | Orlando, FL | Hybrid | Dec 18 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern 2026, The Bowery Presents](https://jobright.ai/jobs/info/69448d87dd382f5f566ab60d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 18 |
-| **[Kopari Beauty](https://www.koparibeauty.com/)** | **[Video Content & Editing Intern](https://jobright.ai/jobs/info/69448a72dd382f5f566ab379?utm_campaign=1053&utm_source=git)** | La Jolla Shores, CA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
