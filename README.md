@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694ec197ce13cd1056571560?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Remote | Dec 26 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Winter/Spring 2026)](https://jobright.ai/jobs/info/69324986f131d96e4845aa29?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
 | **[SPORTFIVE](http://www.sportfive.com/)** | **[INTERN (EXPERIENTIAL) - HOUSTON, TX](https://jobright.ai/jobs/info/692f7b7afa28370be26aaad4?utm_campaign=1053&utm_source=git)** | Houston, TX | On Site | Dec 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Spring 2026 Editorial Intern- Washington DC](https://jobright.ai/jobs/info/6932472ba0dde7020e2e5190?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 26 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Byrdie/InStyle Editorial](https://jobright.ai/jobs/info/694a0aa463141d188459a678?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Enterprise Creative Studio Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/694a015d63141d1884598fab?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Writing & Podcast Intern](https://jobright.ai/jobs/info/6949a1e1d1953b5d11c2a71a?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
-| **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, KDKA Pittsburgh (Summer 2026)](https://jobright.ai/jobs/info/694a3d8231c12007d3b90067?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 22 |
-| ↳ | **[CBS News Intern, KPIX San Francisco (Summer 2026)](https://jobright.ai/jobs/info/6949f8c063141d1884597c1a?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 22 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KPIX San Francisco (Summer 2026)](https://jobright.ai/jobs/info/6949f8c063141d1884597c1a?utm_campaign=1053&utm_source=git)** | San Francisco, CA | On Site | Dec 22 |
+| ↳ | **[Creative Services Intern, KDKA Pittsburgh (Summer 2026)](https://jobright.ai/jobs/info/694a3d8231c12007d3b90067?utm_campaign=1053&utm_source=git)** | Pittsburgh, PA | On Site | Dec 22 |
 | ↳ | **[CBS News Intern, KOVR Sacramento (Summer 2026)](https://jobright.ai/jobs/info/694a0ced7d506e3808f53a65?utm_campaign=1053&utm_source=git)** | West Sacramento, CA | On Site | Dec 22 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Events Intern](https://jobright.ai/jobs/info/694a111763141d188459b898?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
 | ↳ | **[Events Operations Intern - Part-Time](https://jobright.ai/jobs/info/694a11e97d506e3808f546df?utm_campaign=1053&utm_source=git)** | 19000 Grand Park Blvd, Westfield, IN 46074, USA | On Site | Dec 22 |
@@ -147,7 +148,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategic Content Initiatives Intern](https://jobright.ai/jobs/info/694994f47d506e3808f4bb7e?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Dec 22 |
 | ↳ | **[Editorial Intern, Vogue Runway](https://jobright.ai/jobs/info/694993d87d506e3808f4b9e6?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Dec 22 |
 | **[Aptiv](http://www.aptiv.com)** | **[Video Intern](https://jobright.ai/jobs/info/68dd8a99a125e75c422abd84?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Dec 22 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71459894705799a2f086a?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 22 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71524894705799a2f0983?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692d72ec66796e3028f94c6f?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 22 |
 | ↳ | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/692d7d4f4c474121999d20bd?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Dec 22 |
 | ↳ | **[LN Concerts, Talent Team Intern](https://jobright.ai/jobs/info/693169364c474121999edf25?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Dec 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Paramount Global](https://www.paramountglobal.com/)** | **[CBS Sports Production and Production Management Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6948fb1f63141d188458a628?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[U.S. Naval Institute](http://www.usni.org/)** | **[Paid Intern - Periodicals editor](https://jobright.ai/jobs/info/6948a8cd7d506e3808f3de57?utm_campaign=1053&utm_source=git)** | Annapolis,MD,US | Hybrid | Dec 21 |
 | ↳ | **[Paid Intern - Periodicals editor](https://jobright.ai/jobs/info/6948a0b163141d18845848f4?utm_campaign=1053&utm_source=git)** | Annapolis, MD | Hybrid | Dec 21 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Medical Writing Operations Clinical Editor Intern](https://jobright.ai/jobs/info/690ecc9144146d3b6ec57ec5?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
