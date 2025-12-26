@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694ef36429655e4dd65876f7?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT | Remote | Dec 26 |
+| **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern](https://jobright.ai/jobs/info/694eee34a2668b7f54522b25?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Wellness Editorial Intern - Spring 2026](https://jobright.ai/jobs/info/694edd78a2668b7f5452227e?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Assistant Assembly Video Editor - BYU-Pathway Worldwide (Full-Time Intern)](https://jobright.ai/jobs/info/694ec197ce13cd1056571560?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | Remote | Dec 26 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Editorial Intern, Center for Communications (Winter/Spring 2026)](https://jobright.ai/jobs/info/69324986f131d96e4845aa29?utm_campaign=1053&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
@@ -128,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[People Inc.](https://www.people.inc/)** | **[Summer Intern, Video Strategy](https://jobright.ai/jobs/info/694a03acc6f0e2546ceee93d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | ↳ | **[Summer Intern, PEOPLE - Editorial](https://jobright.ai/jobs/info/694a00d17d506e3808f51ae3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | ↳ | **[Summer Intern, Byrdie/InStyle Editorial](https://jobright.ai/jobs/info/6949f6c67d506e3808f5062b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, PEOPLE - Editorial](https://jobright.ai/jobs/info/694a0a8fc6f0e2546ceefbdc?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
-| ↳ | **[Summer Intern, Video Strategy](https://jobright.ai/jobs/info/6949f62e7d506e3808f505b3?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
+| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Video Strategy](https://jobright.ai/jobs/info/6949f62e7d506e3808f505b3?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
+| ↳ | **[Summer Intern, PEOPLE - Editorial](https://jobright.ai/jobs/info/694a0a8fc6f0e2546ceefbdc?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | ↳ | **[Summer Intern, Production](https://jobright.ai/jobs/info/694a039fc6f0e2546ceee90b?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | ↳ | **[Summer Intern, Byrdie/InStyle Editorial](https://jobright.ai/jobs/info/694a0aa463141d188459a678?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Enterprise Creative Studio Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/694a015d63141d1884598fab?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
@@ -142,19 +144,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mascot Program Intern](https://jobright.ai/jobs/info/694a11d1c6f0e2546cef0fa8?utm_campaign=1053&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
 | **[San Francisco 49ers](http://www.49ers.com)** | **[Intern, Live Events Creative](https://jobright.ai/jobs/info/69498f7263141d18845928b8?utm_campaign=1053&utm_source=git)** | Santa Clara, CA | On Site | Dec 22 |
 | ↳ | **[Intern, Creative Podcast & International Content](https://jobright.ai/jobs/info/69498ee663141d18845927d4?utm_campaign=1053&utm_source=git)** | Santa Clara, CA | On Site | Dec 22 |
-| **[Cincinnati Symphony Orchestra](http://www.cincinnatisymphony.org/)** | **[Artistic Operations Intern](https://jobright.ai/jobs/info/694a050063141d18845996f6?utm_campaign=1053&utm_source=git)** | Cincinnati,OH,US | On Site | Dec 22 |
-| ↳ | **[Stage Tech & Operations Intern](https://jobright.ai/jobs/info/694a0ef27d506e3808f53f25?utm_campaign=1053&utm_source=git)** | Cincinnati,OH,US | On Site | Dec 22 |
+| **[Cincinnati Symphony Orchestra](http://www.cincinnatisymphony.org/)** | **[Stage Tech & Operations Intern](https://jobright.ai/jobs/info/694a0ef27d506e3808f53f25?utm_campaign=1053&utm_source=git)** | Cincinnati,OH,US | On Site | Dec 22 |
+| ↳ | **[Artistic Operations Intern](https://jobright.ai/jobs/info/694a050063141d18845996f6?utm_campaign=1053&utm_source=git)** | Cincinnati,OH,US | On Site | Dec 22 |
 | **[Condé Nast](http://www.condenast.com)** | **[Strategic Content Initiatives Intern](https://jobright.ai/jobs/info/694c2c18d64ebf28d821d0d7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
 | ↳ | **[Editorial Intern, Vogue Runway](https://jobright.ai/jobs/info/6949943f63141d188459311c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| ↳ | **[Strategic Content Initiatives Intern](https://jobright.ai/jobs/info/694994f47d506e3808f4bb7e?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Dec 22 |
 | ↳ | **[Editorial Intern, Vogue Runway](https://jobright.ai/jobs/info/694993d87d506e3808f4b9e6?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Dec 22 |
+| ↳ | **[Strategic Content Initiatives Intern](https://jobright.ai/jobs/info/694994f47d506e3808f4bb7e?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Dec 22 |
 | **[Aptiv](http://www.aptiv.com)** | **[Video Intern](https://jobright.ai/jobs/info/68dd8a99a125e75c422abd84?utm_campaign=1053&utm_source=git)** | Troy, MI | On Site | Dec 22 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d713f1894705799a2f07dc?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 22 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/68d71459894705799a2f086a?utm_campaign=1053&utm_source=git)** | Savannah, GA | On Site | Dec 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Booking Intern](https://jobright.ai/jobs/info/692d72ec66796e3028f94c6f?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 22 |
 | ↳ | **[LN Concerts, Production Intern](https://jobright.ai/jobs/info/692d7d4f4c474121999d20bd?utm_campaign=1053&utm_source=git)** | Cambridge, MA | On Site | Dec 22 |
 | ↳ | **[LN Concerts, Talent Team Intern](https://jobright.ai/jobs/info/693169364c474121999edf25?utm_campaign=1053&utm_source=git)** | Columbia, SC | On Site | Dec 22 |
 | ↳ | **[LN Concerts, Social Project Intern](https://jobright.ai/jobs/info/692d76a966796e3028f94cf9?utm_campaign=1053&utm_source=git)** | Beverly Hills, CA | On Site | Dec 22 |
 | ↳ | **[LN Concerts, Talent Team Intern](https://jobright.ai/jobs/info/692d781f4c474121999d2009?utm_campaign=1053&utm_source=git)** | Charlotte, NC | On Site | Dec 22 |
-| **[Paramount Global](https://www.paramountglobal.com/)** | **[CBS Sports Production and Production Management Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6948fb1f63141d188458a628?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[U.S. Naval Institute](http://www.usni.org/)** | **[Paid Intern - Periodicals editor](https://jobright.ai/jobs/info/6948a8cd7d506e3808f3de57?utm_campaign=1053&utm_source=git)** | Annapolis,MD,US | Hybrid | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
