@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Advanced Research & Storytelling Intern- BBGTC](https://jobright.ai/jobs/info/68c3398d63829b0a8a500fe2?utm_campaign=1053&utm_source=git)** | Edgewater, FL | On Site | Dec 27 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, CBS Chicago (Summer 2026)](https://jobright.ai/jobs/info/6944c9eaa7227b3ece6672f8?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
+| **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Corporate Marketing & Communications Video Editor Intern](https://jobright.ai/jobs/info/691694a56f36db06ef057fea?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 27 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, WBBM Chicago (Summer 2026)](https://jobright.ai/jobs/info/6944b5dfa7227b3ece666159?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
+| **[Paramount](https://www.paramount.com)** | **[TV Programming Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6931761b3b6d6f265f4e9f93?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Hybrid Summer Internship - Line Producer - Media](https://jobright.ai/jobs/info/691d52380b7dff73415027c8?utm_campaign=1053&utm_source=git)** | Nashville, TN | Hybrid | Dec 27 |
 | ↳ | **[Remote Summer Internship - Production Editor - Kids' Ministry Publishing](https://jobright.ai/jobs/info/691d51a77481340785ed667d?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 27 |
 | ↳ | **[Remote Summer Internship - Women's Events](https://jobright.ai/jobs/info/691c3abfff70244984166e32?utm_campaign=1053&utm_source=git)** | United States | Remote | Dec 27 |
@@ -94,7 +99,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Development Intern, Primetime/Adult Animation , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694bb7b15d731211347039da?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 24 |
 | ↳ | **[Casting Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694bb6771a572a617dde03d5?utm_campaign=1053&utm_source=git)** | Culver City, CA | On Site | Dec 24 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Translation & Media Production Intern](https://jobright.ai/jobs/info/6920d1233f782d2f1afcbce1?utm_campaign=1053&utm_source=git)** | Greenwich, CT | On Site | Dec 24 |
-| **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, CBS Chicago (Summer 2026)](https://jobright.ai/jobs/info/6944c9eaa7227b3ece6672f8?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[Wholistic Vibes Wellness LLC](www.wholisticvibeswellness.com)** | **[WVW Intern & Volunteer Opportunities](https://jobright.ai/jobs/info/694b88621a572a617dddecf2?utm_campaign=1053&utm_source=git)** | DC-Baltimore Area | On Site | Dec 23 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KCAL Los Angeles/Studio City (Summer 2026)](https://jobright.ai/jobs/info/694b55305d731211346fdf78?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 23 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[KCMO-FM Morning Show Intern](https://jobright.ai/jobs/info/694b72c11a572a617dddc8d0?utm_campaign=1053&utm_source=git)** | Kansas City, MO | On Site | Dec 23 |
@@ -103,8 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Copy Editor (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/694b771c1a572a617dddd2d1?utm_campaign=1053&utm_source=git)** | Chautauqua, NY | On Site | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Creative Development Intern, Primetime/Adult Animation , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694b489e3019f50a4fe662e4?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 23 |
 | **[Paramount](https://www.paramount.com)** | **[Paramount VFX Internship (Summer 2026, In Person - LA)](https://jobright.ai/jobs/info/694b41ef4b53a1551f950c91?utm_campaign=1053&utm_source=git)** | Los Angeles, CA | On Site | Dec 23 |
-| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, WBBM Chicago (Summer 2026)](https://jobright.ai/jobs/info/6944b5dfa7227b3ece666159?utm_campaign=1053&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
-| ↳ | **[CBS News Intern, KTVT Dallas/Ft Worth (Summer 2026)](https://jobright.ai/jobs/info/6944b84894730b739877fc03?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 23 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[CBS News Intern, KTVT Dallas/Ft Worth (Summer 2026)](https://jobright.ai/jobs/info/6944b84894730b739877fc03?utm_campaign=1053&utm_source=git)** | Fort Worth, TX | On Site | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Production Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694b5b755d731211346fe329?utm_campaign=1053&utm_source=git)** | Culver City, California, USA | On Site | Dec 23 |
 | **[Grimsby Town Football Club](http://www.gtfc.co.uk)** | **[Vacancy – Videographer (Student Placement)](https://jobright.ai/jobs/info/694b27084b53a1551f94e80c?utm_campaign=1053&utm_source=git)** | Grimsby, Ontario, Canada | On Site | Dec 23 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Multimedia Internship (Graduate or Undergraduate)](https://jobright.ai/jobs/info/690be134d046ab6061ce8e16?utm_campaign=1053&utm_source=git)** | Washington, DC | On Site | Dec 23 |
@@ -138,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[People Inc.](https://www.people.inc/)** | **[Summer Intern, Video Strategy](https://jobright.ai/jobs/info/694a03acc6f0e2546ceee93d?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | ↳ | **[Summer Intern, PEOPLE - Editorial](https://jobright.ai/jobs/info/694a00d17d506e3808f51ae3?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | ↳ | **[Summer Intern, Byrdie/InStyle Editorial](https://jobright.ai/jobs/info/6949f6c67d506e3808f5062b?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, PEOPLE - Editorial](https://jobright.ai/jobs/info/694a0a8fc6f0e2546ceefbdc?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
-| ↳ | **[Summer Intern, Video Strategy](https://jobright.ai/jobs/info/6949f62e7d506e3808f505b3?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
+| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Video Strategy](https://jobright.ai/jobs/info/6949f62e7d506e3808f505b3?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
+| ↳ | **[Summer Intern, PEOPLE - Editorial](https://jobright.ai/jobs/info/694a0a8fc6f0e2546ceefbdc?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | ↳ | **[Summer Intern, Production](https://jobright.ai/jobs/info/694a039fc6f0e2546ceee90b?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | ↳ | **[Summer Intern, Byrdie/InStyle Editorial](https://jobright.ai/jobs/info/694a0aa463141d188459a678?utm_campaign=1053&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Enterprise Creative Studio Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/694a015d63141d1884598fab?utm_campaign=1053&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Creative Podcast & International Content](https://jobright.ai/jobs/info/69498ee663141d18845927d4?utm_campaign=1053&utm_source=git)** | Santa Clara, CA | On Site | Dec 22 |
 | **[Cincinnati Symphony Orchestra](http://www.cincinnatisymphony.org/)** | **[Stage Tech & Operations Intern](https://jobright.ai/jobs/info/694a0ef27d506e3808f53f25?utm_campaign=1053&utm_source=git)** | Cincinnati,OH,US | On Site | Dec 22 |
 | ↳ | **[Artistic Operations Intern](https://jobright.ai/jobs/info/694a050063141d18845996f6?utm_campaign=1053&utm_source=git)** | Cincinnati,OH,US | On Site | Dec 22 |
-| **[Condé Nast](http://www.condenast.com)** | **[Strategic Content Initiatives Intern](https://jobright.ai/jobs/info/694c2c18d64ebf28d821d0d7?utm_campaign=1053&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
-| ↳ | **[Editorial Intern, Vogue Runway](https://jobright.ai/jobs/info/6949943f63141d188459311c?utm_campaign=1053&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| ↳ | **[Editorial Intern, Vogue Runway](https://jobright.ai/jobs/info/694993d87d506e3808f4b9e6?utm_campaign=1053&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
