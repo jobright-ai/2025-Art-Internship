@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Their Story is Our Story](https://tsosrefugees.org)** | **[Intern](https://jobright.ai/jobs/info/6a9e0d662c964816f65eb932?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 06 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Data Journalist](https://jobright.ai/jobs/info/6a9082627c32860d14cf9c70?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Sep 06 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[NEJM Editorial Fellow](https://jobright.ai/jobs/info/6a55f863392ae330b30e860d?utm_campaign=1053&utm_source=git)** | Boston, MA, United States | On Site | Sep 06 |
 | **[City Explorer - Live Streaming Hub](http://cityexplorer.live)** | **[Remote Live Creator Internship — Broadcast Your Part of the USA](https://jobright.ai/jobs/info/6a9da6232c964816f65eb2ee?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 06 |
@@ -97,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 03 |
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Community & Fan Engagement Intern Fall 2026](https://jobright.ai/jobs/info/6a997bd2040e5c3d075967d2?utm_campaign=1053&utm_source=git)** | Worcester, MA, United States | On Site | Sep 03 |
-| **[Nothing Bundt Cakes](http://www.nothingbundtcakes.com)** | **[Internship with NBC as a Hourly Manager](https://jobright.ai/jobs/info/6a988fbbdd171c7285792fa9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 03 |
+| **[Nothing Bundt Cakes](http://www.nothingbundtcakes.com)** | **[Internship with NBC as a Hourly Manager](https://jobright.ai/jobs/info/6a9886c5def18223c854fe51?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 03 |
 | **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Sep 03 |
 | **[Deseret News](http://www.deseretnews.com/)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6a99eb7a1388387060591646?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: L&D Writer](https://jobright.ai/jobs/info/6a9a55f790a313642c655487?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 02 |
@@ -144,6 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid News Intern](https://jobright.ai/jobs/info/69b1c6a4548f140066e79343?utm_campaign=1053&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
 | **[Hearst Television](http://www.hearsttelevision.com)** | **[Intern (Fall)](https://jobright.ai/jobs/info/6a1d794e3e538a28c2049c97?utm_campaign=1053&utm_source=git)** | 3 Television Circle, Sacramento, CA, 95814, US | On Site | Aug 31 |
 | **[University of Utah](http://utah.edu)** | **[Intern, Events](https://jobright.ai/jobs/info/6a9d455a75edfa11b470f325?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 31 |
-| **[ASM Global](https://asmglobal.com/)** | **[Hospitality Intern - The Meadows Music Theater](https://jobright.ai/jobs/info/6a510fcabf63b66c79978842?utm_campaign=1053&utm_source=git)** | Hartford, CT, United States | On Site | Aug 31 |
-| **[Walton Arts Center and Walmart AMP](http://waltonartscenter.org)** | **[Events-Hospitality Internship](https://jobright.ai/jobs/info/6a84cacfd34f700f87fbb19a?utm_campaign=1053&utm_source=git)** | Fayetteville, North Carolina, United States | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
