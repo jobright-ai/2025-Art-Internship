@@ -131,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[SXSW](https://www.sxsw.com/pitch)** | **[(I) Film & TV Submissions Intern](https://jobright.ai/jobs/info/6a971f24d13b4819f39df39f?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Sep 01 |
 | **[Nimiopere Film Editorial](https://nimiopere.com)** | **[Intern](https://jobright.ai/jobs/info/6a973318e4e60e4b8da5c9c8?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 01 |
 | **[Nikon Inc.](https://www.nikonusa.com/)** | **[Video Editor & Production Intern](https://jobright.ai/jobs/info/6a9700f2e4e60e4b8da5b5e0?utm_campaign=1053&utm_source=git)** | Melville, NY, United States | On Site | Sep 01 |
-| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a5adf5e856af468ab00a4c6?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6a96dda0e4e60e4b8da5a58d?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Sep 01 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[AEG](http://www.aegworldwide.com)** | **[Internship- Touring](https://jobright.ai/jobs/info/6a7a225fbb6ca93ae561a169?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
@@ -141,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Dept Intern - Pulse Magazine](https://jobright.ai/jobs/info/6a95fe78c8763a3a87ffdb66?utm_campaign=1053&utm_source=git)** | Lubbock, TX, United States | On Site | Aug 31 |
 | **[Breaking News ABA](https://breakingnewsaba.com/)** | **[Journalist Intern – ABA Industry News](https://jobright.ai/jobs/info/6a95f1304c22023a079370b3?utm_campaign=1053&utm_source=git)** | Lake Forest, IL, United States | On Site | Aug 31 |
 | **[Ameritas](http://www.ameritas.com)** | **[Videography Intern](https://jobright.ai/jobs/info/6a95eec1cabc9f6703e1b0fa?utm_campaign=1053&utm_source=git)** | Lincoln, NE, United States | Hybrid | Aug 31 |
-| **[The Washington Post](https://www.washingtonpost.com)** | **[Newsroom Summer Internship Program 2027: Content Strategy Editors](https://jobright.ai/jobs/info/6a9082900bd89e205d24abaa?utm_campaign=1053&utm_source=git)** | Washington Township, District of Columbia, United States | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
