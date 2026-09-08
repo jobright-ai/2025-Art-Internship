@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Selective Insurance](https://www.selective.com/)** | **[MUSIC Underwriting Summer Internship – Dresher, PA or Scottsdale, AZ (Hybrid)](https://jobright.ai/jobs/info/6a9f9425352f093fc756eaba?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ, United States | Hybrid | Sep 07 |
 | **[adyn](https://www.adyn.com/)** | **[DIGITAL STORYTELLING INTERN](https://jobright.ai/jobs/info/6a9eea38a7ba386c5d673d8a?utm_campaign=1053&utm_source=git)** | Seattle, WA, United States | Remote | Sep 07 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro Bono :Editor of "Men's" Content in Felix](https://jobright.ai/jobs/info/6a9ee4d068f82b403673bba1?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 07 |
@@ -130,8 +131,7 @@ For a complete list, click the following sortable link below:
 | **[SXSW](https://www.sxsw.com/pitch)** | **[(I) Film & TV Submissions Intern](https://jobright.ai/jobs/info/6a971f24d13b4819f39df39f?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Sep 01 |
 | **[Nimiopere Film Editorial](https://nimiopere.com)** | **[Intern](https://jobright.ai/jobs/info/6a973318e4e60e4b8da5c9c8?utm_campaign=1053&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 01 |
 | **[Nikon Inc.](https://www.nikonusa.com/)** | **[Video Editor & Production Intern](https://jobright.ai/jobs/info/6a9700f2e4e60e4b8da5b5e0?utm_campaign=1053&utm_source=git)** | Melville, NY, United States | On Site | Sep 01 |
-| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a5adf5e856af468ab00a4c6?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Editorial Intern](https://jobright.ai/jobs/info/6a2901a32d6c332ee52e9499?utm_campaign=1053&utm_source=git)** | New York | On Site | Sep 01 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Sports Intern](https://jobright.ai/jobs/info/6a96dda0e4e60e4b8da5a58d?utm_campaign=1053&utm_source=git)** | Needham, MA, United States | On Site | Sep 01 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a51e53ebf63b66c7997e975?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
-| **[AEG](http://www.aegworldwide.com)** | **[Internship- Touring](https://jobright.ai/jobs/info/6a7a225fbb6ca93ae561a169?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
