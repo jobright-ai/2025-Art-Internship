@@ -126,6 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Osborne, Francis & Pettis](https://www.realtoughlawyers.com)** | **[Podcast Editor Intern](https://jobright.ai/jobs/info/6a9840b7c8ed473c5c762d6c?utm_campaign=1053&utm_source=git)** | Orlando, FL, United States | On Site | Sep 02 |
 | **[Detroit PBS](http://www.dptv.org/home/)** | **[Production and Operations Intern – Fall 2026 (Unpaid)](https://jobright.ai/jobs/info/6a9838b7af954907d6571fe9?utm_campaign=1053&utm_source=git)** | Wixom, MI, United States | Hybrid | Sep 02 |
 | **[Winsupply](http://www.winsupply.com)** | **[Videographer Intern](https://jobright.ai/jobs/info/6a983214af954907d6571cf6?utm_campaign=1053&utm_source=git)** | Moraine, OH, United States | On Site | Sep 02 |
-| **[Syracuse Crunch](https://syracusecrunch.com/)** | **[VIDEOGRAPHY INTERN](https://jobright.ai/jobs/info/6a97fe71add00305a7651d19?utm_campaign=1053&utm_source=git)** | Springfield, MA, United States | On Site | Sep 02 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6a7a24e8ab1385611f8fd958?utm_campaign=1053&utm_source=git)** | Conway, SC, United States | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
