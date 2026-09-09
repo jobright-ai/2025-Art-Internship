@@ -125,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Speed Art Museum](https://www.speedmuseum.org)** | **[Private Events Intern](https://jobright.ai/jobs/info/6a98fc9711f73b6462c8fd91?utm_campaign=1053&utm_source=git)** | Louisville, KY, United States | On Site | Sep 02 |
 | **[tms](https://themarketingstore.com)** | **[Production Intern Job Details / Morgan Street Holdings](https://jobright.ai/jobs/info/6a99989a040e5c3d0759742c?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 02 |
 | **[Fair Observer](http://www.fairobserver.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a994d4f138838706058d506?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Sep 02 |
-| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Production Intern](https://jobright.ai/jobs/info/6a988552c8ed473c5c76483d?utm_campaign=1053&utm_source=git)** | Carmel, IN, United States | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
