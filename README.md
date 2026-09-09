@@ -125,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Fair Observer](http://www.fairobserver.com)** | **[Video Intern](https://jobright.ai/jobs/info/6a994d4f138838706058d506?utm_campaign=1053&utm_source=git)** | Washington, District of Columbia, United States | On Site | Sep 02 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Production Intern](https://jobright.ai/jobs/info/6a988552c8ed473c5c76483d?utm_campaign=1053&utm_source=git)** | Carmel, IN, United States | On Site | Sep 02 |
 | **[Versaunt](https://www.versaunt.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a99d4ff551435518ebf1720?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 02 |
-| **[New Holland Brewing Company](http://newhollandbrew.com)** | **[Events & Catering Intern](https://jobright.ai/jobs/info/6a98699483fc6333576315c7?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
