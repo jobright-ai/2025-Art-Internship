@@ -126,6 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Production Intern](https://jobright.ai/jobs/info/6a988552c8ed473c5c76483d?utm_campaign=1053&utm_source=git)** | Carmel, IN, United States | On Site | Sep 02 |
 | **[Versaunt](https://www.versaunt.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a99d4ff551435518ebf1720?utm_campaign=1053&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 02 |
 | **[New Holland Brewing Company](http://newhollandbrew.com)** | **[Events & Catering Intern](https://jobright.ai/jobs/info/6a98699483fc6333576315c7?utm_campaign=1053&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 02 |
-| **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Videographer](https://jobright.ai/jobs/info/6a98663eaf954907d657320e?utm_campaign=1053&utm_source=git)** | Erlanger, KY, United States | On Site | Sep 02 |
-| ↳ | **[Internship - Writer](https://jobright.ai/jobs/info/6a986639def18223c854f341?utm_campaign=1053&utm_source=git)** | Erlanger, KY, United States | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
