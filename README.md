@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Jacksonville Icemen Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6aa09c513b5aa83237b0a2f4?utm_campaign=1053&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 08 |
+| **[Omaha Productions](https://omahaproductions.com)** | **[Development Intern](https://jobright.ai/jobs/info/6aa0985fdbc0e60e37e0ea82?utm_campaign=1053&utm_source=git)** | United States | Remote | Sep 08 |
+| **[SXSW](https://www.sxsw.com/pitch)** | **[(I) Exhibitions Support Intern](https://jobright.ai/jobs/info/6a8e005e47679c68bf5e6187?utm_campaign=1053&utm_source=git)** | Austin, TX, United States | On Site | Sep 08 |
+| **[Roc Nation](http://rocnation.com)** | **[Fall 2026 Intern - Content & Podcasts (Paid)](https://jobright.ai/jobs/info/6aa08f44a2266b538d231186?utm_campaign=1053&utm_source=git)** | New York, NY, United States | On Site | Sep 08 |
+| ↳ | **[Fall 2026 Intern - Artist Management (Paid)](https://jobright.ai/jobs/info/6aa08f27ea127c3794697d6d?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 08 |
+| ↳ | **[Fall 2026 Intern - Music Publishing (Paid)](https://jobright.ai/jobs/info/6aa08f04500b01124c779c58?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 08 |
 | **[NoGood](https://nogood.io)** | **[Social Content - Intern](https://jobright.ai/jobs/info/6a605172193c4d692385dc82?utm_campaign=1053&utm_source=git)** | New York, NY, United States | Hybrid | Sep 08 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[BROADCAST AND COMMUNICATIONS INTERNSHIP](https://jobright.ai/jobs/info/6aa06a723b5aa83237b08efa?utm_campaign=1053&utm_source=git)** | Allen, TX, United States | On Site | Sep 08 |
 | **[HNTB](http://www.hntb.com/)** | **[Digital Experience Intern - Summer 2027](https://jobright.ai/jobs/info/6aa056d0500b01124c7785e1?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 08 |
@@ -70,6 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Film/Video Editor](https://jobright.ai/jobs/info/6a584c973330ca6f993c3e99?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 07 |
 | **[Selective Insurance](https://www.selective.com/)** | **[MUSIC Underwriting Summer Internship – Dresher, PA or Scottsdale, AZ (Hybrid)](https://jobright.ai/jobs/info/6a9f9425352f093fc756eaba?utm_campaign=1053&utm_source=git)** | Scottsdale, AZ, United States | Hybrid | Sep 07 |
 | **[United Launch Alliance (ULA)](http://www.ulalaunch.com)** | **[Video Editing Internship Summer 2027](https://jobright.ai/jobs/info/6aa040d7500b01124c777d13?utm_campaign=1053&utm_source=git)** | Centennial, CO, United States | On Site | Sep 07 |
+| **[Roc Nation](http://rocnation.com)** | **[Fall 2026 Intern - Music Publishing (Paid)](https://jobright.ai/jobs/info/6aa08f68a2266b538d23119e?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 07 |
+| ↳ | **[Fall 2026 Intern - Artist Management (Paid)](https://jobright.ai/jobs/info/6aa08f5ca2266b538d231191?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 07 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern:Pro Bono :Editor of "Men's" Content in Felix](https://jobright.ai/jobs/info/6a9ee4d068f82b403673bba1?utm_campaign=1053&utm_source=git)** | Chicago, IL, United States | On Site | Sep 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a9674f7455eaf6a08c17881?utm_campaign=1053&utm_source=git)** | Peoria, IL, United States | On Site | Sep 07 |
 | ↳ | **[Unpaid News Intern](https://jobright.ai/jobs/info/6972b01a9b83b424830eb8a4?utm_campaign=1053&utm_source=git)** | IN-Indianapolis;6910 Network Place (Tribune-WXIN/WTTV) | On Site | Sep 07 |
@@ -107,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Film & Video Internship](https://jobright.ai/jobs/info/6a5997544da96a42cfd91dd0?utm_campaign=1053&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid News Producer Intern](https://jobright.ai/jobs/info/6a7dc082e2030208f2765d0c?utm_campaign=1053&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 03 |
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Community & Fan Engagement Intern Fall 2026](https://jobright.ai/jobs/info/6a997bd2040e5c3d075967d2?utm_campaign=1053&utm_source=git)** | Worcester, MA, United States | On Site | Sep 03 |
-| **[Nothing Bundt Cakes](http://www.nothingbundtcakes.com)** | **[Internship with NBC as a Hourly Manager](https://jobright.ai/jobs/info/6a988fbbdd171c7285792fa9?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 03 |
+| **[Nothing Bundt Cakes](http://www.nothingbundtcakes.com)** | **[Internship with NBC as a Hourly Manager](https://jobright.ai/jobs/info/6a9886c5def18223c854fe51?utm_campaign=1053&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 03 |
 | **[Toyon Research Corporation](http://toyon.com)** | **[Video Labeling Intern](https://jobright.ai/jobs/info/6a9902cadd171c7285793716?utm_campaign=1053&utm_source=git)** | Goleta, CA, United States | On Site | Sep 03 |
 | **[Deseret News](http://www.deseretnews.com/)** | **[Church News Writer - Fall 2026 Internship](https://jobright.ai/jobs/info/6a99eb7a1388387060591646?utm_campaign=1053&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: L&D Writer](https://jobright.ai/jobs/info/6a9a55f790a313642c655487?utm_campaign=1053&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 02 |
